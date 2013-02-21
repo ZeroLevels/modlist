@@ -1,0 +1,18 @@
+body			{text-align:center;
+				background-image:url('../images/mcf_1_3rd.png');}
+			
+p				{color:white;
+				font-size: 18px;}
+				
+#main			{width:90%;
+				height:100%;
+				background:#E8EFF4;}
+				
+p.n				{text-shadow: 1px 1px 10px gray;}
+			
+p.select		{background-color:black;}
+
+span.section		{font-size: 36px;
+				font-weight:bold;}
+				
+span.selection	{font-size: 24px;}

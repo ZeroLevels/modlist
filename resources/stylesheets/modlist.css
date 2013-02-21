@@ -1,0 +1,85 @@
+body		{background-image:url('../../resources/images/mcf_1_3rd.png');
+			font-family:verdana,arial;
+			font-size:13px;
+			margin:0 auto;}
+			
+th,td		{padding:5px;}
+
+tr			{-moz-transition:.25s;
+			-webkit-transition:.25s;
+			transition:.25s;}
+
+tr:hover		{background-color:#B7CDDD;}
+
+th			{background-color:black;
+			color:white;}
+
+table		{background-color:#E8EFF4;
+			border:1px solid #B8D1E6;}
+			
+table th		{border: 3px double white}
+
+td.fc		{color:#008000;
+			text-decoration:underline;}
+td.nfc		{color:#FF0000;
+			text-decoration:underline;}
+td.na		{color:black;
+			text-decoration:underline;}
+
+p			{background-color:black;
+			font-weight:bold;
+			color:white;
+			padding:3px;}
+			
+a			{color:#3072B3;
+			text-decoration:underline;
+			
+			/*transitioning code*/
+			-moz-transition:.25s;
+			-webkit-transition:.25s;
+			transition:.25s;}
+			
+a.ns		{color:#3072B3;}
+a.ns:hover	{color:#3072B3;
+			text-decoration:underline;}
+			
+a:hover		{color:black;
+			text-decoration:none;
+			font-style:italic;}
+			
+.desctt 		{background:transparent url(../images/desc.png) center center no-repeat;
+			color: #3072B3;
+			outline: none;
+			text-decoration: underline;
+			position: relative;
+			-moz-transition:.5s;
+			-webkit-transition:.5s;
+			transition:.5s;}
+			
+.desctt span {
+	margin-left: -999em;
+	position: absolute;
+}
+
+.desctt:hover		{background:transparent url(../images/hdesc.png) center center no-repeat;}
+
+.desctt:hover span {
+	border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
+	box-shadow: 5px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px rgba(0, 0, 0, 0.1);
+	font-family: Calibri, Tahoma, Geneva, sans-serif;
+	position: absolute; right: 5.3em; bottom: 1em z-index: 99;
+	margin-left: 0; width: 250px;
+}
+.desctt:hover img {
+	border: 0; margin: -10px 0 0 -55px;
+	float: left; position: absolute;
+}
+.desctt:hover em {
+	font-family: Candara, Tahoma, Geneva, sans-serif; font-size: 1.2em; font-weight: bold;
+	display: block; padding: 0.2em 0 0.6em 0;}
+	
+.tt { padding: 0.8em 1em; background: black; border: 3px double white; color:white; font-weight:bold;}
+
+input		{border:solid 2px darkgray;}
+
+.searchEmpty	{color: lightgray;} /*This element borrowed from Vattic alongside his javascript code*/
