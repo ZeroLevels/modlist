@@ -1,0 +1,33 @@
+table.nav			{background-color:black;
+					border:1px solid white;
+					width:500px;
+					color:white;
+					text-align:center;
+					border-collapse:collapse;}
+					
+.nav a				{text-decoration:none;
+					color:white;
+					-webkit-transition:.5s;
+					transition:.5s;}
+
+.nav a:hover			{text-shadow: 0px 0px 1pc black;
+					color:black;}
+					
+.nav tr:hover		{background-color:black;}
+					
+.nav td.nh			{border:1px solid white;
+					border-top:none;
+					border-bottom:none;
+					-webkit-transition:.5s;
+					transition:.5s;}
+					
+.nav td.nh:hover		{background-color:lightgray;
+					color: black;}
+
+.nav td.nh:hover a		{color: black;
+						font-style:normal;}
+
+.nav td.h			{background-color:darkgray;
+					color:black;
+					font-weight:bold;
+					text-shadow: 0px 0px 1pc white;}

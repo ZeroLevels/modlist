@@ -1,3 +1,14 @@
+(February/22/2013)
+	*Changed "Buildcraft"'s link to the front page. I accidentally had it linked to a specific release thread which was outdated.
+	+Added "MusicCraft"
+	+Added "Particle Decoration Mod"
+	+Added "Statues"
+	+Added "[Thaumcraft 3] Essentia Everything"
+	+Added "The Eternal Frost"
+	+Added "Wasteland Mod"
+	+Added "Xeno's Reliquary"
+	+Added "Forgotten Nature"
+
 (February/21/2013)
 	/Changed "Forge Required" to its own color for easier at-a-glance identification
 	-Removed "Chickenbones Mods" (Replaced with the following 4 mods)

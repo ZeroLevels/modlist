@@ -3,7 +3,7 @@ body		{background-image:url('../../resources/images/mcf_1_3rd.png');
 			font-size:13px;
 			margin:0 auto;}
 			
-th,td		{padding:5px;}
+th,td		{padding:3px;}
 
 tr			{-moz-transition:.25s;
 			-webkit-transition:.25s;
@@ -18,6 +18,15 @@ table		{background-color:#E8EFF4;
 			border:1px solid #B8D1E6;}
 			
 table th		{border: 3px double white}
+
+input		{border:solid 2px darkgray;}
+
+/*Stuff to center specific columns*/
+table.display td:nth-of-type(2) { text-align: center; }
+table.display td:nth-of-type(3) { text-align: center; }
+table.display td:nth-of-type(4) { text-align: center; }
+table.display td:nth-of-type(5) { text-align: center; }
+/*/*/
 
 td.fr		{color:#0451FF;
 			text-decoration:underline;}
@@ -48,7 +57,8 @@ a.ns:hover	{color:#3072B3;
 a:hover		{color:black;
 			text-decoration:none;
 			font-style:italic;}
-			
+
+/*Code for descriptions*/
 .desctt 		{background:transparent url(../images/desc.png) center center no-repeat;
 			color: #3072B3;
 			outline: none;
@@ -81,7 +91,34 @@ a:hover		{color:black;
 	display: block; padding: 0.2em 0 0.6em 0;}
 	
 .tt { padding: 0.8em 1em; background: black; border: 3px double white; color:white; font-weight:bold;}
-
-input		{border:solid 2px darkgray;}
+/*/*/
 
 .searchEmpty	{color: lightgray;} /*This element borrowed from Vattic alongside his javascript code*/
+
+
+/*A footer in place to display a mod count*/
+.footer			{border:3px double white; border-bottom:none; border-right:none;
+				background-color: black;
+				height: 14px; min-width:110px;
+				text-align: center; font-size:12px; color:white; font-family:Verdana;
+				padding-top: 0px;
+				position:fixed;
+				right: 0px;
+				bottom: 0px;}
+
+.footer:hover	{width:220px;
+				height: 26px;
+				font-size:24px;}
+/*/*/
+
+
+
+/*CSS for the credits page*/
+.credits td	{border:1px solid white;}
+.credits tr:hover	{background-color:#28292a;}
+
+tr.citric:hover		{background-color:lightgray; color:black; text-shadow: 0px 0px 1pc white;}
+
+.credits a:hover		{color:lightgray;
+			text-decoration:none;
+			font-style:italic;}

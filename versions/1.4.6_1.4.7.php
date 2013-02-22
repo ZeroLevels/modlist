@@ -3,18 +3,31 @@
 
   <head>
     <meta charset="utf-8">
-    <title>Mod List</title>
+    <title>Mod List - 1.4.6/1.4.7</title>
 		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="../resources/js/tableSearch.js">/*Function that searches the main list*/</script>
-		<script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
-	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/modlist.css" media="screen" />	
+		<script type="text/javascript" src="../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
+	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/modlist.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/nav.css" media="screen" />
   </head>
   
   <body>
 		<center><p><img src="../resources/images/1.4.6_1.4.7.png" width="216" height="42"/><br/><span style="font-size:200%">Last Updated: <?php $content = file('changelog.txt'); echo $content[0]; ?></span><br/><a href="changelog.txt" class="ns">Click here</a> to view the changelog.</p>
-		<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>. Make sure to search for it here first.</p>
-		<p>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
+		
+<table class="nav">
+	<tr>
+		<td class="nh"><a href="../index.php">Home</td>
+		<td class="h">Current List</td>
+		<td class="nh"><a href="../credits/">Credits</a></td>
+	</tr>
+</table>
+		
+		<br>
+		<hr width="80%" size="6" noshade>
+		
+		<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>. Make sure to search for it here first.<br/><br/>
+		If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
 	<table cellspacing="0" width="85%" class="display" id="example">
+	
 		<thead>
 		<th>Mod Name<br/><input style="display:none" class="searchEmpty" /></th>
 		<th style="min-width:50px">Info</th>
@@ -146,7 +159,7 @@
 			<tr><td><a href="http://bit.ly/WmtGCf">bspkrs' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bspkrs</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/TEXj4G">Buck's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>OGZxBUCK</td> <td><b>N/A</b></td> <td class="na">N/A</td></tr>
 			<tr><td><a href="http://bit.ly/VDYvG4">BuddyCam</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>romibi</td> <td><b>SMP</b></td> <td class="fc">Forge Compatible</td></tr>
-			<tr><td><a href="http://bit.ly/UKr1be">Buildcraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SirSengir</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+			<tr><td><a href="http://bit.ly/XpjnSz">Buildcraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SirSengir</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/VHtr5V">[Buildcraft] Additional Buildcraft Objects</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Flow86</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/SdUdXc">[Buildcraft] Additional Pipes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>tcooc</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/ZtGops">[Buildcraft] APS</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>seph86</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
@@ -432,6 +445,16 @@
 			<tr><td><a href="http://bit.ly/UAenLP">[Forestry] ThaumicBees</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MysteriousAges</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/XCWcpI">Forge</a> [<a href="http://bit.ly/TWKJg0">mirror</a>] (API)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>LexManos</td> <td><b>Universal</b></td> <td class="fr">Forge Itself</td></tr>
 			<tr><td><a href="http://bit.ly/VeIOSL">ForgeEssentials</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ForgeEssentials</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--Forgotten Nature-->
+			<tr>
+				<td><a href="http://bit.ly/Yi7A6B">Forgotten Nature</a></td> 
+				<td class="desctt"><span class="tt">Adds many nature-related objects and decorations to the game, including new biomes, trees (like fruit trees), woods, flowers, marble, and glass.</span></td> 
+				<td>Nightshade_Proleath</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/10Uq167">FriendsOverlay</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Michi302</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/VFCdUm">Fricative_Melon's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Fricative_Melon</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
 			
@@ -784,6 +807,16 @@
 			</tr>
 			
 			<tr><td><a href="http://bit.ly/UR753N">MumbleLink</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>zsawyer</td> <td><b>SSP SMP LAN</b></td> <td class="fc">Forge Compatible</td></tr>
+			
+			<!--MusicCraft-->
+			<tr>
+				<td><a href="http://bit.ly/12UCRxu">MusicCraft</a></td> 
+				<td class="desctt"><span class="tt">Adds musical instruments to the game.</span></td> 
+				<td>Ktos94852</td> 
+				<td><b>SSP</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/USU7lo">Music Timer Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cycloneblaze</td> <td><b>Clientside Mod</b></td> <td class="nfc">Not Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/RBUH83">Mutant Creatures</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>thehippomaster21</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/XD8kXC">myBiome Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>krimin_killr21</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
@@ -835,6 +868,15 @@
 			<tr><td><a href="http://bit.ly/RQA8Vq">Painter's Flower Pot</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mineshopper</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/TTx4X0">PaintGun Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>rich1051414</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/VFL2O4">Pam's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MatrexsVigil</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--Particle Decoration Mod-->
+			<tr>
+				<td><a href="http://bit.ly/VXVTWj">Particle Decoration Mod</a></td> 
+				<td class="desctt"><span class="tt">Adds a bunch of particle boxes which spread different types of particles into the air.</span></td> 
+				<td>SanAndreasP</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
 			
 			<!--Pet Bat-->
 			<tr>
@@ -1025,6 +1067,16 @@
 			</tr>
 			
 			<tr><td><a href="http://bit.ly/UWzhRL">StarMod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>mrgreaper</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--Statues-->
+			<tr>
+				<td><a href="http://bit.ly/XYb5z9">Statues</a></td> 
+				<td class="desctt"><span class="tt">Adds statue versions of mobs to the game.</span></td> 
+				<td>TheOneAndOnly717</td> 
+				<td><b>SSP</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/TWYoUt">S.T.F.U.</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>RedBanHammer</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/Zx0Y8G">StrongerPistons Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MinecraftShamrock</td> <td><b>SSP SMP</b></td> <td class="na">N/A</td></tr>
 			<tr><td><a href="http://bit.ly/VikqRI">Subaraki's Portal Page</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>senpaisubaraki</td> <td><b>N/A</b></td> <td class="na">N/A</td></tr>
@@ -1042,6 +1094,16 @@
 			<tr><td><a href="http://bit.ly/13b8Hcs">Telicraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Telinc1</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://terrafirmacraft.com/">TerraFirmaCraft</a> (1.4.6 only)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bioxx</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/XDdxic">Thaumcraft 3</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Azanor</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--[Thaumcraft 3] Essentia Everything-->
+			<tr>
+				<td><a href="http://bit.ly/Xhovos">[Thaumcraft 3] Essentia Everything</a></td> 
+				<td class="desctt"><span class="tt">This addon has two major features. Firstly, it automatically adds support for all ores, nuggets, ingots, and dusts registered with Forge's Ore Dictionary. Secondly, it adds the ability to add or adjust aspects for just about anything, vanilla or modded.</span></td> 
+				<td>Qwertygiy</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/Zx1Aee">The Blanks Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>FryoKnight</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/108x1gj">TheBombzen's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>thebombzen</td> <td><b>N/A</b></td> <td class="na">N/A</td></tr>
 			<tr><td><a href="http://bit.ly/Zg8vUs">The Death Scythe Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kirwii</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
@@ -1050,6 +1112,16 @@
 			<tr><td><a href="http://bit.ly/TWZlvY">The Elder Scrolls: Skyrim Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>sheenrox82</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/Z6wyoD">The Empyrean</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>EmpyrealHell</td> <td><b>SSP SMP</b></td> <td class="nfc">Not Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/WXtIlL">The Erebus</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Dylan4ever</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--The Eternal Frost-->
+			<tr>
+				<td><a href="http://bit.ly/YgdR0x">The Eternal Frost</a></td> 
+				<td class="desctt"><span class="tt">Ever wanted to see the inverse of the Nether? Travel to the "Eternal Frost" with this dimension mod.</span></td> 
+				<td>poiuytrezay</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/W1Ul84">The Farlanders</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Fabiulu</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/ZnIUOb">The Iron Dimension</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bgwoo</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/U7k3co">TheMadCrafters Ores Galores</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>themadcrafter</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
@@ -1128,6 +1200,16 @@
 			----------------------------------------------------------W--------------------------------------------------------
 			------------------------------------------------------------------------------------------------------------------->
 			<tr><td><a href="http://bit.ly/13dC114">Warfield 3</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Stuuupiiid</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--Wasteland Mod-->
+			<tr>
+				<td><a href="http://bit.ly/15kbCkb">Wasteland Mod</a></td> 
+				<td class="desctt"><span class="tt">Its a nuclear fallout and the world is a wasteland, most dirt is stripped from the earth. In the Wasteland there are few plants, the animals and monsters are stronger & mutated. Nuclear blasts have removed many ores, key to survival. Can you survive the Wasteland?</span></td> 
+				<td>thegamingwolfs</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/V67BOd">Water & Sun Proof Endermen Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Jeffrey6978</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/UvEU7P">WebChat</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bannedtom</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/11SR95R">Weeping Angels</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>a_dizzle</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
@@ -1155,6 +1237,16 @@
 			<!-----------------------------------------------------------------------------------------------------------------
 			----------------------------------------------------------X--------------------------------------------------------
 			------------------------------------------------------------------------------------------------------------------->
+			
+			<!--Xeno's Reliquary-->
+			<tr>
+				<td><a href="http://bit.ly/XRhcab">Xeno's Reliquary</a></td> 
+				<td class="desctt"><span class="tt">Adds miscellaneous magical items to the game that may go well with certain other mods.</span></td> 
+				<td>x3n0ph0b3</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/10pIS3X">Xie's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Xie</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/WILM37">X-mas Armor'n'Weapons</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Batak</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/ZQkw34">XP Bank</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>teken</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
@@ -1183,5 +1275,8 @@
 	</table>
 	<br/>	
 	</center>
+	
+	<div class="footer">Mod count:
+	<b>577</b></div>
   </body>
 </html>
