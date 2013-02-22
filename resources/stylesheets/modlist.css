@@ -19,6 +19,8 @@ table		{background-color:#E8EFF4;
 			
 table th		{border: 3px double white}
 
+td.fr		{color:#0451FF;
+			text-decoration:underline;}
 td.fc		{color:#008000;
 			text-decoration:underline;}
 td.nfc		{color:#FF0000;
@@ -67,7 +69,7 @@ a:hover		{color:black;
 	border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
 	box-shadow: 5px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px rgba(0, 0, 0, 0.1);
 	font-family: Calibri, Tahoma, Geneva, sans-serif;
-	position: absolute; right: 5.3em; bottom: 1em z-index: 99;
+	position: absolute; right: 6.3em; top: 1em z-index: 99;
 	margin-left: 0; width: 250px;
 }
 .desctt:hover img {
