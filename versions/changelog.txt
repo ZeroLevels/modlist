@@ -1,3 +1,24 @@
+(February/21/2013)
+	/Changed "Forge Required" to its own color for easier at-a-glance identification
+	-Removed "Chickenbones Mods" (Replaced with the following 4 mods)
+		+Added "Not Enough Items"
+		+Added "Ender Storage"
+		+Added "Wireless Redstone: Chicken Bones Edition (WR-CBE)"
+		+Added "ChickenChunks"
+	+Added 4 mods by FatherToast (Which are the following)
+		+Added "Dungeon Crawler"
+		+Added "Special Mobs"
+		+Added "Utility Mobs"
+		+Added "Lava Monsters"
+	?+Added description to "ChickenShed"
+	+Added "[Buildcraft] More Pipes Mod"
+	+Added "[BuildCraft] Routing Pipe"
+	+Added "EnderStuff+"
+	+Added "Fools Gold Mod"
+	+Added "Edible Ores Mod"
+	+Added "LegendGear"
+	+Added "Mine & Blade: Commander"
+
 (February/20/2013)
 	-Removed "AtomicStryker's Mods" (Replaced with the following 13 mods)
 		+Added "Dynamic Lights"
