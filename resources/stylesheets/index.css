@@ -4,10 +4,6 @@ body			{text-align:center;
 p				{color:white;
 				font-size: 18px;}
 				
-#main			{width:90%;
-				height:100%;
-				background:#E8EFF4;}
-				
 p.n				{text-shadow: 1px 1px 10px gray;}
 			
 p.select		{background-color:black;}

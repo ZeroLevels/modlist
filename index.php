@@ -18,7 +18,7 @@
 <p class="select">
 	<span class="section">Current:</span><br/>
 	<span style="text-size:30px; font-style:italic">(Last Updated: <?php $content = file('versions/changelog.txt'); echo $content[0]; ?>)</span><br/>
-		<span class="selection"><a href="versions/1.4.6_1.4.7.html">1.4.6/1.4.7 List</a></span><br/>
+		<span class="selection"><a href="versions/1.4.6_1.4.7.php">1.4.6/1.4.7 List</a></span><br/>
 		<span class="selection"><a href="versions/changelog.txt">Changelog</a></span><br/><br/>
 		
 	<span class="section">Older:</span><br>
