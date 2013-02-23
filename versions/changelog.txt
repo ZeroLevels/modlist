@@ -1,3 +1,29 @@
+(February/23/2013)
+	/Re-counted the lines without including the info column, mod count should now be accurate. Sorry!
+	*Updated "[Buildcraft] Advanced Power Systems" link
+	*Updated "IndustrialCraft 2" link
+	?+Added description to "WorldStateCheckpoints"
+	?+Added description to "The Erebus"
+	+Added "3D Items" (Forgot this somehow)
+	+Added "[IndustrialCraft 2] OreDupeFix"
+	+Added "[IndustrialCraft 2] Combo Armors"
+	+Added "[Buildcraft] Additional Buildcraft Objects"
+	+Added "[BuildCraft] Routing Pipe"
+	+Added "Magical Crops"
+	+Added "The Amazopack"
+	+Added "Useful Cheats"
+	+Added "Trampoline Mod"
+	+Added "AdventureTime Mod"
+	+Added "Baked Goods Mod"
+	+Added "Still Hungry!"
+	+Added "CrazyOres"
+	+Added "Alma Wade Mod"
+	+Added "More Coals"
+	+Added "Advanced Agriculture"
+	+Added "Better Snow Mod"
+	+Added "Death Counter"
+	+Added "Trail Mix"
+
 (February/22/2013)
 	*Changed "Buildcraft"'s link to the front page. I accidentally had it linked to a specific release thread which was outdated.
 	+Added "MusicCraft"

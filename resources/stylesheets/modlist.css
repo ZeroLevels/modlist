@@ -22,7 +22,7 @@ table th		{border: 3px double white}
 input		{border:solid 2px darkgray;}
 
 /*Stuff to center specific columns*/
-table.display td:nth-of-type(2) { text-align: center; }
+table.display td:nth-of-type(2) { text-align: center; /*display:none;*/ }
 table.display td:nth-of-type(3) { text-align: center; }
 table.display td:nth-of-type(4) { text-align: center; }
 table.display td:nth-of-type(5) { text-align: center; }
