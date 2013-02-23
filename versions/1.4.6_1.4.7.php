@@ -15,7 +15,7 @@
 		
 <table class="nav">
 	<tr>
-		<td class="nh"><a href="../index.php">Home</td>
+		<td class="nh"><a href="../">Home</td>
 		<td class="h">Current List</td>
 		<td class="nh"><a href="../credits/">Credits</a></td>
 	</tr>
