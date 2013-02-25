@@ -1,42 +1,44 @@
 <!doctype html>
 <html>
 
-  <head>
-    <meta charset="utf-8">
-    <title>Mod List - 1.4.6/1.4.7</title>
+<head><meta charset="utf-8">
+	<title>Mod List - 1.4.6/1.4.7</title>
 		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 		<script type="text/javascript" src="../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
 	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/modlist.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/nav.css" media="screen" />
-  </head>
-  
-  <body>
-		<center><p><img src="../resources/images/1.4.6_1.4.7.png" width="216" height="42"/><br/><span style="font-size:200%">Last Updated: <?php $content = file('changelog.txt'); echo $content[0]; ?></span><br/><a href="changelog.txt" class="ns">Click here</a> to view the changelog.</p>
-		
-<table class="nav">
-	<tr>
-		<td class="nh"><a href="../">Home</td>
-		<td class="h">Current List</td>
-		<td class="nh"><a href="../credits/">Credits</a></td>
-	</tr>
-</table>
-		
-		<br>
-		<hr width="80%" size="6" noshade>
-		
-		<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>. Make sure to search for it here first.<br/><br/>
-		If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
-	<table cellspacing="0" width="85%" class="display" id="example">
 	
-		<thead>
-		<th>Mod Name<br/><input style="display:none" class="searchEmpty" /></th>
-		<th style="min-width:50px">Info</th>
-		<th>Author</th>
-		<th>Mode Availability</th>
-		<th>Compatibility with Forge</th>
-		</thead>
-		<tbody>
+	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/nav.css" media="screen" />
+</head>
+  
+<body>
+	<center>
+		<p>
+			<img src="../resources/images/1.4.6_1.4.7.png" width="216" height="42"/><br/>
+			<span style="font-size:200%">Last Updated: <?php $content = file('changelog.txt'); echo $content[0]; ?></span><br/><a href="changelog.txt" class="ns">Click here</a> to view the changelog.
+		</p>
 		
+	<table class="nav">
+		<thead>
+			<th class="nh"><a href="../">Home</th>
+			<th class="h">Current List</th>
+			<th class="nh"><a href="../credits/">Credits</a></th>
+		</thead>
+	</table>
+				
+	<br><hr width="80%" size="6" noshade>
+		
+	<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>. Make sure to search for it here first.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
+	
+	<table cellspacing="0" width="85%" class="modlist" id="example">
+		<thead>
+			<th style="min-width:262px">Mod Name<br/><input style="display:none" class="searchEmpty" /></th>
+			<th style="min-width:50px">Info</th>
+			<th>Author</th>
+			<th>Mode Availability</th>
+			<th>Compatibility with Forge</th>
+		</thead>
+		
+		<tbody>
 			<!-----------------------------------------------------------------------------------------------------------------
 			----------------------------------------------------------#--------------------------------------------------------
 			------------------------------------------------------------------------------------------------------------------->
@@ -285,7 +287,24 @@
 			<tr><td><a href="http://bit.ly/UWxU5G">Chainz: The -Missing- Iron Link</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Jade Knightblazer</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/WntbYe">ChatSounds</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bannedtom</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/X6UWFi">Chay Craft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>_Spark_Master_Chris_</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
-			<tr><td><a href="http://bit.ly/UvpH6y">Chickenbones Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>chicken_bones</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--Chert Craft-->
+			<tr>
+				<td><a href="http://bit.ly/YuGyqx">Chert Craft</a></td> 
+				<td class="desctt"><span class="tt">This mod adds new stone to your world that you can mine and craft from. The mew stone generates in random sizes ranging from very small to large. it currently includes four tool and four armor sets available to craft with balanced specs to fit into the vanilla world.</span></td> 
+				<td>Kinyoshi</td> 
+				<td><b>Universal</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
+			<!--[Chert Craft] Gravel Replacement-->
+			<tr>
+				<td><a href="http://bit.ly/YQ4rer">[Chert Craft] Gravel Replacement</a></td> 
+				<td class="desctt"><span class="tt">Makes the gravel block not drop flint when mined, making the acquisition of flint depended on crafting flint from chert.</span></td> 
+				<td>Kinyoshi</td> 
+				<td><b>Universal</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
 			
 			<!--ChickenChunks-->
 			<tr>
@@ -323,6 +342,16 @@
 			<tr><td><a href="http://bit.ly/WjlRBm">ControlPack</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>infinitiesloop</td> <td><b>Clientside Mod</b></td> <td class="nfc">Not Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/13aX0SS">Converter Gem</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>brentjc57</td> <td><b>SSP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/VJZSkh">Coros Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Corosus</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--Corn Nuts-->
+			<tr>
+				<td><a href="http://bit.ly/15Hk2SO">Corn Nuts</a></td> 
+				<td class="desctt"><span class="tt">Adds a new food item into your world, Corn Nuts!! These corn nuts are made using seeds for the basic variety of corn nuts. The special variety gives you a limited potion effect when eaten including water breathing, fire resistance, damage boost and jumping.</span></td> 
+				<td>Kinyoshi</td> 
+				<td><b>Universal</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/TGjeZl">crackedEgg's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>crackedEgg</td> <td><b>SSP SMP LAN</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/ZwDikN">Craftable Animals</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Naruto1310</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/SxVKGl">Craft And Enchant</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Maties7</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
@@ -356,7 +385,16 @@
 			<tr><td><a href="http://bit.ly/1432n72">Dark Messiah's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>dark_messiah</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/V21gBt">Davidee's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Davidee</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/UR0Qgf">DayZ Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>creater_admin</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
-			
+
+			<!--Dead Bush Replacement-->
+			<tr>
+				<td><a href="http://bit.ly/YvnZCy">Dead Bush Replacement</a></td> 
+				<td class="desctt"><span class="tt">Makes the dead bush drop one stick when destroyed.</span></td> 
+				<td>Kinyoshi</td> 
+				<td><b>Universal</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+
 			<!--Death Chest-->
 			<tr>
 				<td><a href="http://bit.ly/WnSwBj">Death Chest</a></td> 
@@ -365,7 +403,7 @@
 				<td><b>SSP</b></td> 
 				<td class="nfc">Not Forge Compatible</td>
 			</tr>
-			
+
 			<!--Death Counter-->
 			<tr>
 				<td><a href="http://bit.ly/VDLUDd">Death Counter</a></td> 
@@ -373,6 +411,24 @@
 				<td>iChun</td> 
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
+			</tr>
+
+			<!--Desert Cotton Plant-->
+			<tr>
+				<td><a href="http://bit.ly/XvcK11">Desert Cotton Plant</a></td> 
+				<td class="desctt"><span class="tt">Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode ? Do you wonder how you're going to make that bed with no sheep to get wool from? Then this mod is for you!</span></td> 
+				<td>Kinyoshi</td> 
+				<td><b>SSP</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
+			<!--Desert Grund Plant-->
+			<tr>
+				<td><a href="http://bit.ly/YRCXnp">Desert Grund Plant</a></td> 
+				<td class="desctt"><span class="tt">Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to plant seeds without having dirt to make soil? Then this mod is for you!</span></td> 
+				<td>Kinyoshi</td> 
+				<td><b>SSP</b></td> 
+				<td class="fc">Forge Compatible</td>
 			</tr>
 			
 			<tr><td><a href="http://bit.ly/ThWssX">Desired Blocks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
@@ -715,6 +771,16 @@
 			<tr><td><a href="http://bit.ly/ZfQxBk">Inventory Tweaks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>jimeowan</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/11KeOoX">iPod mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Pumpkincraft</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/ZwKEof">IronChests 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>cpw</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
+
+			<!--Item Soup Replacement-->
+			<tr>
+				<td><a href="http://bit.ly/ZtPJul">Item Soup Replacement</a></td> 
+				<td class="desctt"><span class="tt">This mod makes the item soup stackable up to twelve. Make sure you unstack your bowl of soup before you consume it, otherwise you will eat all of it, little piggy...</span></td> 
+				<td>Kinyoshi</td> 
+				<td><b>Universal</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/13b0vsE">Ivorius' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Ivorius</td> <td><b>N/A</b></td> <td class="na">N/A</td>
 			
 			<!-----------------------------------------------------------------------------------------------------------------
@@ -748,10 +814,13 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<tr><td><a href="http://bit.ly/TWMYQm">Keyhole Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>briman0094</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
-			<tr><td><a href="http://bit.ly/13b0FAm">Kirwi's Clay Golem Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kirwii</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
 			
+			
+			
+			<tr><td><a href="http://bit.ly/13b0FAm">Kirwi's Clay Golem Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kirwii</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
+
 			<!--Koi-->
 			<tr>
 				<td><a href="http://bit.ly/12EyGdZ">Koi</a></td> 
@@ -760,12 +829,12 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<!-----------------------------------------------------------------------------------------------------------------
 			----------------------------------------------------------L--------------------------------------------------------
 			------------------------------------------------------------------------------------------------------------------->
 			<tr><td><a href="http://bit.ly/VK35QB">Lanterns Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>HyperNerd</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
-			
+
 			<!--Lava Monsters-->
 			<tr>
 				<td><a href="http://bit.ly/VuOduI">Lava Monsters</a></td> 
@@ -774,9 +843,9 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<tr><td><a href="http://bit.ly/RBR2ai">Legendary Beasts</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Davidee</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
-			
+
 			<!--LegendGear-->
 			<tr>
 				<td><a href="http://bit.ly/Xdffov">LegendGear</a></td> 
@@ -785,9 +854,9 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<tr><td><a href="http://bit.ly/WmOkmG">Light Level Overlay</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>4poc</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
-			
+
 			<!--Light Sensor-->
 			<tr>
 				<td><a href="http://bit.ly/WnSwBj">Light Sensor</a></td>
@@ -796,7 +865,7 @@
 				<td><b>SSP</b></td>
 				<td class="fc">Forge Compatible</td>
 			</tr>
-			
+
 			<tr><td><a href="http://bit.ly/RBR2XJ">Lion King Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mevans</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/UR3eUm">LittleBlocks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>VengeurK</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/Xee3zn">litteMaidMod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>eromanrocks</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
@@ -804,13 +873,13 @@
 			<tr><td><a href="http://bit.ly/Vi5xyQ">LOLCaatz' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>LOLCaatz</td> <td><b>SSP SMP</b></td> <td class="na">N/A</td></tr>
 			<tr><td><a href="http://bit.ly/VFFPFY">Lots of Food</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>pifou92000</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/Sw1AcJ">Lunatrius' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Lunatrius</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
-			
+
 			<!-----------------------------------------------------------------------------------------------------------------
 			----------------------------------------------------------M--------------------------------------------------------
 			------------------------------------------------------------------------------------------------------------------->
 			<tr><td><a href="http://bit.ly/WnFEuT">Macro/Keybind Mod and LiteLoader</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mumfrey</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/XyO45V">Mac's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mac</td> <td><b>SSP</b></td> <td class="na">N/A</td></tr>
-			
+
 			<!--Magic Yarn-->
 			<tr>
 				<td><a href="http://bit.ly/XlFeu1">Magic Yarn</a></td> 
@@ -819,7 +888,7 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<!--Magical Crops-->
 			<tr>
 				<td><a href="http://bit.ly/W9maB8">Magical Crops</a></td> 
@@ -828,7 +897,7 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<!--Magical Experience-->
 			<tr>
 				<td><a href="http://bit.ly/W0sOJW">Magical Experience</a></td> 
@@ -837,7 +906,7 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<tr><td><a href="http://bit.ly/Ty9cf2">MamiyaOtaru's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MamiyaOtaru</td> <td><b>N/A</b></td> <td class="na">N/A</td></tr>
 			<tr><td><a href="http://bit.ly/13duyig">MapWriter Mini Map Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>mapwriter</td> <td><b>Clientside Mod</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/V29Wrx">Marcopolo's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>marcopolo1613</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
@@ -848,7 +917,7 @@
 			<tr><td><a href="http://bit.ly/WD0SWs">MegaCraft Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>NielsSrychi</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/UvxjWI">Metallurgy 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Shadowclaimer</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://millenaire.org/">Millenaire</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kinniken</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
-			
+
 			<!--Mine & Blade: Commander-->
 			<tr>
 				<td><a href="http://bit.ly/UqDHCU">Mine & Blade: Commander</a></td> 
@@ -857,7 +926,7 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<tr><td><a href="http://bit.ly/13dKCkb">MineChem</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ljdp</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/XD3gCF">Minecraft Capes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>cjz__</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/117Qmxk">Minecraft Comes Alive</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WildBamaBoy</td> <td><b>SSP</b></td> <td class="fr">Forge Required</td></tr>
@@ -867,7 +936,7 @@
 			<tr><td><a href="http://bit.ly/UAlxQ8">MineLittlePony</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Verdana</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/108pAFT">MineVideo</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kovu</td> <td><b>Clientside Mod</b> <td class="na">N/A</td></tr>
 			<tr><td><a href="http://bit.ly/W9HHqH">Mining Enhancements</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
-			
+
 			<!--Minions-->
 			<tr>
 				<td><a href="http://bit.ly/XlyOuX">Minions</a></td> 
@@ -876,7 +945,7 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<tr><td><a href="http://bit.ly/UvyxRJ">Mo' Creatures</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DrZhark</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/UAoujP">Mo' Foliage</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Andy3285</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/WD4OGB">Mo' Food and Crops</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>v3XzZ</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
@@ -885,7 +954,7 @@
 			<tr><td><a href="http://bit.ly/Zg0ejf">Moar Stuff Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Viktorrr321</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/ZwUyGv">Mob Spawn Controls</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Davidee</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/XD7dHH">Mob Talker</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SCMowns</td> <td><b>SSP LAN</b></td> <td class="fc">Forge Compatible</td></tr>
-			
+
 			<!--ModLoader-->
 			<tr>
 				<td><a href="http://bit.ly/WnSwBj">ModLoader</a> (API)</td>
@@ -894,10 +963,19 @@
 				<td><b>SSP</b></td>
 				<td class="nfc">Not Forge Compatible</td>
 			</tr>
-			
+
 			<tr><td><a href="http://bit.ly/XeiQAH">ModOptionsAPI</a>(API)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WyrdOne</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/WW9bhs">Mod Update Manager</a> (API)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TheWhiteWolves</td> <td><b>Clientside Mod</b></td> <td class="fr">Forge Required</td></tr>
-			<tr><td><a href="http://bit.ly/Zg0tLh">M-Ore Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kuuu</td> <td><b>SSP</b></td> <td class="nfc">Not Forge Compatible</td></tr>
+
+			<!--M-Ore Mod-->
+			<tr>
+				<td><a href="http://bit.ly/Zg0tLh">M-Ore Mod</a></td>
+				<td class="desctt"><span class="tt">If you are tired of the old ore OR if you just want more ores – this mod is for you!</span></td>
+				<td>Kuuu</td>
+				<td><b>SSP</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/ZwUSFi">More Bows Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>iDiamondhunter</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
 			
 			<!--More Coals-->
@@ -964,6 +1042,16 @@
 			</tr>
 			
 			<tr><td><a href="http://bit.ly/USU7lo">Music Timer Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cycloneblaze</td> <td><b>Clientside Mod</b></td> <td class="nfc">Not Forge Compatible</td></tr>
+			
+			<!--Mushroom Torch-->
+			<tr>
+				<td><a href="http://bit.ly/15dyxg3">Mushroom Torch</a></td> 
+				<td class="desctt"><span class="tt">Adds two new torches into your game. The Red Mushroom Torch gives off light level at 12 and under, which is perfect for growing mushrooms indoors without having to worry about too much light killing your crop. The Brown Mushroom torch gives off light level at 4 and under, which is supposed to be the best light to grow mushrooms where you can still see. Unfortunately, monsters can still spawn with the use of these torches.</span></td> 
+				<td>Kinyoshi</td> 
+				<td><b>SSP</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/RBUH83">Mutant Creatures</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>thehippomaster21</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/XD8kXC">myBiome Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>krimin_killr21</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/WnPlJQ">myPet Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>01110111010</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
@@ -1172,6 +1260,15 @@
 				<td>wuppy21</td> 
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
+			</tr>
+			
+			<!--Slimy Adventures-->
+			<tr>
+				<td><a href="http://bit.ly/13gLhUE">Slimy Adventures</a></td> 
+				<td class="desctt"><span class="tt">SlimyAdventures will put you on a new adventure with new tools, armor, mobs, and "kinda new biome with new stuff". Fight against new mobs. Make your mining a lot easier with your new tools and get out killing loots of new mobs.</span></td> 
+				<td>kenty953</td> 
+				<td><b>SSP</b></td> 
+				<td class="nfc">Not Forge Compatible</td>
 			</tr>
 			
 			<tr><td><a href="http://bit.ly/V1qVZv">soccerguy3's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>soccerguy3</td> <td><b>N/A</b></td> <td class="na">N/A</td></tr>
@@ -1387,6 +1484,16 @@
 			</tr>
 			
 			<tr><td><a href="http://bit.ly/10865gJ">Tropicraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cojomax99</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--tukmc-->
+			<tr>
+				<td><a href="http://bit.ly/XUn0Mp">tukmc</a></td> 
+				<td class="desctt"><span class="tt">A slick HUD mod that is inspired by the World of Warcraft addon, tukui.</span></td> 
+				<td>maxpowa</td> 
+				<td><b>Clientside Mod</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/URaBel">Twilight Forest</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Benimatic</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/V2ubW7">TyberCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ThatSketchyModder</td> <td><b>SSP</b></td> <td class="fr">Forge Required</td></tr>
 
@@ -1520,11 +1627,10 @@
 			------------------------------------------------------------------------------------------------------------------->
 			<tr><td><a href="http://bit.ly/TX19oL">Zaedes' Steamworks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Zaedes</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 		</tbody>
-	</table>
-	<br/>	
-	</center>
-	
-	<div class="footer">Mod count:
-	<b>537</b></div>
-  </body>
+	</table></center><br/>
+
+	<div class="footer">
+		Mod count: <b>537</b>
+	</div>
+
 </html>

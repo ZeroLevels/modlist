@@ -2,40 +2,40 @@ body		{background-image:url('../../resources/images/mcf_1_3rd.png');
 			font-family:verdana,arial;
 			font-size:13px;
 			margin:0 auto;}
+
+.modlist th,td		{padding:3px;}
+
+.modlist tr			{-moz-transition:.25s;
+					-webkit-transition:.25s;
+					transition:.25s;}
+
+.modlist tr:hover	{background-color:#B7CDDD;}
+
+.modlist th			{background-color:black;
+					color:white;}
+
+table.modlist 		{background-color:#E8EFF4;
+					border:1px solid #B8D1E6;}
 			
-th,td		{padding:3px;}
-
-tr			{-moz-transition:.25s;
-			-webkit-transition:.25s;
-			transition:.25s;}
-
-tr:hover		{background-color:#B7CDDD;}
-
-th			{background-color:black;
-			color:white;}
-
-table		{background-color:#E8EFF4;
-			border:1px solid #B8D1E6;}
-			
-table th		{border: 3px double white}
+table.modlist th		{border: 3px double white}
 
 input		{border:solid 2px darkgray;}
 
 /*Stuff to center specific columns*/
-table.display td:nth-of-type(2) { text-align: center; /*display:none;*/ }
-table.display td:nth-of-type(3) { text-align: center; }
-table.display td:nth-of-type(4) { text-align: center; }
-table.display td:nth-of-type(5) { text-align: center; }
+table.modlist td:nth-of-type(2) { text-align: center; /*display:none;*/ }
+table.modlist td:nth-of-type(3) { text-align: center; }
+table.modlist td:nth-of-type(4) { text-align: center; }
+table.modlist td:nth-of-type(5) { text-align: center; }
 /*/*/
 
-td.fr		{color:#0451FF;
-			text-decoration:underline;}
-td.fc		{color:#008000;
-			text-decoration:underline;}
-td.nfc		{color:#FF0000;
-			text-decoration:underline;}
-td.na		{color:black;
-			text-decoration:underline;}
+.modlist td.fr		{color:#0451FF;
+					text-decoration:underline;}
+.modlist td.fc		{color:#008000;
+					text-decoration:underline;}
+.modlist td.nfc		{color:#FF0000;
+					text-decoration:underline;}
+.modlist td.na		{color:black;
+					text-decoration:underline;}
 
 p			{background-color:black;
 			font-weight:bold;
@@ -82,6 +82,16 @@ a:hover		{color:black;
 	position: absolute; right: 6.3em; top: 1em z-index: 99;
 	margin-left: 0; width: 250px;
 }
+
+@-moz-document url-prefix() {
+.desctt:hover span {
+	-moz-border-radius: 2px;
+	box-shadow: 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px rgba(0, 0, 0, 0.1);
+	font-family: Calibri, Tahoma, Geneva, sans-serif;
+	position: absolute; left: 0px; top: 1.3em z-index: 101;
+	margin-left: 0; width: 250px;}}
+
+
 .desctt:hover img {
 	border: 0; margin: -10px 0 0 -55px;
 	float: left; position: absolute;

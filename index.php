@@ -3,7 +3,7 @@
 
   <head>
     <meta charset="utf-8">
-    <title>Mod List</title>
+    <title>Mod List - Home</title>
 	<link rel="stylesheet" type="text/css" href="resources/stylesheets/index.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="resources/stylesheets/nav.css" media="screen" />
   </head>
@@ -11,13 +11,13 @@
 <body>
 
 <center>
-<img src="resources/images/mcmodlist.png" width="471" height="129" alt="MCModList"/><br>
+<img src="resources/images/mcfmodlist.png" width="670" height="122" alt="MCF-ModList"/><br/><br/>
 <table class="nav">
-	<tr>
-		<td class="h">Home</td>
-		<td class="nh"><a href="latest/">Current List</a></td>
-		<td class="nh"><a href="credits/">Credits</a></td>
-	</tr>
+	<thead>
+		<th class="h">Home</th>
+		<th class="nh"><a href="latest/">Current List</a></th>
+		<th class="nh"><a href="credits/">Credits</a></th>
+	</thead>
 </table>
 
 <p class="n">The goal is to list all the mods for the current version of Minecraft. This doesn't necessarily mean that the old lists won't be updated, but they're not a priority.<br/><br/>Select Minecraft version to display mods for below.</p>

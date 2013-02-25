@@ -1,3 +1,17 @@
+(February/24/2013)
+	*Changed "M-Ore Mod" to Forge Required, and added description
+	+Added 8 mods by Kinyoshi (Which are the following)
+		+Added "Chert Craft"
+		+Added "[Chert Craft] Gravel Replacement"
+		+Added "Corn Nuts"
+		+Added "Desert Cotton Plant"	
+		+Added "Desert Grund Plant"
+		+Added "Mushroom Torch"
+		+Added "Dead Bush Replacement"
+		+Added "Item Soup Replacement"
+	+Added "Slimy Adventures"
+	+Added "tukmc"
+	
 (February/23/2013)
 	/Re-counted the lines without including the info column, mod count should now be accurate. Sorry!
 	*Updated "[Buildcraft] Advanced Power Systems" link
