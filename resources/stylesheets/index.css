@@ -2,11 +2,13 @@ body			{text-align:center;
 				font-family:verdana,arial;
 				background-image:url('../images/mcf_1_3rd.png');
 				margin:0 auto;
-				margin-top:4px}
+				margin-top:4px;}
 			
 p				{color:white;
 				font-size: 18px;
 				padding:3px;}
+				
+p.small			{font-size: 12px;}
 				
 p.n				{text-shadow: 1px 1px 10px gray;}
 

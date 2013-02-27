@@ -1,10 +1,40 @@
+(February/26/2013)
+	*Changed link for "End of the Rainbow Mod" as well as added description
+	*Renamed "YonderCraft" to "AstralCraft", added description, changed from SSP SMP to Universal
+	?+Added description to "MineFantasy"
+	?+Added descritpion to "[Buildcraft] Advanced Power Systems"
+	+Added "MineFantasy: Renaissance"
+	+Added "Pixel Pack"
+	+Added "Rancraft Penguins"
+	+Added "Better Villages Mod"
+	+Added "The Crafters Mod"
+	+Added "Magic Rings Mod"
+	+Added "Basic Guns Mod"
+	+Added "More Enchantments Mod"
+	+Added "FriendColour"
+	+Added "MoreCrafts"
+	+Added "The Mining Mod"
+	+Added "AstralCraft"
+	+Added "Minema"
+	+Added "DarkLords RPG"
+	+Added "[ComputerCraft] Turtle Item Analyzer"
+	+Added "[ComputerCraft] Xfel's Peripherals"
+	+Added "[ComputerCraft] Turtle NBT Editor"
+	+Added "[ComputerCraft] Scanner Peripheral"
+	+Added "[ComputerCraft] OpenCCSensors"
+	+Added "[ComputerCraft] Redworks Addon"
+	+Added "[ComputerCraft] Aperture Science Turtle Upgrades"
+	+Added "[Buildcraft] Buildcraft Tools"
+	+Added "[Buildcraft] FXFix"
+	+Added "Hay Mod"
+
 (February/24/2013)
 	*Changed "M-Ore Mod" to Forge Required, and added description
 	+Added 8 mods by Kinyoshi (Which are the following)
 		+Added "Chert Craft"
 		+Added "[Chert Craft] Gravel Replacement"
 		+Added "Corn Nuts"
-		+Added "Desert Cotton Plant"	
+		+Added "Desert Cotton Plant"
 		+Added "Desert Grund Plant"
 		+Added "Mushroom Torch"
 		+Added "Dead Bush Replacement"
