@@ -124,6 +124,16 @@
 			<tr><td><a href="http://bit.ly/UxbOKv">AntiSteve</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Verdana</td> <td><b>SSP SMP</b></td> <td class="na">N/A</td></tr>
 			<tr><td><a href="http://bit.ly/ZtCrkB">Applied Energistics</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>AlgorithmX2</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/RAguNd">Arcane Ascension</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>calebmanley</td> <td><b>SSP</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--ArmorStatusHUD-->
+			<tr>
+				<td><a href="http://bit.ly/WmtGCf">ArmorStatusHUD</a></td> 
+				<td class="desctt"><span class="tt">ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!</span></td> 
+				<td>bspkrs</td> 
+				<td><b>Clientside Mod</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/ZtCywx">Ars Magica</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mithion</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/VuvlHp">Armor Movement Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>JSut210</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
 			
@@ -168,6 +178,16 @@
 			----------------------------------------------------------B--------------------------------------------------------
 			------------------------------------------------------------------------------------------------------------------->
 			<tr><td><a href="http://bit.ly/WmsjDo">Backpacks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Eydamos</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+
+			<!--Back Tools-->
+			<tr>
+				<td><a href="http://bit.ly/Y2JOcJ">Back Tools</a></td> 
+				<td class="desctt"><span class="tt">Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.</span></td> 
+				<td>iChun</td> 
+				<td><b>Clientside Mod</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+
 			<tr><td><a href="http://bit.ly/13cbTU6">Bacon Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MinecraftWero</td> <td><b>SSP SMP LAN</b></td> <td class="fr">Forge Required</td></tr>
 			
 			<!--Baked Goods Mod-->
@@ -272,6 +292,16 @@
 			
 			<tr><td><a href="http://bit.ly/Xc8Vf2">Bladecraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DarkHax</td> <td><b>SSP SMP LAN</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/URmLEU">Blazestone</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bgwoo</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
+			
+			<!--BlockBreaker / ConnectedDestruction-->
+			<tr>
+				<td><a href="http://bit.ly/TWHHIG">BlockBreaker / ConnectedDestruction</a></td> 
+				<td class="desctt"><span class="tt">Allows you to define a list of blocks that will break in a chain reaction when an adjacent block of the same type is broken.</span></td> 
+				<td>bspkrs</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/106hvkX">BlockPhysics Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>id_miner</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/UA9Aq0">Blubbeltasche's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Blubbeltasche</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/VdSDpo">Brownies</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Zakc</td> <td><b>SSP</b></td> <td class="fr">Forge Required</td></tr>
@@ -498,9 +528,28 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
+
+			<!--Creepypastacraft-->
+			<tr>
+				<td><a href="http://bit.ly/VqeWao">Creepypastacraft</a></td>
+				<td class="desctt"><span class="tt">Adds creepypasta creations and creatures</span></td>
+				<td>Phuck_Yu_Too</td>
+				<td><b>SSP</b></td>
+				<td class="fc">Forge Compatible</td>
+			</tr>
 			
 			<tr><td><a href="http://bit.ly/13drwdW">Crossbow Mod 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>micdoodle8</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/WnOhGk">Crudedragos's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Crudedragos</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
+
+			<!--CrystalWing-->
+			<tr>
+				<td><a href="http://bit.ly/TWHHIG">CrystalWing</a></td> 
+				<td class="desctt"><span class="tt">With this enchanted wing, you'll be able to teleport back to your spawn point or bed (fancy effects included!).</span></td> 
+				<td>bspkrs</td> 
+				<td><b>SSP</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/13dry5y">CubeX2's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>CubeX2</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/W1Y0Tw">Cube World</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>therealergo</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/TGjnfh">Custom Lan Port Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>CptHunter</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
@@ -508,10 +557,28 @@
 			<tr><td><a href="http://bit.ly/ZwE4Os">Custom NPCs</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Noppes</td> <td><b>SSP SMP LAN</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/VK0oyF">Custom Ore Generation</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>JRoush</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			
+			<!--Custom Stuff 2-->
+			<tr>
+				<td><a href="http://bit.ly/13dry5y">Custom Stuff 2</a></td> 
+				<td class="desctt"><span class="tt">Allows you to add content to minecraft with simple text files. You can also send your created content in a zip to your friends and they have only put this zip into the custom stuff 2 mods directory. You can create chests, furnaces, ladders, torches that can also be placed on the ceiling, armory, food, potions, crafting recipes and much more.</span></td> 
+				<td>CubeX2</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<!-----------------------------------------------------------------------------------------------------------------
 			----------------------------------------------------------D--------------------------------------------------------
 			------------------------------------------------------------------------------------------------------------------->
-			<tr><td><a href="http://bit.ly/TWHHIG">DaftPVF's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bspkrs</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
+			
+			<!--Dalek Mod-->
+			<tr>
+				<td><a href="http://bit.ly/WBHu2N">Dalek Mod</a></td>
+				<td class="desctt"><span class="tt">Adds a bunch of creatures from the hit BBC show Doctor Who</span></td>
+				<td>1WTC</td>
+				<td><b>SSP</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/WnybMA">Damage Indicators</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>rich1051414</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 
 			<!--DarkLords RPG-->
@@ -538,10 +605,10 @@
 
 			<!--Death Chest-->
 			<tr>
-				<td><a href="http://bit.ly/WnSwBj">Death Chest</a></td> 
-				<td class="desctt"><span class="tt">When you die, if you have a chest in your inventory, it will be placed where you die, or in the closest available spot. The chest will be filled with as many items as possible. Items stored in the crafting slot are still lost, as usual, and any excess that won't fit in the chest will be dropped.</span></td> 
-				<td>Risugami</td> 
-				<td><b>SSP</b></td> 
+				<td><a href="http://bit.ly/WnSwBj">Death Chest</a></td>
+				<td class="desctt"><span class="tt">When you die, if you have a chest in your inventory, it will be placed where you die, or in the closest available spot. The chest will be filled with as many items as possible. Items stored in the crafting slot are still lost, as usual, and any excess that won't fit in the chest will be dropped.</span></td>
+				<td>Risugami</td>
+				<td><b>SSP</b></td>
 				<td class="nfc">Not Forge Compatible</td>
 			</tr>
 
@@ -577,6 +644,16 @@
 			<tr><td><a href="http://bit.ly/117JZKq">Diamond Buckets+</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>thorgot</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/ZfLdOq">Diamond Meter</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>PCChazter</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/VqmBTA">Dimensional Doors</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>stevenrs11</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--DirectionHUD-->
+			<tr>
+				<td><a href="http://bit.ly/WmtGCf">DirectionHUD</a></td> 
+				<td class="desctt"><span class="tt">Displays your magnetic compass heading at the top of your screen.</span></td> 
+				<td>bspkrs</td> 
+				<td><b>Clientside Mod</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/RBORmX">DivineRPG</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Xolova</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/ZwFfOb">Double Door Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>kirsybuu</td> <td><b>SSP SMP LAN</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/Shmlc3">Dragon Mounts</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>BarracudaATA</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
@@ -709,11 +786,29 @@
 				<td><b>SSP SMP</b></td>
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
+			<!--Flat Bedrock-->
+			<tr>
+				<td><a href="http://bit.ly/VW7qTy">Flat Bedrock</a></td> 
+				<td class="desctt"><span class="tt">Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.</span></td> 
+				<td>power crystals</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+
 			<tr><td><a href="http://bit.ly/VK1yu3">Flat Bedrock Layer</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DerBaM</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/WnAXkR">FlintCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>666mayhem666</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/WCTPwZ">Flint Tools</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Samait</td> <td><b>SSP</b></td> <td class="fr">Forge Required</td></tr>
-			
+
+			<!--FloatingRuins-->
+			<tr>
+				<td><a href="http://bit.ly/TWHHIG">FloatingRuins</a></td> 
+				<td class="desctt"><span class="tt">Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.</span></td> 
+				<td>bspkrs</td> 
+				<td><b>Universal</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+
 			<!--Floodgate-->
 			<tr>
 				<td><a href="http://bit.ly/WnSwBj">Floodgate</a></td> 
@@ -790,7 +885,7 @@
 			<tr><td><a href="http://bit.ly/VFCzKX">GL Shaders OF</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>id_miner</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/VK1Y3q">GLSL Shaders mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>karyonix</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/XCWJYG">Goblins</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Sartharis</td> <td><b>SSP LAN</b></td> <td class="fr">Forge Required</td></tr>
-			
+
 			<!--Goblins and Giants-->
 			<tr>
 				<td><a href="http://bit.ly/Yj1yR6">Goblins and Giants</a></td> 
@@ -799,7 +894,16 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
+			<!--Gravity Gun-->
+			<tr>
+				<td><a href="http://bit.ly/145vtQF">Gravity Gun</a></td> 
+				<td class="desctt"><span class="tt">Adds the Gravity Gun from Half Life 2 to Minecraft.</span></td> 
+				<td>iChun</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+
 			<tr><td><a href="http://bit.ly/Zfrdvp">Greg's Blocks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>gcewing</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/117MwEs">Greg's Lighting</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>gcewing</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/UCv9Gu">Greg's Prospecting</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>gcewing</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
@@ -867,7 +971,6 @@
 			----------------------------------------------------------I--------------------------------------------------------
 			------------------------------------------------------------------------------------------------------------------->
 			<tr><td><a href="http://bit.ly/SfrAbZ">Ice Cream Sandwich Creeper Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>IrunoHatake</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
-			<tr><td><a href="http://ichun.us/mods/">iChun's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>iChun</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/UCvAQY">ID Resolver</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ShaRose</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/Uvusgl">Immibis's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>immibis</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/ZwJBVj">Improved First Person</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>kes5219</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
@@ -1122,8 +1225,27 @@
 			<tr><td><a href="http://bit.ly/13dKCkb">MineChem</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ljdp</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/XD3gCF">Minecraft Capes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>cjz__</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/117Qmxk">Minecraft Comes Alive</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WildBamaBoy</td> <td><b>SSP</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--Minecraft: Community Edition-->
+			<tr>
+				<td><a href="http://bit.ly/YMDWXx">Minecraft: Community Edition</a></td>
+				<td class="desctt"><span class="tt">A mod made from your suggestions, all of 'em!</span></td>
+				<td>coau14</td>
+				<td><b>Universal</b></td>
+				<td class="nfc">Not Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/117QooQ">Minecraft Lighting Fix</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>silverwind213</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/TGo1tC">Minecraft My Way mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WyrdOne</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
+
+			<!--MineFactory Reloaded-->
+			<tr>
+				<td><a href="http://bit.ly/VW7qTy">MineFactory Reloaded</a></td> 
+				<td class="desctt"><span class="tt">MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.</span></td> 
+				<td>power crystals</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
 
 			<!--MineFantasy-->
 			<tr>
@@ -1133,7 +1255,7 @@
 				<td><b>Universal</b></td>
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
 			<!--MineFantasy: Renaissance-->
 			<tr>
 				<td><a href="http://bit.ly/ZD9js2">MineFantasy: Renaissance</a></td> 
@@ -1172,6 +1294,25 @@
 			<tr><td><a href="http://bit.ly/XD732Z">Mo' Zombies</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>coocoo617</td> <td><b>SSP SMP</b></td> <td class="nfc">Not Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/VPKx0W">Moar Achievements Redux</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Sonicjumper</td> <td><b>Clientside Mod</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/Zg0ejf">Moar Stuff Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Viktorrr321</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+
+			<!--Mob Amputation-->
+			<tr>
+				<td><a href="http://bit.ly/Y3FdY0">Mob Amputation</a></td> 
+				<td class="desctt"><span class="tt">Lets you cut off the arms and head of some mobs. Also, blood particles!</span></td> 
+				<td>iChun</td> 
+				<td><b>Clientside Mod</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
+			<!--Mob Dismemberment-->
+			<tr>
+				<td><a href="http://bit.ly/Yb1iXi">Mob Dismemberment</a></td> 
+				<td class="desctt"><span class="tt">Some mobs fall apart whenever you kill them.</span></td> 
+				<td>iChun</td> 
+				<td><b>Clientside Mod</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+
 			<tr><td><a href="http://bit.ly/ZwUyGv">Mob Spawn Controls</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Davidee</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/XD7dHH">Mob Talker</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SCMowns</td> <td><b>SSP LAN</b></td> <td class="fc">Forge Compatible</td></tr>
 
@@ -1227,6 +1368,16 @@
 			
 			<tr><td><a href="http://bit.ly/VNTTtZ">More Explosives</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>NikolaiTheEpicGenius</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/VFJYtx">More Fences Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bobbyjoe2</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
+			
+			<!--More Furnaces-->
+			<tr>
+				<td><a href="http://bit.ly/13dry5y">More Furnaces</a></td> 
+				<td class="desctt"><span class="tt">Adds five furnaces to the game. An iron, a gold, a diamond, an obsidian and a netherrack furnace.</span></td> 
+				<td>CubeX2</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/VxcrPZ">More Health Enhanced</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>nohero</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/Y39bRR">More Herobrines Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>7ggw88</td> <td><b>SSP</b></td> <td class="nfc">Not Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/Zg0U8p">More Pistons Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MontyPylon</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
@@ -1264,6 +1415,15 @@
 				<td><a href="http://bit.ly/VLfIAd">Multi Mine</a></td> 
 				<td class="desctt"><span class="tt">Makes it so you don't have to point nonstop on a Block, never letting go of the mouse button, to finish it off. You can start mining, pause, walk away, mine another block, come back and finish off the one you started previously.</span></td> 
 				<td>AtomicStryker</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
+			<!--Multi Page Chest-->
+			<tr>
+				<td><a href="http://bit.ly/13dry5y">Multi Page Chest</a></td> 
+				<td class="desctt"><span class="tt">Adds a new chest to the game: the Multi Page Chest. This chest can store up to 585 stacks of items. Don't have lacks of space anymore!</span></td> 
+				<td>CubeX2</td> 
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
@@ -1308,7 +1468,16 @@
 				<td><b>Universal</b></td> 
 				<td class="fr">Forge Required</td>
 			</tr>
-			
+
+			<!--Nether Ores-->
+			<tr>
+				<td><a href="http://bit.ly/VW7qTy">Nether Ores</a></td> 
+				<td class="desctt"><span class="tt">Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.</span></td> 
+				<td>power crystals</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+
 			<tr><td><a href="http://bit.ly/YbHbvc">NetherStuffs</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Rinnsal</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/UR7mDM">Ninja Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Udjat74</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/13b6my3">No More Creeperz</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>123mjjmjj</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
@@ -1360,6 +1529,16 @@
 			</tr>
 			
 			<tr><td><a href="http://bit.ly/W4JLxV">Pfaeff's Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Pfaeff</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
+			
+			<!--Pig Grinder-->
+			<tr>
+				<td><a href="http://bit.ly/XKMpZH">Pig Grinder</a></td> 
+				<td class="desctt"><span class="tt">Lets you attach a grinder to a pig's back which grinds meat out of it to give extra food.</span></td> 
+				<td>iChun</td> 
+				<td><b>SSP LAN</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/VNVgsL">Pixelmon</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>epicSplashBattle</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 
 			<!--Pixel Pack-->
@@ -1374,6 +1553,25 @@
 			<tr><td><a href="http://bit.ly/WnR9CL">Player API</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Divisor</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/WrhgtF">Poop</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Tominator1</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/Wo1JKa">Portal Gates</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>deenkayros</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--PortalGun-->
+			<tr>
+				<td><a href="http://bit.ly/14dknZW">PortalGun</a></td> 
+				<td class="desctt"><span class="tt">Lets you think with portals. In Minecraft.</span></td> 
+				<td>iChun</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
+			<!--Power Converters-->
+			<tr>
+				<td><a href="http://bit.ly/VW7qTy">Power Converters</a></td> 
+				<td class="desctt"><span class="tt">It's here! Finally, a way to wrangle all those power systems into one central location. PowerConverters understands IC2, BuildCraft, UniversalElectricity, and Railcraft steam.</span></td> 
+				<td>power crystals</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/WD7pAz">PowerCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MightyPork</td> <td><b>Universal</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/VW7qTy">PowerCrystals' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>power crystals</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/117VOAd">Power Swords Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>chri60a1</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
@@ -1511,6 +1709,15 @@
 			<tr><td><a href="http://bit.ly/Xen4s0">Single Player Commands</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>simo_415</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/WDGzrt">Single Player Console</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>q3hardcore</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
 			
+			<!--Slender - Reimagined-->
+			<tr>
+				<td><a href="http://bit.ly/XwEYHR">Slender - Reimagined</a></td> 
+				<td class="desctt"><span class="tt">Adds eight pages that spawn randomly in your world within a certain distance of your spawn area. Oh, and Slenderman is watching.</span></td> 
+				<td>iChun</td> 
+				<td><b>Universal</b></td> 
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<!--Slime Dungeons-->
 			<tr>
 				<td><a href="http://bit.ly/15qHGD1">Slime Dungeons</a></td> 
@@ -1568,7 +1775,16 @@
 			</tr>
 			
 			<tr><td><a href="http://bit.ly/UWzhRL">StarMod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>mrgreaper</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
-			
+
+			<!--StartingInventory-->
+			<tr>
+				<td><a href="http://bit.ly/TWHHIG">StartingInventory</a></td> 
+				<td class="desctt"><span class="tt">This mod gives you items and blocks each time you start a new world, just by editing a .txt file.</span></td> 
+				<td>bspkrs</td> 
+				<td><b>SSP</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+
 			<!--Statues-->
 			<tr>
 				<td><a href="http://bit.ly/XYb5z9">Statues</a></td> 
@@ -1577,9 +1793,18 @@
 				<td><b>SSP</b></td> 
 				<td class="fc">Forge Compatible</td>
 			</tr>
+
+			<!--StatusEffectHUD-->
+			<tr>
+				<td><a href="http://bit.ly/WmtGCf">StatusEffectHUD</a></td> 
+				<td class="desctt"><span class="tt">Displays your currently active potions/effects without having to open your inventory! </span></td> 
+				<td>bspkrs</td> 
+				<td><b>Clientside Mod</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
 			
 			<tr><td><a href="http://bit.ly/TWYoUt">S.T.F.U.</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>RedBanHammer</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
-			
+
 			<!--Still Hungry!-->
 			<tr>
 				<td><a href="http://bit.ly/UUqfYh">Still Hungry!</a></td> 
@@ -1707,6 +1932,16 @@
 			<tr><td><a href="http://bit.ly/Y5Pfhb">Thirst Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>tarun1998</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/ZOWg1s">Ticks Per Second</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bechill</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/13b9vxV">Timber!</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TehKrush</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
+
+			<!--Tinkers Construct-->
+			<tr>
+				<td><a href="http://bit.ly/Z7xU26">Tinkers Construct</a></td>
+				<td class="desctt"><span class="tt">A new tech mod that allows research and construction of items, especially tools!</span></td>
+				<td>mDiyo</td>
+				<td><b>Universal</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<tr><td><a href="http://bit.ly/UCIM8o">TooManyItems</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Marglyph</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<tr><td><a href="http://bit.ly/13dBE6D">TooManyPlants</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>benzrf</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<tr><td><a href="http://bit.ly/108xUFw">Torojima's Chococraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Torojima</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
@@ -1758,6 +1993,15 @@
 				<td class="desctt"><span class="tt">Adds a trampoline and padding. Could be useful for reaching tall places quickly.</span></td> 
 				<td>QuinceScott</td> 
 				<td><b>SSP</b></td> 
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
+			<!--TreeCapitator-->
+			<tr>
+				<td><a href="http://bit.ly/TWHHIG">TreeCapitator</a></td> 
+				<td class="desctt"><span class="tt">Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.</span></td> 
+				<td>bspkrs</td> 
+				<td><b>Universal</b></td> 
 				<td class="fc">Forge Compatible</td>
 			</tr>
 			

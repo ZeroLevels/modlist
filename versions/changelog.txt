@@ -1,3 +1,37 @@
+(March/03/2013)
+	-Removed "DaftPVF's Mods" (Replaced with the following 6 mods)
+		+Added "TreeCapitator"
+		+Added "IngameInfo"
+		+Added "CrystalWing"
+		+Added "FloatingRuins"
+		+Added "StartingInventory"
+		+Added "BlockBreaker / ConnectedDestruction"
+	-Removed "DaftPVF's Mods" (Replaced with the following 3 mods)
+		+Added "ArmorStatusHUD"
+		+Added "DirectionHUD"
+		+Added "StatusEffectHUD"
+	-Removed "PowerCrystals' Mods" (Replaced with the following 4 mods)
+		+Added "MineFactory Reloaded"
+		+Added "Power Converters"
+		+Added "Nether Ores"
+		+Added "Flat Bedrock"
+	-Removed "PowerCrystals' Mods" (Replaced with the following 7 mods (the other 2 were added previously))
+		+Added "Back Tools"
+		+Added "Gravity Gun"
+		+Added "Mob Amputation"
+		+Added "Mob Dismemberment"
+		+Added "Pig Grinder"
+		+Added "PortalGun"
+		+Added "Slender – Reimagined"
+	-Removed "CubeX2's Mods" (Replaced with the following 5 mods)
+		+Added "Custom Stuff 2"
+		+Added "Multi Page Chest"
+		+Added "More Furnaces"
+	+Added "Minecraft: Community Edition"
+	+Added "Dalek Mod"
+	+Added "Tinkers Construct"
+	+Added "Creepypastacraft"
+
 (February/26/2013)
 	*Changed link for "End of the Rainbow Mod" as well as added description
 	*Renamed "YonderCraft" to "AstralCraft", added description, changed from SSP SMP to Universal
