@@ -14,7 +14,7 @@
 	<center>
 		<p>
 			<img src="../resources/images/1.4.6_1.4.7.png" width="216" height="42"/><br/>
-			<span style="font-size:200%">Last Updated: <?php $content = file('changelog.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.4.6_1.4.7.txt" class="ns">Click here</a> to view the changelog.
+			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.6_1.4.7.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.4.6_1.4.7.txt" class="ns">Click here</a> to view the changelog.
 		</p>
 		
 	<table class="nav">
