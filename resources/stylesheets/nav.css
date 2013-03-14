@@ -4,6 +4,8 @@ table.nav			{background-color:black;
 					color:white;
 					text-align:center;
 					border-collapse:collapse;}
+
+table .nav .listnav	{width:80%;}
 					
 .nav a				{text-decoration:none;
 					color:white;
@@ -15,19 +17,21 @@ table.nav			{background-color:black;
 					
 .nav thead:hover		{background-color:black;}
 					
-.nav th.nh			{border:1px solid white;
+.nav .nh			{border:1px solid white;
 					border-top:none;
 					border-bottom:none;
 					-webkit-transition:.5s;
 					transition:.5s;}
+
+.nav td			{font-weight:bold;}
 					
-.nav th.nh:hover		{background-color:lightgray;
+.nav .nh:hover		{background-color:lightgray;
 					color: black;}
 
-.nav th.nh:hover a		{color: black;
+.nav .nh:hover a		{color: black;
 						font-style:normal;}
 
-.nav th.h			{background-color:darkgray;
+.nav .h			{background-color:darkgray;
 					color:black;
 					font-weight:bold;
 					text-shadow: 0px 0px 1pc white;}

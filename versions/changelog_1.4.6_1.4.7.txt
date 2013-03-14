@@ -1,3 +1,49 @@
+(March/14/2013)
+	/Fixed mod count again
+	-Removed "Subaraki's Portal Page" (Replaced with the following 6 mods)
+		+Added "Subaraki's Paintings++"
+		+Added "RPG Inventory Mod"
+		+Added "The Mineya Mod"
+		+Added "Obsidia: The Power of Obsidian"
+		+Added "Subaraki's Secondary Mod"
+		+Added "Better Breeding Mod"
+	-Removed "Fishtaco's Mods" (Replaced with the following 5 mods)
+		+Added "FPS++"
+		+Added "Lava Decay"
+		+Added "No Infinite Water"
+		+Added "Stronghold Fix"
+		+Added "Fog Key"
+	+Added 4 mods by LOLCaatz (Which are the following)
+		+Added "Sandfix"
+		+Added "Better Arrows"
+		+Added "Original Beacons"
+		+Added "CT Third Person"
+	+Added 4 mods by MamiyaOtaru (Which are the following)
+		+Added "Chat Bubbles"
+		+Added "Automatic Wheat Farmer"
+	+Added 3 mods by CJB (Which are the following)
+		+Added "More Info Mod"
+		+Added "QuickCraft Mod"
+		+Added "X-Ray Mod"
+	*Updated "Mo' Zombies" information; now Universal and Forge Required + description
+	*Updated info for "Player API"
+	*+Changed Gems+ info, as well as added description
+	*?+Added description "Clean UI" and changed and change info: now Forge Compatible
+	?+Added Descriptions for all beginning with 'A'
+	+Added "Throwable Bricks Mod"
+	+Added "Minecraft Lighting Fix"
+	+Added "Water Shader Alpha"
+	+Added "Fossils and Archeology Revival"
+	+Added "Star Wars Mod"
+	+Added "Improved Chat"
+	+Added "Superior Enchantment System"
+	+Added "Elemental Creepers"
+	+Added "The Battleaxe Mod"
+	+Added "Megalithic Construction Mod"
+	+Added "Mecha Craft"
+	+Added "Contagion"
+	+Added "Render Player API"
+
 (March/03/2013)
 	-Removed "DaftPVF's Mods" (Replaced with the following 6 mods)
 		+Added "TreeCapitator"
