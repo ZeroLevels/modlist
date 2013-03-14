@@ -56,6 +56,15 @@
 			
 			<!----------------------------------------------------------A-------------------------------------------------------->
 			
+			<!--Aliens Vs Predator-->
+			<tr>
+				<td><a href="http://bit.ly/YaUXfI">Aliens Vs Predator</a></td>
+				<td class="desctt"><span class="tt">Adds new mobs, aesthetics, weapons, and challenge to the game.</span></td>
+				<td>Ri5ux</td>
+				<td><b>Universal</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<!----------------------------------------------------------B-------------------------------------------------------->
 
 			<!----------------------------------------------------------C-------------------------------------------------------->
@@ -166,6 +175,15 @@
 
 			<!----------------------------------------------------------T-------------------------------------------------------->
 
+			<!--The Ocarina Mod-->
+			<tr>
+				<td><a href="http://bit.ly/UArYTu">The Ocarina Mod</a></td>
+				<td class="desctt"><span class="tt">Adds a fully-functioning Ocarina straight from The Legend of Zelda: Ocarina of Time and Majora's Mask into Minecraft! The Ocarina functions just like it does in The Legend of Zelda. You can now learn songs that effect gameplay! Future updates will include more songs and functions!</span></td>
+				<td>Boba_Fett_Link</td>
+				<td><b>Universal</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<!----------------------------------------------------------U-------------------------------------------------------->
 
 			<!----------------------------------------------------------V-------------------------------------------------------->
@@ -190,7 +208,7 @@
 	</table></center><br/>
 
 	<div class="footer">
-		Mod count: <b>9</b>
+		Mod count: <b>11</b>
 	</div>
 
 </html>

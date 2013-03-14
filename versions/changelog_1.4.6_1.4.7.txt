@@ -43,6 +43,8 @@
 	+Added "Mecha Craft"
 	+Added "Contagion"
 	+Added "Render Player API"
+	+Added "Prometheus"
+	+Added "The Flash Light Mod"
 
 (March/03/2013)
 	-Removed "DaftPVF's Mods" (Replaced with the following 6 mods)

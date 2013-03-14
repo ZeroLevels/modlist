@@ -1963,6 +1963,15 @@
 			<!--|--><tr><td><a href="http://bit.ly/144xz52">Precious Gems Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/TWWyTp">PrimitiveCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kitteh6660</td> <td><b>N/A</b></td> <td class="fc">Forge Compatible</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/11XRgwV">Primitive Mobs</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Daveyx0</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
+
+			<!--Prometheus-->
+			<tr>
+				<td><a href="http://bit.ly/YaUXfI">Prometheus</a></td>
+				<td class="desctt"><span class="tt">Adds new content to the game based on the movie "Prometheus".</span></td>
+				<td>Ri5ux</td>
+				<td><b>Universal</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
 			
 			<!--Pumpkin-less Snow Golem-->
 			<tr>
@@ -2360,6 +2369,16 @@
 			</tr>
 			
 			<!--|--><tr><td><a href="http://bit.ly/W1Ul84">The Farlanders</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Fabiulu</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
+			
+			<!--The Flash Light Mod-->
+			<tr>
+				<td><a href="http://bit.ly/Z1mLiT">The Flash Light Mod</a></td>
+				<td class="desctt"><span class="tt">Adds dynamic flash lights to the game.</span></td>
+				<td>jkush321</td>
+				<td><b>Universal</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
+			
 			<!--|--><tr><td><a href="http://bit.ly/ZnIUOb">The Iron Dimension</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bgwoo</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/U7k3co">TheMadCrafters Ores Galores</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>themadcrafter</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/TWZvmU">The Methyr Dimension</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>laifsjo</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
@@ -2662,7 +2681,7 @@
 	</table></center><br/>
 
 	<div class="footer">
-		Mod count: <b>623</b>
+		Mod count: <b>625</b>
 	</div>
 
 </html>

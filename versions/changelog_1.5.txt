@@ -9,3 +9,5 @@
 	+Added "ChickenShed"
 	+Added "Player API"
 	+Added "Render Player API"
+	+Added "Aliens Vs Predator"
+	+Added "The Ocarina Mod"
