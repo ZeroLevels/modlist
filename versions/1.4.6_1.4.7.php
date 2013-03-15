@@ -630,7 +630,16 @@
 			<!--|--><tr><td><a href="http://bit.ly/V1Zznz">Colored Glass</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Samait</td> <td><b>N/A</b></td> <td class="fr">Forge Required</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/UR0s1a">Coloured Beds Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Gorion91</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/Uvrj0e">Commander Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Visudex</td> <td><b>SSP</b></td> <td class="nfc">Not Forge Compatible</td></tr>
-			<!--|--><tr><td><a href="http://bit.ly/13aWXXd">ComputerCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>dan200</td> <td><b>SSP SMP</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--ComputerCraft-->
+			<tr>
+				<td>
+				<a href="http://bit.ly/13aWXXd">ComputerCraft</a></td>
+				<td class="desctt"><span class="tt">ComputerCraft adds programmable computers and robots to minecraft.</span></td>
+				<td>dan200</td>
+				<td><b>Universal</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
 			
 			<!--[ComputerCraft] Aperture Science Turtle Upgrades-->
 			<tr>
@@ -828,7 +837,7 @@
 
 			<!--Death Counter-->
 			<tr>
-				<td><a href="http://bit.ly/VDLUDd">Death Counter</a></td> 
+				<td><a href="http://bit.ly/ichun-deathcounter">Death Counter</a></td> 
 				<td class="desctt"><span class="tt">Adds a way for the server to calculate the number of deaths a player has (since its installation). It will also notify the player of the death count and ranking on the server (Configurable)</span></td> 
 				<td>iChun</td> 
 				<td><b>Universal</b></td> 
@@ -1009,6 +1018,7 @@
 				<td class="fr">Forge Required</td>
 			</tr>
 			
+			<!--Flan's Mod-->
 			<tr>
 				<td><a href="http://bit.ly/13aYRXO">Flan's Mod</a></td>
 				<td class="desctt"><span class="tt"><!--INFO--></span></td>
@@ -1165,7 +1175,7 @@
 
 			<!--Gravity Gun-->
 			<tr>
-				<td><a href="http://bit.ly/145vtQF">Gravity Gun</a></td> 
+				<td><a href="http://bit.ly/ichun-gravitygun">Gravity Gun</a></td> 
 				<td class="desctt"><span class="tt">Adds the Gravity Gun from Half Life 2 to Minecraft.</span></td> 
 				<td>iChun</td> 
 				<td><b>Universal</b></td> 
@@ -1335,7 +1345,15 @@
 			<!--|--><tr><td><a href="http://bit.ly/TWMBpa">Invasion Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Lieu</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/ZfQxBk">Inventory Tweaks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>jimeowan</td> <td><b>Clientside Mod</b></td> <td class="fc">Forge Compatible</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/11KeOoX">iPod mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Pumpkincraft</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
-			<!--|--><tr><td><a href="http://bit.ly/ZwKEof">IronChests 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>cpw</td> <td><b>Universal</b></td> <td class="fr">Forge Required</td></tr>
+			
+			<!--IronChests 2-->
+			<tr>
+				<td><a href="http://bit.ly/ironchests2">IronChests 2</a></td>
+				<td class="desctt"><span class="tt">Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.</span></td>
+				<td>cpw</td>
+				<td><b>Universal</b></td>
+				<td class="fr">Forge Required</td>
+			</tr>
 
 			<!--Item Soup Replacement-->
 			<tr>
@@ -1745,7 +1763,16 @@
 			
 			<!--|--><tr><td><a href="http://bit.ly/UR6Wxe">More Swords Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DarkHax</td> <td><b>SSP SMP LAN</b></td> <td class="fr">Forge Required</td></tr>
 			<!--|--><tr><td><a href="http://bit.ly/SfwZji">More Village Biomes + Village Logic Addon</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>shortwind</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
-			<!--|--><tr><td><a href="http://bit.ly/13dy8Jt">More XP Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>dr_frost_dk</td> <td><b>SSP</b></td> <td class="fc">Forge Compatible</td></tr>
+			
+			<!--More XP Mod-->
+			<tr>
+				<td><a href="http://bit.ly/13dy8Jt">More XP Mod</a></td>
+				<td class="desctt"><span class="tt">Multiplies experience on pick-up. Helpful for those who dislike wasting tons of levels for little to no reason.</span></td>
+				<td>dr_frost_dk</td>
+				<td><b>SSP</b></td>
+				<td class="fc">Forge Compatible</td>
+			</tr>
+			
 			<!--|--><tr><td><a href="http://bit.ly/117U1v2">MorpheusZero's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MorpheusZero</td> <td><b>SSP SMP</b></td> <td class="fc">Forge Compatible</td></tr>
 
 			<!--Mouse Tweaks-->

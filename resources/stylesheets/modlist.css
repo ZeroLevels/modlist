@@ -68,6 +68,15 @@ a:hover		{color:black;
 			-webkit-transition:.5s;
 			transition:.5s;}
 			
+td.d 		{background:transparent url(../images/descd.png) center center no-repeat;}
+td.ml 		{background:transparent url(../images/descml.png) center center no-repeat;}
+			
+big.d		{color:#ff8104;}
+small.d		{color:#04ff81;}
+i.d			{color:#0481ff;}
+i.w			{color:#ff8181;}
+
+			
 .desctt span {
 	margin-left: -999em;
 	position: absolute;

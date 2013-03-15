@@ -30,6 +30,7 @@
 	*+Changed Gems+ info, as well as added description
 	*?+Added description "Clean UI" and changed and change info: now Forge Compatible
 	?+Added Descriptions for all beginning with 'A'
+	?+Added description for "More XP Mod"
 	+Added "Throwable Bricks Mod"
 	+Added "Minecraft Lighting Fix"
 	+Added "Water Shader Alpha"

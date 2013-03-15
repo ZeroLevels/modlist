@@ -66,8 +66,9 @@
 					this.column = index;
 					columns[index] = [];
 
-					// attach some data to each column
-					$('td:nth-child(' + index + ')').each(function () {
+
+					/* attach some data to each column*/ /**Modified to only search rows from tables with .modlist class**/
+					$('table.modlist td:nth-child(' + index + ')').each(function () {
 						columns[index].push({
 							text: this.innerHTML.toUpperCase(),
 							el: this
@@ -75,12 +76,12 @@
 					});
 
 				}).on('keyup', function () {
-					/*bind our event with a 250 ms delay*/ /**(modified from 500 to 100)**/
+					/*bind our event with a 250 ms delay*/ /**(modified from 500 to 250)**/
 					var that = this;
 					clearTimeout(timeout);
 					timeout = setTimeout(function () {
 						doFilter();
-					}, 100);
+					}, 250);
 				}).blur(function() {
 					if (this.value == '') {
 						this.value = 'Click here to search...';
