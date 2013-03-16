@@ -1,3 +1,13 @@
+(March/15/2013)
+	*Updated "Single Player Console" info: now Universal
+	+Added 2 mods by CJB (Which ar the following)
+		+Added "CJB API"
+		+Added "Mob Filter Mod"
+	+Added "PlasmaCraft"
+	+Added "Sign Lag Fix"
+	+Added "Torch Levers"
+	+Added "Glacier Ice"
+
 (March/14/2013)
 	/Fixed mod count again
 	-Removed "Subaraki's Portal Page" (Replaced with the following 6 mods)

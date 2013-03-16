@@ -11,31 +11,28 @@ body		{background-image:url('../../resources/images/mcf_1_3rd.png');
 
 .modlist tr:hover	{background-color:#B7CDDD;}
 
-.modlist th			{background-color:black;
-					color:white;}
-
 table.modlist 		{background-color:#E8EFF4;
-					border:1px solid #B8D1E6;}
+					border:1px solid #B8D1E6;
+					width:85%;
+					border-top:none;}
 			
-table.modlist th		{border: 3px double white}
+table.modlist th		{border: 3px double white;
+					background-color:#28292a;
+					color:white;}
 
 input		{border:solid 2px darkgray;}
 
 /*Stuff to center specific columns*/
 table.modlist td:nth-of-type(2) { /*display:none;*/ }
 table.modlist td:nth-of-type(3) { text-align: center; }
-table.modlist td:nth-of-type(4) { text-align: center; }
-table.modlist td:nth-of-type(5) { text-align: center; }
+table.modlist td:nth-of-type(4) {text-align: center; font-weight: bold;}
+table.modlist td:nth-of-type(5) {text-align: center; text-decoration: underline;}
 /*/*/
 
-.modlist td.fr		{color:#0451FF;
-					text-decoration:underline;}
-.modlist td.fc		{color:#008000;
-					text-decoration:underline;}
-.modlist td.nfc		{color:#FF0000;
-					text-decoration:underline;}
-.modlist td.na		{color:black;
-					text-decoration:underline;}
+.modlist td.fr		{color:#0451FF;}
+.modlist td.fc		{color:#008000;}
+.modlist td.nfc		{color:#FF0000;}
+.modlist td.na		{color:black;}
 
 p			{background-color:black;
 			font-weight:bold;
@@ -71,7 +68,10 @@ a:hover		{color:black;
 td.d 		{background:transparent url(../images/descd.png) center center no-repeat;}
 td.ml 		{background:transparent url(../images/descml.png) center center no-repeat;}
 			
-big.d		{color:#ff8104;}
+big.d		{color:#ff8104;
+			text-decoration: underline;}
+big.rpa		{font-size:111%;}
+big.bc		{font-size:119%;}
 small.d		{color:#04ff81;}
 i.d			{color:#0481ff;}
 i.w			{color:#ff8181;}

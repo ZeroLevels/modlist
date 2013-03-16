@@ -1,3 +1,46 @@
+(March/16/2013)
+	/Fixed previous Changelog... Sorry AtomicStryker and iChun! D:
+	+Added 2 mods by soccerguy3 (Which are the following)
+		+Added "No Ice Melt"
+		+Added "No Fire Spread"
+	+Added 3 mods by bspkrs (Which ar the following)
+		+Added "bspkrsCore"
+		+Added "ArmorStatusHUD"
+		+Added "DirectionHUD"
+		+Added "StatusEffectHUD"
+	+Added 2 mods by chicken_bones (Which ar the following)
+		+Added dependency "CodeChickenCore"
+		+Added "ChickenChunks"
+	+Added 2 mods by DaftPVF (Which ar the following)
+		+Added "CrystalWing"
+		+Added "BlockBreaker / ConnectedDestruction"
+	+Added 5 mods by CJB (Which ar the following)
+		+Added "CJB API"
+		+Added "More Info Mod"
+		+Added "QuickCraft Mod"
+		+Added "X-Ray Mod"
+		+Added "Mob Filter Mod"
+	+Added "WorldStateCheckpoints"	
+	+Added "Item Frame Lag Fix"
+	+Added "Ariadne's Thread"
+	+Added "nZuR's RPG"
+	+Added "MineTunes"
+	+Added "FriendColor"
+	+Added "John: Revived"
+	+Added "Dungeon Mobs"
+	+Added "Female Gender Option"
+	+Added "Inventory Tweaks"
+	+Added "Custom NPCs"
+	+Added "Galacticraft"
+	+Added "SojaCraft"
+	+Added "Torch Levers"
+	+Added "Glacier Ice"
+	+Added "Single Player Console"
+	+Added "Derpy Sheep Mod"
+	+Added "Millenaire"
+	+Added "Ellian's MaterialDetector"
+	+Added "The Runic Dust Mod"
+
 (March/14/2013)
 	+Added 5 mods by MamiyaOtaru (Which are the following)
 		+Added "VoxelMap (Zan's)"
@@ -21,7 +64,7 @@
 		+Added "Shelf"
 		+Added "Biosphere"
 		+Added "Armor Stand"
-	+Added 12 mods by Risugami (Which are the following)
+	+Added 12 mods by AtomicStryker (Which are the following)
 		+Added "Dynamic Lights"
 		+Added "Minions"
 		+Added "Ropes+"
@@ -38,7 +81,7 @@
 		+Added "CreepersNoCreeping"
 		+Added "BatsDropLeather"
 		+Added "WheatTweak"
-	+Added 5 mods by MorpheusZero (Which are the following)
+	+Added 5 mods by iChun (Which are the following)
 		+Added "Death Counter"
 		+Added "Portal Gun"
 		+Added "Trailmix"
