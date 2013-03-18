@@ -1,3 +1,27 @@
+(March/18/2013)
+	+Added "Gems+"
+	+Added "Minecraft Lighting Fix"
+	+Added "BiblioCraft"
+	+Added "Backpacks"
+	+Added "ExtraWorldGeneration"
+	+Added "IngameInfo"
+	+Added "Schematica"
+	+Added "The Barrels Mod"
+	+Added "StackPack"
+	+Added "Torojima's Chococraft"
+	+Added "CraftGuide"
+	+Added "Diamond Buckets+"
+	+Added "Smart Moving"
+	+Added "Flan's Mod"
+	+Added "Forestry"
+	+Added "Enchanting Plus"
+	+Added "Steve's Carts 2"
+	+Added "RecallStone"
+	+Added "Gravestone Mod"
+	+Added "Melee Skeletons"
+	+Added "Scoaleton"
+	+Added "Universal Electricity"
+
 (March/16/2013)
 	/Fixed previous Changelog... Sorry AtomicStryker and iChun! D:
 	+Added 2 mods by soccerguy3 (Which are the following)

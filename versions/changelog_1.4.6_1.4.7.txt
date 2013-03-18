@@ -1,4 +1,22 @@
-(March/15/2013)
+(March/18/2013)
+	*Updated "Single Player Console" info: Added description, dependent, labeled "Clientside Mod"
+	*Updated "Rei's Minimap" info: Added description
+	*Updated "Torojima's Chococraft" info: Added description
+	*Updated "CraftGuide" info: Added description
+	*Updated "Torojima's Chococraft" info: Added description
+	*Updated "Smart Moving" info: Added description
+	*Updated "Flan's Mod" info: Added description
+	+Added 2 mods by Need4Poop402 (Which ar the following)
+		+Added "The Barrels Mod"
+		+Added "Better Login"
+	+Added "CampCraft"
+	+Added "BiblioCraft"
+	+Added "IngameInfo"
+	+Added "Tale of Kingdoms 2"
+	+Added "Gravestone Mod"
+	+Added "PowerIron"
+	
+(March/16/2013)
 	*Updated "Single Player Console" info: now Universal
 	+Added 2 mods by CJB (Which ar the following)
 		+Added "CJB API"
