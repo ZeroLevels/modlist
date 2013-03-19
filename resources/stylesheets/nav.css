@@ -39,3 +39,46 @@ table.listnav	{width:85%;
 					color:black;
 					font-weight:bold;
 					text-shadow: 0px 0px 1pc white;}
+
+
+
+
+
+
+
+/*Experimental Navigation*/
+
+ul#list-nav {
+	list-style:none;
+	display: inline-block;
+	padding:0;
+}
+
+ul#list-nav li {
+	display:inline;
+}
+
+ul#list-nav li a {
+	text-decoration:none;
+	padding:10px 0;
+	width:150px;
+	background:black;
+	color:#eee;
+	float:left;
+	text-align:center;
+	border:1px solid #fff;
+	border-spacing:0px;
+  
+	-webkit-transition:.5s;
+	transition:.5s;
+}
+
+ul#list-nav li a:hover {
+	background:white;
+	color:#000;
+}
+
+ul#list-nav li.h a{
+	background:lightgray;
+	color:#000;
+}

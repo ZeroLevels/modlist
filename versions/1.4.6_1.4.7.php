@@ -17,15 +17,12 @@
 			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.6_1.4.7.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.4.6_1.4.7.txt" class="ns">Click here</a> to view the changelog.
 		</p>
 		
-	<table class="nav">
-		<thead>
-			<th class="nh"><a href="../">Home</a></th>
-			<th class="nh"><a href="../credits/">Credits</a></th>
-			<th class="nh"><a href="../latest/">Current List</a></th>
-			<!--<th class="nh"><a href="../installation/">Current List</a></th>-->
-			<th class="nh"><a href="../banners/">Banners</a></th>
-		</thead>
-	</table>
+	<ul id="list-nav">
+		<li><a href="../">Home</a></li>
+		<li><a href="../credits/">Credits</a></li>
+		<li><a href="../latest/">Current List</a></li>
+		<li><a href="../banners/">Banners</a></li>
+	</ul>
 				
 	<br><hr width="99%" size="6" noshade>
 		
@@ -33,10 +30,11 @@
 	
 	<table class="listnav nav">
 		<thead>
-			<th colspan="2" style="color: black">List Version Navigation</th>
+			<th colspan="3" style="color: black">List Version Navigation</th>
 		</thead>
 		
 		<tbody>
+			<td class="nh"><a href="1.4.4_1.4.5.php">Older Lists</a></td>
 			<td class="h">1.4.6/1.4.7</td>
 			<td class="nh"><a href="1.5.php">1.5 (Latest)</a></td>
 		</tbody>
@@ -380,8 +378,14 @@
 <!--|-->
 <tr><td><a href="http://bit.ly/Xu1KfY">Better Farming</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>iBlackShadow</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
 
-<!--|-->
-<tr><td><a href="http://bit.ly/UxdaF2">BetterFonts</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>The_MiningCrafter</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
+<!--BetterFonts-->
+<tr>
+	<td><a href="http://bit.ly/UxdaF2">BetterFonts</a></td>
+	<td class="desctt"><span class="tt">Adds TrueType/OpenType font support for Minecraft. This mod will use the fonts installed on your system for drawing text instead of the builtin bitmap fonts that come with Minecraft.</span></td>
+	<td>The_MiningCrafter</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
 
 <!--|-->
 <tr><td><a href="http://bit.ly/VDWVUH">Better Furnaces</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TheFrogMC</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
@@ -419,7 +423,7 @@
 <!--Better Sprinting-->
 <tr>
 	<td><a href="http://bit.ly/WA0xnr">Better Sprinting</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Allows you to bind keys to the vanilla movements such as sprinting, as well as keys to toggle sprint/sneak while also adding new functionality.</span></td>
 	<td>chylex</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
@@ -911,6 +915,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Defensive Villagers-->
+<tr>
+	<td><a href="http://bit.ly/XWkxFW">Defensive Villagers</a></td>
+	<td class="desctt"><span class="tt">Rewrites the villager AI and render and model file. Villagers defend themselves from Zombies, Skeletons and Spiders.</span></td>
+	<td>sheenrox82</td>
+	<td>Universal</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--Desert Cotton Plant-->
 <tr>
 	<td><a href="http://bit.ly/XvcK11">Desert Cotton Plant</a></td> 
@@ -1093,7 +1106,16 @@
 <!--|--><tr><td><a href="http://bit.ly/UvsM6x">Epic Siege Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Funwayguy</td> <td>SSP SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
 <!--|--><tr><td><a href="http://bit.ly/VFB7Ip">Equivalent Exchange 3</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Pahimar</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
 <!--|--><tr><td><a href="http://bit.ly/108jRA3">EssentialCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Modbder</td> <td>SSP SMP LAN</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFB6UT">Extended Workbench</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Naruto1310</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+
+<!--Extended Workbench-->
+<tr>
+	<td><a href="http://bit.ly/VFB6UT">Extended Workbench</a></td>
+	<td class="desctt"><span class="tt">Extends the abilities of the workbench, allowing for more powerful tools, armour, and weapons.</span></td>
+	<td>Naruto1310</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--|--><tr><td><a href="http://bit.ly/ZwGpZN">Exter's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>EXTER6</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
 <!--|--><tr><td><a href="http://bit.ly/XCV19S">ExtraBiomesXL</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MisterFiber</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
 
@@ -1162,7 +1184,7 @@
 <!--FloatingRuins-->
 <tr>
 	<td><a href="http://bit.ly/TWHHIG">FloatingRuins</a></td> 
-	<td class="desctt"><span class="tt">Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.</span></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d rpa">ModLoader Option, bspkrsCore Required</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.</span></td> 
 	<td>bspkrs</td> 
 	<td>Universal</td> 
 	<td class="fc">Forge Compatible</td>
@@ -1722,7 +1744,16 @@
 </tr>
 
 <!--|--><tr><td><a href="http://bit.ly/13dKCkb">MineChem</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ljdp</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XD3gCF">Minecraft Capes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>cjz__</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+
+<!--Minecraft Capes-->
+<tr>
+	<td><a href="http://bit.ly/XD3gCF">Minecraft Capes</a></td>
+	<td class="desctt"><span class="tt">"Everybody wants a cape and now you can get one! Create an account in ten seconds and login, upload a cape image or choose one from the gallery! All you have to do now is copy one small changed file into your minecraft.jar file and then you can see it on your character!"</span></td>
+	<td>cjz__</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--|--><tr><td><a href="http://bit.ly/117Qmxk">Minecraft Comes Alive</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WildBamaBoy</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
 
 <!--Minecraft: Community Edition-->
@@ -2220,7 +2251,15 @@
 
 <!--|--><tr><td><a href="http://bit.ly/117W9Dg">RadarBro</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cali Alec</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
 <!--|--><tr><td><a href="http://bit.ly/XDavKW">Railcraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>CovertJaguar</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFLnjG">Rainbow XP Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>AmazedStream</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+
+<!--Rainbow XP Mod-->
+<tr>
+	<td><a href="http://bit.ly/VFLnjG">Rainbow XP Mod</a></td>
+	<td class="desctt"><span class="tt">Changes the colours of the xp orbs into a randomized colour.</span></td>
+	<td>AmazedStream</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
 
 <!--Rancraft Penguins-->
 <tr>
@@ -2452,6 +2491,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Smart Spawn Mod-->
+<tr>
+	<td><a href="http://bit.ly/118DNyU">Smart Spawn Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Compatible</big></center><br/>Protects the player from spawning in dangerous places as will as eliminating the random spawn feature to make it easier to play some custom maps, especially platform based maps like SkyBlock.</span></td>
+	<td>HeshamMeneisi</td>
+	<td>SSP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--|--><tr><td><a href="http://bit.ly/TVTbNW">Sparcs Tweaks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SparcMan</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
 
 <!--Spawner GUI-->
@@ -2488,7 +2536,7 @@
 <!--StartingInventory-->
 <tr>
 	<td><a href="http://bit.ly/TWHHIG">StartingInventory</a></td> 
-	<td class="desctt"><span class="tt">This mod gives you items and blocks each time you start a new world, just by editing a .txt file.</span></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>This mod gives you items and blocks each time you start a new world, just by editing a .txt file.</span></td> 
 	<td>bspkrs</td> 
 	<td>SSP</td> 
 	<td class="fc">Forge Compatible</td>
@@ -2852,7 +2900,7 @@
 <!--TreeCapitator-->
 <tr>
 	<td><a href="http://bit.ly/TWHHIG">TreeCapitator</a></td> 
-	<td class="desctt"><span class="tt">Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.</span></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d rpa">ModLoader Option, bspkrsCore Required</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.</span></td> 
 	<td>bspkrs</td> 
 	<td>Universal</td> 
 	<td class="fc">Forge Compatible</td>
@@ -2869,7 +2917,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/URaBel">Twilight Forest</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Benimatic</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--Twilight Forest-->
+<tr>
+	<td><a href="http://bit.ly/URaBel">Twilight Forest</a></td>
+	<td class="desctt"><span class="tt">Imagine stepping through a portal into a twilight realm, filled with trees as far as they eye can see.  Breathtaking vistas and amazing discoveries await you around every corner.  But beware!  Not all denizens of the forest respond to your intrusion lightly.</span></td>
+	<td>Benimatic</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--|--><tr><td><a href="http://bit.ly/V2ubW7">TyberCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ThatSketchyModder</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
 
 
@@ -3042,7 +3098,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>636</b>
+	Mod count: <b>638</b>
 </div>
 </body>
 

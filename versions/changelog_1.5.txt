@@ -1,3 +1,38 @@
+(March/19/2013)
+	+Added 2 mods by Sopwith (Which are the following)
+		+Added "NoSnow Mod"
+		+Added "AllSnow Mod"
+	+Added 5 mods by Corosus (Which are the following)
+		+Added "Movement State Display"
+		+Added "Move Plus"
+		+Added "Zombie Awareness"
+		+Added "Auto Farmer"
+		+Added "Weather & Tornadoes"
+	+Added 3 mods by "DaftPVF" (Which are the following)
+		+Added "TreeCapitator"
+		+Added "FloatingRuins"
+		+Added "StartingInventory"
+	+Added "Elemental Tinkerer"
+	+Added "Better Sprinting"
+	+Added "Obly's Sheepers Creepers"
+	+Added "Familiars Mod"
+	+Added "Heikki Mod"
+	+Added "Twilight Forest"
+	+Added "Smart Spawn Mod"
+	+Added "AutoSwitch"
+	+Added "Defensive Villagers"
+	+Added "More Village Biomes + Village Logic Addon"
+	+Added "BetterFonts"
+	+Added "Rainbow XP Mod"
+	+Added "KeepMyStats"
+	+Added "Fluid Mechanics"
+	+Added "CreeperSpecies"
+	+Added "Atomic Science"
+	+Added "ICBM - Missiles and Military Tech"
+	+Added "Extended Workbench"
+	+Added "Kingdoms of Amalur"
+	+Added "Texture Pack on Main Menu"
+
 (March/18/2013)
 	+Added "Gems+"
 	+Added "Minecraft Lighting Fix"
@@ -27,18 +62,18 @@
 	+Added 2 mods by soccerguy3 (Which are the following)
 		+Added "No Ice Melt"
 		+Added "No Fire Spread"
-	+Added 3 mods by bspkrs (Which ar the following)
+	+Added 3 mods by bspkrs (Which are the following)
 		+Added "bspkrsCore"
 		+Added "ArmorStatusHUD"
 		+Added "DirectionHUD"
 		+Added "StatusEffectHUD"
-	+Added 2 mods by chicken_bones (Which ar the following)
+	+Added 2 mods by chicken_bones (Which are the following)
 		+Added dependency "CodeChickenCore"
 		+Added "ChickenChunks"
-	+Added 2 mods by DaftPVF (Which ar the following)
+	+Added 2 mods by DaftPVF (Which are the following)
 		+Added "CrystalWing"
 		+Added "BlockBreaker / ConnectedDestruction"
-	+Added 5 mods by CJB (Which ar the following)
+	+Added 5 mods by CJB (Which are the following)
 		+Added "CJB API"
 		+Added "More Info Mod"
 		+Added "QuickCraft Mod"
@@ -72,7 +107,7 @@
 		+Added "Old North / Retro Sun Direction"
 		+Added "No Slimes in Superflat"
 		+Added "Retro Fences"
-	+Added 2 mods by chicken_bones (Which ar the following)
+	+Added 2 mods by chicken_bones (Which are the following)
 		+Added "Not Enough Items (NEI)"
 		+Added "Ender Storage"
 	+Added 12 mods by Risugami (Which are the following)
