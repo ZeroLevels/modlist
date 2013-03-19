@@ -37,9 +37,21 @@ If you have or know of a mod that's not on the current list, please let us know 
 		<span class="selection">1.3.2 List</span>
 </p></center>
 
-<div class="footer">
-	<script type="text/javascript" src="../resources/js/googleAnalytics.js">/*Google Analytics*/</script>
-</div>
+
+<!--Google Analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39433845-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 </body>
 </html>
