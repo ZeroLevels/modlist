@@ -270,4 +270,4 @@
 <tr><td><a href="http://www.minecraftforum.net/topic/1543355-">Yourock129's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>yourock129</td> <td>N/A</td> <td class="na">N/A</td><!----------------------------------------------------------Z-------------------------------------------------------->
 <tr><td><a href="http://www.minecraftforum.net/topic/1451798-">Zaedes' Steamworks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Zaedes</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
 
-</tbody></table></center><br/><div class="footer">	Mod count: <b>270</b></div></body></html>
+</tbody></table></center><br/><div class="footer">	Mod count: <b>270</b><script type="text/javascript" src="../resources/js/googleAnalytics.js">/*Google Analytics*/</script></div></body></html>

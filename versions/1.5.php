@@ -1481,6 +1481,7 @@
 
 <div class="footer">
 	Mod count: <b>142</b>
+	<script type="text/javascript" src="../resources/js/googleAnalytics.js">/*Google Analytics*/</script>
 </div>
 
 </body>

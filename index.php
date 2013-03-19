@@ -37,5 +37,9 @@ If you have or know of a mod that's not on the current list, please let us know 
 		<span class="selection">1.3.2 List</span>
 </p></center>
 
+<div class="footer">
+	<script type="text/javascript" src="../resources/js/googleAnalytics.js">/*Google Analytics*/</script>
+</div>
 
 </body>
+</html>
