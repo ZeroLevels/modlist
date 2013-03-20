@@ -249,7 +249,7 @@
 <!--Audiotori-->
 <tr>
 	<td><a href="http://bit.ly/Ty8izp">Audiotori</a></td>
-	<td class="desctt"><span class="tt">Audiotori is a cascading sound pack manager. It allows you to use multiple sound packs at once to replace the default Minecraft sounds, or replace sounds added by other mods.</span></td>
+	<td class="desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/> Audiotori is a cascading sound pack manager. It allows you to use multiple sound packs at once to replace the default Minecraft sounds, or replace sounds added by other mods.</span></td>
 	<td>Hurricaaane</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
@@ -376,7 +376,14 @@
 </tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/Xu1KfY">Better Farming</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>iBlackShadow</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/Xu1KfY">Better Farming</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>iBlackShadow</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--BetterFonts-->
 <tr>
@@ -388,7 +395,14 @@
 </tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/VDWVUH">Better Furnaces</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TheFrogMC</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/VDWVUH">Better Furnaces</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>TheFrogMC</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Better Login-->
 <tr>
@@ -400,7 +414,14 @@
 </tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/WVWWkW">BetterMaps</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>darahalian</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<tr>
+	<td><a href="http://bit.ly/WVWWkW">BetterMaps</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>darahalian</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--Better Snow Mod-->
 <tr>
@@ -430,13 +451,34 @@
 </tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/VZVIFl">BetterStorage</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>copyboy</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/VZVIFl">BetterStorage</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>copyboy</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--|-->
-<tr><td><a href="http://bit.ly/UA8udT">Better Than Wolves Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>FlowerChild</td> <td>SSP SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<tr>
+	<td><a href="http://bit.ly/UA8udT">Better Than Wolves Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>FlowerChild</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--|-->
-<tr><td><a href="http://bit.ly/ZtEOEa">Better Third Person</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>QuantumMonkey</td> <td>Clientside Mod</td> <td class="nfc">Not Forge Compatible</td></tr>
+<tr>
+	<td><a href="http://bit.ly/ZtEOEa">Better Third Person</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>QuantumMonkey</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--Better Villages Mod-->
 <tr>
@@ -456,10 +498,24 @@
 </tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/WmtfYF">Better World Generation 3</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ted80</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<tr>
+	<td><a href="http://bit.ly/WmtfYF">Better World Generation 3</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ted80</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--|-->
-<tr><td><a href="http://bit.ly/WdWkqT">B&I</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Megabitus98</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/WdWkqT">B&I</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Megabitus98</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--BiblioCraft-->
 <tr>
@@ -471,13 +527,34 @@
 </tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/UPCzHf">BigTrees</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Karob</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<tr>
+	<td><a href="http://bit.ly/UPCzHf">BigTrees</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Karob</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--|-->
-<tr><td><a href="http://bit.ly/VDY3Yr">BinsCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Binero</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/VDY3Yr">BinsCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Binero</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--|-->
-<tr><td><a href="http://bit.ly/106hnC2">Biomes O' Plenty</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TDWP_FTW</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/106hnC2">Biomes O' Plenty</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>TDWP_FTW</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Biosphere-->
 <tr>
@@ -497,8 +574,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Xc8Vf2">Bladecraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DarkHax</td> <td>SSP SMP LAN</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/URmLEU">Blazestone</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bgwoo</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Xc8Vf2">Bladecraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>DarkHax</td>
+	<td>SSP SMP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/URmLEU">Blazestone</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bgwoo</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--BlockBreaker / ConnectedDestruction-->
 <tr>
@@ -509,16 +602,79 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/106hvkX">BlockPhysics Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>id_miner</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UA9Aq0">Blubbeltasche's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Blubbeltasche</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VdSDpo">Brownies</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Zakc</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WmtGCf">bspkrs' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bspkrs</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TEXj4G">Buck's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>OGZxBUCK</td> <td>N/A</td> <td class="na">N/A</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VDYvG4">BuddyCam</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>romibi</td> <td>SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XpjnSz">Buildcraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SirSengir</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/106hvkX">BlockPhysics Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>id_miner</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/SdUdXc">[Buildcraft] Additional Pipes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>tcooc</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/UA9Aq0">Blubbeltasche's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Blubbeltasche</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VdSDpo">Brownies</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Zakc</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WmtGCf">bspkrs' Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bspkrs</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TEXj4G">Buck's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>OGZxBUCK</td>
+	<td>N/A</td>
+	<td class="na">N/A</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VDYvG4">BuddyCam</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>romibi</td>
+	<td>SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XpjnSz">Buildcraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>SirSengir</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/SdUdXc">[Buildcraft] Additional Pipes</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>tcooc</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--[Buildcraft] Advanced Power Systems-->
 <tr>
@@ -539,7 +695,14 @@
 </tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/VMx3D4">[Buildcraft] Compact Mobs</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>itsZN</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/VMx3D4">[Buildcraft] Compact Mobs</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>itsZN</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--[Buildcraft] FXFix-->
 <tr>
@@ -551,10 +714,24 @@
 </tr>
 
 <!--|-->
-<tr><td><a href="http://bit.ly/YmB9bn">[Buildcraft] Liquid Metals</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>fred4106</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/YmB9bn">[Buildcraft] Liquid Metals</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>fred4106</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--|-->
-<tr><td><a href="http://bit.ly/Wmu2J1">[Buildcraft] Logistics Pipes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>thezorro266</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<tr>
+	<td><a href="http://bit.ly/Wmu2J1">[Buildcraft] Logistics Pipes</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>thezorro266</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--[Buildcraft] More Pipes Mod-->
 <tr>
@@ -576,18 +753,82 @@
 
 
 
-<!--|--><tr><td><a href="http://bit.ly/142vPdp">[Buildcraft] TeleportPipes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Zensiert1997</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UxhiF3">[Buildcraft] Thermal Expansion</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>KingLemmingCoFH</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/106ihhR">[Buildcraft] Valve Pipe</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>denoflionsx</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/wWMq6t">Buildcraft-IndustrialCraft Crossover Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>silentdeth</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/RAiKUJ">Building Box Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>jf908</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/142vPdp">[Buildcraft] TeleportPipes</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Zensiert1997</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UxhiF3">[Buildcraft] Thermal Expansion</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>KingLemmingCoFH</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/106ihhR">[Buildcraft] Valve Pipe</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>denoflionsx</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/wWMq6t">Buildcraft-IndustrialCraft Crossover Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>silentdeth</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RAiKUJ">Building Box Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>jf908</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 
 <!----------------------------------------------------------C-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/13jzgw6">CameraCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>diesieben07</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UCnV5m">Camera Studio</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Sushen</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZB4EWR">Camo Lights Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13jzgw6">CameraCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>diesieben07</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UCnV5m">Camera Studio</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Sushen</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZB4EWR">Camo Lights Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phobophobe</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--CampCraft-->
 <tr>
@@ -598,11 +839,51 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/V1UZpk">Campfire Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>JSOne_Studios</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WCNwtc">Caption API</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WyrdOne</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UZFA7d">Castle Defenders</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Azurn</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/117FAHr">Cave-Gen Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>-Reaper-</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UWxU5G">Chainz: The -Missing- Iron Link</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Jade Knightblazer</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V1UZpk">Campfire Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>JSOne_Studios</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WCNwtc">Caption API</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>WyrdOne</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UZFA7d">Castle Defenders</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Azurn</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117FAHr">Cave-Gen Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>-Reaper-</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UWxU5G">Chainz: The -Missing- Iron Link</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Jade Knightblazer</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Chat Bubbles-->
 <tr>
@@ -613,8 +894,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WntbYe">ChatSounds</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bannedtom</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/X6UWFi">Chay Craft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>_Spark_Master_Chris_</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WntbYe">ChatSounds</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bannedtom</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/X6UWFi">Chay Craft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>_Spark_Master_Chris_</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Chert Craft-->
 <tr>
@@ -652,9 +949,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/117HoQC">ChristmasCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Newt_Head</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10GzQEL">Christmas Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Batak</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Sfotkx">Chocolatecraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>infina</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117HoQC">ChristmasCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Newt_Head</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10GzQEL">Christmas Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Batak</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Sfotkx">Chocolatecraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>infina</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--CJB API-->
 <tr>
@@ -665,7 +986,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13dqmPA">Clay Soldiers Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SanAndreasP</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dqmPA">Clay Soldiers Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>SanAndreasP</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Clean UI-->
 <tr>
@@ -676,13 +1005,69 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Xe7BZa">Click Mining Fix Fix</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>IDontEvenKnow</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13jfCjM">Cobblestone And Stone Armour</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>I_Iz_Shahid</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UCqHaw">CocoaCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>-Reaper-</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13tQtCX">Cogs of the Machine</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Deatrathias</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/V1Zznz">Colored Glass</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Samait</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UR0s1a">Coloured Beds Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Gorion91</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Uvrj0e">Commander Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Visudex</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Xe7BZa">Click Mining Fix Fix</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>IDontEvenKnow</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13jfCjM">Cobblestone And Stone Armour</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>I_Iz_Shahid</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UCqHaw">CocoaCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>-Reaper-</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13tQtCX">Cogs of the Machine</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Deatrathias</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V1Zznz">Colored Glass</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Samait</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UR0s1a">Coloured Beds Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Gorion91</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Uvrj0e">Commander Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Visudex</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--ComputerCraft-->
 <tr>
@@ -703,7 +1088,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TWGOzR">[ComputerCraft] MiscPeripherals</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>RichardG867</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWGOzR">[ComputerCraft] MiscPeripherals</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>RichardG867</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--[ComputerCraft] OpenCCSensors-->
 <tr>
@@ -768,9 +1161,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WjlRBm">ControlPack</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>infinitiesloop</td> <td>Clientside Mod</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13aX0SS">Converter Gem</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>brentjc57</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VJZSkh">Coros Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Corosus</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WjlRBm">ControlPack</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>infinitiesloop</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13aX0SS">Converter Gem</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>brentjc57</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VJZSkh">Coros Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Corosus</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Corn Nuts-->
 <tr>
@@ -781,9 +1198,33 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TGjeZl">crackedEgg's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>crackedEgg</td> <td>SSP SMP LAN</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZwDikN">Craftable Animals</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Naruto1310</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/SxVKGl">Craft And Enchant</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Maties7</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TGjeZl">crackedEgg's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>crackedEgg</td>
+	<td>SSP SMP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZwDikN">Craftable Animals</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Naruto1310</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/SxVKGl">Craft And Enchant</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Maties7</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--CraftGuide-->
 <tr>
@@ -794,8 +1235,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WDy7Ix">crazyb's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>crazyb</td> <td>N/A</td> <td class="na">N/A</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XJGepW">Crazycraft Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Ubu13</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WDy7Ix">crazyb's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>crazyb</td>
+	<td>N/A</td>
+	<td class="na">N/A</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XJGepW">Crazycraft Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Ubu13</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--CrazyOres-->
 <tr>
@@ -815,8 +1272,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13drwdW">Crossbow Mod 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>micdoodle8</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WnOhGk">Crudedragos's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Crudedragos</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13drwdW">Crossbow Mod 2</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>micdoodle8</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnOhGk">Crudedragos's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Crudedragos</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--CrystalWing-->
 <tr>
@@ -836,10 +1309,42 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13dry5y">CubeX2's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>CubeX2</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/W1Y0Tw">Cube World</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>therealergo</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TGjnfh">Custom Lan Port Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>CptHunter</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XCTaBY">Custom Mob Spawner</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DrZhark</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dry5y">CubeX2's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>CubeX2</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W1Y0Tw">Cube World</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>therealergo</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TGjnfh">Custom Lan Port Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>CptHunter</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XCTaBY">Custom Mob Spawner</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>DrZhark</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Custom NPCs-->
 <tr>
@@ -850,7 +1355,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VK0oyF">Custom Ore Generation</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>JRoush</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VK0oyF">Custom Ore Generation</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>JRoush</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Custom Stuff 2-->
 <tr>
@@ -873,7 +1386,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WnybMA">Damage Indicators</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>rich1051414</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnybMA">Damage Indicators</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>rich1051414</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--DarkLords RPG-->
 <tr>
@@ -884,9 +1405,33 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/1432n72">Dark Messiah's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>dark_messiah</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/V21gBt">Davidee's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Davidee</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UR0Qgf">DayZ Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>creater_admin</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/1432n72">Dark Messiah's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>dark_messiah</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V21gBt">Davidee's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Davidee</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UR0Qgf">DayZ Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>creater_admin</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Dead Bush Replacement-->
 <tr>
@@ -942,8 +1487,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/ThWssX">Desired Blocks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WqV6IQ">Desperation Food</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ThWssX">Desired Blocks</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phobophobe</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WqV6IQ">Desperation Food</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phobophobe</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Diamond Buckets+-->
 <tr>
@@ -954,21 +1515,61 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/ZfLdOq">Diamond Meter</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>PCChazter</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VqmBTA">Dimensional Doors</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>stevenrs11</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZfLdOq">Diamond Meter</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>PCChazter</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VqmBTA">Dimensional Doors</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>stevenrs11</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--DirectionHUD-->
 <tr>
 	<td><a href="http://bit.ly/WmtGCf">DirectionHUD</a></td> 
-	<td class="ml desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Displays your magnetic compass heading at the top of your screen.</span></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Displays your magnetic compass heading at the top of your screen.</span></td> 
 	<td>bspkrs</td> 
 	<td>Clientside Mod</td> 
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/RBORmX">DivineRPG</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Xolova</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZwFfOb">Double Door Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>kirsybuu</td> <td>SSP SMP LAN</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Shmlc3">Dragon Mounts</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>BarracudaATA</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RBORmX">DivineRPG</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Xolova</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZwFfOb">Double Door Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>kirsybuu</td>
+	<td>SSP SMP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Shmlc3">Dragon Mounts</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>BarracudaATA</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Dungeon Crawler-->
 <tr>
@@ -979,7 +1580,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WUlGZf">Dungeon Mobs</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>GnomeWorks</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WUlGZf">Dungeon Mobs</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>GnomeWorks</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--DungeonPack-->
 <tr>
@@ -990,8 +1599,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13aXSXU">DupleCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cannash54</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UCsPzk">Durability101</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>RedBanHammer</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13aXSXU">DupleCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Cannash54</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UCsPzk">Durability101</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>RedBanHammer</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Dynamic Lights-->
 <tr>
@@ -1002,14 +1627,46 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/ZfLJvR">Dynamic Mazes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>-Reaper-</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VNNyib">Dynmap</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>mikeprimm</td> <td>SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZfLJvR">Dynamic Mazes</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>-Reaper-</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VNNyib">Dynmap</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>mikeprimm</td>
+	<td>SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 
 <!----------------------------------------------------------E-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/108jsgI">Easy Crafting</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Lepko</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UJgYQe">Easy Items</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/108jsgI">Easy Crafting</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Lepko</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UJgYQe">Easy Items</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phobophobe</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Edible Ores Mod-->
 <tr>
@@ -1038,7 +1695,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WnORUu">Elemental Crystals Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ScoutGuardian</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnORUu">Elemental Crystals Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ScoutGuardian</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Elemental Tinkerer-->
 <tr>
@@ -1058,8 +1723,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/108jAgk">Emasher's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Emasher</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XCUBjJ">Emeralds+ Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Dustpelt</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/108jAgk">Emasher's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Emasher</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XCUBjJ">Emeralds+ Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Dustpelt</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--Enchanting Plus-->
 <tr>
@@ -1070,8 +1751,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13vszGc">Endermen Don't Pick Up Blocks Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Jeffrey6978</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10Xcfka">EnderSpace</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>tbh1138</td> <td>Clientside Mod</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13vszGc">Endermen Don't Pick Up Blocks Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Jeffrey6978</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10Xcfka">EnderSpace</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>tbh1138</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--Ender Storage-->
 <tr>
@@ -1100,12 +1797,60 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VHGoPt">Enhanced Books</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>sn0re</td> <td>Universal</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TGk9sM">Enhanced Portals</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Alz454</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13U7lTM">Enhanced Visuals</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Sonicjumper</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvsM6x">Epic Siege Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Funwayguy</td> <td>SSP SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFB7Ip">Equivalent Exchange 3</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Pahimar</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/108jRA3">EssentialCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Modbder</td> <td>SSP SMP LAN</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VHGoPt">Enhanced Books</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>sn0re</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TGk9sM">Enhanced Portals</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Alz454</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13U7lTM">Enhanced Visuals</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Sonicjumper</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvsM6x">Epic Siege Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Funwayguy</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFB7Ip">Equivalent Exchange 3</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Pahimar</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/108jRA3">EssentialCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Modbder</td>
+	<td>SSP SMP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Extended Workbench-->
 <tr>
@@ -1116,8 +1861,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/ZwGpZN">Exter's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>EXTER6</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XCV19S">ExtraBiomesXL</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MisterFiber</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZwGpZN">Exter's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>EXTER6</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XCV19S">ExtraBiomesXL</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MisterFiber</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--ExtraWorldGeneration-->
 <tr>
@@ -1131,12 +1892,60 @@
 
 <!----------------------------------------------------------F-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/13aYuwq">Factorization</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>neptunepink</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WCTavC">Falling Meteors Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>AlexDGr8r</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VNNZZT">Familiars</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>pitman-87</td> <td>SSP SMP LAN</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10b0Kzy">Fancy Glass</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Darkmainiac</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/144adfU">FarmCraftory</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ComicRetrolution</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XebgGc">Fearitude's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Fearitude</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13aYuwq">Factorization</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>neptunepink</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WCTavC">Falling Meteors Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>AlexDGr8r</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VNNZZT">Familiars</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>pitman-87</td>
+	<td>SSP SMP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10b0Kzy">Fancy Glass</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Darkmainiac</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/144adfU">FarmCraftory</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ComicRetrolution</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XebgGc">Fearitude's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Fearitude</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Female Gender Option Mod-->
 <tr>
@@ -1147,8 +1956,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/V23Ib8">Ferullo's Gun Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>f3rullo14</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VNOanT">fihgu's Command Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>fihgu</td> <td>Serverside Mod</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V23Ib8">Ferullo's Gun Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>f3rullo14</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VNOanT">fihgu's Command Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>fihgu</td>
+	<td>Serverside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Finder Compass-->
 <tr>
@@ -1177,9 +2002,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VK1yu3">Flat Bedrock Layer</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DerBaM</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WnAXkR">FlintCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>666mayhem666</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WCTPwZ">Flint Tools</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Samait</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VK1yu3">Flat Bedrock Layer</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>DerBaM</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnAXkR">FlintCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>666mayhem666</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WCTPwZ">Flint Tools</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Samait</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--FloatingRuins-->
 <tr>
@@ -1219,7 +2068,8 @@
 
 <!--Forestry-->
 <tr>
-	<td><a href="http://bit.ly/Sk5Snp">Forestry</a></td> <td class="desctt"><span class="tt">
+	<td><a href="http://bit.ly/YVPSHD">Forestry</a> (Beta)</td>
+	<td class="desctt"><span class="tt">
 <ul>
 	<li>Automatic Farms</li>
 	<li>Bee breeding</li>
@@ -1240,14 +2090,54 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WCTXws">[Forestry] Extra Bees</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Binnie</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WCTXws">[Forestry] Extra Bees</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Binnie</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VFC2bC">[Forestry] Plugins for Forestry 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>denoflions</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UAenLP">[Forestry] ThaumicBees</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MysteriousAges</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
 
-<!--|--><tr><td><a href="http://bit.ly/forge-dl">Forge</a> [<a href="http://bit.ly/TWKJg0">mirror</a>] (API)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>LexManos</td> <td>Universal</td> <td class="fr">Forge Itself</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFC2bC">[Forestry] Plugins for Forestry 2</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>denoflions</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VeIOSL">ForgeEssentials</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ForgeEssentials</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UAenLP">[Forestry] ThaumicBees</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MysteriousAges</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/forge-dl">Forge</a> [<a href="http://bit.ly/TWKJg0">mirror</a>] (API)</td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>LexManos</td>
+	<td>Universal</td>
+	<td class="fr">Forge Itself</td>
+</tr>
+
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VeIOSL">ForgeEssentials</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ForgeEssentials</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Forgotten Nature-->
 <tr>
@@ -1285,16 +2175,64 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/10Uq167">FriendsOverlay</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Michi302</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFCdUm">Fricative_Melon's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Fricative_Melon</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10Uq167">FriendsOverlay</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Michi302</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFCdUm">Fricative_Melon's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Fricative_Melon</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 
 <!----------------------------------------------------------G-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/13aZjFI">GahBryXXX's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MrGahBryXXX</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13aZktd">Gammabright</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>kymaster</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10TEH5C">GardenCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>LukeD1994</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UR1VEK">Gasses in Minecraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>joriswitteman</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13aZjFI">GahBryXXX's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MrGahBryXXX</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13aZktd">Gammabright</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>kymaster</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10TEH5C">GardenCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>LukeD1994</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UR1VEK">Gasses in Minecraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>joriswitteman</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Gems+-->
 <tr>
@@ -1314,10 +2252,42 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VFCy9I">Glass Tools Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bigDon_001</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFCzKX">GL Shaders OF</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>id_miner</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VK1Y3q">GLSL Shaders mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>karyonix</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XCWJYG">Goblins</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Sartharis</td> <td>SSP LAN</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFCy9I">Glass Tools Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bigDon_001</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFCzKX">GL Shaders OF</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>id_miner</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VK1Y3q">GLSL Shaders mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>karyonix</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XCWJYG">Goblins</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Sartharis</td>
+	<td>SSP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Goblins and Giants-->
 <tr>
@@ -1346,10 +2316,42 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Zfrdvp">Greg's Blocks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>gcewing</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/117MwEs">Greg's Lighting</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>gcewing</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UCv9Gu">Greg's Prospecting</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>gcewing</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TWLDcp">Grey Goo Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>stevenrs11</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zfrdvp">Greg's Blocks</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>gcewing</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117MwEs">Greg's Lighting</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>gcewing</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UCv9Gu">Greg's Prospecting</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>gcewing</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWLDcp">Grey Goo Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>stevenrs11</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Griefer Creepers-->
 <tr>
@@ -1360,9 +2362,33 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Xxl3HK">GrowthCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Gwafu</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TGlcZA">GuiAPI</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ShaRose</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XCXfG1">Gulliver the Resizing Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>UncleMion</td> <td>SSP SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Xxl3HK">GrowthCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Gwafu</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TGlcZA">GuiAPI</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ShaRose</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XCXfG1">Gulliver the Resizing Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>UncleMion</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 
 <!----------------------------------------------------------H-------------------------------------------------------->
@@ -1376,7 +2402,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/V4z1RQ">Harken Scythe: Reap -What- You Sow</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Jade Knightblazer</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V4z1RQ">Harken Scythe: Reap -What- You Sow</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Jade Knightblazer</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Hay Mod-->
 <tr>
@@ -1387,7 +2421,23 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/108lOfH">HD Skins and Cloaks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>denoflions</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/108lOfH">HD Skins and Cloaks</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>denoflions</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Healing Hearts Mod-->
+<tr>
+	<td><a href="http://bit.ly/11eEPJQ">Healing Hearts Mod</a></td>
+	<td class="desctt"><span class="tt">Lets you smelt doown hostile mob drops into heart dust, which can then be used to craft heart items that heal instantly upon righ-click.</span></td>
+	<td>Lewis_Berry</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--Health Packs-->
 <tr>
@@ -1398,20 +2448,100 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/XPptd0">Herblore Mod</a> (adults only)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>calebmanley</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFDivm">Herobrine Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>burnner_</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/145GFhX">Highlands</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>sdj64</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VEWk2z">Holidays</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bgwoo</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/V26xc9">HomiePower Mod FE</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>hoshan</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10WOfh4">Hostile Drops</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Barodas</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UkXqRU">Huge Trees are Huge</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Wrsford</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10uHyCG">Hurricaaane's Glitter Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Hurricaaane</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WdXKBQ">Hybrid Block Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Geforce132</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XPptd0">Herblore Mod</a> (adults only)</td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>calebmanley</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFDivm">Herobrine Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>burnner_</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/145GFhX">Highlands</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>sdj64</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VEWk2z">Holidays</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bgwoo</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V26xc9">HomiePower Mod FE</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>hoshan</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10WOfh4">Hostile Drops</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Barodas</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UkXqRU">Huge Trees are Huge</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Wrsford</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10uHyCG">Hurricaaane's Glitter Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Hurricaaane</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WdXKBQ">Hybrid Block Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Geforce132</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 
 <!----------------------------------------------------------I-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/SfrAbZ">Ice Cream Sandwich Creeper Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>IrunoHatake</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/SfrAbZ">Ice Cream Sandwich Creeper Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>IrunoHatake</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--ID Resolver-->
 <tr>
@@ -1422,7 +2552,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Uvusgl">Immibis's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>immibis</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Immibis's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>immibis</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Improved Chat-->
 <tr>
@@ -1451,19 +2589,123 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/ZyLIsn">IndustrialCraft 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>by Alblaka</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/xmvYp1">[IndustrialCraft 2] Advanced Machines</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>AtomicStryker</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvGdJ4">[IndustrialCraft 2] Advanced Machines Original</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Snyke</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/POXv1O">[IndustrialCraft 2] Advanced Power Management</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Pantheis</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Tj9hmM">[IndustrialCraft 2] Advanced Repulsion Systems</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>immibis</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/GELi8l">[IndustrialCraft 2] Advanced Solar Panels</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SeNtiMeL</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvGzzp">[IndustrialCraft 2] Advanced Technologies</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>thebest108</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XgFJn4">[IndustrialCraft 2] Armour and Tool Status HUD</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DoomFruit</td> <td>Clientside Mod</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Tqg4ra">[IndustrialCraft 2] Backpack HUD</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mineshopper</td> <td>Clientside Mod</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UnjZGc">[IndustrialCraft 2] Beam Me Up!</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>narc</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XyJTXD">[IndustrialCraft 2] BiomeGenerators</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>F4113nb34st</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/11sEN48">[IndustrialCraft 2] BrainTech Agricultures Datachip Package</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>I don't now</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UWuj7J">[IndustrialCraft 2] ChargePads</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Myrathi</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZyLIsn">IndustrialCraft 2</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>by Alblaka</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/xmvYp1">[IndustrialCraft 2] Advanced Machines</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>AtomicStryker</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvGdJ4">[IndustrialCraft 2] Advanced Machines Original</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Snyke</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/POXv1O">[IndustrialCraft 2] Advanced Power Management</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Pantheis</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Tj9hmM">[IndustrialCraft 2] Advanced Repulsion Systems</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/GELi8l">[IndustrialCraft 2] Advanced Solar Panels</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>SeNtiMeL</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvGzzp">[IndustrialCraft 2] Advanced Technologies</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>thebest108</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XgFJn4">[IndustrialCraft 2] Armour and Tool Status HUD</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>DoomFruit</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Tqg4ra">[IndustrialCraft 2] Backpack HUD</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Mineshopper</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UnjZGc">[IndustrialCraft 2] Beam Me Up!</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>narc</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XyJTXD">[IndustrialCraft 2] BiomeGenerators</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>F4113nb34st</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/11sEN48">[IndustrialCraft 2] BrainTech Agricultures Datachip Package</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>I don't now</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UWuj7J">[IndustrialCraft 2] ChargePads</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Myrathi</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--[IndustrialCraft 2] Combo Armors-->
 <tr>
@@ -1474,16 +2716,96 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UvuyEV">[IndustrialCraft 2] Compact Solars</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>cpw</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XgF5Gl">[IndustrialCraft 2] Custom Machine Recipes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>denoflions</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10uwXrr">[IndustrialCraft 2] F4113nb34st's Addons</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>F4113nb34st</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZPWbdH">[IndustrialCraft 2] GoldenOrb</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>F4113nb34st</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/M9OQhY">[IndustrialCraft 2] Gravitation Suite</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SeNtiMeL</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/X5rZhS">[IndustrialCraft 2] GregTech-Addon</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>GregoriusT</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/W2FIAu">[IndustrialCraft 2] Liquid UU-Matter</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>narc</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/zcqAvY">[IndustrialCraft 2] Modular Force Field System</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Thunderdark</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvHNeb">[IndustrialCraft 2] NetworkAnchor</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>LostCoder</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/IkHWHJ">[IndustrialCraft 2] Nuclear Control</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Shedar</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvuyEV">[IndustrialCraft 2] Compact Solars</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>cpw</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XgF5Gl">[IndustrialCraft 2] Custom Machine Recipes</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>denoflions</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10uwXrr">[IndustrialCraft 2] F4113nb34st's Addons</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>F4113nb34st</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZPWbdH">[IndustrialCraft 2] GoldenOrb</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>F4113nb34st</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/M9OQhY">[IndustrialCraft 2] Gravitation Suite</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>SeNtiMeL</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/X5rZhS">[IndustrialCraft 2] GregTech-Addon</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>GregoriusT</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W2FIAu">[IndustrialCraft 2] Liquid UU-Matter</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>narc</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/zcqAvY">[IndustrialCraft 2] Modular Force Field System</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Thunderdark</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvHNeb">[IndustrialCraft 2] NetworkAnchor</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>LostCoder</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/IkHWHJ">[IndustrialCraft 2] Nuclear Control</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Shedar</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--[IndustrialCraft 2] OreDupeFix-->
 <tr>
@@ -1494,9 +2816,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UnkbW8">[IndustrialCraft 2] Petroleum Generator</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DrCeph</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvGThA">[IndustrialCraft 2] QuantumPack</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>LostCoder</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/KurvKg">[IndustrialCraft 2] Transformers</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Snyke</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UnkbW8">[IndustrialCraft 2] Petroleum Generator</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>DrCeph</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvGThA">[IndustrialCraft 2] QuantumPack</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>LostCoder</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/KurvKg">[IndustrialCraft 2] Transformers</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Snyke</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Infernal Mobs-->
 <tr>
@@ -1507,24 +2853,88 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/117Nhxo">InfiCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>mDiyo</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117Nhxo">InfiCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>mDiyo</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--IngameInfo-->
 <tr>
 	<td><a href="http://bit.ly/TWHHIG">IngameInfo</a></td>
-	<td class="ml desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Want to know how much score you have without having to die? In need of real time information like weather, light level or your world size as you explore? Then this mod is for you!</span></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Want to know how much score you have without having to die? In need of real time information like weather, light level or your world size as you explore? Then this mod is for you!</span></td>
 	<td>bspkrs</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WnDHP9">In-game NBTEdit</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Davidee</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Zwk2DV">InkMaster</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>flAked</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UN9Lyn">Insta House Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFEkaX">Instant Repeaters Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MrDenco</td> <td>N/A</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TWMBpa">Invasion Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Lieu</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZfQxBk">Inventory Tweaks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>jimeowan</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/11KeOoX">iPod mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Pumpkincraft</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnDHP9">In-game NBTEdit</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Davidee</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zwk2DV">InkMaster</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>flAked</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UN9Lyn">Insta House Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phobophobe</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFEkaX">Instant Repeaters Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MrDenco</td>
+	<td>N/A</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWMBpa">Invasion Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Lieu</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZfQxBk">Inventory Tweaks</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>jimeowan</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/11KeOoX">iPod mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Pumpkincraft</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--IronChests 2-->
 <tr>
@@ -1544,13 +2954,35 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13b0vsE">Ivorius' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Ivorius</td> <td>N/A</td> <td class="na">N/A</td>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13b0vsE">Ivorius' Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Ivorius</td>
+	<td>N/A</td>
+	<td class="na">N/A</td>
 
 
 <!----------------------------------------------------------J-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/SzK6fl">Jaffas and More</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>monnef</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/RBQOQg">Jammy Furniture Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Jammy780</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/SzK6fl">Jaffas and More</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>monnef</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RBQOQg">Jammy Furniture Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Jammy780</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Jelly Cubes-->
 <tr>
@@ -1561,13 +2993,37 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Vq8oWL">JourneyMap</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>techbrew</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/14iD0gX">Joypad Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>freeshiny</td> <td>Clientside Mod</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Vq8oWL">JourneyMap</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>techbrew</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/14iD0gX">Joypad Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>freeshiny</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 
 <!----------------------------------------------------------K-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/WnEAHp">Keepcalm's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>KeepCalm</td> <td>SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnEAHp">Keepcalm's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>KeepCalm</td>
+	<td>SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--KenshiroMod-->
 <tr>
@@ -1578,11 +3034,27 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TWMYQm">Keyhole Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>briman0094</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWMYQm">Keyhole Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>briman0094</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 
 
-<!--|--><tr><td><a href="http://bit.ly/13b0FAm">Kirwi's Clay Golem Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kirwii</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13b0FAm">Kirwi's Clay Golem Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Kirwii</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Koi-->
 <tr>
@@ -1596,7 +3068,15 @@
 
 <!----------------------------------------------------------L-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/VK35QB">Lanterns Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>HyperNerd</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VK35QB">Lanterns Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>HyperNerd</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Lava Decay-->
 <tr>
@@ -1616,7 +3096,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/RBR2ai">Legendary Beasts</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Davidee</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RBR2ai">Legendary Beasts</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Davidee</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--LegendGear-->
 <tr>
@@ -1627,7 +3115,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WmOkmG">Light Level Overlay</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>4poc</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WmOkmG">Light Level Overlay</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>4poc</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Light Sensor-->
 <tr>
@@ -1638,19 +3134,91 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/RBR2XJ">Lion King Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mevans</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UR3eUm">LittleBlocks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>VengeurK</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Xee3zn">litteMaidMod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>eromanrocks</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Vmg67V">Lockit</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>hypercross</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Vi5xyQ">LOLCaatz' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>LOLCaatz</td> <td>SSP SMP</td> <td class="na">N/A</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFFPFY">Lots of Food</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>pifou92000</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Sw1AcJ">Lunatrius' Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Lunatrius</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RBR2XJ">Lion King Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Mevans</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UR3eUm">LittleBlocks</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>VengeurK</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Xee3zn">litteMaidMod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>eromanrocks</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Vmg67V">Lockit</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>hypercross</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Vi5xyQ">LOLCaatz' Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>LOLCaatz</td>
+	<td>SSP SMP</td>
+	<td class="na">N/A</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFFPFY">Lots of Food</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>pifou92000</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Sw1AcJ">Lunatrius' Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Lunatrius</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 
 <!----------------------------------------------------------M-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/WnFEuT">Macro/Keybind Mod and LiteLoader</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mumfrey</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XyO45V">Mac's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mac</td> <td>SSP</td> <td class="na">N/A</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnFEuT">Macro/Keybind Mod and LiteLoader</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Mumfrey</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XyO45V">Mac's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Mac</td>
+	<td>SSP</td>
+	<td class="na">N/A</td>
+</tr>
+
 
 <!--Magic Rings Mod-->
 <tr>
@@ -1695,13 +3263,69 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Ty9cf2">MamiyaOtaru's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MamiyaOtaru</td> <td>N/A</td> <td class="na">N/A</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13duyig">MapWriter Mini Map Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>mapwriter</td> <td>Clientside Mod</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/V29Wrx">Marcopolo's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>marcopolo1613</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvnoQW">Marvelous Moon Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>majikguy</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZfUxlk">MAtmos</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Hurricaaane</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/RBSae2">MCDitty</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>fenceFoil</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13dvAep">Meat+</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Inofficially</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Ty9cf2">MamiyaOtaru's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MamiyaOtaru</td>
+	<td>N/A</td>
+	<td class="na">N/A</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13duyig">MapWriter Mini Map Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>mapwriter</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V29Wrx">Marcopolo's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>marcopolo1613</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvnoQW">Marvelous Moon Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>majikguy</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--MAtmos-->
+<tr>
+	<td><a href="http://bit.ly/ZfUxlk">MAtmos</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirpling in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.</span></td>
+	<td>Hurricaaane</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RBSae2">MCDitty</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>fenceFoil</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dvAep">Meat+</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Inofficially</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Mecha Craft-->
 <tr>
@@ -1712,7 +3336,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WD0SWs">MegaCraft Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>NielsSrychi</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WD0SWs">MegaCraft Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>NielsSrychi</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Megalithic Construction Mod-->
 <tr>
@@ -1723,7 +3355,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UvxjWI">Metallurgy 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Shadowclaimer</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvxjWI">Metallurgy 2</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Shadowclaimer</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Millenaire-->
 <tr>
@@ -1743,7 +3383,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13dKCkb">MineChem</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ljdp</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dKCkb">MineChem</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ljdp</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Minecraft Capes-->
 <tr>
@@ -1754,7 +3402,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/117Qmxk">Minecraft Comes Alive</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WildBamaBoy</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117Qmxk">Minecraft Comes Alive</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>WildBamaBoy</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Minecraft: Community Edition-->
 <tr>
@@ -1774,7 +3430,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TGo1tC">Minecraft My Way mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WyrdOne</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TGo1tC">Minecraft My Way mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>WyrdOne</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--MineFactory Reloaded-->
 <tr>
@@ -1803,7 +3467,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UAlxQ8">MineLittlePony</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Verdana</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UAlxQ8">MineLittlePony</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Verdana</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Minema-->
 <tr>
@@ -1823,7 +3495,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/W9HHqH">Mining Enhancements</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W9HHqH">Mining Enhancements</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phobophobe</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Minions-->
 <tr>
@@ -1834,9 +3514,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UvyxRJ">Mo' Creatures</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DrZhark</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UAoujP">Mo' Foliage</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Andy3285</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WD4OGB">Mo' Food and Crops</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>v3XzZ</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvyxRJ">Mo' Creatures</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>DrZhark</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UAoujP">Mo' Foliage</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Andy3285</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WD4OGB">Mo' Food and Crops</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>v3XzZ</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Mo' Zombies-->
 <tr>
@@ -1847,8 +3551,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VPKx0W">Moar Achievements Redux</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Sonicjumper</td> <td>Clientside Mod</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Zg0ejf">Moar Stuff Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Viktorrr321</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VPKx0W">Moar Achievements Redux</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Sonicjumper</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zg0ejf">Moar Stuff Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Viktorrr321</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Mob Amputation-->
 <tr>
@@ -1877,8 +3597,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/ZwUyGv">Mob Spawn Controls</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Davidee</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XD7dHH">Mob Talker</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SCMowns</td> <td>SSP LAN</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZwUyGv">Mob Spawn Controls</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Davidee</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XD7dHH">Mob Talker</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>SCMowns</td>
+	<td>SSP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--ModLoader-->
 <tr>
@@ -1889,8 +3625,24 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/XeiQAH">ModOptionsAPI</a>(API)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WyrdOne</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WW9bhs">Mod Update Manager</a> (API)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TheWhiteWolves</td> <td>Clientside Mod</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XeiQAH">ModOptionsAPI</a>(API)</td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>WyrdOne</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WW9bhs">Mod Update Manager</a> (API)</td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>TheWhiteWolves</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--M-Ore Mod-->
 <tr>
@@ -1901,7 +3653,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/ZwUSFi">More Bows Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>iDiamondhunter</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZwUSFi">More Bows Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>iDiamondhunter</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--More Coals-->
 <tr>
@@ -1930,8 +3690,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VNTTtZ">More Explosives</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>NikolaiTheEpicGenius</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFJYtx">More Fences Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bobbyjoe2</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VNTTtZ">More Explosives</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>NikolaiTheEpicGenius</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFJYtx">More Fences Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bobbyjoe2</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--More Furnaces-->
 <tr>
@@ -1942,8 +3718,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VxcrPZ">More Health Enhanced</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>nohero</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Y39bRR">More Herobrines Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>7ggw88</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VxcrPZ">More Health Enhanced</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>nohero</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Y39bRR">More Herobrines Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>7ggw88</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--More Info Mod-->
 <tr>
@@ -1954,10 +3746,43 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Zg0U8p">More Pistons Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MontyPylon</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/W9GqQD">More Player Models</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Noppes</td> <td>SSP SMP LAN</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WlEcus">More Records Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Darkhax</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/V2jToU">More Slicers and Slappers</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ZombifiedMinecrafter</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zg0U8p">More Pistons Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MontyPylon</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W9GqQD">More Player Models</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Noppes</td>
+	<td>SSP SMP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WlEcus">More Records Mod</a></td>
+<td class="desctd"><span class=""><!--INFO--></span></td>
+<td>Darkhax</td>
+<td>Universal</td>
+<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V2jToU">More Slicers and Slappers</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ZombifiedMinecrafter</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--More Stackables-->
 <tr>
@@ -1968,8 +3793,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UR6Wxe">More Swords Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DarkHax</td> <td>SSP SMP LAN</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/SfwZji">More Village Biomes + Village Logic Addon</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>shortwind</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UR6Wxe">More Swords Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>DarkHax</td>
+	<td>SSP SMP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/SfwZji">More Village Biomes + Village Logic Addon</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>shortwind</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--More XP Mod-->
 <tr>
@@ -1980,7 +3821,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/117U1v2">MorpheusZero's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MorpheusZero</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117U1v2">MorpheusZero's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MorpheusZero</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Mouse Tweaks-->
 <tr>
@@ -1991,7 +3840,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TWUoDd">Multi Crafting Table</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>dmillerw</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWUoDd">Multi Crafting Table</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>dmillerw</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Multi Mine-->
 <tr>
@@ -2011,7 +3868,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UR753N">MumbleLink</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>zsawyer</td> <td>SSP SMP LAN</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UR753N">MumbleLink</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>zsawyer</td>
+	<td>SSP SMP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--MusicCraft-->
 <tr>
@@ -2022,7 +3887,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/USU7lo">Music Timer Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cycloneblaze</td> <td>Clientside Mod</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/USU7lo">Music Timer Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Cycloneblaze</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--Mushroom Torch-->
 <tr>
@@ -2033,11 +3906,51 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/RBUH83">Mutant Creatures</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>thehippomaster21</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XD8kXC">myBiome Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>krimin_killr21</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WnPlJQ">myPet Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>01110111010</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://binarymage.com/">Mystcraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>XCompWiz</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/SfxoCw">MysticRPG</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>oitsjustjose</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RBUH83">Mutant Creatures</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>thehippomaster21</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XD8kXC">myBiome Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>krimin_killr21</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnPlJQ">myPet Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>01110111010</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://binarymage.com/">Mystcraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>XCompWiz</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/SfxoCw">MysticRPG</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>oitsjustjose</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 
 <!----------------------------------------------------------N-------------------------------------------------------->
@@ -2060,8 +3973,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/YbHbvc">NetherStuffs</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Rinnsal</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UR7mDM">Ninja Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Udjat74</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/YbHbvc">NetherStuffs</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Rinnsal</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UR7mDM">Ninja Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Udjat74</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--No Infinite Water-->
 <tr>
@@ -2072,8 +4001,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13b6my3">No More Creeperz</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>123mjjmjj</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13dyHCR">NoSlowDown</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>zag09</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13b6my3">No More Creeperz</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>123mjjmjj</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dyHCR">NoSlowDown</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>zag09</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Not Enough Items (NEI)-->
 <tr>
@@ -2096,10 +4041,42 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/11K9MsD">Obsidian Pressure Plates</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Myrathi</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10enaQl">OmniTools</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>KingLemmingCoFH</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFKJCV">Optifine</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>sp614x</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Vr5HVR">Ores drop Mores 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Rinnsal</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/11K9MsD">Obsidian Pressure Plates</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Myrathi</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10enaQl">OmniTools</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>KingLemmingCoFH</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Optifine-->
+<tr>
+	<td><a href="http://bit.ly/VFKJCV">Optifine</a></td>
+	<td class="desctt"><span class="tt">Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS.</span></td>
+	<td>sp614x</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Vr5HVR">Ores drop Mores 2</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Rinnsal</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Original Beacons-->
 <tr>
@@ -2110,16 +4087,64 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VK7T8R">OverTheEdge</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>HeshamMeneisi</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VK7T8R">OverTheEdge</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>HeshamMeneisi</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 
 <!----------------------------------------------------------P-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/108uqmD">Pacman Arcade</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Formulayeti</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/V2lrza">Paintball</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>lkinx</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/RQA8Vq">Painter's Flower Pot</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mineshopper</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TTx4X0">PaintGun Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>rich1051414</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFL2O4">Pam's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MatrexsVigil</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/108uqmD">Pacman Arcade</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Formulayeti</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V2lrza">Paintball</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>lkinx</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RQA8Vq">Painter's Flower Pot</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Mineshopper</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TTx4X0">PaintGun Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>rich1051414</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFL2O4">Pam's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MatrexsVigil</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Particle Decoration Mod-->
 <tr>
@@ -2139,7 +4164,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/W4JLxV">Pfaeff's Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Pfaeff</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W4JLxV">Pfaeff's Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Pfaeff</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Pig Grinder-->
 <tr>
@@ -2150,7 +4183,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VNVgsL">Pixelmon</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>epicSplashBattle</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VNVgsL">Pixelmon</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>epicSplashBattle</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Pixel Pack-->
 <tr>
@@ -2179,8 +4220,33 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WrhgtF">Poop</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Tominator1</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Wo1JKa">Portal Gates</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>deenkayros</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--Player Heads-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Player Heads</a></td>
+	<td class="desctt"><span class="tt">Adds the ability for players to drop their own heads.</span></td>
+	<td>FatherToast</td>
+	<td>Serverside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WrhgtF">Poop</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Tominator1</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Wo1JKa">Portal Gates</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>deenkayros</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--PortalGun-->
 <tr>
@@ -2200,7 +4266,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WD7pAz">PowerCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MightyPork</td> <td>Universal</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WD7pAz">PowerCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MightyPork</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--PowerIron-->
 <tr>
@@ -2211,10 +4285,42 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/117VOAd">Power Swords Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>chri60a1</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/144xz52">Precious Gems Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TWWyTp">PrimitiveCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kitteh6660</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/11XRgwV">Primitive Mobs</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Daveyx0</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117VOAd">Power Swords Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>chri60a1</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/144xz52">Precious Gems Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phobophobe</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWWyTp">PrimitiveCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Kitteh6660</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+
+<!--Primitive Mobs-->
+<tr>
+	<td><a href="http://bit.ly/11XRgwV">Primitive Mobs</a></td>
+	<td class="desctt"><span class="tt">Adds numerous new mobs into your Minecraft world. However unlike some mods out there, this mod adds mobs which are familar to the regular Minecraft player. These mobs look like vanilla features however they add completely new features and behaviour which can benefit the player or the opposite. Before you start checking them out remember: You don't have to like them all, as mobs can be turned off.</span></td>
+	<td>Daveyx0</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--Prometheus-->
 <tr>
@@ -2249,8 +4355,24 @@
 
 <!----------------------------------------------------------R-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/117W9Dg">RadarBro</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cali Alec</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XDavKW">Railcraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>CovertJaguar</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117W9Dg">RadarBro</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Cali Alec</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XDavKW">Railcraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>CovertJaguar</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Rainbow XP Mod-->
 <tr>
@@ -2270,8 +4392,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/10pK0Vf">rbdyck's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>rbdyck</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13b7p14">RealLan</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>RealLan</td> <td>Clientside Mod</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10pK0Vf">rbdyck's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>rbdyck</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13b7p14">RealLan</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>RealLan</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--Recipe Book-->
 <tr>
@@ -2282,10 +4420,42 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/13whbeb">RealWeather + RealTime Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>krimin_killr21</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13vWqzq">RednetworkTools Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>mypowerbob1</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://www.eloraam.com/">RedPower 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Eloraam</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZPacs5">Redstone Emitter</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>dmillerw</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13whbeb">RealWeather + RealTime Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>krimin_killr21</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13vWqzq">RednetworkTools Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>mypowerbob1</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://www.eloraam.com/">RedPower 2</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Eloraam</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZPacs5">Redstone Emitter</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>dmillerw</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Rei's Minimap-->
 <tr>
@@ -2322,9 +4492,33 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/XDaSVS">Restructed Project</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>CyberFromLU</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Zg7xYb">RikMuld's Camping Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>__Rilmuld__</td> <td>SSP SMP LAN</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Wo36II">Rival Rebels</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Rodolphito</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XDaSVS">Restructed Project</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>CyberFromLU</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zg7xYb">RikMuld's Camping Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>__Rilmuld__</td>
+	<td>SSP SMP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Wo36II">Rival Rebels</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Rodolphito</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Ropes+-->
 <tr>
@@ -2335,8 +4529,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TWC3q7">Rotten Flesh to Leather</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>EpicBlargh</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZwZRFT">Roxa's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Roxane</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWC3q7">Rotten Flesh to Leather</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>EpicBlargh</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZwZRFT">Roxa's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Roxane</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--RPG Inventory Mod-->
 <tr>
@@ -2359,11 +4569,51 @@
 
 <!----------------------------------------------------------S-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/XyoYSF">Scrap Metal</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Zakc</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XemEC1">Secret Rooms Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>AbrarSyed</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/YmjrER">Secure, Craft, Protect</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phuck_Yu_Too</td> <td>SSP LAN</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Zg5DXK">SettingsAPI</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Quintinity</td> <td>Clientside Mod</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/117XoSV">ShadwDrgn's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ShadwDrgn</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XyoYSF">Scrap Metal</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Zakc</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XemEC1">Secret Rooms Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>AbrarSyed</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/YmjrER">Secure, Craft, Protect</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phuck_Yu_Too</td>
+	<td>SSP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zg5DXK">SettingsAPI</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Quintinity</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/117XoSV">ShadwDrgn's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ShadwDrgn</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Shelf-->
 <tr>
@@ -2374,9 +4624,33 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VFM4d2">Show Durability Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>NemockZans</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFM5NX">ShowMonsters</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>KaboPC</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VG3tmr">Sign Edit</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Beilus</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<!--Show Durability Mod-->
+<tr>
+	<td><a href="http://bit.ly/VFM4d2">Show Durability Mod</a></td>
+	<td class="desctt"><span class="tt">Makes any item (that has it) display its durability below its name whenever you mouse-over it. Thats it, nothing more.</span></td>
+	<td>NemockZans</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFM5NX">ShowMonsters</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>KaboPC</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VG3tmr">Sign Edit</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Beilus</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Sign Lag Fix-->
 <tr>
@@ -2408,7 +4682,15 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/U7gLWK">SimpleOres</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>AleXndrTheGr8st</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/U7gLWK">SimpleOres</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>AleXndrTheGr8st</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Simply Hax-->
 <tr>
@@ -2428,8 +4710,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UvCRQX">Sim-U-Kraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Satscape</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Xen4s0">Single Player Commands</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>simo_415</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvCRQX">Sim-U-Kraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Satscape</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Xen4s0">Single Player Commands</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>simo_415</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Single Player Console-->
 <tr>
@@ -2467,8 +4765,24 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/V1qVZv">soccerguy3's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>soccerguy3</td> <td>N/A</td> <td class="na">N/A</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UJaAZg">Soda Craft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Phobophobe</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V1qVZv">soccerguy3's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>soccerguy3</td>
+	<td>N/A</td>
+	<td class="na">N/A</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UJaAZg">Soda Craft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Phobophobe</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--SojaCraft-->
 <tr>
@@ -2479,8 +4793,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/XDcOh6">Sonic the Hedgehog Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MCVoxelSH</td> <td>SSP LAN</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VYkKr2">Sophisticated Wolves</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>metroidfood</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XDcOh6">Sonic the Hedgehog Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MCVoxelSH</td>
+	<td>SSP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VYkKr2">Sophisticated Wolves</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>metroidfood</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Smart Moving-->
 <tr>
@@ -2500,7 +4830,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TVTbNW">Sparcs Tweaks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>SparcMan</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TVTbNW">Sparcs Tweaks</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>SparcMan</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Spawner GUI-->
 <tr>
@@ -2520,7 +4858,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VFMccu">Sports Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>nico910</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFMccu">Sports Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>nico910</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Stalker Creepers-->
 <tr>
@@ -2531,7 +4877,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UWzhRL">StarMod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>mrgreaper</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UWzhRL">StarMod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>mrgreaper</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--StartingInventory-->
 <tr>
@@ -2578,7 +4932,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TWYoUt">S.T.F.U.</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>RedBanHammer</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWYoUt">S.T.F.U.</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>RedBanHammer</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Still Hungry!-->
 <tr>
@@ -2589,7 +4951,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Zx0Y8G">StrongerPistons Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MinecraftShamrock</td> <td>SSP SMP</td> <td class="na">N/A</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zx0Y8G">StrongerPistons Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MinecraftShamrock</td>
+	<td>SSP SMP</td>
+	<td class="na">N/A</td>
+</tr>
+
 
 <!--Stronghold Fix-->
 <tr>
@@ -2618,9 +4988,33 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/XPsD0o">Super Creepers</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ModdingMan55</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/11KenLp">Super Heroes in Minecraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>colossali</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/10GchvH">Super Mario Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Jimboom7</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XPsD0o">Super Creepers</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ModdingMan55</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/11KenLp">Super Heroes in Minecraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>colossali</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10GchvH">Super Mario Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Jimboom7</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Superior Enchantment System-->
 <tr>
@@ -2634,7 +5028,15 @@
 
 <!----------------------------------------------------------T-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/SfA5UA">TabbyChat</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>RocketMan10404</td> <td>SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/SfA5UA">TabbyChat</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>RocketMan10404</td>
+	<td>SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!--Tale of Kingdoms-->
 <tr>
@@ -2654,11 +5056,51 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/TGsYTm">Team Fortress 2 Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>pitman-87</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvDkCW">Teleportation Stones</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>dmillerw</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13b8Hcs">Telicraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Telinc1</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://terrafirmacraft.com/">TerraFirmaCraft</a> (1.4.6 only)</td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bioxx</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XDdxic">Thaumcraft 3</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Azanor</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TGsYTm">Team Fortress 2 Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>pitman-87</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvDkCW">Teleportation Stones</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>dmillerw</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13b8Hcs">Telicraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Telinc1</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://terrafirmacraft.com/">TerraFirmaCraft</a> (1.4.6 only)</td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bioxx</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XDdxic">Thaumcraft 3</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Azanor</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--[Thaumcraft 3] Essentia Everything-->
 <tr>
@@ -2696,8 +5138,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Zx1Aee">The Blanks Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>FryoKnight</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/108x1gj">TheBombzen's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>thebombzen</td> <td>N/A</td> <td class="na">N/A</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zx1Aee">The Blanks Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>FryoKnight</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/108x1gj">TheBombzen's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>thebombzen</td>
+	<td>N/A</td>
+	<td class="na">N/A</td>
+</tr>
+
 
 <!--The Crafters Mod-->
 <tr>
@@ -2708,11 +5166,51 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/Zg8vUs">The Death Scythe Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Kirwii</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFMLmH">The Direwolf20 Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>HepoSys</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/W440en">The Effect Overlay Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>teh_fish</td> <td>SSP SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TWZlvY">The Elder Scrolls: Skyrim Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>sheenrox82</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Z6wyoD">The Empyrean</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>EmpyrealHell</td> <td>SSP SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Zg8vUs">The Death Scythe Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Kirwii</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFMLmH">The Direwolf20 Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>HepoSys</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W440en">The Effect Overlay Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>teh_fish</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWZlvY">The Elder Scrolls: Skyrim Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>sheenrox82</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Z6wyoD">The Empyrean</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>EmpyrealHell</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 
 <tr>
@@ -2732,7 +5230,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/W1Ul84">The Farlanders</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Fabiulu</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W1Ul84">The Farlanders</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Fabiulu</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--The Flash Light Mod-->
 <tr>
@@ -2743,9 +5249,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/ZnIUOb">The Iron Dimension</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bgwoo</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/U7k3co">TheMadCrafters Ores Galores</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>themadcrafter</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TWZvmU">The Methyr Dimension</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>laifsjo</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZnIUOb">The Iron Dimension</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bgwoo</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/U7k3co">TheMadCrafters Ores Galores</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>themadcrafter</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TWZvmU">The Methyr Dimension</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>laifsjo</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--The Mineya Mod-->
 <tr>
@@ -2765,8 +5295,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UAxW6Q">The Necromancy Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>sirolf2009</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UArYTu">The Ocarina Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Boba_Fett_Link</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UAxW6Q">The Necromancy Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>sirolf2009</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UArYTu">The Ocarina Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Boba_Fett_Link</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--The Peacefulpack-->
 <tr>
@@ -2786,12 +5332,60 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UvEbTZ">The Seasons Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>The_WeatherPony</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/W5thbZ">The Sod Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ThePacafist</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VU1UkO">The Stalker Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Fabiulu</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XeonaG">The Surround Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>eddy3322</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/108xL4Z">The Uncraftables</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TMFKSOFT</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13dBw7b">The Wars Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>resinresin</td> <td>SSP SMP LAN</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvEbTZ">The Seasons Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>The_WeatherPony</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W5thbZ">The Sod Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ThePacafist</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VU1UkO">The Stalker Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Fabiulu</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XeonaG">The Surround Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>eddy3322</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/108xL4Z">The Uncraftables</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>TMFKSOFT</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dBw7b">The Wars Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>resinresin</td>
+	<td>SSP SMP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--The Wild Grass Mod-->
 <tr>
@@ -2811,10 +5405,42 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VOSO91">THX Helicopter</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Theoxylo</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Y5Pfhb">Thirst Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>tarun1998</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZOWg1s">Ticks Per Second</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bechill</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13b9vxV">Timber!</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TehKrush</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VOSO91">THX Helicopter</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Theoxylo</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Y5Pfhb">Thirst Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>tarun1998</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZOWg1s">Ticks Per Second</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bechill</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Timber!-->
+<tr>
+	<td><a href="http://bit.ly/13b9vxV">Timber!</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Makes all the logs in a tree break when you hit the bottom block of the tree with an axe of any type. You can toggle this effect to safely remove logs by holding down the sneak key while chopping logs with your axe.</span></td>
+	<td>TehKrush</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Tinkers Construct-->
 <tr>
@@ -2825,8 +5451,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/UCIM8o">TooManyItems</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Marglyph</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13dBE6D">TooManyPlants</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>benzrf</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UCIM8o">TooManyItems</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Marglyph</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dBE6D">TooManyPlants</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>benzrf</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Torch Levers-->
 <tr>
@@ -2846,8 +5488,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/XDfmMd">Touhou Items Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Niconiko</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WGVykv">TNT Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Navist</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XDfmMd">Touhou Items Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Niconiko</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WGVykv">TNT Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Navist</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Trail Mix-->
 <tr>
@@ -2885,8 +5543,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/RBXBcJ">Traincraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Traincraft</td> <td>SSP SMP LAN</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/108xZcx">Treefeller</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>kingjpc</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/RBXBcJ">Traincraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Traincraft</td>
+	<td>SSP SMP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/108xZcx">Treefeller</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>kingjpc</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--Trampoline Mod-->
 <tr>
@@ -2906,7 +5580,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/10865gJ">Tropicraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cojomax99</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10865gJ">Tropicraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Cojomax99</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--tukmc-->
 <tr>
@@ -2926,14 +5608,46 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/V2ubW7">TyberCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ThatSketchyModder</td> <td>SSP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V2ubW7">TyberCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ThatSketchyModder</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 
 <!----------------------------------------------------------U-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/108y7sm">Ultimate Tools</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Umbrosus</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/X6ZyLH">Underground Biomes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Exterminator Jeff</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/11K2CV5">UnifyMC</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>UnifyMC</td> <td>Clientside Mod</td> <td class="fr">Forge Required</td></tr>
+<!--Ultimate Tools-->
+<tr>
+	<td><a href="http://bit.ly/108y7sm">Ultimate Tools</a></td>
+	<td class="desctt"><span class="tt">Adds a few new craftable Tools to Minecraft, the Paxe, the Povel, the Shaxe and the Ultimate. They are combinations of Shovel Pickaxe and Axe. You can do everything you could do with the part Tools with it. Harvest levels still apply (as in, iron still can't harvest obsidian).</span></td>
+	<td>Umbrosus</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/X6ZyLH">Underground Biomes</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Exterminator Jeff</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/11K2CV5">UnifyMC</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>UnifyMC</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Universal Electricity-->
 <tr>
@@ -2944,11 +5658,51 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/YZ0KCb">[Universal Electricity] Assembly Line</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Calclavia</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UqwYWR">[Universal Electricity] Atomic Science</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Calclavia</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/1463ZMy">[Universal Electricity] Blastcraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Cammygames</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UJa91Q">[Universal Electricity] Electric Expansion</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Mattredsox and Alex_Hawks</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WnVLJB">[Universal Electricity] Fluid Mechanics</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>DarkGuardsman</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/YZ0KCb">[Universal Electricity] Assembly Line</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Calclavia</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UqwYWR">[Universal Electricity] Atomic Science</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Calclavia</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/1463ZMy">[Universal Electricity] Blastcraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Cammygames</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UJa91Q">[Universal Electricity] Electric Expansion</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Mattredsox and Alex_Hawks</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnVLJB">[Universal Electricity] Fluid Mechanics</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>DarkGuardsman</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--ICBM - Missiles and Military Tech-->
 <tr>
@@ -2960,9 +5714,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WnX634">[Universal Electricity] Mekanism</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>aidancbrady</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VpIty8">[Universal Electricity] Modular Powersuits</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MachineMuse</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UCJ92W">UseCount 2</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>TheWhiteWolves</td> <td>Clientside Mod</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnX634">[Universal Electricity] Mekanism</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>aidancbrady</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VpIty8">[Universal Electricity] Modular Powersuits</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MachineMuse</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UCJ92W">UseCount 2</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>TheWhiteWolves</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Useful Cheats-->
 <tr>
@@ -2973,9 +5751,33 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WnXSfV">Usefulfood</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Silentspy</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/W111o2">Usefull_cobble</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Eyowin</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Va07XI">Utility Chests Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>watkins577</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnXSfV">Usefulfood</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Silentspy</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W111o2">Usefull_cobble</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Eyowin</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Va07XI">Utility Chests Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>watkins577</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Utility Mobs-->
 <tr>
@@ -2989,14 +5791,46 @@
 
 <!----------------------------------------------------------V-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/13dBV9v">Vanilla Recipes</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>RoboMat</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TGtVeq">Vanilla with Sprinkles</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Koopinator</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TGtW1L">Village Info</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>trunkz</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dBV9v">Vanilla Recipes</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>RoboMat</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TGtVeq">Vanilla with Sprinkles</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Koopinator</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TGtW1L">Village Info</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>trunkz</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 
 <!----------------------------------------------------------W-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/13dC114">Warfield 3</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Stuuupiiid</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dC114">Warfield 3</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Stuuupiiid</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Wasteland Mod-->
 <tr>
@@ -3016,13 +5850,69 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/V67BOd">Water & Sun Proof Endermen Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Jeffrey6978</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvEU7P">WebChat</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>bannedtom</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/11SR95R">Weeping Angels</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>a_dizzle</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VxkegT">What's My Light Level?</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>iPeer</td> <td>SSP SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VVSHIm">Wild Caves 3</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Alexmania</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WDdY62">WiNeTel's BetterWorld Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>WiNeTel</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/V2vnJ7">Wireless Redstone</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>ali4z</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V67BOd">Water & Sun Proof Endermen Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Jeffrey6978</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvEU7P">WebChat</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>bannedtom</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/11SR95R">Weeping Angels</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>a_dizzle</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VxkegT">What's My Light Level?</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>iPeer</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VVSHIm">Wild Caves 3</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Alexmania</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WDdY62">WiNeTel's BetterWorld Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>WiNeTel</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/V2vnJ7">Wireless Redstone</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ali4z</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--Wireless Redstone: Chicken Bones Edition (WR-CBE)-->
 <tr>
@@ -3033,11 +5923,51 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/WnYzWw">Witches and More</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Chancebozey</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/TX0t2u">Wolves+ Mod</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Willsr71</td> <td>N/A</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/Wo8dJd">World Downloader</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>cubic72</td> <td>SMP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZLk1fs">WorldEdit</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>sk89q</td> <td>SSP SMP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/13jmtd9">WorldEditCUI</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>yetanotherx</td> <td>Clientside Mod</td> <td class="fc">Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WnYzWw">Witches and More</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Chancebozey</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TX0t2u">Wolves+ Mod</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Willsr71</td>
+	<td>N/A</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/Wo8dJd">World Downloader</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>cubic72</td>
+	<td>SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZLk1fs">WorldEdit</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>sk89q</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13jmtd9">WorldEditCUI</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>yetanotherx</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!--WorldStateCheckpoints-->
 <tr>
@@ -3060,9 +5990,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/10pIS3X">Xie's Mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Xie</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WILM37">X-mas Armor'n'Weapons</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Batak</td> <td>Universal</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/ZQkw34">XP Bank</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>teken</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/10pIS3X">Xie's Mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Xie</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WILM37">X-mas Armor'n'Weapons</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Batak</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/ZQkw34">XP Bank</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>teken</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!--X-Ray Mod-->
 <tr>
@@ -3073,32 +6027,128 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|--><tr><td><a href="http://bit.ly/VxkL27">X-Ray Mod (craftminer502)</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>craftminer502</td> <td>N/A</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/W2hmul">X-Ray Mod (julialy)</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>julialy</td> <td>N/A</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/WDeHUK">XtendedCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>futurecraftlp</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFNFzt">XtraBlocks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>MindKrafter</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VaWuOD">Xtracraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Themathe1</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UvFpi3">XyCraft</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Soaryn</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/XA5z9y">Xy's Done Fix</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>The_xy</td> <td>Clientside Mod</td> <td class="nfc">Not Forge Compatible</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VxkL27">X-Ray Mod (craftminer502)</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>craftminer502</td>
+	<td>N/A</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/W2hmul">X-Ray Mod (julialy)</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>julialy</td>
+	<td>N/A</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/WDeHUK">XtendedCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>futurecraftlp</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFNFzt">XtraBlocks</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>MindKrafter</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VaWuOD">Xtracraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Themathe1</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UvFpi3">XyCraft</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Soaryn</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XA5z9y">Xy's Done Fix</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>The_xy</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 
 <!----------------------------------------------------------Y-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/XaWQH6">You Are Herobrine</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>C3s4r_6om</td> <td>SSP</td> <td class="nfc">Not Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/UAC9ao">You Are the Creeper</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Rotten194</td> <td>N/A</td> <td class="fr">Forge Required</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/VFNR1I">You Are the Wither</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>albert721</td> <td>SSP</td> <td class="fc">Forge Compatible</td></tr>
-<!--|--><tr><td><a href="http://bit.ly/11PcdKm">Yourock129's mods</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>yourock129</td></td> <td>N/A</td> <td class="na">N/A</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/XaWQH6">You Are Herobrine</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>C3s4r_6om</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/UAC9ao">You Are the Creeper</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Rotten194</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/VFNR1I">You Are the Wither</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>albert721</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/11PcdKm">Yourock129's mods</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>yourock129</td></td>
+	<td>N/A</td>
+	<td class="na">N/A</td>
+</tr>
+
 
 
 <!----------------------------------------------------------Z-------------------------------------------------------->
 
-<!--|--><tr><td><a href="http://bit.ly/TX19oL">Zaedes' Steamworks</a></td> <td class="desctd"><span class=""><!--INFO--></span></td> <td>Zaedes</td> <td>SSP SMP</td> <td class="fr">Forge Required</td></tr>
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/TX19oL">Zaedes' Steamworks</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>Zaedes</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 			
 </tbody>
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>638</b>
+	Mod count: <b>640</b>
 </div>
 
 

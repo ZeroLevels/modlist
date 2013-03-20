@@ -1,3 +1,29 @@
+(March/20/2013)
+	*Updated "Forestry" Info: Changed it to (Beta) and changed link to their Beta Versions Page
+	+Added 4 mods by FatherToast (Which are the following)
+		+Added "Special Mobs"
+		+Added "Utility Mobs"
+		+Added "Lava Monsters"
+		+Added "Player Heads"
+	+Added 2 mods by Koopinator (Which are the following)
+		+Added "Fancy Fences"
+		+Added "Metal Rods"
+	+Added 3 mods by Koopinator (Which are the following)
+		+Added "Minor Alchemy"
+		+Added "Creeper Sword"
+		+Added "ProSthetics"
+	+Added 2 mods by Hurricaaane (Which are the following)
+		+Added "Audiotori"
+		+Added "MAtmos"
+	+Added "Primitive Mobs"
+	+Added "More Records Mod"
+	+Added "Timber!"
+	+Added "Ultimate Tools"
+	+Added "EnderStuff+"
+	+Added "Optifine"
+	+Added "Better World Generation 4"
+	+Added "Show Durability Mod"
+
 (March/19/2013)
 	+Added 2 mods by Sopwith (Which are the following)
 		+Added "NoSnow Mod"

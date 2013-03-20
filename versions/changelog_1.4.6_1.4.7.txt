@@ -1,7 +1,20 @@
+(March/20/2013)
+	*Updated "Timber!" info: Added description
+	*Updated "Ultimate Tools" info: Added description
+	+Added "Healing Hearts Mod"
+
 (March/19/2013)
+	*Updated "BetterFonts" info: Added description
 	*Updated "Twilight Forest" info: Added description
+	*Updated "Extended Workbench" info: Added description
+	*Updated "Minecraft Capes" info: Added description
+	*Updated "Rainbow XP Mod" info: Added description
+	*Updated "StartingInventory" info: Added description
+	*Updated "TreeCapitator" info: Added description
+	*Updated "primitive Mobs" info: Added description
 	+Added "Smart Spawn Mod"
 	+Added "Defensive Villagers"
+	+Added "Player Heads"
 
 (March/18/2013)
 	*Updated "Single Player Console" info: Added description, dependent, labeled "Clientside Mod"

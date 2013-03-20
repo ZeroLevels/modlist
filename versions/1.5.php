@@ -8,6 +8,8 @@
 	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/modlist.css" media="screen" />
 	
 	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/nav.css" media="screen" />
+	
+	
 </head>
   
 <body>
@@ -122,6 +124,15 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
+<!--Audiotori-->
+<tr>
+	<td><a href="http://bit.ly/Ty8izp">Audiotori</a></td>
+	<td class="desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/> Audiotori is a cascading sound pack manager. It allows you to use multiple sound packs at once to replace the default Minecraft sounds, or replace sounds added by other mods.</span></td>
+	<td>Hurricaaane</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Auto Farmer-->
 <tr>
 	<td><a href="http://bit.ly/ZOUv3Q">Auto Farmer</a></td>
@@ -186,6 +197,15 @@
 	<td>chylex</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Better World Generation 4-->
+<tr>
+	<td><a href="http://bit.ly/WmtfYF">Better World Generation 4</a></td>
+	<td class="desctt"><span class="tt">Adds many world generation options regarding previous versions of Minecraft.</span></td>
+	<td>ted80</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
 <!--BiblioCraft-->
@@ -298,6 +318,15 @@
 	<td>ryan44851111</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Creeper Sword-->
+<tr>
+	<td><a href="http://bit.ly/ZJdluZ">Creeper Sword</a></td>
+	<td class="desctt"><span class="tt">Adds a sword imbued with the explosive power of the creepers.</span></td>
+	<td>Guff</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--CrystalWing-->
@@ -459,6 +488,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--EnderStuff+-->
+<tr>
+	<td><a href="http://bit.ly/VuxebI">EnderStuff+</a></td> 
+	<td class="desctt"><span class="tt">This mod adds a bunch of stuff to the End dimension. From mobs over blocks to tools and weapons. </span></td> 
+	<td>SanAndreasP</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Extended Workbench-->
 <tr>
 	<td><a href="http://bit.ly/VFB6UT">Extended Workbench</a></td>
@@ -487,6 +525,15 @@
 	<td>pitman-87</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Fancy Fences-->
+<tr>
+	<td><a href="http://bit.ly/TGtVeq">Fancy Fences</a></td>
+	<td class="desctt"><span class="tt">Fences, walls, and panes better interact with each other - plus stack-able walls, new wall-types, and more!</span></td>
+	<td>Koopinator</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Female Gender Option-->
@@ -773,6 +820,15 @@
 
 <!----------------------------------------------------------L-------------------------------------------------------->
 
+<!--Lava Monsters-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Lava Monsters</a></td> 
+	<td class="desctt"><span class="tt">If you've ever found yourself bored once you mine down to lava because it stops hostile mobs from spawning, then this is the mod for you! This is a small mod that adds a new hostile monster to the game that spawns in lava and spits fireballs at you.</span></td> 
+	<td>FatherToast</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!----------------------------------------------------------M-------------------------------------------------------->
 
 <!--Magic Yarn-->
@@ -784,6 +840,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--MAtmos-->
+<tr>
+	<td><a href="http://bit.ly/ZfUxlk">MAtmos</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirpling in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.</span></td>
+	<td>Hurricaaane</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Melee Skeletons-->
 <tr>
 	<td><a href="http://bit.ly/WwQtRq">Melee Skeletons</a></td>
@@ -791,6 +856,15 @@
 	<td>Slayerlord8</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Metal Rods-->
+<tr>
+	<td><a href="http://bit.ly/TGtVeq">Metal Rods</a></td>
+	<td class="desctt"><span class="tt">Adds iron trapdoors and new iron and gold rods which can be used to crafted enhanced tools and weapons.</span></td>
+	<td>Koopinator</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Millenaire-->
@@ -838,6 +912,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Minor Alchemy-->
+<tr>
+	<td><a href="http://bit.ly/ZJdluZ">Minor Alchemy</a></td>
+	<td class="desctt"><span class="tt">Alchemy in its rawest form; take matter and make matter. It works for both Clients and Servers. Please know that server owners can change the universal CV lists, so if an item has a different CV on the server than your client or it doesn't have one when it usually does, this is probably why.</span></td>
+	<td>Guff</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Mob Filter Mod-->
 <tr>
 	<td><a href="http://bit.ly/cjbmodsr">Mob Filter Mod</a></td>
@@ -862,6 +945,15 @@
 	<td class="d desctt"><span class="tt"><center><big class="d">CJB API Required</big><br/>See <i class="d">bit.ly/cjb-api</i></center><br/>Adds a lot more information to your screen. The information you want to see is easily configurable. Just press the I key to open the MoreInfo Options menu, here you can turn on or off the information you want to see. It's also possible to change in which corner the information must be shown.</span></td>
 	<td>CJB</td>
 	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--More Records Mod-->
+<tr>
+	<td><a href="http://bit.ly/WlEcus">More Records Mod</a></td>
+	<td class="desctt"><span class="tt">Includes various records that can be played in a jukebox. These Records can be found in any naturally spawning chest, This includes dungeon loot, blacksmith chests, and jungle temple chests.</span></td>
+	<td>DarkHax</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -988,6 +1080,15 @@
 
 <!----------------------------------------------------------O-------------------------------------------------------->
 
+<!--Obly's Sheepers Creepers-->
+<tr>
+	<td><a href="http://bit.ly/15WV7cX">Obly's Sheepers Creepers</a></td>
+	<td class="desctt"><span class="tt">Adds several aggressive mob-themed animals. The sheeper, enderchicken, and blaze cow!</span></td>
+	<td>Oblyvian</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Old North / Retro Sun Direction-->
 <tr>
 	<td><a href="http://bit.ly/Ty9cf2">Old North / Retro Sun Direction</a></td>
@@ -995,6 +1096,15 @@
 	<td>MamiyaOtaru</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Optifine-->
+<tr>
+	<td><a href="http://bit.ly/VFKJCV">Optifine</a></td>
+	<td class="desctt"><span class="tt">Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS. (The update to 1.5 is still very much in progress. Compatibility with Forge should return eventually)</span></td>
+	<td>sp614x</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
 
@@ -1018,12 +1128,39 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Player Heads-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Player Heads</a></td>
+	<td class="desctt"><span class="tt">Adds the ability for players to drop their own heads.</span></td>
+	<td>FatherToast</td>
+	<td>Serverside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--PortalGun-->
 <tr>
 	<td><a href="http://bit.ly/14dknZW">PortalGun</a></td> 
 	<td class="d desctt"><span class="tt"><center><big class="d">iChun Util Required:</big><br/>See <i class="d">bit.ly/ichun-util</i></center><br/>Lets you think with portals. In Minecraft.</span></td> 
 	<td>iChun</td> 
 	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Primitive Mobs-->
+<tr>
+	<td><a href="http://bit.ly/11XRgwV">Primitive Mobs</a></td>
+	<td class="desctt"><span class="tt">Adds numerous new mobs into your Minecraft world. However unlike some mods out there, this mod adds mobs which are familar to the regular Minecraft player. These mobs look like vanilla features however they add completely new features and behaviour which can benefit the player or the opposite. Before you start checking them out remember: You don't have to like them all, as mobs can be turned off.</span></td>
+	<td>Daveyx0</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--ProSthetics-->
+<tr>
+	<td><a href="http://bit.ly/YVcpnT">ProSthetics</a></td>
+	<td class="desctt"><span class="tt">Adds a process of casting different metals and materials into new, better materials.</span></td>
+	<td>Guff</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1161,13 +1298,13 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--Obly's Sheepers Creepers-->
+<!--Show Durability Mod-->
 <tr>
-	<td><a href="http://bit.ly/15WV7cX">Obly's Sheepers Creepers</a></td>
-	<td class="desctt"><span class="tt">Adds several aggressive mob-themed animals. The sheeper, enderchicken, and blaze cow!</span></td>
-	<td>Oblyvian</td>
-	<td>Universal</td>
-	<td class="fr">Forge Required</td>
+	<td><a href="http://bit.ly/VFM4d2">Show Durability Mod</a></td>
+	<td class="desctt"><span class="tt">Makes any item (that has it) display its durability below its name whenever you mouse-over it. Thats it, nothing more.</span></td>
+	<td>NemockZans</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Sign Tags-->
@@ -1245,6 +1382,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Special Mobs-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Special Mobs</a></td> 
+	<td class="desctt"><span class="tt">Have you ever felt that your Minecraft monsters lacked variety? Randomized textures not enough? Well, here's a the solution! Introducing: the Special Mobs mod! In short, this small mod introduces variants to your default Minecraft mods, such as creepers with fiery explosions, skeletons that shoot poisoned arrows, and zombies that leap at you. Not only that, but it allows you adjust all vanilla spawn rates and even make jockeys more common!</span></td> 
+	<td>FatherToast</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--StackPack-->
 <tr>
 	<td><a href="http://bit.ly/Z87tZy">StackPack</a></td>
@@ -1318,6 +1464,15 @@
 	<td>Boba_Fett_Link</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Timber!-->
+<tr>
+	<td><a href="http://bit.ly/13b9vxV">Timber!</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Makes all the logs in a tree break when you hit the bottom block of the tree with an axe of any type. You can toggle this effect to safely remove logs by holding down the sneak key while chopping logs with your axe.</span></td>
+	<td>TehKrush</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--TooManyItems-->
@@ -1400,12 +1555,30 @@
 
 <!----------------------------------------------------------U-------------------------------------------------------->
 
+<!--Ultimate Tools-->
+<tr>
+	<td><a href="http://bit.ly/108y7sm">Ultimate Tools</a></td>
+	<td class="desctt"><span class="tt">Adds a few new craftable Tools to Minecraft, the Paxe, the Povel, the Shaxe and the Ultimate. They are combinations of Shovel Pickaxe and Axe. You can do everything you could do with the part Tools with it. Harvest levels still apply (as in, iron still can't harvest obsidian).</span></td>
+	<td>Umbrosus</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Universal Electricity-->
 <tr>
 	<td><a href="http://bit.ly/UCJ3sf">Universal Electricity</a></td>
 	<td class="desctt"><span class="tt">Universal Electricity is a modular coding framework that allows the use of electricity in Minecraft. Mods which uses the Universal Electricity API have the ability to communicate and be compatible with each other.</span></td>
 	<td>Calclavia</td>
 	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Utility Mobs-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Utility Mobs</a></td> 
+	<td class="desctt"><span class="tt">Got a mod that makes monsters attack your base? Ever feel a bit spread thin trying to defend all 360 degrees, one degree at a time? Here's the solution: Utility Mobs! This mod adds additional golems built in the same fashion as vanilla golems, plus turrets, together forming the base of a good defense! Turrets and even certain golems can be upgraded to improve their effectiveness!</span></td> 
+	<td>FatherToast</td> 
+	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1480,26 +1653,8 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>142</b>
+	Mod count: <b>161</b>
 </div>
-
-
-
-
-<!--Google Analytics-->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-39433845-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 
 </body>
 </html>
