@@ -4,40 +4,49 @@
 <head><meta charset="utf-8">
 	<title>MCF Mod List - 1.4.6/1.4.7</title>
 		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
-	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/modlist.css" media="screen" />
+		<script type="text/javascript" src="../../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	
-	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/nav.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
 </head>
   
 <body>
 	<center>
 		<p>
-			<img src="../resources/images/1.4.6_1.4.7.png" width="216" height="42"/><br/>
+			<img src="../../resources/images/1.4.6_1.4.7.png" width="290" height="58"/><br/>
 			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.6_1.4.7.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.4.6_1.4.7.txt" class="ns">Click here</a> to view the changelog.
 		</p>
 		
 	<ul id="list-nav">
-		<li><a href="../">Home</a></li>
-		<li><a href="../credits/">Credits</a></li>
-		<li><a href="../latest/">Current List</a></li>
-		<li><a href="../banners/">Banners</a></li>
+		<li><a href="../../">Home</a></li>
+		<li><a href="../../credits/">Credits</a></li>
+		<li><a href="../../latest/">Current List</a></li>
+		<li><a href="../../banners/">Banners</a></li>
 	</ul>
 				
 	<br><hr width="99%" size="6" noshade>
 		
 	<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or in the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span> if ZeroLevels or ImperialFeline is available. Make sure to search for it here first.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
 	
-	<table class="listnav nav">
+	<table class="listnav nav major">
 		<thead>
-			<th colspan="3" style="color: black">List Version Navigation</th>
+			<th colspan="2" style="color: black">List Version Navigation</th>
 		</thead>
 		
 		<tbody>
-			<td class="nh"><a href="1.4.4_1.4.5.php">Older Lists</a></td>
-			<td class="h">1.4.6/1.4.7</td>
-			<td class="nh"><a href="1.5.php">1.5 (Latest)</a></td>
+			<tr class="c">
+				<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
+				<td class="h">1.4</td>
+				<td class="nh"><a href="../1.5/">1.5</a></td>
+			</tr>
 		</tbody>
+	</table>
+	
+	<table class="minor listnav nav">
+		<tr>
+			<td class="nh"><a href="1.4.2.php">1.4.2</a></td>
+			<td class="nh"><a href="1.4.4_1.4.5.php">1.4.4/1.4.5</a></td>
+			<td class="h">1.4.6/1.4.7</td>
 	</table>
 	
 <table cellspacing="0" class="modlist" id="example">
@@ -732,6 +741,14 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--|-->
+<tr>
+	<td><a href="http://bit.ly/13dKCkb">[Buildcraft] MineChem</a></td>
+	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td>ljdp</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--[Buildcraft] More Pipes Mod-->
 <tr>
@@ -2593,7 +2610,7 @@
 <tr>
 	<td><a href="http://bit.ly/ZyLIsn">IndustrialCraft 2</a></td>
 	<td class="desctd"><span class=""><!--INFO--></span></td>
-	<td>by Alblaka</td>
+	<td>Alblaka</td>
 	<td>SSP SMP</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -3382,16 +3399,6 @@
 	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
 </tr>
-
-<!--|-->
-<tr>
-	<td><a href="http://bit.ly/13dKCkb">MineChem</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
-	<td>ljdp</td>
-	<td>Universal</td>
-	<td class="fr">Forge Required</td>
-</tr>
-
 
 <!--Minecraft Capes-->
 <tr>
@@ -4719,7 +4726,7 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Single Player Commands-->
 <tr>
 	<td><a href="http://bit.ly/Xen4s0">Single Player Commands</a></td>
 	<td class="desctd"><span class=""><!--INFO--></span></td>

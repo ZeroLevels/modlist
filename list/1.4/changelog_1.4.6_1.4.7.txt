@@ -273,3 +273,274 @@
 		+Added "Shelf"
 		+Added "Biosphere"
 		+Added "Armor Stand"
+		
+(December/30/2012)
+	*Changed 1.4.6 List to 1.4.6/1.4.7 List
+	*Changed Better World Generation 3 to Forge Compatible
+	*Changed Forge to include a mirror link
+	+Added MCEdit (Tools & Utilities)
+	+Added AtmosMobs
+	+Added BetterFonts
+	+Added Better Furnaces
+	+Added BigTrees
+	+Added BinsCraft
+	+Added [Buildcraft] Additional Pipes (Test Builds)
+	+Added [Buildcraft] APS
+	+Added Building Box Mod
+	+Added Converter Gem
+	+Added Custom Lan Port Mod
+	+Added Custom NPCs
+	+Added DayZ Mod
+	+Added Diamond Meter
+	+Added DivineRPG
+	+Added Easy Crafting
+	+Added End of the Rainbow Mod
+	+Added Equivalent Exchange 3
+	+Added Fricative_Melon's Mods
+	+Added GahBryXXX's Mods
+	+Added Gasses in Minecraft
+	+Added Gems+
+	+Added GLSL Shaders mod
+	+Added ICBM - Missiles and Military Tech
+	+Added Lanterns Mod
+	+Added Mini Pet Slimes
+	+Added Moar Stuff Mod
+	+Added More Health Enhanced
+	+Added More Pistons Mod
+	+Added More Slicers and Slappers
+	+Added No More Creeperz
+	+Added Portal Gates
+	+Added PowerCraft
+	+Added Rival Rebels
+	+Added Show Durability Mod
+	+Added StrongerPistons Mod
+	+Added Teleportation Stones
+	+Added Telicraft
+	+Added The Methyr Dimension
+	+Added The Surround Mods
+	+Added The Uncraftables
+	+Added TooManyPlants
+	+Added TyberCraft
+	+Added Vanilla Recipes
+	+Added XtendedCraft
+	+Added YonderCraft
+	+Added Restructed Project
+	+Added Ars Magica
+	+Added Elemental Crystals Mod
+
+(December/26/2012)
+	*Shortened IC2/IC2-Addon links
+	+Added BetterPistons
+	+Added Better Than Wolves Mod
+	+Added Bladecraft
+	+Added Custom Mob Spawner
+	+Added Emeralds+ Mod
+	+Added Homie Power Mod
+	+Added [IndustrialCraft 2] Transformers
+
+(December/25/2012)
+	*Changed Portal Gun - Reconstructed to iChun's Mods and realphabetized
+	+Added Alien Mod
+	+Added AntiSteve
+	+Added Arcane Ascension
+	+Added Balkon's WeaponMod
+	+Added Better Anvils
+	+Added [Buildcraft] Valve Pipe
+	+Added Buildcraft-IndustrialCraft Crossover Mod
+	+Added Clean UI
+	+Added CJB Mod Continued
+	+Added CraftGuide
+	+Added CubeX2's Mods
+	+Added DaftPVF's Mods
+	+Added DupleCraft
+	+Added Epic Siege Mod
+	+Added Ferullo's Gun Mod
+	+Added Flan's Mod
+	+Added Gammabright
+	+Added iChun's Mods
+	+Added [IndustrialCraft 2] Backpack HUD
+	+Added [IndustrialCraft 2] Beam Me Up!
+	+Added [IndustrialCraft 2] Compact Solars
+	+Added Inventory Tweaks
+	+Added MAtmos
+	+Added Metallurgy 2
+	+Added Millénaire
+	+Added Minecraft Comes Alive
+	+Added Mo' Food and Crops
+	+Added More Fences Mod
+	+Added Multi Crafting Table
+	+Added Mutant Creatures
+	+Added Pacman Arcade
+	+Added Paintball
+	+Added Pixelmon
+	+Added Single Player Commands
+	+Added Smart Moving
+	+Added Sonic the Hedgehog Mod
+	+Added S.T.F.U.
+	+Added The Blanks Mod
+	+Added The Campfire Mod
+	+Added Traincraft
+	+Added Treefeller
+	+Added Village Info
+	+Added Warfield 3
+	+Added What's My Light Level?
+	+Added Mo' Creatures
+
+(December/23/2012)
+	*Updated Chickenbones Mods
+	+Added Advanced HUD
+	+Added Backpacks
+	+Added [BuildCraft] Logistics Pipes
+	+Added ComputerCraft
+	+Added [Computercraft] MiscPeripherals
+	+Added Forestry
+	+Added [Forestry] Plugins for Forestry 2
+	+Added [Forestry] Extra Bees
+	+Added Minecraft Lighting Fix
+	+Added More Explosives
+	+Added PrimitiveCraft
+	+Added Usefulfood
+	+Added Witches and More
+	+Added X-Ray Mod
+	+Added Ancient Warfare
+	+Added Armor Movement Mod
+	+Added Better Breeding Mod
+	+Added BuddyCam
+	+Added Campfire Mod
+	+Added ChristmasCraft
+	+Added Clay Soldiers Mod
+	+Added Click Mining Fix Fix
+	+Added Double Door Mod
+	+Added Durability101
+	+Added Emasher's Mods
+	+Added Factorization
+	+Added Fearitude's Mods
+	+Added Glass Tools Mod
+	+Added GL Shaders OF
+	+Added Gravity Gun
+	+Added HD Skins and Cloaks
+	+Added [IndustrialCraft 2] Advanced Machines
+	+Added [IndustrialCraft 2] Advanced Power Management
+	+Added [IndustrialCraft 2] Advanced Solar Panels
+	+Added [IndustrialCraft 2] Gravitation Suite
+	+Added [IndustrialCraft 2] GregTech-Addon
+	+Added [IndustrialCraft 2] Liquid UU-Matter
+	+Added [IndustrialCraft 2] Modular Force Field System
+	+Added [IndustrialCraft 2] Nuclear Control
+	+Added [IndustrialCraft 2] Petroleum Generator
+	+Added Jammy Furniture Mod
+	+Added Kirwi's Clay Golem Mod
+	+Added litteMaidMod
+	+Added Meat+
+	+Added MegaCraft Mod
+	+Added Mystcraft
+	+Added M-Ore Mod
+	+Added The Necromancy Mod
+	+Added Portal Gun - Reconstructed
+	+Added Rainbow XP Mod
+	+Added TabbyChat
+	+Added Tale of Kingdoms
+	+Added Ultimate Tools
+	+Added Wolves+ Mod
+	+Added XyCraft
+
+(December/22/2012)
+	*Updated Vanilla With Sprinkles Info
+	+Added Identifier to Add-ons and realphabetized
+	+Added All Wuppy's Mods
+	+Added Buildcraft
+	+Added [Buildcraft] Compact Mobs (Add-on Example)
+	+Added Crossbow Mod 2
+	+Added Colored Glass
+	+Added Custom Ore Generation
+	+Added Davidee's Mods
+	+Added Ellian's MaterialDetector
+	+Added Familiars
+	+Added Female Gender Option Mod
+	+Added Marvelous Moon Mod
+	+Added MineLittlePony
+	+Added Player API
+	+Added QuickCraft
+	+Added Railcraft
+	+Added ShadwDrgn's Mods
+	+Added ShowMonsters
+	+Added Sim-U-Kraft
+	+Added Sports Mod
+	+Added Thaumcraft 3
+	+Added TheBombzen's Mods
+	+Added Touhou Items Mod
+	+Added XtraBlocks
+	+Added SojaCraft
+	+Added Caption API
+	+Added IndustrialCraft 2
+	+Added Legendary Beasts
+	+Added Mob Spawn Controls
+	+Added In-game NBTEdit
+	+Added Railcraft
+	+Added MumbleLink
+	+Added Chocolatecraft
+
+(December/21/2012)
+	+Added AtomicStryker's Mods
+	+Added Better Sprinting
+	+Added Better World Generation 3
+	+Added Biomes O' Plenty
+	+Added BlockPhysics Mod
+	+Added EssentialCraft
+	+Added Exter's Mods
+	+Added Ingame Mod List
+	+Added Keepcalm's Mods
+	+Added More Swords Mod
+	+Added RedPower 2
+	+Added Chickenbones Mods
+	+Added CocoaCraft
+	+Added Crudedragos's Mods
+	+Added Damage Indicators
+	+Added Dynamic Mazes
+	+Added Dynmap
+	+Added Electric Expansion
+	+Added ExtraBiomesXL
+	+Added Herobrine Mod
+	+Added Ice Cream Sandwich Creeper Mod
+	+Added IronChests
+	+Added Lion King Mod
+	+Added Macro/Keybind Mod and LiteLoader
+	+Added MCDitty
+	+Added Minecraft Capes
+	+Added Rei's Minimap
+	+Added Flint Tools
+	+Added Mob Talker
+	+Added More Village Biomes + Village Logic Addon
+	+Added Mouse Tweaks
+	+Added Pam's Mods
+	+Added Power Swords Mod
+	+Added RealLan
+	+Added Risugami's Mods
+	+Added Secret Rooms Mod
+	+Added Steve's Carts 2
+	+Added Subarakis Secondary Mod
+	+Added Team Fortress 2 Mods
+	+Added The Death Scythe Mod
+	+Added The Elder Scrolls: Skyrim Mod
+	+Added Timber!
+	+Added Torojima's Chococraft
+	+Added UseCount 2
+	+Added Vanilla with Sprinkles
+	+Added World Downloader
+
+(December/20/2012)
+	+Added Forge
+	+Added Atomic Science
+	+Added MorpheusZero's Mods
+	+Added Optifine
+	+Added The Seasons Mod
+	+Added Blubbeltasche's Mods
+	+Added ICBM - Missiles and Military Tech
+	+Added ModOptionsAPI
+	+Added TooManyItems
+	+Added InfiCraft
+	+Added WiNeTel's BetterWorld Mods
+	+Added Keyhole Mod
+	+Added NoSlowDown
+	+Added Universal Electricity
+	+Added MapWriter Mini Map Mod

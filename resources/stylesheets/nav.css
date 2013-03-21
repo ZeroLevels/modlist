@@ -1,53 +1,107 @@
-table.nav			{background-color:black;
-					border:1px solid white;
-					width:600px;
-					color:white;
-					text-align:center;
-					border-collapse:collapse;}
-
-table.listnav	{width:85%;
-				border-bottom:none;}
-.listnav th		{font-size:1.5em; background-color:#f5f5f5;
-				text-shadow:0px 0px 1pc lightgray}
-.listnav td		{height:25px;}
-					
-.nav a				{text-decoration:none;
-					color:white;
-					-webkit-transition:.5s;
-					transition:.5s;}
-
-.nav a:hover			{text-shadow: 0px 0px 1pc black;
-					color:black;}
-					
-.nav thead:hover		{background-color:black;}
-					
-.nav .nh			{border:1px solid white;
-					border-top:none;
-					border-bottom:none;
-					-webkit-transition:.5s;
-					transition:.5s;}
-
-.nav td			{font-weight:bold;}
-					
-.nav .nh:hover		{background-color:lightgray;
-					color: black;}
-
-.nav .nh:hover a		{color: black;
-						font-style:normal;}
-
-.nav .h			{background-color:darkgray;
-					color:black;
-					font-weight:bold;
-					text-shadow: 0px 0px 1pc white;}
+table.nav {
+	background-color:black;
+	border:1px solid white;
+	width:600px;
+	color:white;
+	text-align:center;
+	border-collapse:collapse;
+	table-layout: fixed;
+}
 
 
+table.listnav {
+	table-layout: fixed;
+	width:85%;
+	border-bottom:none;
+}
 
+
+table.major tr.c {
+	height:50px;
+}
+
+
+table.minor {
+	border-bottom:none;
+}
+
+table.minor tr {
+	height:25px;
+}
+
+table.minor td {
+background:#141516;
+border-right:1px solid white;
+}
+
+
+.listnav th {
+	font-size:1.5em;
+	background-color:#f5f5f5;
+	text-shadow:0px 0px 1pc lightgray
+}
+
+.listnav td {
+height:25px;
+}
+
+	
+.nav a {
+	text-decoration:none;
+	color:white;
+	-webkit-transition:.5s;
+	transition:.5s;
+}
+
+
+.nav a:hover {
+	text-shadow: 0px 0px 1pc black;
+	color:black;
+}
+
+
+.nav thead:hover {
+	background-color:black;
+}
+
+
+.nav .nh {
+	border:1px solid white;
+	border-top:none;
+	border-bottom:none;
+	-webkit-transition:.5s;
+	transition:.5s;
+}
+
+
+.nav td {
+	font-weight:bold;
+}
+
+
+.nav .nh:hover {
+	background-color:lightgray;
+	color: black;
+}
+
+
+.nav .nh:hover a {
+	color: black;
+	font-style:normal;
+}
+
+
+.nav .h {
+	background-color:darkgray;
+	color:black;
+	font-weight:bold;
+	text-shadow: 0px 0px 1pc white;
+}
 
 
 
 
 /*Experimental Navigation*/
-
 ul#list-nav {
 	list-style:none;
 	display: inline-block;

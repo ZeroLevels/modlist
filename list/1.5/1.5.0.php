@@ -2,12 +2,12 @@
 <html>
 
 <head><meta charset="utf-8">
-	<title>MCF Mod List - 1.5</title>
+	<title>MCF Mod List - 1.5.0</title>
 		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
-	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/modlist.css" media="screen" />
+		<script type="text/javascript" src="../../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	
-	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/nav.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
 	
 	
 </head>
@@ -15,33 +15,39 @@
 <body>
 	<center>
 		<p>
-			<img src="../resources/images/1.5.png" width="62" height="49"/><br/>
-			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.5.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.5.txt" class="ns">Click here</a> to view the changelog.
+			<img src="../../resources/images/1.5.0.png" width="128" height="58"/><br/>
+			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.5.0.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.5.0.txt" class="ns">Click here</a> to view the changelog.
 		</p>
 		
 		<ul id="list-nav">
-			<li><a href="../">Home</a></li>
-			<li><a href="../credits/">Credits</a></li>
-			<li class="h"><a href="#">Current List</a></li>
-			<li><a href="../banners/">Banners</a></li>
+			<li><a href="/">Home</a></li>
+			<li><a href="/credits/">Credits</a></li>
+			<li><a href="/latest/">Current List</a></li>
+			<li><a href="/banners/">Banners</a></li>
 		</ul>
 				
 	<br><hr width="99%" size="6" noshade>
 		
 	<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or in the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span> if ZeroLevels or ImperialFeline is available. Make sure to search for it here first.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
 	
-	<table class="listnav nav">
+	<table class="listnav nav major">
 		<thead>
-			<th colspan="3" style="color: black">List Version Navigation</th>
+			<th colspan="2" style="color: black">List Version Navigation</th>
 		</thead>
 		
 		<tbody>
-			<tr>
-				<td class="nh"><a href="1.4.4_1.4.5.php">Older Lists</a></td>
-				<td href="1.4.6_1.4.7.php" class="nh"><a href="1.4.6_1.4.7.php">1.4.6/1.4.7</a></td>
-				<td class="h">1.5 (Latest)</td>
+			<tr class="c">
+				<<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
+				<td class="nh"><a href="../1.4/">1.4</a></td>
+				<td class="h">1.5</td>
 			</tr>
 		</tbody>
+	</table>
+	
+	<table class="minor listnav nav">
+		<tr>
+			<td class="h">1.5.0</td>
+			<td class="nh"><a href="1.5.1.php">1.5.1</a></td>
 	</table>
 	
 	<table cellspacing="0" class="modlist" id="example">
@@ -1655,6 +1661,21 @@
 <div class="footer">
 	Mod count: <b>161</b>
 </div>
+
+<!--Google Analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39433845-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 </body>
 </html>
