@@ -26,13 +26,14 @@ If you have or know of a mod that's not on the current list, please let us know 
 
 <p class="select">
 	<span class="section">Current:</span><br/>
-	<span style="text-size:30px; font-style:italic">Last Updated: <?php $content = file('versions/changelog_1.5.txt'); echo $content[0]; ?></span><br/>
-		<span class="selection"><a href="versions/1.5.php">1.5 List</a></span><br/>
-		<span class="selection"><a href="versions/changelog_1.5.txt">Changelog</a></span><br/><br/>
+	<span style="text-size:30px; font-style:italic">Last Updated: <?php $content = file('list/1.5/changelog_1.5.1.txt'); echo $content[0]; ?></span><br/>
+		<span class="selection"><a href="list/1.5/1.5.1.php">1.5.1 List</a></span><br/>
+		<span class="selection"><a href="list/1.5/changelog_1.5.1.txt">Changelog</a></span><br/><br/>
 		
 	<span class="section">Older:</span><br>
-		<span class="selection"><a href="versions/1.4.6_1.4.7.php">1.4.6/1.4.7 List</a></span><br/>
-		<span class="selection"><a href="versions/1.4.4_1.4.5.php">1.4.4/1.4.5 List</a></span><br>
+		<span class="selection"><a href="list/1.5/1.5.0.php">1.5 List</a></span><br/>
+		<span class="selection"><a href="list/1.4/1.4.6_1.4.7.php">1.4.6/1.4.7 List</a></span><br/>
+		<span class="selection"><a href="list/1.4/1.4.4_1.4.5.php">1.4.4/1.4.5 List</a></span><br>
 		<span class="selection">1.4.2 List</span><br>
 		<span class="selection">1.3.2 List</span>
 </p></center>
