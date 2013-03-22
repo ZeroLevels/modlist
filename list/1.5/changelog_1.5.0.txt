@@ -1,3 +1,37 @@
+(March/22/2013)
+	+Added 6 mods by immibis (Which are the following)
+		+Added "TubeStuff"
+		+Added "Dimensional Anchors"
+		+Added "Immibis Core"
+		+Added "Immibis's Microblocks"
+		+Added "InfiniTubes"
+		+Added "Liquid XP"
+		+Added "[ComputerCraft] Immibis's Peripherals"
+	+Added 3 mods by WyrdOne (Which are the following)
+		+Added "Caption API"
+		+Added "ModOptionsAPI"
+		+Added "Minecraft My Way"
+	+Added 3 mods by Lunatrius (Which are the following)
+		+Added "Monster Spawn Highlighter"
+		+Added "InGame Info XML"
+		+Added "Stackie"
+	+Added "tukmc"
+	+Added "Better Biomes"
+	+Added "The Mists of RioV"
+	+Added "Tinkers Construct"
+	+Added "More Explosives"
+	+Added "Dynmap"
+	+Added "RPG Inventory Mod"
+	+Added "Light Level Overlay"
+	+Added "Durability101"
+	+Added "Rancraft Penguins"
+	+Added "TabbyChat"
+	+Added "Single Player Commands"
+	+Added "Combat Bars"
+	+Added "Gearz Mod"
+	+Added "Fireplace Mod"
+	+Added "Travelling House Mod"
+
 (March/20/2013)
 	*Updated "Forestry" Info: Changed it to (Beta) and changed link to their Beta Versions Page
 	+Added 4 mods by FatherToast (Which are the following)

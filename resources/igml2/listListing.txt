@@ -1,0 +1,16 @@
+1.5.1=http://modlist.mcf.li/list/1.5/1.5.1.php
+1.5=http://modlist.mcf.li/list/1.5/1.5.0.php
+#=====================================================================
+# Lines starting with a # are comments.
+#
+# The formatting for this file is <name>=<url>
+#
+# The ingame mod list mod will load this file, using it
+# to load the various mod listings into itself for viewing
+# ingame. The lists will be provided ingame in the order
+# that they are in this file, thus, the latest lists, should
+# always be on top. 
+#=====================================================================
+# Vazkii, ZeroLevels 2012, 2013
+#=====================================================================
+# Hey you, stop stalking this!

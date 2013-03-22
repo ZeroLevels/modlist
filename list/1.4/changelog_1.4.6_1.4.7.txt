@@ -1,3 +1,36 @@
+(March/22/2013)
+	*Updated "More Explosives" info: Added description
+	*Updated "Dynmap" info: Added description
+	*Updated "Single Player Commands" info: Added description
+	*Updated "Light Level Overlay" info: Added description, now Forge Required
+	*Updated "Tinkers' Construct" description
+	+Added 3 mods by nerdboy64 (Which are the following)
+		+Added "Adventure Kit"
+		+Added "SimpleGuns"
+		+Added "Throwing Stones"
+	-Removed "Immibis' Mods" (Replaced with the following 6 mods)
+		+Added "TubeStuff"
+		+Added "Dimensional Anchors"
+		+Added "Immibis Core"
+		+Added "Immibis's Microblocks"
+		+Added "InfiniTubes"
+		+Added "Liquid XP"
+		+Added "[ComputerCraft] Immibis's Peripherals"
+	+Added "B.F.Mod"
+	+Added "Better Biomes"
+	+Added "Gearz Mod"
+	+Added "The Nether Gems Mod"
+	+Added "[Not Enough Items] NEI_plugins"
+	+Added "Travelling House Mod"
+	+Added "Ocean Adventures"
+	+Added "Squidageddon"
+	+Added "[Buildcraft] Additional Buildcraft"
+	+Added "Command Block GUI"
+	+Added "[CraftGuide] AspectGuide for Thaumcraft"
+	+Added "[CraftGuide] BreedingGuide for Forestry"
+	+Added "[ThaumCraft] Liquid Essence"
+	+Added "MCAbilities"
+
 (March/20/2013)
 	*Updated "Timber!" info: Added description
 	*Updated "Ultimate Tools" info: Added description
@@ -24,7 +57,7 @@
 	*Updated "Torojima's Chococraft" info: Added description
 	*Updated "Smart Moving" info: Added description
 	*Updated "Flan's Mod" info: Added description
-	+Added 2 mods by Need4Poop402 (Which ar the following)
+	+Added 2 mods by Need4Poop402 (Which are the following)
 		+Added "The Barrels Mod"
 		+Added "Better Login"
 	+Added "CampCraft"
@@ -36,7 +69,7 @@
 	
 (March/16/2013)
 	*Updated "Single Player Console" info: now Universal
-	+Added 2 mods by CJB (Which ar the following)
+	+Added 2 mods by CJB (Which are the following)
 		+Added "CJB API"
 		+Added "Mob Filter Mod"
 	+Added "PlasmaCraft"

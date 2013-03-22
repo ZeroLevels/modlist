@@ -1,26 +1,38 @@
-body		{background-image:url('../../resources/images/mcf_1_3rd.png');
-			font-family:verdana,arial;
-			font-size:13px;
-			margin:0 auto;}
+body {
+background-image:url('../../resources/images/mcf_1_3rd.png');
+font-family:verdana,arial;
+font-size:13px;
+margin:0 auto;
+}
 
-.modlist th,td		{padding:3px;}
+.modlist th,td {
+padding:3px;
+}
 
-.modlist tr			{-moz-transition:.25s;
-					-webkit-transition:.25s;
-					transition:.25s;}
+.modlist tr {
+-moz-transition:.25s;
+-webkit-transition:.25s;
+transition:.25s;
+}
 
-.modlist tr:hover	{background-color:#B7CDDD;}
+.modlist tr:hover {
+background-color:#B7CDDD;
+}
 
-table.modlist 		{background-color:#E8EFF4;
-					border:1px solid #B8D1E6;
-					width:85%;
-					border-top:none;}
+table.modlist  {
+background-color:#E8EFF4;
+	border:1px solid #B8D1E6;
+	width:85%;
+	border-top:none;
+}
 			
-table.modlist th		{border: 3px double white;
-					background-color:#28292a;
-					color:white;}
+table.modlist th {
+border: 3px double white;
+	background-color:#28292a;
+	color:white;
+}
 
-input		{border:solid 2px darkgray;}
+input {border:solid 2px darkgray;}
 
 /*Stuff to center specific columns*/
 table.modlist td:nth-of-type(2) { /*display:none;*/ }

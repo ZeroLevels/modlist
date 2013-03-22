@@ -178,6 +178,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Better Biomes-->
+<tr>
+	<td><a href="http://bit.ly/ZQhm0K">Better Biomes</a></td>
+	<td class="desctt"><span class="tt">Adds a new world type, more biomes, and configuration options for vanilla biomes. The Better Biomes world type contains all the new biomes - they do not generate in the standard Overworld. Each one can be turned off in the config.</span></td>
+	<td>SMEZ1234</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--BetterFonts-->
 <tr>
 	<td><a href="http://bit.ly/UxdaF2">BetterFonts</a></td>
@@ -216,11 +225,11 @@
 
 <!--BiblioCraft-->
 <tr>
-	<td><a href="">BiblioCraft</a></td>
+	<td><a href="http://bit.ly/ZvRIOm">BiblioCraft</a></td>
 	<td class="desctt"><span class="tt">A fairly simple mod that adds 8 new types of unique storage blocks to display a few different items. There is a bookcase that shows up to 16 books on the shelf, an Armor stand to display a full set of armor. There is also a potion shelf for up to 12 potions, a tool rack to hang 4 different tools/weapons, a general shelf that can display any 4 items, a display case for a single fancy item, and a wooden label that can display up to 3 items in small scale for tasks such as indicating what is in a chest. The newest edition includes the wooden Desk that can hold up to 9 books.</span></td>
 	<td>Nuchaz</td>
 	<td>Universal</td>
-	<td class="fr">Forge Required</td>
+	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
 <!--Biosphere-->
@@ -253,6 +262,15 @@
 
 <!----------------------------------------------------------C-------------------------------------------------------->
 
+<!--Caption API-->
+<tr>
+	<td><a href="http://bit.ly/WCNwtc">Caption API</a> (for the Hearing Impaired)</td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Allows sounds to be displayed as text for those with no sound or that are hearing impaired.</span></td>
+	<td>WyrdOne</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--ChickenChunks-->
 <tr>
 	<td><a href="http://bit.ly/IRSg84">ChickenChunks</a></td>
@@ -269,7 +287,7 @@
 	<td>Vazkii</td> 
 	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
-</tr>
+</tr><!--Version Independent-->
 
 <!--CJB API-->
 <tr>
@@ -289,12 +307,30 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Combat Bars-->
+<tr>
+	<td><a href="http://bit.ly/14bQNbq">Combat Bars</a></td>
+	<td class="desctt"><span class="tt">Adds 4 new items to Minecraft, which can help you in several situations, but aren't terribly overpowered at the same time.</span></td>
+	<td>ocomobock</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--ComputerCraft-->
 <tr>
 	<td>
 	<a href="http://bit.ly/13aWXXd">ComputerCraft</a></td>
 	<td class="desctt"><span class="tt">ComputerCraft adds programmable computers and robots to minecraft.</span></td>
 	<td>dan200</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[ComputerCraft] Immibis's Peripherals-->
+<tr>
+	<td><a href="http://bit.ly/YJGFPC">[ComputerCraft] Immibis's Peripherals</a></td>
+	<td class="desctt"><span class="tt">Adds RFID cards, Mag-cards, Speakers, LAN cables, Cryptographic Accelerators, and an Adventure map interface.</span></td>
+	<td>immibis</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -380,7 +416,7 @@
 	<td class="desctt"><span class="tt">Adds a way for the server to calculate the number of deaths a player has (since its installation). It will also notify the player of the death count and ranking on the server (Configurable)</span></td> 
 	<td>iChun</td> 
 	<td>Universal</td> 
-	<td class="fr">Forge Required</td>
+	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
 <!--Defensive Villagers-->
@@ -406,6 +442,15 @@
 	<td><a href="http://bit.ly/117JZKq">Diamond Buckets+</a></td>
 	<td class="desctt"><span class="tt">Introduces twenty-two new buckets in three distinct types. The types are big buckets, flimsy buckets, and special buckets.</span></td>
 	<td>thorgot</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Dimensional Anchors-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Dimensional Anchors</a></td>
+	<td class="desctt"><span class="tt">This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.</span></td>
+	<td>immibis</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -437,12 +482,30 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Durability101-->
+<tr>
+	<td><a href="http://bit.ly/UCsPzk">Durability101</a></td>
+	<td class="desctt"><span class="tt">Shows numbers instead of a bar representing the durability of items.</span></td>
+	<td>RedBanHammer</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Dynamic Lights-->
 <tr>
 	<td><a href="http://bit.ly/as-dynamiclights">Dynamic Lights</a></td> 
 	<td class="desctt"><span class="tt">This modification makes 'shining' items <i>(default: Torch, Glowstone, Glowdust, Lit Pumpkin, Redstone, Lava Bucket, powered Minecart)</i> illuminate everything around them if:<br><ul><li>the player has them equipped (in hand/armor)</li><li>they are dropped on the ground</li><li>another player has them equipped in Multiplayer</li></ul><br/>On top of that, burning Entities shine light, and Creepers about to explode light up!</span></td> 
 	<td>AtomicStryker</td> 
 	<td>Clientside Mod</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Dynmap-->
+<tr>
+	<td><a href="http://bit.ly/VNNyib">Dynmap</a></td>
+	<td class="desctt"><span class="tt">Real-time Minecraft maps:Dynmap provides an in-browser map, like Google Maps, of your Minecraft world. It updates the map in realtime while you have your browser opened and shows the current players, regions and in-game messages on top of the map. It also allows viewers of the map to chat from within their browser with players in-game.</span></td>
+	<td>mikeprimm</td>
+	<td>SMP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -464,7 +527,7 @@
 	<td class="desctt"><span class="tt">A mod that adds Elemental magic to the game. This is achieved through research and experimentation. Available in this mod are spells and fun items to play with.</span></td>
 	<td>Vazkii</td>
 	<td>Universal</td>
-	<td class="fr">Forge Required</td>
+	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
 <!--Ellian's MaterialDetector-->
@@ -542,6 +605,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Fancy Glass-->
+<tr>
+	<td><a href="http://bit.ly/10b0Kzy">Fancy Glass</a></td>
+	<td class="desctt"><span class="tt">Have you ever wanted to build something awesome out of glass, maybe a castle or a giant green house? Vanilla glass just not doing it for you? Fancy Glass adds craftable Glass Bricks in three different styles: Regular, Cracked, and Chiseled.</span></td>
+	<td>Darkmainiac</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td><!--Version Independent-->
+</tr>
+
 <!--Female Gender Option-->
 <tr>
 	<td><a href="http://bit.ly/108keKU">Female Gender Option</a></td>
@@ -549,6 +621,15 @@
 	<td>iPixeli</td>
 	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Fireplace Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZRCnYI">Fireplace Mod</a></td>
+	<td class="desctt"><span class="tt">There are times when a 3 block long fireplace fits a house and times when a single block looks better or saves room. Regular fires can also be a hazard for wooden houses. The fireplace block has the fire, logs, sides, and smoke compressed into a one block space. Add a few chimney blocks and watch the smoke puff out. Firepits and firerings can be used as an outdoor alternative. Create grills and prepare cooked food. Swipe your flint and steel at your favorite block and enjoy the fire!</span></td>
+	<td>ngphoenix</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Flan's Mod-->
@@ -640,6 +721,15 @@
 
 <!----------------------------------------------------------G-------------------------------------------------------->
 
+<!--Gearz Mod-->
+<tr>
+	<td><a href="http://bit.ly/WZfOol">Gearz Mod</a></td>
+	<td class="desctt"><span class="tt">Adds 3 new armor types. Each one has its own buffs such as super speed for the red boots. The red and blue are mainly for exploration and geared towards the new dimension but can be used anywhere, where the purple is mainly focused on mining purposes.</span></td>
+	<td>Torquebolt</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Glacier Ice-->
 <tr>
 	<td><a href="http://bit.ly/Yi2O8n">Glacier Ice</a></td>
@@ -682,7 +772,7 @@
 	<td class="d desctt"><span class="tt"><center><big class="d">iChun Util Required:</big><br/>See <i class="d">bit.ly/ichun-util</i></center><br/>Adds the Gravity Gun from Half Life 2 to Minecraft.</span></td> 
 	<td>iChun</td> 
 	<td>Universal</td> 
-	<td class="fr">Forge Required</td>
+	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
 <!--Griefer Creepers-->
@@ -724,7 +814,7 @@
 	<td class="desctt"><span class="tt">As of Minecraft 1.5, this mod is required to be installed for iChun's "Gravity Gun", "Portal Gun", and "Trail Mix" mods to work</span></td>
 	<td>iChun</td>
 	<td>Universal</td>
-	<td class="fr">Forge Required</td>
+	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
 <!--ID Resolver-->
@@ -733,6 +823,24 @@
 	<td class="desctt"><span class="tt">Removes ID conflicts for blocks and items with mods, with extra options for detailed ID Reports and such.</span></td>
 	<td>ShaRose</td>
 	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Immibis Core-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Immibis Core</a> (Dependency)</td>
+	<td class="desctt"><span class="tt">This is like CodeChicken Core, Buildcraft Core, RedPower Core, and so on - it provides requirements for other mods.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Immibis's Microblocks-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Immibis's Microblocks</a></td>
+	<td class="desctt"><span class="tt">Mostly work like RedPower 2's microblocks. Install into the coremods folder.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -745,13 +853,31 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--InfiniTubes-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">InfiniTubes</a></td>
+	<td class="desctt"><span class="tt">Provides a way to move items from A to B, by labeling them.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--IngameInfo-->
 <tr>
 	<td><a href="http://bit.ly/TWHHIG">IngameInfo</a></td>
-	<td class="ml desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Want to know how much score you have without having to die? In need of real time information like weather, light level or your world size as you explore? Then this mod is for you!</span></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Want to know how much score you have without having to die? In need of real time information like weather, light level or your world size as you explore? Then this mod is for you!</span></td>
 	<td>bspkrs</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--InGame Info XML-->
+<tr>
+	<td><a href="http://bit.ly/Sw1AcJ">InGame Info XML</a></td>
+	<td class="desctt"><span class="tt">Display various information directly only you ingame screen.</span></td>
+	<td>Lunatrius</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Inventory Tweaks-->
@@ -770,7 +896,7 @@
 	<td>cpw</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
-</tr>
+</tr><!--Version Independent-->
 
 <!--Item Frame Lag Fix-->
 <tr>
@@ -832,6 +958,24 @@
 	<td class="desctt"><span class="tt">If you've ever found yourself bored once you mine down to lava because it stops hostile mobs from spawning, then this is the mod for you! This is a small mod that adds a new hostile monster to the game that spawns in lava and spits fireballs at you.</span></td> 
 	<td>FatherToast</td> 
 	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Light Level Overlay-->
+<tr>
+	<td><a href="http://bit.ly/WmOkmG">Light Level Overlay</a></td>
+	<td class="desctt"><span class="tt">Visualizes the light levels emitted by torches, glowstone and alike directly on top of blocks, this is helpful to quickly identify areas where mobs can spawn. It shows the light level of the airblock above the block the number is drawn onto, this is the block that is considered for mob spawning, light level 7 or below allows mobs to spawn.</span></td>
+	<td>4poc</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Liquid XP-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Liquid XP</a></td>
+	<td class="desctt"><span class="tt">Adds liquid XP, and related machines. You will need a mod capable of transporting liquids. It has been tested with Buildcraft waterproof pipes and Thermal Expansion liquiducts. It does not seem to work with RedPower 2 fluid pipes.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -900,6 +1044,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Minecraft My Way-->
+<tr>
+	<td><a href="http://bit.ly/XeiQAH">Minecraft My Way</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d" style="font-size: 103%"><u>ModLoader Mod, ModOptionsAPI Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For ModOptionsAPI, see <i class="d">bit.ly/mc-moapi</i></center><br/>Let's you configure Vanilla minecraft to your liking, by letting you turn off mobs, armours, and many more options.</span></td>
+	<td>WyrdOne</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--MineTunes-->
 <tr>
 	<td><a href="http://bit.ly/minetunes">MineTunes</a></td>
@@ -943,6 +1096,33 @@
 	<td>Risugami</td>
 	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--ModOptionsAPI-->
+<tr>
+	<td><a href="http://bit.ly/XeiQAH">ModOptionsAPI</a></td>
+	<td class="desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Does your mod need simple, configurable options?  Do you not want to edit core Minecraft files to do this? Or did the mod you just download tell you to come here? This mod is right for you.</span></td>
+	<td>WyrdOne</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Monster Spawn Highlighter-->
+<tr>
+	<td><a href="http://bit.ly/Sw1AcJ">Monster Spawn Highlighter</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Option</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Highlights any blocks where monsters can spawn.</span></td>
+	<td>Lunatrius</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--More Explosives-->
+<tr>
+	<td><a href="http://bit.ly/VNTTtZ">More Explosives</a></td>
+	<td class="desctt"><span class="tt">Adds many new types of ways to destroy your enemies, more often than not, involving explosions. Be careful you don't set anything off too close to home!</span></td>
+	<td>NikolaiTheEpicGenius</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--More Info Mod-->
@@ -1020,15 +1200,6 @@
 
 <!----------------------------------------------------------N-------------------------------------------------------->
 
-<!--No Ice Melt-->
-<tr>
-	<td><a href="http://bit.ly/V1qVZv">No Ice Melt</a></td>
-	<td class="desctt"><span class="tt">Prevents ice from melting.</span></td>
-	<td>soccerguy3</td>
-	<td>SSP</td>
-	<td class="fc">Forge Compatible</td>
-</tr>
-
 <!--No Fire Spread-->
 <tr>
 	<td><a href="http://bit.ly/V1qVZv">No Fire Spread</a></td>
@@ -1036,6 +1207,15 @@
 	<td>soccerguy3</td>
 	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--No Ice Melt-->
+<tr>
+	<td><a href="http://bit.ly/V1qVZv">No Ice Melt</a></td>
+	<td class="desctt"><span class="tt">Prevents ice from melting.</span></td>
+	<td>soccerguy3</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--No Slimes in Superflat-->
@@ -1107,10 +1287,10 @@
 <!--Optifine-->
 <tr>
 	<td><a href="http://bit.ly/VFKJCV">Optifine</a></td>
-	<td class="desctt"><span class="tt">Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS. (The update to 1.5 is still very much in progress. Compatibility with Forge should return eventually)</span></td>
+	<td class="desctt"><span class="tt">Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS. (The update to 1.5 is still very much in progress.)</span></td>
 	<td>sp614x</td>
 	<td>Clientside Mod</td>
-	<td class="nfc">Not Forge Compatible</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 
@@ -1149,7 +1329,7 @@
 	<td class="d desctt"><span class="tt"><center><big class="d">iChun Util Required:</big><br/>See <i class="d">bit.ly/ichun-util</i></center><br/>Lets you think with portals. In Minecraft.</span></td> 
 	<td>iChun</td> 
 	<td>Universal</td> 
-	<td class="fr">Forge Required</td>
+	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
 <!--Primitive Mobs-->
@@ -1192,6 +1372,15 @@
 	<td>AmazedStream</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Rancraft Penguins-->
+<tr>
+	<td><a href="http://bit.ly/Wdr4Nt">Rancraft Penguins</a></td> 
+	<td class="desctt"><span class="tt">Adds twelve different species of penguins to your world.</span></td> 
+	<td>immediately</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--RecallStone-->
@@ -1262,6 +1451,15 @@
 	<td class="desctt"><span class="tt">A merged and enhanced version of 303's "Elemental Arrows", SDK's "Grappling Hook", and DJRoslin's "Rope".</span></td> 
 	<td>AtomicStryker</td> 
 	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--RPG Inventory Mod-->
+<tr>
+	<td><a href="http://bit.ly/YZGpPk">RPG Inventory Mod</a></td>
+	<td class="desctt"><span class="tt">Adds an RPG like inventory that allows you to equip further equipment including: Amulets, Shields, Capes, Gloves, and 2 slots for rings.</span></td>
+	<td>senpaisubaraki</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1341,6 +1539,15 @@
 	<td>AtomicStryker</td> 
 	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Single Player Commands-->
+<tr>
+	<td><a href="http://bit.ly/Xen4s0">Single Player Commands</a></td>
+	<td class="desctt"><span class="tt">A mod that adds many commands which can help you quickly and efficiently build structures. Easily saves hours for the creative!</span></td>
+	<td>simo_415</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Single Player Console-->
@@ -1445,6 +1652,15 @@
 
 <!----------------------------------------------------------T-------------------------------------------------------->
 
+<!--TabbyChat-->
+<tr>
+	<td><a href="http://bit.ly/SfA5UA">TabbyChat</a></td>
+	<td class="desctt"><span class="tt">Adds handy functionality to the Chat feature in minecraft. More particularly, it adds tabs.</span></td>
+	<td>RocketMan10404</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Texture Pack on Main Menu-->
 <tr>
 	<td><a href="http://bit.ly/YQZfbG">Texture Pack on Main Menu</a></td>
@@ -1472,6 +1688,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Mists of RioV-->
+<tr>
+	<td><a href="http://bit.ly/10qPe6k">The Mists of RioV</a></td>
+	<td class="desctt"><span class="tt">"The imagined world is called RioV, in the year of 1301 DoC (Death of Carigon.), the land of RioV is filled with Nizonians. A native creature that are basically giant beasts. In 1278 DoC the Natives found a new threat across the land called Granitions, another wild beast. For 10 years they fought and the Nirons arrived dealing poison to all races when fought with. Since then, the races have been weakened and new races have arrived, such as we humans. There is a myth that in 1310 a monster called a Huton will destroy the land of RioV and leave it in ashes. This is The Mists of RioV."</span></td>
+	<td>sheenrox82</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Timber!-->
 <tr>
 	<td><a href="http://bit.ly/13b9vxV">Timber!</a></td>
@@ -1479,6 +1704,15 @@
 	<td>TehKrush</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Tinkers Construct-->
+<tr>
+	<td><a href="http://bit.ly/Z7xU26">Tinkers Construct</a></td>
+	<td class="desctt"><span class="tt">A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.</span></td>
+	<td>mDiyo</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
 <!--TooManyItems-->
@@ -1537,6 +1771,15 @@
 	</span></td> 
 	<td>iChun</td> 
 	<td>Universal</td> 
+	<td class="fr">Forge Required</td><!--Version Independent-->
+</tr>
+
+<!--Travelling House Mod-->
+<tr>
+	<td><a href="http://bit.ly/Yw7BmH">Travelling House Mod</a></td>
+	<td class="desctt"><span class="tt">This mod allows you to explore your minecraft world freely while still having your own base whenever you need it. Pack your base on blueprint schematic and unpack it whenever wherever you please. Not just your house, your farm and all farm animals, your infinite water source etc. Works in other dimensions too!</span></td>
+	<td>The_cLyde</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1547,6 +1790,24 @@
 	<td>bspkrs</td> 
 	<td>Universal</td> 
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--TubeStuff-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">TubeStuff</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">Immibis Core Required</u></big><br/>See <i class="d">bit.ly/immibiscore</i></center><br/>A smallish mod that adds blocks most useful for Buildcraft or RedPower. Neither are actually required though.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--tukmc-->
+<tr>
+	<td><a href="http://bit.ly/XUn0Mp">tukmc</a></td> 
+	<td class="desctt"><span class="tt">A slick HUD mod that is inspired by the World of Warcraft addon, tukui.</span></td> 
+	<td>maxpowa</td> 
+	<td>Clientside Mod</td> 
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Twilight Forest-->
@@ -1655,11 +1916,30 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--ZombieCraft-->
+<tr>
+	<td><a href="http://bit.ly/ZQQZrl">ZombieCraft</a> (Beta)</td>
+	<td class="desctt"><span class="tt">A complete remake of ZombieCraft Classic. Taken to a whole new level, with proper multiplayer and map making support from the start. Currently in its 3rd beta, very stable and polished.<br/><br/>Features:
+		<ul>
+			<li>Waves of zombie hordes that progress in numbers, health, and speed</li>
+			<li>15 Weapons and items to battle off the zombies</li>
+			<li>Improved AI Comrade perk to help watch your back, can be given any weapon</li>
+			<li>Speed Cola, Juggernog, Charge and ExStatic perk machines</li>
+			<li>5 maps so far: Nacht, Last Resort, Observation Deck, Verruckt, and a more open map called Invasion</li>
+			<li>Built-in Single/Multiplayer map making support</li>
+		</ul>
+	</span></td>
+	<td>Corosus</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+
 </tbody>
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>161</b>
+	Mod count: <b>191</b>
 </div>
 
 <!--Google Analytics-->
