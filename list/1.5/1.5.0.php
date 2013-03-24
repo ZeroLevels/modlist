@@ -24,6 +24,7 @@
 			<li><a href="/credits/">Credits</a></li>
 			<li><a href="/latest/">Current List</a></li>
 			<li><a href="/banners/">Banners</a></li>
+			<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
 		</ul>
 				
 	<br><hr width="99%" size="6" noshade>
@@ -37,7 +38,7 @@
 		
 		<tbody>
 			<tr class="c">
-				<<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
+				<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
 				<td class="nh"><a href="../1.4/">1.4</a></td>
 				<td class="h">1.5</td>
 			</tr>
@@ -1197,6 +1198,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Mystic Mod-->
+<tr>
+	<td><a href="http://bit.ly/16RPIWd">Mystic Mod</a></td>
+	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience. Adds ruins, ores, and multiple types of stone.</span></td>
+	<td>oitsjustjose</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------N-------------------------------------------------------->
 
@@ -1939,7 +1949,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>191</b>
+	Mod count: <b>192</b>
 </div>
 
 <!--Google Analytics-->

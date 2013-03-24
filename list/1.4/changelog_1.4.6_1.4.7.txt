@@ -1,3 +1,7 @@
+(March/24/2013)
+	*Updated "Xy's Done Fix" info: Added description
+	+Added "Mystic Mod"
+
 (March/22/2013)
 	*Updated "More Explosives" info: Added description
 	*Updated "Dynmap" info: Added description

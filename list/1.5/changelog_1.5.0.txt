@@ -1,3 +1,6 @@
+(March/24/2013)
+	+Added "Mystic Mod"
+
 (March/22/2013)
 	+Added 6 mods by immibis (Which are the following)
 		+Added "TubeStuff"
@@ -122,8 +125,8 @@
 	+Added 2 mods by soccerguy3 (Which are the following)
 		+Added "No Ice Melt"
 		+Added "No Fire Spread"
-	+Added 3 mods by bspkrs (Which are the following)
-		+Added "bspkrsCore"
+	+Added 4 mods by bspkrs (Which are the following)
+		+Added dependency "bspkrsCore"
 		+Added "ArmorStatusHUD"
 		+Added "DirectionHUD"
 		+Added "StatusEffectHUD"

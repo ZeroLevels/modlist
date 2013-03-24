@@ -24,6 +24,7 @@
 		<li><a href="../../credits/">Credits</a></li>
 		<li><a href="../../latest/">Current List</a></li>
 		<li><a href="../../banners/">Banners</a></li>
+		<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
 	</ul>
 				
 	<br><hr width="99%" size="6" noshade>
@@ -1130,6 +1131,14 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
+<!--Compact Crafting-->
+<tr>
+	<td><a href="http://bit.ly/ZgsLaY">Compact Crafting</a></td>
+	<td class="desctt"><span class="tt">Allows you to compact items and other blocks into Compact Blocks, making it much easier for you to carry things in your inventory!</span></td>
+	<td>Moony22</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--ComputerCraft-->
 <tr>
@@ -1849,10 +1858,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Endermen Don't Pick Up Blocks Mod-->
 <tr>
 	<td><a href="http://bit.ly/13vszGc">Endermen Don't Pick Up Blocks Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Disables the Enderman's ability to pickup blocks as well as a few other small mods that modify enderman.</span></td>
 	<td>Jeffrey6978</td>
 	<td>SSP SMP</td>
 	<td class="fc">Forge Compatible</td>
@@ -2628,7 +2637,7 @@
 
 <!--|-->
 <tr>
-	<td><a href="http://bit.ly/WdXKBQ">Hybrid Block Mod</a></td>
+	<td><a href="http://bit.ly/WdXKBQ">HybridCraft</a></td>
 	<td class="desctd"><span class=""><!--INFO--></span></td>
 	<td>Geforce132</td>
 	<td>N/A</td>
@@ -3403,10 +3412,10 @@
 	<td class="na">N/A</td>
 </tr>
 
-<!--|-->
+<!--MapWriter Minimap Mod-->
 <tr>
-	<td><a href="http://bit.ly/13duyig">MapWriter Mini Map Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/13duyig">MapWriter Minimap Mod</a></td>
+	<td class="desctt"><span class="tt">A minimap mod that not only shows your surroundings, but everywhere you've been.</span></td>
 	<td>mapwriter</td>
 	<td>Clientside Mod</td>
 	<td class="fr">Forge Required</td>
@@ -4072,6 +4081,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Mystic Mod-->
+<tr>
+	<td><a href="http://bit.ly/16RPIWd">Mystic Mod</a></td>
+	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience. Adds ruins, ores, and multiple types of stone.</span></td>
+	<td>oitsjustjose</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--|-->
 <tr>
 	<td><a href="http://bit.ly/SfxoCw">MysticRPG</a></td>
@@ -4503,10 +4521,10 @@
 
 <!----------------------------------------------------------R-------------------------------------------------------->
 
-<!--|-->
+<!--RadarBro-->
 <tr>
 	<td><a href="http://bit.ly/117W9Dg">RadarBro</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">RadarBro gives you comfort by letting you know where nearby enemies and mobs are, as well as other entities.</span></td>
 	<td>Cali Alec</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
@@ -5221,10 +5239,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Team Fortress 2 Mods-->
 <tr>
 	<td><a href="http://bit.ly/TGsYTm">Team Fortress 2 Mods</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Includes four mods containing </span></td>
 	<td>pitman-87</td>
 	<td>N/A</td>
 	<td class="fr">Forge Required</td>
@@ -6290,10 +6308,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Xy's Done Fix-->
 <tr>
 	<td><a href="http://bit.ly/XA5z9y">Xy's Done Fix</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Moves the "Done" button to the top of your Controls screen to prevent overlapping with other buttons.</span></td>
 	<td>The_xy</td>
 	<td>Clientside Mod</td>
 	<td class="nfc">Not Forge Compatible</td>
@@ -6357,7 +6375,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>663</b>
+	Mod count: <b>664</b>
 </div>
 
 

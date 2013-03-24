@@ -27,6 +27,7 @@
 			<li><a href="/credits/">Credits</a></li>
 			<li><a href="/latest/">Current List</a></li>
 			<li><a href="/banners/">Banners</a></li>
+			<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
 		</ul>
 				
 	<br><hr width="99%" size="6" noshade>
@@ -69,6 +70,15 @@
 
 <!----------------------------------------------------------A-------------------------------------------------------->
 
+<!--AllSnow Mod-->
+<tr>
+	<td><a href="http://bit.ly/XVofQc">AllSnow Mod</a></td>
+	<td class="desctt"><span class="tt">Changes the properties of the non-snowy biomes in Minecraft, lowering their ambient temperatures and essentially cooling them down so that snow and ice will not melt when generated. It then switches on the biomes' toggles for snowfall. The result is all biomes have snow in them, and when precipitation falls it is always snow (except in ocean biomes).</span></td>
+	<td>Sopwith</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Ariadne's Thread-->
 <tr>
 	<td><a href="http://bit.ly/13Y62Vg">Ariadne's Thread</a></td>
@@ -84,6 +94,15 @@
 	<td class="desctt"><span class="tt">This block will give you a place to show off your armor. Just place the block and right click on the platform. You can choose from a selection of skins to hold your armor, as well as have it stare at you, constantly. You may also change the texture of platform by putting block in the last slot.</span></td> 
 	<td>Risugami</td>
 	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--ArmorStatusHUD-->
+<tr>
+	<td><a href="http://bit.ly/WmtGCf">ArmorStatusHUD</a></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d bc">ModLoader Mod, bspkrsCore Required</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!</span></td> 
+	<td>bspkrs</td> 
+	<td>Clientside Mod</td> 
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -116,6 +135,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Barrels Mod-->
+<tr>
+	<td><a href="http://bit.ly/15eDKSH">The Barrels Mod</a></td>
+	<td class="desctt"><span class="tt">Adds three blocks into the game; barrels! The three types of barrels all function similarly. Barrels are used to store item just like you would with a chest, but vastly more items then what you can fit in a chest. Unfortunately, there is a limiting factor like everything: they can only store one item at a time.</span></td>
+	<td>Need4Poop402</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--BattleTowers-->
 <tr>
 	<td><a href="http://bit.ly/as-battletowers">BattleTowers</a></td> 
@@ -123,6 +151,24 @@
 	<td>AtomicStryker</td> 
 	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Better Biomes-->
+<tr>
+	<td><a href="http://bit.ly/ZQhm0K">Better Biomes</a></td>
+	<td class="desctt"><span class="tt">Adds a new world type, more biomes, and configuration options for vanilla biomes. The Better Biomes world type contains all the new biomes - they do not generate in the standard Overworld. Each one can be turned off in the config.</span></td>
+	<td>SMEZ1234</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Better World Generation 4-->
+<tr>
+	<td><a href="http://bit.ly/WmtfYF">Better World Generation 4</a></td>
+	<td class="desctt"><span class="tt">Adds many world generation options regarding previous versions of Minecraft.</span></td>
+	<td>ted80</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
 <!--BiblioCraft-->
@@ -143,6 +189,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--BlockBreaker / ConnectedDestruction-->
+<tr>
+	<td><a href="http://bit.ly/TWHHIG">BlockBreaker / ConnectedDestruction</a></td> 
+	<td class="d desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>bspkrsCore Required</u></big><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Allows you to define a list of blocks that will break in a chain reaction when an adjacent block of the same type is broken.</span></td> 
+	<td>bspkrs</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--bspkrsCore-->
+<tr>
+	<td><a href="http://bit.ly/bspkrscore">bspkrsCore</a> (Dependency)</td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>This mods is required by all other mods created/maintained by bspkrs.</span></td>
+	<td>bspkrs</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!----------------------------------------------------------C-------------------------------------------------------->
 
@@ -155,11 +219,56 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--CJB API-->
+<tr>
+	<td><a href="http://bit.ly/cjbmodsr">CJB API</a> (Dependency)</td>
+	<td class="desctt"><span class="tt">CJB API is required for any of CJB's mods work. It doesn't do anything on its own.</span></td>
+	<td>CJB</td>
+	<td><b>Universal</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Combat Bars-->
 <tr>
 	<td><a href="http://bit.ly/14bQNbq">Combat Bars</a></td>
 	<td class="desctt"><span class="tt">Adds 4 new items to Minecraft, which can help you in several situations, but aren't terribly overpowered at the same time.</span></td>
 	<td>ocomobock</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Compact Crafting-->
+<tr>
+	<td><a href="http://bit.ly/ZgsLaY">Compact Crafting</a></td>
+	<td class="desctt"><span class="tt">Allows you to compact items and other blocks into Compact Blocks, making it much easier for you to carry things in your inventory!</span></td>
+	<td>Moony22</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Creeper Sword-->
+<tr>
+	<td><a href="http://bit.ly/ZJdluZ">Creeper Sword</a></td>
+	<td class="desctt"><span class="tt">Adds a sword imbued with the explosive power of the creepers.</span></td>
+	<td>Guff</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--CrystalWing-->
+<tr>
+	<td><a href="http://bit.ly/TWHHIG">CrystalWing</a></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d bc">ModLoader Mod, bspkrsCore Required</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>With this enchanted wing, you'll be able to teleport back to your spawn point or bed (fancy effects included!).</span></td> 
+	<td>bspkrs</td> 
+	<td>SSP</td> 
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Custom NPCs-->
+<tr>
+	<td><a href="http://bit.ly/ZwE4Os">Custom NPCs</a></td>
+	<td class="desctt"><span class="tt">This mod adds a set of tools to create npcs with different roles/jobs and other functions. It gives Creative Players a way to liven up their world with fully Customizable NPCs.</span></td>
+	<td>Noppes</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -194,6 +303,24 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--DirectionHUD-->
+<tr>
+	<td><a href="http://bit.ly/WmtGCf">DirectionHUD</a></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Displays your magnetic compass heading at the top of your screen.</span></td> 
+	<td>bspkrs</td> 
+	<td>Clientside Mod</td> 
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--DungeonPack-->
+<tr>
+	<td><a href="http://bit.ly/V5Ecn9">DungeonPack</a></td>
+	<td class="desctt"><span class="tt">Adds many new structures to the game, most of which are hostile and contain loot! Also good for a free home once you clear out all the baddies.</span></td>
+	<td>Stuuupiiid</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Dynamic Lights-->
 <tr>
 	<td><a href="http://bit.ly/as-dynamiclights">Dynamic Lights</a></td> 
@@ -215,6 +342,15 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
+<!--Elemental Orbs-->
+<tr>
+	<td><a href="http://bit.ly/ZMwKMm">Elemental Orbs</a></td>
+	<td class="desctt"><span class="tt">Allows you to use element-related orbs to do many things to the area around you.</span></td>
+	<td>MaximumTechnology</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Elemental Tinkerer-->
 <tr>
 	<td><a href="http://bit.ly/10tghAD">Elemental Tinkerer</a></td>
@@ -224,8 +360,35 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--Endermen Don't Pick Up Blocks Mod-->
+<tr>
+	<td><a href="http://bit.ly/13vszGc">Endermen Don't Pick Up Blocks Mod</a></td>
+	<td class="desctt"><span class="tt">Disables the Enderman's ability to pickup blocks as well as a few other small mods that modify enderman.</span></td>
+	<td>Jeffrey6978</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--ExtraneousCraft-->
+<tr>
+	<td><a href="http://bit.ly/105cRxN">ExtraneousCraft</a></td>
+	<td class="desctt"><span class="tt">An Alien Tech mod that adds many cool machines and high-end stuff but with new physics and models.</span></td>
+	<td>xxAKSxx</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------F-------------------------------------------------------->
+
+<!--Familiars Mod-->
+<tr>
+	<td><a href="http://bit.ly/VNNZZT">Familiars Mod</a> (and API)</td>
+	<td class="desctt"><span class="tt">Adds miniature mobs who float next to you at all times (if equipped), giving off small perks besides the obvious one of having a companion to accompany you on your adventures.</span></td>
+	<td>pitman-87</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--Fancy Glass-->
 <tr>
@@ -236,6 +399,24 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--Finder Compass-->
+<tr>
+	<td><a href="http://bit.ly/ZhnTRT">Finder Compass</a></td> 
+	<td class="desctt"><span class="tt">Makes your compass point to dungeons, strongholds, and diamonds if within a certain range of them.</span></td> 
+	<td>AtomicStryker</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--FloatingRuins-->
+<tr>
+	<td><a href="http://bit.ly/TWHHIG">FloatingRuins</a></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d rpa">ModLoader Option, bspkrsCore Required</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.</span></td> 
+	<td>bspkrs</td> 
+	<td>Universal</td> 
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Floodgate-->
 <tr>
 	<td><a href="http://bit.ly/WnSwBj">Floodgate</a></td> 
@@ -243,6 +424,15 @@
 	<td>Risugami</td> 
 	<td>SSP</td> 
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Fly Mod-->
+<tr>
+	<td><a href="http://bit.ly/cjbmodsr">Fly Mod</a></td>
+	<td class="desctt"><span class="tt">Lets you fly by a simple button press. (Default F Key). It is possible to change the fly speed. There is also a button that makes you run faster (Press/Hold Left-Shift Key by default). You can also enable to fly up/down by using the mouse (disabled by default).</span></td>
+	<td>CJB</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Forge-->
@@ -255,6 +445,15 @@
 </tr>
 
 <!----------------------------------------------------------G-------------------------------------------------------->
+
+<!--Gems+-->
+<tr>
+	<td><a href="http://bit.ly/VFCpmA">Gems+</a></td>
+	<td class="desctt"><span class="tt">Adds many gem ores, items, blocks, tools, weapons, armors, dusts, sands and glasses to the game.</span></td>
+	<td>RobZ51</td>
+	<td><b>Universal</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--Gravity Gun-->
 <tr>
@@ -297,6 +496,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--IngameInfo-->
+<tr>
+	<td><a href="http://bit.ly/TWHHIG">IngameInfo</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Want to know how much score you have without having to die? In need of real time information like weather, light level or your world size as you explore? Then this mod is for you!</span></td>
+	<td>bspkrs</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Inventory Tweaks-->
+<tr>
+	<td><a href="http://bit.ly/k-invtweaks">Inventory Tweaks</a></td>
+	<td class="desctt"><span class="tt">Allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will save you a massive amount of time!</span></td>
+	<td>Kobata</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--IronChests 2-->
 <tr>
 	<td><a href="http://bit.ly/ironchests2">IronChests 2</a></td>
@@ -320,6 +537,15 @@
 
 <!----------------------------------------------------------K-------------------------------------------------------->
 
+<!--KeepMyStats-->
+<tr>
+	<td><a href="http://bit.ly/ZPNPm4">KeepMyStats</a></td>
+	<td class="desctt"><span class="tt">Keeps minecraft from resetting achievements when installing/uninstalling mods.</span></td>
+	<td>Naruto1310</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--KenshiroMod-->
 <tr>
 	<td><a href="http://bit.ly/as-kenshiro">KenshiroMod</a></td> 
@@ -340,6 +566,15 @@
 	<td class="desctt"><span class="tt">Introduces a new Item to Minecraft; the Ball of Magic Yarn. It is crafted by surrounding a Compass with Wool (any kind).<br/><br/>The item serves as pathfinding tool and to keep track of your movements. In other words, you should never again get lost exploring the Nether or some complex cave system, and without leaving a ridiculous amount of Torches to mark your trail.<br/><br/><i>NOTE:<br/>In Multiplayer, you can't craft this Item. You use a button instead, by default "J". Button can be customized in auto-created file under mods/MagicYarn.txt</i></span></td> 
 	<td>AtomicStryker</td> 
 	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--MapWriter Minimap Mod-->
+<tr>
+	<td><a href="http://bit.ly/13duyig">MapWriter Minimap Mod</a></td>
+	<td class="desctt"><span class="tt">A minimap mod that not only shows your surroundings, but everywhere you've been.</span></td>
+	<td>mapwriter</td>
+	<td>Clientside Mod</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -379,6 +614,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Minor Alchemy-->
+<tr>
+	<td><a href="http://bit.ly/ZJdluZ">Minor Alchemy</a></td>
+	<td class="desctt"><span class="tt">Alchemy in its rawest form; take matter and make matter. It works for both Clients and Servers. Please know that server owners can change the universal CV lists, so if an item has a different CV on the server than your client or it doesn't have one when it usually does, this is probably why.</span></td>
+	<td>Guff</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Mob Filter Mod-->
+<tr>
+	<td><a href="http://bit.ly/cjbmodsr">Mob Filter Mod</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">CJB API Required</big><br/>See <i class="d">bit.ly/cjb-api</i></center><br/>Lets you choose mobs to keep the game from spawning.</span></td>
+	<td>CJB</td>
+	<td><b>SSP</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--ModLoader-->
 <tr>
 	<td><a href="http://bit.ly/WnSwBj">ModLoader</a> (API)</td>
@@ -386,6 +639,15 @@
 	<td>Risugami</td>
 	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--More Info Mod-->
+<tr>
+	<td><a href="http://bit.ly/cjbmodsr">More Info Mod</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">CJB API Required</big><br/>See <i class="d">bit.ly/cjb-api</i></center><br/>Adds a lot more information to your screen. The information you want to see is easily configurable. Just press the I key to open the MoreInfo Options menu, here you can turn on or off the information you want to see. It's also possible to change in which corner the information must be shown.</span></td>
+	<td>CJB</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--More Stackables-->
@@ -415,6 +677,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Mystic Mod-->
+<tr>
+	<td><a href="http://bit.ly/16RPIWd">Mystic Mod</a></td>
+	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience. Adds ruins, ores, and multiple types of stone.</span></td>
+	<td>oitsjustjose</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------N-------------------------------------------------------->
 
@@ -436,8 +707,44 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--No Slimes in Superflat-->
+<tr>
+	<td><a href="http://bit.ly/Ty9cf2">No Slimes in Superflat</a></td>
+	<td class="desctt"><span class="tt">Removes slimes in superflat worlds.</span></td>
+	<td>MamiyaOtaru</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--NoSnow Mod-->
+<tr>
+	<td><a href="http://bit.ly/1364GZq">NoSnow Mod</a></td>
+	<td class="desctt"><span class="tt">Changes the properties of the snowy biomes in Minecraft, raising their ambient temperatures and essentially warming them up so that snow and ice cannot form at all. It then switches off the biomes' toggles for  snowfall - because having snowfall without any snow is just lame. The result is biomes that have no snow, no ice, and when it rains, it pours - no snowflakes, no snow build-up.</span></td>
+	<td>Sopwith</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--No Voidfog-->
+<tr>
+	<td><a href="http://bit.ly/Ty9cf2">No Voidfog</a> (or Dimming)</td>
+	<td class="desctt"><span class="tt">Removes the void fog and dimming when getting nearer to bedrock level.</span></td>
+	<td>MamiyaOtaru</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!----------------------------------------------------------O-------------------------------------------------------->
+
+<!--Old North / Retro Sun Direction-->
+<tr>
+	<td><a href="http://bit.ly/Ty9cf2">Old North / Retro Sun Direction</a></td>
+	<td class="desctt"><span class="tt">Makes the sun travel from north to south, to match the direction it went in Minecraft Beta.  With this mod, clouds go "north" and the sun goes "west", just like it used to.</span></td>
+	<td>MamiyaOtaru</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
 
 <!--Optifine-->
 <tr>
@@ -460,6 +767,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Player API-->
+<tr>
+	<td><a href="http://bit.ly/WnR9CL">Player API</a></td>
+	<td class="desctt"><span class="tt">Render Player API gives third party mods managed access to the player render classes.</span></td>
+	<td>Divisor</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--PortalGun-->
 <tr>
 	<td><a href="http://bit.ly/14dknZW">PortalGun</a></td> 
@@ -469,10 +785,38 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--ProSthetics-->
+<tr>
+	<td><a href="http://bit.ly/YVcpnT">ProSthetics</a></td>
+	<td class="desctt"><span class="tt">Adds a process of casting different metals and materials into new, better materials.</span></td>
+	<td>Guff</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------Q-------------------------------------------------------->
 
+<!--QuickCraft Mod-->
+<tr>
+	<td><a href="http://bit.ly/cjbmodsr">QuickCraft Mod</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">CJB API Required</big><br/>See <i class="d">bit.ly/cjb-api</i></center><br/>"This mod shows a somewhat XBOX 360 like GUI of crafting. Just with a few clicks you can craft a lot of items. Hover your mouse over the item you want to craft and it will show you the recipe and which items you still require and which items will be used from your inventory. You can also click one of the items in your inventory, this will show you all the recipes which requires that item. There are also 2 buttons, one to switch back to classic crafting and one to toggle to show only the recipes you can craft with the items you have in your inventory. It both works with SSP and SMP and even supports custom items."</span></td>
+	<td>CJB</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+
 <!----------------------------------------------------------R-------------------------------------------------------->
+
+<!--RadarBro-->
+<tr>
+	<td><a href="http://bit.ly/117W9Dg">RadarBro</a></td>
+	<td class="desctt"><span class="tt">RadarBro gives you comfort by letting you know where nearby enemies and mobs are, as well as other entities.</span></td>
+	<td>Cali Alec</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
 
 <!--Rancraft Penguins-->
 <tr>
@@ -514,6 +858,24 @@
 			<li>Indication of slime spawning chunks</li>
 		</ul></span></td>
 	<td>ReiFNSK</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Render Player API-->
+<tr>
+	<td><a href="http://bit.ly/13U9b8y">Render Player API</a></td>
+	<td class="desctt"><span class="tt">Render Player API gives third party mods managed access to the player render classes</span></td>
+	<td>Divisor</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Retro Fences-->
+<tr>
+	<td><a href="http://bit.ly/Ty9cf2">Retro Fences</a></td>
+	<td class="desctt"><span class="tt">Makes fences behave how they used to by making them connect only to themselves, and not other blocks.</span></td>
+	<td>MamiyaOtaru</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
@@ -605,6 +967,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--StartingInventory-->
+<tr>
+	<td><a href="http://bit.ly/TWHHIG">StartingInventory</a></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>This mod gives you items and blocks each time you start a new world, just by editing a .txt file.</span></td> 
+	<td>bspkrs</td> 
+	<td>SSP</td> 
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--StatusEffectHUD-->
+<tr>
+	<td><a href="http://bit.ly/WmtGCf">StatusEffectHUD</a></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Displays your currently active potions/effects without having to open your inventory!</span></td> 
+	<td>bspkrs</td> 
+	<td>Clientside Mod</td> 
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!----------------------------------------------------------T-------------------------------------------------------->
 
@@ -617,11 +997,29 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Telicraft-->
+<tr>
+	<td><a href="http://bit.ly/YzTP2o">Telicraft</a></td>
+	<td class="desctt"><span class="tt">Adds a new ore, a bunch of crazy things that almost everybody can enjoy, new tools, new machines, a new Crafting Table, a new flower, new kinds of Netherrack and End Stone and much more!</span></td>
+	<td>Telinc1</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Mists of RioV-->
 <tr>
 	<td><a href="http://bit.ly/10qPe6k">The Mists of RioV</a></td>
 	<td class="desctt"><span class="tt">"The imagined world is called RioV, in the year of 1301 DoC (Death of Carigon.), the land of RioV is filled with Nizonians. A native creature that are basically giant beasts. In 1278 DoC the Natives found a new threat across the land called Granitions, another wild beast. For 10 years they fought and the Nirons arrived dealing poison to all races when fought with. Since then, the races have been weakened and new races have arrived, such as we humans. There is a myth that in 1310 a monster called a Huton will destroy the land of RioV and leave it in ashes. This is The Mists of RioV."</span></td>
 	<td>sheenrox82</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Ocarina Mod-->
+<tr>
+	<td><a href="http://bit.ly/UArYTu">The Ocarina Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a fully-functioning Ocarina straight from The Legend of Zelda: Ocarina of Time and Majora's Mask into Minecraft! The Ocarina functions just like it does in The Legend of Zelda. You can now learn songs that effect gameplay! Future updates will include more songs and functions!</span></td>
+	<td>Boba_Fett_Link</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -633,6 +1031,15 @@
 	<td>mDiyo</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td><!--Version Independent-->
+</tr>
+
+<!--TooManyItems-->
+<tr>
+	<td><a href="http://bit.ly/toomanyitems">TooManyItems</a></td>
+	<td class="desctt"><span class="tt">Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!</span></td>
+	<td>Marglyph</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Torojima's Chococraft-->
@@ -676,6 +1083,24 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--TreeCapitator-->
+<tr>
+	<td><a href="http://bit.ly/TWHHIG">TreeCapitator</a></td> 
+	<td class="ml desctt"><span class="tt"><center><big class="d rpa">ModLoader Option, bspkrsCore Required</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.</span></td> 
+	<td>bspkrs</td> 
+	<td>Universal</td> 
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--tukmc-->
+<tr>
+	<td><a href="http://bit.ly/XUn0Mp">tukmc</a></td> 
+	<td class="desctt"><span class="tt">A slick HUD mod that is inspired by the World of Warcraft addon, tukui.</span></td> 
+	<td>maxpowa</td> 
+	<td>Clientside Mod</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Twilight Forest-->
 <tr>
 	<td><a href="http://bit.ly/URaBel">Twilight Forest</a></td>
@@ -690,6 +1115,16 @@
 
 <!----------------------------------------------------------V-------------------------------------------------------->
 
+<!--VoxelMap (Zan's)-->
+<tr>
+	<td><a href="http://bit.ly/Ty9cf2">VoxelMap</a> (Zan's)</td>
+	<td class="desctt"><span class="tt">A feature-packed minimap with many customizations.</span></td>
+	<td>MamiyaOtaru</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+
 <!----------------------------------------------------------W-------------------------------------------------------->
 
 <!--Weather & Tornadoes-->
@@ -701,8 +1136,36 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--WorldStateCheckpoints-->
+<tr>
+	<td><a href="http://bit.ly/VNYhcp">WorldStateCheckpoints</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d bc">ModLoader Mod, bspkrsCore Required</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Gives you a way to take snapshots of your singleplayer worlds!</span></td>
+	<td>bspkrs</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!----------------------------------------------------------X-------------------------------------------------------->
+
+<!--X-Ray Mod-->
+<tr>
+	<td><a href="http://bit.ly/cjbmodsr">X-Ray Mod</a> (CJB)</td>
+	<td class="d desctt"><span class="tt"><center><big class="d">CJB API Required</big><br/>See <i class="d">bit.ly/cjb-api</i></center><br/>This mod will show you all the blocks you want in the world. Simply head over to the CJB Option menu and  there you can you can mark the blocks red which you don't wanna see. Press the X-Ray key and voila you now will see all the blocks you want. There is also a Cave and nightvision option for you to use.</span></td>
+	<td>CJB</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Xy's Done Fix-->
+<tr>
+	<td><a href="http://bit.ly/XA5z9y">Xy's Done Fix</a></td>
+	<td class="desctt"><span class="tt">Moves the "Done" button to the top of your Controls screen to prevent overlapping with other buttons.</span></td>
+	<td>The_xy</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 
 <!----------------------------------------------------------Y-------------------------------------------------------->
 
@@ -743,7 +1206,7 @@
 </center><br/>
 
 <div class="footer">
-	Mod count: <b>60</b>
+	Mod count: <b>111</b>
 </div>
 
 <!--Google Analytics-->

@@ -22,6 +22,7 @@
 		<li><a href="../../credits/">Credits</a></li>
 		<li><a href="../../latest/">Current List</a></li>
 		<li><a href="../../banners/">Banners</a></li>
+		<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
 	</ul>
 				
 	<br/><hr width="99%" size="6" noshade>
