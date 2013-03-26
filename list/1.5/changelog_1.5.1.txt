@@ -1,3 +1,29 @@
+(March/25/2013)
+	*Updated "Mystic Mod" info: Updated description
+	+Added 4 mods by chicken_bones (Which are the following)
+		+Added dependency "CodeChickenCore"
+		+Added "ChickenChunks"
+		+Added "Not enough Items (NEI)"
+		+Added "Ender Storage"
+	+Added "Gravestone Mod"
+	+Added "The Wars Mod"
+	+Added "More XP Mod"
+	+Added "The Invether"
+	+Added "Flintlock Guns Mod"
+	+Added "Dungeon Mobs"
+	+Added "Enchanting Plus"
+	+Added "Team Fortress 2 Mods"
+	+Added "More Village Biomes + Village Logic Addon"
+	+Added "Flintlock Guns Mod"
+	+Added "Enhanced Portals"
+	+Added "Jammy Furniture Mod"
+	+Added "Village Info"
+	+Added "HybridCraft"
+	+Added "Elemental Creepers"
+	+Added "Flan's Mod"
+	+Added "Smart Spawn Mod"
+	+Added "X-Ray Mod (craftminer502)"
+
 (March/24/2013)
 	+Added 5 mods by bspkrs (Which are the following)
 		+Added dependency "bspkrsCore"

@@ -1913,19 +1913,19 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Enhanced Portals-->
 <tr>
 	<td><a href="http://bit.ly/TGk9sM">Enhanced Portals</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Allows you to create any size or shape nether portal that you want. Unlike other mods, this mod has no limit on the size of the portal you want to create - as long as it's a valid portal (a frame of obsidian with nothing else in the way) - you're good to go.</span></td>
 	<td>Alz454</td>
-	<td>SSP SMP</td>
-	<td class="fc">Forge Compatible</td>
+	<td>Universal</td>
+	<td class="fc">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Enhanced Visuals-->
 <tr>
 	<td><a href="http://bit.ly/13U7lTM">Enhanced Visuals</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds visuals to enhance the gameplay experience, such as screen going staticy when looking at enderman, blood splatter when attacked or attacking mobs, overlays for low health, burning, or splash potions, as well as sand and snow splats.</span></td>
 	<td>Sonicjumper</td>
 	<td>SSP SMP</td>
 	<td class="fr">Forge Required</td>
@@ -2123,6 +2123,15 @@
 	<td><a href="http://bit.ly/WnAXkR">FlintCraft</a></td>
 	<td class="desctd"><span class=""><!--INFO--></span></td>
 	<td>666mayhem666</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Flintlock Guns Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZjQ6bZ">Flintlock Guns Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds six new flintlock weapons: Pistol, Double-Barreled Pistol, Musket, Revolver, and Hand Cannon, and a makeshift stone pistol. Loading these flintlock weapons in real life is quite cumbersome, and this mod replicates that. To load a weapon, you must craft together an unloaded one, gunpowder, and your ammo. The multi-shot weapons can do this multiple times to become fully loaded. Also be aware, your gun may misfire, making a sad click and losing your ammo. Reload and try again.</span></td>
+	<td>WillDaBeast509</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
@@ -2635,12 +2644,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--HybridCraft-->
 <tr>
 	<td><a href="http://bit.ly/WdXKBQ">HybridCraft</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds hybrid ores and tools to the game.</span></td>
 	<td>Geforce132</td>
-	<td>N/A</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3105,10 +3114,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Jammy Furniture Mod-->
 <tr>
 	<td><a href="http://bit.ly/RBQOQg">Jammy Furniture Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds a large amount of decorative blocks, most of which are furniture. Each piece of furniture functions in its own way. You can sit in chairs, on couches, switch on lamps much more.</span></td>
 	<td>Jammy780</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -3932,10 +3941,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--More Swords Mod-->
 <tr>
 	<td><a href="http://bit.ly/UR6Wxe">More Swords Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds many new swords to the game.</span></td>
 	<td>DarkHax</td>
 	<td>SSP SMP LAN</td>
 	<td class="fr">Forge Required</td>
@@ -4084,7 +4093,7 @@
 <!--Mystic Mod-->
 <tr>
 	<td><a href="http://bit.ly/16RPIWd">Mystic Mod</a></td>
-	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience. Adds ruins, ores, and multiple types of stone.</span></td>
+	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience.<br/><br/>Mystic Ores adds 4 nether ores and 7 overworld ores as well as 1 blastproof glass block into the game, some of which can be used to create some quite impressive tools!<br/><br/>Mystic Ruins adds 2 new structures, some overworld ruins which can contain treasure chests, as well as massive underground dungeons that also double as mazes, as you can quite easily get lost in them!<br/><br/>Mystic Stones adds 7 new stones to the game, as well as planks, bricks, and cobbled versions of each. It also adds reinforced bricks, a compatibility pack for Mystic Ores, which allows you to compress your gems/ingots from Mystic Ores into blocks, which double as beacon bases (currently bugged, fixing right now) and are blastproof. They cannot be uncrafted.</span></td>
 	<td>oitsjustjose</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -5242,9 +5251,9 @@
 <!--Team Fortress 2 Mods-->
 <tr>
 	<td><a href="http://bit.ly/TGsYTm">Team Fortress 2 Mods</a></td>
-	<td class="desctt"><span class="tt">Includes four mods containing </span></td>
+	<td class="desctt"><span class="tt">Includes four mods containing Team Fortress 2 themed content, including teleporters, sentries, dispensers, and a team addon.</span></td>
 	<td>pitman-87</td>
-	<td>N/A</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5578,12 +5587,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--The Wars Mod-->
 <tr>
 	<td><a href="http://bit.ly/13dBw7b">The Wars Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds a massive array of structures. From Spleef to hunger games! As well as special blocks, a new ore and a class system.</span></td>
 	<td>resinresin</td>
-	<td>SSP SMP LAN</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -6036,10 +6045,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Village Info-->
 <tr>
 	<td><a href="http://bit.ly/TGtW1L">Village Info</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Shows some information about the village you're currently in.</span></td>
 	<td>trunkz</td>
 	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
@@ -6254,10 +6263,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--X-Ray Mod (craftminer502)-->
 <tr>
 	<td><a href="http://bit.ly/VxkL27">X-Ray Mod (craftminer502)</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds the ability to see through blocks so you may quickly find materials you're looking for.</span></td>
 	<td>craftminer502</td>
 	<td>N/A</td>
 	<td class="nfc">Not Forge Compatible</td>
@@ -6375,7 +6384,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>664</b>
+	Mod count: <b>666</b>
 </div>
 
 

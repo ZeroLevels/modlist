@@ -1,3 +1,14 @@
+(March/25/2013)
+	*Updated "The Wars Mod" info: Added description
+	*Updated "Village Info" info: Added description
+	*Updated "Enhanced Portals" info: Added description
+	*Updated "Jammy Furniture Mod" info: Added description
+	*Updated "HybridCraft" info: Added description
+	*Updated "More Swords Mod" info: Added description
+	*Updated "Team Fortress 2 Mods" info: Added description, now Universal
+	*Updated "Mystic Mod" info: Updated description
+	+Added "Flintlock Guns Mod"
+
 (March/24/2013)
 	*Updated "Xy's Done Fix" info: Added description
 	+Added "Mystic Mod"

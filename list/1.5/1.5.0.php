@@ -522,6 +522,15 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
+<!--Elemental Creepers-->
+<tr>
+	<td><a href="http://bit.ly/elementalcreepers-user">Elemental Creepers</a> (<a href="http://bit.ly/elementalcreepers-mod" title="This link only works for MCF Moderators, as the original link does not">MCF Moderator Link</a>)</td>
+	<td class="desctt"><span class="tt">Adds creepers with different elements to the game.</span></td>
+	<td>xSmallDeadGuyx</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Elemental Tinkerer-->
 <tr>
 	<td><a href="http://bit.ly/10tghAD">Elemental Tinkerer</a></td>
@@ -565,6 +574,15 @@
 	<td>SanAndreasP</td> 
 	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Enhanced Portals-->
+<tr>
+	<td><a href="http://bit.ly/TGk9sM">Enhanced Portals</a></td>
+	<td class="desctt"><span class="tt">Allows you to create any size or shape nether portal that you want. Unlike other mods, this mod has no limit on the size of the portal you want to create - as long as it's a valid portal (a frame of obsidian with nothing else in the way) - you're good to go.</span></td>
+	<td>Alz454</td>
+	<td>Universal</td>
+	<td class="fc">Forge Required</td>
 </tr>
 
 <!--Extended Workbench-->
@@ -640,6 +658,15 @@
 	<td>jamioflan</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Flintlock Guns Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZjQ6bZ">Flintlock Guns Mod</a></td>
+	<td class="desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds six new flintlock weapons: Pistol, Double-Barreled Pistol, Musket, Revolver, and Hand Cannon, and a makeshift stone pistol. Loading these flintlock weapons in real life is quite cumbersome, and this mod replicates that. To load a weapon, you must craft together an unloaded one, gunpowder, and your ammo. The multi-shot weapons can do this multiple times to become fully loaded. Also be aware, your gun may misfire, making a sad click and losing your ammo. Reload and try again.</span></td>
+	<td>WillDaBeast509</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--FloatingRuins-->
@@ -1153,6 +1180,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--More Swords Mod-->
+<tr>
+	<td><a href="http://bit.ly/UR6Wxe">More Swords Mod</a></td>
+	<td class="desctt"><span class="tt">Adds many new swords to the game.</span></td>
+	<td>DarkHax</td>
+	<td>SSP SMP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--More Village Biomes + Village Logic Addon-->
 <tr>
 	<td><a href="http://bit.ly/SfwZji">More Village Biomes + Village Logic Addon</a></td>
@@ -1201,7 +1237,7 @@
 <!--Mystic Mod-->
 <tr>
 	<td><a href="http://bit.ly/16RPIWd">Mystic Mod</a></td>
-	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience. Adds ruins, ores, and multiple types of stone.</span></td>
+	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience.<br/><br/>Mystic Ores adds 4 nether ores and 7 overworld ores as well as 1 blastproof glass block into the game, some of which can be used to create some quite impressive tools!<br/><br/>Mystic Ruins adds 2 new structures, some overworld ruins which can contain treasure chests, as well as massive underground dungeons that also double as mazes, as you can quite easily get lost in them!<br/><br/>Mystic Stones adds 7 new stones to the game, as well as planks, bricks, and cobbled versions of each. It also adds reinforced bricks, a compatibility pack for Mystic Ores, which allows you to compress your gems/ingots from Mystic Ores into blocks, which double as beacon bases (currently bugged, fixing right now) and are blastproof. They cannot be uncrafted.</span></td>
 	<td>oitsjustjose</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -1671,6 +1707,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Team Fortress 2 Mods-->
+<tr>
+	<td><a href="http://bit.ly/TGsYTm">Team Fortress 2 Mods</a></td>
+	<td class="desctt"><span class="tt">Includes four mods containing Team Fortress 2 themed content, including teleporters, sentries, dispensers, and a team addon.</span></td>
+	<td>pitman-87</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Texture Pack on Main Menu-->
 <tr>
 	<td><a href="http://bit.ly/YQZfbG">Texture Pack on Main Menu</a></td>
@@ -1703,6 +1748,15 @@
 	<td><a href="http://bit.ly/10qPe6k">The Mists of RioV</a></td>
 	<td class="desctt"><span class="tt">"The imagined world is called RioV, in the year of 1301 DoC (Death of Carigon.), the land of RioV is filled with Nizonians. A native creature that are basically giant beasts. In 1278 DoC the Natives found a new threat across the land called Granitions, another wild beast. For 10 years they fought and the Nirons arrived dealing poison to all races when fought with. Since then, the races have been weakened and new races have arrived, such as we humans. There is a myth that in 1310 a monster called a Huton will destroy the land of RioV and leave it in ashes. This is The Mists of RioV."</span></td>
 	<td>sheenrox82</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Wars Mod-->
+<tr>
+	<td><a href="http://bit.ly/13dBw7b">The Wars Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a massive array of structures. From Spleef to hunger games! As well as special blocks, a new ore and a class system.</span></td>
+	<td>resinresin</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1862,6 +1916,15 @@
 
 <!----------------------------------------------------------V-------------------------------------------------------->
 
+<!--Village Info-->
+<tr>
+	<td><a href="http://bit.ly/TGtW1L">Village Info</a></td>
+	<td class="desctt"><span class="tt">Shows some information about the village you're currently in.</span></td>
+	<td>trunkz</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--VoxelMap (Zan's)-->
 <tr>
 	<td><a href="http://bit.ly/Ty9cf2">VoxelMap</a> (Zan's)</td>
@@ -1913,6 +1976,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--X-Ray Mod (craftminer502)-->
+<tr>
+	<td><a href="http://bit.ly/VxkL27">X-Ray Mod</a> (craftminer502)</td>
+	<td class="desctt"><span class="tt">Adds the ability to see through blocks so you may quickly find materials you're looking for.</span></td>
+	<td>craftminer502</td>
+	<td>N/A</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!----------------------------------------------------------Y-------------------------------------------------------->
 
 <!----------------------------------------------------------Z-------------------------------------------------------->
@@ -1949,7 +2021,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>192</b>
+	Mod count: <b>199</b>
 </div>
 
 <!--Google Analytics-->

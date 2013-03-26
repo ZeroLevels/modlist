@@ -1,3 +1,14 @@
+(March/25/2013)
+	*Updated "Mystic Mod" info: Updated description
+	+Added "The Wars Mod"
+	+Added "Team Fortress 2 Mods"
+	+Added "Flintlock Guns Mod"
+	+Added "Enhanced Portals"
+	+Added "Village Info"
+	+Added "Elemental Creepers"
+	+Added "X-Ray Mod (craftminer502)"
+	+Added "More Swords Mod"
+
 (March/24/2013)
 	+Added "Mystic Mod"
 

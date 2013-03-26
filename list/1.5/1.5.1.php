@@ -135,15 +135,6 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--The Barrels Mod-->
-<tr>
-	<td><a href="http://bit.ly/15eDKSH">The Barrels Mod</a></td>
-	<td class="desctt"><span class="tt">Adds three blocks into the game; barrels! The three types of barrels all function similarly. Barrels are used to store item just like you would with a chest, but vastly more items then what you can fit in a chest. Unfortunately, there is a limiting factor like everything: they can only store one item at a time.</span></td>
-	<td>Need4Poop402</td>
-	<td>Universal</td>
-	<td class="fr">Forge Required</td>
-</tr>
-
 <!--BattleTowers-->
 <tr>
 	<td><a href="http://bit.ly/as-battletowers">BattleTowers</a></td> 
@@ -210,6 +201,15 @@
 
 <!----------------------------------------------------------C-------------------------------------------------------->
 
+<!--ChickenChunks-->
+<tr>
+	<td><a href="http://bit.ly/IRSg84">ChickenChunks</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">CodeChickenCore Required:</big><br/>See <i class="d">bit.ly/cb-core</i></center><br/>Adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around. Works in singleplayer as well.</span></td>
+	<td>chicken_bones</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--ChickenShed-->
 <tr>
 	<td><a href="http://bit.ly/ChickenShed">ChickenShed</a></td> 
@@ -225,6 +225,15 @@
 	<td class="desctt"><span class="tt">CJB API is required for any of CJB's mods work. It doesn't do anything on its own.</span></td>
 	<td>CJB</td>
 	<td><b>Universal</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--CodeChickenCore-->
+<tr>
+	<td><a href="http://bit.ly/cb-core">CodeChickenCore</a> (Dependency)</td>
+	<td class="desctt"><span class="tt">This mod is required for "Not Enough Items (NEI)", "Ender Storage", and "ChickenChunks".</span></td>
+	<td>chicken_bones</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -321,6 +330,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Dungeon Mobs-->
+<tr>
+	<td><a href="http://bit.ly/dungeonmobs">Dungeon Mobs</a></td>
+	<td class="desctt"><span class="tt">Dungeon Mobs is intended to be a more dangerous analogue to Mo' Creatures. Instead of providing new animals that liven up the overworld and improve ambiance, this mod introduces a variety of new hostile mobs, each of which presents a different challenge, requiring you to think tactically about how to surmount the difficulty they pose. Supports "Biomes O' Plenty", "ExtraBiomesXL", and "Highlands".</span></td>
+	<td>GnomeWorks</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Dynamic Lights-->
 <tr>
 	<td><a href="http://bit.ly/as-dynamiclights">Dynamic Lights</a></td> 
@@ -342,6 +360,15 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
+<!--Elemental Creepers-->
+<tr>
+	<td><a href="http://bit.ly/elementalcreepers-user">Elemental Creepers</a> (<a href="http://bit.ly/elementalcreepers-mod" title="This link only works for MCF Moderators, as the original link does not">MCF Moderator Link</a>)</td>
+	<td class="desctt"><span class="tt">Adds creepers with different elements to the game.</span></td>
+	<td>xSmallDeadGuyx</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Elemental Orbs-->
 <tr>
 	<td><a href="http://bit.ly/ZMwKMm">Elemental Orbs</a></td>
@@ -360,6 +387,15 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--Enchanting Plus-->
+<tr>
+	<td><a href="http://bit.ly/UvMdBK">Enchanting Plus</a></td>
+	<td class="desctt"><span class="tt">Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.</span></td>
+	<td>mssodin28</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Endermen Don't Pick Up Blocks Mod-->
 <tr>
 	<td><a href="http://bit.ly/13vszGc">Endermen Don't Pick Up Blocks Mod</a></td>
@@ -367,6 +403,24 @@
 	<td>Jeffrey6978</td>
 	<td>SSP SMP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Ender Storage-->
+<tr>
+	<td><a href="http://bit.ly/UvpH6y">Ender Storage</a></td> 
+	<td class="d desctt"><span class="tt"><center><big class="d">CodeChickenCore Required:</big><br/>See <i class="d">bit.ly/cb-core</i></center><br/>EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch.</span></td> 
+	<td>chicken_bones</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Enhanced Portals-->
+<tr>
+	<td><a href="http://bit.ly/TGk9sM">Enhanced Portals</a></td>
+	<td class="desctt"><span class="tt">Allows you to create any size or shape nether portal that you want. Unlike other mods, this mod has no limit on the size of the portal you want to create - as long as it's a valid portal (a frame of obsidian with nothing else in the way) - you're good to go.</span></td>
+	<td>Alz454</td>
+	<td>Universal</td>
+	<td class="fc">Forge Required</td>
 </tr>
 
 <!--ExtraneousCraft-->
@@ -406,6 +460,24 @@
 	<td>AtomicStryker</td> 
 	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Flan's Mod-->
+<tr>
+	<td><a href="http://bit.ly/13aYRXO">Flan's Mod</a></td>
+	<td class="desctt"><span class="tt">A combination of Planes, Vehicles and WW2Guns rewritten with a whole load of awesome new features and designed to allow easy custom content creation by anyone. Flan's mod alone is useless, it requires content packs in order to be of any use.</span></td>
+	<td>jamioflan</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Flintlock Guns Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZjQ6bZ">Flintlock Guns Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds six new flintlock weapons: Pistol, Double-Barreled Pistol, Musket, Revolver, and Hand Cannon, and a makeshift stone pistol. Loading these flintlock weapons in real life is quite cumbersome, and this mod replicates that. To load a weapon, you must craft together an unloaded one, gunpowder, and your ammo. The multi-shot weapons can do this multiple times to become fully loaded. Also be aware, your gun may misfire, making a sad click and losing your ammo. Reload and try again.</span></td>
+	<td>WillDaBeast509</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--FloatingRuins-->
@@ -455,6 +527,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Gravestone Mod-->
+<tr>
+	<td><a href="http://bit.ly/XSirsO">Gravestone Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="bc d">ModLoader Mod, Player API Required</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For Player API, see <i class="d">bit.ly/playerapi</i></center><br/>Adds a gravestone and a cemetery to the game. Gravestone "spawns" after player's death. You can break it with a pickaxe and put it into another place only on "diggable" blocks: dirt, grass, mycelium, gravel, sand, soul sand and snow.</span></td>
+	<td>NightKosh</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Gravity Gun-->
 <tr>
 	<td><a href="http://bit.ly/ichun-gravitygun">Gravity Gun</a></td> 
@@ -475,6 +556,16 @@
 
 
 <!----------------------------------------------------------H-------------------------------------------------------->
+
+<!--HybridCraft-->
+<tr>
+	<td><a href="http://bit.ly/WdXKBQ">HybridCraft</a></td>
+	<td class="desctt"><span class="tt">Adds hybrid ores and tools to the game.</span></td>
+	<td>Geforce132</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------I-------------------------------------------------------->
 
@@ -534,6 +625,16 @@
 
 
 <!----------------------------------------------------------J-------------------------------------------------------->
+
+<!--Jammy Furniture Mod-->
+<tr>
+	<td><a href="http://bit.ly/RBQOQg">Jammy Furniture Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a large amount of decorative blocks, most of which are furniture. Each piece of furniture functions in its own way. You can sit in chairs, on couches, switch on lamps much more.</span></td>
+	<td>Jammy780</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------K-------------------------------------------------------->
 
@@ -659,6 +760,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--More Village Biomes + Village Logic Addon-->
+<tr>
+	<td><a href="http://bit.ly/SfwZji">More Village Biomes + Village Logic Addon</a></td>
+	<td class="desctt"><span class="tt">With the recent zombie infiltration the villagers have decided to expand into new territories, including biomes such as Forest, Extreme Hills, Jungle, Taiga, Swamp, and Ice Plains on top of the standard Plains and Desert.</span></td>
+	<td>shortwind</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--More XP Mod-->
+<tr>
+	<td><a href="http://bit.ly/13dy8Jt">More XP Mod</a></td>
+	<td class="desctt"><span class="tt">Multiplies experience on pick-up. Helpful for those who dislike wasting tons of levels for little to no reason.</span></td>
+	<td>dr_frost_dk</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Move Plus-->
 <tr>
 	<td><a href="http://bit.ly/moveplus">Move Plus</a></td>
@@ -680,7 +799,7 @@
 <!--Mystic Mod-->
 <tr>
 	<td><a href="http://bit.ly/16RPIWd">Mystic Mod</a></td>
-	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience. Adds ruins, ores, and multiple types of stone.</span></td>
+	<td class="desctt"><span class="tt">There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience.<br/><br/>Mystic Ores adds 4 nether ores and 7 overworld ores as well as 1 blastproof glass block into the game, some of which can be used to create some quite impressive tools!<br/><br/>Mystic Ruins adds 2 new structures, some overworld ruins which can contain treasure chests, as well as massive underground dungeons that also double as mazes, as you can quite easily get lost in them!<br/><br/>Mystic Stones adds 7 new stones to the game, as well as planks, bricks, and cobbled versions of each. It also adds reinforced bricks, a compatibility pack for Mystic Ores, which allows you to compress your gems/ingots from Mystic Ores into blocks, which double as beacon bases (currently bugged, fixing right now) and are blastproof. They cannot be uncrafted.</span></td>
 	<td>oitsjustjose</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -722,6 +841,15 @@
 	<td class="desctt"><span class="tt">Changes the properties of the snowy biomes in Minecraft, raising their ambient temperatures and essentially warming them up so that snow and ice cannot form at all. It then switches off the biomes' toggles for  snowfall - because having snowfall without any snow is just lame. The result is biomes that have no snow, no ice, and when it rains, it pours - no snowflakes, no snow build-up.</span></td>
 	<td>Sopwith</td>
 	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Not Enough Items (NEI)-->
+<tr>
+	<td><a href="http://bit.ly/UvpH6y">Not Enough Items (NEI)</a></td> 
+	<td class="d desctt"><span class="tt"><center><big class="d">CodeChickenCore Required:</big><br/>See <i class="d">bit.ly/cb-core</i></center><br/>NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.</span></td> 
+	<td>chicken_bones</td> 
+	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -949,6 +1077,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Smart Spawn Mod-->
+<tr>
+	<td><a href="http://bit.ly/118DNyU">Smart Spawn Mod</a></td>
+	<td class="desctt"><span class="tt">Protects the player from spawning in dangerous places as will as eliminating the random spawn feature to make it easier to play some custom maps, especially platform based maps like SkyBlock.</span></td>
+	<td>HeshamMeneisi</td>
+	<td>SSP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Spawner GUI-->
 <tr>
 	<td><a href="http://bit.ly/WnSwBj">Spawner GUI</a></td> 
@@ -997,12 +1134,39 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Team Fortress 2 Mods-->
+<tr>
+	<td><a href="http://bit.ly/TGsYTm">Team Fortress 2 Mods</a></td>
+	<td class="desctt"><span class="tt">Includes four mods containing Team Fortress 2 themed content, including teleporters, sentries, dispensers, and a team addon.</span></td>
+	<td>pitman-87</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Telicraft-->
 <tr>
 	<td><a href="http://bit.ly/YzTP2o">Telicraft</a></td>
 	<td class="desctt"><span class="tt">Adds a new ore, a bunch of crazy things that almost everybody can enjoy, new tools, new machines, a new Crafting Table, a new flower, new kinds of Netherrack and End Stone and much more!</span></td>
 	<td>Telinc1</td>
 	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Barrels Mod-->
+<tr>
+	<td><a href="http://bit.ly/15eDKSH">The Barrels Mod</a></td>
+	<td class="desctt"><span class="tt">Adds three blocks into the game; barrels! The three types of barrels all function similarly. Barrels are used to store item just like you would with a chest, but vastly more items then what you can fit in a chest. Unfortunately, there is a limiting factor like everything: they can only store one item at a time.</span></td>
+	<td>Need4Poop402</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Invether-->
+<tr>
+	<td><a href="http://bit.ly/XzCiqP">The Invether</a></td>
+	<td class="desctt"><span class="tt">A new dimension that is set to make a completly reversed Nether. Instead of wide, open spaces prepare to be crammed into tiny, dark caves. Instead of pools of lava on the floor watch out for the ice cold frozen magma - it'll burn you to death!</span></td>
+	<td>Ghetsis</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1020,6 +1184,15 @@
 	<td><a href="http://bit.ly/UArYTu">The Ocarina Mod</a></td>
 	<td class="desctt"><span class="tt">Adds a fully-functioning Ocarina straight from The Legend of Zelda: Ocarina of Time and Majora's Mask into Minecraft! The Ocarina functions just like it does in The Legend of Zelda. You can now learn songs that effect gameplay! Future updates will include more songs and functions!</span></td>
 	<td>Boba_Fett_Link</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Wars Mod-->
+<tr>
+	<td><a href="http://bit.ly/13dBw7b">The Wars Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a massive array of structures. From Spleef to hunger games! As well as special blocks, a new ore and a class system.</span></td>
+	<td>resinresin</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1115,6 +1288,15 @@
 
 <!----------------------------------------------------------V-------------------------------------------------------->
 
+<!--Village Info-->
+<tr>
+	<td><a href="http://bit.ly/TGtW1L">Village Info</a></td>
+	<td class="desctt"><span class="tt">Shows some information about the village you're currently in.</span></td>
+	<td>trunkz</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--VoxelMap (Zan's)-->
 <tr>
 	<td><a href="http://bit.ly/Ty9cf2">VoxelMap</a> (Zan's)</td>
@@ -1155,6 +1337,15 @@
 	<td>CJB</td>
 	<td>Clientside Mod</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--X-Ray Mod (craftminer502)-->
+<tr>
+	<td><a href="http://bit.ly/VxkL27">X-Ray Mod</a> (craftminer502)</td>
+	<td class="desctt"><span class="tt">Adds the ability to see through blocks so you may quickly find materials you're looking for.</span></td>
+	<td>craftminer502</td>
+	<td>N/A</td>
+	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
 <!--Xy's Done Fix-->
@@ -1206,7 +1397,7 @@
 </center><br/>
 
 <div class="footer">
-	Mod count: <b>111</b>
+	Mod count: <b>132</b>
 </div>
 
 <!--Google Analytics-->

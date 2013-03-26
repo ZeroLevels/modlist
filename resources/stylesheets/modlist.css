@@ -46,10 +46,12 @@ table.modlist td:nth-of-type(5) {text-align: center; text-decoration: underline;
 .modlist td.nfc		{color:#FF0000;}
 .modlist td.na		{color:black;}
 
-p			{background-color:black;
-			font-weight:bold;
-			color:white;
-			padding:3px;}
+p {
+background-color:black;
+font-weight:bold;
+color:white;
+padding:3px;	
+}
 			
 a			{color:#3072B3;
 			text-decoration:underline;
