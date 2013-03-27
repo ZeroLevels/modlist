@@ -38,7 +38,7 @@
 			<tr class="c">
 				<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
 				<td class="h">1.4</td>
-				<td class="nh"><a href="../1.5/">1.5</a></td>
+				<td class="nh" onclick="window.location.href='../1.5/'"><a href="../1.5/">1.5</a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -46,8 +46,8 @@
 	<table class="minor listnav nav">
 		<tr>
 			<td class="h">1.4.2</td>
-			<td class="nh"><a href="1.4.4_1.4.5.php">1.4.4/1.4.5</td>
-			<td class="nh"><a href="1.4.6_1.4.7.php">1.4.6/1.4.7</a></td>
+			<td class="nh" onclick="window.location.href='1.4.4_1.4.5.php'"><a href="1.4.4_1.4.5.php">1.4.4/1.4.5</td>
+			<td class="nh" onclick="window.location.href='1.4.6_1.4.7.php'"><a href="1.4.6_1.4.7.php">1.4.6/1.4.7</a></td>
 	</table>
 	
 	<table cellspacing="0" class="modlist" id="example">

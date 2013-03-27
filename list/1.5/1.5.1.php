@@ -42,7 +42,7 @@
 		<tbody>
 			<tr class="c">
 				<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
-				<td class="nh"><a href="../1.4/">1.4</a></td>
+				<td class="nh" onclick="window.location.href='../1.4/'"><a href="../1.4/">1.4</a></td>
 				<td class="h">1.5</td>
 			</tr>
 		</tbody>
@@ -50,7 +50,7 @@
 	
 	<table class="minor listnav nav">
 		<tr>
-			<td class="nh"><a href="1.5.0.php">1.5.0</a></td>
+			<td class="nh" onclick="window.location.href='1.5.0.php'"><a href="1.5.0.php">1.5.0</a></td>
 			<td class="h">1.5.1</td>
 	</table>
 	
@@ -59,7 +59,7 @@
 			<th style="min-width:262px">Mod Name<br/><input style="display:none" class="searchEmpty" /></th>
 			<th style="min-width: 50px; max-width:51px">Info</th>
 			<th>Author</th>
-			<th>Mode Availability</th>
+			<th>Availability</th>
 			<th>Compatibility with Forge</th>
 		</thead>
 		
@@ -104,6 +104,15 @@
 	<td>bspkrs</td> 
 	<td>Clientside Mod</td> 
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Asgard Shield-->
+<tr>
+	<td><a href="http://bit.ly/WRfjWs">Asgard Shield: Sword -n- Board Action</a></td>
+	<td class="desctt"><span class="tt">Adds shields and guarding mechanics to Minecraft.</span></td>
+	<td>Jade Knightblazer</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--AudioMod (API)-->
@@ -159,7 +168,16 @@
 	<td class="desctt"><span class="tt">Adds many world generation options regarding previous versions of Minecraft.</span></td>
 	<td>ted80</td>
 	<td>SSP SMP</td>
-	<td class="nfc">Not Forge Compatible</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--B&I-->
+<tr>
+	<td><a href="http://bit.ly/WdWkqT">B&I</a></td>
+	<td class="desctt"><span class="tt">Adds some recipes that help the player and also adds some Block and Items.</span></td>
+	<td>Megabitus98</td>
+	<td>N/A</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--BiblioCraft-->
@@ -200,6 +218,15 @@
 
 
 <!----------------------------------------------------------C-------------------------------------------------------->
+
+<!--Chainz: The -Missing- Iron Link-->
+<tr>
+	<td><a href="http://bit.ly/UWxU5G">Chainz: The -Missing- Iron Link</a></td>
+	<td class="desctt"><span class="tt">Chainz is inspired by innovation to create new ways to create in game Minecraft Items legit and to provide a brand new transportation feature, along with fresh weaponry.</span></td>
+	<td>Jade Knightblazer</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--ChickenChunks-->
 <tr>
@@ -290,6 +317,15 @@
 	<td><a href="http://bit.ly/WnybMA">Damage Indicators</a></td>
 	<td class="desctt"><span class="tt">When anything living takes damage, the damage they took will bounce off their head, with a cool little effect. Also shows a mod portrait, with name, status</span></td>
 	<td>rich1051414</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Deadly World-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Deadly World</a></td>
+	<td class="desctt"><span class="tt">Adds a few world generation features that make living more difficult! These features include mines, silverfish veins, lava pockets, and things that shoot arrows everywhere, all using blocks and features included in vanilla!</span></td>
+	<td>FatherToast</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -423,6 +459,15 @@
 	<td class="fc">Forge Required</td>
 </tr>
 
+<!--Extra Doors-->
+<tr>
+	<td><a href="http://bit.ly/XcIDOh">Extra Doors</a></td>
+	<td class="desctt"><span class="tt">Adds cobblestone, stone, obsidian, gold, diamond, glass, stone brick,  cracked stone brick, quartz, nether brick, sandstone and smooth sandstone doors!</span></td>
+	<td>Zolandre</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--ExtraneousCraft-->
 <tr>
 	<td><a href="http://bit.ly/105cRxN">ExtraneousCraft</a></td>
@@ -518,6 +563,15 @@
 
 <!----------------------------------------------------------G-------------------------------------------------------->
 
+<!--Galacticraft-->
+<tr>
+	<td><a href="http://bit.ly/galacticraft">Galacticraft</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d rpa">Player API & Render Player API Required</big><br/>For Player API, see <i class="d">bit.ly/playerapi</i><br/>For Render Player API, see <i class="d">bit.ly/rplayerapi</i></center><br/>Lets you travel to new planets with your own spaceship.</span></td>
+	<td>Micdoodle8</td>
+	<td><b>Universal</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Gems+-->
 <tr>
 	<td><a href="http://bit.ly/VFCpmA">Gems+</a></td>
@@ -556,6 +610,15 @@
 
 
 <!----------------------------------------------------------H-------------------------------------------------------->
+
+<!--Health Bars-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Health Bars</a></td>
+	<td class="desctt"><span class="tt">Adds customizable health bars to mobs.</span></td>
+	<td>FatherToast</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--HybridCraft-->
 <tr>
@@ -659,6 +722,25 @@
 
 <!----------------------------------------------------------L-------------------------------------------------------->
 
+<!--Lava Monsters-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Lava Monsters</a></td> 
+	<td class="desctt"><span class="tt">If you've ever found yourself bored once you mine down to lava because it stops hostile mobs from spawning, then this is the mod for you! This is a small mod that adds a new hostile monster to the game that spawns in lava and spits fireballs at you.</span></td> 
+	<td>FatherToast</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Lost Books-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Lost Books</a></td>
+	<td class="desctt"><span class="tt">Adds a chance for monsters to drop randomly books out of a set of books that anyone can create with ease! Books can even support randomized words for books similar to automatically generated Mad Libs!</span></td>
+	<td>FatherToast</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+
 <!----------------------------------------------------------M-------------------------------------------------------->
 
 <!--Magic Yarn-->
@@ -704,6 +786,15 @@
 	<td>coau14</td>
 	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--MineVideo-->
+<tr>
+	<td><a href="http://bit.ly/108pAFT">MineVideo</a></td>
+	<td class="desctt"><span class="tt">MineVideo is an attempt to solve problems such as bad video quality, huge files that have to be compressed afterwards, bad ingame performance, expensive, limited or complicated tools, and watermarks. It is a mod that enables you to record ingame footage with the touch of one button. It's as easy as taking a screenshot and the resulting video files are small enough to quickly upload them to YouTube.</span></td>
+	<td>Kovu</td>
+	<td>Clientside Mod
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Minions-->
@@ -904,6 +995,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Player Heads-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Player Heads</a></td>
+	<td class="desctt"><span class="tt">Adds the ability for players to drop their own heads.</span></td>
+	<td>FatherToast</td>
+	<td>Serverside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--PortalGun-->
 <tr>
 	<td><a href="http://bit.ly/14dknZW">PortalGun</a></td> 
@@ -952,6 +1052,15 @@
 	<td class="desctt"><span class="tt">Adds twelve different species of penguins to your world.</span></td> 
 	<td>immediately</td> 
 	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--RecallStoneTMD-->
+<tr>
+	<td><a href="http://bit.ly/Yj7bD5">RecallStoneTMD</a></td>
+	<td class="desctt"><span class="tt">This handy item will immediately teleport you from your current location to your spawn point.  The only place that it does not work is in the End.  Other than that, no matter where you are it should teleport you straight home.</span></td>
+	<td>TheMaineDragon</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1095,6 +1204,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Special Mobs-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Special Mobs</a></td> 
+	<td class="desctt"><span class="tt">Have you ever felt that your Minecraft monsters lacked variety? Randomized textures not enough? Well, here's a the solution! Introducing: the Special Mobs mod! In short, this small mod introduces variants to your default Minecraft mods, such as creepers with fiery explosions, skeletons that shoot poisoned arrows, and zombies that leap at you. Not only that, but it allows you adjust all vanilla spawn rates and even make jockeys more common!</span></td> 
+	<td>FatherToast</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Stalker Creepers-->
 <tr>
 	<td><a href="http://bit.ly/as-stalkercreepers">Stalker Creepers</a></td> 
@@ -1134,6 +1252,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Tale of Kingdoms-->
+<tr>
+	<td><a href="http://bit.ly/117XVnJ">Tale of Kingdoms</a></td>
+	<td class="desctt"><span class="tt">An adventure RPG mod where you prove your worth as a King, fight evil and eventually raise your own Kingdom. The mod currently includes the starting guild, where you must prove to the Guild Master that you are worthy of ruling your Kingdom, as well as several different NPC, friendly, neutral and aggressive.</span></td>
+	<td>aginsun</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Team Fortress 2 Mods-->
 <tr>
 	<td><a href="http://bit.ly/TGsYTm">Team Fortress 2 Mods</a></td>
@@ -1157,6 +1284,15 @@
 	<td><a href="http://bit.ly/15eDKSH">The Barrels Mod</a></td>
 	<td class="desctt"><span class="tt">Adds three blocks into the game; barrels! The three types of barrels all function similarly. Barrels are used to store item just like you would with a chest, but vastly more items then what you can fit in a chest. Unfortunately, there is a limiting factor like everything: they can only store one item at a time.</span></td>
 	<td>Need4Poop402</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Camping Mod-->
+<tr>
+	<td><a href="http://bit.ly/11Nx5yR">The Camping Mod</a></td>
+	<td class="desctt"><span class="tt">Adds many items to the game themed towards camping.</span></td>
+	<td>__Rilmuld__</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1188,6 +1324,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Runic Dust Mod-->
+<tr>
+	<td><a href="http://bit.ly/VmqTz2">The Runic Dust Mod</a></td>
+	<td class="desctt"><span class="tt">Allows you to draw runes on the ground physically and outside the crafting gui. Depending on what pattern you draw and what you give as a sacrifice, something magical will happen.</span></td>
+	<td>billythegoat101</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Wars Mod-->
 <tr>
 	<td><a href="http://bit.ly/13dBw7b">The Wars Mod</a></td>
@@ -1197,9 +1342,9 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--Tinkers Construct-->
+<!--Tinkers' Construct-->
 <tr>
-	<td><a href="http://bit.ly/Z7xU26">Tinkers Construct</a></td>
+	<td><a href="http://bit.ly/Z7xU26">Tinkers' Construct</a></td>
 	<td class="desctt"><span class="tt">A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.</span></td>
 	<td>mDiyo</td>
 	<td>Universal</td>
@@ -1283,8 +1428,27 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--TwitchTV IRC Mod-->
+<tr>
+	<td><a href="http://bit.ly/11NuLYu">TwitchTV IRC Mod</a></td>
+	<td class="desctt"><span class="tt">Allows you to login into the TwitchTV and go into any channel and read chat!</span></td>
+	<td>xIGBClutchIx</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------U-------------------------------------------------------->
+
+<!--Utility Mobs-->
+<tr>
+	<td><a href="http://bit.ly/VuOduI">Utility Mobs</a></td> 
+	<td class="desctt"><span class="tt">Got a mod that makes monsters attack your base? Ever feel a bit spread thin trying to defend all 360 degrees, one degree at a time? Here's the solution: Utility Mobs! This mod adds additional golems built in the same fashion as vanilla golems, plus turrets, together forming the base of a good defense! Turrets and even certain golems can be upgraded to improve their effectiveness!</span></td> 
+	<td>FatherToast</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------V-------------------------------------------------------->
 
@@ -1316,6 +1480,15 @@
 	<td>Corosus</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--WebChat-->
+<tr>
+	<td><a href="http://bit.ly/UvEU7P">WebChat</a></td>
+	<td class="desctt"><span class="tt">Prevents the chat from being displayed ingame. Instead, it will redirect it to your browser. The whole thing is controlled by regular expressions.</span></td>
+	<td>bannedtom</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--WorldStateCheckpoints-->
@@ -1397,7 +1570,7 @@
 </center><br/>
 
 <div class="footer">
-	Mod count: <b>132</b>
+	Mod count: <b>151</b>
 </div>
 
 <!--Google Analytics-->

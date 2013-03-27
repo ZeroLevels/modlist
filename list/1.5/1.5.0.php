@@ -1,14 +1,17 @@
 <!doctype html>
 <html>
 
-<head><meta charset="utf-8">
+<head>
+
+	<meta charset="utf-8">
+	
 	<title>MCF Mod List - 1.5.0</title>
-		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="../../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
+	
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="../../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
+	
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
-	
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
-	
 	
 </head>
   
@@ -39,7 +42,7 @@
 		<tbody>
 			<tr class="c">
 				<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
-				<td class="nh"><a href="../1.4/">1.4</a></td>
+				<td class="nh" onclick="window.location.href='../1.4/'"><a href="../1.4/">1.4</a></td>
 				<td class="h">1.5</td>
 			</tr>
 		</tbody>
@@ -48,7 +51,7 @@
 	<table class="minor listnav nav">
 		<tr>
 			<td class="h">1.5.0</td>
-			<td class="nh"><a href="1.5.1.php">1.5.1</a></td>
+			<td class="nh" onclick="window.location.href='1.5.1.php'"><a href="1.5.1.php">1.5.1</a></td>
 	</table>
 	
 	<table cellspacing="0" class="modlist" id="example">
@@ -56,7 +59,7 @@
 			<th style="min-width:262px">Mod Name<br/><input style="display:none" class="searchEmpty" /></th>
 			<th style="min-width: 50px; max-width:51px">Info</th>
 			<th>Author</th>
-			<th>Mode Availability</th>
+			<th>Availability</th>
 			<th>Compatibility with Forge</th>
 		</thead>
 		
@@ -1429,9 +1432,9 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--RecallStone-->
+<!--RecallStoneTMD-->
 <tr>
-	<td><a href="http://bit.ly/Yj7bD5">RecallStone</a></td>
+	<td><a href="http://bit.ly/Yj7bD5">RecallStoneTMD</a></td>
 	<td class="desctt"><span class="tt">This handy item will immediately teleport you from your current location to your spawn point.  The only place that it does not work is in the End.  Other than that, no matter where you are it should teleport you straight home.</span></td>
 	<td>TheMaineDragon</td>
 	<td>Universal</td>
@@ -1770,9 +1773,9 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--Tinkers Construct-->
+<!--Tinkers' Construct-->
 <tr>
-	<td><a href="http://bit.ly/Z7xU26">Tinkers Construct</a></td>
+	<td><a href="http://bit.ly/Z7xU26">Tinkers' Construct</a></td>
 	<td class="desctt"><span class="tt">A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.</span></td>
 	<td>mDiyo</td>
 	<td>Universal</td>
@@ -2021,7 +2024,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>199</b>
+	Mod count: <b>200</b>
 </div>
 
 <!--Google Analytics-->

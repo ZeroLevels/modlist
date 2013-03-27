@@ -34,6 +34,11 @@ background:#141516;
 border-right:1px solid white;
 }
 
+table.listnav .nh:hover {
+cursor: hand; cursor: pointer;
+}
+
+
 
 .listnav th {
 	font-size:1.5em;

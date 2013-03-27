@@ -13,7 +13,7 @@
 <center>
 <img src="resources/images/mcfmodlist.png" width="670" height="122" alt="MCF-ModList"/><br/><br/>
 	<ul id="list-nav">
-			<li class="h"><a href="#">Home</a></li>
+			<li class="h"><a>Home</a></li>
 			<li><a href="credits/">Credits</a></li>
 			<li><a href="latest/">Current List</a></li>
 			<li><a href="banners/">Banners</a></li>

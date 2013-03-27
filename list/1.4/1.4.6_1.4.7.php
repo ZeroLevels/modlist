@@ -2,7 +2,9 @@
 <html>
 
 <head>
+
 	<meta charset="utf-8">
+	
 	<title>MCF Mod List - 1.4.6/1.4.7</title>
 	
 	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
@@ -10,6 +12,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
+	
 </head>
   
 <body>
@@ -40,15 +43,15 @@
 			<tr class="c">
 				<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
 				<td class="h">1.4</td>
-				<td class="nh"><a href="../1.5/">1.5</a></td>
+				<td class="nh" onclick="window.location.href='../1.5/'"><a href="../1.5/">1.5</a></td>
 			</tr>
 		</tbody>
 	</table>
 	
 	<table class="minor listnav nav">
 		<tr>
-			<td class="nh"><a href="1.4.2.php">1.4.2</a></td>
-			<td class="nh"><a href="1.4.4_1.4.5.php">1.4.4/1.4.5</a></td>
+			<td class="nh" onclick="window.location.href='1.4.2.php'"><a href="1.4.2.php">1.4.2</a></td>
+			<td class="nh" onclick="window.location.href='1.4.4_1.4.5.php'"><a href="1.4.4_1.4.5.php">1.4.4/1.4.5</a></td>
 			<td class="h">1.4.6/1.4.7</td>
 	</table>
 	
@@ -58,7 +61,7 @@
 	<th style="min-width:262px">Mod Name<br/><input style="display:none" class="searchEmpty" /></th>
 	<th style="min-width:50px">Info</th>
 	<th>Author</th>
-	<th>Mode Availability</th>
+	<th>Availability</th>
 	<th>Compatibility with Forge</th>
 </thead>
 		
@@ -545,10 +548,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--B&I-->
 <tr>
 	<td><a href="http://bit.ly/WdWkqT">B&I</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds some recipes that help the player and also adds some Block and Items.</span></td>
 	<td>Megabitus98</td>
 	<td>N/A</td>
 	<td class="fr">Forge Required</td>
@@ -929,12 +932,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Chainz: The -Missing- Iron Link-->
 <tr>
 	<td><a href="http://bit.ly/UWxU5G">Chainz: The -Missing- Iron Link</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Chainz is inspired by innovation to create new ways to create in game Minecraft Items legit and to provide a brand new transportation feature, along with fresh weaponry.</span></td>
 	<td>Jade Knightblazer</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -948,10 +951,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--ChatSounds-->
 <tr>
 	<td><a href="http://bit.ly/WntbYe">ChatSounds</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Notifies you about ingame messages of your choice. The whole thing is controlled by regular expressions.</span></td>
 	<td>bannedtom</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
@@ -4676,12 +4679,12 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--The Camping Mod-->
 <tr>
-	<td><a href="http://bit.ly/Zg7xYb">RikMuld's Camping Mods</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/11Nx5yR">The Camping Mod</a></td>
+	<td class="desctt"><span class="tt">Adds many items to the game themed towards camping.</span></td>
 	<td>__Rilmuld__</td>
-	<td>SSP SMP LAN</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5661,9 +5664,9 @@
 </tr>
 
 
-<!--Tinkers Construct-->
+<!--Tinkers' Construct-->
 <tr>
-	<td><a href="http://bit.ly/Z7xU26">Tinkers Construct</a></td>
+	<td><a href="http://bit.ly/Z7xU26">Tinkers' Construct</a></td>
 	<td class="desctt"><span class="tt">A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.</span></td>
 	<td>mDiyo</td>
 	<td>Universal</td>
@@ -6095,10 +6098,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--WebChat-->
 <tr>
 	<td><a href="http://bit.ly/UvEU7P">WebChat</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Prevents the chat from being displayed ingame. Instead, it will redirect it to your browser. The whole thing is controlled by regular expressions.</span></td>
 	<td>bannedtom</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>

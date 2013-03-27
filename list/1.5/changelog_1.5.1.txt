@@ -1,3 +1,23 @@
+(March/27/2013)
+	+Added 7 mods by FatherToast (Which are the following)
+		+Added "Deadly World"
+		+Added "Lava Monsters"
+		+Added "Health Bars"
+		+Added "Lost Books"
+		+Added "Player Heads"
+		+Added "Special Mobs"
+		+Added "Utility Mobs"
+	+Added "Chainz: The -Missing- Iron Link"
+	+Added "Asgard Shield"
+	+Added "Galacticraft"
+	+Added "MineVideo"
+	+Added "The Runic Dust Mod"
+	+Added "TwitchTV IRC Mod"
+	+Added "The Camping Mod"
+	+Added "WebChat"
+	+Added "Tale of Kingdoms"
+	+Added "Extra Doors"
+
 (March/25/2013)
 	*Updated "Mystic Mod" info: Updated description
 	+Added 4 mods by chicken_bones (Which are the following)
