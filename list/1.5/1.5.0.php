@@ -1188,7 +1188,7 @@
 	<td><a href="http://bit.ly/UR6Wxe">More Swords Mod</a></td>
 	<td class="desctt"><span class="tt">Adds many new swords to the game.</span></td>
 	<td>DarkHax</td>
-	<td>SSP SMP LAN</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1737,6 +1737,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Invether-->
+<tr>
+	<td><a href="http://bit.ly/XzCiqP">The Invether</a></td>
+	<td class="desctt"><span class="tt">A new dimension that is set to make a completly reversed Nether. Instead of wide, open spaces prepare to be crammed into tiny, dark caves. Instead of pools of lava on the floor watch out for the ice cold frozen magma - it'll burn you to death!</span></td>
+	<td>Ghetsis</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Ocarina Mod-->
 <tr>
 	<td><a href="http://bit.ly/UArYTu">The Ocarina Mod</a></td>
@@ -2024,7 +2033,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>200</b>
+	Mod count: <b>201</b>
 </div>
 
 <!--Google Analytics-->

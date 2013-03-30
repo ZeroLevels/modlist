@@ -1,3 +1,32 @@
+(March/30/2013)
+	*Updated "Animal Bikes" info: Now "Universal"
+	*Updated "Antisteve" info: Now "Clientside Mod" and "Forge Compatible"
+	*Updated "Ars Magica" info: Now "Universal"
+	*Updated "Commander Mod" info: Now "Forge Compatible", Added description
+	*Updated "ControlPack" info: Now "Forge Compatible", Added description
+	*Updated "Chocolatecraft" info: Now "Universal", Added description
+	*Updated "Clay Soldiers Mod" info: Now "Universal", Added description
+	*Updated "Click Mining Fix Fix" info: Added description
+	*Updated "Cave-Gen Mod" info: Added description
+	*Updated "Double Door Mod" info: Now "Universal" and "Forge Required", Added description
+	*Updated "Emeralds+ Mod" info: Added description
+	*Updated "ExtraBiomesXL" info: Now "Universal", Added description
+	*Updated "Herblore Mod" info: Added description
+	*Updated "Ice Cream Sandwich Creeper Mod" info: Now "Universal", Added description
+	*Updated "IndustrialCraft 2" info: Now "Universal", Added description
+	*Updated "Mutant Creatures" info: Now "Universal", Added description
+	*Updated "Pixelmon" info: Now "Universal", Added description
+	*Updated "Rival Rebels" info: Added description
+	*Updated "Sophisticated Wolves" info: Added description
+	*Updated "Ninja Mod" info: Added description
+	*Updated "[Universal Electricity] Assembly Line" info: Now "Universal", Added description
+	*Updated "[Universal Electricity] Atomic Science" info: Now "Universal", Added description
+	*Updated "[Universal Electricity] Electric Expansion" info: Now "Universal", Added description
+	*Updated "[Universal Electricity] Fluid Mechanics" info: Now "Universal", Added description
+	*Updated "[Universal Electricity] Mekanism" info: Added description
+	*Updated "[Universal Electricity] Modular Powersuits" info: Added description
+	+Added "Greg's SG Craft"
+
 (March/25/2013)
 	*Updated "The Wars Mod" info: Added description
 	*Updated "Village Info" info: Added description

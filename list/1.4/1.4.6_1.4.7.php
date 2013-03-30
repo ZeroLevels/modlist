@@ -149,7 +149,7 @@
 	<td><a href="http://bit.ly/WmrV81">Animal Bikes</a></td>
 	<td class="desctt"><span class="tt">A multiplayer mod which allows you to ride animals.</span></td>
 	<td>Noppes</td>
-	<td>SSP SMP LAN</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -158,8 +158,8 @@
 	<td><a href="http://bit.ly/UxbOKv">AntiSteve</a></td>
 	<td class="desctt"><span class="tt">Sets the default skin server to Mojang's old skin server, possibly fixing skins not loading should their new server be down.</span></td>
 	<td>Verdana</td>
-	<td>SSP SMP</td>
-	<td class="na">N/A</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Applied Energistics-->
@@ -194,7 +194,7 @@
 	<td><a href="http://bit.ly/ZtCywx">Ars Magica</a></td>
 	<td class="desctt"><span class="tt">"A look into what Minecraft could become when you add a splash of magic."</span></td>
 	<td>Mithion</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -923,10 +923,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Cave-Gen Mod-->
 <tr>
 	<td><a href="http://bit.ly/117FAHr">Cave-Gen Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds new world type - Caves. Living in these caves is difficult. Resources are limited, ores are scattered and many monsters wait for their prey.</span></td>
 	<td>-Reaper-</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
@@ -1024,12 +1024,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Chocolatecraft-->
 <tr>
 	<td><a href="http://bit.ly/Sfotkx">Chocolatecraft</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds chocolate-based items to Minecraft, like chocolate bars, hot cocoa, and other items that you can find on your own. There are no blocks added yet, and I will not add any new blocks without a temporary crafting recipe with the ore dictionary or vanilla blocks.</span></td>
 	<td>infina</td>
-	<td>N/A</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1043,12 +1043,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Clay Soldiers Mod-->
 <tr>
 	<td><a href="http://bit.ly/13dqmPA">Clay Soldiers Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">"So you're probably wondering to yourself "A mod involving clay? No Way! I need all the grey goop I can get for my brick castle!" Well put those tried, burnt hands to rest for a second and think about this: What if you could create your own miniature army out of clay and stage the most epic battles imaginable in a space small enough to be your backyard? Now before you accuse us of being a madman, take a look at this mod. Read ahead through the thread, and you'll see just what kind of violent mayhem you can cause with just a few simple materials plucked right from the ground."</span></td>
 	<td>SanAndreasP</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1062,10 +1062,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Click Mining Fix Fix-->
 <tr>
 	<td><a href="http://bit.ly/Xe7BZa">Click Mining Fix Fix</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Re-implements "click mining". A bug back before 1.3 beta, that lets you start mining the next block faster.</span></td>
 	<td>IDontEvenKnow</td>
 	<td>N/A</td>
 	<td class="fc">Forge Compatible</td>
@@ -1125,13 +1125,13 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Commander Mod-->
 <tr>
 	<td><a href="http://bit.ly/Uvrj0e">Commander Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds several commands to the game, works only in single player, they range from being cheats, to useful tools for map makers. The goal is to have the result of each command to be visible, and played without having the mod installed.</span></td>
 	<td>Visudex</td>
 	<td>SSP</td>
-	<td class="nfc">Not Forge Compatible</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Compact Crafting-->
@@ -1244,13 +1244,13 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--ControlPack-->
 <tr>
 	<td><a href="http://bit.ly/WjlRBm">ControlPack</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds controls/keybinding for such things as Auto Tool Selection, Auto Run, toggleable sneak and jump, Arrows Remaining Counter, etc..</span></td>
 	<td>infinitiesloop</td>
 	<td>Clientside Mod</td>
-	<td class="nfc">Not Forge Compatible</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--|-->
@@ -1662,13 +1662,13 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Double Door Mod-->
 <tr>
 	<td><a href="http://bit.ly/ZwFfOb">Double Door Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds double doors, allowing them to be opened and closed together. Also enjoy double fence gates and trap doors! This works with clicking on them as well as all things redstone.</span></td>
 	<td>kirsybuu</td>
-	<td>SSP SMP LAN</td>
-	<td class="fc">Forge Compatible</td>
+	<td>Universal</td>
+	<td class="fc">Forge Required</td>
 </tr>
 
 <!--|-->
@@ -1842,10 +1842,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Emeralds+ Mod-->
 <tr>
 	<td><a href="http://bit.ly/XCUBjJ">Emeralds+ Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds Emerald Tools, Armor, and Achievements to the game!</span></td>
 	<td>Dustpelt</td>
 	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
@@ -1980,12 +1980,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--ExtraBiomesXL-->
 <tr>
 	<td><a href="http://bit.ly/XCV19S">ExtraBiomesXL</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds new biomes that enhance game play and make exploring fun and interesting.</span></td>
 	<td>MisterFiber</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2452,6 +2452,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Greg's SG Craft-->
+<tr>
+	<td><a href="http://bit.ly/10jRF7m">Greg's SG Craft</a></td>
+	<td class="desctt"><span class="tt">Provides stargates, SG-1 style.</span></td>
+	<td>Greg_Ewing</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--|-->
 <tr>
 	<td><a href="http://bit.ly/117MwEs">Greg's Lighting</a></td>
@@ -2575,10 +2584,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Herblore Mod (adults only)-->
 <tr>
 	<td><a href="http://bit.ly/XPptd0">Herblore Mod</a> (adults only)</td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Incorporates "magical herbs" into the world of minecraft.</span></td>
 	<td>calebmanley</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
@@ -2660,12 +2669,12 @@
 
 <!----------------------------------------------------------I-------------------------------------------------------->
 
-<!--|-->
+<!--Ice Cream Sandwich Creeper Mod-->
 <tr>
 	<td><a href="http://bit.ly/SfrAbZ">Ice Cream Sandwich Creeper Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Features 5 flavors of ice cream creating 6 types of ice cream sandwiches and 6 types of creepers! (Vanilla, Strawberry, Chocolate, Mint Chocolate Chip, Orange Sherbert, and Neapolitan) Killing a creeper earns yourself an ice cream sandwich of their flavor but, if you get too close, they explode into a pile of ice cream, but also do no damage to the environment, players, or other mobs (although there is an option in the properties file to turn on explosions). There is also a 1/100 chance for them to drop a decorative skull of their flavor.</span></td>
 	<td>IrunoHatake</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2724,12 +2733,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--IndustrialCraft 2-->
 <tr>
-	<td><a href="http://bit.ly/ZyLIsn">IndustrialCraft 2</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/ZyLIsn">IndustrialCraft 2</a> (Pre-Release Builds)</td>
+	<td class="desctt"><span class="tt">Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.</span></td>
 	<td>Alblaka</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4057,12 +4066,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Mutant Creatures-->
 <tr>
 	<td><a href="http://bit.ly/RBUH83">Mutant Creatures</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">"Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!"</span></td>
 	<td>thehippomaster21</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4142,10 +4151,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Ninja Mod-->
 <tr>
 	<td><a href="http://bit.ly/UR7mDM">Ninja Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds ninja-themed items, such as poisoned daggers and shurikens.</span></td>
 	<td>Udjat74</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
@@ -4361,12 +4370,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Pixelmon-->
 <tr>
 	<td><a href="http://bit.ly/VNVgsL">Pixelmon</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds 132 Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.</span></td>
 	<td>epicSplashBattle</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4688,10 +4697,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Rival Rebels-->
 <tr>
-	<td><a href="http://bit.ly/Wo36II">Rival Rebels</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/ZtOEQT">Rival Rebels</a></td>
+	<td class="desctt"><span class="tt">A pvp war mod that adds powerful weapons and custom blocks to the game. Featuring the nuke, Tesla, the Plasma cannon on a structure of teams.</span></td>
 	<td>Rodolphito</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -4989,10 +4998,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Sophisticated Wolves-->
 <tr>
 	<td><a href="http://bit.ly/VYkKr2">Sophisticated Wolves</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">A mod that aims to improve wolves in the games through a series of gameplay tweaks, AI improvements, and added features. The focus is not to have overpowered items or crazy abilities, but rather balanced additions that make sense in the world of MC. Essentially, wolves should be able to better respond to your actions and take care of themselves, so you don't have to consider them a liability when mining, exploring or fighting.</span></td>
 	<td>metroidfood</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
@@ -5897,21 +5906,21 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[Universal Electricity] Assembly Line-->
 <tr>
 	<td><a href="http://bit.ly/YZ0KCb">[Universal Electricity] Assembly Line</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">With all these machines in all these different mods, there needs to be a way to automate them into factories! The Assembly Line mod introduces you to conveyor belts, various item manipulation blocks and brings your machines together. While pipes are easier to build with for item transportation, who in the world would stuff their valuables inside a tiny little pipe?</span></td>
 	<td>Calclavia</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[Universal Electricity] Atomic Science-->
 <tr>
 	<td><a href="http://bit.ly/UqwYWR">[Universal Electricity] Atomic Science</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!"</span></td>
 	<td>Calclavia</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5924,21 +5933,21 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[Universal Electricity] Electric Expansion-->
 <tr>
 	<td><a href="http://bit.ly/UJa91Q">[Universal Electricity] Electric Expansion</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Focuses mainly on energy storage and transfer as well as adding more cables for better energy transfer. This mod will make Universal Electricity more complex and realistic.</span></td>
 	<td>Mattredsox and Alex_Hawks</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[Universal Electricity] Fluid Mechanics-->
 <tr>
 	<td><a href="http://bit.ly/WnVLJB">[Universal Electricity] Fluid Mechanics</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">As for the "Fluid" part of the name, this mod is about managing and moving various liquids as needed. The is accomplished with the added pipes, tanks, and machines that come with this mod. As for the "Mechanics" part of the name, this mod also includes ways to do simple mechanical power. As the mod stands currently, it's only good for storing liquid for later use, so it's recommended that you download other mods like Atomic Science, Steam Power, RailCraft or Forestry to accompany Fluid Mechanics.</span></td>
 	<td>DarkGuardsman</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5953,19 +5962,19 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[Universal Electricity] Mekanism-->
 <tr>
 	<td><a href="http://bit.ly/WnX634">[Universal Electricity] Mekanism</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">An extensive mod featuring innovative ways of electricity generation, advanced ore processing machinery, new sets and types of tools and armor, and much more. If you like high tech machinery that extends your resource collection and processing, then this mod is for you!</span></td>
 	<td>aidancbrady</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[Universal Electricity] Modular Powersuits-->
 <tr>
 	<td><a href="http://bit.ly/VpIty8">[Universal Electricity] Modular Powersuits</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">"Modular Powersuits is a Minecraft mod based around the idea of an inventor who tinkers with high-tech electronics and makes a suit of powered armor chock-full of useful gadgets and features. Inspired by heroes like Iron Man, Megaman, and Samus Aran, as well as by the high-tech armor in mods like EE2 and IC2."</span></td>
 	<td>MachineMuse</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -6387,7 +6396,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>666</b>
+	Mod count: <b>667</b>
 </div>
 
 

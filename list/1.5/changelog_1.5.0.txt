@@ -1,3 +1,7 @@
+(March/30/2013)
+	*Updated "More Swords Mod" info: Now "Universal"
+	+Added "The Invether"
+
 (March/25/2013)
 	*Updated "Mystic Mod" info: Updated description
 	+Added "The Wars Mod"
