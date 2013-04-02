@@ -1,3 +1,33 @@
+(April/02/2013)
+	*Fixed links for "[Universal Electricity] Assembly Line", "[Universal Electricity] Atomic Science", and "[Universal Electricity] Modular Powersuits" pointing to old, nonexistent pages
+	+Added 7 mods by Immibis (Which are the following)
+		+Added "[ComputerCraft] Immibis's Peripherals"
+		+Added "Dimensional Anchors"
+		+Added "Immibis Core"
+		+Added "Immibis's Microblocks"
+		+Added "InfiniTubes"
+		+Added "Liquid XP"
+		+Added "TubeStuff"
+	+Added 2 mods by AUTOMATIC_MAIDEN (Which are the following)
+		+Added "Vending Block"
+		+Added "Chisel"
+	+Added "Better Furnaces"
+	+Added "GuiAPI"
+	+Added "Timber!"
+	+Added "Gulliver the Resizing Mod"
+	+Added "End of the Rainbow Mod"
+	+Added "Glacier Ice"
+	+Added "Minecraft Comes Alive"
+	+Added "Biomes O' Plenty"
+	+Added "SimpleOres"
+	+Added "DarkLords RPG"
+	+Added "The Farlanders"
+	+Added "Advanced Agriculture"
+	+Added "Highlands"
+	+Added "Soul Eater Mod"
+	+Added "Overcrafted"
+	+Added "Colorful Armor"
+
 (March/30/2013)
 	-Removed "The Invether" (Meant to put on 1.5.0 list)
 	+Added 4 mods by Blubbeltasche (Which are the following)

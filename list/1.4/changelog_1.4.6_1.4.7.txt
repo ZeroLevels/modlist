@@ -1,3 +1,14 @@
+(April/02/2013)
+	*Updated "Better Furnaces" info: Now "Universal" and Added description
+	*Updated "Biomes O' Plenty" info: Now "Universal" and Added description
+	*Updated "DarkLords RPG" info: Now "Forge Required"
+	*Updated "GuiAPI" info: Now "Clientside Mod", Added description
+	*Updated "Gulliver the Resizing Mod" info: Now "Clientside Mod", "Forge Compatible", Added description
+	*Updated "Highlands" info: Added description
+	*Updated "Minecraft Comes Alive" info: Now "Universal", Added description
+	*Updated "SimpleOres" info: Now "Universal", Added description
+	*Updated "The Farlanders" info: Now "Universal" and "Forge Required", Added description
+
 (March/30/2013)
 	*Updated "Animal Bikes" info: Now "Universal"
 	*Updated "Antisteve" info: Now "Clientside Mod" and "Forge Compatible"

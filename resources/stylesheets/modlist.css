@@ -20,14 +20,14 @@ background-color:#B7CDDD;
 }
 
 table.modlist  {
-background-color:#E8EFF4;
+	background-color:#E8EFF4;
 	border:1px solid #B8D1E6;
 	width:85%;
 	border-top:none;
 }
-			
+
 table.modlist th {
-border: 3px double white;
+	border: 3px double white;
 	background-color:#28292a;
 	color:white;
 }

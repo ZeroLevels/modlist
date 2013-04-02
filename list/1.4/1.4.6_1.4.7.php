@@ -427,12 +427,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Better Furnaces-->
 <tr>
 	<td><a href="http://bit.ly/VDWVUH">Better Furnaces</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds some new Furnaces to the game!</span></td>
 	<td>TheFrogMC</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -587,12 +587,12 @@
 </tr>
 
 
-<!--|-->
+<!--Biomes O' Plenty-->
 <tr>
 	<td><a href="http://bit.ly/106hnC2">Biomes O' Plenty</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
-	<td>TDWP_FTW</td>
-	<td>SSP SMP</td>
+	<td class="desctt"><span class="tt">A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.</span></td>
+	<td>ted80</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1503,7 +1503,7 @@
 	<td class="desctt"><span class="tt">Adds new mobs, weapons, tools, a biome, and more.</span></td> 
 	<td>darklord987</td> 
 	<td>SSP</td> 
-	<td class="nfc">Not Forge Compatible</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--|-->
@@ -2507,22 +2507,22 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--GuiAPI-->
 <tr>
 	<td><a href="http://bit.ly/TGlcZA">GuiAPI</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">A powerful API for creating easy to create and use settings and menus in Minecraft, and uses TWL.</span></td>
 	<td>ShaRose</td>
-	<td>N/A</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Gulliver the Resizing Mod-->
 <tr>
 	<td><a href="http://bit.ly/XCXfG1">Gulliver the Resizing Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds the ability to change your own size or the sizes of mobs & NPCs!</span></td>
 	<td>UncleMion</td>
-	<td>SSP SMP</td>
-	<td class="nfc">Not Forge Compatible</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 
@@ -2602,10 +2602,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Highlands-->
 <tr>
 	<td><a href="http://bit.ly/145GFhX">Highlands</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds many more mountains and hills than in vanilla Minecraft.  It includes many varied environments and sub-biomes that represent features like mountains, lakes, forest clearings, valleys, and islands. It uses no modded blocks in world generation, so worlds created with Highlands can be enjoyed by anyone with Minecraft.</span></td>
 	<td>sdj64</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -3562,12 +3562,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Minecraft Comes Alive-->
 <tr>
-	<td><a href="http://bit.ly/117Qmxk">Minecraft Comes Alive</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/mc-comes-alive">Minecraft Comes Alive</a></td>
+	<td class="desctt"><span class="tt">Replaces them with male or female humans that have many unique skins. You may interact with the villagers in new ways, including hiring them to guard you, having them follow you, or setting down and starting a family with them.</span></td>
 	<td>WildBamaBoy</td>
-	<td>SSP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4878,12 +4878,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--SimpleOres-->
 <tr>
 	<td><a href="http://bit.ly/U7gLWK">SimpleOres</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no "uber" tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.</span></td>
 	<td>AleXndrTheGr8st</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5443,13 +5443,13 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--The Farlanders-->
 <tr>
 	<td><a href="http://bit.ly/W1Ul84">The Farlanders</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds more creatures to the game allowing the player to have more choices to trade and more enemies to battle.</span></td>
 	<td>Fabiulu</td>
-	<td>SSP SMP</td>
-	<td class="fc">Forge Compatible</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 

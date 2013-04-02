@@ -70,6 +70,15 @@
 
 <!----------------------------------------------------------A-------------------------------------------------------->
 
+<!--Advanced Agriculture-->
+<tr>
+	<td><a href="http://bit.ly/YOgiYX">Advanced Agriculture</a></td> 
+	<td class="desctt"><span class="tt">A tech-mod that will make your minecraft tech-life a lot more fun. It originally started with an idea to make farming more fun, interesting and specifically useful, but has grown out to be a mod way more than that.</span></td> 
+	<td>Rheel</td> 
+	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--AlcheMine-->
 <tr>
 	<td><a href="http://bit.ly/XO00jm">AlcheMine</a></td>
@@ -261,6 +270,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Better Furnaces-->
+<tr>
+	<td><a href="http://bit.ly/VDWVUH">Better Furnaces</a></td>
+	<td class="desctt"><span class="tt">Adds some new Furnaces to the game!</span></td>
+	<td>TheFrogMC</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Better World Generation 4-->
 <tr>
 	<td><a href="http://bit.ly/WmtfYF">Better World Generation 4</a></td>
@@ -286,6 +304,15 @@
 	<td>Nuchaz</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td><!--Version Independent-->
+</tr>
+
+<!--Biomes O' Plenty-->
+<tr>
+	<td><a href="http://bit.ly/106hnC2">Biomes O' Plenty</a></td>
+	<td class="desctt"><span class="tt">A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.</span></td>
+	<td>ted80</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Biosphere-->
@@ -408,6 +435,15 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--Chisel-->
+<tr>
+	<td><a href="http://bit.ly/YtS0HZ">Chisel</a></td>
+	<td class="desctt"><span class="tt">Adds a huge variety of static blocks to the game. This mod will be very useful for people who like the construction aspect of Minecraft.</span></td>
+	<td>AUTOMATIC_MAIDEN</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Chocolatecraft-->
 <tr>
 	<td><a href="http://bit.ly/Sfotkx">Chocolatecraft</a></td>
@@ -440,6 +476,15 @@
 	<td><a href="http://bit.ly/cb-core">CodeChickenCore</a> (Dependency)</td>
 	<td class="desctt"><span class="tt">This mod is required for "Not Enough Items (NEI)", "Ender Storage", and "ChickenChunks".</span></td>
 	<td>chicken_bones</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Colorful Armor-->
+<tr>
+	<td><a href="http://bit.ly/10wgUTW">Colorful Armor</a></td>
+	<td class="desctt"><span class="tt">Makes iron armor customizable. To change a piece of iron armor's color, just place the piece and the dye of your choice in the crafting table. All of the dyes in the game work. Sponges are also now craftable and used to clean the dyes from the armor. All recipes are shapeless.</span></td>
+	<td>Torquebolt</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -486,6 +531,15 @@
 	<a href="http://bit.ly/13aWXXd">ComputerCraft</a></td>
 	<td class="desctt"><span class="tt">ComputerCraft adds programmable computers and robots to minecraft.</span></td>
 	<td>dan200</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[ComputerCraft] Immibis's Peripherals-->
+<tr>
+	<td><a href="http://bit.ly/YJGFPC">[ComputerCraft] Immibis's Peripherals</a></td>
+	<td class="desctt"><span class="tt">Adds RFID cards, Mag-cards, Speakers, LAN cables, Cryptographic Accelerators, and an Adventure map interface.</span></td>
+	<td>immibis</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -553,6 +607,15 @@
 	<td class="desctt"><span class="tt">When anything living takes damage, the damage they took will bounce off their head, with a cool little effect. Also shows a mod portrait, with name, status</span></td>
 	<td>rich1051414</td>
 	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--DarkLords RPG-->
+<tr>
+	<td><a href="http://bit.ly/15NImlQ">DarkLords RPG</a></td> 
+	<td class="desctt"><span class="tt">Adds new mobs (including bosses), weapons, tools, a biome, and more.</span></td> 
+	<td>darklord987</td> 
+	<td>SSP</td> 
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -624,6 +687,15 @@
 	<td><a href="http://bit.ly/117JZKq">Diamond Buckets+</a></td>
 	<td class="desctt"><span class="tt">Introduces twenty-two new buckets in three distinct types. The types are big buckets, flimsy buckets, and special buckets.</span></td>
 	<td>thorgot</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Dimensional Anchors-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Dimensional Anchors</a></td>
+	<td class="desctt"><span class="tt">This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.</span></td>
+	<td>immibis</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -773,6 +845,15 @@
 	<td>chicken_bones</td> 
 	<td>Universal</td> 
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--End of the Rainbow Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZDdVOV">End of the Rainbow Mod</a></td>
+	<td class="desctt"><span class="tt">Adds rainbows, new armour, and tools!</span></td>
+	<td>DaBigJoe</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Enhanced Portals-->
@@ -974,6 +1055,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Glacier Ice-->
+<tr>
+	<td><a href="http://bit.ly/Yi2O8n">Glacier Ice</a></td>
+	<td class="desctt"><span class="tt">Ever wished you could do some ice skating races, but the ice is too slow? Ever wanted to propel yourself off a giant cliff or perhaps wanted to make a roller coaster? This mod adds in Glacier Ice that propels and bounces you!</span></td>
+	<td>fisherman77</td>
+	<td><b>Universal</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Gravestone Mod-->
 <tr>
 	<td><a href="http://bit.ly/XSirsO">Gravestone Mod</a></td>
@@ -998,6 +1088,24 @@
 	<td class="desctt"><span class="tt"><u>WARNING:</u><br/>Backup your world before installing.<br/><br/>This mod changes how creepers attack. Instead of blowing itself up, It will disappear and launcher 100 arrows straight into the air, which will rain down on the landscape. These arrows will be 25% fire arrows, 75% explosive arrows.</span></td> 
 	<td>Risugami</td> 
 	<td>SSP</td> 
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--GuiAPI-->
+<tr>
+	<td><a href="http://bit.ly/TGlcZA">GuiAPI</a></td>
+	<td class="desctt"><span class="tt">A powerful API for creating easy to create and use settings and menus in Minecraft, and uses TWL.</span></td>
+	<td>ShaRose</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Gulliver the Resizing Mod-->
+<tr>
+	<td><a href="http://bit.ly/XCXfG1">Gulliver the Resizing Mod</a></td>
+	<td class="desctt"><span class="tt">Adds the ability to change your own size or the sizes of mobs & NPCs!</span></td>
+	<td>UncleMion</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1027,6 +1135,15 @@
 	<td><a href="http://bit.ly/XPptd0">Herblore Mod</a> (adults only)</td>
 	<td class="desctt"><span class="tt">Incorporates "magical herbs" into the world of minecraft.</span></td>
 	<td>calebmanley</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Highlands-->
+<tr>
+	<td><a href="http://bit.ly/145GFhX">Highlands</a></td>
+	<td class="desctt"><span class="tt">Adds many more mountains and hills than in vanilla Minecraft.  It includes many varied environments and sub-biomes that represent features like mountains, lakes, forest clearings, valleys, and islands. It uses no modded blocks in world generation, so worlds created with Highlands can be enjoyed by anyone with Minecraft.</span></td>
+	<td>sdj64</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1061,9 +1178,27 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--Immibis Core-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Immibis Core</a> (Dependency)</td>
+	<td class="desctt"><span class="tt">This is like CodeChicken Core, Buildcraft Core, RedPower Core, and so on - it provides requirements for other mods.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Immibis's Microblocks-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Immibis's Microblocks</a></td>
+	<td class="desctt"><span class="tt">Mostly work like RedPower 2's microblocks. Install into the coremods folder.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--IndustrialCraft 2-->
 <tr>
-	<td><a href="http://bit.ly/ZyLIsn">IndustrialCraft 2</a> (Pre-Release Builds)</td>
+	<td><a href="http://bit.ly/10oNRBU">IndustrialCraft 2</a> (Pre-Release Builds)</td>
 	<td class="desctt"><span class="tt">Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.</span></td>
 	<td>Alblaka</td>
 	<td>Universal</td>
@@ -1076,6 +1211,15 @@
 	<td class="desctt"><span class="tt">This mod randomly imbues spawning Mobs in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill. They also drop the quadruple amount of xp and a random enchanted item.</span></td> 
 	<td>AtomicStryker</td> 
 	<td>Universal</td> 
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--InfiniTubes-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">InfiniTubes</a></td>
+	<td class="desctt"><span class="tt">Provides a way to move items from A to B, by labeling them.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1178,6 +1322,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Liquid XP-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">Liquid XP</a></td>
+	<td class="desctt"><span class="tt">Adds liquid XP, and related machines. You will need a mod capable of transporting liquids. It has been tested with Buildcraft waterproof pipes and Thermal Expansion liquiducts. It does not seem to work with RedPower 2 fluid pipes.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Lost Books-->
 <tr>
 	<td><a href="http://bit.ly/VuOduI">Lost Books</a></td>
@@ -1242,6 +1395,15 @@
 	<td>cjz__</td>
 	<td>SSP SMP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Minecraft Comes Alive-->
+<tr>
+	<td><a href="http://bit.ly/mc-comes-alive">Minecraft Comes Alive</a></td>
+	<td class="desctt"><span class="tt">Replaces them with male or female humans that have many unique skins. You may interact with the villagers in new ways, including hiring them to guard you, having them follow you, or setting down and starting a family with them.</span></td>
+	<td>WildBamaBoy</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Minecraft Ideas Mod-->
@@ -1529,6 +1691,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Overcrafted-->
+<tr>
+	<td><a href="http://bit.ly/11i7ZJA">Overcrafted</a></td>
+	<td class="desctt"><span class="tt">"A mod that makes minecraft overpowered and when its overpowered, you feel like GOD."</span></td>
+	<td>rajpop565</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------P-------------------------------------------------------->
 
@@ -1786,6 +1957,15 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
+<!--SimpleOres-->
+<tr>
+	<td><a href="http://bit.ly/U7gLWK">SimpleOres</a></td>
+	<td class="desctt"><span class="tt">Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no "uber" tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.</span></td>
+	<td>AleXndrTheGr8st</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Simply Hax-->
 <tr>
 	<td><a href="http://bit.ly/as-simplyhax">Simply Hax</a></td> 
@@ -1847,6 +2027,15 @@
 	<td>metroidfood</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Soul Eater Mod-->
+<tr>
+	<td><a href="http://bit.ly/Z6keEp">Soul Eater Mod</a></td>
+	<td class="desctt"><span class="tt">"A mod that makes minecraft overpowered and when its overpowered, you feel like GOD."</span></td>
+	<td>SmileyPandaBear</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Spawner GUI-->
@@ -1987,6 +2176,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Farlanders-->
+<tr>
+	<td><a href="http://bit.ly/W1Ul84">The Farlanders</a></td>
+	<td class="desctt"><span class="tt">Adds more creatures to the game allowing the player to have more choices to trade and more enemies to battle.</span></td>
+	<td>Fabiulu</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Mists of RioV-->
 <tr>
 	<td><a href="http://bit.ly/10qPe6k">The Mists of RioV</a></td>
@@ -2021,6 +2219,15 @@
 	<td>resinresin</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Timber!-->
+<tr>
+	<td><a href="http://bit.ly/13b9vxV">Timber!</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Makes all the logs in a tree break when you hit the bottom block of the tree with an axe of any type. You can toggle this effect to safely remove logs by holding down the sneak key while chopping logs with your axe.</span></td>
+	<td>TehKrush</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Tinkers' Construct-->
@@ -2091,6 +2298,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--TubeStuff-->
+<tr>
+	<td><a href="http://bit.ly/Uvusgl">TubeStuff</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">Immibis Core Required</u></big><br/>See <i class="d">bit.ly/immibiscore</i></center><br/>A smallish mod that adds blocks most useful for Buildcraft or RedPower. Neither are actually required though.</span></td>
+	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--tukmc-->
 <tr>
 	<td><a href="http://bit.ly/XUn0Mp">tukmc</a></td> 
@@ -2132,7 +2348,7 @@
 
 <!--[Universal Electricity] Assembly Line-->
 <tr>
-	<td><a href="http://bit.ly/YZ0KCb">[Universal Electricity] Assembly Line</a></td>
+	<td><a href="http://bit.ly/YTp2h9">[Universal Electricity] Assembly Line</a></td>
 	<td class="desctt"><span class="tt">With all these machines in all these different mods, there needs to be a way to automate them into factories! The Assembly Line mod introduces you to conveyor belts, various item manipulation blocks and brings your machines together. While pipes are easier to build with for item transportation, who in the world would stuff their valuables inside a tiny little pipe?</span></td>
 	<td>Calclavia</td>
 	<td>Universal</td>
@@ -2141,7 +2357,7 @@
 
 <!--[Universal Electricity] Atomic Science-->
 <tr>
-	<td><a href="http://bit.ly/UqwYWR">[Universal Electricity] Atomic Science</a></td>
+	<td><a href="http://bit.ly/YofWfU">[Universal Electricity] Atomic Science</a></td>
 	<td class="desctt"><span class="tt">"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!"</span></td>
 	<td>Calclavia</td>
 	<td>Universal</td>
@@ -2178,7 +2394,7 @@
 
 <!--[Universal Electricity] Modular Powersuits-->
 <tr>
-	<td><a href="http://bit.ly/VpIty8">[Universal Electricity] Modular Powersuits</a></td>
+	<td><a href="http://bit.ly/10lCpse">[Universal Electricity] Modular Powersuits</a></td>
 	<td class="desctt"><span class="tt">"Modular Powersuits is a Minecraft mod based around the idea of an inventor who tinkers with high-tech electronics and makes a suit of powered armor chock-full of useful gadgets and features. Inspired by heroes like Iron Man, Megaman, and Samus Aran, as well as by the high-tech armor in mods like EE2 and IC2."</span></td>
 	<td>MachineMuse</td>
 	<td>Universal</td>
@@ -2196,6 +2412,15 @@
 
 
 <!----------------------------------------------------------V-------------------------------------------------------->
+
+<!--Vending Block-->
+<tr>
+	<td><a href="http://bit.ly/vendingblock">Vending Block</a></td>
+	<td class="desctt"><span class="tt">Lets you sell blocks and items.</span></td>
+	<td>AUTOMATIC_MAIDEN</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--Village Info-->
 <tr>
@@ -2324,7 +2549,7 @@
 </center><br/>
 
 <div class="footer">
-	Mod count: <b>233</b>
+	Mod count: <b>258</b>
 </div>
 
 <!--Google Analytics-->
