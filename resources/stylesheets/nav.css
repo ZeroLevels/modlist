@@ -18,6 +18,7 @@ table.listnav {
 
 table.major tr.c {
 	height:50px;
+	font-size:2em;
 }
 
 
@@ -30,12 +31,12 @@ table.minor tr {
 }
 
 table.minor td {
-background:#141516;
-border-right:1px solid white;
+	background:#141516;
+	border-right:1px solid white;
 }
 
 table.listnav .nh:hover {
-cursor: hand; cursor: pointer;
+	cursor: hand; cursor: pointer;
 }
 
 
@@ -47,20 +48,18 @@ cursor: hand; cursor: pointer;
 }
 
 .listnav td {
-height:25px;
+	height:25px;
 }
 
 	
 .nav a {
 	text-decoration:none;
 	color:white;
-	-webkit-transition:.5s;
-	transition:.5s;
 }
 
 
 .nav a:hover {
-	text-shadow: 0px 0px 1pc black;
+	text-shadow: 0px 0px 1pc white;
 	color:black;
 }
 
@@ -74,8 +73,6 @@ height:25px;
 	border:1px solid white;
 	border-top:none;
 	border-bottom:none;
-	-webkit-transition:.5s;
-	transition:.5s;
 }
 
 
@@ -127,9 +124,6 @@ ul#list-nav li a {
 	text-align:center;
 	border:1px solid #fff;
 	border-spacing:0px;
-  
-	-webkit-transition:.5s;
-	transition:.5s;
 }
 
 ul#list-nav li a:hover {

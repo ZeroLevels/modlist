@@ -1,13 +1,18 @@
 <!doctype html>
 <html>
 
-<head><meta charset="utf-8">
-	<title>MCF Mod List - 1.4.2</title>
-		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="../../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
-	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
+<head>
+
+	<meta charset="utf-8">
 	
+	<title>MCF Mod List - 1.4.2</title>
+	
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="../../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
+	
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
+	
 </head>
   
 <body>
@@ -17,17 +22,24 @@
 			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.2.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.4.2.txt" class="ns">Click here</a> to view the changelog.
 		</p>
 		
-	<ul id="list-nav">
-		<li><a href="../../">Home</a></li>
-		<li><a href="../../credits/">Credits</a></li>
-		<li><a href="../../latest/">Current List</a></li>
-		<li><a href="../../banners/">Banners</a></li>
-		<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
-	</ul>
+		<ul id="list-nav">
+			<li><a href="/">Home</a></li>
+			<li><a href="/credits/">Credits</a></li>
+			<li><a href="/latest/">Current List</a></li>
+			<li><a href="/banners/">Banners</a></li>
+			
+			<![if !IE]>
+				<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
+			<![endif]>
+			
+			<!--[if IE]>
+				<li><a href="/resources/igml2/">Ingame Mod List</a></li>
+			<![endif]-->
+		</ul>
 				
 	<br/><hr width="99%" size="6" noshade>
 		
-	<p style="font-size:2em">This list (1.4.2) will no longer be updated. More recent lists are the priority. <a href="../../latest/" class="ns">Click here</a> to the see the latest list.</p>
+	<p style="font-size:2em">This list (1.4.2) will no longer be updated. More recent lists are the priority. <a href="/latest/" class="ns">Click here</a> to the see the latest list.</p>
 	
 	<table class="listnav nav major">
 		<thead>
@@ -219,6 +231,12 @@
 
 <div class="footer">
 	Mod count: <b>76</b>
+</div>
+
+<div class="API">
+	<a href="http://bit.ly/forge-dl">Forge</a> | 
+	<a href="http://bit.ly/WnSwBj">ModLoader</a> | 
+	<a href="http://bit.ly/WnR9CL">Player API</a>
 </div>
 
 

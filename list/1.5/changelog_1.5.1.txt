@@ -1,3 +1,27 @@
+(April/07/2013)
+	*Updated "Soul Eater Mod" info: Now "Universal"
+	+Added 2 mods by MorpheusZero (Which are the following)
+		+Added "CreepersNoCreeping"
+		+Added "BatsDropLeather"
+	+Added 3 mods by DerBaM (Which are the following)
+		+Added "Flat Bedrock Layer"
+		+Added "Doubledoor"
+		+Added "Grave"
+	+Added "DrZhark"
+		+Added "Mo' Creatures"
+		+Added "Custom Mob Spawner"
+	+Added "HomiePower Mod FE"
+	+Added "PowerCraft"
+	+Added "Applied Energistics"
+	+Added "Mystcraft"
+	+Added "[Mystcraft] Ages of Mystcraft"
+	+Added "More Food Mod"
+	+Added "Hardcore Enderdragon"
+	+Added "Light Level Overlay"
+	+Added "Dynmap"
+	+Added "Crafting Creation"
+	+Added "Factorization"
+
 (April/02/2013)
 	*Fixed links for "[Universal Electricity] Assembly Line", "[Universal Electricity] Atomic Science", and "[Universal Electricity] Modular Powersuits" pointing to old, nonexistent pages
 	+Added 7 mods by Immibis (Which are the following)

@@ -22,13 +22,20 @@
 			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.6_1.4.7.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.4.6_1.4.7.txt" class="ns">Click here</a> to view the changelog.
 		</p>
 		
-	<ul id="list-nav">
-		<li><a href="../../">Home</a></li>
-		<li><a href="../../credits/">Credits</a></li>
-		<li><a href="../../latest/">Current List</a></li>
-		<li><a href="../../banners/">Banners</a></li>
-		<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
-	</ul>
+		<ul id="list-nav">
+			<li><a href="/">Home</a></li>
+			<li><a href="/credits/">Credits</a></li>
+			<li><a href="/latest/">Current List</a></li>
+			<li><a href="/banners/">Banners</a></li>
+		
+			<![if !IE]>
+				<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
+			<![endif]>
+			
+			<!--[if IE]>
+				<li><a href="/resources/igml2/">Ingame Mod List</a></li>
+			<![endif]-->
+		</ul>
 				
 	<br><hr width="99%" size="6" noshade>
 		
@@ -41,7 +48,7 @@
 		
 		<tbody>
 			<tr class="c">
-				<!-- <td class="nh"><a href="../1.3/">1.3</a></td> -->
+				<!-- <td class="nh"><a href="../1.3/">1.3</a></td>-->
 				<td class="h">1.4</td>
 				<td class="nh" onclick="window.location.href='../1.5/'"><a href="../1.5/">1.5</a></td>
 			</tr>
@@ -72,10 +79,10 @@
 
 <!--3D Items-->
 <tr>
-	<td><a href="http://bit.ly/115IkVJ">3D Items</a></td> 
-	<td class="desctt"><span class="tt">This mod now provides configuration options so you can make the items appear the way you want them to! 3D items in fast graphics, change render distance, item and block sizes, rotation and bobbing! Also, fixed vanilla bug where items were screwed up with HD texture packs!</span></td> 
-	<td>Quintinity</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/115IkVJ">3D Items</a></td>
+	<td class="desctt"><span class="tt">This mod now provides configuration options so you can make the items appear the way you want them to! 3D items in fast graphics, change render distance, item and block sizes, rotation and bobbing! Also, fixed vanilla bug where items were screwed up with HD texture packs!</span></td>
+	<td>Quintinity</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -83,10 +90,10 @@
 
 <!--Advanced Agriculture-->
 <tr>
-	<td><a href="http://bit.ly/YOgiYX">Advanced Agriculture</a></td> 
-	<td class="desctt"><span class="tt">A tech-mod that will make your minecraft tech-life a lot more fun. It originally started with an idea to make farming more fun, interesting and specifically useful, but has grown out to be a mod way more than that.</span></td> 
-	<td>Rheel</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YOgiYX">Advanced Agriculture</a></td>
+	<td class="desctt"><span class="tt">A tech-mod that will make your minecraft tech-life a lot more fun. It originally started with an idea to make farming more fun, interesting and specifically useful, but has grown out to be a mod way more than that.</span></td>
+	<td>Rheel</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -110,10 +117,10 @@
 
 <!--AdventureTime Mod-->
 <tr>
-	<td><a href="http://bit.ly/13yG2va">AdventureTime Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds Adventure Time (cartoon show) themed content to the game.</span></td> 
-	<td>Koslaw</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/13yG2va">AdventureTime Mod</a></td>
+	<td class="desctt"><span class="tt">Adds Adventure Time (cartoon show) themed content to the game.</span></td>
+	<td>Koslaw</td>
+	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
@@ -128,10 +135,10 @@
 
 <!--Alma Wade Mod-->
 <tr>
-	<td><a href="http://bit.ly/13d8MOj">Alma Wade Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds Alma Wade from the F.E.A.R. franchise of videogames.</span></td> 
-	<td>SBGuitarist</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/13d8MOj">Alma Wade Mod</a></td>
+	<td class="desctt"><span class="tt">Adds Alma Wade from the F.E.A.R. franchise of videogames.</span></td>
+	<td>SBGuitarist</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -164,7 +171,7 @@
 
 <!--Applied Energistics-->
 <tr>
-	<td><a href="http://bit.ly/ZtCrkB">Applied Energistics</a></td>
+	<td><a href="http://bit.ly/12wrEbC">Applied Energistics</a></td>
 	<td class="desctt"><span class="tt">"A Mod About energy, matter, and getting stuff done! Probably."</span></td>
 	<td>AlgorithmX2</td>
 	<td>Universal</td>
@@ -182,10 +189,10 @@
 
 <!--ArmorStatusHUD-->
 <tr>
-	<td><a href="http://bit.ly/WmtGCf">ArmorStatusHUD</a></td> 
-	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!</span></td> 
-	<td>bspkrs</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/WmtGCf">ArmorStatusHUD</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!</span></td>
+	<td>bspkrs</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -210,7 +217,7 @@
 <!--Armor Stand-->
 <tr>
 	<td><a href="http://bit.ly/WnSwBj">Armor Stand</a></td>
-	<td class="desctt"><span class="tt">This block will give you a place to show off your armor. Just place the block and right click on the platform. You can choose from a selection of skins to hold your armor, as well as have it stare at you, constantly. You may also change the texture of platform by putting block in the last slot.</span></td> 
+	<td class="desctt"><span class="tt">This block will give you a place to show off your armor. Just place the block and right click on the platform. You can choose from a selection of skins to hold your armor, as well as have it stare at you, constantly. You may also change the texture of platform by putting block in the last slot.</span></td>
 	<td>Risugami</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
@@ -311,10 +318,10 @@
 
 <!--Back Tools-->
 <tr>
-	<td><a href="http://bit.ly/Y2JOcJ">Back Tools</a></td> 
-	<td class="desctt"><span class="tt">Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.</span></td> 
-	<td>iChun</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/Y2JOcJ">Back Tools</a></td>
+	<td class="desctt"><span class="tt">Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.</span></td>
+	<td>iChun</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -329,10 +336,10 @@
 
 <!--Baked Goods Mod-->
 <tr>
-	<td><a href="http://bit.ly/WhCCtV">Baked Goods Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds many food items and recipes to the game.</span></td> 
-	<td>Crzyguitardude</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/WhCCtV">Baked Goods Mod</a></td>
+	<td class="desctt"><span class="tt">Adds many food items and recipes to the game.</span></td>
+	<td>Crzyguitardude</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -347,16 +354,16 @@
 
 <!--BattleTowers-->
 <tr>
-	<td><a href="http://bit.ly/VLcH36">BattleTowers</a></td> 
-	<td class="desctt"><span class="tt">Adds towers that spawn throughout your world for you to ascend and gain treasure from, each floor containing mobs and loot with a boss at the very top.</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VLcH36">BattleTowers</a></td>
+	<td class="desctt"><span class="tt">Adds towers that spawn throughout your world for you to ascend and gain treasure from, each floor containing mobs and loot with a boss at the very top.</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Basic Guns Mod-->
 <tr>
-	<td><a href="http://bit.ly/13cFVtC">Basic Guns Mod</a></td> 
+	<td><a href="http://bit.ly/13cFVtC">Basic Guns Mod</a></td>
 	<td class="desctt"><span class="tt">Adds six basic guns to the game:
 	<ul>
 		<li>Pistol</li>
@@ -366,9 +373,9 @@
 		<li>Assault Rifle</li>
 		<li>Sniper Rifle</li>
 	</ul></span>
-</td> 
-	<td>ARandomHobo37</td> 
-	<td>Universal</td> 
+</td>
+	<td>ARandomHobo37</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -458,10 +465,10 @@
 
 <!--Better Snow Mod-->
 <tr>
-	<td><a href="http://bit.ly/WhJqrb">Better Snow Mod</a></td> 
-	<td class="desctt"><span class="tt">Better Snow mod is designed to revamp Minecraft's rather simple snow.  After all, does snow really just pile up an inch and then stop, regardless of how much more it snows?  And does snow really never melt? The answers are obviously no, and that is where Better Snow comes in!</span></td> 
-	<td>acomputerdog</td> 
-	<td>SSP LAN</td> 
+	<td><a href="http://bit.ly/WhJqrb">Better Snow Mod</a></td>
+	<td class="desctt"><span class="tt">Better Snow mod is designed to revamp Minecraft's rather simple snow.  After all, does snow really just pile up an inch and then stop, regardless of how much more it snows?  And does snow really never melt? The answers are obviously no, and that is where Better Snow comes in!</span></td>
+	<td>acomputerdog</td>
+	<td>SSP LAN</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -515,7 +522,7 @@
 
 <!--Better Villages Mod-->
 <tr>
-	<td><a href="http://bit.ly/W5Qdde">Better Villages Mod</a></td> 
+	<td><a href="http://bit.ly/W5Qdde">Better Villages Mod</a></td>
 	<td class="desctt"><span class="tt">Improves villages in the following ways:
 	<ul>
 		<li>Makes villages more common.</li>
@@ -524,9 +531,9 @@
 		<li>Made village torch look cooler.</li>
 		<li>Made both type of wheat fields look better with a surrounding fence and torches.</li>
 		<li>Replace the dirt in the wood hut with cobblestone and made the surrounding highlight smooth stone.</li>
-	</ul></span></td> 
-	<td>Jstorey97</td> 
-	<td>Universal</td> 
+	</ul></span></td>
+	<td>Jstorey97</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -599,19 +606,19 @@
 
 <!--Biosphere-->
 <tr>
-	<td><a href="http://bit.ly/WnSwBj">Biosphere</a></td> 
-	<td class="desctt"><span class="tt">This is a new generator. You may select this generator in More World Options when creating world. In this generator, the world is made up of massive spheres with glass domes. Inside these spheres are random biomes. There is a random chance of a lake being placed in the center of each sphere. Usually water, but rarely lava. Bordering this lake you will find sand for water, or gravel for lava. Connecting each sphere is a wooden bridge with fence rail. Beside each sphere is a smaller sphere, which is where you will find diamond and lapis lazuli. These ores only occur here, the others are equally spread throughout the spheres. The cave generator used here is a modified Nether cave generator, where like on the surface, will generate lava below a certain level. If this lava reaches the outside, an obsidian wall will be made to hold it in.</span></td> 
-	<td>Risugami</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/WnSwBj">Biosphere</a></td>
+	<td class="desctt"><span class="tt">This is a new generator. You may select this generator in More World Options when creating world. In this generator, the world is made up of massive spheres with glass domes. Inside these spheres are random biomes. There is a random chance of a lake being placed in the center of each sphere. Usually water, but rarely lava. Bordering this lake you will find sand for water, or gravel for lava. Connecting each sphere is a wooden bridge with fence rail. Beside each sphere is a smaller sphere, which is where you will find diamond and lapis lazuli. These ores only occur here, the others are equally spread throughout the spheres. The cave generator used here is a modified Nether cave generator, where like on the surface, will generate lava below a certain level. If this lava reaches the outside, an obsidian wall will be made to hold it in.</span></td>
+	<td>Risugami</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Birds Mod-->
 <tr>
-	<td><a href="http://bit.ly/YNdSKe">Birds Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds a variety of birds and creates a nice atmosphere in-game.</span></td> 
-	<td>_Bender_</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/YNdSKe">Birds Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a variety of birds and creates a nice atmosphere in-game.</span></td>
+	<td>_Bender_</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -636,10 +643,10 @@
 
 <!--BlockBreaker / ConnectedDestruction-->
 <tr>
-	<td><a href="http://bit.ly/TWHHIG">BlockBreaker / ConnectedDestruction</a></td> 
-	<td class="d desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>bspkrsCore Required</u></big><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Allows you to define a list of blocks that will break in a chain reaction when an adjacent block of the same type is broken.</span></td> 
-	<td>bspkrs</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/TWHHIG">BlockBreaker / ConnectedDestruction</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>bspkrsCore Required</u></big><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Allows you to define a list of blocks that will break in a chain reaction when an adjacent block of the same type is broken.</span></td>
+	<td>bspkrs</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -727,19 +734,19 @@
 
 <!--[Buildcraft] Advanced Power Systems-->
 <tr>
-	<td><a href="http://bit.ly/XvyVks">[Buildcraft] Advanced Power Systems</a></td> 
-	<td class="desctt"><span class="tt">An addon that adds new power generation for buildcraft and machines for processing.</span></td> 
-	<td>Seph</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XvyVks">[Buildcraft] Advanced Power Systems</a></td>
+	<td class="desctt"><span class="tt">An addon that adds new power generation for buildcraft and machines for processing.</span></td>
+	<td>Seph</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--[Buildcraft] Buildcraft Tools-->
 <tr>
-	<td><a href="http://bit.ly/XEy7d5">[Buildcraft] Buildcraft Tools</a></td> 
-	<td class="desctt"><span class="tt">Adds a bunch of chargeable tools and armor to Buildcraft.</span></td> 
-	<td>Maexx97</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XEy7d5">[Buildcraft] Buildcraft Tools</a></td>
+	<td class="desctt"><span class="tt">Adds a bunch of chargeable tools and armor to Buildcraft.</span></td>
+	<td>Maexx97</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -755,10 +762,10 @@
 
 <!--[Buildcraft] FXFix-->
 <tr>
-	<td><a href="http://bit.ly/15hcVPC">[Buildcraft] FXFix</a></td> 
-	<td class="desctt"><span class="tt">Removes the TextureFX size dependency for BuildCraft liquids if a hi-res texturepack is used. It reduces the tick-lag caused by the animated liquid textures, so that a higher FPS is achieved.</span></td> 
-	<td>domi1819</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/15hcVPC">[Buildcraft] FXFix</a></td>
+	<td class="desctt"><span class="tt">Removes the TextureFX size dependency for BuildCraft liquids if a hi-res texturepack is used. It reduces the tick-lag caused by the animated liquid textures, so that a higher FPS is achieved.</span></td>
+	<td>domi1819</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -792,19 +799,19 @@
 
 <!--[Buildcraft] More Pipes Mod-->
 <tr>
-	<td><a href="http://bit.ly/Z4MhGs">[Buildcraft] More Pipes Mod</a></td> 
-	<td class="desctt"><span class="tt">This mod simply adds a few more pipes to Buildcraft.</span></td> 
-	<td>Zensiert1997</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Z4MhGs">[Buildcraft] More Pipes Mod</a></td>
+	<td class="desctt"><span class="tt">This mod simply adds a few more pipes to Buildcraft.</span></td>
+	<td>Zensiert1997</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--[BuildCraft] Routing Pipe-->
 <tr>
-	<td><a href="http://bit.ly/12Qlv4O">[BuildCraft] Routing Pipe</a></td> 
-	<td class="desctt"><span class="tt">Routing pipes are kind of like diamond pipes, in that they route items to specific outputs. But unlike diamond pipes, routing pipes only use the input pipe to determine which way to send the item:</span></td> 
-	<td>taral</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/12Qlv4O">[BuildCraft] Routing Pipe</a></td>
+	<td class="desctt"><span class="tt">Routing pipes are kind of like diamond pipes, in that they route items to specific outputs. But unlike diamond pipes, routing pipes only use the input pipe to determine which way to send the item:</span></td>
+	<td>taral</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -972,37 +979,37 @@
 
 <!--Chert Craft-->
 <tr>
-	<td><a href="http://bit.ly/YuGyqx">Chert Craft</a></td> 
-	<td class="desctt"><span class="tt">This mod adds new stone to your world that you can mine and craft from. The mew stone generates in random sizes ranging from very small to large. it currently includes four tool and four armor sets available to craft with balanced specs to fit into the vanilla world.</span></td> 
-	<td>Kinyoshi</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YuGyqx">Chert Craft</a></td>
+	<td class="desctt"><span class="tt">This mod adds new stone to your world that you can mine and craft from. The mew stone generates in random sizes ranging from very small to large. it currently includes four tool and four armor sets available to craft with balanced specs to fit into the vanilla world.</span></td>
+	<td>Kinyoshi</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--[Chert Craft] Gravel Replacement-->
 <tr>
-	<td><a href="http://bit.ly/YQ4rer">[Chert Craft] Gravel Replacement</a></td> 
-	<td class="desctt"><span class="tt">Makes the gravel block not drop flint when mined, making the acquisition of flint depended on crafting flint from chert.</span></td> 
-	<td>Kinyoshi</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YQ4rer">[Chert Craft] Gravel Replacement</a></td>
+	<td class="desctt"><span class="tt">Makes the gravel block not drop flint when mined, making the acquisition of flint depended on crafting flint from chert.</span></td>
+	<td>Kinyoshi</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--ChickenChunks-->
 <tr>
-	<td><a href="http://bit.ly/UvpH6y">ChickenChunks</a></td> 
-	<td class="desctt"><span class="tt">As you all should know, the minecraft world is seperated into chunks. 16x16 areas that are loaded depending on how close a player is to them. If you have machines or plants or anything that does something in a chunk that is not loaded because there are no players nearby nothing will happen.<br><br>This mod adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around.</span></td> 
-	<td>chicken_bones</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/UvpH6y">ChickenChunks</a></td>
+	<td class="desctt"><span class="tt">As you all should know, the minecraft world is seperated into chunks. 16x16 areas that are loaded depending on how close a player is to them. If you have machines or plants or anything that does something in a chunk that is not loaded because there are no players nearby nothing will happen.<br><br>This mod adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around.</span></td>
+	<td>chicken_bones</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--ChickenShed-->
 <tr>
-	<td><a href="http://bit.ly/ChickenShed">ChickenShed</a></td> 
-	<td class="desctt"><span class="tt">This is a simple two-class mod that makes it so that chickens will shed a feather now and then. It also makes it so that upon death, they are guaranteed to drop at least one feather. Lastly, baby chickens will now also drop a single feather upon death (but why would you kill it?! D: ).</span></td> 
-	<td>Vazkii</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/ChickenShed">ChickenShed</a></td>
+	<td class="desctt"><span class="tt">This is a simple two-class mod that makes it so that chickens will shed a feather now and then. It also makes it so that upon death, they are guaranteed to drop at least one feather. Lastly, baby chickens will now also drop a single feather upon death (but why would you kill it?! D: ).</span></td>
+	<td>Vazkii</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1155,10 +1162,10 @@
 
 <!--[ComputerCraft] Aperture Science Turtle Upgrades-->
 <tr>
-	<td><a href="http://bit.ly/YBqlEd">[ComputerCraft] Aperture Science Turtle Upgrades</a></td> 
-	<td class="desctt"><span class="tt">Includes many turtle upgrades varying from IDetecting turtles to batch turtles, you can enable the parts that you like</span></td> 
-	<td>Hackingroelz</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YBqlEd">[ComputerCraft] Aperture Science Turtle Upgrades</a></td>
+	<td class="desctt"><span class="tt">Includes many turtle upgrades varying from IDetecting turtles to batch turtles, you can enable the parts that you like</span></td>
+	<td>Hackingroelz</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1183,55 +1190,55 @@
 
 <!--[ComputerCraft] OpenCCSensors-->
 <tr>
-	<td><a href="http://bit.ly/WpGBEI">[ComputerCraft] OpenCCSensors</a></td> 
-	<td class="desctt"><span class="tt">An open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them.</span></td> 
-	<td>Mikeemoo</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/WpGBEI">[ComputerCraft] OpenCCSensors</a></td>
+	<td class="desctt"><span class="tt">An open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them.</span></td>
+	<td>Mikeemoo</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--[ComputerCraft] Redworks Addon-->
 <tr>
-	<td><a href="http://bit.ly/WgFYm7">[ComputerCraft] Redworks Addon</a></td> 
-	<td class="desctt"><span class="tt">An Addon-Software for the CraftOS. It was developed to be more user friendly, add new api's, programs, additional content, as well as connect to the real internet. There are two versions available, Master will replace all terminals, Floppy for single terminal installs of Redworks. This software is fully compatible with CraftOS and the floppy version makes it even more compatible with other Alternative OS's out there.</span></td> 
-	<td>FuzzyPurp</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/WgFYm7">[ComputerCraft] Redworks Addon</a></td>
+	<td class="desctt"><span class="tt">An Addon-Software for the CraftOS. It was developed to be more user friendly, add new api's, programs, additional content, as well as connect to the real internet. There are two versions available, Master will replace all terminals, Floppy for single terminal installs of Redworks. This software is fully compatible with CraftOS and the floppy version makes it even more compatible with other Alternative OS's out there.</span></td>
+	<td>FuzzyPurp</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--[ComputerCraft] Scanner Peripheral-->
 <tr>
-	<td><a href="http://bit.ly/VLKwOQ">[ComputerCraft] Scanner Peripheral</a></td> 
-	<td class="desctt"><span class="tt">The Scanner Peripheral does just what the name says. You put a printed page in the scanner and read the contents of the page from a computer.</span></td> 
-	<td>Orwell</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VLKwOQ">[ComputerCraft] Scanner Peripheral</a></td>
+	<td class="desctt"><span class="tt">The Scanner Peripheral does just what the name says. You put a printed page in the scanner and read the contents of the page from a computer.</span></td>
+	<td>Orwell</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--[ComputerCraft] Turtle Item Analyzer-->
 <tr>
-	<td><a href="http://bit.ly/13lGl0I">[ComputerCraft] Turtle Item Analyzer</a></td> 
-	<td class="desctt"><span class="tt">Adds an item analyzer for computer craft which allows Items to be analyzed by a turtle. The turtle is able to read the name, id, metadata (damage), and count of any item in the turtle's inventory. Also adds an analytical turtle which can be used to determine the block id or metadata of any block or item in its inventory.</span></td> 
-	<td>someone9999</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/13lGl0I">[ComputerCraft] Turtle Item Analyzer</a></td>
+	<td class="desctt"><span class="tt">Adds an item analyzer for computer craft which allows Items to be analyzed by a turtle. The turtle is able to read the name, id, metadata (damage), and count of any item in the turtle's inventory. Also adds an analytical turtle which can be used to determine the block id or metadata of any block or item in its inventory.</span></td>
+	<td>someone9999</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--[ComputerCraft] Turtle NBT Editor-->
 <tr>
-	<td><a href="http://bit.ly/13Sg5qC">[ComputerCraft] Turtle NBT Editor</a></td> 
-	<td class="desctt"><span class="tt">Adds a turtle that allows you to edit and read the NBT Data of TileEntitys.</span></td> 
-	<td>xuma202</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/13Sg5qC">[ComputerCraft] Turtle NBT Editor</a></td>
+	<td class="desctt"><span class="tt">Adds a turtle that allows you to edit and read the NBT Data of TileEntitys.</span></td>
+	<td>xuma202</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--[ComputerCraft] Xfel's Peripherals-->
 <tr>
-	<td><a href="http://bit.ly/YyvYyZ">[ComputerCraft] Xfel's Peripherals</a></td> 
-	<td class="desctt"><span class="tt">Adds a cable that allows for more than six peripherals to be connected to one computer.</span></td> 
-	<td>Xfel</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YyvYyZ">[ComputerCraft] Xfel's Peripherals</a></td>
+	<td class="desctt"><span class="tt">Adds a cable that allows for more than six peripherals to be connected to one computer.</span></td>
+	<td>Xfel</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1274,10 +1281,10 @@
 
 <!--Corn Nuts-->
 <tr>
-	<td><a href="http://bit.ly/15Hk2SO">Corn Nuts</a></td> 
-	<td class="desctt"><span class="tt">Adds a new food item into your world, Corn Nuts!! These corn nuts are made using seeds for the basic variety of corn nuts. The special variety gives you a limited potion effect when eaten including water breathing, fire resistance, damage boost and jumping.</span></td> 
-	<td>Kinyoshi</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/15Hk2SO">Corn Nuts</a></td>
+	<td class="desctt"><span class="tt">Adds a new food item into your world, Corn Nuts!! These corn nuts are made using seeds for the basic variety of corn nuts. The special variety gives you a limited potion effect when eaten including water breathing, fire resistance, damage boost and jumping.</span></td>
+	<td>Kinyoshi</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1357,10 +1364,10 @@
 
 <!--CrazyOres-->
 <tr>
-	<td><a href="http://bit.ly/YmfM7H">CrazyOres</a></td> 
-	<td class="desctt"><span class="tt">"Are you tired of the simple ores Minecraft has to offer? Diggy, diggy hole, just isn't what it used to be in Alpha? Well now, when you install CrazyOres, you get the full experience!"</span></td> 
-	<td>Andy608</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YmfM7H">CrazyOres</a></td>
+	<td class="desctt"><span class="tt">"Are you tired of the simple ores Minecraft has to offer? Diggy, diggy hole, just isn't what it used to be in Alpha? Well now, when you install CrazyOres, you get the full experience!"</span></td>
+	<td>Andy608</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1394,10 +1401,10 @@
 
 <!--CrystalWing-->
 <tr>
-	<td><a href="http://bit.ly/TWHHIG">CrystalWing</a></td> 
-	<td class="desctt"><span class="tt"><center><big class="d">ModLoader Mod, bspkrsCore Required</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>With this enchanted wing, you'll be able to teleport back to your spawn point or bed (fancy effects included!).</span></td> 
-	<td>bspkrs</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/TWHHIG">CrystalWing</a></td>
+	<td class="desctt"><span class="tt"><center><big class="d">ModLoader Mod, bspkrsCore Required</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>With this enchanted wing, you'll be able to teleport back to your spawn point or bed (fancy effects included!).</span></td>
+	<td>bspkrs</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1437,12 +1444,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Custom Mob Spawner-->
 <tr>
-	<td><a href="http://bit.ly/XCTaBY">Custom Mob Spawner</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/XCTaBY">Custom Mob Spawner</a> (Dependency)</td>
+	<td class="desctt"><span class="tt">Offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8. Every mod will have its individual spawning list, so other mods won't interfere with the spawning settings.</span></td>
 	<td>DrZhark</td>
-	<td>N/A</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1468,10 +1475,10 @@
 
 <!--Custom Stuff 2-->
 <tr>
-	<td><a href="http://bit.ly/13dry5y">Custom Stuff 2</a></td> 
-	<td class="desctt"><span class="tt">Allows you to add content to minecraft with simple text files. You can also send your created content in a zip to your friends and they have only put this zip into the custom stuff 2 mods directory. You can create chests, furnaces, ladders, torches that can also be placed on the ceiling, armory, food, potions, crafting recipes and much more.</span></td> 
-	<td>CubeX2</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/13dry5y">Custom Stuff 2</a></td>
+	<td class="desctt"><span class="tt">Allows you to add content to minecraft with simple text files. You can also send your created content in a zip to your friends and they have only put this zip into the custom stuff 2 mods directory. You can create chests, furnaces, ladders, torches that can also be placed on the ceiling, armory, food, potions, crafting recipes and much more.</span></td>
+	<td>CubeX2</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1499,10 +1506,10 @@
 
 <!--DarkLords RPG-->
 <tr>
-	<td><a href="http://bit.ly/15NImlQ">DarkLords RPG</a></td> 
-	<td class="desctt"><span class="tt">Adds new mobs, weapons, tools, a biome, and more.</span></td> 
-	<td>darklord987</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/15NImlQ">DarkLords RPG</a></td>
+	<td class="desctt"><span class="tt">Adds new mobs, weapons, tools, a biome, and more.</span></td>
+	<td>darklord987</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1536,10 +1543,10 @@
 
 <!--Dead Bush Replacement-->
 <tr>
-	<td><a href="http://bit.ly/YvnZCy">Dead Bush Replacement</a></td> 
-	<td class="desctt"><span class="tt">Makes the dead bush drop one stick when destroyed.</span></td> 
-	<td>Kinyoshi</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YvnZCy">Dead Bush Replacement</a></td>
+	<td class="desctt"><span class="tt">Makes the dead bush drop one stick when destroyed.</span></td>
+	<td>Kinyoshi</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1554,10 +1561,10 @@
 
 <!--Death Counter-->
 <tr>
-	<td><a href="http://bit.ly/ichun-deathcounter">Death Counter</a></td> 
-	<td class="desctt"><span class="tt">Adds a way for the server to calculate the number of deaths a player has (since its installation). It will also notify the player of the death count and ranking on the server (Configurable)</span></td> 
-	<td>iChun</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/ichun-deathcounter">Death Counter</a></td>
+	<td class="desctt"><span class="tt">Adds a way for the server to calculate the number of deaths a player has (since its installation). It will also notify the player of the death count and ranking on the server (Configurable)</span></td>
+	<td>iChun</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1572,19 +1579,19 @@
 
 <!--Desert Cotton Plant-->
 <tr>
-	<td><a href="http://bit.ly/XvcK11">Desert Cotton Plant</a></td> 
-	<td class="desctt"><span class="tt">Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode ? Do you wonder how you're going to make that bed with no sheep to get wool from? Then this mod is for you!</span></td> 
-	<td>Kinyoshi</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/XvcK11">Desert Cotton Plant</a></td>
+	<td class="desctt"><span class="tt">Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode ? Do you wonder how you're going to make that bed with no sheep to get wool from? Then this mod is for you!</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Desert Grund Plant-->
 <tr>
-	<td><a href="http://bit.ly/YRCXnp">Desert Grund Plant</a></td> 
-	<td class="desctt"><span class="tt">Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to plant seeds without having dirt to make soil? Then this mod is for you!</span></td> 
-	<td>Kinyoshi</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/YRCXnp">Desert Grund Plant</a></td>
+	<td class="desctt"><span class="tt">Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to plant seeds without having dirt to make soil? Then this mod is for you!</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1646,10 +1653,10 @@
 
 <!--DirectionHUD-->
 <tr>
-	<td><a href="http://bit.ly/WmtGCf">DirectionHUD</a></td> 
-	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Displays your magnetic compass heading at the top of your screen.</span></td> 
-	<td>bspkrs</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/WmtGCf">DirectionHUD</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d bc"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Displays your magnetic compass heading at the top of your screen.</span></td>
+	<td>bspkrs</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1683,10 +1690,10 @@
 
 <!--Dungeon Crawler-->
 <tr>
-	<td><a href="http://bit.ly/VuOduI">Dungeon Crawler</a></td> 
-	<td class="desctt"><span class="tt">Ever wanted to be that one guy that survives by using paper clips? Well fret no more! This mod may not include paper clips, but it does include just about everything you need to survive in a world without the comfort of having a home.</span></td> 
-	<td>FatherToast</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VuOduI">Dungeon Crawler</a></td>
+	<td class="desctt"><span class="tt">Ever wanted to be that one guy that survives by using paper clips? Well fret no more! This mod may not include paper clips, but it does include just about everything you need to survive in a world without the comfort of having a home.</span></td>
+	<td>FatherToast</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1730,10 +1737,10 @@
 
 <!--Dynamic Lights-->
 <tr>
-	<td><a href="http://bit.ly/WXb0hm">Dynamic Lights</a></td> 
-	<td class="desctt"><span class="tt">This modification makes 'shining' items <i>(default: Torch, Glowstone, Glowdust, Lit Pumpkin, Redstone, Lava Bucket, powered Minecart)</i> illuminate everything around them if:<br><ul><li>the player has them equipped (in hand/armor)</li><li>they are dropped on the ground</li><li>another player has them equipped in Multiplayer</li></ul><br/>On top of that, burning Entities shine light, and Creepers about to explode light up!</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/WXb0hm">Dynamic Lights</a></td>
+	<td class="desctt"><span class="tt">This modification makes 'shining' items <i>(default: Torch, Glowstone, Glowdust, Lit Pumpkin, Redstone, Lava Bucket, powered Minecart)</i> illuminate everything around them if:<br><ul><li>the player has them equipped (in hand/armor)</li><li>they are dropped on the ground</li><li>another player has them equipped in Multiplayer</li></ul><br/>On top of that, burning Entities shine light, and Creepers about to explode light up!</span></td>
+	<td>AtomicStryker</td>
+	<td>Clientside Mod</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1780,10 +1787,10 @@
 
 <!--Edible Ores Mod-->
 <tr>
-	<td><a href="http://bit.ly/VoFAzl">Edible Ores Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds edible versions of ores to the game, as well as a few to world generation.</span></td> 
-	<td>steved</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/VoFAzl">Edible Ores Mod</a></td>
+	<td class="desctt"><span class="tt">Adds edible versions of ores to the game, as well as a few to world generation.</span></td>
+	<td>steved</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1882,19 +1889,19 @@
 
 <!--Ender Storage-->
 <tr>
-	<td><a href="http://bit.ly/UvpH6y">Ender Storage</a></td> 
-	<td class="desctt"><span class="tt">EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch.</span></td> 
-	<td>chicken_bones</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/UvpH6y">Ender Storage</a></td>
+	<td class="desctt"><span class="tt">EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch.</span></td>
+	<td>chicken_bones</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--EnderStuff+-->
 <tr>
-	<td><a href="http://bit.ly/VuxebI">EnderStuff+</a></td> 
-	<td class="desctt"><span class="tt">This mod adds a bunch of stuff to the End dimension. From mobs over blocks to tools and weapons. </span></td> 
-	<td>SanAndreasP</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VuxebI">EnderStuff+</a></td>
+	<td class="desctt"><span class="tt">This mod adds a bunch of stuff to the End dimension. From mobs over blocks to tools and weapons. </span></td>
+	<td>SanAndreasP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2002,12 +2009,12 @@
 
 <!----------------------------------------------------------F-------------------------------------------------------->
 
-<!--|-->
+<!--Factorization-->
 <tr>
 	<td><a href="http://bit.ly/13aYuwq">Factorization</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds many machines for processing ore and crafting.</span></td>
 	<td>neptunepink</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2087,10 +2094,10 @@
 
 <!--Finder Compass-->
 <tr>
-	<td><a href="http://bit.ly/ZhnTRT">Finder Compass</a></td> 
-	<td class="desctt"><span class="tt">Makes your compass point to dungeons, strongholds, and diamonds if within a certain range of them.</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/ZhnTRT">Finder Compass</a></td>
+	<td class="desctt"><span class="tt">Makes your compass point to dungeons, strongholds, and diamonds if within a certain range of them.</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2105,10 +2112,10 @@
 
 <!--Flat Bedrock-->
 <tr>
-	<td><a href="http://bit.ly/VW7qTy">Flat Bedrock</a></td> 
-	<td class="desctt"><span class="tt">Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.</span></td> 
-	<td>power crystals</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VW7qTy">Flat Bedrock</a></td>
+	<td class="desctt"><span class="tt">Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2151,19 +2158,19 @@
 
 <!--FloatingRuins-->
 <tr>
-	<td><a href="http://bit.ly/TWHHIG">FloatingRuins</a></td> 
-	<td class="ml desctt"><span class="tt"><center><big class="d rpa">ModLoader Option, bspkrsCore Required</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.</span></td> 
-	<td>bspkrs</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/TWHHIG">FloatingRuins</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d rpa">ModLoader Option, bspkrsCore Required</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.</span></td>
+	<td>bspkrs</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Floodgate-->
 <tr>
-	<td><a href="http://bit.ly/WnSwBj">Floodgate</a></td> 
-	<td class="desctt"><span class="tt">The Floodgate block can be used as either a floodgate, allowing toggleable water and lava falls, or as a trapdoor. When you place the floodgate control block, it will place a gate in front of the control block in the direction you are facing.</span></td> 
-	<td>Risugami</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/WnSwBj">Floodgate</a></td>
+	<td class="desctt"><span class="tt">The Floodgate block can be used as either a floodgate, allowing toggleable water and lava falls, or as a trapdoor. When you place the floodgate control block, it will place a gate in front of the control block in the direction you are facing.</span></td>
+	<td>Risugami</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -2178,10 +2185,10 @@
 
 <!--Fools Gold Mod-->
 <tr>
-	<td><a href="http://bit.ly/Zhs97Z">Fools Gold Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds Fools Gold to the game, which generates in the world as ores, a biome, and even as Fools Gold Zombies. It can be used to craft weapons and coins.</span></td> 
-	<td>DrainEMmax</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Zhs97Z">Fools Gold Mod</a></td>
+	<td class="desctt"><span class="tt">Adds Fools Gold to the game, which generates in the world as ores, a biome, and even as Fools Gold Zombies. It can be used to craft weapons and coins.</span></td>
+	<td>DrainEMmax</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2260,10 +2267,10 @@
 
 <!--Forgotten Nature-->
 <tr>
-	<td><a href="http://bit.ly/Yi7A6B">Forgotten Nature</a></td> 
-	<td class="desctt"><span class="tt">Adds many nature-related objects and decorations to the game, including new biomes, trees (like fruit trees), woods, flowers, marble, and glass.</span></td> 
-	<td>Nightshade_Proleath</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Yi7A6B">Forgotten Nature</a></td>
+	<td class="desctt"><span class="tt">Adds many nature-related objects and decorations to the game, including new biomes, trees (like fruit trees), woods, flowers, marble, and glass.</span></td>
+	<td>Nightshade_Proleath</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2287,10 +2294,10 @@
 
 <!--FriendColour-->
 <tr>
-	<td><a href="http://bit.ly/VL6eTc">FriendColour</a></td> 
-	<td class="desctt"><span class="tt">FriendColour is a client mod that allows you to give your mates cloaks, an extra nameplate tag and the most useful feature: customize your friends' names and add colours etc.! It is customizable with the advanced, user-friendly FriendColour GUI.</span></td> 
-	<td>Luke</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/VL6eTc">FriendColour</a></td>
+	<td class="desctt"><span class="tt">FriendColour is a client mod that allows you to give your mates cloaks, an extra nameplate tag and the most useful feature: customize your friends' names and add colours etc.! It is customizable with the advanced, user-friendly FriendColour GUI.</span></td>
+	<td>Luke</td>
+	<td>Clientside Mod</td>
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
@@ -2418,10 +2425,10 @@
 
 <!--Goblins and Giants-->
 <tr>
-	<td><a href="http://bit.ly/Yj1yR6">Goblins and Giants</a></td> 
-	<td class="desctt"><span class="tt">Goblins And Giants is a WIP mod that adds a lot of new mobs and a dimension.</span></td> 
-	<td>wuppy21</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Yj1yR6">Goblins and Giants</a></td>
+	<td class="desctt"><span class="tt">Goblins And Giants is a WIP mod that adds a lot of new mobs and a dimension.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2436,10 +2443,10 @@
 
 <!--Gravity Gun-->
 <tr>
-	<td><a href="http://bit.ly/ichun-gravitygun">Gravity Gun</a></td> 
-	<td class="desctt"><span class="tt">Adds the Gravity Gun from Half Life 2 to Minecraft.</span></td> 
-	<td>iChun</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/ichun-gravitygun">Gravity Gun</a></td>
+	<td class="desctt"><span class="tt">Adds the Gravity Gun from Half Life 2 to Minecraft.</span></td>
+	<td>iChun</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2491,10 +2498,10 @@
 
 <!--Griefer Creepers-->
 <tr>
-	<td><a href="http://bit.ly/WnSwBj">Griefer Creepers</a></td> 
-	<td class="desctt"><span class="tt"><u>WARNING:</u><br/>Backup your world before installing.<br/><br/>This mod changes how creepers attack. Instead of blowing itself up, It will disappear and launcher 100 arrows straight into the air, which will rain down on the landscape. These arrows will be 25% fire arrows, 75% explosive arrows.</span></td> 
-	<td>Risugami</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/WnSwBj">Griefer Creepers</a></td>
+	<td class="desctt"><span class="tt"><u>WARNING:</u><br/>Backup your world before installing.<br/><br/>This mod changes how creepers attack. Instead of blowing itself up, It will disappear and launcher 100 arrows straight into the air, which will rain down on the landscape. These arrows will be 25% fire arrows, 75% explosive arrows.</span></td>
+	<td>Risugami</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -2550,10 +2557,10 @@
 
 <!--Hay Mod-->
 <tr>
-	<td><a href="http://bit.ly/YyzKs5">Hay Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds Hay, along with many other building materials and decorative items!</span></td> 
-	<td>Cthulion</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/YyzKs5">Hay Mod</a></td>
+	<td class="desctt"><span class="tt">Adds Hay, along with many other building materials and decorative items!</span></td>
+	<td>Cthulion</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2577,10 +2584,10 @@
 
 <!--Health Packs-->
 <tr>
-	<td><a href="http://bit.ly/XJxTjX">Health Packs</a></td> 
-	<td class="desctt"><span class="tt">Adds two new potion-like consumable items to the game. They heal you very well and quickly.</span></td> 
-	<td>wuppy21</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XJxTjX">Health Packs</a></td>
+	<td class="desctt"><span class="tt">Adds two new potion-like consumable items to the game. They heal you very well and quickly.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2620,10 +2627,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--HomiePower Mod-->
 <tr>
-	<td><a href="http://bit.ly/V26xc9">HomiePower Mod FE</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/10DRioi">HomiePower Mod</a></td>
+	<td class="desctt"><span class="tt">Adds new ores and metals.</span></td>
 	<td>hoshan</td>
 	<td>SSP</td>
 	<td class="fr">Forge Required</td>
@@ -2853,10 +2860,10 @@
 
 <!--[IndustrialCraft 2] Combo Armors-->
 <tr>
-	<td><a href="http://bit.ly/XRBmNs">[IndustrialCraft 2] Combo Armors</a></td> 
-	<td class="desctt"><span class="tt">Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.</span></td> 
-	<td>UnixRano</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XRBmNs">[IndustrialCraft 2] Combo Armors</a></td>
+	<td class="desctt"><span class="tt">Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.</span></td>
+	<td>UnixRano</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2953,10 +2960,10 @@
 
 <!--[IndustrialCraft 2] OreDupeFix-->
 <tr>
-	<td><a href="http://bit.ly/Wgp1TF">[IndustrialCraft 2] OreDupeFix</a></td> 
-	<td class="desctt"><span class="tt">Installing multiple tech mods often leads to more than a single type of the same ore. The problem can partially be fixed by making only one ore type spawn in the world, but that doesn't fix the outputs. While the Forge Ore Dictionary lets them all be used in the same crafting recipes, it can still be a cause for concern due to clutter. The aim of this mod is to fix that, letting you specify a single output for all types.</span></td> 
-	<td>agaricus</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Wgp1TF">[IndustrialCraft 2] OreDupeFix</a></td>
+	<td class="desctt"><span class="tt">Installing multiple tech mods often leads to more than a single type of the same ore. The problem can partially be fixed by making only one ore type spawn in the world, but that doesn't fix the outputs. While the Forge Ore Dictionary lets them all be used in the same crafting recipes, it can still be a cause for concern due to clutter. The aim of this mod is to fix that, letting you specify a single output for all types.</span></td>
+	<td>agaricus</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2990,10 +2997,10 @@
 
 <!--Infernal Mobs-->
 <tr>
-	<td><a href="http://bit.ly/XlHt0o">Infernal Mobs</a></td> 
-	<td class="desctt"><span class="tt">This mod randomly imbues spawning Mobs in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill. They also drop the quadruple amount of xp and a random enchanted item.</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XlHt0o">Infernal Mobs</a></td>
+	<td class="desctt"><span class="tt">This mod randomly imbues spawning Mobs in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill. They also drop the quadruple amount of xp and a random enchanted item.</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3099,10 +3106,10 @@
 
 <!--Item Soup Replacement-->
 <tr>
-	<td><a href="http://bit.ly/ZtPJul">Item Soup Replacement</a></td> 
-	<td class="desctt"><span class="tt">This mod makes the item soup stackable up to twelve. Make sure you unstack your bowl of soup before you consume it, otherwise you will eat all of it, little piggy...</span></td> 
-	<td>Kinyoshi</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/ZtPJul">Item Soup Replacement</a></td>
+	<td class="desctt"><span class="tt">This mod makes the item soup stackable up to twelve. Make sure you unstack your bowl of soup before you consume it, otherwise you will eat all of it, little piggy...</span></td>
+	<td>Kinyoshi</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -3138,10 +3145,10 @@
 
 <!--Jelly Cubes-->
 <tr>
-	<td><a href="http://bit.ly/W0tf6U">Jelly Cubes</a></td> 
-	<td class="desctt"><span class="tt">The jelly cubes mod adds a new type of food to the game. It's crafted with two slime balls and can be used in flatlands for food.</span></td> 
-	<td>wuppy21</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/W0tf6U">Jelly Cubes</a></td>
+	<td class="desctt"><span class="tt">The jelly cubes mod adds a new type of food to the game. It's crafted with two slime balls and can be used in flatlands for food.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3179,10 +3186,10 @@
 
 <!--KenshiroMod-->
 <tr>
-	<td><a href="http://bit.ly/Zhv7W7">KenshiroMod</a></td> 
-	<td class="desctt"><span class="tt">Unleashing rage only possible with bare chest and empty hands. Drains a lot of stamina / hunger. "For real men only."</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Zhv7W7">KenshiroMod</a></td>
+	<td class="desctt"><span class="tt">Unleashing rage only possible with bare chest and empty hands. Drains a lot of stamina / hunger. "For real men only."</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3210,10 +3217,10 @@
 
 <!--Koi-->
 <tr>
-	<td><a href="http://bit.ly/12EyGdZ">Koi</a></td> 
-	<td class="desctt"><span class="tt">Simply adds a fish mob to the game. It will spawn and swim around your world in water.</span></td> 
-	<td>wuppy21</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/12EyGdZ">Koi</a></td>
+	<td class="desctt"><span class="tt">Simply adds a fish mob to the game. It will spawn and swim around your world in water.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3241,10 +3248,10 @@
 
 <!--Lava Monsters-->
 <tr>
-	<td><a href="http://bit.ly/VuOduI">Lava Monsters</a></td> 
-	<td class="desctt"><span class="tt">If you've ever found yourself bored once you mine down to lava because it stops hostile mobs from spawning, then this is the mod for you! This is a small mod that adds a new hostile monster to the game that spawns in lava and spits fireballs at you.</span></td> 
-	<td>FatherToast</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VuOduI">Lava Monsters</a></td>
+	<td class="desctt"><span class="tt">If you've ever found yourself bored once you mine down to lava because it stops hostile mobs from spawning, then this is the mod for you! This is a small mod that adds a new hostile monster to the game that spawns in lava and spits fireballs at you.</span></td>
+	<td>FatherToast</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3260,10 +3267,10 @@
 
 <!--LegendGear-->
 <tr>
-	<td><a href="http://bit.ly/Xdffov">LegendGear</a></td> 
-	<td class="desctt"><span class="tt">A mod inspired by The Legend of Zelda and other classic games, providing new weapons, consumables, and accessories, as well as adding a couple new plants to world generation.</span></td> 
-	<td>NMcCoy</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Xdffov">LegendGear</a></td>
+	<td class="desctt"><span class="tt">A mod inspired by The Legend of Zelda and other classic games, providing new weapons, consumables, and accessories, as well as adding a couple new plants to world generation.</span></td>
+	<td>NMcCoy</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3383,7 +3390,7 @@
 
 <!--Magic Rings Mod-->
 <tr>
-	<td><a href="http://bit.ly/111A4HE">Magic Rings Mod</a></td> 
+	<td><a href="http://bit.ly/111A4HE">Magic Rings Mod</a></td>
 	<td class="desctt"><span class="tt">Adds four magical rings to the game including:<br/>
 	<ul>
 		<li>Flying Ring: Takes on the basic idea of Swiftwolf's Rending Gale from Equivalent Exchange 2 and have made it run off of hunger, along with some aesthetic changes, and the fact that it can be anywhere in your inventory, not just your hotbar.</li>
@@ -3391,36 +3398,36 @@
 		<li>Water Ring: Lets you breathe underwater.</li>
 		<li>Teleport Ring: Teleport you to a block within 150 blocks. This will only work if you are pointing at the <i>top</i> of a block.</li>
 	</ul></span>
-</td> 
-	<td>jshreder</td> 
-	<td>Universal</td> 
+</td>
+	<td>jshreder</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Magic Yarn-->
 <tr>
-	<td><a href="http://bit.ly/XlFeu1">Magic Yarn</a></td> 
-	<td class="desctt"><span class="tt">Introduces a new Item to Minecraft; the Ball of Magic Yarn. It is crafted by surrounding a Compass with Wool (any kind).<br/><br/>The item serves as pathfinding tool and to keep track of your movements. In other words, you should never again get lost exploring the Nether or some complex cave system, and without leaving a ridiculous amount of Torches to mark your trail.<br/><br/><i>NOTE:<br/>In Multiplayer, you can't craft this Item. You use a button instead, by default "J". Button can be customized in auto-created file under mods/MagicYarn.txt</i></span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XlFeu1">Magic Yarn</a></td>
+	<td class="desctt"><span class="tt">Introduces a new Item to Minecraft; the Ball of Magic Yarn. It is crafted by surrounding a Compass with Wool (any kind).<br/><br/>The item serves as pathfinding tool and to keep track of your movements. In other words, you should never again get lost exploring the Nether or some complex cave system, and without leaving a ridiculous amount of Torches to mark your trail.<br/><br/><i>NOTE:<br/>In Multiplayer, you can't craft this Item. You use a button instead, by default "J". Button can be customized in auto-created file under mods/MagicYarn.txt</i></span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Magical Crops-->
 <tr>
-	<td><a href="http://bit.ly/W9maB8">Magical Crops</a></td> 
-	<td class="desctt"><span class="tt">Introduces lot of new crops that grow all sort of things, from new food like sweetcorn and strawberries to Coal essence and Diamond essence which can be crafting into Coal and Diamonds.</span></td> 
-	<td>Mark719</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/W9maB8">Magical Crops</a></td>
+	<td class="desctt"><span class="tt">Introduces lot of new crops that grow all sort of things, from new food like sweetcorn and strawberries to Coal essence and Diamond essence which can be crafting into Coal and Diamonds.</span></td>
+	<td>Mark719</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Magical Experience-->
 <tr>
-	<td><a href="http://bit.ly/W0sOJW">Magical Experience</a></td> 
-	<td class="desctt"><span class="tt">"Magical Experience" adds new ways to get experience. You can also craft all the spawner eggs with this mod and there are some very fun items that can destroy your world if you are not careful.</span></td> 
-	<td>wuppy21</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/W0sOJW">Magical Experience</a></td>
+	<td class="desctt"><span class="tt">"Magical Experience" adds new ways to get experience. You can also craft all the spawner eggs with this mod and there are some very fun items that can destroy your world if you are not careful.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3546,10 +3553,10 @@
 
 <!--Mine & Blade: Commander-->
 <tr>
-	<td><a href="http://bit.ly/UqDHCU">Mine & Blade: Commander</a></td> 
-	<td class="desctt"><span class="tt">The aim of this mod is to provide the player with controllable npcs that will help you fight enemies. This is actually a re-iteration of an old mod I made a while ago (Battlecraft) which I unfortunately had to let go. There are a number of mods that provide npcs, however this mod will focus on soldier type npcs. The other thing that will set this mod apart from other similar mods is the ability for units to gain experience and upgrade to more powerful units as well as the great deal of customisation of the visual appearance of the soldiers.</span></td> 
-	<td>nerd-boy</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/UqDHCU">Mine & Blade: Commander</a></td>
+	<td class="desctt"><span class="tt">The aim of this mod is to provide the player with controllable npcs that will help you fight enemies. This is actually a re-iteration of an old mod I made a while ago (Battlecraft) which I unfortunately had to let go. There are a number of mods that provide npcs, however this mod will focus on soldier type npcs. The other thing that will set this mod apart from other similar mods is the ability for units to gain experience and upgrade to more powerful units as well as the great deal of customisation of the visual appearance of the soldiers.</span></td>
+	<td>nerd-boy</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3602,10 +3609,10 @@
 
 <!--MineFactory Reloaded-->
 <tr>
-	<td><a href="http://bit.ly/VW7qTy">MineFactory Reloaded</a></td> 
-	<td class="desctt"><span class="tt">MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.</span></td> 
-	<td>power crystals</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VW7qTy">MineFactory Reloaded</a></td>
+	<td class="desctt"><span class="tt">MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3620,10 +3627,10 @@
 
 <!--MineFantasy: Renaissance-->
 <tr>
-	<td><a href="http://bit.ly/ZD9js2">MineFantasy: Renaissance</a></td> 
-	<td class="desctt"><span class="tt">MineFantasy Renaissance expansion extends the progression in MineFantasy by expanding out of the middle ages and experiencing a further depth in refining steels, adding new tools, armours, firearms, bows, bombs etc.</span></td> 
-	<td>AnonymousProductions</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/ZD9js2">MineFantasy: Renaissance</a></td>
+	<td class="desctt"><span class="tt">MineFantasy Renaissance expansion extends the progression in MineFantasy by expanding out of the middle ages and experiencing a further depth in refining steels, adding new tools, armours, firearms, bows, bombs etc.</span></td>
+	<td>AnonymousProductions</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3639,10 +3646,10 @@
 
 <!--Minema-->
 <tr>
-	<td><a href="http://bit.ly/15NF3LA">Minema</a></td> 
-	<td class="desctt"><span class="tt">Allows you to record jerk-free movies in Minecraft, no matter how slow your PC or how complex the scenery is. This is made possible by a temporary modification of the game timer that ensures a constant game time passed between each frame, disabling any synchronization with the actual time. In other words: performance doesn't matter for smooth videos anymore!</span></td> 
-	<td>BarracudaATA</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/15NF3LA">Minema</a></td>
+	<td class="desctt"><span class="tt">Allows you to record jerk-free movies in Minecraft, no matter how slow your PC or how complex the scenery is. This is made possible by a temporary modification of the game timer that ensures a constant game time passed between each frame, disabling any synchronization with the actual time. In other words: performance doesn't matter for smooth videos anymore!</span></td>
+	<td>BarracudaATA</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -3667,17 +3674,17 @@
 
 <!--Minions-->
 <tr>
-	<td><a href="http://bit.ly/XlyOuX">Minions</a></td> 
-	<td class="desctt"><span class="tt">Allows you to summon minions that can (currently):<br/><ul><li>follow you around</li><li>be sent to places</li><li>chop down most any kind of trees, including Jungle giants</li><li>carry you, animals and other players</li><li>pickup and carry Items in their inventory</li><li>dig mineshafts complete with stairwell</li><li>dig out a custom sized space you define</li><li>mine ore veins you point out to them</li><li>intelligently strip mine where you tell them to</li><li>return their goods and loot to you</li><li>or to a chest you pointed out</li></ul></span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XlyOuX">Minions</a></td>
+	<td class="desctt"><span class="tt">Allows you to summon minions that can (currently):<br/><ul><li>follow you around</li><li>be sent to places</li><li>chop down most any kind of trees, including Jungle giants</li><li>carry you, animals and other players</li><li>pickup and carry Items in their inventory</li><li>dig mineshafts complete with stairwell</li><li>dig out a custom sized space you define</li><li>mine ore veins you point out to them</li><li>intelligently strip mine where you tell them to</li><li>return their goods and loot to you</li><li>or to a chest you pointed out</li></ul></span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Mo' Creatures-->
 <tr>
 	<td><a href="http://bit.ly/UvyxRJ">Mo' Creatures</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="d desctt"><span class="tt">Adds many, many creatures to the game.<br/><br/><big class="d">Also Requires:</big><br/>GuiAPI (API)<br/>Custom Mob Spawner (Dependency)</span></td>
 	<td>DrZhark</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -3732,19 +3739,19 @@
 
 <!--Mob Amputation-->
 <tr>
-	<td><a href="http://bit.ly/Y3FdY0">Mob Amputation</a></td> 
-	<td class="desctt"><span class="tt">Lets you cut off the arms and head of some mobs. Also, blood particles!</span></td> 
-	<td>iChun</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/Y3FdY0">Mob Amputation</a></td>
+	<td class="desctt"><span class="tt">Lets you cut off the arms and head of some mobs. Also, blood particles!</span></td>
+	<td>iChun</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Mob Dismemberment-->
 <tr>
-	<td><a href="http://bit.ly/Yb1iXi">Mob Dismemberment</a></td> 
-	<td class="desctt"><span class="tt">Some mobs fall apart whenever you kill them.</span></td> 
-	<td>iChun</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/Yb1iXi">Mob Dismemberment</a></td>
+	<td class="desctt"><span class="tt">Some mobs fall apart whenever you kill them.</span></td>
+	<td>iChun</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -3779,7 +3786,7 @@
 <!--ModLoader-->
 <tr>
 	<td><a href="http://bit.ly/WnSwBj">ModLoader</a> (API)</td>
-	<td class="desctt"><span class="tt">API<br/><br/>A mod, kind of like a mod manager, that stops conflicts with mods that alter rendering, recipes, add entities, gui, smeltables or fuel.<br/><br/><i>NOTE: Do not install this with Forge. Forge has its own version of ModLoader that is backwards compatible with most ModLoader mods.</i></span></td> 
+	<td class="desctt"><span class="tt">API<br/><br/>A mod, kind of like a mod manager, that stops conflicts with mods that alter rendering, recipes, add entities, gui, smeltables or fuel.<br/><br/><i>NOTE: Do not install this with Forge. Forge has its own version of ModLoader that is backwards compatible with most ModLoader mods.</i></span></td>
 	<td>Risugami</td>
 	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
@@ -3825,28 +3832,28 @@
 
 <!--More Coals-->
 <tr>
-	<td><a href="http://bit.ly/121XYDl">More Coals</a></td> 
-	<td class="desctt"><span class="tt">Adds  more coals to the game and the ability to craft a saddle!</span></td> 
-	<td>MinecraftBuilder123</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/121XYDl">More Coals</a></td>
+	<td class="desctt"><span class="tt">Adds  more coals to the game and the ability to craft a saddle!</span></td>
+	<td>MinecraftBuilder123</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--MoreCrafts-->
 <tr>
-	<td><a href="http://bit.ly/WdrpjE">MoreCrafts</a></td> 
-	<td class="desctt"><span class="tt">"A mod that adds realistic ways to obtain items that can only be found in creative mode. Sponges naturally spawn, mobs can be caught using blank spawn eggs, and many new recipies are added as well. Other features include Empty Monster Spawners, Inversion Furnaces, and more!"</span></td> 
-	<td>absorr</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/WdrpjE">MoreCrafts</a></td>
+	<td class="desctt"><span class="tt">"A mod that adds realistic ways to obtain items that can only be found in creative mode. Sponges naturally spawn, mobs can be caught using blank spawn eggs, and many new recipies are added as well. Other features include Empty Monster Spawners, Inversion Furnaces, and more!"</span></td>
+	<td>absorr</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--More Enchantments Mod-->
 <tr>
-	<td><a href="http://bit.ly/Yzd1Aa">More Enchantments Mod</a></td> 
-	<td class="desctt"><span class="tt">Tired of the same Vanilla Enchantments? This mod adds 23 new unique and exciting enchantments. Each offering a unique perk to change the way you play Minecraft!</span></td> 
-	<td>glider521al</td> 
-	<td>SSP LAN</td> 
+	<td><a href="http://bit.ly/Yzd1Aa">More Enchantments Mod</a></td>
+	<td class="desctt"><span class="tt">Tired of the same Vanilla Enchantments? This mod adds 23 new unique and exciting enchantments. Each offering a unique perk to change the way you play Minecraft!</span></td>
+	<td>glider521al</td>
+	<td>SSP LAN</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -3871,10 +3878,10 @@
 
 <!--More Furnaces-->
 <tr>
-	<td><a href="http://bit.ly/13dry5y">More Furnaces</a></td> 
-	<td class="desctt"><span class="tt">Adds five furnaces to the game. An iron, a gold, a diamond, an obsidian and a netherrack furnace.</span></td> 
-	<td>CubeX2</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/13dry5y">More Furnaces</a></td>
+	<td class="desctt"><span class="tt">Adds five furnaces to the game. An iron, a gold, a diamond, an obsidian and a netherrack furnace.</span></td>
+	<td>CubeX2</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3993,10 +4000,10 @@
 
 <!--Mouse Tweaks-->
 <tr>
-	<td><a href="http://bit.ly/VxcJ9F">Mouse Tweaks</a></td> 
-	<td class="desctt"><span class="tt">Have you ever been tired of right clicking while crafting furnaces, chests or whatever? This client-side mod solves this problem! Just hold your right mouse button in one inventory slot and drag your mouse toward another.</span></td> 
-	<td>YaLTeR97</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/VxcJ9F">Mouse Tweaks</a></td>
+	<td class="desctt"><span class="tt">Have you ever been tired of right clicking while crafting furnaces, chests or whatever? This client-side mod solves this problem! Just hold your right mouse button in one inventory slot and drag your mouse toward another.</span></td>
+	<td>YaLTeR97</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -4012,19 +4019,19 @@
 
 <!--Multi Mine-->
 <tr>
-	<td><a href="http://bit.ly/VLfIAd">Multi Mine</a></td> 
-	<td class="desctt"><span class="tt">Makes it so you don't have to point nonstop on a Block, never letting go of the mouse button, to finish it off. You can start mining, pause, walk away, mine another block, come back and finish off the one you started previously.</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VLfIAd">Multi Mine</a></td>
+	<td class="desctt"><span class="tt">Makes it so you don't have to point nonstop on a Block, never letting go of the mouse button, to finish it off. You can start mining, pause, walk away, mine another block, come back and finish off the one you started previously.</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Multi Page Chest-->
 <tr>
-	<td><a href="http://bit.ly/13dry5y">Multi Page Chest</a></td> 
-	<td class="desctt"><span class="tt">Adds a new chest to the game: the Multi Page Chest. This chest can store up to 585 stacks of items. Don't have lacks of space anymore!</span></td> 
-	<td>CubeX2</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/13dry5y">Multi Page Chest</a></td>
+	<td class="desctt"><span class="tt">Adds a new chest to the game: the Multi Page Chest. This chest can store up to 585 stacks of items. Don't have lacks of space anymore!</span></td>
+	<td>CubeX2</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4040,10 +4047,10 @@
 
 <!--MusicCraft-->
 <tr>
-	<td><a href="http://bit.ly/12UCRxu">MusicCraft</a></td> 
-	<td class="desctt"><span class="tt">Adds musical instruments to the game.</span></td> 
-	<td>Ktos94852</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/12UCRxu">MusicCraft</a></td>
+	<td class="desctt"><span class="tt">Adds musical instruments to the game.</span></td>
+	<td>Ktos94852</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4059,10 +4066,10 @@
 
 <!--Mushroom Torch-->
 <tr>
-	<td><a href="http://bit.ly/15dyxg3">Mushroom Torch</a></td> 
-	<td class="desctt"><span class="tt">Adds two new torches into your game. The Red Mushroom Torch gives off light level at 12 and under, which is perfect for growing mushrooms indoors without having to worry about too much light killing your crop. The Brown Mushroom torch gives off light level at 4 and under, which is supposed to be the best light to grow mushrooms where you can still see. Unfortunately, monsters can still spawn with the use of these torches.</span></td> 
-	<td>Kinyoshi</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/15dyxg3">Mushroom Torch</a></td>
+	<td class="desctt"><span class="tt">Adds two new torches into your game. The Red Mushroom Torch gives off light level at 12 and under, which is perfect for growing mushrooms indoors without having to worry about too much light killing your crop. The Brown Mushroom torch gives off light level at 4 and under, which is supposed to be the best light to grow mushrooms where you can still see. Unfortunately, monsters can still spawn with the use of these torches.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -4093,12 +4100,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Mystcraft-->
 <tr>
 	<td><a href="http://binarymage.com/">Mystcraft</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Let's you write your own dimensions, known as ages.</span></td>
 	<td>XCompWiz</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4126,19 +4133,19 @@
 
 <!--Nether Eye-->
 <tr>
-	<td><a href="http://bit.ly/11Rud8a">Nether Eye</a></td> 
-	<td class="desctt"><span class="tt">This mod adds the "Nether Eye" to the game. Use it to find your way to a nether fortress. Crafted with ender pearl and magma cream.</span></td> 
-	<td>wuppy21</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/11Rud8a">Nether Eye</a></td>
+	<td class="desctt"><span class="tt">This mod adds the "Nether Eye" to the game. Use it to find your way to a nether fortress. Crafted with ender pearl and magma cream.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Nether Ores-->
 <tr>
-	<td><a href="http://bit.ly/VW7qTy">Nether Ores</a></td> 
-	<td class="desctt"><span class="tt">Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.</span></td> 
-	<td>power crystals</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VW7qTy">Nether Ores</a></td>
+	<td class="desctt"><span class="tt">Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4191,10 +4198,10 @@
 
 <!--Not Enough Items (NEI)-->
 <tr>
-	<td><a href="http://bit.ly/UvpH6y">Not Enough Items (NEI)</a></td> 
-	<td class="desctt"><span class="tt">NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.</span></td> 
-	<td>chicken_bones</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/UvpH6y">Not Enough Items (NEI)</a></td>
+	<td class="desctt"><span class="tt">NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.</span></td>
+	<td>chicken_bones</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4335,19 +4342,19 @@
 
 <!--Particle Decoration Mod-->
 <tr>
-	<td><a href="http://bit.ly/VXVTWj">Particle Decoration Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds a bunch of particle boxes which spread different types of particles into the air.</span></td> 
-	<td>SanAndreasP</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VXVTWj">Particle Decoration Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a bunch of particle boxes which spread different types of particles into the air.</span></td>
+	<td>SanAndreasP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Pet Bat-->
 <tr>
-	<td><a href="http://bit.ly/XpXW0p">Pet Bat</a></td> 
-	<td class="desctt"><span class="tt">Lets you tame and level-up bats, which will fight for you.</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XpXW0p">Pet Bat</a></td>
+	<td class="desctt"><span class="tt">Lets you tame and level-up bats, which will fight for you.</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4363,10 +4370,10 @@
 
 <!--Pig Grinder-->
 <tr>
-	<td><a href="http://bit.ly/XKMpZH">Pig Grinder</a></td> 
-	<td class="desctt"><span class="tt">Lets you attach a grinder to a pig's back which grinds meat out of it to give extra food.</span></td> 
-	<td>iChun</td> 
-	<td>SSP LAN</td> 
+	<td><a href="http://bit.ly/XKMpZH">Pig Grinder</a></td>
+	<td class="desctt"><span class="tt">Lets you attach a grinder to a pig's back which grinds meat out of it to give extra food.</span></td>
+	<td>iChun</td>
+	<td>SSP LAN</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -4382,10 +4389,10 @@
 
 <!--Pixel Pack-->
 <tr>
-	<td><a href="http://bit.ly/XA7ndU">Pixel Pack</a></td> 
-	<td class="desctt"><span class="tt">Ever wanted to make a peace of pixel art in Minecraft, but the default texture pack is not the right colours? Hate it when you edit the texture pack to suit, then you try it with the original texture and your art looks terrible? Well this is the mod for you!</span></td> 
-	<td>LacheeDomain</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/XA7ndU">Pixel Pack</a></td>
+	<td class="desctt"><span class="tt">Ever wanted to make a peace of pixel art in Minecraft, but the default texture pack is not the right colours? Hate it when you edit the texture pack to suit, then you try it with the original texture and your art looks terrible? Well this is the mod for you!</span></td>
+	<td>LacheeDomain</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4437,26 +4444,26 @@
 
 <!--PortalGun-->
 <tr>
-	<td><a href="http://bit.ly/14dknZW">PortalGun</a></td> 
-	<td class="desctt"><span class="tt">Lets you think with portals. In Minecraft.</span></td> 
-	<td>iChun</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/14dknZW">PortalGun</a></td>
+	<td class="desctt"><span class="tt">Lets you think with portals. In Minecraft.</span></td>
+	<td>iChun</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Power Converters-->
 <tr>
-	<td><a href="http://bit.ly/VW7qTy">Power Converters</a></td> 
-	<td class="desctt"><span class="tt">It's here! Finally, a way to wrangle all those power systems into one central location. PowerConverters understands IC2, BuildCraft, UniversalElectricity, and Railcraft steam.</span></td> 
-	<td>power crystals</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VW7qTy">Power Converters</a></td>
+	<td class="desctt"><span class="tt">It's here! Finally, a way to wrangle all those power systems into one central location. PowerConverters understands IC2, BuildCraft, UniversalElectricity, and Railcraft steam.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--PowerCraft-->
 <tr>
 	<td><a href="http://bit.ly/WD7pAz">PowerCraft</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds much content to the game in the form of decoration, storage, laser lights, logic, machines, chunker loaders, teleporters, transport,and others.</span></td>
 	<td>MightyPork</td>
 	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
@@ -4520,10 +4527,10 @@
 
 <!--Pumpkin-less Snow Golem-->
 <tr>
-	<td><a href="http://bit.ly/135GpNu">Pumpkin-less Snow Golem</a></td> 
-	<td class="desctt"><span class="tt">Removes the pumpkin from a snow golem's head.</span></td> 
-	<td>wuppy21</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/135GpNu">Pumpkin-less Snow Golem</a></td>
+	<td class="desctt"><span class="tt">Removes the pumpkin from a snow golem's head.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -4572,10 +4579,10 @@
 
 <!--Rancraft Penguins-->
 <tr>
-	<td><a href="http://bit.ly/Wdr4Nt">Rancraft Penguins</a></td> 
-	<td class="desctt"><span class="tt">Adds ten different species of penguins to your world.</span></td> 
-	<td>immediately</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Wdr4Nt">Rancraft Penguins</a></td>
+	<td class="desctt"><span class="tt">Adds ten different species of penguins to your world.</span></td>
+	<td>immediately</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4600,10 +4607,10 @@
 
 <!--Recipe Book-->
 <tr>
-	<td><a href="http://bit.ly/WnSwBj">Recipe Book</a></td> 
-	<td class="desctt"><span class="tt">This item, when used, opens up a GUI of every recipe that can be done. The items can not be touched, but you can read the tool tips. Left click moves to next recipe. Right click moves to previous recipe.</span></td> 
-	<td>Risugami</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/WnSwBj">Recipe Book</a></td>
+	<td class="desctt"><span class="tt">This item, when used, opens up a GUI of every recipe that can be done. The items can not be touched, but you can read the tool tips. Left click moves to next recipe. Right click moves to previous recipe.</span></td>
+	<td>Risugami</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -4709,10 +4716,10 @@
 
 <!--Ropes+-->
 <tr>
-	<td><a href="http://bit.ly/XpQKBn">Ropes+</a></td> 
-	<td class="desctt"><span class="tt">A merged and enhanced version of 303's "Elemental Arrows", SDK's "Grappling Hook", and DJRoslin's "Rope".</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XpQKBn">Ropes+</a></td>
+	<td class="desctt"><span class="tt">A merged and enhanced version of 303's "Elemental Arrows", SDK's "Grappling Hook", and DJRoslin's "Rope".</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4746,10 +4753,10 @@
 
 <!--Ruins-->
 <tr>
-	<td><a href="http://bit.ly/YnpS48">Ruins</a></td> 
-	<td class="desctt"><span class="tt">Spawns structures in your Minecraft worlds upon generation, similar to Villages or Strongholds. Every structure is defines by a template and configured to spawn under specific conditions, and all of that can be changed by you!</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YnpS48">Ruins</a></td>
+	<td class="desctt"><span class="tt">Spawns structures in your Minecraft worlds upon generation, similar to Villages or Strongholds. Every structure is defines by a template and configured to spawn under specific conditions, and all of that can be changed by you!</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4850,7 +4857,7 @@
 
 <!--Sign Tags-->
 <tr>
-	<td><a href="http://bit.ly/WnSwBj">Sign Tags</a></td> 
+	<td><a href="http://bit.ly/WnSwBj">Sign Tags</a></td>
 	<td class="desctt"><span class="tt">Adds tags with functions to signs. Function List:
 		<ul>
 			<li>[time] shows current time</li>
@@ -4863,9 +4870,9 @@
 				<ul>
 					<li>([temp], [humid] will no longer function in Nether.)</li>
 				</ul>
-		</ul></span></td> 
-	<td>Risugami</td> 
-	<td>SSP</td> 
+		</ul></span></td>
+	<td>Risugami</td>
+	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
@@ -4890,10 +4897,10 @@
 
 <!--Simply Hax-->
 <tr>
-	<td><a href="http://bit.ly/WXiosW">Simply Hax</a></td> 
-	<td class="desctt"><span class="tt">Simply Hax are plain cheating/utility modifications, which, unlike pretty much all other cheat mods, should not interfere with notch classes. Thus, they should be compatible with anything that isn't another cheat mod doing the same thing.</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/WXiosW">Simply Hax</a></td>
+	<td class="desctt"><span class="tt">Simply Hax are plain cheating/utility modifications, which, unlike pretty much all other cheat mods, should not interfere with notch classes. Thus, they should be compatible with anything that isn't another cheat mod doing the same thing.</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4936,28 +4943,28 @@
 
 <!--Slender - Reimagined-->
 <tr>
-	<td><a href="http://bit.ly/XwEYHR">Slender - Reimagined</a></td> 
-	<td class="desctt"><span class="tt">Adds eight pages that spawn randomly in your world within a certain distance of your spawn area. Oh, and Slenderman is watching.</span></td> 
-	<td>iChun</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XwEYHR">Slender - Reimagined</a></td>
+	<td class="desctt"><span class="tt">Adds eight pages that spawn randomly in your world within a certain distance of your spawn area. Oh, and Slenderman is watching.</span></td>
+	<td>iChun</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Slime Dungeons-->
 <tr>
-	<td><a href="http://bit.ly/15qHGD1">Slime Dungeons</a></td> 
-	<td class="desctt"><span class="tt">Adds slime dungeons to your game. When you come across one, will have a lot of slimeballs.</span></td> 
-	<td>wuppy21</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/15qHGD1">Slime Dungeons</a></td>
+	<td class="desctt"><span class="tt">Adds slime dungeons to your game. When you come across one, will have a lot of slimeballs.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Slimy Adventures-->
 <tr>
-	<td><a href="http://bit.ly/13gLhUE">Slimy Adventures</a></td> 
-	<td class="desctt"><span class="tt">SlimyAdventures will put you on a new adventure with new tools, armor, mobs, and "kinda new biome with new stuff". Fight against new mobs. Make your mining a lot easier with your new tools and get out killing loots of new mobs.</span></td> 
-	<td>kenty953</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/13gLhUE">Slimy Adventures</a></td>
+	<td class="desctt"><span class="tt">SlimyAdventures will put you on a new adventure with new tools, armor, mobs, and "kinda new biome with new stuff". Fight against new mobs. Make your mining a lot easier with your new tools and get out killing loots of new mobs.</span></td>
+	<td>kenty953</td>
+	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
@@ -5038,19 +5045,19 @@
 
 <!--Spawner GUI-->
 <tr>
-	<td><a href="http://bit.ly/WnSwBj">Spawner GUI</a></td> 
-	<td class="desctt"><span class="tt">Adds a GUI to all mob spawners that will allow you to pick what mob to spawn. Also allows mining/harvesting spawners. You may also disable the spawners with a redstone signal.</span></td> 
-	<td>Risugami</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/WnSwBj">Spawner GUI</a></td>
+	<td class="desctt"><span class="tt">Adds a GUI to all mob spawners that will allow you to pick what mob to spawn. Also allows mining/harvesting spawners. You may also disable the spawners with a redstone signal.</span></td>
+	<td>Risugami</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Special Mobs-->
 <tr>
-	<td><a href="http://bit.ly/VuOduI">Special Mobs</a></td> 
-	<td class="desctt"><span class="tt">Have you ever felt that your Minecraft monsters lacked variety? Randomized textures not enough? Well, here's a the solution! Introducing: the Special Mobs mod! In short, this small mod introduces variants to your default Minecraft mods, such as creepers with fiery explosions, skeletons that shoot poisoned arrows, and zombies that leap at you. Not only that, but it allows you adjust all vanilla spawn rates and even make jockeys more common!</span></td> 
-	<td>FatherToast</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VuOduI">Special Mobs</a></td>
+	<td class="desctt"><span class="tt">Have you ever felt that your Minecraft monsters lacked variety? Randomized textures not enough? Well, here's a the solution! Introducing: the Special Mobs mod! In short, this small mod introduces variants to your default Minecraft mods, such as creepers with fiery explosions, skeletons that shoot poisoned arrows, and zombies that leap at you. Not only that, but it allows you adjust all vanilla spawn rates and even make jockeys more common!</span></td>
+	<td>FatherToast</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5074,10 +5081,10 @@
 
 <!--Stalker Creepers-->
 <tr>
-	<td><a href="http://bit.ly/155OiWb">Stalker Creepers</a></td> 
-	<td class="desctt"><span class="tt">Makes creepers stalk you, blowing up only when you look.</span></td> 
-	<td>AtomicStryker</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/155OiWb">Stalker Creepers</a></td>
+	<td class="desctt"><span class="tt">Makes creepers stalk you, blowing up only when you look.</span></td>
+	<td>AtomicStryker</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5093,10 +5100,10 @@
 
 <!--StartingInventory-->
 <tr>
-	<td><a href="http://bit.ly/TWHHIG">StartingInventory</a></td> 
-	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>This mod gives you items and blocks each time you start a new world, just by editing a .txt file.</span></td> 
-	<td>bspkrs</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/TWHHIG">StartingInventory</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>This mod gives you items and blocks each time you start a new world, just by editing a .txt file.</span></td>
+	<td>bspkrs</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -5111,19 +5118,19 @@
 
 <!--Statues-->
 <tr>
-	<td><a href="http://bit.ly/XYb5z9">Statues</a></td> 
-	<td class="desctt"><span class="tt">Adds statue versions of mobs to the game.</span></td> 
-	<td>TheOneAndOnly717</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/XYb5z9">Statues</a></td>
+	<td class="desctt"><span class="tt">Adds statue versions of mobs to the game.</span></td>
+	<td>TheOneAndOnly717</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--StatusEffectHUD-->
 <tr>
-	<td><a href="http://bit.ly/WmtGCf">StatusEffectHUD</a></td> 
-	<td class="ml desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Displays your currently active potions/effects without having to open your inventory! </span></td> 
-	<td>bspkrs</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/WmtGCf">StatusEffectHUD</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>ModLoader Mod, bspkrsCore Required</u></big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Displays your currently active potions/effects without having to open your inventory! </span></td>
+	<td>bspkrs</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -5148,10 +5155,10 @@
 
 <!--Still Hungry!-->
 <tr>
-	<td><a href="http://bit.ly/UUqfYh">Still Hungry!</a></td> 
-	<td class="desctt"><span class="tt">Adds lots more food into your game, roughly around 50 items, which is more food than there actually is in Minecraft currently.</span></td> 
-	<td>17CupsOfCoffee</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/UUqfYh">Still Hungry!</a></td>
+	<td class="desctt"><span class="tt">Adds lots more food into your game, roughly around 50 items, which is more food than there actually is in Minecraft currently.</span></td>
+	<td>17CupsOfCoffee</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5317,19 +5324,19 @@
 
 <!--[Thaumcraft 3] Essentia Everything-->
 <tr>
-	<td><a href="http://bit.ly/Xhovos">[Thaumcraft 3] Essentia Everything</a></td> 
-	<td class="desctt"><span class="tt">This addon has two major features. Firstly, it automatically adds support for all ores, nuggets, ingots, and dusts registered with Forge's Ore Dictionary. Secondly, it adds the ability to add or adjust aspects for just about anything, vanilla or modded.</span></td> 
-	<td>Qwertygiy</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/Xhovos">[Thaumcraft 3] Essentia Everything</a></td>
+	<td class="desctt"><span class="tt">This addon has two major features. Firstly, it automatically adds support for all ores, nuggets, ingots, and dusts registered with Forge's Ore Dictionary. Secondly, it adds the ability to add or adjust aspects for just about anything, vanilla or modded.</span></td>
+	<td>Qwertygiy</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
 <!--The Amazopack-->
 <tr>
-	<td><a href="http://bit.ly/XSku9f">The Amazopack</a></td> 
-	<td class="desctt"><span class="tt">A small bundle of revived, adventure-themed mods.</span></td> 
-	<td>calebmanley</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/XSku9f">The Amazopack</a></td>
+	<td class="desctt"><span class="tt">A small bundle of revived, adventure-themed mods.</span></td>
+	<td>calebmanley</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5372,10 +5379,10 @@
 
 <!--The Crafters Mod-->
 <tr>
-	<td><a href="http://bit.ly/XXjssL">The Crafters Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds several new crafting recipes to the game.</span></td> 
-	<td>tjb12</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/XXjssL">The Crafters Mod</a></td>
+	<td class="desctt"><span class="tt">Adds several new crafting recipes to the game.</span></td>
+	<td>tjb12</td>
+	<td>SSP</td>
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
@@ -5436,10 +5443,10 @@
 
 <!--The Eternal Frost-->
 <tr>
-	<td><a href="http://bit.ly/YgdR0x">The Eternal Frost</a></td> 
-	<td class="desctt"><span class="tt">Ever wanted to see the inverse of the Nether? Travel to the "Eternal Frost" with this dimension mod.</span></td> 
-	<td>poiuytrezay</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YgdR0x">The Eternal Frost</a></td>
+	<td class="desctt"><span class="tt">Ever wanted to see the inverse of the Nether? Travel to the "Eternal Frost" with this dimension mod.</span></td>
+	<td>poiuytrezay</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5501,10 +5508,10 @@
 
 <!--The Mining Mod-->
 <tr>
-	<td><a href="http://bit.ly/YVCWyA">The Mining Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds many new ores, armors, tools, and weapons.</span></td> 
-	<td>CookieCake</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YVCWyA">The Mining Mod</a></td>
+	<td class="desctt"><span class="tt">Adds many new ores, armors, tools, and weapons.</span></td>
+	<td>CookieCake</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5611,10 +5618,10 @@
 
 <!--The Wild Grass Mod-->
 <tr>
-	<td><a href="http://bit.ly/YjuoTx">The Wild Grass Mod</a></td> 
-	<td class="desctt"><span class="tt">Creates a wild grass block that grows on top of existing grass blocks, which may then spread. Biome determines the max height of the grass.</span></td> 
-	<td>ejhopkins</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/YjuoTx">The Wild Grass Mod</a></td>
+	<td class="desctt"><span class="tt">Creates a wild grass block that grows on top of existing grass blocks, which may then spread. Biome determines the max height of the grass.</span></td>
+	<td>ejhopkins</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5740,7 +5747,7 @@
 
 <!--Trail Mix-->
 <tr>
-	<td><a href="http://bit.ly/YOigbZ">Trail Mix</a></td> 
+	<td><a href="http://bit.ly/YOigbZ">Trail Mix</a></td>
 	<td class="desctt"><span class="tt">
 <!--Start-->	Adds a single food item called "trail mix". This food item does plenty of crazy things when eaten.
 	<br/><br/>
@@ -5768,9 +5775,9 @@
 				<li>Excessive Headbanging</li>
 			</ul>
 <!--End-->		</ul>
-	</span></td> 
-	<td>iChun</td> 
-	<td>Universal</td> 
+	</span></td>
+	<td>iChun</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5804,19 +5811,19 @@
 
 <!--Trampoline Mod-->
 <tr>
-	<td><a href="http://bit.ly/X2UY5I">Trampoline Mod</a></td> 
-	<td class="desctt"><span class="tt">Adds a trampoline and padding. Could be useful for reaching tall places quickly.</span></td> 
-	<td>QuinceScott</td> 
-	<td>SSP</td> 
+	<td><a href="http://bit.ly/X2UY5I">Trampoline Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a trampoline and padding. Could be useful for reaching tall places quickly.</span></td>
+	<td>QuinceScott</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--TreeCapitator-->
 <tr>
-	<td><a href="http://bit.ly/TWHHIG">TreeCapitator</a></td> 
-	<td class="ml desctt"><span class="tt"><center><big class="d rpa">ModLoader Option, bspkrsCore Required</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.</span></td> 
-	<td>bspkrs</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/TWHHIG">TreeCapitator</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d rpa">ModLoader Option, bspkrsCore Required</big><br/><small class="d">This mod has separate ModLoader and Forge versions.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.</span></td>
+	<td>bspkrs</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -5840,10 +5847,10 @@
 
 <!--tukmc-->
 <tr>
-	<td><a href="http://bit.ly/XUn0Mp">tukmc</a></td> 
-	<td class="desctt"><span class="tt">A slick HUD mod that is inspired by the World of Warcraft addon, tukui.</span></td> 
-	<td>maxpowa</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/XUn0Mp">tukmc</a></td>
+	<td class="desctt"><span class="tt">A slick HUD mod that is inspired by the World of Warcraft addon, tukui.</span></td>
+	<td>maxpowa</td>
+	<td>Clientside Mod</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5992,10 +5999,10 @@
 
 <!--Useful Cheats-->
 <tr>
-	<td><a href="http://bit.ly/YsThdu">Useful Cheats</a></td> 
-	<td class="desctt"><span class="tt">Adds cheats to multiplayer.</span></td> 
-	<td>UnknownBob</td> 
-	<td>Clientside Mod</td> 
+	<td><a href="http://bit.ly/YsThdu">Useful Cheats</a></td>
+	<td class="desctt"><span class="tt">Adds cheats to multiplayer.</span></td>
+	<td>UnknownBob</td>
+	<td>Clientside Mod</td>
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
@@ -6029,10 +6036,10 @@
 
 <!--Utility Mobs-->
 <tr>
-	<td><a href="http://bit.ly/VuOduI">Utility Mobs</a></td> 
-	<td class="desctt"><span class="tt">Got a mod that makes monsters attack your base? Ever feel a bit spread thin trying to defend all 360 degrees, one degree at a time? Here's the solution: Utility Mobs! This mod adds additional golems built in the same fashion as vanilla golems, plus turrets, together forming the base of a good defense! Turrets and even certain golems can be upgraded to improve their effectiveness!</span></td> 
-	<td>FatherToast</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/VuOduI">Utility Mobs</a></td>
+	<td class="desctt"><span class="tt">Got a mod that makes monsters attack your base? Ever feel a bit spread thin trying to defend all 360 degrees, one degree at a time? Here's the solution: Utility Mobs! This mod adds additional golems built in the same fashion as vanilla golems, plus turrets, together forming the base of a good defense! Turrets and even certain golems can be upgraded to improve their effectiveness!</span></td>
+	<td>FatherToast</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -6082,10 +6089,10 @@
 
 <!--Wasteland Mod-->
 <tr>
-	<td><a href="http://bit.ly/15kbCkb">Wasteland Mod</a></td> 
-	<td class="desctt"><span class="tt">Its a nuclear fallout and the world is a wasteland, most dirt is stripped from the earth. In the Wasteland there are few plants, the animals and monsters are stronger & mutated. Nuclear blasts have removed many ores, key to survival. Can you survive the Wasteland?</span></td> 
-	<td>thegamingwolfs</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/15kbCkb">Wasteland Mod</a></td>
+	<td class="desctt"><span class="tt">Its a nuclear fallout and the world is a wasteland, most dirt is stripped from the earth. In the Wasteland there are few plants, the animals and monsters are stronger & mutated. Nuclear blasts have removed many ores, key to survival. Can you survive the Wasteland?</span></td>
+	<td>thegamingwolfs</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -6164,10 +6171,10 @@
 
 <!--Wireless Redstone: Chicken Bones Edition (WR-CBE)-->
 <tr>
-	<td><a href="http://bit.ly/UvpH6y">Wireless Redstone: Chicken Bones Edition (WR-CBE)</a></td> 
-	<td class="desctt"><span class="tt">In its simplest this is a mod that allows you to transmit your redstone state wirelessly. Even if you dont use redstone this mod could still be for you. Found an awesome landscape you'd like to mark, a cool cave to explore, or keep losing your way from base to base? Ever wished that compass pointed somewhere else or there was a way to mark things on a map. Well now there is. With the wireless addons component of this mod you can use wireless signals for navigation.</span></td> 
-	<td>chicken_bones</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/UvpH6y">Wireless Redstone: Chicken Bones Edition (WR-CBE)</a></td>
+	<td class="desctt"><span class="tt">In its simplest this is a mod that allows you to transmit your redstone state wirelessly. Even if you dont use redstone this mod could still be for you. Found an awesome landscape you'd like to mark, a cool cave to explore, or keep losing your way from base to base? Ever wished that compass pointed somewhere else or there was a way to mark things on a map. Well now there is. With the wireless addons component of this mod you can use wireless signals for navigation.</span></td>
+	<td>chicken_bones</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -6231,10 +6238,10 @@
 
 <!--Xeno's Reliquary-->
 <tr>
-	<td><a href="http://bit.ly/XRhcab">Xeno's Reliquary</a></td> 
-	<td class="desctt"><span class="tt">Adds miscellaneous magical items to the game that may go well with certain other mods.</span></td> 
-	<td>x3n0ph0b3</td> 
-	<td>Universal</td> 
+	<td><a href="http://bit.ly/XRhcab">Xeno's Reliquary</a></td>
+	<td class="desctt"><span class="tt">Adds miscellaneous magical items to the game that may go well with certain other mods.</span></td>
+	<td>x3n0ph0b3</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -6397,6 +6404,14 @@
 
 <div class="footer">
 	Mod count: <b>667</b>
+</div>
+
+<div class="API">
+	<a href="http://bit.ly/forge-dl">Forge</a> |
+	<a href="http://bit.ly/TGlcZA">GuiAPI</a> |
+	<a href="http://bit.ly/WnSwBj">ModLoader</a> | 
+	<a href="http://bit.ly/WnR9CL">Player API</a> | 
+	<a href="http://bit.ly/13U9b8y">Render Player API</a>
 </div>
 
 
