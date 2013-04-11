@@ -4,9 +4,11 @@ font-family:verdana,arial;
 font-size:13px;
 margin:0 auto;
 text-align: center;
+color:white;
 }
 
 table {
+	color:black;
     margin-left:auto; 
     margin-right:auto;
 }
@@ -32,11 +34,12 @@ table.modlist th {
 	color:white;
 }
 
-input {border:solid 2px darkgray;}
+input {border:solid 1px gray;
+	color:black;}
 
 /*Stuff to center specific columns*/
 table.modlist td:nth-of-type(1) { text-align: left; }
-table.modlist td:nth-of-type(2) { /*display:none;*/ }
+table.modlist td:nth-of-type(2) { /*display:none;*/ 		text-align: left;}
 table.modlist td:nth-of-type(3) { text-align: center; }
 table.modlist td:nth-of-type(4) {text-align: center; font-weight: bold;}
 table.modlist td:nth-of-type(5) {text-align: center; text-decoration: underline;}
@@ -89,6 +92,9 @@ i.w			{color:#ff8181;}
 }
 
 .desctt:hover		{background:transparent url(../images/hdesc.png) center center no-repeat;}
+.desctt:hover > .tt {
+display:block;
+}
 
 .desctt:hover span {
 	border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
@@ -115,7 +121,7 @@ i.w			{color:#ff8181;}
 	font-family: Candara, Tahoma, Geneva, sans-serif; font-size: 1.2em; font-weight: bold;
 	display: block; padding: 0.2em 0 0.6em 0;}
 	
-.tt { padding: 0.8em 1em; background: black; border: 3px double white; color:white; font-weight:bold;}
+.tt { padding: 0.8em 1em; background: black; border: 3px double white; color:white; font-weight:bold; display:none;}
 /*/*/
 
 .searchEmpty	{color: lightgray;} /*This element borrowed from Vattic alongside his javascript code*/

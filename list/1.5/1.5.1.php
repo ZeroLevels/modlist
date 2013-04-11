@@ -3,7 +3,7 @@
 
 <head>
 
-	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 
 	<title>MCF Mod List - 1.5.1</title>
 	
@@ -12,6 +12,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/common.css" media="screen" />
 	
 </head>
   
@@ -39,7 +40,7 @@
 				
 	<br><hr width="99%" size="6" noshade>
 		
-	<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or in the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span> if ZeroLevels or ImperialFeline is available. Make sure to search for it here first.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
+	<p class="padded">If you know of a mod that's not on this list, please let us know. There are three ways to inform us of new mods. If you have an account on the Minecraft Forums, leave a post in the suggestion thread <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or drop by the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span>. If you wish to remain anonymous, you may use the submission form <a href="/list/submit/">here</a>. Please check to see if the mod is on the list already before suggesting.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
 	
 	<table class="listnav nav major">
 		<thead>
@@ -203,6 +204,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Attachable Grinder-->
+<tr>
+	<td><a href="http://bit.ly/ichun-attachablegrinder">Attachable Grinder</a></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">iChun Util Required:</big><br/>See <i class="d">bit.ly/ichun-util</i></center><br/>Lets you attach a grinder to mobs, which will grind out the stuff it's made of.</span></td>
+	<td>iChun</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--AudioMod (API)-->
 <tr>
 	<td><a href="http://bit.ly/WnSwBj">AudioMod</a> (API)</td>
@@ -239,6 +249,15 @@
 	<td>Eydamos</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Back Tools-->
+<tr>
+	<td><a href="http://bit.ly/Y2JOcJ">Back Tools</a></td>
+	<td class="desctt"><span class="tt">Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.</span></td>
+	<td>iChun</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--BatsDropLeather-->
@@ -293,6 +312,15 @@
 	<td>senpaisubaraki</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Better Farming-->
+<tr>
+	<td><a href="http://bit.ly/Xu1KfY">Better Farming</a></td>
+	<td class="desctt"><span class="tt">Adds several seeds, trees, tools, fruits, recipes, and a scarecrow.</span></td>
+	<td>iBlackShadow</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Better Furnaces-->
@@ -363,6 +391,24 @@
 	<td><a href="http://bit.ly/TWHHIG">BlockBreaker / ConnectedDestruction</a></td>
 	<td class="d desctt"><span class="tt"><center><big class="d bc" style="max-width: 10px"><u>bspkrsCore Required</u></big><br/>For bspkrsCore, see <i class="d">bit.ly/bspkrscore</i></center><br/>Allows you to define a list of blocks that will break in a chain reaction when an adjacent block of the same type is broken.</span></td>
 	<td>bspkrs</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Bookz-->
+<tr>
+	<td><a href="http://bit.ly/14cJRw6">Bookz</a></td>
+	<td class="desctt"><span class="tt">"Wrote a book with 40 pages of text? Want to delete the first? Want to copy the book? Want to save it to your disk and use it later? Want to swap pages? Want to copy books from one server to another? Want to copy a long, long text into a book? Stop dreaming - use Bookz."</span></td>
+	<td>mmdev</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Booze-->
+<tr>
+	<td><a href="http://bit.ly/12Lcw6v">Booze</a></td>
+	<td class="desctt"><span class="tt">Allows you to brew beer and wine, adds grape vines, hops, and heather. Red wine and 4 varieties of beer: normal, pre-11th century ale, Irish stout, and Scotish beer (heather ale).</span></td>
+	<td>rbdyck</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -578,6 +624,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Coral Reef Mod-->
+<tr>
+	<td><a href="http://bit.ly/16QCciD">Coral Reef Mod</a></td>
+	<td class="desctt"><span class="tt">Adds some plants and blocks to the bottom of the sea.</span></td>
+	<td>q3hardcore</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Corn Nuts-->
 <tr>
 	<td><a href="http://bit.ly/15Hk2SO">Corn Nuts</a></td>
@@ -748,6 +803,15 @@
 	<td><a href="http://bit.ly/Uvusgl">Dimensional Anchors</a></td>
 	<td class="desctt"><span class="tt">This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.</span></td>
 	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Dimensional Doors-->
+<tr>
+	<td><a href="http://bit.ly/VqmBTA">Dimensional Doors</a></td>
+	<td class="desctt"><span class="tt">Adds doors to Minecraft that open up to individual pocket Dimensions. In addition to these doors, it also adds several other features that help the player manipulate reality, forming rifts, linking dimensions, and even sending him to places he really should have never been.</span></td>
+	<td>stevenrs11</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1204,6 +1268,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Hats-->
+<tr>
+	<td><a href="http://bit.ly/14814a3">Hats</a></td>
+	<td class="desctt"><span class="tt">Adds an Aesthetic feature onto players, namely Hats! Comes pre-packaged with 77 hats which will automatically get installed when the mod is run for the first time.</span></td>
+	<td>iChun</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Haycraft-->
 <tr>
 	<td><a href="http://bit.ly/UA9Aq0">Haycraft</a></td>
@@ -1279,6 +1352,15 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--ID Resolver-->
+<tr>
+	<td><a href="http://bit.ly/IDResolver">ID Resolver</a></td>
+	<td class="desctt"><span class="tt">Removes ID conflicts for blocks and items with mods, with extra options for detailed ID Reports and such.</span></td>
+	<td>ShaRose</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Immibis Core-->
 <tr>
 	<td><a href="http://bit.ly/Uvusgl">Immibis Core</a> (Dependency)</td>
@@ -1339,6 +1421,15 @@
 	<td class="desctt"><span class="tt">Display various information directly only you ingame screen.</span></td>
 	<td>Lunatrius</td>
 	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Invasion Mod-->
+<tr>
+	<td><a href="http://bit.ly/TWMBpa">Invasion Mod</a></td>
+	<td class="desctt"><span class="tt">Gives you the ability to initiate an attack on the location of your choosing. The difficulty steadily ramps up and the mobs are designed to deal with base defenses. The behaviour of all invading mobs has been extensively revamped. Most mobs have new abilities and in this beta stage there are some new mobs and substantially more powerful mobs on the way, geared towards new roles.</span></td>
+	<td>Lieu</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1411,6 +1502,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Kitchens-->
+<tr>
+	<td><a href="http://bit.ly/Xt4yyx">Kitchens</a></td>
+	<td class="desctt"><span class="tt">Adds cupboards that work similar to chests and counter tops that work like crafting tables, but take up a 1/8th a block, and can be placed at either top or bottom of a block, much like trap doors.</span></td>
+	<td>rbdyck</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------L-------------------------------------------------------->
 
@@ -1419,6 +1519,15 @@
 	<td><a href="http://bit.ly/VuOduI">Lava Monsters</a></td>
 	<td class="desctt"><span class="tt">If you've ever found yourself bored once you mine down to lava because it stops hostile mobs from spawning, then this is the mod for you! This is a small mod that adds a new hostile monster to the game that spawns in lava and spits fireballs at you.</span></td>
 	<td>FatherToast</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--LegendGear-->
+<tr>
+	<td><a href="http://bit.ly/Xdffov">LegendGear</a></td>
+	<td class="desctt"><span class="tt">A mod inspired by The Legend of Zelda and other classic games, providing new weapons, consumables, and accessories, as well as adding a couple new plants to world generation.</span></td>
+	<td>NMcCoy</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1561,6 +1670,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Mithril-->
+<tr>
+	<td><a href="http://bit.ly/10pK0Vf">Mithril</a></td>
+	<td class="desctt"><span class="tt">Introduces several ores and Mithril metal to the game.</span></td>
+	<td>rbdyck</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--Mo' Creatures-->
 <tr>
 	<td><a href="http://bit.ly/UvyxRJ">Mo' Creatures</a></td>
@@ -1568,6 +1686,24 @@
 	<td>DrZhark</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Mob Amputation-->
+<tr>
+	<td><a href="http://bit.ly/Y3FdY0">Mob Amputation</a></td>
+	<td class="desctt"><span class="tt">Lets you cut off the arms and head of some mobs. Also, blood particles!</span></td>
+	<td>iChun</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Mob Dismemberment-->
+<tr>
+	<td><a href="http://bit.ly/Yb1iXi">Mob Dismemberment</a></td>
+	<td class="desctt"><span class="tt">Some mobs fall apart whenever you kill them.</span></td>
+	<td>iChun</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Mob Filter Mod-->
@@ -1807,6 +1943,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Note Block Display-->
+<tr>
+	<td><a href="http://bit.ly/1512XEI">Note Block Display</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them.<br/><br/>Created by ImRaginBro, maintained by xaero_.</span></td>
+	<td>xaero_</td>
+	<td>SSP SMP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--No Voidfog-->
 <tr>
 	<td><a href="http://bit.ly/Ty9cf2">No Voidfog</a> (or Dimming)</td>
@@ -1912,6 +2057,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--PrimitiveCraft-->
+<tr>
+	<td><a href="http://bit.ly/TWWyTp">PrimitiveCraft</a></td>
+	<td class="desctt"><span class="tt">Adds new tools, armor and food! You also can dismantle certain items to get resources back.</span></td>
+	<td>Kitteh6660</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--ProSthetics-->
 <tr>
 	<td><a href="http://bit.ly/YVcpnT">ProSthetics</a></td>
@@ -1954,6 +2108,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Rainbow XP Mod-->
+<tr>
+	<td><a href="http://bit.ly/VFLnjG">Rainbow XP Mod</a></td>
+	<td class="desctt"><span class="tt">Changes the colours of the xp orbs into a randomized colour.</span></td>
+	<td>AmazedStream</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Rancraft Penguins-->
 <tr>
 	<td><a href="http://bit.ly/Wdr4Nt">Rancraft Penguins</a></td>
@@ -1961,6 +2124,15 @@
 	<td>immediately</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--RealLan-->
+<tr>
+	<td><a href="http://bit.ly/13b7p14">RealLan</a></td>
+	<td class="desctt"><span class="tt">Adds more to your lan server. It gives you many necessary commands like /ban,/kick,/whitelist,/op, and all other real Minecraft Server commands.</span></td>
+	<td>RealLan</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
 <!--RecallStoneTMD-->
@@ -2021,6 +2193,15 @@
 	<td><a href="http://bit.ly/TGjeZl">Reptile Mod</a></td>
 	<td class="desctt"><span class="tt">Adds various reptile mobs to the game.</span></td>
 	<td>crackedEgg</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Retractable Ladders-->
+<tr>
+	<td><a href="http://bit.ly/146oXPg">Retractable Ladders</a></td>
+	<td class="desctt"><span class="tt">Adds two new blocks to the game: A retractable ladder machine and a rope ladder to fill it up with. It works in both the client and the server.</span></td>
+	<td>chupmacabre</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2340,6 +2521,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Herbology Mod-->
+<tr>
+	<td><a href="http://bit.ly/14bIvlb">The Herbology Mod</a></td>
+	<td class="desctt"><span class="tt">A new way to approach medicine and brewing in Minecraft! Plant lovers will finally be able to make some powerful new medicines and hunt down and harvest for a large number of ingredients. And with over 16 new herbs to find, there's plenty to explore and try out before finding something that works for you!</span></td>
+	<td>CaptainFord</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Mists of RioV-->
 <tr>
 	<td><a href="http://bit.ly/10qPe6k">The Mists of RioV</a></td>
@@ -2372,6 +2562,15 @@
 	<td><a href="http://bit.ly/13dBw7b">The Wars Mod</a></td>
 	<td class="desctt"><span class="tt">Adds a massive array of structures. From Spleef to hunger games! As well as special blocks, a new ore and a class system.</span></td>
 	<td>resinresin</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Thermal Expansion-->
+<tr>
+	<td><a href="http://bit.ly/UxhiF3">Thermal Expansion</a> (Beta)</td>
+	<td class="desctt"><span class="tt">Adds machines with functionality to increase output, as well as ways to store and transport energy and liquids. Works well with Buildcraft, but it's not required!</span></td>
+	<td>KingLemmingCoFH</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2415,30 +2614,7 @@
 <!--Trail Mix-->
 <tr>
 	<td><a href="http://bit.ly/YOigbZ">Trail Mix</a></td>
-	<td class="d desctt"><span class="tt"><center><big class="d">iChun Util Required:</big><br/>See <i class="d">bit.ly/ichun-util</i></center><br/>
-<!--Start-->	Adds a single food item called "trail mix". This food item does plenty of crazy things when eaten.
-	<br/><br/>
-	<ul>
-		<li><u>It grants you:</u></li>
-			<ul>
-				<li>Super Punch (with comic explosion effects!)</li>
-				<li>Super Speed (even without sprinting!)</li>
-				<li>Dispense Fireballs with Middle mouse in an empty hand, once you've eaten enough! (Shooting beneath you "rocket jumps" you up!)</li>
-				<li>Fall Dampening (with *poof* effect!)</li>
-			</ul>
-	</ul>
-	<br/>
-	Only someone like you would eat it... But wait! Perhaps the critters would like them too? Unfortunately, all the animals turn their heads at trail mix... all but the pig! Give the pig some trail mix and watch what happens!
-	<br/>
-	<ul>
-		<li><u>It grants pigs:</u></li>
-			<ul>
-				<li>High Pressure Flatulence (pressure so high, you'll fly!)</li>
-				<li>Explosive Collision Nature (watch where you leave 'em pigs!)</li>
-				<li>Excessive Headbanging</li>
-			</ul>
-<!--End-->		</ul>
-	</span></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">iChun Util Required:</big><br/>See <i class="d">bit.ly/ichun-util</i></center><br/>Adds all sort of crazy stuff. No really, there's freaking nyan pigs, pig launchers, powerfully pooting pigs, and cartoony "POW" and "BAM" shoot icons!</td>
 	<td>iChun</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td><!--Version Independent-->
@@ -2607,6 +2783,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Warfield 3-->
+<tr>
+	<td><a href="http://bit.ly/13dC114">Warfield 3</a></td>
+	<td class="desctt"><span class="tt">Adds highly customizable guns to the game.</span></td>
+	<td>Stuuupiiid</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--WarZ Mod-->
+<tr>
+	<td><a href="http://bit.ly/YIpCSH">WarZ Mod</a></td>
+	<td class="desctt"><span class="tt">"The WarZ Mod includes the game WarZ into Minecraft. It has over 20 new Items and is also Multiplayer compatible."</span></td>
+	<td>ByteBit</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--Weather & Tornadoes-->
 <tr>
 	<td><a href="http://bit.ly/15XagLv">Weather & Tornadoes</a></td>
@@ -2702,7 +2896,7 @@
 </table><br/>
 
 <div class="footer count">
-	Mod count: <b>276</b>
+	Mod count: <b>300</b>
 </div>
 
 <div class="API">

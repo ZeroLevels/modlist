@@ -1,4 +1,12 @@
-(April/02/2013)
+(April/10/2013)
+	*Updated "Warfield 3" info: Now "Universal", Added description
+	*Updated "Mo' Foliage" info: Now "Universal", Added description
+	*Updated "Dimensional Doors" info: Now "Universal", Added description
+	*Updated "Better Farming" info: Added description
+	*Updated "Invasion Mod" info: Added description
+	*Updated "Forestry" info: Changed Description
+
+(April/07/2013)
 	*Updated "PowerCraft" info: Added description
 	*Updated "Mystcraft" info: Now "Universal", Added description
 	*Updated "Applied Energistics" info: Changed Link

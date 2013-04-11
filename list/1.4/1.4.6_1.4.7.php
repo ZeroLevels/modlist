@@ -3,7 +3,7 @@
 
 <head>
 
-	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 	
 	<title>MCF Mod List - 1.4.6/1.4.7</title>
 	
@@ -12,6 +12,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/common.css" media="screen" />
 	
 </head>
   
@@ -39,7 +40,7 @@
 				
 	<br><hr width="99%" size="6" noshade>
 		
-	<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or in the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span> if ZeroLevels or ImperialFeline is available. Make sure to search for it here first.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
+	<p class="padded">If you know of a mod that's not on this list, please let us know. There are three ways to inform us of new mods. If you have an account on the Minecraft Forums, leave a post in the suggestion thread <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or drop by the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span>. If you wish to remain anonymous, you may use the submission form <a href="/list/submit/">here</a>. Please check to see if the mod is on the list already before suggesting.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
 	
 	<table class="listnav nav major">
 		<thead>
@@ -415,10 +416,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Better Farming-->
 <tr>
 	<td><a href="http://bit.ly/Xu1KfY">Better Farming</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds several seeds, trees, tools, fruits, recipes, and a scarecrow.</span></td>
 	<td>iBlackShadow</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -574,10 +575,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--BigTrees-->
 <tr>
 	<td><a href="http://bit.ly/UPCzHf">BigTrees</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt"><!--INFO--></span></td>
 	<td>Karob</td>
 	<td>SSP SMP</td>
 	<td class="fc">Forge Compatible</td>
@@ -826,10 +827,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Thermal Expansion-->
 <tr>
-	<td><a href="http://bit.ly/UxhiF3">[Buildcraft] Thermal Expansion</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/UxhiF3">Thermal Expansion</a></td>
+	<td class="desctt"><span class="tt">Adds machines with functionality to increase output, as well as ways to store and transport energy and liquids. Works well with Buildcraft, but it's not required!</span></td>
 	<td>KingLemmingCoFH</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -1641,12 +1642,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Dimensional Doors-->
 <tr>
 	<td><a href="http://bit.ly/VqmBTA">Dimensional Doors</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds doors to Minecraft that open up to individual pocket Dimensions. In addition to these doors, it also adds several other features that help the player manipulate reality, forming rifts, linking dimensions, and even sending him to places he really should have never been.</span></td>
 	<td>stevenrs11</td>
-	<td>N/A</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2195,22 +2196,7 @@
 <!--Forestry-->
 <tr>
 	<td><a href="http://bit.ly/YVPSHD">Forestry</a> (Beta)</td>
-	<td class="desctt"><span class="tt">
-<ul>
-	<li>Automatic Farms</li>
-	<li>Bee breeding</li>
-	<li>Tree breeding</li>
-	<li>Intelligent Backpacks</li>
-	<li>Mail System</li>
-	<li>Energy Production</li>
-	<li>Compatibility with most mods, notably:
-		<ul>
-			<li>Buildcraft</li>
-			<li>IndustrialCraft 2</li>
-			<li>Railcraft</li>
-			<li>RedPower 2.</li>
-		</ul>
-</ul></span></td>
+	<td class="desctt"><span class="tt">Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.</span></td>
 	<td>SirSengir</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -3067,10 +3053,10 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Invasion Mod-->
 <tr>
 	<td><a href="http://bit.ly/TWMBpa">Invasion Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Gives you the ability to initiate an attack on the location of your choosing. The difficulty steadily ramps up and the mobs are designed to deal with base defenses. The behaviour of all invading mobs has been extensively revamped. Most mobs have new abilities and in this beta stage there are some new mobs and substantially more powerful mobs on the way, geared towards new roles.</span></td>
 	<td>Lieu</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -3690,12 +3676,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Mo' Foliage-->
 <tr>
 	<td><a href="http://bit.ly/UAoujP">Mo' Foliage</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds about 20 flowers, naturally generated, some are biome specific. All of the flowers have special features.</span></td>
 	<td>Andy3285</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4595,10 +4581,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--RealLan-->
 <tr>
 	<td><a href="http://bit.ly/13b7p14">RealLan</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds more to your lan server. It gives you many necessary commands like /ban,/kick,/whitelist,/op, and all other real Minecraft Server commands.</span></td>
 	<td>RealLan</td>
 	<td>Clientside Mod</td>
 	<td class="nfc">Not Forge Compatible</td>
@@ -5748,34 +5734,7 @@
 <!--Trail Mix-->
 <tr>
 	<td><a href="http://bit.ly/YOigbZ">Trail Mix</a></td>
-	<td class="desctt"><span class="tt">
-<!--Start-->	Adds a single food item called "trail mix". This food item does plenty of crazy things when eaten.
-	<br/><br/>
-	<ul>
-		<li><u>It grants you:</u></li>
-			<ul>
-				<li>Super Punch (with comic explosion effects!)</li>
-				<li>Super Speed (even without sprinting!)</li>
-				<li>Dispense Fireballs with Middle mouse in an empty hand, once you’ve eaten enough! (Shooting beneath you “rocket jumps” you up!)</li>
-				<li>Fall Dampening (with *poof* effect!)</li>
-			</ul>
-	</ul>
-	<br/><br/>
-	Only someone like you would eat it… But wait! Perhaps the critters would like them too?
-	<br/><br/>
-	Unfortunately, all the animals turn their heads at trail mix… all but the pig!
-	<br/><br/>
-	Give the pig some trail mix and watch what happens!
-	<br/><br/>
-	<ul>
-		<li><u>It grants pigs:</u></li>
-			<ul>
-				<li>High Pressure Flatulence (pressure so high, you’ll fly!)</li>
-				<li>Explosive Collision Nature (watch where you leave ‘em pigs!)</li>
-				<li>Excessive Headbanging</li>
-			</ul>
-<!--End-->		</ul>
-	</span></td>
+	<td class="desctt"><span class="tt">Adds all sort of crazy stuff. No really, there's freaking nyan pigs, pig launchers, powerfully pooting pigs, and cartoony "POW" and "BAM" shoot icons!</span></td>
 	<td>iChun</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -5802,7 +5761,7 @@
 <!--|-->
 <tr>
 	<td><a href="http://bit.ly/108xZcx">Treefeller</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt"><!--INFO--></span></td>
 	<td>kingjpc</td>
 	<td>SSP SMP</td>
 	<td class="fc">Forge Compatible</td>
@@ -6077,12 +6036,12 @@
 
 <!----------------------------------------------------------W-------------------------------------------------------->
 
-<!--|-->
+<!--Warfield 3-->
 <tr>
 	<td><a href="http://bit.ly/13dC114">Warfield 3</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds highly customizable guns to the game.</span></td>
 	<td>Stuuupiiid</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 

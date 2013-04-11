@@ -3,7 +3,7 @@
 
 <head>
 
-	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 	
 	<title>MCF Mod List - 1.5.0</title>
 	
@@ -12,6 +12,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/common.css" media="screen" />
 	
 </head>
   
@@ -39,7 +40,7 @@
 				
 	<br><hr width="99%" size="6" noshade>
 		
-	<p>If you know of a mod that's not on this list, please leave a post on the Minecraft Forums <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or in the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span> if ZeroLevels or ImperialFeline is available. Make sure to search for it here first.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
+	<p class="padded">If you know of a mod that's not on this list, please let us know. There are three ways to inform us of new mods. If you have an account on the Minecraft Forums, leave a post in the suggestion thread <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or drop by the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span>. If you wish to remain anonymous, you may use the submission form <a href="/list/submit/">here</a>. Please check to see if the mod is on the list already before suggesting.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
 	
 	<table class="listnav nav major">
 		<thead>
@@ -717,22 +718,7 @@
 
 <!--Forestry-->
 <tr>
-	<td><a href="http://bit.ly/Sk5Snp">Forestry</a></td><td class="desctt"><span class="tt">
-	<ul>
-		<li>Automatic Farms</li>
-		<li>Bee breeding</li>
-		<li>Tree breeding</li>
-		<li>Intelligent Backpacks</li>
-		<li>Mail System</li>
-		<li>Energy Production</li>
-		<li>Compatibility with most mods, notably:
-			<ul>
-				<li>Buildcraft</li>
-				<li>IndustrialCraft 2</li>
-				<li>Railcraft</li>
-				<li>RedPower 2.</li>
-			</ul>
-	</ul></span></td>
+	<td><a href="http://bit.ly/Sk5Snp">Forestry</a></td><td class="desctt"><span class="tt">Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.</span></td>
 	<td>SirSengir</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -1132,6 +1118,15 @@
 	<td><a href="http://bit.ly/ZJdluZ">Minor Alchemy</a></td>
 	<td class="desctt"><span class="tt">Alchemy in its rawest form; take matter and make matter. It works for both Clients and Servers. Please know that server owners can change the universal CV lists, so if an item has a different CV on the server than your client or it doesn't have one when it usually does, this is probably why.</span></td>
 	<td>Guff</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Mo' Foliage-->
+<tr>
+	<td><a href="http://bit.ly/UAoujP">Mo' Foliage</a></td>
+	<td class="desctt"><span class="tt">Adds about 20 flowers, naturally generated, some are biome specific. All of the flowers have special features.</span></td>
+	<td>Andy3285</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1846,30 +1841,7 @@
 <!--Trail Mix-->
 <tr>
 	<td><a href="http://bit.ly/YOigbZ">Trail Mix</a></td>
-	<td class="d desctt"><span class="tt"><center><big class="d">iChun Util Required:</big><br/>See <i class="d">bit.ly/ichun-util</i></center><br/>
-<!--Start-->	Adds a single food item called "trail mix". This food item does plenty of crazy things when eaten.
-	<br/><br/>
-	<ul>
-		<li><u>It grants you:</u></li>
-			<ul>
-				<li>Super Punch (with comic explosion effects!)</li>
-				<li>Super Speed (even without sprinting!)</li>
-				<li>Dispense Fireballs with Middle mouse in an empty hand, once you've eaten enough! (Shooting beneath you "rocket jumps" you up!)</li>
-				<li>Fall Dampening (with *poof* effect!)</li>
-			</ul>
-	</ul>
-	<br/>
-	Only someone like you would eat it... But wait! Perhaps the critters would like them too? Unfortunately, all the animals turn their heads at trail mix... all but the pig! Give the pig some trail mix and watch what happens!
-	<br/>
-	<ul>
-		<li><u>It grants pigs:</u></li>
-			<ul>
-				<li>High Pressure Flatulence (pressure so high, you'll fly!)</li>
-				<li>Explosive Collision Nature (watch where you leave 'em pigs!)</li>
-				<li>Excessive Headbanging</li>
-			</ul>
-<!--End-->		</ul>
-	</span></td>
+	<td class="d desctt"><span class="tt"><center><big class="d">iChun Util Required:</big><br/>See <i class="d">bit.ly/ichun-util</i></center><br/>Adds all sort of crazy stuff. No really, there's freaking nyan pigs, pig launchers, powerfully pooting pigs, and cartoony "POW" and "BAM" shoot icons!</span></td>
 	<td>iChun</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td><!--Version Independent-->
@@ -2058,7 +2030,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>202</b>
+	Mod count: <b>204</b>
 </div>
 
 <div class="API">

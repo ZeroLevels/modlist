@@ -3,20 +3,22 @@ body			{text-align:center;
 				background-image:url('../images/mcf_1_3rd.png');
 				margin:0 auto;
 				margin-top:4px;}
+				
+#main			{text-align:center;}
+				
+a 				{color:#3072B3;}
+a:hover			{color:#30B372;}
 			
 p				{color:white;
-				font-size: 18px;
 				padding:3px;}
 				
 p.small			{font-size: 12px;}
-				
-p.n				{text-shadow: 1px 1px 10px gray;}
 
 p.select		{background-color:black;}
 
-span.section		{font-size: 36px;
+span.section	{font-size: 36px;
 				font-weight:bold;}
 
 span.selection	{font-size: 24px;}
 
-th,td		{padding:3px;}
+th,td			{padding:3px;}

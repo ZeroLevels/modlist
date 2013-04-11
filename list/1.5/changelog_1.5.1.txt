@@ -1,3 +1,34 @@
+(April/10/2013)
+	/Changed it so descriptions do not exist until you hover over its element. No perceivable change to the end user aside from them no longer being found in a ctrl+f search. Perhaps a slightly faster load time overall as well.
+	/Added mod submission form for those who wish to submit mods to the list while also remaining anonymous. See bit.ly/modlist-submit
+	*Updated "Trail Mix" info: Shortened Description (now with 50% more silliness)
+	+Added 5 mods by iChun (Which are the following)
+		+Added "Attachable Grinder"
+		+Added "Back Tools"
+		+Added "Hats"
+		+Added "Mob Amputation"
+		+Added "Mob Dismemberment"
+	+Added 3 mods by rbdyck (Which are the following)
+		+Added "Mithril"
+		+Added "Booze"
+		+Added "Kitchens"
+	+Added "Note Block Display"
+	+Added "WarZ Mod"
+	+Added "ID Resolver"
+	+Added "Better Farming"
+	+Added "Dimensional Doors"
+	+Added "Invasion Mod"
+	+Added "Coral Reef Mod"
+	+Added "The Herbology Mod"
+	+Added "Retractable Ladders"
+	+Added "Rainbow XP Mod"
+	+Added "Warfield 3"
+	+Added "Thermal Expansion"
+	+Added "Bookz"
+	+Added "PrimitiveCraft"
+	+Added "LegendGear"
+	+Added "RealLan"
+
 (April/07/2013)
 	*Updated "Soul Eater Mod" info: Now "Universal"
 	+Added 2 mods by MorpheusZero (Which are the following)
