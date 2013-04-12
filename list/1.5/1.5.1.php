@@ -123,6 +123,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Ancient Tree Root Mod-->
+<tr>
+	<td><a href="http://bit.ly/151I1gK">Ancient Tree Root Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds the new block Ancient Tree Root, They spawn in dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--AntiSteve-->
 <tr>
 	<td><a href="http://bit.ly/UxbOKv">AntiSteve</a></td>
@@ -314,6 +323,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Better Dungeons-->
+<tr>
+	<td><a href="http://bit.ly/YeKc9x">Better Dungeons</a></td>
+	<td class="desctt"><span class="tt">Adds many, many new dungeons, challenges, and treasures to the game.</span></td>
+	<td>Chocolatin</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Better Farming-->
 <tr>
 	<td><a href="http://bit.ly/Xu1KfY">Better Farming</a></td>
@@ -359,6 +377,15 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--BigTrees-->
+<tr>
+	<td><a href="http://bit.ly/UPCzHf">BigTrees</a></td>
+	<td class="desctt"><span class="tt">The purpose of the mod is to create immersive forest environments, inspired by forests Karob has been to, yet modeled to suit the Minecraft universe.</span></td>
+	<td>Karob</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--Biomes O' Plenty-->
 <tr>
 	<td><a href="http://bit.ly/106hnC2">Biomes O' Plenty</a></td>
@@ -393,6 +420,15 @@
 	<td>bspkrs</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Bone Ore Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZpTPBy">Bone Ore Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Spawns Bone Ore in stone, sand, dirt and grass (testing because I'm thinking of adding it to ChertCraft to get more Chert spawn).  You smelt the Bone Ore in the furnace to get Bonemeal. If you have Chert Craft or the standalone craft gunpowder mod then you can use the bonemeal to craft gunpowder.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--Bookz-->
@@ -430,6 +466,15 @@
 	<td><a href="http://bit.ly/WCNwtc">Caption API</a> (for the Hearing Impaired)</td>
 	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Allows sounds to be displayed as text for those with no sound or that are hearing impaired.</span></td>
 	<td>WyrdOne</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Cartographer-->
+<tr>
+	<td><a href="http://bit.ly/YrLOkS">Cartographer</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Compatible</big><br/><br/>Lets you place your maps on Item Frames as you'd usually do, but with the slight difference that they will be as big as a block instead of small as the Item Frame.</span></td>
+	<td>MelAlvarado</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
@@ -642,6 +687,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Craft Gunpowder Mod-->
+<tr>
+	<td><a href="http://bit.ly/12OfDyp">Craft Gunpowder Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds two simple shapeless crafting recipes to craft gunpowder.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--CraftGuide-->
 <tr>
 	<td><a href="http://bit.ly/ZfKdKh">CraftGuide</a></td>
@@ -784,6 +838,15 @@
 <tr>
 	<td><a href="http://bit.ly/YRCXnp">Desert Grund Plant</a></td>
 	<td class="desctt"><span class="tt">Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to plant seeds without having dirt to make soil? Then this mod is for you!</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Desert Petrified Wood Mod-->
+<tr>
+	<td><a href="http://bit.ly/151LcVx">Desert Petrified Wood Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Petrified Wood can be crafted into an axe and spear or put into a furnace to get Carbonized Wood which is used just like coal except lasts twice as long.</span></td>
 	<td>Kinyoshi</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
@@ -1214,10 +1277,10 @@
 <!--Gravestone Mod-->
 <tr>
 	<td><a href="http://bit.ly/XSirsO">Gravestone Mod</a></td>
-	<td class="ml desctt"><span class="tt"><center><big class="bc d">ModLoader Mod, Player API Required</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For Player API, see <i class="d">bit.ly/playerapi</i></center><br/>Adds a gravestone and a cemetery to the game. Gravestone "spawns" after player's death. You can break it with a pickaxe and put it into another place only on "diggable" blocks: dirt, grass, mycelium, gravel, sand, soul sand and snow.</span></td>
+	<td class="ml desctt"><span class="tt"><center><big class="bc d">ModLoader Mod, Player API Required</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>For ModLoader, see <i class="d">bit.ly/modloader</i><br/>For Player API, see <i class="d">bit.ly/playerapi</i></center><br/>Adds a gravestone to the game, which "spawns" after player`s death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot.The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.</span></td>
 	<td>NightKosh</td>
 	<td>SSP</td>
-	<td class="fc">Forge Compatible</td>
+	<td class="fc">Forge Required</td>
 </tr>
 
 <!--Gravity Gun-->
@@ -1823,6 +1886,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--MudMod-->
+<tr>
+	<td><a href="http://bit.ly/YOF27P">MudMod</a></td>
+	<td class="desctt"><span class="tt">Adds a few new blocks and items to the game, most of which have to do with mud, a new block, which is formed when dirt is in contact with a water block.There are several more types of blocks, like adobe, mud bricks, adobe bricks, permafrost in the ice biomes, and half slabs for grass, mycelium, and dirt. There are a few other blocks, a new fuel source, a bomb item that is not overpowered, and earthenware vases, that work like buckets.</span></td>
+	<td>Karuberu</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Multi Mine-->
 <tr>
 	<td><a href="http://bit.ly/as-multimine">Multi Mine</a></td>
@@ -2302,6 +2374,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--SimplicityOresMod-->
+<tr>
+	<td><a href="http://bit.ly/14ZFBPv">SimplicityOresMod</a></td>
+	<td class="desctt"><span class="tt">Adds 13 ores, some can be used to make tools and armor and others can be used to make new colored torches. One of them called sulphur can be made into a sulphur soup. There are also two nether ores.</span></td>
+	<td>Ellybelly360</td>
+	<td>SSP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Simply Hax-->
 <tr>
 	<td><a href="http://bit.ly/as-simplyhax">Simply Hax</a></td>
@@ -2344,6 +2425,15 @@
 	<td class="desctt"><span class="tt">Protects the player from spawning in dangerous places as will as eliminating the random spawn feature to make it easier to play some custom maps, especially platform based maps like SkyBlock.</span></td>
 	<td>HeshamMeneisi</td>
 	<td>SSP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Smeltable Gravel Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZQ9hqH">Smeltable Gravel Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds a simple furnace recipe to smelt gravel into flint.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -2455,6 +2545,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Stick To Plank Mod-->
+<tr>
+	<td><a href="http://bit.ly/YONHXU">Stick To Plank Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds a simple crafting recipe recipe to craft sticks into one wooden plank.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Stone Basin Biome-->
+<tr>
+	<td><a href="http://bit.ly/ZpV9Vb">Stone Basin Biome</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds a stone biome.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!----------------------------------------------------------T-------------------------------------------------------->
 
@@ -2505,9 +2613,9 @@
 
 <!--The Camping Mod-->
 <tr>
-	<td><a href="http://bit.ly/11Nx5yR">The Camping Mod</a></td>
+	<td><a href="http://bit.ly/YeKc9x">The Camping Mod</a></td>
 	<td class="desctt"><span class="tt">Adds many items to the game themed towards camping.</span></td>
-	<td>__Rilmuld__</td>
+	<td>__rikmuld__</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2554,6 +2662,15 @@
 	<td class="desctt"><span class="tt">Allows you to draw runes on the ground physically and outside the crafting gui. Depending on what pattern you draw and what you give as a sacrifice, something magical will happen.</span></td>
 	<td>billythegoat101</td>
 	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Soda Mod-->
+<tr>
+	<td><a href="http://bit.ly/10Xbu4O">The Soda Mod</a></td>
+	<td class="desctt"><span class="tt">Adds different drinks to your minecraft world! Also pigs are spawned everywhere but not just normal pigs, these are LEMONADE PIGS.</span></td>
+	<td>NielsFTW</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2819,6 +2936,24 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Wild Caves 3-->
+<tr>
+	<td><a href="http://bit.ly/VVSHIm">Wild Caves 3</a></td>
+	<td class="desctt"><span class="tt">Gives some much needed love to vanilla caves, adding stalactites, stalagmites, vines, glowing mushrooms, icicles and other realistic and aesthetic features.</span></td>
+	<td>Alexmania</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Wool To String Mod-->
+<tr>
+	<td><a href="http://bit.ly/YgpQwH">Wool To String Mod</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/>Adds a simple crafting recipe to craft two wool blocks into six string.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--WorldStateCheckpoints-->
 <tr>
 	<td><a href="http://bit.ly/VNYhcp">WorldStateCheckpoints</a></td>
@@ -2896,7 +3031,7 @@
 </table><br/>
 
 <div class="footer count">
-	Mod count: <b>300</b>
+	Mod count: <b>315</b>
 </div>
 
 <div class="API">

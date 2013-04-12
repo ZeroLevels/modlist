@@ -416,6 +416,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Better Dungeons-->
+<tr>
+	<td><a href="http://bit.ly/YeKc9x">Better Dungeons</a></td>
+	<td class="desctt"><span class="tt">Adds many, many new dungeons, challenges, and treasures to the game.</span></td>
+	<td>Chocolatin</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Better Farming-->
 <tr>
 	<td><a href="http://bit.ly/Xu1KfY">Better Farming</a></td>
@@ -578,7 +587,7 @@
 <!--BigTrees-->
 <tr>
 	<td><a href="http://bit.ly/UPCzHf">BigTrees</a></td>
-	<td class="desctt"><span class="tt"><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">The purpose of the mod is to create immersive forest environments, inspired by forests Karob has been to, yet modeled to suit the Minecraft universe.</span></td>
 	<td>Karob</td>
 	<td>SSP SMP</td>
 	<td class="fc">Forge Compatible</td>
@@ -6100,12 +6109,12 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Wild Caves 3-->
 <tr>
 	<td><a href="http://bit.ly/VVSHIm">Wild Caves 3</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds decorations and other things to caves to make them more interesting to explore.</span></td>
 	<td>Alexmania</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 

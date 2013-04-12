@@ -1,3 +1,8 @@
+(April/11/2013)
+	*Updated "Wild Caves 3" info: Now "Universal", Added description
+	*Updated "BigTrees" info: Added description
+	+Added "Better Dungeons"
+
 (April/10/2013)
 	*Updated "Warfield 3" info: Now "Universal", Added description
 	*Updated "Mo' Foliage" info: Now "Universal", Added description

@@ -1,4 +1,23 @@
 (April/10/2013)
+	*Updated "The Camping Mod" info: Fixed author name to "rikmuld" instead of "rilmuld", changed link to point to rikmuld's site
+	*Updated "Gravestone Mod" info: Now "Forge Required", Improved description
+	+Added 8 mods by Kinyoshi (Which are the following)
+		+Added "Ancient Tree Root Mod"
+		+Added "Bone Ore Mod"
+		+Added "Desert Petrified Wood Mod"
+		+Added "Stone Basin Biome"
+		+Added "Craft Gunpowder Mod"
+		+Added "Smeltable Gravel Mod"
+		+Added "Stick To Plank Mod"
+		+Added "Wool To String Mod"
+	+Added "SimplicityOresMod"
+	+Added "Better Dungeons"
+	+Added "MudMod"
+	+Added "The Soda Mod"
+	+Added "Cartographer"
+	+Added "BigTrees"
+
+(April/10/2013)
 	/Changed it so descriptions do not exist until you hover over its element. No perceivable change to the end user aside from them no longer being found in a ctrl+f search. Perhaps a slightly faster load time overall as well.
 	/Added mod submission form for those who wish to submit mods to the list while also remaining anonymous. See bit.ly/modlist-submit
 	*Updated "Trail Mix" info: Shortened Description (now with 50% more silliness)
@@ -28,6 +47,7 @@
 	+Added "PrimitiveCraft"
 	+Added "LegendGear"
 	+Added "RealLan"
+	+Added "SimplicityOresMod"
 
 (April/07/2013)
 	*Updated "Soul Eater Mod" info: Now "Universal"
