@@ -3128,12 +3128,12 @@
 
 <!----------------------------------------------------------J-------------------------------------------------------->
 
-<!--|-->
+<!--Jaffas and More-->
 <tr>
 	<td><a href="http://bit.ly/SzK6fl">Jaffas and More</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds fruit trees, plants, challenging crafting chains as well as simpler starter foods, machines and kitchen appliences, ducks, some armour and tools, homestones, lightnning rods, and over 70 different new foods!</span></td>
 	<td>monnef</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5730,12 +5730,13 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Touhou Items Mod-->
 <tr>
 	<td><a href="http://bit.ly/XDfmMd">Touhou Items Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds a lot of things such as weapons, foods, and some magic meterials into the game.
+In Touhou Style~!</span></td>
 	<td>Niconiko</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5921,7 +5922,7 @@
 <tr>
 	<td><a href="http://bit.ly/UJa91Q">[Universal Electricity] Electric Expansion</a></td>
 	<td class="desctt"><span class="tt">Focuses mainly on energy storage and transfer as well as adding more cables for better energy transfer. This mod will make Universal Electricity more complex and realistic.</span></td>
-	<td>Mattredsox and Alex_Hawks</td>
+	<td>Mattredsox & Alex_Hawks</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>

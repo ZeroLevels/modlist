@@ -222,6 +222,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Atum: Journey Into The Sands-->
+<tr>
+	<td><a href="http://bit.ly/1536su4">Atum: Journey Into The Sands</a></td>
+	<td class="desctt"><span class="tt">A new desert dimension that contains an eternal world full of sand, temples, and tons of new foes. Journey into Atum and discover ancient artifacts as you battle your way through vicious new enemies!</span></td>
+	<td>Shadowclaimer & RebelKeithy</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--AudioMod (API)-->
 <tr>
 	<td><a href="http://bit.ly/WnSwBj">AudioMod</a> (API)</td>
@@ -1535,6 +1544,15 @@
 
 <!----------------------------------------------------------J-------------------------------------------------------->
 
+<!--Jaffas and More-->
+<tr>
+	<td><a href="http://bit.ly/SzK6fl">Jaffas and More</a></td>
+	<td class="desctt"><span class="tt">Adds fruit trees, plants, challenging crafting chains as well as simpler starter foods, machines and kitchen appliences, ducks, some armour and tools, homestones, lightnning rods, and over 70 different new foods!</span></td>
+	<td>monnef</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Jammy Furniture Mod-->
 <tr>
 	<td><a href="http://bit.ly/RBQOQg">Jammy Furniture Mod</a></td>
@@ -1576,6 +1594,15 @@
 
 
 <!----------------------------------------------------------L-------------------------------------------------------->
+
+<!--Ladder Kit-->
+<tr>
+	<td><a href="http://bit.ly/146oXPg">Ladder Kit</a></td>
+	<td class="desctt"><span class="tt">Adds two new blocks to the game: A retractable ladder machine and a rope ladder to fill it up with. It works in both the client and the server.</span></td>
+	<td>chupmacabre</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--Lava Monsters-->
 <tr>
@@ -1704,6 +1731,15 @@
 	<td>WyrdOne</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Minekawaii-->
+<tr>
+	<td><a href="http://bit.ly/YQNEuE">Minekawaii</a></td>
+	<td class="desctt"><span class="tt">"A simple mod for all of your favorite Japanese snacks, in Minecraft! "</span></td>
+	<td>iNyanny</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--MineVideo-->
@@ -2269,15 +2305,6 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--Retractable Ladders-->
-<tr>
-	<td><a href="http://bit.ly/146oXPg">Retractable Ladders</a></td>
-	<td class="desctt"><span class="tt">Adds two new blocks to the game: A retractable ladder machine and a rope ladder to fill it up with. It works in both the client and the server.</span></td>
-	<td>chupmacabre</td>
-	<td>Universal</td>
-	<td class="fr">Forge Required</td>
-</tr>
-
 <!--Retro Fences-->
 <tr>
 	<td><a href="http://bit.ly/Ty9cf2">Retro Fences</a></td>
@@ -2686,8 +2713,8 @@
 <!--Thermal Expansion-->
 <tr>
 	<td><a href="http://bit.ly/UxhiF3">Thermal Expansion</a> (Beta)</td>
-	<td class="desctt"><span class="tt">Adds machines with functionality to increase output, as well as ways to store and transport energy and liquids. Works well with Buildcraft, but it's not required!</span></td>
-	<td>KingLemmingCoFH</td>
+	<td class="desctt"><span class="tt">Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Formerly dependent on BuildCraft, this mod is now stand-alone, but uses the same power system as BuildCraft.</span></td>
+	<td>Team CoFH</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2724,6 +2751,16 @@
 	<td><a href="http://bit.ly/108xUFw">Torojima's Chococraft</a></td>
 	<td class="desctt"><span class="tt">Adds a mob called Chocobo to the game. This includes different coloured mob types with different attributes in their grown-up and juvenile form.</span></td>
 	<td>Torojima</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Touhou Items Mod-->
+<tr>
+	<td><a href="http://bit.ly/XDfmMd">Touhou Items Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a lot of things such as weapons, foods, and some magic meterials into the game.
+In Touhou Style~!</span></td>
+	<td>Niconiko</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>

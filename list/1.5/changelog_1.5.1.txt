@@ -1,4 +1,12 @@
-(April/10/2013)
+(April/12/2013)
+	*Updated "Thermal Expansion" info: Changed author to "Team CoFH", Improved description
+	*Renamed "Retractable Ladders" to "Ladder Kit"
+	+Added "Touhou Items Mod"
+	+Added "Atum: Journey Into The Sands"
+	+Added "Jaffas and More"
+	+Added "Minekawaii"
+
+(April/11/2013)
 	*Updated "The Camping Mod" info: Fixed author name to "rikmuld" instead of "rilmuld", changed link to point to rikmuld's site
 	*Updated "Gravestone Mod" info: Now "Forge Required", Improved description
 	+Added 8 mods by Kinyoshi (Which are the following)
