@@ -38,7 +38,7 @@
 			<![endif]-->
 		</ul>
 				
-	<br><hr width="99%" size="6" noshade>
+	<br/><hr width="99%" size="6" noshade>
 		
 	<p class="padded">If you know of a mod that's not on this list, please let us know. There are three ways to inform us of new mods. If you have an account on the Minecraft Forums, leave a post in the suggestion thread <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or drop by the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span>. If you wish to remain anonymous, you may use the submission form <a href="/list/submit/">here</a>. Please check to see if the mod is on the list already before suggesting.<br/><br/>If there's an icon in the "Info" column, hover over it to read the description for that mod.</p>
 	
@@ -931,6 +931,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Cartographer-->
+<tr>
+	<td><a href="http://bit.ly/YrLOkS">Cartographer</a></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Compatible</big><br/><br/>Lets you place your maps on Item Frames as you'd usually do, but with the slight difference that they will be as big as a block instead of small as the Item Frame.</span></td>
+	<td>MelAlvarado</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--|-->
 <tr>
 	<td><a href="http://bit.ly/UZFA7d">Castle Defenders</a></td>
@@ -1008,7 +1017,7 @@
 <!--ChickenChunks-->
 <tr>
 	<td><a href="http://bit.ly/UvpH6y">ChickenChunks</a></td>
-	<td class="desctt"><span class="tt">As you all should know, the minecraft world is seperated into chunks. 16x16 areas that are loaded depending on how close a player is to them. If you have machines or plants or anything that does something in a chunk that is not loaded because there are no players nearby nothing will happen.<br><br>This mod adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around.</span></td>
+	<td class="desctt"><span class="tt">As you all should know, the minecraft world is seperated into chunks. 16x16 areas that are loaded depending on how close a player is to them. If you have machines or plants or anything that does something in a chunk that is not loaded because there are no players nearby nothing will happen.<br/><br/>This mod adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around.</span></td>
 	<td>chicken_bones</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -1748,7 +1757,7 @@
 <!--Dynamic Lights-->
 <tr>
 	<td><a href="http://bit.ly/WXb0hm">Dynamic Lights</a></td>
-	<td class="desctt"><span class="tt">This modification makes 'shining' items <i>(default: Torch, Glowstone, Glowdust, Lit Pumpkin, Redstone, Lava Bucket, powered Minecart)</i> illuminate everything around them if:<br><ul><li>the player has them equipped (in hand/armor)</li><li>they are dropped on the ground</li><li>another player has them equipped in Multiplayer</li></ul><br/>On top of that, burning Entities shine light, and Creepers about to explode light up!</span></td>
+	<td class="desctt"><span class="tt">This modification makes 'shining' items <i>(default: Torch, Glowstone, Glowdust, Lit Pumpkin, Redstone, Lava Bucket, powered Minecart)</i> illuminate everything around them if:<br/><ul><li>the player has them equipped (in hand/armor)</li><li>they are dropped on the ground</li><li>another player has them equipped in Multiplayer</li></ul><br/>On top of that, burning Entities shine light, and Creepers about to explode light up!</span></td>
 	<td>AtomicStryker</td>
 	<td>Clientside Mod</td>
 	<td class="fr">Forge Required</td>
@@ -6371,7 +6380,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>667</b>
+	Mod count: <b>668</b>
 </div>
 
 <div class="API">
