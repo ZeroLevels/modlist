@@ -714,12 +714,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Buildcraft-->
 <tr>
-	<td><a href="http://bit.ly/XpjnSz">Buildcraft</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/156o88k">Buildcraft</a></td>
+	<td class="desctt"><span class="tt">Adds machines which can be powered by engines and fuel to help build and/or dig!</span></td>
 	<td>SirSengir</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1920,6 +1920,15 @@
 	<td><a href="http://bit.ly/VuxebI">EnderStuff+</a></td>
 	<td class="desctt"><span class="tt">This mod adds a bunch of stuff to the End dimension. From mobs over blocks to tools and weapons. </span></td>
 	<td>SanAndreasP</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--EnderTanks-->
+<tr>
+	<td><a href="http://bit.ly/11aPDJF">EnderTanks</a></td>
+	<td class="desctt"><span class="tt">Adds EnderTanks and EnderBuckets for storing and accessing liquids across dimensions.</span></td>
+	<td>ShetiPhian</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -3688,7 +3697,7 @@
 <!--Mo' Creatures-->
 <tr>
 	<td><a href="http://bit.ly/UvyxRJ">Mo' Creatures</a></td>
-	<td class="d desctt"><span class="tt">Adds many, many creatures to the game.<br/><br/><big class="d">Also Requires:</big><br/>GuiAPI (API)<br/>Custom Mob Spawner (Dependency)</span></td>
+	<td class="d desctt"><span class="tt"><big class="d">Also Requires:</big><br/><small class="d">GuiAPI (API)<br/>Custom Mob Spawner (Dependency)</small><br/><br/> (Dependency)Adds many, many creatures to the game.</span></td>
 	<td>DrZhark</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -4471,6 +4480,15 @@
 	<td>MightyPork</td>
 	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--PowerCrystals Core-->
+<tr>
+	<td><a href="http://bit.ly/pccore">PowerCrystals Core</a> (Dependency)</td>
+	<td class="desctt"><span class="tt">Necessary to be installed in order to get any other mods by power crystals to work.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 
@@ -6042,6 +6060,15 @@ In Touhou Style~!</span></td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Vanity Blocks-->
+<tr>
+	<td><a href="http://bit.ly/12XYGle">Vanity Blocks</a></td>
+	<td class="desctt"><span class="tt">Adds storage blocks (Much like iron/gold/diamond blocks) for both vanilla/modded materials, as well as some vanity blocks, like lavalamps.</span></td>
+	<td>AnarchySage</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Village Info-->
 <tr>
 	<td><a href="http://bit.ly/TGtW1L">Village Info</a></td>
@@ -6381,7 +6408,7 @@ In Touhou Style~!</span></td>
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>668</b>
+	Mod count: <b>672</b>
 </div>
 
 <div class="API">

@@ -1,3 +1,10 @@
+(April/13/2013)
+	*Updated "Buildcraft" info: Now "Universal", Added description
+	*Updated "Mo' Creatures" info: Added description
+	+Added "PowerCrystals Core"
+	+Added "Vanity Blocks"
+	+Added "EnderTanks"
+
 (April/12/2013)
 	*Updated "Touhou Items Mod" info: Now "Universal", Added description
 	*Updated "Jaffas and More" info: Now "Universal", Added description

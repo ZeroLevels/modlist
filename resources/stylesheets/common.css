@@ -1,5 +1,12 @@
+body {
+	background-image:url('../images/mcf_1_3rd.png');
+	color:#fff;
+	font-family:verdana,arial;
+}
+
 body#submission_form {
-	background-image:url('../../resources/images/mcf_1_3rd.png'); background-color: #000000;
+	
+	background-color: #000000;
 	min-width:702px;
     color: #fff;
 }

@@ -12,6 +12,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/common.css" media="screen" />
 	
 </head>
   
@@ -39,7 +40,7 @@
 				
 	<br/><hr width="99%" size="6" noshade>
 		
-	<p style="font-size:2em">This list (1.4.2) will no longer be updated. More recent lists are the priority. <a href="/latest/" class="ns">Click here</a> to the see the latest list.</p>
+	<p class="padded" style="font-size:2em">This list (1.4.2) will no longer be updated. More recent lists are the priority. <a href="/latest/" class="ns">Click here</a> to the see the latest list.</p>
 	
 	<table class="listnav nav major">
 		<thead>

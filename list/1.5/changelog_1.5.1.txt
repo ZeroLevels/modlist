@@ -1,3 +1,32 @@
+(April/13/2013)
+	*Updated "HomiePower Mod FE" info: Improved description
+	*Updated "Elemental Orbs" info: Now "Universal"
+	*Updated "CreepersNoCreeping" info: Now "Universal"
+	+Added 4 mods by power crystals (Which are the following)
+		+Added "PowerCrystals Core"
+		+Added "Nether Ores"
+		+Added "MineFactory Reloaded"
+		+Added "Flat Bedrock"
+	+Added 8 mods by wuppy21 (Which are the following)
+		+Added "The Peacefulpack"
+		+Added "Slime Dungeons"
+		+Added "Nether Eye"
+		+Added "Koi"
+		+Added "Jelly Cubes"
+		+Added "Improved Mob Spawn"
+		+Added "Harder Peaceful"
+		+Added "Goblins and Giants"
+	+Added "Balkon's WeaponMod"
+	+Added "JourneyMap"
+	+Added "XACT: Xhamolk_'s Advanced Crafting Table"
+	+Added "Vanity Blocks"
+	+Added "Furniture Mod"
+	+Added "The J-Craft Mods"
+	+Added "Crazy Chunks"
+	+Added "EnderTanks"
+	+Added "Slime Chunk Finder"
+	+Added "Natura"
+
 (April/12/2013)
 	*Updated "Thermal Expansion" info: Changed author to "Team CoFH", Improved description
 	*Renamed "Retractable Ladders" to "Ladder Kit"

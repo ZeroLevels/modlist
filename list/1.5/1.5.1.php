@@ -278,6 +278,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Balkon's WeaponMod-->
+<tr>
+	<td><a href="http://bit.ly/VDWSbu">Balkon's WeaponMod</a></td>
+	<td class="desctt"><span class="tt">"Throw a spear in a zombie's head! Cut a skeleton in half with your brand new halberd! Shoot some slimes into pieces with an old musket! And more!"</span></td>
+	<td>BalkondeurAlpha</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--BatsDropLeather-->
 <tr>
 	<td><a href="http://bit.ly/117U1v2">BatsDropLeather</a></td>
@@ -465,6 +474,15 @@
 	<td>bspkrs</td>
 	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Buildcraft-->
+<tr>
+	<td><a href="http://bit.ly/156o88k">Buildcraft</a></td>
+	<td class="desctt"><span class="tt">Adds machines which can be powered by engines and fuel to help build and/or dig!</span></td>
+	<td>SirSengir</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 
@@ -723,6 +741,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Crazy Chunks-->
+<tr>
+	<td><a href="http://bit.ly/YlGomU">Crazy Chunks</a></td>
+	<td class="desctt"><span class="tt">Adds two new world types that can be selected the same way as 'Default', 'Super Flat' and 'Large Biomes'. These new world types mess with the terrain generation to give an interesting terrain to those bored with the normal Minecraft one. This will not conflict with any mods!</span></td>
+	<td>Portadiam</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--CreepersNoCreeping-->
 <tr>
 	<td><a href="http://bit.ly/117U1v2">CreepersNoCreeping</a></td>
@@ -900,7 +927,7 @@
 <!--Doubledoor-->
 <tr>
 	<td><a href="http://bit.ly/VK1yu3">Doubledoor</a> (BaM's)</td>
-	<td class="desctt"><span class="tt">Makes it so that both doors on a double door open together when opening one by hand or with redstone.</span></td>
+	<td class="desctt"><span class="tt">Makes it so that both doors, fencegates, and trap doors open together when opening one by hand or with redstone, up to a 2x3 setup.</span></td>
 	<td>DerBaM</td>
 	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
@@ -1004,7 +1031,7 @@
 	<td><a href="http://bit.ly/ZMwKMm">Elemental Orbs</a></td>
 	<td class="desctt"><span class="tt">Allows you to use element-related orbs to do many things to the area around you.</span></td>
 	<td>MaximumTechnology</td>
-	<td>SSP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1049,6 +1076,15 @@
 	<td><a href="http://bit.ly/UvpH6y">Ender Storage</a></td>
 	<td class="d desctt"><span class="tt"><center><big class="d">CodeChickenCore Required:</big><br/>See <i class="d">bit.ly/cb-core</i></center><br/>EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch.</span></td>
 	<td>chicken_bones</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--EnderTanks-->
+<tr>
+	<td><a href="http://bit.ly/11aPDJF">EnderTanks</a></td>
+	<td class="desctt"><span class="tt">Adds EnderTanks and EnderBuckets for storing and accessing liquids across dimensions.</span></td>
+	<td>ShetiPhian</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1155,6 +1191,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Flat Bedrock-->
+<tr>
+	<td><a href="http://bit.ly/VW7qTy">Flat Bedrock</a></td>
+	<td class="d desctt"><span class="tt"><big class="d">Also Requires:</big><br/><small class="d">PowerCrstals Core (Dependency)</small><br/><br/>Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Flat Bedrock Layer-->
 <tr>
 	<td><a href="http://bit.ly/VK1yu3">Flat Bedrock Layer</a> (BaM's)</td>
@@ -1236,6 +1281,16 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Furniture Mod-->
+<tr>
+	<td><a href="http://bit.ly/12Y1tLl">Furniture Mod</a></td>
+	<td class="desctt"><span class="tt">"Adds in what Minecraft has been missing for years, furniture! It includes over 30 pieces of furniture to decorate your bedroom, kitchen, living room and even your garden!"</span></td>
+	<td>Mr_Crayfish</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+
 <!----------------------------------------------------------G-------------------------------------------------------->
 
 <!--Galacticraft-->
@@ -1262,6 +1317,15 @@
 	<td class="desctt"><span class="tt">Adds many gem ores, items, blocks, tools, weapons, armors, dusts, sands and glasses to the game.</span></td>
 	<td>RobZ51</td>
 	<td><b>Universal</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Goblins and Giants-->
+<tr>
+	<td><a href="http://bit.ly/Yj1yR6">Goblins and Giants</a></td>
+	<td class="desctt"><span class="tt">Goblins And Giants is a WIP mod that adds a lot of new mobs and a dimension.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1340,6 +1404,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Harder Peaceful-->
+<tr>
+	<td><a href="http://bit.ly/YiVl7R">Harder Peaceful</a></td>
+	<td class="desctt"><span class="tt">Harder Peaceful is a mod that will make peaceful a bit more like the other game modes. It causes like normal and you will no longer regenerate health when you are hurt and don't have enough food.<br/><br/>Goes well with "The Peacefulpack" mod.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Hats-->
 <tr>
 	<td><a href="http://bit.ly/14814a3">Hats</a></td>
@@ -1388,7 +1461,7 @@
 <!--HomiePower Mod FE-->
 <tr>
 	<td><a href="http://bit.ly/10DRioi">HomiePower Mod FE</a></td>
-	<td class="desctt"><span class="tt">Adds new ores and metals.</span></td>
+	<td class="desctt"><span class="tt">"A fan made mod for the youtuber SlyFoxHound and his homies. This mod adds all things related to SlyFoxHound and the homies."</span></td>
 	<td>hoshan</td>
 	<td>SSP</td>
 	<td class="fr">Forge Required</td>
@@ -1447,6 +1520,15 @@
 	<td><a href="http://bit.ly/Uvusgl">Immibis's Microblocks</a></td>
 	<td class="desctt"><span class="tt">Mostly work like RedPower 2's microblocks. Install into the coremods folder.</span></td>
 	<td>immibis</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Improved Mob Spawn-->
+<tr>
+	<td><a href="http://bit.ly/YjaJRx">Improved Mob Spawn</a></td>
+	<td class="desctt"><span class="tt">This mod will change the mob spawn of several mobs. One example is that spider jockeys are 5 times less rare. There are also changes to the spawns of slime, cave spiders, blazes, silver fish and magma cubes.</span></td>
+	<td>wuppy21</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1562,6 +1644,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Jelly Cubes-->
+<tr>
+	<td><a href="http://bit.ly/W0tf6U">Jelly Cubes</a></td>
+	<td class="desctt"><span class="tt">The jelly cubes mod adds a new type of food to the game. It's crafted with two slime balls and can be used in flatlands for food.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--JourneyMap-->
+<tr>
+	<td><a href="http://bit.ly/ZTAsAN">JourneyMap</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Compatible</big><br/><br/>A client mod which maps your Minecraft world in real-time as you explore.  You can view the live map in a web browser, on your iPad, or in-game.  You get a daylight map, a moonlight map, cave maps by vertical slice, Nether maps, and End maps.  A live radar shows nearby mobs, animals, and pets.</span></td>
+	<td>techbrew</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 
 <!----------------------------------------------------------K-------------------------------------------------------->
 
@@ -1588,6 +1688,15 @@
 	<td><a href="http://bit.ly/Xt4yyx">Kitchens</a></td>
 	<td class="desctt"><span class="tt">Adds cupboards that work similar to chests and counter tops that work like crafting tables, but take up a 1/8th a block, and can be placed at either top or bottom of a block, much like trap doors.</span></td>
 	<td>rbdyck</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Koi-->
+<tr>
+	<td><a href="http://bit.ly/12EyGdZ">Koi</a></td>
+	<td class="desctt"><span class="tt">Simply adds a fish mob to the game. It will spawn and swim around your world in water.</span></td>
+	<td>wuppy21</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1651,6 +1760,15 @@
 
 
 <!----------------------------------------------------------M-------------------------------------------------------->
+
+<!--Magical Experience-->
+<tr>
+	<td><a href="http://bit.ly/W0sOJW">Magical Experience</a></td>
+	<td class="desctt"><span class="tt">"Magical Experience" adds new ways to get experience. You can also craft all the spawner eggs with this mod and there are some very fun items that can destroy your world if you are not careful.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--Magic Yarn-->
 <tr>
@@ -1733,6 +1851,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--MineFactory Reloaded-->
+<tr>
+	<td><a href="http://bit.ly/VW7qTy">MineFactory Reloaded</a></td>
+	<td class="d desctt"><span class="tt"><big class="d">Also Requires:</big><br/><small class="d">PowerCrstals Core (Dependency)</small><br/><br/>MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Minekawaii-->
 <tr>
 	<td><a href="http://bit.ly/YQNEuE">Minekawaii</a></td>
@@ -1781,7 +1908,7 @@
 <!--Mo' Creatures-->
 <tr>
 	<td><a href="http://bit.ly/UvyxRJ">Mo' Creatures</a></td>
-	<td class="d desctt"><span class="tt">Adds many, many creatures to the game.<br/><br/><big class="d">Also Requires:</big><br/>GuiAPI (API)<br/>Custom Mob Spawner (Dependency)</span></td>
+	<td class="d desctt"><span class="tt"><big class="d">Also Requires:</big><br/><small class="d">GuiAPI (API)<br/>Custom Mob Spawner (Dependency)</small><br/><br/> (Dependency)Adds many, many creatures to the game.</span></td>
 	<td>DrZhark</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -1997,6 +2124,33 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Natura-->
+<tr>
+	<td><a href="http://bit.ly/176MWcV">Natura</a></td>
+	<td class="desctt"><span class="tt">A mod that aims to spice up the world with interesting worldgen. With a few small additions, hunger no longer has to be about hunting animals early game. The mod is mostly intuitive; everything should be sensible or explained in-game.</span></td>
+	<td>mDiyo</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Nether Eye-->
+<tr>
+	<td><a href="http://bit.ly/11Rud8a">Nether Eye</a></td>
+	<td class="desctt"><span class="tt">This mod adds the "Nether Eye" to the game. Use it to find your way to a nether fortress. Crafted with ender pearl and magma cream.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Nether Ores-->
+<tr>
+	<td><a href="http://bit.ly/VW7qTy">Nether Ores</a></td>
+	<td class="d desctt"><span class="tt"><big class="d">Also Requires:</big><br/><small class="d">PowerCrstals Core (Dependency)</small><br/><br/>Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Ninja Mod-->
 <tr>
 	<td><a href="http://bit.ly/UR7mDM">Ninja Mod</a></td>
@@ -2165,6 +2319,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--PowerCrystals Core-->
+<tr>
+	<td><a href="http://bit.ly/pccore">PowerCrystals Core</a> (Dependency)</td>
+	<td class="desctt"><span class="tt">Necessary to be installed in order to get any other mods by power crystals to work.</span></td>
+	<td>power crystals</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--PrimitiveCraft-->
 <tr>
 	<td><a href="http://bit.ly/TWWyTp">PrimitiveCraft</a></td>
@@ -2181,6 +2344,15 @@
 	<td>Guff</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Pumpkin-less Snow Golem-->
+<tr>
+	<td><a href="http://bit.ly/135GpNu">Pumpkin-less Snow Golem</a></td>
+	<td class="desctt"><span class="tt">Removes the pumpkin from a snow golem's head.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 
@@ -2437,6 +2609,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Slime Chunk Finder-->
+<tr>
+	<td><a href="http://bit.ly/12YdikH">Slime Chunk Finder</a></td>
+	<td class="desctt"><span class="tt">A GUI tool used to find slime chunks.</span></td>
+	<td>calebmanley</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Slime Dungeons-->
+<tr>
+	<td><a href="http://bit.ly/15qHGD1">Slime Dungeons</a></td>
+	<td class="desctt"><span class="tt">Adds slime dungeons to your game. When you come across one, will have a lot of slimeballs.</span></td>
+	<td>wuppy21</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Smart Moving-->
 <tr>
 	<td><a href="http://bit.ly/UAvTjb">Smart Moving</a></td>
@@ -2665,6 +2855,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The J-Craft Mods-->
+<tr>
+	<td><a href="http://bit.ly/Zty2ZF">The J-Craft Mods</a></td>
+	<td class="desctt"><span class="tt">A bunch of mods (in one) that add a lot of new blocks and items.</span></td>
+	<td>juliand665</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Mists of RioV-->
 <tr>
 	<td><a href="http://bit.ly/10qPe6k">The Mists of RioV</a></td>
@@ -2679,6 +2878,15 @@
 	<td><a href="http://bit.ly/UArYTu">The Ocarina Mod</a></td>
 	<td class="desctt"><span class="tt">Adds a fully-functioning Ocarina straight from The Legend of Zelda: Ocarina of Time and Majora's Mask into Minecraft! The Ocarina functions just like it does in The Legend of Zelda. You can now learn songs that effect gameplay! Future updates will include more songs and functions!</span></td>
 	<td>Boba_Fett_Link</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Peacefulpack-->
+<tr>
+	<td><a href="http://bit.ly/WSAP1Z">The Peacefulpack</a></td>
+	<td class="desctt"><span class="tt">This mod adds new ways to get all the mob drops. You can get them all without having to fight any monsters. This can be useful if you don't like monsters or if you just want more of the drops.<br/><br/>Goes well with "Harder Peaceful" mod.</span></td>
+	<td>wuppy21</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2898,6 +3106,15 @@ In Touhou Style~!</span></td>
 
 <!----------------------------------------------------------V-------------------------------------------------------->
 
+<!--Vanity Blocks-->
+<tr>
+	<td><a href="http://bit.ly/12XYGle">Vanity Blocks</a></td>
+	<td class="desctt"><span class="tt">Adds storage blocks (Much like iron/gold/diamond blocks) for both vanilla/modded materials, as well as some vanity blocks, like lavalamps.</span></td>
+	<td>AnarchySage</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Vending Block-->
 <tr>
 	<td><a href="http://bit.ly/vendingblock">Vending Block</a></td>
@@ -3003,6 +3220,15 @@ In Touhou Style~!</span></td>
 
 <!----------------------------------------------------------X-------------------------------------------------------->
 
+<!--XACT: Xhamolk_'s Advanced Crafting Table-->
+<tr>
+	<td><a href="http://bit.ly/17xXcOu">XACT: Xhamolk_'s Advanced Crafting Table</a></td>
+	<td class="desctt"><span class="tt">Adds an advanced crafting table that saves you from having to learn every crafting recipe as well as adding the ability for the vanilla crafting table to keep its inventory after closing the GUI.</span></td>
+	<td>Xhamolk_</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--X-Ray Mod-->
 <tr>
 	<td><a href="http://bit.ly/cjbmodsr">X-Ray Mod</a> (CJB)</td>
@@ -3068,7 +3294,7 @@ In Touhou Style~!</span></td>
 </table><br/>
 
 <div class="footer count">
-	Mod count: <b>315</b>
+	Mod count: <b>335</b>
 </div>
 
 <div class="API">
