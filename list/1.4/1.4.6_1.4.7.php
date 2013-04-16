@@ -281,7 +281,7 @@
 <!--Audiotori-->
 <tr>
 	<td><a href="http://bit.ly/Ty8izp">Audiotori</a></td>
-	<td class="desctt"><span class="tt"><center><big class="d">ModLoader Mod</big><br/><small class="d">ModLoader can be used instead of Forge for this mod.</small><br/>See <i class="d">bit.ly/modloader</i></center><br/> Audiotori is a cascading sound pack manager. It allows you to use multiple sound packs at once to replace the default Minecraft sounds, or replace sounds added by other mods.</span></td>
+	<td class="ml desctt"><span class="tt"><center><big class="d">ModLoader Compatible</big><br/><br/>Audiotori is a cascading sound pack manager. It allows you to use multiple sound packs at once to replace the default Minecraft sounds, or replace sounds added by other mods.</span></td>
 	<td>Hurricaaane</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
@@ -1390,6 +1390,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Crazy Ravines-->
+<tr>
+	<td><a href="http://bit.ly/118t063">Crazy Ravines</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big><br/><br/>Makes ravines longer, wider, and deeper. It also allows ravines to cut through bodies of water which previously wasn't allowed.</span></td>
+	<td>klglange</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--Creepypastacraft-->
 <tr>
 	<td><a href="http://bit.ly/VqeWao">Creepypastacraft</a></td>
@@ -1735,10 +1744,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--DupleCraft-->
 <tr>
 	<td><a href="http://bit.ly/13aXSXU">DupleCraft</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds a non-OP way of dupling (doubling) items. Also lets you fuse items together.</span></td>
 	<td>Cannash54</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -1978,10 +1987,10 @@
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Equivalent Exchange 3-->
 <tr>
 	<td><a href="http://bit.ly/VFB7Ip">Equivalent Exchange 3</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Allows you to transmute tons of materials into other materials.</span></td>
 	<td>Pahimar</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -4144,6 +4153,15 @@
 
 <!----------------------------------------------------------N-------------------------------------------------------->
 
+<!--Naruto Shippuden Mod-->
+<tr>
+	<td><a href="http://bit.ly/118bezM">Naruto Shippuden Mod</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big><br/><br/>Adds many characters and items themed towards Naruto Shippuden.</span></td>
+	<td>T24EarthPoke</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--Nether Eye-->
 <tr>
 	<td><a href="http://bit.ly/11Rud8a">Nether Eye</a></td>
@@ -5583,12 +5601,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--The Seasons Mod-->
 <tr>
 	<td><a href="http://bit.ly/UvEbTZ">The Seasons Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds the four seasons to Minecraft, each one with its own features and dangers (such as frostbite!)</span></td>
 	<td>The_WeatherPony</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -6408,7 +6426,7 @@ In Touhou Style~!</span></td>
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>672</b>
+	Mod count: <b>674</b>
 </div>
 
 <div class="API">

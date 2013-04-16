@@ -1,3 +1,8 @@
+(April/15/2013)
+	+Added "SwipeSilk"
+	+Added "The Seasons Mod"
+	+Added "DupleCraft"
+
 (April/10/2013)
 	+Added "Mo' Foliage"
 

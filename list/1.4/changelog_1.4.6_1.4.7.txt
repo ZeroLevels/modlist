@@ -1,3 +1,10 @@
+(April/15/2013)
+	*Updated "DupleCraft" info: Added description
+	*Updated "Equivalent Exchange 3" info: Added description
+	*Updated "The Seasons Mod" info: Now "Universal", Added description
+	+Added "Naruto Shippuden Mod"
+	+Added "Crazy Ravines"
+
 (April/13/2013)
 	*Updated "Buildcraft" info: Now "Universal", Added description
 	*Updated "Mo' Creatures" info: Added description

@@ -87,6 +87,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--AgeCraft-->
+<tr>
+	<td><a href="http://bit.ly/15btaAj">AgeCraft</a> (Pre-Alpha)</td>
+	<td class="desctt"><span class="tt">A WIP Medieval-themed mod that adds things such as spears, tridents and other weapons! Soon to have a new biome and dragons as well!</span></td>
+	<td>xPureSurfx</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--AlcheMine-->
 <tr>
 	<td><a href="http://bit.ly/XO00jm">AlcheMine</a></td>
@@ -121,6 +130,15 @@
 	<td>Noppes</td>
 	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Animated Player-->
+<tr>
+	<td><a href="http://bit.ly/14rfMZG">Animated Player</a></td>
+	<td class="desctt"><span class="tt">Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!</span></td>
+	<td>thehippomaster21</td>
+	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Ancient Tree Root Mod-->
@@ -488,6 +506,15 @@
 
 <!----------------------------------------------------------C-------------------------------------------------------->
 
+<!--Calendar GUI-->
+<tr>
+	<td><a href="http://bit.ly/ZX0NOu">Calendar GUI</a></td>
+	<td class="desctt"><span class="tt"><big class="d">ModLoader Compatible</big><br/><br/>Shows the real date and time of your minecraft world and adds two new items: The calendar and watch. It also adds a few chat commands that give better control over the time.</span></td>
+	<td>RoboMat</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Caption API-->
 <tr>
 	<td><a href="http://bit.ly/WCNwtc">Caption API</a> (for the Hearing Impaired)</td>
@@ -750,6 +777,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Crazy Ravines-->
+<tr>
+	<td><a href="http://bit.ly/118t063">Crazy Ravines</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big><br/><br/>Makes ravines longer, wider, and deeper. It also allows ravines to cut through bodies of water which previously wasn't allowed.</span></td>
+	<td>klglange</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--CreepersNoCreeping-->
 <tr>
 	<td><a href="http://bit.ly/117U1v2">CreepersNoCreeping</a></td>
@@ -924,6 +960,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Doggy Talents Mod-->
+<tr>
+	<td><a href="http://bit.ly/137QH54">Doggy Talents Mod</a></td>
+	<td class="desctt"><span class="tt">Trap your friends or mobs with spikes, fans, igniters, dummies, and even grass coverings. Then collect all the loot with the magnetic chest!</span></td>
+	<td>ProPercivalalb</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Doubledoor-->
 <tr>
 	<td><a href="http://bit.ly/VK1yu3">Doubledoor</a> (BaM's)</td>
@@ -965,6 +1010,15 @@
 	<td><a href="http://bit.ly/dungeonmobs">Dungeon Mobs</a></td>
 	<td class="desctt"><span class="tt">Dungeon Mobs is intended to be a more dangerous analogue to Mo' Creatures. Instead of providing new animals that liven up the overworld and improve ambiance, this mod introduces a variety of new hostile mobs, each of which presents a different challenge, requiring you to think tactically about how to surmount the difficulty they pose. Supports "Biomes O' Plenty", "ExtraBiomesXL", and "Highlands".</span></td>
 	<td>GnomeWorks</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--DupleCraft-->
+<tr>
+	<td><a href="http://bit.ly/13aXSXU">DupleCraft</a></td>
+	<td class="desctt"><span class="tt">Adds a non-OP way of dupling (doubling) items. Also lets you fuse items together.</span></td>
+	<td>Cannash54</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1107,6 +1161,15 @@
 	<td class="fc">Forge Required</td>
 </tr>
 
+<!--Equivalent Exchange 3-->
+<tr>
+	<td><a href="http://bit.ly/VFB7Ip">Equivalent Exchange 3</a></td>
+	<td class="desctt"><span class="tt">Allows you to transmute tons of materials into other materials.</span></td>
+	<td>Pahimar</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--EternalsSwords-->
 <tr>
 	<td><a href="http://bit.ly/XizIus">EternalsSwords</a></td>
@@ -1161,6 +1224,15 @@
 	<td class="desctt"><span class="tt">Adds miniature mobs who float next to you at all times (if equipped), giving off small perks besides the obvious one of having a companion to accompany you on your adventures.</span></td>
 	<td>pitman-87</td>
 	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Famous Mod-->
+<tr>
+	<td><a href="http://bit.ly/139O1jA">Famous Mod</a></td>
+	<td class="desctt"><span class="tt">Adds 45 famous Minecraft Youtubers to the game, some with their own dimensions.</span></td>
+	<td>wasliebob</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1749,6 +1821,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--littleMaidMob-->
+<tr>
+	<td><a href="http://bit.ly/Xee3zn">littleMaidMob</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Compatible</big><br/><br/>Adds a (tameable) mob called the Little Maid, who can do a lot of stuff for you! The Maid can help you fight, cook meals, heal you, build and much more! If you forgot her salary, maid gets into strike, until you give her a cake.</span></td>
+	<td>MMM</td>
+	<td>SSP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Lost Books-->
 <tr>
 	<td><a href="http://bit.ly/VuOduI">Lost Books</a></td>
@@ -2074,6 +2155,15 @@
 	<td>Kinyoshi</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--MusicCraft-->
+<tr>
+	<td><a href="http://bit.ly/12UCRxu">MusicCraft</a></td>
+	<td class="desctt"><span class="tt">Adds musical instruments to the game.</span></td>
+	<td>Ktos94852</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Mutant Creatures-->
@@ -2900,6 +2990,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Seasons Mod-->
+<tr>
+	<td><a href="http://bit.ly/UvEbTZ">The Seasons Mod</a></td>
+	<td class="desctt"><span class="tt">Adds the four seasons to Minecraft, each one with its own features and dangers (such as frostbite!)</span></td>
+	<td>The_WeatherPony</td>
+	<td>SSP SMP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Soda Mod-->
 <tr>
 	<td><a href="http://bit.ly/10Xbu4O">The Soda Mod</a></td>
@@ -2980,6 +3079,15 @@ In Touhou Style~!</span></td>
 	<td>iChun</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td><!--Version Independent-->
+</tr>
+
+<!--Trapcraft-->
+<tr>
+	<td><a href="http://bit.ly/17CnMpu">Trapcraft</a></td>
+	<td class="desctt"><span class="tt">Trap your friends or mobs with spikes, fans, igniters, dummies, and even grass coverings. Then collect all the loot with the magnetic chest!</span></td>
+	<td>ProPercivalalb</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--TreeCapitator-->
@@ -3294,7 +3402,7 @@ In Touhou Style~!</span></td>
 </table><br/>
 
 <div class="footer count">
-	Mod count: <b>335</b>
+	Mod count: <b>356</b>
 </div>
 
 <div class="API">

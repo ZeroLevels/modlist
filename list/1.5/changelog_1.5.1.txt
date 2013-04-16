@@ -1,3 +1,19 @@
+(April/15/2013)
+	+Added 2 mods by ProPercivalalb (Which are the following)
+		+Added "Trapcraft"
+		+Added "Doggy Talents Mod"
+	+Added "The Seasons Mod"
+	+Added "DupleCraft"
+	+Added "AgeCraft"
+	+Added "littleMaidMob"
+	+Added "MusicCraft"
+	+Added "Famous Mod"
+	+Added "Doggy Talents Mod"
+	+Added "Equivalent Exchange 3"
+	+Added "Crazy Ravines"
+	+Added "Animated Player"
+	+Added "Calendar GUI"
+
 (April/13/2013)
 	*Updated "HomiePower Mod FE" info: Improved description
 	*Updated "Elemental Orbs" info: Now "Universal"

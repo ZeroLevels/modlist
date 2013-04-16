@@ -494,6 +494,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--DupleCraft-->
+<tr>
+	<td><a href="http://bit.ly/13aXSXU">DupleCraft</a></td>
+	<td class="desctt"><span class="tt">Adds a non-OP way of dupling (doubling) items. Also lets you fuse items together.</span></td>
+	<td>Cannash54</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Durability101-->
 <tr>
 	<td><a href="http://bit.ly/UCsPzk">Durability101</a></td>
@@ -1718,6 +1727,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--SwipeSilk-->
+<tr>
+	<td><a href="http://bit.ly/13155Ml">SwipeSilk</a></td>
+	<td class="desctt"><span class="tt">Adds the Youtuber "SwipeSilk" to the game, which drops a Diamond and has 100 health</span></td>
+	<td>MrTheJackFlames</td>
+	<td>SSP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------T-------------------------------------------------------->
 
@@ -1780,6 +1798,15 @@
 	<td><a href="http://bit.ly/10qPe6k">The Mists of RioV</a></td>
 	<td class="desctt"><span class="tt">"The imagined world is called RioV, in the year of 1301 DoC (Death of Carigon.), the land of RioV is filled with Nizonians. A native creature that are basically giant beasts. In 1278 DoC the Natives found a new threat across the land called Granitions, another wild beast. For 10 years they fought and the Nirons arrived dealing poison to all races when fought with. Since then, the races have been weakened and new races have arrived, such as we humans. There is a myth that in 1310 a monster called a Huton will destroy the land of RioV and leave it in ashes. This is The Mists of RioV."</span></td>
 	<td>sheenrox82</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Seasons Mod-->
+<tr>
+	<td><a href="http://bit.ly/UvEbTZ">The Seasons Mod</a></td>
+	<td class="desctt"><span class="tt">Adds the four seasons to Minecraft, each one with its own features and dangers (such as frostbite!)</span></td>
+	<td>The_WeatherPony</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2030,7 +2057,7 @@
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>204</b>
+	Mod count: <b>207</b>
 </div>
 
 <div class="API">
