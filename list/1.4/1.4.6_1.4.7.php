@@ -20,7 +20,7 @@
 	<center>
 		<p>
 			<img src="../../resources/images/1.4.6_1.4.7.png" width="290" height="58"/><br/>
-			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.6_1.4.7.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.4.6_1.4.7.txt" class="ns">Click here</a> to view the changelog.
+			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.6_1.4.7.html'); echo $content[1]; ?></span><br/><a href="changelog_1.4.6_1.4.7.html" class="ns">Click here</a> to view the changelog.
 		</p>
 		
 		<ul id="list-nav">
@@ -2055,12 +2055,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Falling Meteors Mod-->
 <tr>
 	<td><a href="http://bit.ly/WCTavC">Falling Meteors Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Meteors Fall to the ground and explode, forming craters that house various minerals from space which can be used for a variety of things, such as new tools and armour. Also adds meteor shields to protect yourself with.</span></td>
 	<td>AlexDGr8r</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2567,12 +2567,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Harken Scythe: Reap -What- You Sow-->
 <tr>
 	<td><a href="http://bit.ly/V4z1RQ">Harken Scythe: Reap -What- You Sow</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds Scythes, Reaping mechanics, Soul farming System, specialty items and equipment.</span></td>
 	<td>Jade Knightblazer</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3554,12 +3554,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Metallurgy 2-->
 <tr>
 	<td><a href="http://bit.ly/UvxjWI">Metallurgy 2</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds a large amount of content pertaining specifically to metals.</span></td>
 	<td>Shadowclaimer</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3907,12 +3907,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--More Health Enhanced-->
 <tr>
 	<td><a href="http://bit.ly/VxcrPZ">More Health Enhanced</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Lets you customize how many hearts of HP you begin with, which can be increased later through gaining levels or with heart containers found in dungeon chests.</span></td>
 	<td>nohero</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4057,15 +4057,14 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--MumbleLink-->
 <tr>
 	<td><a href="http://bit.ly/UR753N">MumbleLink</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">"A client-side Mod so that Minecraft now natively supports Mumble's positional audio feature."</span></td>
 	<td>zsawyer</td>
-	<td>SSP SMP LAN</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
-
 
 <!--MusicCraft-->
 <tr>
@@ -4104,12 +4103,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--myBiome Mod-->
 <tr>
 	<td><a href="http://bit.ly/XD8kXC">myBiome Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Allows you to remove currently existing biomes, or add highly customizable ones.</span></td>
 	<td>krimin_killr21</td>
-	<td>N/A</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4146,6 +4145,15 @@
 	<td class="desctd"><span class=""><!--INFO--></span></td>
 	<td>oitsjustjose</td>
 	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Myths and Monsters-->
+<tr>
+	<td><a href="http://bit.ly/11uNdWt">Myths and Monsters</a></td>
+	<td class="desctt"><span class="tt">"Adds a bunch of new weapons, armor, and items to use against the new, powerful monsters that lurk in the darkness and that are based off of folklore and fictious stories."</span></td>
+	<td>Uno165</td>
+	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -4293,10 +4301,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Ores drop Mores 2-->
 <tr>
 	<td><a href="http://bit.ly/Vr5HVR">Ores drop Mores 2</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">A highly configurable mod that allows you to change how many ingots you'll get from a single ore as well as modify XP gain from mining ores. Also allows you to configure the harvest level of pickaxes (i.e. You could configure it so that you only need a stone pickaxe to mine gold).</span></td>
 	<td>Rinnsal</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -4359,6 +4367,15 @@
 	<td>rich1051414</td>
 	<td>N/A</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--PaleoCraft-->
+<tr>
+	<td><a href="http://bit.ly/11uSwoI">PaleoCraft</a></td>
+	<td class="desctt"><span class="tt">A work in progress mod that will add realistic dinosaurs into your game. At the moment, the dinosaurs will only be spawnable using spawn eggs. Expect regular updates until the mod is released!</span></td>
+	<td>Dan_Wallace</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--|-->
@@ -4454,10 +4471,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Poop-->
 <tr>
 	<td><a href="http://bit.ly/WrhgtF">Poop</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds poop-related items into Minecraft.<br/><br/><i class="w">. . . -sigh- . . .</i></span></td>
 	<td>Tominator1</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -5747,6 +5764,14 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Too Much TNT-->
+<tr>
+	<td><a href="http://bit.ly/YAsVYx">Too Much TNT</a></td>
+	<td class="desctt"><span class="tt">Adds 10 new types of TNT and an ore for gun powder.</span></td>
+	<td>MinecraftTNTstuff</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
 
 <!--Torch Levers-->
 <tr>
@@ -6426,7 +6451,7 @@ In Touhou Style~!</span></td>
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>674</b>
+	Mod count: <b>677</b>
 </div>
 
 <div class="API">

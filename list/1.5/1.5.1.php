@@ -19,7 +19,7 @@
 <body>
 		<p>
 			<img src="../../resources/images/1.5.1.png" width="130" height="58"/><br/>
-			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.5.1.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.5.1.txt" class="ns">Click here</a> to view the changelog.
+			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.5.1.html'); echo $content[1]; ?></span><br/><a href="changelog_1.5.1.html" class="ns">Click here</a> to view the changelog.
 		</p>
 
 		<ul id="list-nav">
@@ -386,6 +386,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Better Item Despawning-->
+<tr>
+	<td><a href="http://bit.ly/10qAPKy">Better Item Despawning</a></td>
+	<td class="desctt"><span class="tt">Changes the way items despawn, so that instead of removing an item it is going to be placed down as a block.</span></td>
+	<td>Mr_Rossi</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Better World Generation 4-->
 <tr>
 	<td><a href="http://bit.ly/WmtfYF">Better World Generation 4</a></td>
@@ -714,6 +723,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Consistent Glowstone Drops-->
+<tr>
+	<td><a href="http://bit.ly/YCmtQU">Consistent Glowstone Drops</a></td>
+	<td class="desctt"><span class="tt">Makes glowstone always drop 4 glowstone dust.</span></td>
+	<td>TheMinecraftianGamer</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--ControlPack-->
 <tr>
 	<td><a href="http://bit.ly/WjlRBm">ControlPack</a></td>
@@ -895,6 +913,15 @@
 	<td>sheenrox82</td>
 	<td>Universal</td>
 	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
+<!--Derpy Squid-->
+<tr>
+	<td><a href="http://bit.ly/15pdWaW">Derpy Squid</a></td>
+	<td class="desctt"><span class="tt">"For millions of years the hidden world of the squid has been unknown to the Minecraftia. Until today when a strange new sea has been sighted of the horizon. What are these strange new squids? And I thought squids couldn't be more Derpy. And as we venture deeper we have discovered the sacred dimension of the squid where all squids are born and raised..."</span></td>
+	<td>Resinresinl</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Desert Cotton Plant-->
@@ -1116,6 +1143,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--EnchantView-->
+<tr>
+	<td><a href="http://bit.ly/108x1gj">EnchantView</a></td>
+	<td class="desctt"><span class="tt">Shows what the enchanting table will give you BEFORE you click on the enchantment, simply mouseover the enchant and a tooltip will appear.</span></td>
+	<td>Thebombzen</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Endermen Don't Pick Up Blocks Mod-->
 <tr>
 	<td><a href="http://bit.ly/13vszGc">Endermen Don't Pick Up Blocks Mod</a></td>
@@ -1130,6 +1166,15 @@
 	<td><a href="http://bit.ly/UvpH6y">Ender Storage</a></td>
 	<td class="d desctt"><span class="tt"><center><big class="d">CodeChickenCore Required:</big><br/>See <i class="d">bit.ly/cb-core</i></center><br/>EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch.</span></td>
 	<td>chicken_bones</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--EnderStuff+-->
+<tr>
+	<td><a href="http://bit.ly/VuxebI">EnderStuff+</a></td>
+	<td class="desctt"><span class="tt">This mod adds a bunch of stuff to the End dimension. From mobs over blocks to tools and weapons. </span></td>
+	<td>SanAndreasP</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1218,6 +1263,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Falling Meteors Mod-->
+<tr>
+	<td><a href="http://bit.ly/WCTavC">Falling Meteors Mod</a></td>
+	<td class="desctt"><span class="tt">Meteors Fall to the ground and explode, forming craters that house various minerals from space which can be used for a variety of things, such as new tools and armour. Also adds meteor shields to protect yourself with.</span></td>
+	<td>AlexDGr8r</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Familiars Mod-->
 <tr>
 	<td><a href="http://bit.ly/VNNZZT">Familiars Mod</a> (and API)</td>
@@ -1245,6 +1299,15 @@
 	<td class="fr">Forge Required</td><!--Version Independent-->
 </tr>
 
+<!--FewerRavines/LessCaves-->
+<tr>
+	<td><a href="http://bit.ly/11qupYC">FewerRavines/LessCaves</a></td>
+	<td class="desctt"><span class="tt">Reduces the size of caves and ravines to a configurable amount.</span></td>
+	<td>Michi302</td>
+	<td>SSP SMP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--Finder Compass-->
 <tr>
 	<td><a href="http://bit.ly/ZhnTRT">Finder Compass</a></td>
@@ -1259,6 +1322,15 @@
 	<td><a href="http://bit.ly/13aYRXO">Flan's Mod</a></td>
 	<td class="desctt"><span class="tt">A combination of Planes, Vehicles and WW2Guns rewritten with a whole load of awesome new features and designed to allow easy custom content creation by anyone. Flan's mod alone is useless, it requires content packs in order to be of any use.</span></td>
 	<td>jamioflan</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Flann Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZAFqGI">Flann Mod</a></td>
+	<td class="desctt"><span class="tt">Adds new tools, materials, and a few extra blocks mainly for self defence (such as protecting your home against creepers and other mobs)</span></td>
+	<td>Xnet</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1353,6 +1425,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--FriendColour-->
+<tr>
+	<td><a href="http://bit.ly/friendcolor">FriendColour</a></td>
+	<td class="desctt"><span class="tt">A client mod that allows you to give your mates cloaks, an extra nameplate tag and the most useful feature: customize your friends' names and add colours etc.! It is customizable with the advanced, user-friendly FriendColour GUI.</span></td>
+	<td>Luke</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Furniture Mod-->
 <tr>
 	<td><a href="http://bit.ly/12Y1tLl">Furniture Mod</a></td>
@@ -1389,6 +1470,15 @@
 	<td class="desctt"><span class="tt">Adds many gem ores, items, blocks, tools, weapons, armors, dusts, sands and glasses to the game.</span></td>
 	<td>RobZ51</td>
 	<td><b>Universal</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--GenCreator-->
+<tr>
+	<td><a href="http://bit.ly/11s6FCf">GenCreator</a></td>
+	<td class="desctt"><span class="tt">A mod inspired by AtomicStryker's Ruins mod, but instead allows you to create the WorldGen structures from inside the game.</span></td>
+	<td>Vazkii</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1521,6 +1611,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--HiddenDoors-->
+<tr>
+	<td><a href="http://bit.ly/ZxA103">HiddenDoors</a></td>
+	<td class="desctt"><span class="tt">Originally by TehKrush, Hidden Doors adds a door that will take the texture of whatever block you place it on.  Useful for making secret passages/rooms.</span></td>
+	<td>bspkrs</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Highlands-->
 <tr>
 	<td><a href="http://bit.ly/145GFhX">Highlands</a></td>
@@ -1550,6 +1649,15 @@
 
 
 <!----------------------------------------------------------I-------------------------------------------------------->
+
+<!--I Don't Like Villages Mod-->
+<tr>
+	<td><a href="http://bit.ly/YCFeDQ">I Don't Like Villages Mod</a></td>
+	<td class="desctt"><span class="tt">Makes it so that villages and villagers do not spawn.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
 
 <!--Ice Cream Sandwich Creeper Mod-->
 <tr>
@@ -1803,6 +1911,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Lemon Land-->
+<tr>
+	<td><a href="http://bit.ly/13hYf5i">Lemon Land</a></td>
+	<td class="desctt"><span class="tt">Adds lemeons, lemon tools, weapons, biomes, and mobs.</span></td>
+	<td>TwistedCarny</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Light Level Overlay-->
 <tr>
 	<td><a href="http://bit.ly/WmOkmG">Light Level Overlay</a></td>
@@ -1876,6 +1993,24 @@
 	<td>Hurricaaane</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Metallurgy 3-->
+<tr>
+	<td><a href="http://bit.ly/temp-metallurgy-beta-151">Metallurgy 3</a></td>
+	<td class="desctt"><span class="tt">"A vast enhancement to the basic mining system, adding well over 48+ new metals (based on which submods you use). Our goal is to create a balanced atmosphere for players to explore and enjoy mining. Metallurgy 2 is also modular, configurable, and entirely tailoring for the player's experience."</span></td>
+	<td>Shadowclaimer</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[Metallurgy 3] Metal Mechanics-->
+<tr>
+	<td><a href="http://bit.ly/17ooqUB">[Metallurgy 3] Metal Mechanics</a></td>
+	<td class="desctt"><span class="tt">Brings the power of Universal Electricity to the world of Metallurgy!</span></td>
+	<td>Lycanite</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Millenaire-->
@@ -2049,12 +2184,30 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--More Explosives-->
+<tr>
+	<td><a href="http://bit.ly/VNTTtZ">More Explosives</a></td>
+	<td class="desctt"><span class="tt">Adds many new types of ways to destroy your enemies, more often than not, involving explosions. Be careful you don't set anything off too close to home!</span></td>
+	<td>NikolaiTheEpicGenius</td>
+	<td>SSP SMP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--More Info Mod-->
 <tr>
 	<td><a href="http://bit.ly/cjbmodsr">More Info Mod</a></td>
 	<td class="d desctt"><span class="tt"><center><big class="d">CJB API Required</big><br/>See <i class="d">bit.ly/cjb-api</i></center><br/>Adds a lot more information to your screen. The information you want to see is easily configurable. Just press the I key to open the MoreInfo Options menu, here you can turn on or off the information you want to see. It's also possible to change in which corner the information must be shown.</span></td>
 	<td>CJB</td>
 	<td>Clientside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--More Health Enhanced-->
+<tr>
+	<td><a href="http://bit.ly/VxcrPZ">More Health Enhanced</a></td>
+	<td class="desctt"><span class="tt">Lets you customize how many hearts of HP you begin with, which can be increased later through gaining levels or with heart containers found in dungeon chests.</span></td>
+	<td>nohero</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2121,6 +2274,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--More Records Mod-->
+<tr>
+	<td><a href="http://bit.ly/WlEcus">More Records Mod</a></td>
+	<td class="desctt"><span class="tt">Includes various records that can be played in a jukebox. These Records can be found in any naturally spawning chest, This includes dungeon loot, blacksmith chests, and jungle temple chests.</span></td>
+	<td>DarkHax</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Move Plus-->
 <tr>
 	<td><a href="http://bit.ly/moveplus">Move Plus</a></td>
@@ -2148,6 +2310,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--MumbleLink-->
+<tr>
+	<td><a href="http://bit.ly/UR753N">MumbleLink</a></td>
+	<td class="desctt"><span class="tt">"A client-side Mod so that Minecraft now natively supports Mumble's positional audio feature."</span></td>
+	<td>zsawyer</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Mushroom Torch-->
 <tr>
 	<td><a href="http://bit.ly/15dyxg3">Mushroom Torch</a></td>
@@ -2166,12 +2337,30 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Mutant Biome-->
+<tr>
+	<td><a href="http://bit.ly/YAvMk9">Mutant Biome</a></td>
+	<td class="desctt"><span class="tt">"Adds a new evil biome and world type, powerful monsters, and strong, magical armor.  An evil is spreading across the land corrupting all in its path.  Do you dare enter the Blighted land where the monsters you thought you knew have been mutated and twisted into even more dangerous abominations?"</span></td>
+	<td>xevozfighter</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Mutant Creatures-->
 <tr>
 	<td><a href="http://bit.ly/RBUH83">Mutant Creatures</a></td>
 	<td class="desctt"><span class="tt">"Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!"</span></td>
 	<td>thehippomaster21</td>
 	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--myBiome Mod-->
+<tr>
+	<td><a href="http://bit.ly/XD8kXC">myBiome Mod</a></td>
+	<td class="desctt"><span class="tt">Allows you to remove currently existing biomes, or add highly customizable ones.</span></td>
+	<td>krimin_killr21</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2200,6 +2389,15 @@
 	<td>oitsjustjose</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Myths and Monsters-->
+<tr>
+	<td><a href="http://bit.ly/11uNdWt">Myths and Monsters</a></td>
+	<td class="desctt"><span class="tt">"Adds a bunch of new weapons, armor, and items to use against the new, powerful monsters that lurk in the darkness and that are based off of folklore and fictious stories."</span></td>
+	<td>Uno165</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 
@@ -2355,6 +2553,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--PaleoCraft-->
+<tr>
+	<td><a href="http://bit.ly/11uSwoI">PaleoCraft</a></td>
+	<td class="desctt"><span class="tt">A work in progress mod that will add realistic dinosaurs into your game. At the moment, the dinosaurs will only be spawnable using spawn eggs. Expect regular updates until the mod is released!</span></td>
+	<td>Dan_Wallace</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Pet Bat-->
 <tr>
 	<td><a href="http://bit.ly/as-petbats">Pet Bat</a></td>
@@ -2388,6 +2595,15 @@
 	<td class="desctt"><span class="tt">Adds the ability for players to drop their own heads.</span></td>
 	<td>FatherToast</td>
 	<td>Serverside Mod</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Poop-->
+<tr>
+	<td><a href="http://bit.ly/WrhgtF">Poop</a></td>
+	<td class="desctt"><span class="tt">Adds poop-related items into Minecraft.<br/><br/><i class="w">. . . -sigh- . . .</i></span></td>
+	<td>Tominator1</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2567,6 +2783,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Resident Evil Mod-->
+<tr>
+	<td><a href="http://bit.ly/YC10ax">The Resident Evil Mod</a></td>
+	<td class="desctt"><span class="tt">Adds much content based on the Resident Evil franchise of videogames.</span></td>
+	<td>LiamR99</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--Retro Fences-->
 <tr>
 	<td><a href="http://bit.ly/Ty9cf2">Retro Fences</a></td>
@@ -2590,6 +2815,15 @@
 	<td><a href="http://bit.ly/as-ropesplus">Ropes+</a></td>
 	<td class="desctt"><span class="tt">A merged and enhanced version of 303's "Elemental Arrows", SDK's "Grappling Hook", and DJRoslin's "Rope".</span></td>
 	<td>AtomicStryker</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Rotten Flesh to Leather-->
+<tr>
+	<td><a href="http://bit.ly/YC90Zl">Rotten Flesh to Leather</a></td>
+	<td class="desctt"><span class="tt">Adds the ability to smelt rotten flesh into perfectly usable leather. Useful for aiding in getting enough books to power your enchantment table.</span></td>
+	<td>DarrenPR</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2677,6 +2911,15 @@
 	<td><a href="http://bit.ly/as-simplyhax">Simply Hax</a></td>
 	<td class="desctt"><span class="tt">Simply Hax are plain cheating/utility modifications, which, unlike pretty much all other cheat mods, should not interfere with notch classes. Thus, they should be compatible with anything that isn't another cheat mod doing the same thing.</span></td>
 	<td>AtomicStryker</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Simply Horses-->
+<tr>
+	<td><a href="http://bit.ly/106viBJ">Simply Horses</a></td>
+	<td class="desctt"><span class="tt">Opens the player to a new mode of play, both advantageous and detrimental. With this mod, one can catch his own horse, break it, and use it in one of three ways- to race around the world and push the borders of their domain, to trample over enemies, or to make day-to-day work and travel a bit more doable. There are also new tools to help you, from simple storage carts to homely wagons.</span></td>
+	<td>Lil Avii</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2870,6 +3113,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Superheroes Unlimited-->
+<tr>
+	<td><a href="http://bit.ly/17b4RkE">Superheroes Unlimited</a></td>
+	<td class="desctt"><span class="tt">Lets you become superheroes in minecraft!</span></td>
+	<td>Tihyo</td>
+	<td>SSP LAN</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------T-------------------------------------------------------->
 
@@ -2954,6 +3206,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Lord of the Rings-->
+<tr>
+	<td><a href="http://bit.ly/11318S2">The Lord of the Rings</a> (Beta)</td>
+	<td class="desctt"><span class="tt">"Bringing middle-earth to minecraft, The Lord of the Rings mod adds a bunch of new items, mobs, blocks and a dimension from the Lord of the Rings series. This mod also adds a good and evil selection, plus quests ranging from small tasks to epic adventures."</span></td>
+	<td>Mevans</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Mists of RioV-->
 <tr>
 	<td><a href="http://bit.ly/10qPe6k">The Mists of RioV</a></td>
@@ -2982,13 +3243,13 @@
 </tr>
 
 <!--The Runic Dust Mod-->
-<tr>
+<!--<tr>
 	<td><a href="http://bit.ly/VmqTz2">The Runic Dust Mod</a></td>
 	<td class="desctt"><span class="tt">Allows you to draw runes on the ground physically and outside the crafting gui. Depending on what pattern you draw and what you give as a sacrifice, something magical will happen.</span></td>
 	<td>billythegoat101</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
-</tr>
+</tr>-->
 
 <!--The Seasons Mod-->
 <tr>
@@ -3402,7 +3663,7 @@ In Touhou Style~!</span></td>
 </table><br/>
 
 <div class="footer count">
-	Mod count: <b>356</b>
+	Mod count: <b>384</b>
 </div>
 
 <div class="API">

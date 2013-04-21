@@ -20,7 +20,7 @@
 	<center>
 		<p>
 			<img src="../../resources/images/1.4.2.png" width="130" height="58"/><br/>
-			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.2.txt'); echo $content[0]; ?></span><br/><a href="changelog_1.4.2.txt" class="ns">Click here</a> to view the changelog.
+			<span style="font-size:200%">Last Updated: <?php $content = file('changelog_1.4.2.html'); echo $content[1]; ?></span><br/><a href="changelog_1.4.2.html" class="ns">Click here</a> to view the changelog.
 		</p>
 		
 		<ul id="list-nav">

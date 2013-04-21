@@ -1,3 +1,8 @@
+body {
+	background-color:#000;
+	color:#fff;
+}
+
 pre {
 	font-family:verdana,arial;
 	white-space:pre-wrap;	/* css-3 */
