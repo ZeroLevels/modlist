@@ -510,12 +510,12 @@
 </tr>
 
 
-<!--|-->
+<!--Better Than Wolves Mod-->
 <tr>
 	<td><a href="http://bit.ly/UA8udT">Better Than Wolves Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">A mod that changes much of the functionality of Minecraft that makes Survival a lot less trivial, as well as mechanical additions that progress through ages.<br/><br/><i class="w">Not for the weak. Progression takes time, effort, and a lot of getting used to from the standard Minecraft.</i></span></td>
 	<td>FlowerChild</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
@@ -940,12 +940,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Castle Defenders-->
 <tr>
 	<td><a href="http://bit.ly/UZFA7d">Castle Defenders</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Features new NPCs that will aid you against monsters.</span></td>
 	<td>Azurn</td>
-	<td>N/A</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -1516,10 +1516,10 @@
 <!--Dalek Mod-->
 <tr>
 	<td><a href="http://bit.ly/WBHu2N">Dalek Mod</a></td>
-	<td class="desctt"><span class="tt">Adds a bunch of creatures from the hit BBC show Doctor Who</span></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Compatible</big><br/><small class="d">This mod has a separate version for each ModLoader and Forge.</small><br/><br/>Adds a bunch of creatures from the hit BBC show Doctor Who</span></td>
 	<td>1WTC</td>
 	<td>SSP</td>
-	<td class="fr">Forge Required</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--|-->
@@ -1794,12 +1794,12 @@
 
 <!----------------------------------------------------------E-------------------------------------------------------->
 
-<!--|-->
+<!--Easy Crafting-->
 <tr>
 	<td><a href="http://bit.ly/108jsgI">Easy Crafting</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">A spiritual successor to the Crafting Table II and Crafting Table III mods by ljdp and Zeldo, but aims to be so much more.</span></td>
 	<td>Lepko</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2033,6 +2033,14 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Extra-Blocks mod-->
+<tr>
+	<td><a href="http://bit.ly/17XCyof">Extra-Blocks mod</a></td>
+	<td class="desctt"><span class="tt">"Adds useful blocks and items that save time and effort with much more content planned."</span></td>
+	<td>moverperfect</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--ExtraWorldGeneration-->
 <tr>
@@ -2622,10 +2630,10 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--Herobrine Mod-->
 <tr>
 	<td><a href="http://bit.ly/VFDivm">Herobrine Mod</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds Herobrine to your game.</span></td>
 	<td>burnner_</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
@@ -2873,7 +2881,7 @@
 <!--|-->
 <tr>
 	<td><a href="http://bit.ly/UWuj7J">[IndustrialCraft 2] ChargePads</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Provides new blocks which, when stood upon, will recharge IC2 items that are held in your hand or worn (like batpacks or parts of a nanosuit).</span></td>
 	<td>Myrathi</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -2934,12 +2942,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[IndustrialCraft 2] GregTech-Addon-->
 <tr>
 	<td><a href="http://bit.ly/X5rZhS">[IndustrialCraft 2] GregTech-Addon</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">A highly configurable addon for IndustrialCraft with several modes depending on how much time and dedication you're willing to spend on it. On top of allowing you to configure previously existing recipes to your liking, this addon also adds higher levels of technology to work towards. It's frequently used on servers so that people don't get all possible technology in a single day.</span></td>
 	<td>GregoriusT</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2952,12 +2960,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[IndustrialCraft 2] Modular Force Field System-->
 <tr>
-	<td><a href="http://bit.ly/zcqAvY">[IndustrialCraft 2] Modular Force Field System</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/zcqAvY">[IndustrialCraft 2] Modular Force Field System</a> (MFFS)</td>
+	<td class="desctt"><span class="tt">Makes forcefields that you can make look like other blocks or hold mobs/players at bay with.</span></td>
 	<td>Thunderdark</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2970,12 +2978,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[IndustrialCraft 2] Nuclear Control-->
 <tr>
 	<td><a href="http://bit.ly/IkHWHJ">[IndustrialCraft 2] Nuclear Control</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system.</span></td>
 	<td>Shedar</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -4188,12 +4196,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--NetherStuffs-->
 <tr>
 	<td><a href="http://bit.ly/YbHbvc">NetherStuffs</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds ores and Trees to the Nether and also allows gathering of Soul Energy from mobs to be used in other Machinery. Also adds a torchbow!</span></td>
 	<td>Rinnsal</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -5360,12 +5368,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Thaumcraft 3-->
 <tr>
 	<td><a href="http://bit.ly/XDdxic">Thaumcraft 3</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.</span></td>
 	<td>Azanor</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -6451,7 +6459,7 @@ In Touhou Style~!</span></td>
 </table></center><br/>
 
 <div class="footer">
-	Mod count: <b>677</b>
+	Mod count: <b>678</b>
 </div>
 
 <div class="API">

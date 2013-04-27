@@ -323,6 +323,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--BearGrylls Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZUIFVC">BearGrylls Mod</a></td>
+	<td class="desctt"><span class="tt">Allows you to eat every single thing in minecraft by holding R key (customizable).</span></td>
+	<td>WiseClock</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Better Animations Collection Revived-->
 <tr>
 	<td><a href="http://bit.ly/Xs721j">Better Animations Collection Revived</a></td>
@@ -393,6 +402,15 @@
 	<td>Mr_Rossi</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Better Than Wolves Mod-->
+<tr>
+	<td><a href="http://bit.ly/UA8udT">Better Than Wolves Mod</a></td>
+	<td class="desctt"><span class="tt">A mod that changes much of the functionality of Minecraft that makes Survival a lot less trivial, as well as mechanical additions that progress through ages.<br/><br/><i class="w">Not for the weak. Progression takes time, effort, and a lot of getting used to from the standard Minecraft.</i></span></td>
+	<td>FlowerChild</td>
+	<td>Universal</td>
+	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
 <!--Better World Generation 4-->
@@ -542,6 +560,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Castle Defenders-->
+<tr>
+	<td><a href="http://bit.ly/UZFA7d">Castle Defenders</a></td>
+	<td class="desctt"><span class="tt">Features new NPCs that will aid you against monsters.</span></td>
+	<td>Azurn</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Cave-Gen Mod-->
 <tr>
 	<td><a href="http://bit.ly/117FAHr">Cave-Gen Mod</a></td>
@@ -632,6 +659,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Chocolate Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZnHlz9">Chocolate Mod</a></td>
+	<td class="desctt"><span class="tt">Adds the opportunity to craft edible chocolate to the game!</span></td>
+	<td>Saphir09</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--CJB API-->
 <tr>
 	<td><a href="http://bit.ly/cjbmodsr">CJB API</a> (Dependency)</td>
@@ -657,6 +693,15 @@
 	<td>chicken_bones</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--COFL's Simple Arrowblur-->
+<tr>
+	<td><a href="http://bit.ly/10ATG5R">COFL's Simple Arrowblur</a></td>
+	<td class="desctt"><span class="tt">Adds dlordazgalor's Stadiametric Rangefinder without replacing the pumpkin blur texture.<br/><br/><i class="w">Conflicts with the aww.class (GuiIngame) file from forge.</i></span></td>
+	<td>clacourt</td>
+	<td>Clientside Mod</td>
+	<td class="nfc">Not Forge Compatible</td>
 </tr>
 
 <!--Colorful Armor-->
@@ -852,6 +897,15 @@
 
 <!----------------------------------------------------------D-------------------------------------------------------->
 
+<!--Dalek Mod-->
+<tr>
+	<td><a href="http://bit.ly/WBHu2N">Dalek Mod</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Compatible</big><br/><small class="d">This mod has a separate version for each ModLoader and Forge.</small><br/><br/>Adds a bunch of creatures from the hit BBC show Doctor Who</span></td>
+	<td>1WTC</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Damage Indicators-->
 <tr>
 	<td><a href="http://bit.ly/WnybMA">Damage Indicators</a></td>
@@ -987,6 +1041,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--doFireTweak-->
+<tr>
+	<td><a href="http://bit.ly/17YP3A0">doFireTweak</a></td>
+	<td class="desctt"><span class="tt">Tweaks false state of doFireTick gamerule. It simply makes fire disappear, when gamerule doFireTick is set to false.</span></td>
+	<td>Wojtab</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Doggy Talents Mod-->
 <tr>
 	<td><a href="http://bit.ly/137QH54">Doggy Talents Mod</a></td>
@@ -1011,7 +1074,7 @@
 	<td class="desctt"><span class="tt">Adds double doors, allowing them to be opened and closed together. Also enjoy double fence gates and trap doors! This works with clicking on them as well as all things redstone.</span></td>
 	<td>kirsybuu</td>
 	<td>Universal</td>
-	<td class="fc">Forge Required</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Dragon Block C-->
@@ -1087,6 +1150,15 @@
 	<td>jsprouts</td>
 	<td>SSP SMP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Easy Crafting-->
+<tr>
+	<td><a href="http://bit.ly/108jsgI">Easy Crafting</a></td>
+	<td class="desctt"><span class="tt">A spiritual successor to the Crafting Table II and Crafting Table III mods by ljdp and Zeldo, but aims to be so much more.</span></td>
+	<td>Lepko</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Elemental Arrows-->
@@ -1215,6 +1287,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Extended Workbench-->
+<tr>
+	<td><a href="http://bit.ly/VFB6UT">Extended Workbench</a></td>
+	<td class="desctt"><span class="tt">Extends the abilities of the workbench, allowing for more powerful tools, armour, and weapons.</span></td>
+	<td>Naruto1310</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--EternalsSwords-->
 <tr>
 	<td><a href="http://bit.ly/XizIus">EternalsSwords</a></td>
@@ -1229,6 +1310,15 @@
 	<td><a href="http://bit.ly/XCV19S">ExtraBiomesXL</a></td>
 	<td class="desctt"><span class="tt">Adds new biomes that enhance game play and make exploring fun and interesting.</span></td>
 	<td>MisterFiber</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Extra-Blocks mod-->
+<tr>
+	<td><a href="http://bit.ly/17XCyof">Extra-Blocks mod</a></td>
+	<td class="desctt"><span class="tt">"Adds useful blocks and items that save time and effort with much more content planned."</span></td>
+	<td>moverperfect</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1350,6 +1440,15 @@
 	<td class="desctt"><span class="tt">Makes the bedrock layer completely flat against the bottom of the world.</span></td>
 	<td>DerBaM</td>
 	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--FlintCraft-->
+<tr>
+	<td><a href="http://bit.ly/183rBV4">FlintCraft</a></td>
+	<td class="desctt"><span class="tt">Adds flint armour, tools, weapons and more.</span></td>
+	<td>Kinyoshi</td>
+	<td>SSP LAN</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -1500,6 +1599,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Glowstone Wire-->
+<tr>
+	<td><a href="http://bit.ly/13BkZcS">Glowstone Wire</a></td>
+	<td class="desctt"><span class="tt">Allows you to place glowstone dust! Not only they're great for trails, they actually give out light!</span></td>
+	<td>GrygrFlzr</td>
+	<td>Universal</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Grave-->
 <tr>
 	<td><a href="http://bit.ly/VK1yu3">Grave</a> (BaM's)</td>
@@ -1611,6 +1719,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Herobrine Mod-->
+<tr>
+	<td><a href="http://bit.ly/VFDivm">Herobrine Mod</a></td>
+	<td class="desctt"><span class="tt">Adds Herobrine to your game.</span></td>
+	<td>burnner_</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--HiddenDoors-->
 <tr>
 	<td><a href="http://bit.ly/ZxA103">HiddenDoors</a></td>
@@ -1718,6 +1835,42 @@
 	<td><a href="http://bit.ly/10oNRBU">IndustrialCraft 2</a> (Pre-Release Builds)</td>
 	<td class="desctt"><span class="tt">Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.</span></td>
 	<td>Alblaka</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[IndustrialCraft 2] Combo Armors-->
+<tr>
+	<td><a href="http://bit.ly/XRBmNs">[IndustrialCraft 2] Combo Armors</a></td>
+	<td class="desctt"><span class="tt">Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.</span></td>
+	<td>UnixRano</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[IndustrialCraft 2] GregTech-Addon-->
+<tr>
+	<td><a href="http://bit.ly/X5rZhS">[IndustrialCraft 2] GregTech-Addon</a></td>
+	<td class="desctt"><span class="tt">A highly configurable addon for IndustrialCraft with several modes depending on how much time and dedication you're willing to spend on it. On top of allowing you to configure previously existing recipes to your liking, this addon also adds higher levels of technology to work towards. It's frequently used on servers so that people don't get all possible technology in a single day.</span></td>
+	<td>GregoriusT</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[IndustrialCraft 2] Modular Force Field System v2-->
+<tr>
+	<td><a href="http://bit.ly/17lwlEj">[IndustrialCraft 2] Modular Force Field System</a> (MFFS)</td>
+	<td class="desctt"><span class="tt">Makes forcefields that you can make look like other blocks or hold mobs/players at bay with.</span></td>
+	<td>Minalien</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[IndustrialCraft 2] Nuclear Control-->
+<tr>
+	<td><a href="http://bit.ly/IkHWHJ">[IndustrialCraft 2] Nuclear Control</a></td>
+	<td class="desctt"><span class="tt">Allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system.</span></td>
+	<td>Shedar</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -1893,6 +2046,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--LavaBoat-->
+<tr>
+	<td><a href="http://bit.ly/Zr3bSi">LavaBoat</a></td>
+	<td class="desctt"><span class="tt">Adds a boat made of iron and obsidian that can sail through lava much like standard boats sail through water. When an Iron Boat is placed in water, it sinks (configurable). Great for getting around the nether!</span></td>
+	<td>NightKosh</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Lava Monsters-->
 <tr>
 	<td><a href="http://bit.ly/VuOduI">Lava Monsters</a></td>
@@ -1938,6 +2100,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--LiteLoader-->
+<tr>
+	<td><a href="http://bit.ly/WnFEuT">LiteLoader</a> (API)</td>
+	<td class="d desctt"><span class="tt">A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. It is designed to run alongside ModLoader and Minecraft Forge and LiteLoader mods will not conflict with ModLoader or Forge mods.</span></td>
+	<td>Mumfrey</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--littleMaidMob-->
 <tr>
 	<td><a href="http://bit.ly/Xee3zn">littleMaidMob</a></td>
@@ -1958,6 +2129,15 @@
 
 
 <!----------------------------------------------------------M-------------------------------------------------------->
+
+<!--Magical Crops-->
+<tr>
+	<td><a href="http://bit.ly/W9maB8">Magical Crops</a></td>
+	<td class="desctt"><span class="tt">Introduces lot of new crops that grow all sort of things, from new food like sweetcorn and strawberries to Coal essence and Diamond essence which can be crafting into Coal and Diamonds.</span></td>
+	<td>Mark719</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
 
 <!--Magical Experience-->
 <tr>
@@ -2117,8 +2297,8 @@
 	<td><a href="http://bit.ly/10pK0Vf">Mithril</a></td>
 	<td class="desctt"><span class="tt">Introduces several ores and Mithril metal to the game.</span></td>
 	<td>rbdyck</td>
-	<td>SSP</td>
-	<td class="nfc">Not Forge Compatible</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Mo' Creatures-->
@@ -2154,6 +2334,15 @@
 	<td class="d desctt"><span class="tt"><center><big class="d">CJB API Required</big><br/>See <i class="d">bit.ly/cjb-api</i></center><br/>Lets you choose mobs to keep the game from spawning.</span></td>
 	<td>CJB</td>
 	<td><b>SSP</b></td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Mob Pressure Plates Mod-->
+<tr>
+	<td><a href="http://bit.ly/14nwTv6">Mob Pressure Plates Mod</a></td>
+	<td class="desctt"><span class="tt">Adds a pressure plate for each mob. The pressure plate may only be activated by its respective mob.</span></td>
+	<td>gegy1000</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -2227,6 +2416,15 @@
 	<td>Risugami</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--More Stuff-->
+<tr>
+	<td><a href="http://bit.ly/10dtRBt">More Stuff</a></td>
+	<td class="desctt"><span class="tt">Adds new things to Minecraft, such as new ores (Frost/Fire ore), new tools (Frost, Fire, and Emerald tools), new armor (Frost, Fire, Emerald), and new blocks.</span></td>
+	<td>desertedbart123</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--More Swords Mod-->
@@ -2382,6 +2580,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Mysterious Eggs-->
+<tr>
+	<td><a href="http://bit.ly/ZwZ5c8">Mysterious Eggs</a></td>
+	<td class="desctt"><span class="tt">Infuser makes Spawn eggs out of some other ingredients, mysterious eggs being one of them.</span></td>
+	<td>Banana Split</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Mystic Mod-->
 <tr>
 	<td><a href="http://bit.ly/16RPIWd">Mystic Mod</a></td>
@@ -2435,6 +2642,15 @@
 	<td><a href="http://bit.ly/VW7qTy">Nether Ores</a></td>
 	<td class="d desctt"><span class="tt"><big class="d">Also Requires:</big><br/><small class="d">PowerCrstals Core (Dependency)</small><br/><br/>Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.</span></td>
 	<td>power crystals</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--NetherStuffs-->
+<tr>
+	<td><a href="http://bit.ly/YbHbvc">NetherStuffs</a></td>
+	<td class="desctt"><span class="tt">Adds ores and Trees to the Nether and also allows gathering of Soul Energy from mobs to be used in other Machinery. Also adds a torchbow!</span></td>
+	<td>Rinnsal</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2530,6 +2746,15 @@
 	<td>sp614x</td>
 	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Ores drop Mores 2-->
+<tr>
+	<td><a href="http://bit.ly/Vr5HVR">Ores drop Mores 2</a></td>
+	<td class="desctt"><span class="tt">A highly configurable mod that allows you to change how many ingots you'll get from a single ore as well as modify XP gain from mining ores. Also allows you to configure the harvest level of pickaxes (i.e. You could configure it so that you only need a stone pickaxe to mine gold).</span></td>
+	<td>Rinnsal</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Overcrafted-->
@@ -2712,6 +2937,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Reactioncraft BaseMod-->
+<tr>
+	<td><a href="http://bit.ly/12hC0sL">Reactioncraft BaseMod</a> (Dependency)</td>
+	<td class="desctt"><span class="tt">A mod needed in order for the other Reactioncraft mods to run correctly.</span></td>
+	<td>eragonn1490</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Reactioncraft Better Bookcases-->
+<tr>
+	<td><a href="http://bit.ly/14Px0Ak">Reactioncraft Better Bookcases</a></td>
+	<td class="desctt"><span class="tt">Adds several bookcase-related blocks to the game, such as empty shelves (plain or with webs), a secret lever bookshelf, a door disguised as a bookshelf, and a bookshelf chest.</span></td>
+	<td>eragonn1490</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--RealLan-->
 <tr>
 	<td><a href="http://bit.ly/13b7p14">RealLan</a></td>
@@ -2783,15 +3026,6 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--The Resident Evil Mod-->
-<tr>
-	<td><a href="http://bit.ly/YC10ax">The Resident Evil Mod</a></td>
-	<td class="desctt"><span class="tt">Adds much content based on the Resident Evil franchise of videogames.</span></td>
-	<td>LiamR99</td>
-	<td>SSP</td>
-	<td class="nfc">Not Forge Compatible</td>
-</tr>
-
 <!--Retro Fences-->
 <tr>
 	<td><a href="http://bit.ly/Ty9cf2">Retro Fences</a></td>
@@ -2858,6 +3092,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Sealab's Commands-->
+<tr>
+	<td><a href="http://bit.ly/11KtO44">Sealab's Commands</a></td>
+	<td class="desctt"><span class="tt">Adds several commands to the game.</span></td>
+	<td>Sealab865</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Shelf-->
 <tr>
 	<td><a href="http://bit.ly/WnSwBj">Shelf</a></td>
@@ -2890,7 +3133,7 @@
 
 <!--SimpleOres-->
 <tr>
-	<td><a target="blank" href="http://bit.ly/U7gLWK">SimpleOres</a></td>
+	<td><a href="http://bit.ly/U7gLWK">SimpleOres</a></td>
 	<td class="desctt"><span class="tt">Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no "uber" tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.</span></td>
 	<td>AleXndrTheGr8st</td>
 	<td>Universal</td>
@@ -3161,6 +3404,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Thaumcraft 3-->
+<tr>
+	<td><a href="http://bit.ly/XDdxic">Thaumcraft 3</a></td>
+	<td class="desctt"><span class="tt">Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.</span></td>
+	<td>Azanor</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--The Airship Mod-->
+<tr>
+	<td><a href="http://bit.ly/123dsB0">The Airship Mod</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big><br/><br/>Adds a fully working Airship to Minecraft, complete with fuel systems and animations!</span></td>
+	<td>bmanrules</td>
+	<td>SSP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--The Barrels Mod-->
 <tr>
 	<td><a href="http://bit.ly/15eDKSH">The Barrels Mod</a></td>
@@ -3242,6 +3503,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Resident Evil Mod-->
+<tr>
+	<td><a href="http://bit.ly/YC10ax">The Resident Evil Mod</a></td>
+	<td class="desctt"><span class="tt">Adds much content based on the Resident Evil franchise of videogames.</span></td>
+	<td>LiamR99</td>
+	<td>SSP</td>
+	<td class="nfc">Not Forge Compatible</td>
+</tr>
+
 <!--The Runic Dust Mod-->
 <!--<tr>
 	<td><a href="http://bit.ly/VmqTz2">The Runic Dust Mod</a></td>
@@ -3283,6 +3553,15 @@
 	<td><a href="http://bit.ly/UxhiF3">Thermal Expansion</a> (Beta)</td>
 	<td class="desctt"><span class="tt">Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Formerly dependent on BuildCraft, this mod is now stand-alone, but uses the same power system as BuildCraft.</span></td>
 	<td>Team CoFH</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Throwable Bricks Mod-->
+<tr>
+	<td><a href="http://bit.ly/10GevvI">Throwable Bricks Mod</a></td>
+	<td class="desctt"><span class="tt">Makes bricks throwable, which cause damage.</span></td>
+	<td>StrangeOne101</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -3351,6 +3630,15 @@ In Touhou Style~!</span></td>
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Travelling House Mod-->
+<tr>
+	<td><a href="http://bit.ly/Yw7BmH">Travelling House Mod</a></td>
+	<td class="desctt"><span class="tt">This mod allows you to explore your minecraft world freely while still having your own base whenever you need it. Pack your base on blueprint schematic and unpack it whenever wherever you please. Not just your house, your farm and all farm animals, your infinite water source etc. Works in other dimensions too!</span></td>
+	<td>The_cLyde</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--TreeCapitator-->
 <tr>
 	<td><a href="http://bit.ly/TWHHIG">TreeCapitator</a></td>
@@ -3358,6 +3646,15 @@ In Touhou Style~!</span></td>
 	<td>bspkrs</td>
 	<td>Universal</td>
 	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--True Randomite-->
+<tr>
+	<td><a href="http://bit.ly/10ec5Ok">True Randomite</a></td>
+	<td class="desctt"><span class="tt">Ore that drops random items. Compatible with texture packs (uses stone texture from your texture pack) and other mods (drops items generated in the world by other mods) out of the box.</span></td>
+	<td>AUTOMATIC_MAIDEN</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--TubeStuff-->
@@ -3398,6 +3695,15 @@ In Touhou Style~!</span></td>
 
 
 <!----------------------------------------------------------U-------------------------------------------------------->
+
+<!--UgoCraft-->
+<tr>
+	<td><a href="http://bit.ly/ZnYmt1">UgoCraft</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big><br/><br/>Allows you to smoothly move blocks and sets of blocks. Using the blocks in this mod, you can make your constructions come to life and move.<i class="w">Page is in Japanese. If your web browser is capable (such as Google Chrome) tell it to translate the page. The mod's download link can be found at the bottom of the page.</i></span></td>
+	<td>Mao</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
 
 <!--Universal Electricity-->
 <tr>
@@ -3460,6 +3766,15 @@ In Touhou Style~!</span></td>
 	<td class="desctt"><span class="tt">"Modular Powersuits is a Minecraft mod based around the idea of an inventor who tinkers with high-tech electronics and makes a suit of powered armor chock-full of useful gadgets and features. Inspired by heroes like Iron Man, Megaman, and Samus Aran, as well as by the high-tech armor in mods like EE2 and IC2."</span></td>
 	<td>MachineMuse</td>
 	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Uses For Lapis-->
+<tr>
+	<td><a href="http://bit.ly/12P2Vxd">Uses For Lapis</a></td>
+	<td class="desctt"><span class="tt">Adds a variety of lapis goodies including armour, tools and even ingots to craft them.</span></td>
+	<td>B0bGary</td>
+	<td>SSP</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -3663,12 +3978,13 @@ In Touhou Style~!</span></td>
 </table><br/>
 
 <div class="footer count">
-	Mod count: <b>384</b>
+	Mod count: <b>419</b>
 </div>
 
 <div class="API">
 	<a href="http://bit.ly/forge-dl">Forge</a> |
-	<a href="http://bit.ly/TGlcZA">GuiAPI</a> |
+	<a href="http://bit.ly/TGlcZA">GuiAPI</a> | 
+	<a href="http://bit.ly/WnFEuT">LiteLoader</a> | 
 	<a href="http://bit.ly/WnSwBj">ModLoader</a> | 
 	<a href="http://bit.ly/WnR9CL">Player API</a> | 
 	<a href="http://bit.ly/13U9b8y">Render Player API</a>
