@@ -1,4 +1,4 @@
-{
+[
   {
     "name":"Aliens Vs Predator",
     "other":"",
@@ -2452,20 +2452,7 @@
     "name":"Rei's Minimap",
     "other":"",
     "link":"http://bit.ly/ZwYx5P",
-    "desc":"Features:
-		Fast processing
-			Beautiful map rendering:
-				Expression of semitransparent blocks
-					Bump-map expression of height
-					Expression of dynamically changing lighting
-					Automatically generate the block colors from your texturepack
-					Biome color
-				Entities radar
-			Cave mapping
-			Waypoints (Can not teleport)
-			Ingame keyconfig
-			ZanMinimap frame appearance
-			Indication of slime spawning chunks",
+    "desc":"Features:<ul><li>Fast processing</li><li>Beautiful map rendering:</li><li>Expression of semitransparent blocks</li><li>Bump-map expression of height</li><li>Expression of dynamically changing lighting</li><li>Automatically generate the block colors from your texturepack</li><li>Biome color</li><li>Entities radar</li><li>Cave mapping</li><li>Waypoints (Can not teleport)</li><li>Ingame keyconfig</li><li>ZanMinimap frame appearance</li><li>Indication of slime spawning chunks</li></ul>",
     "author":"ReiFNSK",
     "type":[
       "Client"
@@ -2626,15 +2613,7 @@
     "name":"Sign Tags",
     "other":"",
     "link":"http://bit.ly/WnSwBj",
-    "desc":"Adds tags with functions to signs. Function List:
-		[time] shows current time
-			[x], [y], or [z] finds the current position
-			[a|b] is redstone tetection; a for powered, b for unpowered
-			[light] shows current light level
-			[biome] tells which biome you're in
-			[temp] tells the temperature of that area
-			[humid] tells the humidity of that area
-				([temp], [humid] will no longer function in Nether.)",
+    "desc":"Adds tags with functions to signs. Function List:<ul><li>[time] shows current time</li><li>[x], [y], or [z] finds the current position</li><li>[a|b] is redstone tetection; a for powered, b for unpowered</li><li>[light] shows current light level</li><li>[biome] tells which biome you're in</li><li>[temp] tells the temperature of that area</li><li>[humid] tells the humidity of that area</li><li>([temp], [humid] will no longer function in Nether.)</li></ul>",
     "author":"Risugami",
     "type":[
       "SSP"
@@ -3387,13 +3366,7 @@
     "name":"ZombieCraft",
     "other":"(Beta)",
     "link":"http://bit.ly/ZQQZrl",
-    "desc":"A complete remake of ZombieCraft Classic. Taken to a whole new level, with proper multiplayer and map making support from the start. Currently in its 3rd beta, very stable and polished.Features:
-		Waves of zombie hordes that progress in numbers, health, and speed
-			15 Weapons and items to battle off the zombies
-			Improved AI Comrade perk to help watch your back, can be given any weapon
-			Speed Cola, Juggernog, Charge and ExStatic perk machines
-			5 maps so far: Nacht, Last Resort, Observation Deck, Verruckt, and a more open map called Invasion
-			Built-in Single/Multiplayer map making support",
+    "desc":"A complete remake of ZombieCraft Classic. Taken to a whole new level, with proper multiplayer and map making support from the start. Currently in its 3rd beta, very stable and polished.<br>Features:<ul><li>Waves of zombie hordes that progress in numbers, health, and speed</li><li></li><li>15 Weapons and items to battle off the zombies</li><li>Improved AI Comrade perk to help watch your back, can be given any weapon</li><li>Speed Cola, Juggernog, Charge and ExStatic perk machines</li><li>5 maps so far: Nacht, Last Resort, Observation Deck, Verruckt, and a more open map called Invasion</li><li>Built-in Single/Multiplayer map making support</li></ul>",
     "author":"Corosus",
     "type":[
       "Universal"
@@ -3405,4 +3378,4 @@
       "1.5.0"
     ]
   }
-}
+]
