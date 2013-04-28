@@ -541,13 +541,7 @@
     "name":"Basic Guns Mod",
     "other":"",
     "link":"http://bit.ly/13cFVtC",
-    "desc":"Adds six basic guns to the game:
-	Pistol
-		SMG
-		Shotgun
-		LMG
-		Assault Rifle
-		Sniper Rifle",
+    "desc":"Adds six basic guns to the game:<ul><li>Pistol</li><li>SMG</li><li>Shotgun</li><li>LMG</li><li>Assault Rifle</li><li>Sniper Rifle</li></ul>",
     "author":"ARandomHobo37",
     "type":[
       "Universal"
@@ -838,13 +832,7 @@
     "name":"Better Villages Mod",
     "other":"",
     "link":"http://bit.ly/W5Qdde",
-    "desc":"Improves villages in the following ways:
-	Makes villages more common.
-		Villages spawn in a new cluster idea. If one village can spawn a couple more will spawn near-bye. (Can get completely ridiculous on flat worlds, See images for examples)
-		Villages can spawn in almost every biome.
-		Made village torch look cooler.
-		Made both type of wheat fields look better with a surrounding fence and torches.
-		Replace the dirt in the wood hut with cobblestone and made the surrounding highlight smooth stone.",
+    "desc":"Improves villages in the following ways:<ul><li>Makes villages more common.</li><li>Villages spawn in a new cluster idea. If one village can spawn a couple more will spawn near-bye. (Can get completely ridiculous on flat worlds, See images for examples)</li><li>Villages can spawn in almost every biome.</li><li>Made village torch look cooler.</li><li>Made both type of wheat fields look better with a surrounding fence and torches.</li><li>Replace the dirt in the wood hut with cobblestone and made the surrounding highlight smooth stone.</li></ul>",
     "author":"Jstorey97",
     "type":[
       "Universal"
@@ -6187,10 +6175,7 @@
     "name":"Magic Rings Mod",
     "other":"",
     "link":"http://bit.ly/111A4HE",
-    "desc":"Adds four magical rings to the game including:Flying Ring: Takes on the basic idea of Swiftwolf's Rending Gale from Equivalent Exchange 2 and have made it run off of hunger, along with some aesthetic changes, and the fact that it can be anywhere in your inventory, not just your hotbar.
-		Harvest Ring: Used as you would bonemeal, with the same effect.
-		Water Ring: Lets you breathe underwater.
-		Teleport Ring: Teleport you to a block within 150 blocks. This will only work if you are pointing at the top of a block.",
+    "desc":"Adds four magical rings to the game including:<ul><li>Flying Ring: Takes on the basic idea of Swiftwolf's Rending Gale from Equivalent Exchange 2 and have made it run off of hunger, along with some aesthetic changes, and the fact that it can be anywhere in your inventory, not just your hotbar.</li><li>Harvest Ring: Used as you would bonemeal, with the same effect.</li><li>Water Ring: Lets you breathe underwater.</li><li>Teleport Ring: Teleport you to a block within 150 blocks. This will only work if you are pointing at the top of a block.</li></ul>",
     "author":"jshreder",
     "type":[
       "Universal"
@@ -6678,8 +6663,7 @@
     "desc":"MineVideo is an attempt to solve problems such as bad video quality, huge files that have to be compressed afterwards, bad ingame performance, expensive, limited or complicated tools, and watermarks. It is a mod that enables you to record ingame footage with the touch of one button. It's as easy as taking a screenshot and the resulting video files are small enough to quickly upload them to YouTube.",
     "author":"Kovu",
     "type":[
-      "Client
-	"
+      "Client"
     ],
     "dependencies":[
       "Forge Required"
@@ -8575,20 +8559,7 @@
     "name":"Rei's Minimap",
     "other":"",
     "link":"http://bit.ly/ZwYx5P",
-    "desc":"Features:
-		Fast processing
-			Beautiful map rendering:
-				Expression of semitransparent blocks
-					Bump-map expression of height
-					Expression of dynamically changing lighting
-					Automatically generate the block colors from your texturepack
-					Biome color
-				Entities radar
-			Cave mapping
-			Waypoints (Can not teleport)
-			Ingame keyconfig
-			ZanMinimap frame appearance
-			Indication of slime spawning chunks",
+    "desc":"Features:<ul><li>Fast processing</li><li>Beautiful map rendering:</li><li>Expression of semitransparent blocks</li><li>Bump-map expression of height</li><li>Expression of dynamically changing lighting</li><li>Automatically generate the block colors from your texturepack</li><li>Biome color</li><li>Entities radar</li><li>Cave mapping</li><li>Waypoints (Can not teleport)</li><li>Ingame keyconfig</li><li>ZanMinimap frame appearance</li><li>Indication of slime spawning chunks</li></ul>",
     "author":"ReiFNSK",
     "type":[
       "Client"
@@ -8932,15 +8903,7 @@
     "name":"Sign Tags",
     "other":"",
     "link":"http://bit.ly/WnSwBj",
-    "desc":"Adds tags with functions to signs. Function List:
-		[time] shows current time
-			[x], [y], or [z] finds the current position
-			[a|b] is redstone tetection; a for powered, b for unpowered
-			[light] shows current light level
-			[biome] tells which biome you're in
-			[temp] tells the temperature of that area
-			[humid] tells the humidity of that area
-				([temp], [humid] will no longer function in Nether.)",
+    "desc":"Adds tags with functions to signs. Function List:<ul><li>[time] shows current time</li><li>[x], [y], or [z] finds the current position</li><li>[a|b] is redstone tetection; a for powered, b for unpowered</li><li>[light] shows current light level</li><li>[biome] tells which biome you're in</li><li>[temp] tells the temperature of that area</li><li>[humid] tells the humidity of that area</li><li>([temp], [humid] will no longer function in Nether.)</li></ul>",
     "author":"Risugami",
     "type":[
       "SSP"
@@ -10564,8 +10527,7 @@
     "name":"Touhou Items Mod",
     "other":"",
     "link":"http://bit.ly/XDfmMd",
-    "desc":"Adds a lot of things such as weapons, foods, and some magic meterials into the game.
-In Touhou Style~!",
+    "desc":"Adds a lot of things such as weapons, foods, and some magic meterials into the game. In Touhou Style~!",
     "author":"Niconiko",
     "type":[
       "Universal"
