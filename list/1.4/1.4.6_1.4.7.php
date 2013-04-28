@@ -500,12 +500,12 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
-<!--|-->
+<!--BetterStorage-->
 <tr>
 	<td><a href="http://bit.ly/VZVIFl">BetterStorage</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds more storage options, like Storage Crates, Reinforced Chests, Lockers, Armor Stands, as well as locks and keys for its chests. I'm aiming for fun, interesting and balanced features which would fit well into vanilla Minecraft, but also work nicely together with other mods.</span></td>
 	<td>copyboy</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -705,12 +705,12 @@
 	<td class="na">N/A</td>
 </tr>
 
-<!--|-->
+<!--BuddyCam-->
 <tr>
 	<td><a href="http://bit.ly/VDYvG4">BuddyCam</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big></br/><br/>With the Buddycam you can view your Friends View in Multiplayer, if he/she allows it. You can even observe your Pets in Single- & Multiplayer (as of 1.5.1d). You can fully customize the position and size of the buddycam-screen and the renderquality.The only limitation to the number of screens is the power of your Computer. (Tested with 3 screens.)</span></td>
 	<td>romibi</td>
-	<td>SMP</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -798,10 +798,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--MineChem-->
 <tr>
 	<td><a href="http://bit.ly/13dKCkb">[Buildcraft] MineChem</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt"><!--INFO--></span></td>
 	<td>ljdp</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -1772,10 +1772,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Dynamic Mazes-->
 <tr>
 	<td><a href="http://bit.ly/ZfLJvR">Dynamic Mazes</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds Mazes filled with treasures, monsters and deadly traps! However, they are dynamically generated, so every maze differs from the others. They are quite rare, so be patient in searching  Also, there are newly added underground mazes! They are located under the largest surface mazes and are filled with even more dangers!</span></td>
 	<td>-Reaper-</td>
 	<td>SSP</td>
 	<td class="fc">Forge Compatible</td>
@@ -2265,10 +2265,10 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--[Forestry] ThaumicBees-->
 <tr>
 	<td><a href="http://bit.ly/UAenLP">[Forestry] ThaumicBees</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Adds several new bee species to Forestry that will assist in producing useful items for Thaumcraft. If you love Thaumcraft and Beekeeping, these new species will provide extra resources and benefits to those clever enough to obtain them.</span></td>
 	<td>MysteriousAges</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
@@ -3664,12 +3664,12 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Mine Little Pony-->
 <tr>
-	<td><a href="http://bit.ly/UAlxQ8">MineLittlePony</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td><a href="http://bit.ly/UAlxQ8">Mine Little Pony</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big><br/><br/>Adds new player models and textures that make players look like ponies, in the style of the TV show "My Little Pony: Friendship Is Magic". Once the mod is installed, you and all other players will look like ponies in both singleplayer and multiplayer. Players who aren't using a special pony skin will look like one of the background ponies from the show (as the default player skins are not fully compatible with this mod).</span></td>
 	<td>Verdana</td>
-	<td>SSP SMP</td>
+	<td>Clientside Mod</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -5932,12 +5932,12 @@ In Touhou Style~!</span></td>
 	<td class="fr">Forge Required</td>
 </tr>
 
-<!--|-->
+<!--Underground Biomes-->
 <tr>
 	<td><a href="http://bit.ly/X6ZyLH">Underground Biomes</a></td>
-	<td class="desctd"><span class=""><!--INFO--></span></td>
+	<td class="desctt"><span class="tt">Overhauls the underground experience with Underground Biomes that define the rock types and ores present.</span></td>
 	<td>Exterminator Jeff</td>
-	<td>SSP SMP</td>
+	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
 
@@ -6456,7 +6456,7 @@ In Touhou Style~!</span></td>
 
 			
 </tbody>
-</table></center><br/>
+</table></center><br/><br/><br/>
 
 <div class="footer">
 	Mod count: <b>678</b>

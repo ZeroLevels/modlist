@@ -28,7 +28,7 @@
 <p class="select">
 	<span class="section">Current:</span><br/>
 		<span style="text-size:30px; font-style:italic">
-			Last Updated: <?php $content = file('list/1.5/changelog_1.5.1.txt'); echo $content[0]; ?>
+			Last Updated: <?php $content = file('list/1.5/changelog_1.5.1.txt'); echo $content[1]; ?>
 		</span><br/>
 		
 		<span class="selection">

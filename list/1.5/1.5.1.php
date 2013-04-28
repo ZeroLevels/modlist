@@ -87,6 +87,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--AdventureTime Mod-->
+<tr>
+	<td><a href="http://bit.ly/125Iet4">AdventureTime Mod</a></td>
+	<td class="desctt"><span class="tt">Adds content from the hit Cartoon Network show: Adventure Time into Minecraft!</span></td>
+	<td>Koslaw</td>
+	<td>SSP LAN</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--AgeCraft-->
 <tr>
 	<td><a href="http://bit.ly/15btaAj">AgeCraft</a> (Pre-Alpha)</td>
@@ -119,6 +128,15 @@
 	<td><a href="http://bit.ly/XVofQc">AllSnow Mod</a></td>
 	<td class="desctt"><span class="tt">Changes the properties of the non-snowy biomes in Minecraft, lowering their ambient temperatures and essentially cooling them down so that snow and ice will not melt when generated. It then switches on the biomes' toggles for snowfall. The result is all biomes have snow in them, and when precipitation falls it is always snow (except in ocean biomes).</span></td>
 	<td>Sopwith</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--AlphabetBlocks Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZF4NJa">AlphabetBlocks Mod</a></td>
+	<td class="desctt"><span class="tt">Adds colored blocks with each letter of the alphabet as well as some symbols, to more easily make signs out of blocks.</span></td>
+	<td>AaronLardenoye</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -404,6 +422,24 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Better Sprinting-->
+<tr>
+	<td><a href="http://bit.ly/WA0xnr">Better Sprinting</a></td>
+	<td class="desctt"><span class="tt">Allows you to bind keys to the vanilla movements such as sprinting, as well as keys to toggle sprint/sneak while also adding new functionality.</span></td>
+	<td>chylex</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--BetterStorage-->
+<tr>
+	<td><a href="http://bit.ly/VZVIFl">BetterStorage</a></td>
+	<td class="desctt"><span class="tt">Adds more storage options, like Storage Crates, Reinforced Chests, Lockers, Armor Stands, as well as locks and keys for its chests. I'm aiming for fun, interesting and balanced features which would fit well into vanilla Minecraft, but also work nicely together with other mods.</span></td>
+	<td>copyboy</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Better Than Wolves Mod-->
 <tr>
 	<td><a href="http://bit.ly/UA8udT">Better Than Wolves Mod</a></td>
@@ -512,6 +548,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Boxes-->
+<tr>
+	<td><a href="http://bit.ly/14vHhkF">Boxes</a></td>
+	<td class="desctt"><span class="tt">Boxes brings cardboard boxes to Minecraft! A basic box allows you to carry up to 18 stacks of items in one inventory slot. Though this is possible with backpack mods, there are two major differences: 1) You can see and interact with the contents of a box without leaving your Gui. 2) You can place a box in the world and pick it up again.</span></td>
+	<td>Matchlighter</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--bspkrsCore-->
 <tr>
 	<td><a href="http://bit.ly/bspkrscore">bspkrsCore</a> (Dependency)</td>
@@ -528,6 +573,24 @@
 	<td>SirSengir</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--BuddyCam-->
+<tr>
+	<td><a href="http://bit.ly/VDYvG4">BuddyCam</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big></br/><br/>With the Buddycam you can view your Friends View in Multiplayer, if he/she allows it. You can even observe your Pets in Single- & Multiplayer (as of 1.5.1d). You can fully customize the position and size of the buddycam-screen and the renderquality.The only limitation to the number of screens is the power of your Computer. (Tested with 3 screens.)</span></td>
+	<td>romibi</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--Butter Mod-->
+<tr>
+	<td><a href="http://bit.ly/184Ecr0">Butter Mod</a></td>
+	<td class="desctt"><span class="tt">Adds butter, creame, melted butter, etc...</span></td>
+	<td>anton99</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 
@@ -894,6 +957,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Custom Stuff 2-->
+<tr>
+	<td><a href="http://bit.ly/13dry5y">Custom Stuff 2</a></td>
+	<td class="desctt"><span class="tt">Allows you to add content to minecraft with simple text files. You can also send your created content in a zip to your friends and they have only put this zip into the custom stuff 2 mods directory. You can create chests, furnaces, ladders, torches that can also be placed on the ceiling, armory, food, potions, crafting recipes and much more.</span></td>
+	<td>CubeX2</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------D-------------------------------------------------------->
 
@@ -1131,6 +1203,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Dynamic Mazes-->
+<tr>
+	<td><a href="http://bit.ly/ZfLJvR">Dynamic Mazes</a></td>
+	<td class="desctt"><span class="tt">Adds Mazes filled with treasures, monsters and deadly traps! However, they are dynamically generated, so every maze differs from the others. They are quite rare, so be patient in searching  Also, there are newly added underground mazes! They are located under the largest surface mazes and are filled with even more dangers!</span></td>
+	<td>-Reaper-</td>
+	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Dynmap-->
 <tr>
 	<td><a href="http://bit.ly/VNNyib">Dynmap</a></td>
@@ -1341,6 +1422,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--Extra Utilities-->
+<tr>
+	<td><a href="http://bit.ly/10krfl7">Extra Utilities</a></td>
+	<td class="desctt"><span class="tt">"Just a bunch of fairly useful things."</span></td>
+	<td>RWTema</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 
 <!----------------------------------------------------------F-------------------------------------------------------->
 
@@ -1447,7 +1537,7 @@
 <tr>
 	<td><a href="http://bit.ly/183rBV4">FlintCraft</a></td>
 	<td class="desctt"><span class="tt">Adds flint armour, tools, weapons and more.</span></td>
-	<td>Kinyoshi</td>
+	<td>666mayhem666 & Kinyoshi</td>
 	<td>SSP LAN</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
@@ -2130,6 +2220,15 @@
 
 <!----------------------------------------------------------M-------------------------------------------------------->
 
+<!--Macro/Keybind ModLiteLoader-->
+<tr>
+	<td><a href="http://bit.ly/WnFEuT">Macro/Keybind ModLiteLoader</a></td>
+	<td class="desctt"><span class="tt">Take control of your Minecraft client. Bind keys to commands and automate simple or complex tasks. Design your own heads-up display and create your own interactive menus in-game quickly and easily. Perfect for use with WorldEdit, MCMMO, adminning a server, or trolling your friends. Plus it dispenses free cake.</span></td>
+	<td>Mumfrey</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
 <!--Magical Crops-->
 <tr>
 	<td><a href="http://bit.ly/W9maB8">Magical Crops</a></td>
@@ -2263,6 +2362,24 @@
 	<td>iNyanny</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Mine Little Brony-->
+<tr>
+	<td><a href="http://bit.ly/10kpwMS">Mine Little Brony</a></td>
+	<td class="desctt"><span class="tt">A work in progress mod that adds many new items to the game,  including zap apples, Fluttershy trees, and many more things! There's also a biome for the Everfree Forest.</span></td>
+	<td>Teotoo</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Mine Little Pony-->
+<tr>
+	<td><a href="http://bit.ly/UAlxQ8">Mine Little Pony</a></td>
+	<td class="ml desctt"><span class="tt"><big class="d">ModLoader Mod</big><br/><br/>Adds new player models and textures that make players look like ponies, in the style of the TV show "My Little Pony: Friendship Is Magic". Once the mod is installed, you and all other players will look like ponies in both singleplayer and multiplayer. Players who aren't using a special pony skin will look like one of the background ponies from the show (as the default player skins are not fully compatible with this mod).</span></td>
+	<td>Verdana</td>
+	<td>Clientside Mod</td>
+	<td class="fc">Forge Compatible</td>
 </tr>
 
 <!--MineVideo-->
@@ -2472,6 +2589,15 @@
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--More Furnaces-->
+<tr>
+	<td><a href="http://bit.ly/13dry5y">More Furnaces</a></td>
+	<td class="desctt"><span class="tt">Adds five furnaces to the game. An iron, a gold, a diamond, an obsidian and a netherrack furnace.</span></td>
+	<td>CubeX2</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--More Records Mod-->
 <tr>
 	<td><a href="http://bit.ly/WlEcus">More Records Mod</a></td>
@@ -2504,6 +2630,15 @@
 	<td><a href="http://bit.ly/as-multimine">Multi Mine</a></td>
 	<td class="desctt"><span class="tt">Makes it so you don't have to point nonstop on a Block, never letting go of the mouse button, to finish it off. You can start mining, pause, walk away, mine another block, come back and finish off the one you started previously.</span></td>
 	<td>AtomicStryker</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--Multi Page Chest-->
+<tr>
+	<td><a href="http://bit.ly/13dry5y">Multi Page Chest</a></td>
+	<td class="desctt"><span class="tt">Adds a new chest to the game: the Multi Page Chest. This chest can store up to 585 stacks of items. Don't have lacks of space anymore!</span></td>
+	<td>CubeX2</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -2679,6 +2814,15 @@
 	<td class="desctt"><span class="tt">Prevents ice from melting.</span></td>
 	<td>soccerguy3</td>
 	<td>SSP</td>
+	<td class="fc">Forge Compatible</td>
+</tr>
+
+<!--No Regeneration Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZstJTl">No Regeneration Mod</a></td>
+	<td class="desctt"><span class="tt">Disables the health regeneration while the foodbar is full or above 8 hearts.</span></td>
+	<td>B0wd3n</td>
+	<td>SSP LAN</td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
@@ -3440,6 +3584,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Ether Mod-->
+<tr>
+	<td><a href="http://bit.ly/Y56XzL">The Ether Mod</a></td>
+	<td class="desctt"><span class="tt">An adaption of the old minecraft mod "The Aether" which adds a new dimension and a whole new adventure!</span></td>
+	<td>Damoniy</td>
+	<td>SSP</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--The Farlanders-->
 <tr>
 	<td><a href="http://bit.ly/W1Ul84">The Farlanders</a></td>
@@ -3557,6 +3710,15 @@
 	<td class="fr">Forge Required</td>
 </tr>
 
+<!--The Ultimate Nether Mod-->
+<tr>
+	<td><a href="http://bit.ly/ZURSye">The Ultimate Nether Mod</a></td>
+	<td class="desctt"><span class="tt">Adss a hefty amount of of nether-based content.</span></td>
+	<td>Oneric</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Throwable Bricks Mod-->
 <tr>
 	<td><a href="http://bit.ly/10GevvI">Throwable Bricks Mod</a></td>
@@ -3619,6 +3781,15 @@ In Touhou Style~!</span></td>
 	<td>iChun</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td><!--Version Independent-->
+</tr>
+
+<!--Chest Transporter-->
+<tr>
+	<td><a href="http://bit.ly/13dry5y">Chest Transporter</a></td>
+	<td class="desctt"><span class="tt">Adds a new item to the game: Chest Transporter. This item allows you pick up a chest with content and place it somewhere else. You can also pick up chests from a storage minecart and place it in a normal minecart. But while you have a chest in your inventory, you dig and walk slowlier, have more hunger and can not jump over one block. It also works with Multi Page Chest and Iron Chests.</span></td>
+	<td>CubeX2</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
 </tr>
 
 <!--Trapcraft-->
@@ -3705,6 +3876,15 @@ In Touhou Style~!</span></td>
 	<td class="fc">Forge Compatible</td>
 </tr>
 
+<!--Underground Biomes-->
+<tr>
+	<td><a href="http://bit.ly/X6ZyLH">Underground Biomes</a></td>
+	<td class="desctt"><span class="tt">Overhauls the underground experience with Underground Biomes that define the rock types and ores present.</span></td>
+	<td>Exterminator Jeff</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
 <!--Universal Electricity-->
 <tr>
 	<td><a href="http://bit.ly/UCJ3sf">Universal Electricity</a></td>
@@ -3728,6 +3908,24 @@ In Touhou Style~!</span></td>
 	<td><a href="http://bit.ly/YofWfU">[Universal Electricity] Atomic Science</a></td>
 	<td class="desctt"><span class="tt">"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!"</span></td>
 	<td>Calclavia</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[Universal Electricity] Biotech-->
+<tr>
+	<td><a href="http://bit.ly/Z7jGiQ">[Universal Electricity] Biotech</a></td>
+	<td class="desctt"><span class="tt">Focuses on bringing advanced agriculture systems and contraptions, automation of agriculture, and food production. In addition, the mod will also provide genetic manipulations in higher tiers.</span></td>
+	<td>LiQuiD</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[Universal Electricity] Complex Machines-->
+<tr>
+	<td><a href="http://bit.ly/YcYVaj">[Universal Electricity] Complex Machines</a></td>
+	<td class="desctt"><span class="tt">Adds in eight new high end machines, including a laser emitter. The machines use large amounts of power to automate lengthy tasks, such as building or mining. The lasers can be configured to different modes, which can do anything from electrifying nearby water to pulling mobs and items inwards.</span></td>
+	<td>pixlepix</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -3756,6 +3954,15 @@ In Touhou Style~!</span></td>
 	<td><a href="http://bit.ly/WnX634">[Universal Electricity] Mekanism</a></td>
 	<td class="desctt"><span class="tt">An extensive mod featuring innovative ways of electricity generation, advanced ore processing machinery, new sets and types of tools and armor, and much more. If you like high tech machinery that extends your resource collection and processing, then this mod is for you!</span></td>
 	<td>aidancbrady</td>
+	<td>Universal</td>
+	<td class="fr">Forge Required</td>
+</tr>
+
+<!--[Universal Electricity] MineChem-->
+<tr>
+	<td><a href="http://bit.ly/187DeaK">[Universal Electricity] MineChem</a></td>
+	<td class="desctt"><span class="tt">"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!"</span></td>
+	<td>Rushmead</td>
 	<td>Universal</td>
 	<td class="fr">Forge Required</td>
 </tr>
@@ -3975,10 +4182,10 @@ In Touhou Style~!</span></td>
 </tbody>
 
 
-</table><br/>
+</table><br/><br/><br/>
 
 <div class="footer count">
-	Mod count: <b>419</b>
+	Mod count: <b>442</b>
 </div>
 
 <div class="API">
