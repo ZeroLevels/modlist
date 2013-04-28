@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JSON Documentation</title>
+<style>
+.reserved {
+	font-family: monospace;
+}
+</style>
+</head>
+<body>
+<h1>Documentation of Modlist</h1>
+<h2>The modlist keeps its database in a JSON file. This is an example database:</h2>
+<pre class="code">
+[
+  {
+    "name":"Glowstone Wire",
+    "other":"",
+    "link":"http://www.minecraftforum.net/topic/944547-",
+    "desc":"Aesthetic Place-able glowstone wires",
+    "author":"GrygrFlzr",
+    "type":"Universal",
+    "required":[
+      "Forge"
+    ]
+  },
+  {
+    "name":"Dummy Mod",
+    "other":"hi",
+    "link":"http://modlist.mcf.li/",
+    "desc":"A test mod",
+    "author":"ZeroLevels",
+    "type":"Client",
+    "required":[
+      "Modloader"
+    ]
+  }
+]
+</pre>
+<p>
+	Fields <span class="reserved">name</span>, <span class="reserved">other</span>, <span class="reserved">link</span>, <span class="reserved">desc</span> and <span class="reserved">author</span> can contain any string.<br>
+	However, <span class="reserved">type</span> can only hold <b>one</b> the following values:<br>
+	<ul class="reserved">
+		<li>Universal</li>
+		<li>SSP</li>
+		<li>SMP</li>
+		<li>LAN</li>
+		<li>Client</li>
+		<li>Server</li>
+	</ul><br>
+	The <span class="reserved">required</span> array can either be empty (treated as No Dependency) or hold one or more of the following values:
+	<ul class="reserved">
+		<li>Modloader</li>
+		<li>Forge Compatible</li>
+		<li>Forge Required</li>
+	</ul>
+</p>
+</body>
+</html>
