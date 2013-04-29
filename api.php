@@ -1,37 +1,39 @@
 <?php
+
 header("Content-Type: text/plain; charset=UTF-8");
-ob_start('ob_gzhandler');
+
 if(isset($_GET['request'])) {
 	switch($_GET['request']) {
-	case "hash":
-		if(isset($_GET['version'])) {
-			$location = getVersion($_GET['version']);
-			if($location != false) {
-				echo md5_file($location);
+		case "hash":
+			if(isset($_GET['version'])) {
+				if ($location = getVersion($_GET['version'])) {
+					echo md5_file($location);
+				}
+			} else {
+				echo "Version?";
 			}
-		} else
-			echo "Version?";
-		break;
-	case "json":
-		if(isset($_GET['version'])) {
-			$location = getVersion($_GET['version']);
-			if($location != false) {
-				$filecontents = file_get_contents($location);
-				print $filecontents;
+			break;
+			
+		case "json":
+			if(isset($_GET['version'])) {
+				if ($location = getVersion($_GET['version'])) {
+					echo file_get_contents($location);
+				}
+			} else {
+				echo "Version?";
 			}
-		} else
-			echo "Version?";
-		break;
-	default:
-		echo "Non-existent request";
-		break;
+			break;
+
+		default:
+			echo "Non-existent request";
+			break;
 	}
-} else
+} else {
 	echo "No request?";
+}
 
 function getVersion($version) {
-	if(isset($version)) {
-		switch($version) { //don't automatically use variable - safety reasons
+	switch($version) {
 		case "1.5.1":
 			return 'list/1.5/1.5.1.json';
 			break;
@@ -57,8 +59,6 @@ function getVersion($version) {
 		default:
 			return false;
 			break;
-		}
-	} else
-		return false;
+	}
 }
-?>
+
