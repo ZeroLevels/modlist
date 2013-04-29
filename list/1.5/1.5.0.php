@@ -79,12 +79,7 @@ include('../../resources/scripts/jsontable.php');
 </div>
 
 <div class="API">
-	<a href="http://bit.ly/forge-dl">Forge</a> |
-	<a href="http://bit.ly/TGlcZA">GuiAPI</a> | 
-	<a href="http://bit.ly/WnFEuT">LiteLoader</a> | 
-	<a href="http://bit.ly/WnSwBj">ModLoader</a> | 
-	<a href="http://bit.ly/WnR9CL">Player API</a> | 
-	<a href="http://bit.ly/13U9b8y">Render Player API</a>
+	<?php showAPI($version); ?>
 </div>
 
 <!--Google Analytics-->

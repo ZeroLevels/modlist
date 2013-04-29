@@ -6,19 +6,43 @@ function recode($strIn) {
 	return mb_convert_encoding($strIn, 'UTF-8', 'auto');
 }
 
-function jsonTable($version) {
+function apiList($version) {
 	$JSONfile = recode(file_get_contents($version . '.json'));
 	$mods = json_decode($JSONfile);
 	$apilist = array(array());
 	foreach($mods as &$mod) { //first iteration - grab all APIs
 		if(trim($mod->name) != "" && 
-			(strtolower($mod->other) == "(api)" || strtolower($mod->other) == "(dependency)")) {
+			(strtolower($mod->other) == "(api)" ||
+			strtolower($mod->other) == "(dependency)" ||
+			strpos(trim($mod->name), 'API') !== false)) {
 			$currCount = count($apilist);
 			$apilist[$currCount]["name"] = trim($mod->name);
 			$apilist[$currCount]["link"] = trim($mod->link);
 			$apilist[$currCount]["desc"] = trim(strip_tags($mod->desc));
 		}
 	}
+		
+	for($i=0;$i<count($apilist);$i++) { //remove invalid APIs
+		if($apilist[$i]["name"] == "")
+			unset($apilist[$i]);
+	}
+	
+	return $apilist;
+}
+
+function showAPI($version) {
+	$apilist = apiList($version);
+	$listing = array();
+	foreach($apilist as &$api) {
+		$listing[] = '<a href="'.$api["link"].'" title="'.$api["desc"].'">'.$api["name"].'</a>';
+	}
+	echo implode(' | ', $listing);
+}
+
+function jsonTable($version) {
+	$JSONfile = recode(file_get_contents($version . '.json'));
+	$mods = json_decode($JSONfile);
+	$apilist = apiList($version);
 	foreach($mods as &$mod) { //second iteration - output table
 		echo '<tr>';
 		
