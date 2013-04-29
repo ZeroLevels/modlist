@@ -65,13 +65,13 @@ include('../../resources/scripts/jsontable.php');
 	</thead>
 
 	<tbody>
-	<?php jsonTable($version); ?>
+	<?php $modcount = jsonTable($version); ?>
 	</tbody>
 </table>
 <br/><br/><br/>
 
 <div class="footer count">
-	Mod count: <b><?php echo count($mods); ?></b>
+	Mod count: <b><?php echo $modcount; ?></b>
 </div>
 
 <div class="API">

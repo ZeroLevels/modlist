@@ -38,7 +38,7 @@ function jsonTable($version) {
 			}
 		}
 		echo '">';
-		echo '<span class="tt">'.$mod->desc.'</span>';
+		echo '<span class="tt">'.$mod->desc .'</br></br><big class="d bc">Dependencies:</big><ul style="padding: 0; margin: 0; list-style-position:inside;"><li>'. implode('</li><li>', $mod->dependencies).'</li></ul></span>';
 		echo '</td>';
 		
 		echo '<td>'.$mod->author.'</td>';
@@ -61,5 +61,7 @@ function jsonTable($version) {
 		
 		echo '</tr>';
 	}
+	
+	return count($mods);
 }
 ?>
