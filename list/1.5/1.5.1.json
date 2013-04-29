@@ -4236,7 +4236,7 @@
     "name":"ModLoader",
     "other":"(API)",
     "link":"http://bit.ly/WnSwBj",
-    "desc":"APIA mod, kind of like a mod manager, that stops conflicts with mods that alter rendering, recipes, add entities, gui, smeltables or fuel.NOTE: Do not install this with Forge. Forge has its own version of ModLoader that is backwards compatible with most ModLoader mods.",
+    "desc":"API mod, kind of like a mod manager, that stops conflicts with mods that alter rendering, recipes, add entities, gui, smeltables or fuel. NOTE: Do not install this with Forge. Forge has its own version of ModLoader that is backwards compatible with most ModLoader mods.",
     "author":"Risugami",
     "type":[
       "SSP"

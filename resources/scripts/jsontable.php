@@ -9,14 +9,25 @@ function recode($strIn) {
 function jsonTable($version) {
 	$JSONfile = recode(file_get_contents($version . '.json'));
 	$mods = json_decode($JSONfile);
-	foreach($mods as &$mod) {
+	$apilist = array(array());
+	foreach($mods as &$mod) { //first iteration - grab all APIs
+		if(trim($mod->name) != "" && 
+			(strtolower($mod->other) == "(api)" || strtolower($mod->other) == "(dependency)")) {
+			$currCount = count($apilist);
+			$apilist[$currCount]["name"] = trim($mod->name);
+			$apilist[$currCount]["link"] = trim($mod->link);
+			$apilist[$currCount]["desc"] = trim(strip_tags($mod->desc));
+		}
+	}
+	foreach($mods as &$mod) { //second iteration - output table
 		echo '<tr>';
 		
 		echo '<td><a href="'.
 			$mod->link.'">'.
 			$mod->name.'</a>';
-		if($mod->other != "")
+		if($mod->other != "") {
 			echo ' '.$mod->other;
+		}
 		echo '</td>';
 		
 		$otherDepends = array();
@@ -38,8 +49,19 @@ function jsonTable($version) {
 			}
 		}
 		echo '">';
-		echo '<span class="tt">'.$mod->desc .'</br></br><big class="d bc">Dependencies:</big><ul><li>'. implode('</li><li>', $mod->dependencies).'</li></ul></span>';
-		echo '</td>';
+		
+		if($mod->desc != "")
+			echo '<span class="tt">'.$mod->desc .'</br></br><big class="d bc">Dependencies:</big><ul><li>';
+		else
+			echo '<span class="tt"><big class="d bc">Dependencies:</big><ul><li>';
+		
+		$api = implode('</li><li>', $mod->dependencies);
+		foreach($apilist as &$currApi) {
+			$api = str_ireplace($currApi["name"],'<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'">'.$currApi["name"].'</a>',$api);
+		}
+		echo $api;
+		
+		echo '</li></ul></span></td>';
 		
 		echo '<td>'.$mod->author.'</td>';
 		echo '<td>'.implode(' ',$mod->type).'</td>';
@@ -61,6 +83,7 @@ function jsonTable($version) {
 		
 		echo '</tr>';
 	}
+	
 	
 	return count($mods);
 }
