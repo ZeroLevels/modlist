@@ -185,7 +185,7 @@
     "name":"BatsDropLeather",
     "other":"",
     "link":"http://bit.ly/117U1v2",
-    "desc":"When you kill a bat it has a chance of dropping 0 Â? 3 pieces of leather during the daytime. If you kill a bat during the night it's yield may improve since bats are nocturnal creatures. Sometimes they may even drop other kinds of seeds! You can also feed them seeds to breed them. I felt like bats were kind of useless at this point as they don't drop anything or give you XP so I added this in.",
+    "desc":"When you kill a bat it has a chance of dropping 0 - 3 pieces of leather during the daytime. If you kill a bat during the night it's yield may improve since bats are nocturnal creatures. Sometimes they may even drop other kinds of seeds! You can also feed them seeds to breed them. I felt like bats were kind of useless at this point as they don't drop anything or give you XP so I added this in.",
     "author":"MorpheusZero",
     "type":[
       "Universal"
