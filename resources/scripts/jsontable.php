@@ -70,6 +70,9 @@ function jsonTable($version) {
 			if(strpos($dependency, 'Modloader') !== false) {
 				echo ' ml';
 				break;
+			} elseif(strpos($dependency, 'Not Forge') !== false) {
+				echo ' other';
+				break;
 			}
 		}
 		echo '">';

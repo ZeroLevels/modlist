@@ -65,12 +65,13 @@ a.ns:hover	{color:#3072B3;
 			text-decoration:none;}
 
 /*Code for descriptions*/
-.desctt 		{background:transparent url(../images/desc.png) center center no-repeat;
+.desctt 		{background:transparent url(../images/descforge.png) center center no-repeat;
 			color: #3072B3;
 			outline: none;
 			text-decoration: underline;
 			position: relative;}
 			
+td.other		{background:transparent url(../images/desc.png) center center no-repeat;}
 td.d 		{background:transparent url(../images/descd.png) center center no-repeat;}
 td.ml 		{background:transparent url(../images/descml.png) center center no-repeat;}
 			
