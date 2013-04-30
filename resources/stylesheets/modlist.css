@@ -65,12 +65,13 @@ a.ns:hover	{color:#3072B3;
 			text-decoration:none;}
 
 /*Code for descriptions*/
-.desctt 		{background:transparent url(../images/desc.png) center center no-repeat;
+.desctt 		{background:transparent url(../images/descforge.png) center center no-repeat;
 			color: #3072B3;
 			outline: none;
 			text-decoration: underline;
 			position: relative;}
 			
+td.other		{background:transparent url(../images/desc.png) center center no-repeat;}
 td.d 		{background:transparent url(../images/descd.png) center center no-repeat;}
 td.ml 		{background:transparent url(../images/descml.png) center center no-repeat;}
 			
@@ -97,8 +98,24 @@ display:block;
 	border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
 	box-shadow: 5px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px rgba(0, 0, 0, 0.1);
 	font-family: Calibri, Tahoma, Geneva, sans-serif;
-	position: absolute; right: 6.3em; top: 1em z-index: 99;
+	position: absolute; right: 5.5em; bottom: -1em; z-index: 99;
 	margin-left: 0; width: 250px;
+}
+.desctt>.tt>ul {
+	padding: 0;
+	padding-left: 20px;
+	margin: 0;
+	list-style-position: outside;
+}
+
+.desctt>.tt>ul>li>a {
+	text-decoration: none;
+	font-style: italic;
+	color: #04ff81;
+}
+
+.desctt>.tt>ul>li>a:hover {
+	text-decoration: underline;
 }
 
 @-moz-document url-prefix() {

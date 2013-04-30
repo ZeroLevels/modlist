@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>API Documentation</title>
+<style>
+body {
+	background-color: #F5F5F5;
+	font-family: Arial, sans-serif;
+}
+#container {
+	height: 100%;
+	width: 80%;
+	min-width: 320px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1, h2 {
+	border-bottom: 1px solid black;
+}
+.reserved {
+	font-family: monospace;
+}
+table, .code {
+	margin-left: 32px;
+	margin-right: 32px;
+	background-color: white;
+}
+table {
+	border: 1px solid black;
+}
+.code {
+	border: 1px dashed black;
+	max-height: 300px;
+	overflow: auto;
+}
+table tr th, table tr td {
+	max-width: 450px;
+	text-align: center;
+	border: 1px solid black;
+}
+table tr th {
+	font-weight: bold;
+}
+#bottomspacer {
+	padding: 16px;
+	font-style: italic;
+}
+</style>
+</head>
+<body>
+<div id="container">
+<h1>Modlist API</h1>
+<h2>API Requests</h2>
+<p>
+	API Requests use api.php on the root of the site (<a href="http://modlist.mcf.li/api.php">http://modlist.mcf.li/api.php</a>).<br/>
+	Requests are executed by attaching a GET request in the following form:
+</p>
+<table>
+	<tr>
+		<th>Key</th>
+		<th>Value Type</th>
+		<th>Accepted Values</th>
+	</tr>
+	<tr>
+		<td>request</td>
+		<td>string</td>
+		<td><span class="reserved">hash</span>, <span class="reserved">json</span></td>
+	</tr>
+	<tr>
+		<td>version</td>
+		<td>string</td>
+		<td><span class="reserved">1.5.1</span>, <span class="reserved">1.5.0</span>, <span class="reserved">1.5</span>, <span class="reserved">1.4.7</span>, <span class="reserved">1.4.6</span>, <span class="reserved">1.4.7_1.4.6</span>, <span class="reserved">1.4.6_1.4.7</span>, <span class="reserved">1.4.5</span>, <span class="reserved">1.4.4</span>, <span class="reserved">1.4.5_1.4.4</span>, <span class="reserved">1.4.4_1.4.5</span>, <span class="reserved">1.4.2</span></td>
+	</tr>
+</table>
+<h3>Example Usage</h3>
+<pre class="code">http://modlist.mcf.li/api.php?version=1.5.1&request=hash</pre>
+<h2>Hash Request</h2>
+<p>Returns an md5 check of the requested JSON file.</p>
+<h3>Example Result</h3>
+<pre class="code">fbf9cc4a8704a28045037a69908b2b97</pre>
+<h2>JSON Request</h2>
+<h3>Format</h3>
+<pre class="code">
+[
+  {
+    "name":"",
+    "other":"",
+    "link":"",
+    "desc":"",
+    "author":"",
+    "type":[
+      ""
+    ],
+    "dependencies":[
+      ""
+    ],
+    "versions":[
+      ""
+    ]
+  }
+]
+</pre>
+<p>
+	Fields <span class="reserved">name</span>, <span class="reserved">other</span>, <span class="reserved">link</span>, <span class="reserved">desc</span> and <span class="reserved">author</span> can contain any string.</br>
+	The <span class="reserved">type</span> array can hold one or more of the following values:</br>
+	<ul class="reserved">
+		<li>Universal</li>
+		<li>SSP</li>
+		<li>SMP</li>
+		<li>LAN</li>
+		<li>Client</li>
+		<li>Server</li>
+	</ul></br>
+	The <span class="reserved">dependencies</span> array can either be empty (treated as No Dependency) or hold one or more of the following values:
+	<ul class="reserved">
+		<li>Modloader</li>
+		<li>Not Forge Compatible</li>
+		<li>Forge Compatible</li>
+		<li>Forge Required</li>
+	</ul></br>
+	It may also contain other dependencies such as iChun Utils.
+</p>
+<h3>Example Result</h3>
+<pre class="code">
+[
+  {
+    "name":"AudioMod",
+    "other":"(API)",
+    "link":"http://bit.ly/WnSwBj",
+    "desc":"AudioMod is an upgrade of sorts, and a modder's utility. Included in this mod is CodecIBXM, created by Paul at www.paulscode.com, who is the creator of the sound system used in Minecraft. It allows Minecraft to play (in addition to ogg, wav, and mus files), xm, s3m, and mod files. The only readily available feature of this mod is the ability to add new music, however, it adds support for modders to add new records and sound effects.NOTE: Do not install this with Forge. Forge has its own version that's backwards compatible with Risugami's.",
+    "author":"Risugami",
+    "type":[
+      "SSP"
+    ],
+    "dependencies":[
+      "Not Forge Compatible"
+    ],
+    "versions":[
+      "1.5.1"
+    ]
+  },
+  {
+    "name":"Glowstone Wire",
+    "other":"",
+    "link":"http://bit.ly/13BkZcS",
+    "desc":"Allows you to place glowstone dust! Not only they're great for trails, they actually give out light!",
+    "author":"GrygrFlzr",
+    "type":[
+      "Universal"
+    ],
+    "dependencies":[
+      "Forge Compatible"
+    ],
+    "versions":[
+      "1.5.1"
+    ]
+  },
+  {
+    "name":"Jelly Cubes",
+    "other":"",
+    "link":"http://bit.ly/W0tf6U",
+    "desc":"The jelly cubes mod adds a new type of food to the game. It's crafted with two slime balls and can be used in flatlands for food.",
+    "author":"wuppy21",
+    "type":[
+      "Universal"
+    ],
+    "dependencies":[
+      "Forge Required"
+    ],
+    "versions":[
+      "1.5.1"
+    ]
+  },
+  {
+    "name":"Monster Spawn Highlighter",
+    "other":"",
+    "link":"http://bit.ly/Sw1AcJ",
+    "desc":"This mod has separate ModLoader and Forge versions.See bit.ly/modloaderHighlights any blocks where monsters can spawn.",
+    "author":"Lunatrius",
+    "type":[
+      "Client"
+    ],
+    "dependencies":[
+      "Forge Compatible",
+      "Modloader Compatible"
+    ],
+    "versions":[
+      "1.5.1"
+    ]
+  }
+]
+</pre>
+<div id="bottomspacer">Last modified by GrygrFlzr on 28 April 2013, 01:16 PM UTC Time.</div>
+</div>
+</body>
+</html>
