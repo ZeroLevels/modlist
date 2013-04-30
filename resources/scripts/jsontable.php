@@ -19,6 +19,9 @@ function apiList($version) {
 			$apilist[$currCount]["name"] = trim($mod->name);
 			$apilist[$currCount]["link"] = trim($mod->link);
 			$apilist[$currCount]["desc"] = trim(strip_tags($mod->desc));
+			
+			if(strtolower($mod->other) != "(dependency)")
+				$apilist[$currCount]["api"] = true;
 		}
 	}
 		
@@ -34,7 +37,13 @@ function showAPI($version) {
 	$apilist = apiList($version);
 	$listing = array();
 	foreach($apilist as &$api) {
-		$listing[] = '<a href="'.$api["link"].'" title="'.$api["desc"].'">'.$api["name"].'</a>';
+		if(isset($api["api"]) && $api["api"] == true)
+			$listing[] = '<a href="'.$api["link"].'" title="'.$api["desc"].'">'.$api["name"].'</a>';
+	}
+	if(empty($listing)) {	//FALLBACK!
+		foreach($apilist as &$api) {
+			$listing[] = '<a href="'.$api["link"].'" title="'.$api["desc"].'">'.$api["name"].'</a>';
+		}
 	}
 	echo implode(' | ', $listing);
 }
