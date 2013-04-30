@@ -38,14 +38,22 @@ function showAPI($version) {
 	$listing = array();
 	foreach($apilist as &$api) {
 		if(isset($api["api"]) && $api["api"] == true)
-			$listing[] = '<a href="'.$api["link"].'" title="'.$api["desc"].'">'.$api["name"].'</a>';
+			$listing[] = '<a href="'.$api["link"].'" title="'.$api["desc"].'" target="blank">'.$api["name"].'</a>';
 	}
 	if(empty($listing)) {	//FALLBACK!
 		foreach($apilist as &$api) {
-			$listing[] = '<a href="'.$api["link"].'" title="'.$api["desc"].'">'.$api["name"].'</a>';
+			$listing[] = '<a href="'.$api["link"].'" title="'.$api["desc"].'" target="blank">'.$api["name"].'</a>';
 		}
 	}
 	echo implode(' | ', $listing);
+}
+
+function beginTable() {
+	echo '<th style="min-width:262px">Mod Name<br/><input type="text" id="searchnames" placeholder="Type to search" class="search" /></th>';
+	echo '<th style="min-width: 50px; max-width:51px">Info</th>';
+	echo '<th>Author<br/><input type="text" id="searchauthors" placeholder="Type to search" class="search" /></th>';
+	echo '<th>Availability</th>';
+	echo '<th>Compatibility with Forge</th>';
 }
 
 function jsonTable($version) {
@@ -56,7 +64,7 @@ function jsonTable($version) {
 		echo '<tr>';
 		
 		echo '<td><a href="'.
-			$mod->link.'">'.
+			$mod->link.'" target="blank">'.
 			$mod->name.'</a>';
 		if($mod->other != "") {
 			echo ' '.$mod->other;
@@ -94,10 +102,10 @@ function jsonTable($version) {
 		$api = implode('</li><li>', $mod->dependencies);
 		foreach($apilist as &$currApi) {
 			if(stripos($api,'<li>'.$currApi["name"]) !== false) //Avoid collision like Render Player API vs Player API
-				$api = str_ireplace('<li>'.$currApi["name"],'<li><a href="'.$currApi["link"].'" title="'.$currApi["desc"].'">'.$currApi["name"].'</a>',$api);
+				$api = str_ireplace('<li>'.$currApi["name"],'<li><a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a>',$api);
 			else {
-				$api = str_ireplace($currApi["name"].' R','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'">'.$currApi["name"].'</a> R',$api);
-				$api = str_ireplace($currApi["name"].' C','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'">'.$currApi["name"].'</a> C',$api);
+				$api = str_ireplace($currApi["name"].' R','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> R',$api);
+				$api = str_ireplace($currApi["name"].' C','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> C',$api);
 			}
 		}
 		echo $api;

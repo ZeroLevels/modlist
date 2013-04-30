@@ -8,7 +8,7 @@ include('../../resources/scripts/jsontable.php');
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<title>MCF Mod List - <?php echo $version; ?></title>
 	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-	<script type="text/javascript" src="../../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
+	<script type="text/javascript" src="../../resources/js/betterTableSearch.js" defer>/*Search script courtesy of GrygrFlzr*/</script>
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/common.css" media="screen" />
@@ -58,18 +58,13 @@ include('../../resources/scripts/jsontable.php');
 		<td class="h">1.5.1</td>
 	</tr>
 </table>
-
 <table cellspacing="0" class="modlist" id="example">
 	<thead>
-		<th style="min-width:262px">Mod Name<br/><input style="display:none" class="searchEmpty" /></th>
-		<th style="min-width: 50px; max-width:51px">Info</th>
-		<th>Author</th>
-		<th>Availability</th>
-		<th>Compatibility with Forge</th>
+		<?php beginTable(); ?>
 	</thead>
 
 	<tbody>
-	<?php $modcount = jsonTable($version); ?>
+		<?php $modcount = jsonTable($version); ?>
 	</tbody>
 </table>
 <br/><br/><br/>

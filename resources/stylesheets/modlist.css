@@ -139,6 +139,9 @@ display:block;
 /*/*/
 
 .searchEmpty	{color: lightgray;} /*This element borrowed from Vattic alongside his javascript code*/
+.search {
+	display: none;
+}
 
 
 /*A footer in place to display a mod count*/
