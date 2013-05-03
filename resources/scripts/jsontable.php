@@ -6,37 +6,44 @@ function recode($strIn) {
 	return mb_convert_encoding($strIn, 'UTF-8', 'auto');
 }
 
-$apilist = apiList($version);
+function readJSON($version) {
+	if(!isset($GLOBALS['mods'])) {
+		$JSONfile = recode(file_get_contents($version . '.json'));
+		$GLOBALS['mods'] = json_decode($JSONfile);
+	}
+	return $GLOBALS['mods'];
+}
 
 function apiList($version) {
-	$JSONfile = recode(file_get_contents($version . '.json'));
-	$mods = json_decode($JSONfile);
-	$apilist = array(array());
-	foreach($mods as &$mod) { //first iteration - grab all APIs
-		if(trim($mod->name) != "" && 
-			(strtolower($mod->other) == "(api)" ||
-			strtolower($mod->other) == "(dependency)" ||
-			strpos(trim($mod->name), 'API') !== false)) {
-			$currCount = count($apilist);
-			$apilist[$currCount]["name"] = trim($mod->name);
-			$apilist[$currCount]["link"] = trim($mod->link);
-			$apilist[$currCount]["desc"] = trim(strip_tags($mod->desc));
-			
-			if(strtolower($mod->other) != "(dependency)")
-				$apilist[$currCount]["api"] = true;
+	if(!isset($GLOBALS['apilist'])) {
+		$mods = readJSON($version);
+		$apilist = array(array());
+		foreach($mods as &$mod) { //first iteration - grab all APIs
+			if(trim($mod->name) != "" && 
+				(strtolower($mod->other) == "(api)" ||
+				strtolower($mod->other) == "(dependency)" ||
+				strpos(trim($mod->name), 'API') !== false)) {
+				$currCount = count($apilist);
+				$apilist[$currCount]["name"] = trim($mod->name);
+				$apilist[$currCount]["link"] = trim($mod->link);
+				$apilist[$currCount]["desc"] = trim(strip_tags($mod->desc));
+				
+				if(strtolower($mod->other) != "(dependency)")
+					$apilist[$currCount]["api"] = true;
+			}
 		}
+			
+		for($i=0;$i<count($apilist);$i++) { //remove invalid APIs
+			if($apilist[$i]["name"] == "")
+				unset($apilist[$i]);
+		}
+		$GLOBALS['apilist'] = $apilist;
 	}
-		
-	for($i=0;$i<count($apilist);$i++) { //remove invalid APIs
-		if($apilist[$i]["name"] == "")
-			unset($apilist[$i]);
-	}
-	
-	return $apilist;
+	return $GLOBALS['apilist'];
 }
 
 function showAPI($version) {
-	$apilist = $GLOBALS['apilist'];//apiList($version);
+	$apilist = apiList($version);
 	$listing = array();
 	foreach($apilist as &$api) {
 		if(isset($api["api"]) && $api["api"] == true)
@@ -59,9 +66,8 @@ function beginTable() {
 }
 
 function jsonTable($version) {
-	$JSONfile = recode(file_get_contents($version . '.json'));
-	$mods = json_decode($JSONfile);
-	$apilist = $GLOBALS['apilist'];//apiList($version);
+	$mods = readJSON($version);
+	$apilist = apiList($version);
 	foreach($mods as &$mod) { //second iteration - output table
 		echo '<tr>';
 		
