@@ -6,6 +6,8 @@ function recode($strIn) {
 	return mb_convert_encoding($strIn, 'UTF-8', 'auto');
 }
 
+$apilist = apiList($version);
+
 function apiList($version) {
 	$JSONfile = recode(file_get_contents($version . '.json'));
 	$mods = json_decode($JSONfile);
@@ -34,7 +36,7 @@ function apiList($version) {
 }
 
 function showAPI($version) {
-	$apilist = apiList($version);
+	$apilist = $GLOBALS['apilist'];//apiList($version);
 	$listing = array();
 	foreach($apilist as &$api) {
 		if(isset($api["api"]) && $api["api"] == true)
@@ -59,7 +61,7 @@ function beginTable() {
 function jsonTable($version) {
 	$JSONfile = recode(file_get_contents($version . '.json'));
 	$mods = json_decode($JSONfile);
-	$apilist = apiList($version);
+	$apilist = $GLOBALS['apilist'];//apiList($version);
 	foreach($mods as &$mod) { //second iteration - output table
 		echo '<tr>';
 		
