@@ -87,6 +87,7 @@ function jsonTable($version, $customload) {
 		$customload = $version;
 	$mods = readJSON($customload);
 	$apilist = apiList($version, $customload);
+	$modcount = 0;
 	foreach($mods as &$mod) { //second iteration - output table
 		if(findVersion($version,$mod->versions)) {
 			echo '<tr>';
@@ -161,10 +162,11 @@ function jsonTable($version, $customload) {
 			}
 			
 			echo '</tr>';
+			$modcount++;
 		}
 	}
 	
 	
-	return count($mods);
+	return $modcount;
 }
 ?>
