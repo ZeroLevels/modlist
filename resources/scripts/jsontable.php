@@ -14,15 +14,30 @@ function readJSON($version) {
 	return $GLOBALS['mods'];
 }
 
-function apiList($version) {
+function findVersion($version, $verArray) {
+	$found = false;
+	$exVer = explode('_',$version);
+	foreach($exVer as &$currVersion) {
+		if(in_array($currVersion, $verArray)) {
+			$found = true;
+			break;
+		}
+	}
+	return $found;
+}
+
+function apiList($version, $customload) {
+	if(!isset($customload))
+		$customload = $version;
 	if(!isset($GLOBALS['apilist'])) {
-		$mods = readJSON($version);
+		$mods = readJSON($customload);
 		$apilist = array(array());
 		foreach($mods as &$mod) { //first iteration - grab all APIs
 			if(trim($mod->name) != "" && 
 				(strtolower($mod->other) == "(api)" ||
 				strtolower($mod->other) == "(dependency)" ||
-				strpos(trim($mod->name), 'API') !== false)) {
+				strpos(trim($mod->name), 'API') !== false) &&
+				findVersion($version,$mod->versions)) {
 				$currCount = count($apilist);
 				$apilist[$currCount]["name"] = trim($mod->name);
 				$apilist[$currCount]["link"] = trim($mod->link);
@@ -42,8 +57,10 @@ function apiList($version) {
 	return $GLOBALS['apilist'];
 }
 
-function showAPI($version) {
-	$apilist = apiList($version);
+function showAPI($version, $customload) {
+	if(!isset($customload))
+		$customload = $version;
+	$apilist = apiList($version, $customload);
 	$listing = array();
 	foreach($apilist as &$api) {
 		if(isset($api["api"]) && $api["api"] == true)
@@ -65,80 +82,86 @@ function beginTable() {
 	echo '<th>Compatibility with Forge</th>';
 }
 
-function jsonTable($version) {
-	$mods = readJSON($version);
-	$apilist = apiList($version);
+function jsonTable($version, $customload) {
+	if(!isset($customload))
+		$customload = $version;
+	$mods = readJSON($customload);
+	$apilist = apiList($version, $customload);
 	foreach($mods as &$mod) { //second iteration - output table
-		echo '<tr>';
-		
-		echo '<td><a href="'.
-			$mod->link.'" target="blank">'.
-			$mod->name.'</a>';
-		if($mod->other != "") {
-			echo ' '.$mod->other;
-		}
-		echo '</td>';
-		
-		$otherDepends = array();
-		
-		foreach($mod->dependencies as &$dependency) {
-			if(strpos($dependency, 'Modloader') !== false || 
-			strpos($dependency, 'Forge') !== false) {} else
-				$otherDepends[] = $dependency;
-		}
-		
-		echo '<td class="desctt';
-		if(count($otherDepends) > 0) {
-			echo ' d';
-		}
-		foreach($mod->dependencies as &$dependency) {
-			if(strpos($dependency, 'Modloader') !== false) {
-				echo ' ml';
-				break;
-			} elseif(strpos($dependency, 'Not Forge') !== false) {
-				echo ' other';
-				break;
+		if(findVersion($version,$mod->versions)) {
+			echo '<tr>';
+			
+			echo '<td><a href="'.
+				$mod->link.'" target="blank">'.
+				$mod->name.'</a>';
+			if($mod->other != "") {
+				echo ' '.$mod->other;
 			}
+			echo '</td>';
+			
+			$otherDepends = array();
+			
+			foreach($mod->dependencies as &$dependency) {
+				if(strpos($dependency, 'Modloader') !== false || 
+				strpos($dependency, 'Forge') !== false) {} else
+					$otherDepends[] = $dependency;
+			}
+			
+			echo '<td class="desctt';
+			if(count($otherDepends) > 0) {
+				echo ' d';
+			}
+			foreach($mod->dependencies as &$dependency) {
+				if(strpos($dependency, 'Modloader') !== false) {
+					echo ' ml';
+					break;
+				} elseif(strpos($dependency, 'Not Forge') !== false) {
+					echo ' other';
+					break;
+				}
+			}
+			echo '">';
+			
+			if($mod->desc != "")
+				echo '<span class="tt">'.$mod->desc .'</br></br><big class="d bc">Dependencies:</big><ul><li>';
+			else
+				echo '<span class="tt"><big class="d bc">Dependencies:</big><ul><li>';
+			
+			$api = implode('</li><li>', $mod->dependencies);
+			foreach($apilist as &$currApi) {
+				if(stripos($api,'<li>'.$currApi["name"]) !== false) //Avoid collision like Render Player API vs Player API
+					$api = str_ireplace('<li>'.$currApi["name"],'<li><a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a>',$api);
+				else {
+					$api = str_ireplace($currApi["name"].' R','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> R',$api);
+					$api = str_ireplace($currApi["name"].' C','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> C',$api);
+					$api = str_ireplace($currApi["name"].' I','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> I',$api);
+				}
+			}
+			echo $api;
+			
+			echo '</li></ul></span></td>';
+			
+			echo '<td>'.$mod->author.'</td>';
+			echo '<td>'.implode(' ',$mod->type).'</td>';
+			
+			foreach($mod->dependencies as &$compatibility) {
+				if(strpos($compatibility, 'Not Forge Compatible') !== false) {
+					echo '<td class="nfc">Not Forge Compatible</td>';
+					break;
+				}
+				if(strpos($compatibility, 'Forge Compatible') !== false) {
+					echo '<td class="fc">Forge Compatible</td>';
+					break;
+				}
+				if(strpos($compatibility, 'Forge Required') !== false) {
+					echo '<td class="fr">Forge Required</td>';
+					break;
+				}
+				echo '<td class="fr"></td>';
+			}
+			
+			echo '</tr>';
 		}
-		echo '">';
-		
-		if($mod->desc != "")
-			echo '<span class="tt">'.$mod->desc .'</br></br><big class="d bc">Dependencies:</big><ul><li>';
-		else
-			echo '<span class="tt"><big class="d bc">Dependencies:</big><ul><li>';
-		
-		$api = implode('</li><li>', $mod->dependencies);
-		foreach($apilist as &$currApi) {
-			if(stripos($api,'<li>'.$currApi["name"]) !== false) //Avoid collision like Render Player API vs Player API
-				$api = str_ireplace('<li>'.$currApi["name"],'<li><a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a>',$api);
-			else {
-				$api = str_ireplace($currApi["name"].' R','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> R',$api);
-				$api = str_ireplace($currApi["name"].' C','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> C',$api);
-			}
-		}
-		echo $api;
-		
-		echo '</li></ul></span></td>';
-		
-		echo '<td>'.$mod->author.'</td>';
-		echo '<td>'.implode(' ',$mod->type).'</td>';
-		
-		foreach($mod->dependencies as &$compatibility) {
-			if(strpos($compatibility, 'Not Forge Compatible') !== false) {
-				echo '<td class="nfc">Not Forge Compatible</td>';
-				break;
-			}
-			if(strpos($compatibility, 'Forge Compatible') !== false) {
-				echo '<td class="fc">Forge Compatible</td>';
-				break;
-			}
-			if(strpos($compatibility, 'Forge Required') !== false) {
-				echo '<td class="fr">Forge Required</td>';
-				break;
-			}
-		}
-		
-		echo '</tr>';
 	}
 	
 	

@@ -1,5 +1,6 @@
 <?php
-$version="1.5.1";
+$version="1.5.2";
+$customload="1.5.1"; //uneeded if same with $version
 include('../../resources/scripts/jsontable.php');
 ?>
 <!DOCTYPE html>
@@ -55,8 +56,8 @@ include('../../resources/scripts/jsontable.php');
 <table class="minor listnav nav">
 	<tr>
 		<td class="nh" onclick="window.location.href='1.5.0.php'"><a href="1.5.0.php">1.5.0</a></td>
-		<td class="h">1.5.1</td>
-		<td class="nh" onclick="window.location.href='1.5.2.php'"><a href="1.5.2.php">1.5.2</a></td>
+		<td class="nh" onclick="window.location.href='1.5.1.php'"><a href="1.5.1.php">1.5.1</a></td>
+		<td class="h">1.5.2</td>
 	</tr>
 </table>
 <table cellspacing="0" class="modlist" id="example">
@@ -65,7 +66,7 @@ include('../../resources/scripts/jsontable.php');
 	</thead>
 
 	<tbody>
-		<?php $modcount = jsonTable($version); ?>
+		<?php $modcount = jsonTable($version, $customload); ?>
 	</tbody>
 </table>
 <br/><br/><br/>
@@ -75,7 +76,7 @@ include('../../resources/scripts/jsontable.php');
 </div>
 
 <div class="API">
-	<?php showAPI($version); ?>
+	<?php showAPI($version, $customload); ?>
 </div>
 
 <!--Google Analytics-->

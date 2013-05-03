@@ -35,6 +35,7 @@ if(isset($_GET['request'])) {
 function getVersion($version) {
 	switch($version) {
 		case "1.5.1":
+		case "1.5.2":
 			return 'list/1.5/1.5.1.json';
 			break;
 		case "1.5.0":

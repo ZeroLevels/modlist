@@ -238,7 +238,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -354,7 +355,8 @@
       "Not Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -759,7 +761,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -1684,7 +1687,8 @@
       "Not Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -2088,7 +2092,8 @@
       "Not Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -2656,7 +2661,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -2720,7 +2726,8 @@
       "Forge Itself"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -2949,7 +2956,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -4245,7 +4253,8 @@
       "Not Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -4362,7 +4371,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -5394,7 +5404,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -5586,7 +5597,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -5602,7 +5614,8 @@
       "Not Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
@@ -5847,7 +5860,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+	  "1.5.2"
     ]
   },
   {
