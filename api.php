@@ -7,7 +7,7 @@ if(isset($_GET['request'])) {
 		case "hash":
 			if(isset($_GET['version'])) {
 				if ($location = getVersion($_GET['version'])) {
-					echo md5_file($location);
+					echo md5(outputVersion($_GET['version'], $location));
 				}
 			} else {
 				echo "Version?";
@@ -17,8 +17,8 @@ if(isset($_GET['request'])) {
 		case "json":
 			if(isset($_GET['version'])) {
 				if ($location = getVersion($_GET['version'])) {
-					echo file_get_contents($location);
-				}
+					echo outputVersion($_GET['version'], $location);
+					}
 			} else {
 				echo "Version?";
 			}
@@ -63,3 +63,40 @@ function getVersion($version) {
 	}
 }
 
+function outputVersion($versions, $location) {
+	if(strpos($versions,'_') !== false) {
+		$file = recode(file_get_contents($location));
+		$json = json_decode($file);
+		$newjson = array();
+		foreach($json as &$mod) {
+			if(multimatch($versions,$mod->versions))
+				$newjson[] = $mod;
+		}
+		return str_replace('\\/','/',json_encode($newjson));
+	} else
+		return outputVersionSingle($versions, $location);
+}
+
+function multimatch($versions,$verArray) {
+	$exversions = explode('_',$versions);
+	foreach($exversions as &$currVer) {
+		if(in_array($currVer,$verArray))
+			return true;
+	}
+	return false;
+}
+function outputVersionSingle($version, $location) {
+	$file = recode(file_get_contents($location));
+	$json = json_decode($file);
+	$newjson = array();
+	foreach($json as &$mod) {
+		if(in_array($version,$mod->versions))
+			$newjson[] = $mod;
+	}
+	return str_replace('\\/','/',json_encode($newjson));
+}
+
+function recode($strIn) {
+	return mb_convert_encoding($strIn, 'UTF-8', 'auto');
+}
+?>
