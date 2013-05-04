@@ -191,7 +191,8 @@
       "Forge Required"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -6329,6 +6330,22 @@
     ]
   },
   {
+    "name":"The Melee/Elemental Skeletons Mod",
+    "other":"",
+    "link":"http://bit.ly/137j80T",
+    "desc":"The Melee Skeletons Mod adds 5 new Skeletons, modifies the original Skeleton to hold a new sword, the Ancient Blade instead of a bow, adds a new Enchantment and adds a couple new weapons, materials and tools.",
+    "author":"Slayerlord8",
+    "type":[
+      "SSP"
+    ],
+    "dependencies":[
+      "Forge Compatible"
+    ],
+    "versions":[
+      "1.5.1"
+    ]
+  },
+  {
     "name":"The Ocarina Mod",
     "other":"",
     "link":"http://bit.ly/UArYTu",
@@ -7188,6 +7205,23 @@
     ],
     "versions":[
       "1.5.1"
+    ]
+  },
+  {
+    "name":"X-Ray Mod",
+    "other":"(julialy)",
+    "link":"http://bit.ly/W2hmul",
+    "desc":"This mod will let you see any block you desire.",
+    "author":"julialy",
+    "type":[
+      "Client"
+    ],
+    "dependencies":[
+      "Not Forge Compatible",
+      "Liteloader"
+    ],
+    "versions":[
+      "1.5.2"
     ]
   },
   {
