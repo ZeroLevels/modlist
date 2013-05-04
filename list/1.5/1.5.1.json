@@ -159,7 +159,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -240,7 +240,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -357,7 +357,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -763,7 +763,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -814,7 +814,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1076,7 +1076,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1093,7 +1093,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1415,7 +1415,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1433,7 +1433,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1662,7 +1662,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1695,7 +1695,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1760,7 +1760,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1777,7 +1777,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -1795,7 +1795,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -2103,7 +2103,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -2672,7 +2672,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -2688,7 +2688,8 @@
       "Forge Required"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -2737,7 +2738,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -2967,7 +2968,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -3063,7 +3064,8 @@
       "Forge Required"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -3192,7 +3194,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -3516,7 +3518,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -3773,7 +3775,8 @@
       "Forge Compatible"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -3811,7 +3814,7 @@
     ]
   },
   {
-    "name":"Macro/Keybind ModLiteLoader",
+    "name":"Macro/Keybind Mod",
     "other":"",
     "link":"http://bit.ly/WnFEuT",
     "desc":"Take control of your Minecraft client. Bind keys to commands and automate simple or complex tasks. Design your own heads-up display and create your own interactive menus in-game quickly and easily. Perfect for use with WorldEdit, MCMMO, adminning a server, or trolling your friends. Plus it dispenses free cake.",
@@ -3820,10 +3823,27 @@
       "Client"
     ],
     "dependencies":[
-      "Forge Compatible"
+      "Forge Compatible",
+      "LiteLoader"
     ],
     "versions":[
       "1.5.1"
+    ]
+  },
+  {
+    "name":"Magic Paintbrush",
+    "other":"",
+    "link":"http://bit.ly/107IqfD",
+    "desc":"The Magic Paintbrush mod adds just one new item to the game, but that item opens up a whole new way to alter your Minecraft world. Using this brush on most blocks will allow you to swipe their color and store it in your brush!",
+    "author":"CaptainFord",
+    "type":[
+      "Universal"
+    ],
+    "dependencies":[
+      "Forge Required"
+    ],
+    "versions":[
+      "1.5.2"
     ]
   },
   {
@@ -4266,7 +4286,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -4384,7 +4404,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -4609,7 +4629,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -4968,7 +4988,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -5419,7 +5439,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -5612,7 +5632,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -5629,7 +5649,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -5726,7 +5746,8 @@
       "Forge Required"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -5811,7 +5832,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -5876,7 +5897,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -5893,6 +5914,22 @@
     ],
     "versions":[
       "1.5.1"
+    ]
+  },
+  {
+    "name":"SpecialTools",
+    "other":"",
+    "link":"http://bit.ly/126609P",
+    "desc":"Extract items from ores with a Picker, transform blocks with a Smelter, and more! Use the Harvester to extract resources from plants, split blocks into half slabs with the Slicer, and destroy any block with the Breaker!",
+    "author":"carliman",
+    "type":[
+      "Universal"
+    ],
+    "dependencies":[
+      "Forge Required"
+    ],
+    "versions":[
+      "1.5.2"
     ]
   },
   {
@@ -5940,7 +5977,8 @@
       "Forge Required"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -6025,7 +6063,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -6043,7 +6081,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -6497,7 +6535,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
@@ -7081,7 +7119,7 @@
     ],
     "versions":[
       "1.5.1",
-	  "1.5.2"
+      "1.5.2"
     ]
   },
   {
