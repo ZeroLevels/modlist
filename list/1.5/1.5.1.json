@@ -1650,6 +1650,24 @@
     ]
   },
   {
+    "name":"Dead Bush Dos Mod",
+    "other":"",
+    "link":"http://bit.ly/1023Zgd",
+    "desc":"This mod adds a clone dead bush that spawns along side the vanilla ones. This clone bush drops sticks.",
+    "author":"Kinyoshi",
+    "type":[
+      "Universal"
+    ],
+    "dependencies":[
+      "Forge Compatible",
+      "Modloader"
+    ],
+    "versions":[
+      "1.5.1",
+      "1.5.2"
+    ]
+  },
+  {
     "name":"Dead Bush Replacement",
     "other":"",
     "link":"http://bit.ly/YvnZCy",
@@ -3507,6 +3525,24 @@
     ],
     "versions":[
       "1.5.1"
+    ]
+  },
+  {
+    "name":"Item Soup Dos",
+    "other":"",
+    "link":"http://bit.ly/10cE822",
+    "desc":"This mod makes the item soup stackable up to twelve. Make sure you unstack your bowl of soup before you consume it, otherwise you will eat all of it, little piggy...",
+    "author":"Kinyoshi",
+    "type":[
+      "Universal"
+    ],
+    "dependencies":[
+      "Forge Compatible",
+      "Modloader"
+    ],
+    "versions":[
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
