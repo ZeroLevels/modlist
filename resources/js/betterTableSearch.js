@@ -10,7 +10,7 @@ $('#searchnames').keyup(function() {
     var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
     
     $rows.show().filter(function() {
-        var text = $(':nth-child(1)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
+        var text = $('td:nth-of-type(1)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
         return !~text.indexOf(val);
     }).hide();
 });
@@ -20,7 +20,7 @@ $('#searchauthors').keyup(function() {
     var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
     
     $rows.show().filter(function() {
-        var text = $(':nth-child(3)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
+        var text = $('td:nth-of-type(3)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
         return !~text.indexOf(val);
     }).hide();
 });
