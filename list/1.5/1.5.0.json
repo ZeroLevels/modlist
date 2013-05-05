@@ -1929,6 +1929,22 @@
     ]
   },
   {
+    "name":"M-Ore Mod",
+    "other":"",
+    "link":"http://bit.ly/Zg0tLh",
+    "desc":"If you are tired of the old ore OR if you just want more ores, this mod is for you!",
+    "author":"Kuuu",
+    "type":[
+      "SSP"
+    ],
+    "dependencies":[
+      "Forge Required"
+    ],
+    "versions":[
+      "1.5.0"
+    ]
+  },
+  {
     "name":"More Explosives",
     "other":"",
     "link":"http://bit.ly/VNTTtZ",

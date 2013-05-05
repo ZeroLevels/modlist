@@ -34,7 +34,7 @@ function apiList($version, $customload) {
 		$apilist = array(array());
 		foreach($mods as &$mod) { //first iteration - grab all APIs
 			if(trim($mod->name) != "" && 
-				(strtolower($mod->other) == "(api)" ||
+				(strpos(strtolower($mod->other), "(api)") !== false ||
 				strtolower($mod->other) == "(dependency)" ||
 				strpos(trim($mod->name), 'API') !== false) &&
 				findVersion($version,$mod->versions)) {

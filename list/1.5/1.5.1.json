@@ -784,6 +784,23 @@
     ]
   },
   {
+    "name":"Bleach Mod",
+    "other":"",
+    "link":"http://bit.ly/17ELXTl",
+    "desc":"Based on the anime, Bleach. Adds many mobs, weapons and an energy bar.",
+    "author":"LittleBreadLoaf",
+    "type":[
+      "SSP"
+    ],
+    "dependencies":[
+      "Not Forge Compatible"
+    ],
+    "versions":[
+      "1.5.1",
+      "1.5.2"
+    ]
+  },
+  {
     "name":"BlockBreaker / ConnectedDestruction",
     "other":"",
     "link":"http://bit.ly/TWHHIG",
@@ -1598,6 +1615,23 @@
     ],
     "versions":[
       "1.5.1"
+    ]
+  },
+  {
+    "name":"CustomVolume",
+    "other":"",
+    "link":"http://bit.ly/11KGYwA",
+    "desc":"",
+    "author":"bannedtom",
+    "type":[
+      "Client"
+    ],
+    "dependencies":[
+      "Not Forge Compatible"
+    ],
+    "versions":[
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -2698,7 +2732,7 @@
     "name":"Flowercraft",
     "other":"",
     "link":"http://bit.ly/UA9Aq0",
-    "desc":"Adds 15 new flowers to the game with recipes for dyes. Makes it easier to acquire most of the combination dyes.",
+    "desc":"Adds 15 new flowers to the game with recipes for dyes, making it easier to acquire most of the combination dyes. Witness a biome filled with giant flowers!",
     "author":"Blubbeltasche",
     "type":[
       "Universal"
@@ -4368,6 +4402,23 @@
     ]
   },
   {
+    "name":"M-Ore Mod",
+    "other":"",
+    "link":"http://bit.ly/Zg0tLh",
+    "desc":"If you are tired of the old ore OR if you just want more ores, this mod is for you!",
+    "author":"Kuuu",
+    "type":[
+      "SSP"
+    ],
+    "dependencies":[
+      "Forge Required"
+    ],
+    "versions":[
+      "1.5.1",
+      "1.5.2"
+    ]
+  },
+  {
     "name":"More Explosives",
     "other":"",
     "link":"http://bit.ly/VNTTtZ",
@@ -4480,7 +4531,8 @@
       "Forge Required"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -5404,7 +5456,8 @@
       "Forge Required"
     ],
     "versions":[
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -5920,6 +5973,22 @@
     "link":"http://bit.ly/Z6keEp",
     "desc":"A mod that makes minecraft overpowered and when its overpowered, you feel like GOD.",
     "author":"SmileyPandaBear",
+    "type":[
+      "Universal"
+    ],
+    "dependencies":[
+      "Forge Required"
+    ],
+    "versions":[
+      "1.5.1"
+    ]
+  },
+  {
+    "name":"Soul Shards",
+    "other":"",
+    "link":"http://bit.ly/YwAQv7",
+    "desc":"Allows you to create a Soul Shard, absorbing souls of slain monsters into Soul Cages - blocks that will spawn the absorbed monster.",
+    "author":"ShadwDrgn",
     "type":[
       "Universal"
     ],
