@@ -84,6 +84,8 @@ function multimatch($versions,$verArray) {
 	return false;
 }
 function outputVersionSingle($version, $location) {
+	if($version == "1.5")
+		$version = "1.5.0";
 	$file = recode(file_get_contents($location));
 	$json = json_decode($file);
 	$newjson = array();
