@@ -1,6 +1,6 @@
 <?php
 $version="1.5.2";
-$customload="1.5.1"; //uneeded if same with $version
+$customload="1.5"; //uneeded if same with $version
 include('../../resources/scripts/jsontable.php');
 ?>
 <!DOCTYPE html>
