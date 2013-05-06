@@ -7,31 +7,9 @@ $('#searchnames').css('display','inline');
 $('#searchauthors').css('display','inline');
 $('#searchcompatible').css('display','inline');
 
-$('#searchnames').keyup(function() {
-	$('#searchauthors').val('');
-	$('#searchcompatible').val('all');
-    var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-    
-    $rows.show().filter(function() {
-        var text = $('td:nth-of-type(1)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
-        return !~text.indexOf(val);
-    }).hide();
-});
-
-$('#searchauthors').keyup(function() {
-	$('#searchnames').val('');
-	$('#searchcompatible').val('all');
-    var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-    
-    $rows.show().filter(function() {
-        var text = $('td:nth-of-type(3)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
-        return !~text.indexOf(val);
-    }).hide();
-});
-
-$('#searchcompatible').change(function() {
-	$('#searchauthors').val('');
-	$('#searchnames').val('');
+function search() {
+    var valn = $.trim($('#searchnames').val()).replace(/ +/g, ' ').toLowerCase();
+    var vala = $.trim($('#searchauthors').val()).replace(/ +/g, ' ').toLowerCase();
 	var selectVal = $('#searchcompatible :selected').val();
 	var selected = '';
 	switch(selectVal) {
@@ -48,13 +26,19 @@ $('#searchcompatible').change(function() {
 		selected = '';
 		break;
 	}
-	if(selected === '') {
-		$rows.show();
-	} else {
-		$rows.show().filter(function() {
-			var text = $('td:nth-of-type(5)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
-			//return !~text.indexOf(selected);
-			return text !== selected;
-		}).hide();
-	}
-});
+    
+    $rows.show().filter(function() {
+        var textn = $('td:nth-of-type(1)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
+        var texta = $('td:nth-of-type(3)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
+		if(selected !== '') {
+			var textc = $('td:nth-of-type(5)', $(this)).text().replace(/\s+/g, ' ').toLowerCase();
+			return !~textn.indexOf(valn) || !~texta.indexOf(vala) || textc !== selected;
+		} else {
+			return !~textn.indexOf(valn) || !~texta.indexOf(vala);
+		}
+    }).hide();
+}
+
+$('#searchnames').keyup(search);
+$('#searchauthors').keyup(search);
+$('#searchcompatible').change(search);
