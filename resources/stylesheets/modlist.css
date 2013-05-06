@@ -14,6 +14,14 @@ table {
 padding:3px;
 }
 
+.modlist tr:nth-child(odd) {
+	background-color:#E8EFF4;
+}
+
+.modlist tr:nth-child(even) {
+	background-color:#D7DEE3;
+}
+
 .modlist tr:hover {
 background-color:#B7CDDD;
 }
