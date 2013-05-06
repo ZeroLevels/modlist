@@ -17,9 +17,15 @@ padding:3px;
 .modlist tr:nth-child(odd) {
 	background-color:#E8EFF4;
 }
+.modlist tr.odd {
+	background-color:#E8EFF4 !important;
+}
 
 .modlist tr:nth-child(even) {
 	background-color:#D7DEE3;
+}
+.modlist tr.even {
+	background-color:#D7DEE3 !important;
 }
 
 .modlist tr:hover {

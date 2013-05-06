@@ -6,7 +6,10 @@ var $rows = $('#example tbody tr');
 $('#searchnames').css('display','inline');
 $('#searchauthors').css('display','inline');
 $('#searchcompatible').css('display','inline');
-
+function setOddEven() {
+    $('tr:visible:odd').removeClass('odd even').addClass('odd');
+    $('tr:visible:even').removeClass('odd even').addClass('even');
+}
 function search() {
     var valn = $.trim($('#searchnames').val()).replace(/ +/g, ' ').toLowerCase();
     var vala = $.trim($('#searchauthors').val()).replace(/ +/g, ' ').toLowerCase();
@@ -37,6 +40,7 @@ function search() {
 			return !~textn.indexOf(valn) || !~texta.indexOf(vala);
 		}
     }).hide();
+	setOddEven();
 }
 
 $('#searchnames').keyup(search);
