@@ -9,6 +9,7 @@ $('#searchcompatible').css('display','inline');
 
 $('#searchnames').keyup(function() {
 	$('#searchauthors').val('');
+	$('#searchcompatible').val('all');
     var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
     
     $rows.show().filter(function() {
@@ -19,6 +20,7 @@ $('#searchnames').keyup(function() {
 
 $('#searchauthors').keyup(function() {
 	$('#searchnames').val('');
+	$('#searchcompatible').val('all');
     var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
     
     $rows.show().filter(function() {
@@ -28,6 +30,8 @@ $('#searchauthors').keyup(function() {
 });
 
 $('#searchcompatible').change(function() {
+	$('#searchauthors').val('');
+	$('#searchnames').val('');
 	var selectVal = $('#searchcompatible :selected').val();
 	var selected = '';
 	switch(selectVal) {
