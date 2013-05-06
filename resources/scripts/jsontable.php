@@ -79,7 +79,14 @@ function beginTable() {
 	echo '<th style="min-width: 50px; max-width:51px">Info</th>';
 	echo '<th>Author<br/><input type="text" id="searchauthors" placeholder="Type to search" class="search" /></th>';
 	echo '<th>Availability</th>';
-	echo '<th>Compatibility with Forge</th>';
+	echo '<th>Compatibility with Forge<br/>'.
+		'<select id="searchcompatible" class="search">'.
+		'<option value="all">--</option>'.
+		'<option value="fc">Forge Compatible</option>'.
+		'<option value="fr">Forge Required</option>'.
+		'<option value="nfc">Not Forge Compatible</option>'.
+		'</select>'.
+		'</th>';
 }
 
 function jsonTable($version, $customload) {
