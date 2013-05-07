@@ -2,12 +2,20 @@
 
 header("Content-Type: text/plain; charset=UTF-8");
 
+function readJSON() {
+	if(!isset($GLOBALS['mods'])) {
+		$JSONfile = recode(file_get_contents('list/modlist.json'));
+		$GLOBALS['mods'] = json_decode($JSONfile);
+	}
+	return $GLOBALS['mods'];
+}
+
 if(isset($_GET['request'])) {
 	switch($_GET['request']) {
 		case "hash":
 			if(isset($_GET['version'])) {
-				if ($location = getVersion($_GET['version'])) {
-					echo md5(outputVersion($_GET['version'], $location));
+				if ($file = outputVersion($_GET['version'])) {
+					echo md5($file);
 				}
 			} else {
 				echo "Version?";
@@ -16,9 +24,9 @@ if(isset($_GET['request'])) {
 			
 		case "json":
 			if(isset($_GET['version'])) {
-				if ($location = getVersion($_GET['version'])) {
-					echo outputVersion($_GET['version'], $location);
-					}
+				if ($file = outputVersion($_GET['version'])) {
+					echo $file;
+				}
 			} else {
 				echo "Version?";
 			}
@@ -32,39 +40,9 @@ if(isset($_GET['request'])) {
 	echo "No request?";
 }
 
-function getVersion($version) {
-	switch($version) {
-		case "1.5.0":
-		case "1.5":
-		case "1.5.1":
-		case "1.5.2":
-			return 'list/1.5/1.5.json';
-			break;
-		case "1.4.7":
-		case "1.4.6":
-		case "1.4.7_1.4.6":
-		case "1.4.6_1.4.7":
-			return 'list/1.4/1.4.6_1.4.7.json';
-			break;
-		case "1.4.5":
-		case "1.4.4":
-		case "1.4.5_1.4.4":
-		case "1.4.4_1.4.5":
-			return 'list/1.4/1.4.4_1.4.5.json';
-			break;
-		case "1.4.2":
-			return 'list/1.4/1.4.2.json';
-			break;
-		default:
-			return false;
-			break;
-	}
-}
-
-function outputVersion($versions, $location) {
+function outputVersion($versions) {
 	if(strpos($versions,'_') !== false) {
-		$file = recode(file_get_contents($location));
-		$json = json_decode($file);
+		$json = readJSON();
 		$newjson = array();
 		foreach($json as &$mod) {
 			if(multimatch($versions,$mod->versions))
@@ -72,7 +50,7 @@ function outputVersion($versions, $location) {
 		}
 		return str_replace('\\/','/',json_encode($newjson));
 	} else
-		return outputVersionSingle($versions, $location);
+		return outputVersionSingle($versions);
 }
 
 function multimatch($versions,$verArray) {
@@ -83,11 +61,10 @@ function multimatch($versions,$verArray) {
 	}
 	return false;
 }
-function outputVersionSingle($version, $location) {
+function outputVersionSingle($version) {
 	if($version == "1.5")
 		$version = "1.5.0";
-	$file = recode(file_get_contents($location));
-	$json = json_decode($file);
+	$json = readJSON();
 	$newjson = array();
 	foreach($json as &$mod) {
 		if(in_array($version,$mod->versions))

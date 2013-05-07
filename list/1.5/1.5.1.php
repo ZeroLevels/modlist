@@ -1,6 +1,5 @@
 <?php
 $version="1.5.1";
-$customload="1.5"; //uneeded if same with $version
 include('../../resources/scripts/jsontable.php');
 ?>
 <!DOCTYPE html>
@@ -66,7 +65,7 @@ include('../../resources/scripts/jsontable.php');
 	</thead>
 
 	<tbody>
-		<?php $modcount = jsonTable($version, $customload); ?>
+		<?php $modcount = jsonTable($version); ?>
 	</tbody>
 </table>
 <br/><br/><br/>
@@ -76,7 +75,7 @@ include('../../resources/scripts/jsontable.php');
 </div>
 
 <div class="API">
-	<?php showAPI($version, $customload); ?>
+	<?php showAPI($version); ?>
 </div>
 
 <!--Google Analytics-->
