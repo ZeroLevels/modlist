@@ -1,5 +1,6 @@
 <?php
 $version="1.5.1";
+$customload="1.5"; //uneeded if same with $version
 include('../../resources/scripts/jsontable.php');
 ?>
 <!DOCTYPE html>
@@ -8,7 +9,7 @@ include('../../resources/scripts/jsontable.php');
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<title>MCF Mod List - <?php echo $version; ?></title>
 	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-	<script type="text/javascript" src="../../resources/js/tableSearch.js">/*Search script courtesy of Vattic*/</script>
+	<script type="text/javascript" src="../../resources/js/betterTableSearch.js" defer>/*Search script courtesy of GrygrFlzr*/</script>
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/common.css" media="screen" />
@@ -56,20 +57,16 @@ include('../../resources/scripts/jsontable.php');
 	<tr>
 		<td class="nh" onclick="window.location.href='1.5.0.php'"><a href="1.5.0.php">1.5.0</a></td>
 		<td class="h">1.5.1</td>
+		<td class="nh" onclick="window.location.href='1.5.2.php'"><a href="1.5.2.php">1.5.2</a></td>
 	</tr>
 </table>
-
 <table cellspacing="0" class="modlist" id="example">
 	<thead>
-		<th style="min-width:262px">Mod Name<br/><input style="display:none" class="searchEmpty" /></th>
-		<th style="min-width: 50px; max-width:51px">Info</th>
-		<th>Author</th>
-		<th>Availability</th>
-		<th>Compatibility with Forge</th>
+		<?php beginTable(); ?>
 	</thead>
 
 	<tbody>
-	<?php $modcount = jsonTable($version); ?>
+		<?php $modcount = jsonTable($version, $customload); ?>
 	</tbody>
 </table>
 <br/><br/><br/>
@@ -79,7 +76,7 @@ include('../../resources/scripts/jsontable.php');
 </div>
 
 <div class="API">
-	<?php showAPI($version); ?>
+	<?php showAPI($version, $customload); ?>
 </div>
 
 <!--Google Analytics-->

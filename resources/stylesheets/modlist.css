@@ -14,6 +14,20 @@ table {
 padding:3px;
 }
 
+.modlist tr:nth-child(odd) {
+	background-color:#E8EFF4;
+}
+.modlist tr.odd {
+	background-color:#E8EFF4 !important;
+}
+
+.modlist tr:nth-child(even) {
+	background-color:#D7DEE3;
+}
+.modlist tr.even {
+	background-color:#D7DEE3 !important;
+}
+
 .modlist tr:hover {
 background-color:#B7CDDD;
 }
@@ -139,6 +153,9 @@ display:block;
 /*/*/
 
 .searchEmpty	{color: lightgray;} /*This element borrowed from Vattic alongside his javascript code*/
+.search {
+	display: none;
+}
 
 
 /*A footer in place to display a mod count*/
