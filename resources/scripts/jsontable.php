@@ -6,9 +6,9 @@ function recode($strIn) {
 	return mb_convert_encoding($strIn, 'UTF-8', 'auto');
 }
 
-function readJSON($version) {
+function readJSON() {
 	if(!isset($GLOBALS['mods'])) {
-		$JSONfile = recode(file_get_contents($version . '.json'));
+		$JSONfile = recode(file_get_contents('../modlist.json'));
 		$GLOBALS['mods'] = json_decode($JSONfile);
 	}
 	return $GLOBALS['mods'];
@@ -26,11 +26,9 @@ function findVersion($version, $verArray) {
 	return $found;
 }
 
-function apiList($version, $customload) {
-	if(!isset($customload))
-		$customload = $version;
+function apiList($version) {
 	if(!isset($GLOBALS['apilist'])) {
-		$mods = readJSON($customload);
+		$mods = readJSON();
 		$apilist = array(array());
 		foreach($mods as &$mod) { //first iteration - grab all APIs
 			if(trim($mod->name) != "" && 
@@ -57,10 +55,8 @@ function apiList($version, $customload) {
 	return $GLOBALS['apilist'];
 }
 
-function showAPI($version, $customload) {
-	if(!isset($customload))
-		$customload = $version;
-	$apilist = apiList($version, $customload);
+function showAPI($version) {
+	$apilist = apiList($version);
 	$listing = array();
 	foreach($apilist as &$api) {
 		if(isset($api["api"]) && $api["api"] == true)
@@ -89,11 +85,9 @@ function beginTable() {
 		'</th>';
 }
 
-function jsonTable($version, $customload) {
-	if(!isset($customload))
-		$customload = $version;
-	$mods = readJSON($customload);
-	$apilist = apiList($version, $customload);
+function jsonTable($version) {
+	$mods = readJSON();
+	$apilist = apiList($version);
 	$modcount = 0;
 	foreach($mods as &$mod) { //second iteration - output table
 		if(findVersion($version,$mod->versions)) {
