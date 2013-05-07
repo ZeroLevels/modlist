@@ -6323,6 +6323,24 @@
     ]
   },
   {
+    "name":"Reinforced Butter",
+    "other":"",
+    "link":"http://bit.ly/13G0lfW",
+    "desc":"",
+    "author":"jsprouts",
+    "type":[
+      "SSP",
+      "SMP"
+    ],
+    "dependencies":[
+      "Forge Compatible",
+      "Modloader Compatible"
+    ],
+    "versions":[
+      "1.5.1"
+    ]
+  },
+  {
     "name":"Render Player API",
     "other":"",
     "link":"http://bit.ly/13U9b8y",
@@ -6453,6 +6471,23 @@
     "versions":[
       "1.5.0",
       "1.5.1"
+    ]
+  },
+  {
+    "name":"SaplingSpawn",
+    "other":"",
+    "link":"http://bit.ly/13oNOKg",
+    "desc":"Allows you to set custom drop chances for saplings and apples.",
+    "author":"bannedtom",
+    "type":[
+      "SSP"
+    ],
+    "dependencies":[
+      "Not Forge Compatible"
+    ],
+    "versions":[
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
@@ -7376,7 +7411,8 @@
     ],
     "versions":[
       "1.5.0",
-      "1.5.1"
+      "1.5.1",
+      "1.5.2"
     ]
   },
   {
