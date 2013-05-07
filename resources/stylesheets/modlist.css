@@ -22,14 +22,14 @@ padding:3px;
 }
 
 .modlist tr:nth-child(even) {
-	background-color:#D7DEE3;
+	background-color:#E4EBF0; /*DFE6EB*/
 }
 .modlist tr.even {
-	background-color:#D7DEE3 !important;
+	background-color:#E4EBF0 !important;
 }
 
 .modlist tr:hover {
-background-color:#B7CDDD;
+background-color:#B7CDDD !important;
 }
 
 table.modlist  {
