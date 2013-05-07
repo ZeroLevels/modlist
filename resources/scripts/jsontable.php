@@ -29,14 +29,23 @@ function findVersion($version, $verArray) {
 
 function sortAlpha($jsonarray) {
 	$names = array();
+	$others = array();
 	foreach($jsonarray as &$mod) {
 		$names[] = str_replace('[','',
 			str_replace(']','',
-			strtolower($mod->name . $mod->other)
-			));
+			str_replace('(','',
+			str_replace(')','',
+			strtolower($mod->name)
+			))));
+		$others[] = str_replace('[','',
+			str_replace(']','',
+			str_replace('(','',
+			str_replace(')','',
+			strtolower($mod->other)
+			))));
 	}
 
-	array_multisort($names, SORT_ASC, $jsonarray);
+	array_multisort($names, SORT_ASC, $others, SORT_ASC, $jsonarray);
 	
 	return $jsonarray;
 }
