@@ -3990,6 +3990,16 @@
     "versions":["1.5.1"]
   },
   {
+    "name":"Gizmos",
+    "other":"",
+    "link":"http://bit.ly/10lcmoN",
+    "desc":"Allows hiding items inside tools, adds a time travel device, a building tool, a bomb defuser, special fire and four explosive blocks.",
+    "author":"Planetguy",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
     "name":"GL Shaders OF",
     "other":"",
     "link":"http://bit.ly/VFCzKX",
@@ -4088,6 +4098,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required","iChun Util"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+  },
+  {
+    "name":"Green Thumb Mod",
+    "other":"",
+    "link":"http://bit.ly/10l7YWK",
+    "desc":"Allows crafting of things that normally can't be crafted. Extensions, found in the same thread, allow you to craft ores, chiseled stone bricks, and another extension, the botany extension, spawns a bunch of new flowers everywhere.",
+    "author":"Enosphorous",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Greg's Blocks",
@@ -6125,8 +6145,8 @@
     "link":"http://bit.ly/13G0lfW",
     "desc":"Adds in many new pressure plates.",
     "author":"jsprouts",
-    "type":["SSP","SMP"],
-    "dependencies":["Not Forge Compatible"],
+    "type":["SSP","SMP","LAN"],
+    "dependencies":["Forge Compatible","Modloader Compatible"],
     "versions":["1.4.4","1.4.5","1.5.1"]
   },
   {
@@ -6603,11 +6623,11 @@
     "name":"NoSlowDown",
     "other":"",
     "link":"http://bit.ly/13dyHCR",
-    "desc":"",
+    "desc":"Allows you to keep running while using a bow or eating in single player and multiplayer servers",
     "author":"zag09",
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"NoSnow Mod",
@@ -7182,12 +7202,12 @@
   {
     "name":"Railcraft",
     "other":"",
-    "link":"http://bit.ly/XDavKW",
-    "desc":"",
+    "link":"http://bit.ly/13rWqzP",
+    "desc":"Features a fully fleshed out tech tree, with great effort gone into providing a balanced gameplay based around rails and their creation.",
     "author":"CovertJaguar",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Rainbow XP Mod",
@@ -7333,7 +7353,7 @@
     "name":"Rei's Minimap",
     "other":"",
     "link":"http://bit.ly/ZwYx5P",
-    "desc":"Features:<ul><li>Fast processing</li><li>Beautiful map rendering:</li><li>Expression of semitransparent blocks</li><li>Bump-map expression of height</li><li>Expression of dynamically changing lighting</li><li>Automatically generate the block colors from your texturepack</li><li>Biome color</li><li>Entities radar</li><li>Cave mapping</li><li>Waypoints (Can not teleport)</li><li>Ingame keyconfig</li><li>ZanMinimap frame appearance</li><li>Indication of slime spawning chunks</li></ul>",
+    "desc":"Features: Fast processing, Beautiful map rendering, Expression of semitransparent blocks, Bump-map expression of height, Expression of dynamically changing lighting, Automatically generate the block colors from your texturepack, Biome color, Entities radar, Cave mapping, Waypoints (Can not teleport), Ingame keyconfig, ZanMinimap frame appearance, and Indication of slime spawning chunks.",
     "author":"ReiFNSK",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
@@ -7343,9 +7363,9 @@
     "name":"Reinforced Butter",
     "other":"",
     "link":"http://bit.ly/13G0lfW",
-    "desc":"",
+    "desc":"Adds new armor, blocks, tools, and weapons for two new ingots, Super Butter and Reinforced Butter.",
     "author":"jsprouts",
-    "type":["SSP","SMP"],
+    "type":["SSP","SMP","Lan"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
     "versions":["1.5.1"]
   },
@@ -7877,7 +7897,7 @@
     "author":"SmileyPandaBear",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Soul Shards",
