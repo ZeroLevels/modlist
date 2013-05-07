@@ -1693,7 +1693,7 @@
     "name":"BuddyCam",
     "other":"",
     "link":"http://bit.ly/VDYvG4",
-    "desc":"/>With the Buddycam you can view your Friends View in Multiplayer, if he/she allows it. You can even observe your Pets in Single- & Multiplayer (as of 1.5.1d). You can fully customize the position and size of the buddycam-screen and the renderquality.The only limitation to the number of screens is the power of your Computer. (Tested with 3 screens.)",
+    "desc":"With the Buddycam you can view your Friends View in Multiplayer, if he/she allows it. You can even observe your Pets in Single- & Multiplayer (as of 1.5.1d). You can fully customize the position and size of the buddycam-screen and the renderquality.The only limitation to the number of screens is the power of your Computer. (Tested with 3 screens.)",
     "author":"romibi",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
