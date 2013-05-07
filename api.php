@@ -5,9 +5,32 @@ header("Content-Type: text/plain; charset=UTF-8");
 function readJSON() {
 	if(!isset($GLOBALS['mods'])) {
 		$JSONfile = recode(file_get_contents('list/modlist.json'));
-		$GLOBALS['mods'] = json_decode($JSONfile);
+		$GLOBALS['mods'] = sortAlpha(json_decode($JSONfile));
 	}
 	return $GLOBALS['mods'];
+}
+
+function sortAlpha($jsonarray) {
+	$names = array();
+	$others = array();
+	foreach($jsonarray as &$mod) {
+		$names[] = str_replace('[','',
+			str_replace(']','',
+			str_replace('(','',
+			str_replace(')','',
+			strtolower($mod->name)
+			))));
+		$others[] = str_replace('[','',
+			str_replace(']','',
+			str_replace('(','',
+			str_replace(')','',
+			strtolower($mod->other)
+			))));
+	}
+
+	array_multisort($names, SORT_ASC, $others, SORT_ASC, $jsonarray);
+	
+	return $jsonarray;
 }
 
 if(isset($_GET['request'])) {

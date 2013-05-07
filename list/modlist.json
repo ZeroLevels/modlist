@@ -1693,7 +1693,7 @@
     "name":"BuddyCam",
     "other":"",
     "link":"http://bit.ly/VDYvG4",
-    "desc":"/>With the Buddycam you can view your Friends View in Multiplayer, if he/she allows it. You can even observe your Pets in Single- & Multiplayer (as of 1.5.1d). You can fully customize the position and size of the buddycam-screen and the renderquality.The only limitation to the number of screens is the power of your Computer. (Tested with 3 screens.)",
+    "desc":"With the Buddycam you can view your Friends View in Multiplayer, if he/she allows it. You can even observe your Pets in Single- & Multiplayer (as of 1.5.1d). You can fully customize the position and size of the buddycam-screen and the renderquality.The only limitation to the number of screens is the power of your Computer. (Tested with 3 screens.)",
     "author":"romibi",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -3821,33 +3821,13 @@
   },
   {
     "name":"Forge",
-    "other":"",
-    "link":"http://files.minecraftforge.net/",
-    "desc":"",
-    "author":"LexManos",
-    "type":["Universal"],
-    "dependencies":["Forge Itself"],
-    "versions":["1.4.2","1.4.4","1.4.5"]
-  },
-  {
-    "name":"Forge",
     "other":"(API)",
     "link":"http://bit.ly/forge-dl",
     "desc":"A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
     "author":"LexManos",
     "type":["Universal"],
     "dependencies":["Forge Itself"],
-    "versions":["1.5.1","1.5.2"]
-  },
-  {
-    "name":"Forge",
-    "other":"[mirror] (API)",
-    "link":"http://bit.ly/forge-dl",
-    "desc":"A powerful, open source API for developing mods for minecraft.",
-    "author":"LexManos",
-    "type":["Universal"],
-    "dependencies":["Forge Itself"],
-    "versions":["1.4.6","1.4.7","1.5.0"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"ForgeEssentials",

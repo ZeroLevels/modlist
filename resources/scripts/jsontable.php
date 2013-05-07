@@ -9,8 +9,7 @@ function recode($strIn) {
 function readJSON() {
 	if(!isset($GLOBALS['mods'])) {
 		$JSONfile = recode(file_get_contents('../modlist.json'));
-		$GLOBALS['mods'] = json_decode($JSONfile);
-		$GLOBALS['mods'] = sortAlpha($GLOBALS['mods']);
+		$GLOBALS['mods'] = sortAlpha(json_decode($JSONfile));
 	}
 	return $GLOBALS['mods'];
 }
