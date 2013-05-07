@@ -10,6 +10,7 @@ function readJSON() {
 	if(!isset($GLOBALS['mods'])) {
 		$JSONfile = recode(file_get_contents('../modlist.json'));
 		$GLOBALS['mods'] = json_decode($JSONfile);
+		$GLOBALS['mods'] = sortAlpha($GLOBALS['mods']);
 	}
 	return $GLOBALS['mods'];
 }
@@ -24,6 +25,20 @@ function findVersion($version, $verArray) {
 		}
 	}
 	return $found;
+}
+
+function sortAlpha($jsonarray) {
+	$names = array();
+	foreach($jsonarray as &$mod) {
+		$names[] = str_replace('[','',
+			str_replace(']','',
+			strtolower($mod->name . $mod->other)
+			));
+	}
+
+	array_multisort($names, SORT_ASC, $jsonarray);
+	
+	return $jsonarray;
 }
 
 function apiList($version) {
