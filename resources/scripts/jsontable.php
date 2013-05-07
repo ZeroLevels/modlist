@@ -167,7 +167,14 @@ function jsonTable($version) {
 			echo '</li></ul></span></td>';
 			
 			echo '<td>'.$mod->author.'</td>';
-			echo '<td>'.implode(' ',$mod->type).'</td>';
+			$typelist = array();
+			foreach($mod->type as &$types) {
+				$typelist[] = str_replace('Client','Clientside',
+					str_replace('Server','Serverside',
+					$types));
+			}
+			//echo '<td>'.implode(' ',$mod->type).'</td>';
+			echo '<td>'.implode(' ',$typelist).'</td>';
 			
 			foreach($mod->dependencies as &$compatibility) {
 				if(strpos($compatibility, 'Not Forge Compatible') !== false) {
