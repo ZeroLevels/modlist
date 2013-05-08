@@ -32,7 +32,10 @@ for($i=1;$i<count($change147);$i++) {
 		break;
 	}
 }
-$image = imagecreate(700, 32 + ($counter * 14));
+if(isset($_GET['debug']))
+	$image = imagecreate(700, 600);
+else
+	$image = imagecreate(700, 32 + ($counter * 14));
 
 $background = imagecolorallocate($image, 232, 239, 244);
 $cl_black = imagecolorallocate($image, 0, 0, 0);
