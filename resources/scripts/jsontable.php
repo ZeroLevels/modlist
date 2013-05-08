@@ -70,7 +70,7 @@ function apiList($version) {
 		}
 			
 		for($i=0;$i<count($apilist);$i++) { //remove invalid APIs
-			if($apilist[$i]["name"] == "")
+			if(isset($apilist[$i]["name"]) && $apilist[$i]["name"] == "")
 				unset($apilist[$i]);
 		}
 		$GLOBALS['apilist'] = $apilist;
