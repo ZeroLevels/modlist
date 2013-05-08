@@ -57,7 +57,7 @@ imagettftext($image, 8, 0, 596, 28, $cl_darkgrey, $font, "Written by GrygrFlzr")
 imagettftext($image, 12, 0, 10, 48, $cl_black, $fontb, "1.5.2");
 $counter = 0;
 for($i=1;$i<count($change152);$i++) {
-	if($change152[$i] != "\r\n") {
+	if($change152[$i] != "\r\n" && $change152[$i] != "\n") {
 		drawChange($image, 48 + (($i + $counter) * 14), $change152[$i]);
 	} else {
 		$counter = $counter + $i + 1;
