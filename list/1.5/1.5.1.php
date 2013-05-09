@@ -59,6 +59,7 @@ include('../../resources/scripts/jsontable.php');
 		<td class="nh" onclick="window.location.href='1.5.2.php'"><a href="1.5.2.php">1.5.2</a></td>
 	</tr>
 </table>
+
 <table cellspacing="0" class="modlist" id="example">
 	<thead>
 		<?php beginTable(); ?>
