@@ -2436,7 +2436,7 @@
     "desc":"Makes ravines longer, wider, and deeper. It also allows ravines to cut through bodies of water which previously wasn't allowed.",
     "author":"klglange",
     "type":["SSP"],
-    "dependencies":["Not Forge Compatible","Modloader"],
+    "dependencies":["Not Forge Compatible","Modloader Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
@@ -6207,7 +6207,7 @@
     "author":"DarkHax",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"More Slicers and Slappers",
