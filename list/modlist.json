@@ -835,7 +835,7 @@
     "link":"http://bit.ly/10HBIrf",
     "desc":"Allows you to not only give yourself any item in the game, but almost every possible kind of item.",
     "author":"mister_person",
-    "type":["SSP", "LAN"],
+    "type":["Client"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
     "versions":["1.5.1","1.5.2"]
   },
