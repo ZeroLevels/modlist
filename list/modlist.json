@@ -830,6 +830,16 @@
     "versions":["1.5.0","1.5.1"]
   },
   {
+    "name":"All-U-Want Inventory Editor",
+    "other":"",
+    "link":"http://bit.ly/10HBIrf",
+    "desc":"Allows you to not only give yourself any item in the game, but almost every possible kind of item.",
+    "author":"mister_person",
+    "type":["SSP", "LAN"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Alma Wade Mod",
     "other":"",
     "link":"http://bit.ly/13d8MOj",
@@ -838,6 +848,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"AlmostPeaceful",
+    "other":"",
+    "link":"http://bit.ly/10bOKBk",
+    "desc":"Disables healing in peaceful mode and activates hunger as in easy mode.",
+    "author":"roby7338",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"AlphabetBlocks Mod",
@@ -1137,7 +1157,7 @@
     "author":"MamiyaOtaru",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"AutoSwitch",
@@ -1495,9 +1515,9 @@
     "link":"http://bit.ly/UPCzHf",
     "desc":"The purpose of the mod is to create immersive forest environments, inspired by forests Karob has been to, yet modeled to suit the Minecraft universe.",
     "author":"Karob",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.2","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Bindings Compact",
@@ -1640,6 +1660,16 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"Botany Mod",
+    "other":"",
+    "link":"http://bit.ly/10j5OkY",
+    "desc":"Adds several flowers to worldgen.",
+    "author":"Enosphorous",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Boxes",
     "other":"",
     "link":"http://bit.ly/14vHhkF",
@@ -1707,7 +1737,7 @@
     "author":"SirSengir",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Buildcraft-IndustrialCraft Crossover Mod",
@@ -1887,7 +1917,7 @@
     "author":"MamiyaOtaru",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"ChatlogToFile",
@@ -1957,7 +1987,7 @@
     "author":"chicken_bones",
     "type":["Universal"],
     "dependencies":["Forge Required","CodeChickenCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"ChickenShed",
@@ -2107,7 +2137,7 @@
     "author":"chicken_bones",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"COFL's Simple Arrowblur",
@@ -2610,6 +2640,16 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"Cyan Warrior Swords Mod",
+    "other":"(Beta)",
+    "link":"http://bit.ly/10qFiXH",
+    "desc":"New elemental swords with abilities! Mix and upgrade your swords to obtain a certain effect on the player and other mobs!",
+    "author":"MustangXPress7",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"DaftPVF's Mods",
     "other":"",
     "link":"http://www.minecraftforum.net/topic/1009577-",
@@ -2937,7 +2977,7 @@
     "author":"JinRyuu",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Dragon Mounts",
@@ -2948,6 +2988,16 @@
     "type":["N/A"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Duel Tool Mod",
+    "other":"",
+    "link":"http://bit.ly/15Je7Py",
+    "desc":"Allows the player to mix tools to get new tools with both abilities",
+    "author":"Bren077s",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Dungeon Crawler",
@@ -3177,7 +3227,7 @@
     "author":"Ellian",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2"]
   },
   {
     "name":"Emasher's Mods",
@@ -3237,7 +3287,7 @@
     "author":"chicken_bones",
     "type":["Universal"],
     "dependencies":["Forge Required","CodeChickenCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Endermen Don't Pick Up Blocks Mod",
@@ -3307,7 +3357,17 @@
     "author":"Sonicjumper",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"KBI Enriched Gravel",
+    "other":"",
+    "link":"http://bit.ly/10ow9Uo",
+    "desc":"Enriched Gravel comes in eight types from most common and least valuable drops (sand, clay, stone) to least common and most valuable drops (diamond and emerald shards, gold nuggets, etc); handheld sifters, which can be used to mine enriched gravel to get twice the drops or regular gravel to get flint; a Sifter Block, which will sift through any enriched or regular gravel that falls on it and can drop a resource item from regular gravel; and buckets of gravel, which can be used to scoop and carry enriched gravel to the unharvestable Sifter Block.",
+    "author":"Qwertygiy",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Epic Siege Mod",
@@ -4103,7 +4163,7 @@
     "name":"Green Thumb Mod",
     "other":"",
     "link":"http://bit.ly/10l7YWK",
-    "desc":"Allows crafting of things that normally can't be crafted. Extensions, found in the same thread, allow you to craft ores, chiseled stone bricks, and another extension, the botany extension, spawns a bunch of new flowers everywhere.",
+    "desc":"Allows you to seed dirt, and craft grass, along with many other recipes to come. Mycelium is a fairly rare substance. This mod allows one to craft it, using mushrooms, dirt, and bonemeal. Cobwebs are craftable. Ice can now be crafted, so you can have that igloo you've always wanted! Trees can be transformed into saplings and back, tanks to bonemeal! Finally, pigs can be saddled, as they can now be crafted.",
     "author":"Enosphorous",
     "type":["SSP"],
     "dependencies":["Forge Required"],
@@ -4593,11 +4653,11 @@
     "name":"In-game NBTEdit",
     "other":"",
     "link":"http://bit.ly/WnDHP9",
-    "desc":"",
+    "desc":"Adds NBTEdit in-game.",
     "author":"Davidee",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"IndustrialCraft 2",
@@ -4740,16 +4800,6 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"IronChests",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/981855-",
-    "desc":"",
-    "author":"cpw",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5"]
-  },
-  {
     "name":"IronChests 2",
     "other":"",
     "link":"http://bit.ly/ironchests2",
@@ -4757,7 +4807,7 @@
     "author":"cpw",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Item Frame Lag Fix",
@@ -5350,16 +5400,6 @@
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
-    "name":"MamiyaOtaru's Mods",
-    "other":"",
-    "link":"http://bit.ly/Ty9cf2",
-    "desc":"",
-    "author":"MamiyaOtaru",
-    "type":["N/A"],
-    "dependencies":["N/A"],
-    "versions":["1.4.6","1.4.7"]
-  },
-  {
     "name":"MapWriter Mini Map Mod",
     "other":"",
     "link":"http://www.minecraftforum.net/topic/1570989-",
@@ -5520,16 +5560,6 @@
     "versions":["1.5.1"]
   },
   {
-    "name":"Mill?naire",
-    "other":"",
-    "link":"http://millenaire.org/",
-    "desc":"",
-    "author":"Kinniken",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
-  },
-  {
     "name":"Millenaire",
     "other":"",
     "link":"http://millenaire.org/",
@@ -5537,7 +5567,7 @@
     "author":"Kinniken",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
     "name":"Minaptics",
@@ -5950,6 +5980,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Mob Tools",
+    "other":"",
+    "link":"http://bit.ly/12f24Vx",
+    "desc":"Based around the idea of creating uses for mob drops. It adds many tools and armor and a few special items such as the omnitool and 4 magical wands.",
+    "author":"pauljoda",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1"]
+  },
+  {
     "name":"Mod Update Manager",
     "other":"(API)",
     "link":"http://bit.ly/WW9bhs",
@@ -6118,6 +6158,16 @@
     "type":["Client"],
     "dependencies":["Forge Required","CJB API"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+  },
+  {
+    "name":"More Notches",
+    "other":"",
+    "link":"http://bit.ly/10oybDY",
+    "desc":"A mod that add a lot of different Notches to the game.",
+    "author":"wasliebob",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"More Pistons Mod",
@@ -6607,7 +6657,7 @@
     "author":"MamiyaOtaru",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"No Voidfog",
@@ -6617,7 +6667,7 @@
     "author":"MamiyaOtaru",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"NoSlowDown",
@@ -6647,7 +6697,7 @@
     "author":"chicken_bones",
     "type":["Universal"],
     "dependencies":["Forge Required","CodeChickenCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Not in Minecraft Mod",
@@ -6727,7 +6777,7 @@
     "author":"MamiyaOtaru",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"OmniTools",
@@ -7407,7 +7457,7 @@
     "author":"MamiyaOtaru",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Risugami's Mods",
@@ -7893,7 +7943,7 @@
     "name":"Soul Eater Mod",
     "other":"",
     "link":"http://bit.ly/Z6keEp",
-    "desc":"A mod that makes minecraft overpowered and when its overpowered, you feel like GOD.",
+    "desc":"",
     "author":"SmileyPandaBear",
     "type":["Universal"],
     "dependencies":["Forge Required"],
@@ -7908,6 +7958,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Sorcery",
+    "other":"(Beta)",
+    "link":"http://bit.ly/10Hed1v",
+    "desc":"Adds a spell casting system, a whole heap of useful spells, and many other fun magical toys.",
+    "author":"vroominator",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Sparcs Tweaks",
@@ -8108,6 +8168,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
     "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"Stonemason Mod",
+    "other":"",
+    "link":"http://bit.ly/12eRGND",
+    "desc":"Allows you to craft ores, chiseled stone bricks, and more!",
+    "author":"Enosphorous",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"StrongerPistons Mod",
@@ -8373,11 +8443,11 @@
     "name":"The Camping Mod",
     "other":"",
     "link":"http://bit.ly/YeKc9x",
-    "desc":"Adds many items to the game themed towards camping.",
+    "desc":"Adds many items to the game themed towards camping. Like Tents, campfires, and camping bags as well as a new inventory for better crafting and item management.",
     "author":"__rikmuld__",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"The Car Mod",
@@ -9060,6 +9130,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
+    "name":"Turret Mod",
+    "other":"",
+    "link":"http://bit.ly/ZIXPi2",
+    "desc":"Adds turrets to the game which you can set to kill mobs or support you.",
+    "author":"SanAndreasP",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Twilight Forest",
     "other":"",
     "link":"http://bit.ly/URaBel",
@@ -9067,7 +9147,7 @@
     "author":"Benimatic",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"TwitchTV IRC Mod",
@@ -9297,7 +9377,7 @@
     "author":"MamiyaOtaru",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Walking Dead Mod",
@@ -9530,16 +9610,6 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"X-Ray Mod",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/867079-",
-    "desc":"",
-    "author":"craftminer502",
-    "type":["N/A"],
-    "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.4","1.4.5"]
-  },
-  {
     "name":"X-Ray Mod (craftminer502)",
     "other":"",
     "link":"http://bit.ly/VxkL27",
@@ -9547,7 +9617,7 @@
     "author":"craftminer502",
     "type":["N/A"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"X-Ray Mod (julialy)",
@@ -9598,6 +9668,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Xnet's Paxel Mod",
+    "other":"",
+    "link":"http://bit.ly/12gUh8x",
+    "desc":"A paxel is a combination tool of pickaxe, axe, and shovel which can therefor be used to destroy/dig stone, dirt and wood equivalently.",
+    "author":"Xnet",
+    "type":["N/A"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Xeno's Reliquary",
@@ -9738,6 +9818,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Zenotek",
+    "other":"",
+    "link":"http://bit.ly/10o0de9",
+    "desc":"Adds random and potentially interesting things to the game.",
+    "author":"Zeno_DreamingMage",
+    "type":["SSP", "LAN"],
+    "dependencies":["Forge Compatible","Modloader Compatible"],
+    "versions":["1.5.1", "1.5.2"]
   },
   {
     "name":"Zombie Awareness",
