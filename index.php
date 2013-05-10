@@ -25,12 +25,12 @@
 	<p class="select">
 		<span class="section">Current:</span><br/>
 		<span style="text-size:30px; font-style:italic">
-			Last Updated: <?php $content = file('list/1.5/changelog_1.5.1.txt'); echo $content[1]; ?>
+			Last Updated: <?php $content = file('list/1.5/changelog_1.5.2.html'); echo $content[1]; ?>
 		</span><br/>
 
 		<span class="selection">
-			<a href="list/1.5/1.5.1.php">1.5.1 List</a><br/>
-			<a href="list/1.5/changelog_1.5.1.txt">Changelog</a>
+			<a href="list/1.5/1.5.2.php">1.5.2 List</a><br/>
+			<a href="list/1.5/changelog_1.5.2.html">Changelog</a>
 		</span><br/><br/>
 
 		<span class="section">
@@ -38,10 +38,11 @@
 		</span><br>
 
 		<span class="selection">
+			<a href="list/1.5/1.5.1.php">1.5.1 List</a><br/>
 			<a href="list/1.5/1.5.0.php">1.5 List</a><br/>
 			<a href="list/1.4/1.4.6_1.4.7.php">1.4.6/1.4.7 List</a><br/>
 			<a href="list/1.4/1.4.4_1.4.5.php">1.4.4/1.4.5 List</a><br/>
-			1.4.2 List<br/>
+			<a href="list/1.4/1.4.2.php">1.4.2 List</a><br/>
 			1.3.2 List
 		</span>
 	</p>

@@ -10,14 +10,14 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
-    "name":"[Buildcraft] Additional Buildcraft",
+    "name":"[Buildcraft] Additional Buildcraft Objects",
     "other":"",
     "link":"http://bit.ly/13infK7",
     "desc":"Provides some additional pipes and objects for buildcraft.",
     "author":"Flow86",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"[Buildcraft] Additional Pipes",
@@ -333,11 +333,11 @@
     "name":"[IndustrialCraft 2] Advanced Solar Panels",
     "other":"",
     "link":"http://bit.ly/GELi8l",
-    "desc":"",
+    "desc":"An addon meant to provide more advanced solar panels, both for keeping things compact and offering upgraded versions of solar helmets.",
     "author":"SeNtiMeL",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Advanced Technologies",
@@ -430,6 +430,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"[IndustrialCraft 2] CompactWindmills",
+    "other":"",
+    "link":"http://bit.ly/16lxi1C",
+    "desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
+    "author":"Aroma1997",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1"]
+  },
+  {
     "name":"[IndustrialCraft 2] Custom Machine Recipes",
     "other":"",
     "link":"http://bit.ly/XgF5Gl",
@@ -463,11 +473,11 @@
     "name":"[IndustrialCraft 2] Gravitation Suite",
     "other":"",
     "link":"http://bit.ly/M9OQhY",
-    "desc":"",
+    "desc":"Hello boys and girls! Our scientists are glad to present you the latest advanced scientific development! After UFO falling near to Roswell, New Mexico, in June or July 1947 we are engaged more than 65 years in reverse engineering. There were numerous attempts to reproduce the gravitational engine of aliens, but till 2012 they were unsuccessful. And now after long years of research we represent you our new development a gravitational suite, based at alien technology.",
     "author":"SeNtiMeL",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] GregTech-Addon",
@@ -720,16 +730,6 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
-    "name":"Additional Buildcraft Objects",
-    "other":"",
-    "link":"http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/3.2.0/",
-    "desc":"",
-    "author":"Flow86",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
-  },
-  {
     "name":"Additional Pipes",
     "other":"",
     "link":"https://github.com/tcooc/AdditionalPipesBC/downloads",
@@ -902,7 +902,7 @@
   {
     "name":"Animal Packer",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1560133-",
+    "link":"http://bit.ly/10yGQUo",
     "desc":"",
     "author":"Leondrel",
     "type":["SSP","SMP"],
@@ -990,6 +990,16 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
+    "name":"Aroma1997s Dimensional World",
+    "other":"",
+    "link":"http://bit.ly/10mzNIz",
+    "desc":"Adds a complete new Dimension, specially for Mining, but you can do whatever you want to do in it.",
+    "author":"Aroma1997",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1"]
+  },
+  {
     "name":"Ars Magica",
     "other":"",
     "link":"http://bit.ly/ZtCywx",
@@ -1012,7 +1022,7 @@
   {
     "name":"Assassin's Creed Gun/Weapon Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1576406-",
+    "link":"http://bit.ly/106flC7",
     "desc":"",
     "author":"senpaisubaraki",
     "type":["N/A"],
@@ -1082,7 +1092,7 @@
   {
     "name":"AtomicStryker's Mods",
     "other":"",
-    "link":"http://www.atomicstryker.net/",
+    "link":"http://bit.ly/13lWj9M",
     "desc":"",
     "author":"AtomicStryker",
     "type":["N/A"],
@@ -1400,16 +1410,6 @@
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
-    "name":"Better Than Wolves",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/253365-",
-    "desc":"",
-    "author":"FlowerChild",
-    "type":["SSP","SMP"],
-    "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.2"]
-  },
-  {
     "name":"Better Than Wolves Mod",
     "other":"",
     "link":"http://bit.ly/UA8udT",
@@ -1417,7 +1417,7 @@
     "author":"FlowerChild",
     "type":["Universal"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Better Third Person",
@@ -1516,7 +1516,7 @@
     "desc":"The purpose of the mod is to create immersive forest environments, inspired by forests Karob has been to, yet modeled to suit the Minecraft universe.",
     "author":"Karob",
     "type":["Universal"],
-    "dependencies":["Not Forge Compatible"],
+    "dependencies":["Forge Compatible"],
     "versions":["1.4.2","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
@@ -1547,7 +1547,7 @@
     "author":"ted80",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Biosphere",
@@ -1762,7 +1762,7 @@
   {
     "name":"BuildRegion",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1514724-",
+    "link":"http://bit.ly/13lWpOF",
     "desc":"",
     "author":"bencvt",
     "type":["Client"],
@@ -1842,7 +1842,7 @@
   {
     "name":"CapeCraft",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1548102-",
+    "link":"http://bit.ly/133po6c",
     "desc":"",
     "author":"djmati11",
     "type":["Client"],
@@ -1972,7 +1972,7 @@
   {
     "name":"Chickenbones Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/909223-",
+    "link":"http://bit.ly/cb-core",
     "desc":"",
     "author":"chicken_bones",
     "type":["N/A"],
@@ -1997,7 +1997,7 @@
     "author":"Vazkii",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Chisel",
@@ -2011,7 +2011,17 @@
   },
   {
     "name":"Chocolate Mod",
-    "other":"",
+    "other":"(DiamondSoul26)",
+    "link":"http://bit.ly/ZnHlz9",
+    "desc":"Adds chocolate, made from wheat, sugar, and coco beans. You can also make milk chocolate with the same recipe but with milk.",
+    "author":"DiamondSoul26",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"Chocolate Mod",
+    "other":"(Saphir09)",
     "link":"http://bit.ly/ZnHlz9",
     "desc":"Adds the opportunity to craft edible chocolate to the game!",
     "author":"Saphir09",
@@ -2032,7 +2042,7 @@
   {
     "name":"Christmas Festivities Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1579642-",
+    "link":"http://bit.ly/10wokas",
     "desc":"",
     "author":"eekysam",
     "type":["SSP","LAN"],
@@ -2067,7 +2077,7 @@
     "author":"CJB",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Clay Soldiers Mod",
@@ -2082,7 +2092,7 @@
   {
     "name":"Clay Tools",
     "other":"",
-    "link":"http://www.planetminecraft.com/mod/clay-tools-/",
+    "link":"http://bit.ly/15vhVEb",
     "desc":"",
     "author":"condo97",
     "type":["SSP","SMP"],
@@ -2212,7 +2222,7 @@
   {
     "name":"Command Block Needs",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1538733-",
+    "link":"http://bit.ly/13lWKkr",
     "desc":"",
     "author":"WARDOGSK93",
     "type":["N/A"],
@@ -2262,7 +2272,7 @@
   {
     "name":"Condensed Blocks Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1487828-",
+    "link":"http://bit.ly/13J8a0U",
     "desc":"",
     "author":"Fenrir00",
     "type":["SSP","SMP"],
@@ -2275,9 +2285,9 @@
     "link":"http://bit.ly/YCmtQU",
     "desc":"Makes glowstone always drop 4 glowstone dust.",
     "author":"TheMinecraftianGamer",
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Contagion",
@@ -2382,7 +2392,7 @@
   {
     "name":"Craftable Command Block",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1540465-",
+    "link":"http://bit.ly/10Kn6an",
     "desc":"",
     "author":"Zachster1996",
     "type":["SSP","SMP"],
@@ -2412,7 +2422,7 @@
   {
     "name":"Crafting++",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1532089-",
+    "link":"http://bit.ly/10yJGIY",
     "desc":"",
     "author":"WARDOGSK93",
     "type":["N/A"],
@@ -2652,7 +2662,7 @@
   {
     "name":"DaftPVF's Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1009577-",
+    "link":"http://bit.ly/TWHHIG",
     "desc":"",
     "author":"bspkrs ",
     "type":["N/A"],
@@ -2677,7 +2687,7 @@
     "author":"rich1051414",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Dark Messiah's Mods",
@@ -2772,7 +2782,7 @@
   {
     "name":"Death Scythe",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1485997-",
+    "link":"http://bit.ly/Zg8vUs",
     "desc":"",
     "author":"Kirwii",
     "type":["N/A"],
@@ -2862,7 +2872,7 @@
   {
     "name":"DessertCraft",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1272568-",
+    "link":"http://bit.ly/178xMrO",
     "desc":"",
     "author":"Phobophobe",
     "type":["N/A"],
@@ -3092,7 +3102,7 @@
   {
     "name":"Eastonium147's Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/632878-",
+    "link":"http://bit.ly/15SVzfY",
     "desc":"",
     "author":"Eastonium147",
     "type":["N/A"],
@@ -3112,7 +3122,7 @@
   {
     "name":"Easy Dyes Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1290438-",
+    "link":"http://bit.ly/18y7D57",
     "desc":"",
     "author":"Phobophobe",
     "type":["N/A"],
@@ -3132,7 +3142,7 @@
   {
     "name":"EasyDiamond",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1589367-",
+    "link":"http://bit.ly/12kZzzK",
     "desc":"",
     "author":"icynewyear",
     "type":["N/A"],
@@ -3248,6 +3258,26 @@
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Emoticons",
+    "other":"",
+    "link":"http://bit.ly/10yxKac",
+    "desc":"Adds smileys into Minecraft as pictures! Impress your friends and other players in the chat!",
+    "author":"Mudbill",
+    "type":["SMP"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Enchanted",
+    "other":"",
+    "link":"http://bit.ly/ZMKftT",
+    "desc":"Adds 13 new enchantments to the game with more planned.",
+    "author":"lordofroosters",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.5.1"]
   },
   {
     "name":"Enchanting Plus",
@@ -3382,7 +3412,7 @@
   {
     "name":"Epicarno Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1563097-",
+    "link":"http://bit.ly/178xYre",
     "desc":"",
     "author":"01110111010",
     "type":["SSP","LAN"],
@@ -3391,23 +3421,13 @@
   },
   {
     "name":"Equivalent Exchange 3",
-    "other":"",
+    "other":"(Prerelease)",
     "link":"http://bit.ly/VFB7Ip",
     "desc":"Allows you to transmute tons of materials into other materials.",
-    "author":"Pahimar",
-    "type":["Universal"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
-  },
-  {
-    "name":"Equivalent Exchange 3",
-    "other":"(Prerelease)",
-    "link":"http://www.minecraftforum.net/topic/1540010-",
-    "desc":"",
     "author":"Pahimer",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.6","1.4.7","1.4.4","1.4.5","1.5.1","1.5.2"]
   },
   {
     "name":"EssentialCraft",
@@ -3432,7 +3452,7 @@
   {
     "name":"Explosives+",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/830138-",
+    "link":"http://bit.ly/11XE9Z2",
     "desc":"",
     "author":"Pheenixm",
     "type":["SSP"],
@@ -3462,7 +3482,7 @@
   {
     "name":"Extra Bees",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1324321-",
+    "link":"http://bit.ly/13J9i4K",
     "desc":"",
     "author":"Binnie",
     "type":["SSP","SMP"],
@@ -3542,7 +3562,7 @@
   {
     "name":"FactoryCraft",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1490745-",
+    "link":"http://bit.ly/149jy5R",
     "desc":"",
     "author":"TheMajorStudios",
     "type":["SSP","SMP"],
@@ -3622,7 +3642,7 @@
   {
     "name":"Father Toast's Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1153874-",
+    "link":"http://bit.ly/VuOduI",
     "desc":"",
     "author":"FatherToast",
     "type":["N/A"],
@@ -3777,7 +3797,7 @@
     "author":"666mayhem666 & Kinyoshi",
     "type":["SSP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Flintlock Guns Mod",
@@ -4392,22 +4412,12 @@
   {
     "name":"Herblore Mod",
     "other":"(ages 18+ only)",
-    "link":"http://www.minecraftforum.net/topic/1050087-",
+    "link":"http://bit.ly/XPptd0",
     "desc":"",
     "author":"calebmanley",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
     "versions":["1.4.4","1.4.5"]
-  },
-  {
-    "name":"Herobrine",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/511421",
-    "desc":"",
-    "author":"burnner_",
-    "type":["SSP"],
-    "dependencies":["N/A"],
-    "versions":["1.4.2"]
   },
   {
     "name":"Herobrine Mod",
@@ -4417,12 +4427,12 @@
     "author":"burnner_",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Heuristix's TheGunMod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/716219-",
+    "link":"http://bit.ly/11XEwCQ",
     "desc":"",
     "author":"Heuristix",
     "type":["SSP"],
@@ -4437,6 +4447,16 @@
     "author":"bspkrs",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
+    "versions":["1.5.1"]
+  },
+  {
+    "name":"Higher Trees and Other Stuff",
+    "other":"",
+    "link":"http://bit.ly/ZTlUGe",
+    "desc":"Makes all oak trees in a forest biome at least 32 blocks high, but it does not make the oak trees with sideways logs or birch trees at least 32 blocks high.",
+    "author":"drakon727",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
     "versions":["1.5.1"]
   },
   {
@@ -4502,7 +4522,7 @@
   {
     "name":"Humans+",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/96903-",
+    "link":"http://bit.ly/ZMQ1ff",
     "desc":"",
     "author":"Mr. okushama",
     "type":["N/A"],
@@ -4542,7 +4562,7 @@
   {
     "name":"ICBM",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1206144-",
+    "link":"http://bit.ly/178yZzB",
     "desc":"",
     "author":"Calclavia",
     "type":["SSP","SMP"],
@@ -4553,7 +4573,7 @@
     "name":"ICBM - Missiles and Military Tech",
     "other":"",
     "link":"http://bit.ly/10cq1wu",
-    "desc":"ntroduces intercontinental ballistic missilesto Minecraft. But the fun doesn't end there! This mod also features manydifferent types of explosives, missiles and machines seperated in to threedifferent tiers. If strategic warfare, carefully coordinated airstrikes,messing with matter and general destruction are up your alley,then this mod is for you!",
+    "desc":"Introduces intercontinental ballistic missilesto Minecraft. But the fun doesn't end there! This mod also features manydifferent types of explosives, missiles and machines seperated in to threedifferent tiers. If strategic warfare, carefully coordinated airstrikes,messing with matter and general destruction are up your alley,then this mod is for you!",
     "author":"Calclavia",
     "type":["Universal"],
     "dependencies":["Forge Required"],
@@ -4612,7 +4632,7 @@
   {
     "name":"Immibis's Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1001131-",
+    "link":"http://bit.ly/immibiscore",
     "desc":"",
     "author":"immibis",
     "type":["SSP","SMP"],
@@ -4661,23 +4681,13 @@
   },
   {
     "name":"IndustrialCraft 2",
-    "other":"",
-    "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8375",
-    "desc":"",
-    "author":"Alblaka",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5"]
-  },
-  {
-    "name":"IndustrialCraft 2",
     "other":"(Pre-Release Builds)",
     "link":"http://bit.ly/10oNRBU",
     "desc":"Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
     "author":"Alblaka",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Infernal Mobs",
@@ -4722,7 +4732,7 @@
   {
     "name":"Ingame Mod List",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1608832-",
+    "link":"http://bit.ly/13b09lQ",
     "desc":"",
     "author":"Vazkii",
     "type":["Client"],
@@ -4867,17 +4877,7 @@
     "author":"Jammy780",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
-  },
-  {
-    "name":"Jammy Furniture Mod",
-    "other":"(Beta)",
-    "link":"http://www.minecraftforum.net/topic/1098808-",
-    "desc":"",
-    "author":"Jammy780",
-    "type":["Universal"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Jelly Cubes",
@@ -4892,7 +4892,7 @@
   {
     "name":"Jetpack, Parachute, Teleporter",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1346481-",
+    "link":"http://bit.ly/10yLKkh",
     "desc":"",
     "author":"duke605",
     "type":["N/A"],
@@ -4932,7 +4932,7 @@
   {
     "name":"JSOne Studios' Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1017719-",
+    "link":"http://bit.ly/V1UZpk",
     "desc":"",
     "author":"JSOne_Studios",
     "type":["N/A"],
@@ -4992,7 +4992,7 @@
   {
     "name":"Kinyoshi Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1458328-",
+    "link":"http://bit.ly/133m37d",
     "desc":"",
     "author":"Kinyoshi",
     "type":["SSP"],
@@ -5082,7 +5082,7 @@
   {
     "name":"Layman Mod Maker",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1477655-",
+    "link":"http://bit.ly/12l0K2h",
     "desc":"",
     "author":"Vazkii",
     "type":["SSP"],
@@ -5097,17 +5097,7 @@
     "author":"Davidee",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.6","1.4.7"]
-  },
-  {
-    "name":"Legendary Beasts",
-    "other":"(a)",
-    "link":"http://www.minecraftforum.net/topic/1445361-",
-    "desc":"",
-    "author":"Davidee",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"LegendGear",
@@ -5132,7 +5122,7 @@
   {
     "name":"LibShapeDraw",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1458931-",
+    "link":"http://bit.ly/149kUgO",
     "desc":"",
     "author":"bencvt",
     "type":["Client"],
@@ -5162,7 +5152,7 @@
   {
     "name":"Lighting Fix",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1547522-",
+    "link":"http://bit.ly/117QooQ",
     "desc":"",
     "author":"silverwind213",
     "type":["Client"],
@@ -5257,17 +5247,7 @@
     "author":"LOLCaatz",
     "type":["SSP","SMP"],
     "dependencies":["N/A"],
-    "versions":["1.4.6","1.4.7"]
-  },
-  {
-    "name":"LOLCaatz's Clientside Tweaks",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/1554802-",
-    "desc":"",
-    "author":"LOLCaatz",
-    "type":["N/A"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"Lost Books",
@@ -5302,7 +5282,7 @@
   {
     "name":"M-Food",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1609218-",
+    "link":"http://bit.ly/16lHR4H",
     "desc":"",
     "author":"Kuuu",
     "type":["SSP"],
@@ -5400,16 +5380,6 @@
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
-    "name":"MapWriter Mini Map Mod",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/1570989-",
-    "desc":"",
-    "author":"mapwriter",
-    "type":["Client"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
-  },
-  {
     "name":"MapWriter Minimap Mod",
     "other":"",
     "link":"http://bit.ly/13duyig",
@@ -5417,7 +5387,7 @@
     "author":"mapwriter",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Marcopolo's Mods",
@@ -5562,7 +5532,7 @@
   {
     "name":"Millenaire",
     "other":"",
-    "link":"http://millenaire.org/",
+    "link":"http://bit.ly/178r31b",
     "desc":"This mod aims to fill the emptyness of Minecraft worlds by adding NPC villages to it, with loose 11th-century Norman, Japanese and Mayan themes and additional cultures planned.Villages are populated with men, women and children of various kinds, who perform tasks such as trading with the player, expending current buildings or improving existing ones, cultivating crops such as wheat in Norman villages and rice in Indian ones, crafting tools and powerful amulets, etc. As the village expends, the number of villagers increases as couples have children who grow up into new adults.Help villages grow by trading with them and be rewarded with unique items such as Normand and Indian food or statues and tapestries to decorate your house with. And if they start liking you enough, they might even build you a house of your own.",
     "author":"Kinniken",
     "type":["SSP","SMP"],
@@ -5607,7 +5577,7 @@
     "author":"Verdana",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Minecraft Capes",
@@ -5720,16 +5690,6 @@
     "versions":["1.5.1"]
   },
   {
-    "name":"MineLittlePony",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/748553-",
-    "desc":"",
-    "author":"Verdana",
-    "type":["N/A"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5"]
-  },
-  {
     "name":"Minema",
     "other":"",
     "link":"http://bit.ly/15NF3LA",
@@ -5762,7 +5722,7 @@
   {
     "name":"Mining Enhancemants",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1270694-",
+    "link":"http://bit.ly/W9HHqH",
     "desc":"",
     "author":"Phobophobe",
     "type":["N/A"],
@@ -5782,7 +5742,7 @@
   {
     "name":"Mining Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1400063-",
+    "link":"http://bit.ly/YVCWyA",
     "desc":"",
     "author":"CookieCake",
     "type":["SSP","SMP"],
@@ -5862,7 +5822,7 @@
   {
     "name":"Mo' Minecraft Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1271059-",
+    "link":"http://bit.ly/149eTkc",
     "desc":"",
     "author":"VorlockMAN",
     "type":["N/A"],
@@ -5872,7 +5832,7 @@
   {
     "name":"Mo' Spawners",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1492512-",
+    "link":"http://bit.ly/15SOUlX",
     "desc":"",
     "author":"WARDOGSK93",
     "type":["N/A"],
@@ -5890,16 +5850,6 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"Moar Achievements",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/1551577-",
-    "desc":"",
-    "author":"Sonic Jumper",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.2"]
-  },
-  {
     "name":"Moar Achievements Redux",
     "other":"",
     "link":"http://bit.ly/VPKx0W",
@@ -5907,7 +5857,7 @@
     "author":"Sonicjumper",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.2","1.4.6","1.4.7"]
   },
   {
     "name":"Moar Stuff Mod",
@@ -5947,7 +5897,7 @@
     "author":"CJB",
     "type":["SSP"],
     "dependencies":["Forge Required","CJB API"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Mob Pressure Plates Mod",
@@ -6032,7 +5982,7 @@
   {
     "name":"Mods by Kinyoshi",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1458328-",
+    "link":"http://bit.ly/133m37d",
     "desc":"",
     "author":"Kinyoshi",
     "type":["SSP"],
@@ -6077,17 +6027,7 @@
     "author":"glider521al",
     "type":["SSP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
-  },
-  {
-    "name":"More Enchantments Mods",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/1357421-",
-    "desc":"",
-    "author":"glider521al",
-    "type":["SSP","LAN"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"More Explosives",
@@ -6157,7 +6097,7 @@
     "author":"CJB",
     "type":["Client"],
     "dependencies":["Forge Required","CJB API"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"More Notches",
@@ -6272,7 +6212,7 @@
   {
     "name":"MoreCrafting",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1037595-",
+    "link":"http://bit.ly/11XB6Aj",
     "desc":"",
     "author":"Rayman001",
     "type":["SSP","SMP"],
@@ -6312,7 +6252,7 @@
   {
     "name":"Moustaches and More",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1528715-",
+    "link":"http://bit.ly/1979B9S",
     "desc":"",
     "author":"Phobophobe",
     "type":["N/A"],
@@ -6562,7 +6502,7 @@
   {
     "name":"Nether Fortress Bounding Box Outline",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1538820-",
+    "link":"http://bit.ly/133miiH",
     "desc":"",
     "author":"4poc",
     "type":["SSP","SMP"],
@@ -6702,7 +6642,7 @@
   {
     "name":"Not in Minecraft Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1577895-",
+    "link":"http://bit.ly/ZTnsQN",
     "desc":"",
     "author":"01110111010",
     "type":["N/A"],
@@ -6852,7 +6792,7 @@
   {
     "name":"Paint Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1534970-",
+    "link":"http://bit.ly/TTx4X0",
     "desc":"",
     "author":"rich1051414",
     "type":["SSP","SMP"],
@@ -6863,11 +6803,11 @@
     "name":"Paintball",
     "other":"",
     "link":"http://bit.ly/V2lrza",
-    "desc":"",
+    "desc":"Adds a few new items to the game: a remote, full sets of armor, scanners, insta-bases, flags, pistols, shotguns, assault rifles, snipers, launchers, grenades, claymores, c4, pellets, pods, armor racks, weapon racks, med kits, and paintbrushes in all the colors of the rainbow!",
     "author":"lkinx",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Painter's Flower Pot",
@@ -6982,7 +6922,7 @@
   {
     "name":"PizzaCraft",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1567105-",
+    "link":"http://bit.ly/12kWBvm",
     "desc":"",
     "author":"Callumz07",
     "type":["N/A"],
@@ -7022,7 +6962,7 @@
   {
     "name":"Plugins for Forestry",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1253666-",
+    "link":"http://bit.ly/VFC2bC",
     "desc":"",
     "author":"denoflions",
     "type":["SSP","SMP"],
@@ -7037,17 +6977,7 @@
     "author":"Tominator1",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
-  },
-  {
-    "name":"Poop Mod",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/400275-",
-    "desc":"",
-    "author":"Tominator1",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Portal Gates",
@@ -7060,26 +6990,6 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"Portal Gun",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/199391-",
-    "desc":"",
-    "author":"iChun",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.2"]
-  },
-  {
-    "name":"Portal Gun - Reconstructed",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/199391-",
-    "desc":"",
-    "author":"iChun",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
-  },
-  {
     "name":"PortalGun",
     "other":"",
     "link":"http://bit.ly/14dknZW",
@@ -7087,7 +6997,7 @@
     "author":"iChun",
     "type":["Universal"],
     "dependencies":["Forge Required","iChun Util"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
     "name":"Power Converters",
@@ -7152,7 +7062,7 @@
   {
     "name":"Pre-Historic Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1513582-",
+    "link":"http://bit.ly/178tvVq",
     "desc":"",
     "author":"ProPercivalalb",
     "type":["SSP","SMP"],
@@ -7227,7 +7137,7 @@
     "author":"CJB",
     "type":["Universal"],
     "dependencies":["Forge Required","CJB API"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"QuickThirdPerson",
@@ -7257,7 +7167,7 @@
     "author":"CovertJaguar",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Rainbow XP Mod",
@@ -7312,17 +7222,17 @@
   {
     "name":"Reactioncraft Better Glass",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1607782-",
+    "link":"http://bit.ly/17QrJ9l",
     "desc":"",
     "author":"eragonn1490",
-    "type":["SSP","SMP","LAN"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
   },
   {
     "name":"Reactioncraft Mobs Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1581608-",
+    "link":"http://bit.ly/12ivJgJ",
     "desc":"",
     "author":"eragonn1490",
     "type":["SSP","SMP","LAN"],
@@ -7338,6 +7248,16 @@
     "type":["Client"],
     "dependencies":["Not Forge Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Real Steel Mod",
+    "other":"",
+    "link":"http://bit.ly/10wdOjC",
+    "desc":"Tries to give a scientifically accurate way of creating steel and other metals.",
+    "author":"thesidekick",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1"]
   },
   {
     "name":"RealWeather + RealTime Mod",
@@ -7382,7 +7302,7 @@
   {
     "name":"RedPower 2",
     "other":"",
-    "link":"http://www.eloraam.com/",
+    "link":"http://bit.ly/YyvGwu",
     "desc":"",
     "author":"Eloraam",
     "type":["Universal"],
@@ -7398,6 +7318,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Redstone Jukebox",
+    "other":"",
+    "link":"Sidben",
+    "desc":"Adds a new block (redstone jukebox), that works as a redstone-activated jukebox. It has a GUI that holds up to 8 records and can be programmed to play records in loop and random order.",
+    "author":"sidben",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Rei's Minimap",
@@ -7462,7 +7392,7 @@
   {
     "name":"Risugami's Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/75440-",
+    "link":"http://bit.ly/WnSwBj",
     "desc":"",
     "author":"Risugami",
     "type":["N/A"],
@@ -7598,16 +7528,6 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
-  },
-  {
-    "name":"Seasons Mod",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/1482770-",
-    "desc":"",
-    "author":"The_WeatherPony",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.2"]
   },
   {
     "name":"Secret Rooms Mod",
@@ -7822,7 +7742,7 @@
   {
     "name":"Slender Man",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1342652-",
+    "link":"http://bit.ly/15vkWV9",
     "desc":"",
     "author":"colossali",
     "type":["N/A"],
@@ -7982,7 +7902,7 @@
   {
     "name":"Spawn Eggs Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1543706-",
+    "link":"http://bit.ly/197gW9o",
     "desc":"",
     "author":"bobbyjoe2",
     "type":["SSP"],
@@ -8217,17 +8137,7 @@
     "author":"senpaisubaraki",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
-  },
-  {
-    "name":"Subarakis Secondary Mod",
-    "other":"",
-    "link":"http://www.minecraftforum.net/topic/1460246-",
-    "desc":"",
-    "author":"senpaisubaraki",
-    "type":["SSP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"Super Creepers",
@@ -8452,7 +8362,7 @@
   {
     "name":"The Car Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/508821-",
+    "link":"http://bit.ly/ZMQU7s",
     "desc":"",
     "author":"mermz",
     "type":["N/A"],
@@ -8582,7 +8492,7 @@
   {
     "name":"The Infection",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1513613-",
+    "link":"http://bit.ly/13Jc5uA",
     "desc":"",
     "author":"Tynarus",
     "type":["SSP","SMP"],
@@ -8722,7 +8632,7 @@
   {
     "name":"The RC Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/851939-",
+    "link":"http://bit.ly/YyzeyU",
     "desc":"",
     "author":"Skerp",
     "type":["SSP","SMP"],
@@ -8757,7 +8667,7 @@
     "author":"The_WeatherPony",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
     "name":"The Sod Mod",
@@ -8883,11 +8793,11 @@
     "name":"Thirst Mod",
     "other":"",
     "link":"http://bit.ly/Y5Pfhb",
-    "desc":"",
+    "desc":"Adds an aesthetically pleasing meter above your hunger bar. This bar begins to deplete when you undergo physical movement. This movement includes running, walking, breaking blocks and also being hurt or attacking an entity. This mod also adds drinks that when you right click, refill your thirst bar preventing you from dying. When the meter strikes zero your health will begin to deplete by half a heart every 5 seconds along with some nausea.",
     "author":"tarun1998",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Throwable Bricks Mod",
@@ -8947,7 +8857,7 @@
     "author":"mDiyo",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"TNT Mod",
@@ -9222,7 +9132,7 @@
   {
     "name":"Urban Mod",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1584001-",
+    "link":"http://bit.ly/133nAtW",
     "desc":"",
     "author":"Westfaliaforever",
     "type":["N/A"],
@@ -9268,6 +9178,16 @@
     "type":["N/A"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Useful Redstone Mod",
+    "other":"",
+    "link":"http://bit.ly/12kSKhJ",
+    "desc":"Adds Redstone tools and armor with special properties!",
+    "author":"_TheCreator_",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Uses For Lapis",
@@ -9342,7 +9262,7 @@
   {
     "name":"Vazkii's Mods",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/528166-",
+    "link":"http://bit.ly/V3D15Y",
     "desc":"",
     "author":"Vazkii",
     "type":["N/A"],
@@ -9467,7 +9387,7 @@
     "author":"a_dizzle",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"What's My Light Level?",
@@ -9511,13 +9431,23 @@
   },
   {
     "name":"Wireless Redstone",
-    "other":"",
+    "other":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
     "link":"http://bit.ly/V2vnJ7",
     "desc":"",
     "author":"ali4z",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Wireless Redstone",
+    "other":"",
+    "link":"http://bit.ly/10w7dWr",
+    "desc":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
+    "author":"Eurymachus",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Wireless Redstone: Chicken Bones Edition (WR-CBE)",
@@ -9675,7 +9605,7 @@
     "link":"http://bit.ly/12gUh8x",
     "desc":"A paxel is a combination tool of pickaxe, axe, and shovel which can therefor be used to destroy/dig stone, dirt and wood equivalently.",
     "author":"Xnet",
-    "type":["N/A"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
   },
@@ -9792,7 +9722,7 @@
   {
     "name":"Your Ore",
     "other":"",
-    "link":"http://www.minecraftforum.net/topic/1519073-",
+    "link":"http://bit.ly/13J5y2Y",
     "desc":"",
     "author":"Phobophobe",
     "type":["N/A"],
