@@ -6587,7 +6587,7 @@
     "author":"B0wd3n",
     "type":["SSP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"No Slimes in Superflat",
