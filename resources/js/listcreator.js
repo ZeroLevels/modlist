@@ -4,7 +4,7 @@
 function checklink() {
 	//http://www.minecraftforum.net/topic/\d+-
 	var link = $('#link').val();
-	if(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-/.test(link)) {
+	if(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-./.test(link)) {
 		$('#link').val(link.match(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-/)[0]);
 		$('#linktext').html('<span class="found">MCF Link cut</span>');
 	}
@@ -12,11 +12,11 @@ function checklink() {
 
 function generate() {
 	var json = '  {\r\n';
-	json += '    "name":"' + $('#name').val() + '",\r\n';
-	json += '    "other":"' + $('#other').val() + '",\r\n';
-	json += '    "link":"' + $('#link').val() + '",\r\n';
-	json += '    "desc":"' + $('#desc').val() + '",\r\n';
-	json += '    "author":"' + $('#author').val() + '",\r\n';
+	json += '    "name":"' + $.trim($('#name').val()) + '",\r\n';
+	json += '    "other":"' + $.trim($('#other').val()) + '",\r\n';
+	json += '    "link":"' + $.trim($('#link').val()) + '",\r\n';
+	json += '    "desc":"' + $.trim($('#desc').val()) + '",\r\n';
+	json += '    "author":"' + $.trim($('#author').val()) + '",\r\n';
 	if($.trim($('#type').val()) != "")
 		json += '    "type":["' +
 			$.map($('#type').val().split(','), $.trim).join('","') +
@@ -76,7 +76,7 @@ function checkExist() {
 	$.getJSON("../list/modlist.json", function(data) {
 		var match = false;
 		for(var i = 0; i < Object.keys(data).length; i++) {
-			if(data[i].name.toUpperCase() == $('#name').val().toUpperCase()) {
+			if(data[i].name.toUpperCase() == $.trim($('#name').val().toUpperCase())) {
 				$('#name').val(data[i].name);
 				$('#other').val(data[i].other);
 				$('#link').val(data[i].link);
@@ -112,6 +112,7 @@ function checkExist() {
 					$('#ver142').attr('checked', false);
 
 				$('#nametext').html('<span class="found">Match Found</span>');
+				checkOtherMods();
 				generate();
 				match = true;
 				break;
@@ -123,6 +124,33 @@ function checkExist() {
 	});
 }
 
+function checkOtherMods() {
+	$('#authortext').html('Matching existing authors...');
+	$.getJSON("../list/modlist.json", function(data) {
+		var match = false;
+		var modcount = 0;
+		for(var i = 0; i < Object.keys(data).length; i++) {
+			if(data[i].author.toUpperCase() == $.trim($('#author').val().toUpperCase())) {
+				$('#author').val(data[i].author);
+				match = true;
+				modcount++;
+			}
+		}
+		if(!match) {
+			$('#nametext').html('<span class="found">No entries by this author</span>');
+		} else {
+			if(modcount == 1)
+				$('#authortext').html('<span class="found">1 mod by this author</span>');
+			else
+				$('#authortext').html('<span class="found">' + modcount + ' mods by this author</span>');
+		}
+	});
+}
+
+function checkDepends() {
+	
+}
+
 
 $('#name').keyup(generate);
 $('#name').blur(checkExist);
@@ -131,8 +159,10 @@ $('#link').keyup(checklink);
 $('#link').keyup(generate);
 $('#desc').keyup(generate);
 $('#author').keyup(generate);
+$('#author').blur(checkOtherMods);
 $('#type').keyup(generate);
 $('#dependencies').keyup(generate);
+$('#dependencies').keyup(checkDepends);
 $('#ver152').click(generate);
 $('#ver151').click(generate);
 $('#ver150').click(generate);

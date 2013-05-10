@@ -3,10 +3,10 @@ session_start();
 if(!isset($_SESSION['usr']))
 	header('Location: login.php', true, 302);
 if(!isset($_GET['view']))
-	header('Location: panel.php?view=api', true, 302);
+	header('Location: panel.php?view=home', true, 302);
 include('magic.php');
 if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0)
-	header('Location: panel.php?view=api', true, 302);
+	header('Location: panel.php?view=home', true, 302);
 ?>
 <!DOCTYPE html>
 <html>
@@ -14,25 +14,34 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0)
 	<title>MCF Modlist Webpanel</title>
 	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/panel.css" />
 	<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script type="application/javascript" src="../resources/js/jquery.min.js"></script>
 	<script type="application/javascript" src="../resources/js/ZeroClipboard.min.js"></script>
 	<script type="application/javascript" src="../resources/js/listcreator.js" defer></script>
 </head>
 <body>
 <h1>MCF Modlist Webpanel</h1>
 <div id="nav">
-	<ul id="navigation">
+	<?php
+	if(accesslevel($_SESSION['usr']) == 0)
+		echo '<ul id="navigation" class="admin">';
+	else
+		echo '<ul id="navigation">';
+	?>
 		<?php
+		if($_GET['view'] == "home")
+			echo '<li class="current"><a href="panel.php?view=home">Home</a></li>';
+		else
+			echo '<li><a href="panel.php?view=home">Home</a></li>';
 		if(accesslevel($_SESSION['usr']) == 0) {
 			if($_GET['view'] == "userlist")
 				echo '<li class="current"><a href="panel.php?view=userlist">Userlist</a></li>';
 			else
 				echo '<li><a href="panel.php?view=userlist">Userlist</a></li>';
+			
+			if($_GET['view'] == "creator")
+				echo '<li class="current"><a href="panel.php?view=creator">List Creator</a></li>';
+			else
+				echo '<li><a href="panel.php?view=creator">List Creator</a></li>';
 		}
-		if($_GET['view'] == "creator")
-			echo '<li class="current"><a href="panel.php?view=creator">List Creator</a></li>';
-		else
-			echo '<li><a href="panel.php?view=creator">List Creator</a></li>';
 		if($_GET['view'] == "api")
 			echo '<li class="current"><a href="panel.php?view=api">API Key</a></li>';
 		else

@@ -19,7 +19,7 @@
 </label>
 <textarea id="desc" name="desc"></textarea></br>
 <label>Author
-<span class="small">Mod Creator</span>
+<span class="small" id="authortext">Mod Creator</span>
 </label>
 <input type="text" id="author" name="author" /></br>
 <label>Type
@@ -27,7 +27,7 @@
 </label>
 <input type="text" id="type" name="type" /></br>
 <label>Dependencies
-<span class="small">Comma separated</span>
+<span class="small" id="dependencytext">Comma separated</span>
 </label>
 <input type="text" id="dependencies" name="dependencies" /></br>
 <label>Versions
