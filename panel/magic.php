@@ -11,12 +11,12 @@ $valid[2][0] = 'V3VwcHk=';
 $valid[2][1] = 'V3VwcHkyOUBnbWFpbC5jb20=';
 $valid[2][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.umSrGOjgeZB/FmeWL875.WnCmoREGN3S';
 $valid[2][3] = 3;
-$valid[2][4] = '';
+$valid[2][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzu3SD4RTfoSW9xtU/IoQNXsy2d6DW2MwG';
 $valid[3][0] = 'RGFCYW5hbmFib2F0';
 $valid[3][1] = '';
 $valid[3][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.uRmCbokVLu302cwl4iNGxI7VU8NgyOuq';
 $valid[3][3] = 3;
-$valid[3][4] = '';
+$valid[3][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzuzz.OXwSqR./nngKJPswEuvC8YoAQHOq';
 function accesslevel($keyname) {
 	global $valid;
 	foreach($valid as &$key) {
