@@ -141,7 +141,7 @@ function jsonTable($version) {
 					echo ' ml';
 					break;
 				} elseif(strpos($dependency, 'Not Forge') !== false) {
-					echo ' other';
+					echo ' d';
 					break;
 				}
 			}

@@ -3,10 +3,10 @@
 <html>
 <head>
 <title>MC Modlist Webpanel</title>
-<link rel="stylesheet" type="text/css" href="default.css" />
+<link rel="stylesheet" type="text/css" href="../resources/stylesheets/panel.css" />
 </head>
 <body>
-<form method="POST" action="auth.php?mode=login">
+<form method="POST" action="auth.php?mode=login" id="login">
 Username: <input type="text" name="usr" /></br>
 Password: <input type="password" name="pwd" /></br>
 <input type="submit" value="Login" />
