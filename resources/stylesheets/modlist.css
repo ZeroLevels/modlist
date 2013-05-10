@@ -79,7 +79,7 @@ a.ns:hover	{color:#3072B3;
 			text-decoration:none;}
 
 /*Code for descriptions*/
-.desctt 		{background:transparent url(../images/descforge.png) center center no-repeat;
+.desctt 		{background:transparent url(../images/desc.png) center center no-repeat;
 			color: #3072B3;
 			outline: none;
 			text-decoration: underline;
