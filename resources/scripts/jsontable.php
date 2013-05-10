@@ -154,15 +154,17 @@ function jsonTable($version) {
 			
 			$api = implode('</li><li>', $mod->dependencies);
 			foreach($apilist as &$currApi) {
-				if(stripos($api,'<li>'.$currApi["name"]) !== false) //Avoid collision like Render Player API vs Player API
+				if(isset($currApi["name"]) && stripos($api,'<li>'.$currApi["name"]) !== false) //Avoid collision like Render Player API vs Player API
 					$api = str_ireplace('<li>'.$currApi["name"],'<li><a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a>',$api);
 				else {
-					if(stripos($api,$currApi["name"].' R') !== false)
-						$api = str_ireplace($currApi["name"].' R','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> R',$api);
-					elseif(stripos($api,$currApi["name"].' C') !== false)
-						$api = str_ireplace($currApi["name"].' C','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> C',$api);
-					elseif(stripos($api,$currApi["name"].' I') !== false)
-						$api = str_ireplace($currApi["name"].' I','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> I',$api);
+					if(isset($currApi["name"])) {
+						if(stripos($api,$currApi["name"].' R') !== false)
+							$api = str_ireplace($currApi["name"].' R','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> R',$api);
+						elseif(stripos($api,$currApi["name"].' C') !== false)
+							$api = str_ireplace($currApi["name"].' C','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> C',$api);
+						elseif(stripos($api,$currApi["name"].' I') !== false)
+							$api = str_ireplace($currApi["name"].' I','<a href="'.$currApi["link"].'" title="'.$currApi["desc"].'" target="blank">'.$currApi["name"].'</a> I',$api);
+					}
 				}
 			}
 			echo $api;

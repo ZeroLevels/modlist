@@ -32,22 +32,22 @@ function generate() {
 		json += '    "dependencies":[],\r\n';
 	
 	var versions = new Array();
-	if($('#ver152').is(':checked'))
-		versions.push('1.5.2');
-	if($('#ver151').is(':checked'))
-		versions.push('1.5.1');
-	if($('#ver150').is(':checked'))
-		versions.push('1.5.0');
-	if($('#ver147').is(':checked')) {
-		versions.push('1.4.7');
-		versions.push('1.4.6');
-	}
-	if($('#ver145').is(':checked')) {
-		versions.push('1.4.5');
-		versions.push('1.4.4');
-	}
 	if($('#ver142').is(':checked'))
 		versions.push('1.4.2');
+	if($('#ver145').is(':checked')) {
+		versions.push('1.4.4');
+		versions.push('1.4.5');
+	}
+	if($('#ver147').is(':checked')) {
+		versions.push('1.4.6');
+		versions.push('1.4.7');
+	}
+	if($('#ver150').is(':checked'))
+		versions.push('1.5.0');
+	if($('#ver151').is(':checked'))
+		versions.push('1.5.1');
+	if($('#ver152').is(':checked'))
+		versions.push('1.5.2');
 	if(versions.length > 0)
 		json += '    "versions":["' + versions.join('", "') + '"],\r\n';
 	else
