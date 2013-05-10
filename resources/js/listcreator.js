@@ -49,9 +49,9 @@ function generate() {
 	if($('#ver152').is(':checked'))
 		versions.push('1.5.2');
 	if(versions.length > 0)
-		json += '    "versions":["' + versions.join('", "') + '"],\r\n';
+		json += '    "versions":["' + versions.join('", "') + '"]\r\n';
 	else
-		json += '    "versions":[],\r\n';
+		json += '    "versions":[]\r\n';
 	
 	json += '  }';
 	$('#output').val(json);
@@ -66,7 +66,7 @@ function reset() {
 	json += '    "author":"",\r\n';
 	json += '    "type":[],\r\n';
 	json += '    "dependencies":[],\r\n';
-	json += '    "versions":[],\r\n';
+	json += '    "versions":[]\r\n';
 	json += '  }';
 	$('#output').val(json);
 }
