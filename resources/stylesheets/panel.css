@@ -20,10 +20,11 @@ body {
 	display: block;
 }
 #content {
-	background: #333333;
+	background: #444444;
 	width: 100%;
+	min-height: 94.375%;
 	padding: 50px 75px;
-	word-wrap:break-word;
+	word-wrap: break-word;
 	box-sizing: border-box;
 }
 a {
@@ -55,9 +56,12 @@ h1 {
 	display: inline-block;
 	list-style: none inside none;
 	background-color: #0F0F0F;
-	width: 25%;
+	width: 33.333%;
 	min-width: 128px;
 	outline: 1px solid #444444;
+}
+#navigation.admin li {
+	width: 20%;
 }
 #navigation li.current {
 	background-color: #444444;
@@ -148,12 +152,12 @@ p, h1, form, button{border:0; margin:0; padding:0;}
 .checkcontain {
 	border: 0;
 }
-.listcontain  input[type=reset]:hover, .listcontain  input[type=button]:hover {
-	background:#BBBBBB;
+.listcontain  input[type=reset]:hover, .listcontain  input[type=button]:hover, .listcontain  input.zeroclipboard-is-hover {
+	background: #BBBBBB;
 }
 .listcontain {
 	float: left;
-	margin-left: 50px;
+	margin: 0 50px;
 }
 #output {
 	width: 374px;
