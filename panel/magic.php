@@ -3,20 +3,22 @@ $valid[0][0] = 'R3J5Z3JGbHpy';
 $valid[0][1] = 'Z3J5Z3JmbHpyQGhvdG1haWwuY29t';
 $valid[0][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.um5x/Q4n6GQBKHCXf7oZdW8HuQWWaZ1O';
 $valid[0][3] = 0;
+$valid[0][4] = '';
 $valid[1][0] = 'WmVyb0xldmVscw==';
 $valid[1][1] = 'bW9kbGlzdC5tY2YubGlAZ21haWwuY29t';
 $valid[1][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.uNvsvYfWclbp6ReL1Hhgrg2ouwlqkswC';
 $valid[1][3] = 0;
+$valid[1][4] = '';
 $valid[2][0] = 'V3VwcHk=';
 $valid[2][1] = 'V3VwcHkyOUBnbWFpbC5jb20=';
 $valid[2][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.umSrGOjgeZB/FmeWL875.WnCmoREGN3S';
 $valid[2][3] = 3;
-$valid[2][4] = '';
+$valid[2][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzu3SD4RTfoSW9xtU/IoQNXsy2d6DW2MwG';
 $valid[3][0] = 'RGFCYW5hbmFib2F0';
 $valid[3][1] = '';
 $valid[3][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.uRmCbokVLu302cwl4iNGxI7VU8NgyOuq';
 $valid[3][3] = 3;
-$valid[3][4] = '';
+$valid[3][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzuzz.OXwSqR./nngKJPswEuvC8YoAQHOq';
 function accesslevel($keyname) {
 	global $valid;
 	foreach($valid as &$key) {
@@ -60,5 +62,18 @@ function getAPIkey($keyname) {
 		}
 	}
 	return '';
+}
+function encAPIkey($key) {
+	return crypt(urlencode($key), '$2a$13$Ilvd3cy/SKPyJfpKFnqqzw==');
+}
+function accessAPI($keyname) {
+	global $valid;
+	foreach($valid as &$key) {
+		if($keyname == $key[4]) {
+			return true;
+			break;
+		}
+	}
+	return false;
 }
 ?>
