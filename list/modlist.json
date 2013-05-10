@@ -9431,9 +9431,9 @@
   },
   {
     "name":"Wireless Redstone",
-    "other":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
+    "other":"",
     "link":"http://bit.ly/V2vnJ7",
-    "desc":"",
+    "desc":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
     "author":"ali4z",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
