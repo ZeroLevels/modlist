@@ -1,0 +1,67 @@
+<?php
+session_start();
+if(!isset($_SESSION['usr']))
+	header('Location: login.php', true, 302);
+if(!isset($_GET['view']))
+	header('Location: panel.php?view=api', true, 302);
+include('magic.php');
+if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0)
+	header('Location: panel.php?view=api', true, 302);
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MCF Modlist Webpanel</title>
+	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/panel.css" />
+	<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="application/javascript" src="../resources/js/jquery.min.js"></script>
+	<script type="application/javascript" src="../resources/js/ZeroClipboard.min.js"></script>
+	<script type="application/javascript" src="../resources/js/listcreator.js" defer></script>
+</head>
+<body>
+<h1>MCF Modlist Webpanel</h1>
+<div id="nav">
+	<ul id="navigation">
+		<?php
+		if(accesslevel($_SESSION['usr']) == 0) {
+			if($_GET['view'] == "userlist")
+				echo '<li class="current"><a href="panel.php?view=userlist">Userlist</a></li>';
+			else
+				echo '<li><a href="panel.php?view=userlist">Userlist</a></li>';
+		}
+		if($_GET['view'] == "creator")
+			echo '<li class="current"><a href="panel.php?view=creator">List Creator</a></li>';
+		else
+			echo '<li><a href="panel.php?view=creator">List Creator</a></li>';
+		if($_GET['view'] == "api")
+			echo '<li class="current"><a href="panel.php?view=api">API Key</a></li>';
+		else
+			echo '<li><a href="panel.php?view=api">API Key</a></li>';
+		?>
+		<li><a href="logout.php">Logout</a></li>
+	</ul>
+</div>
+<div id="content">
+	<?php
+	switch($_GET['view']) {
+		case "api":
+			switch($_GET['mode']) {
+				case "generate":
+					include('pages/apikey.php');
+					break;
+				default:
+					include('pages/api.html');
+					break;
+			}
+			break;
+		case "userlist":
+			include('pages/userlist.php');
+			break;
+		case "creator":
+			include('pages/listcreator.php');
+			break;
+	}
+	?>
+</div>
+</body>
+</html>
