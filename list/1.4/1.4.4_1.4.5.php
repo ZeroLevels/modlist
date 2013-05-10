@@ -17,7 +17,7 @@ include('../../resources/scripts/jsontable.php');
 <p>
 	<img src="../../resources/images/<?php echo $version; ?>.png" width="130" height="58"/><br/>
 	<span style="font-size:200%">Last Updated: <?php $content = file('changelog_'.$version.'.html'); echo $content[1]; ?></span><br/><a href="changelog_<?php echo $version; ?>.html" class="ns">Click here</a> to view the changelog.
-</p><!--Poke-->
+</p>
 <ul id="list-nav">
 	<li><a href="/">Home</a></li>
 	<li><a href="/credits/">Credits</a></li>
@@ -65,6 +65,8 @@ include('../../resources/scripts/jsontable.php');
 	</tbody>
 </table>
 <br/><br/><br/>
+
+<div style="display:none;">Poke.</div>
 
 <div class="footer count">
 	Mod count: <b><?php echo $modcount; ?></b>
