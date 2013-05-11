@@ -1,12 +1,18 @@
 <?php
 session_start();
-if(!isset($_SESSION['usr']))
+if(!isset($_SESSION['usr'])) {
 	header('Location: login.php', true, 302);
-if(!isset($_GET['view']))
+	exit();
+}
+if(!isset($_GET['view'])) {
 	header('Location: panel.php?view=home', true, 302);
+	exit();
+}
 include('magic.php');
-if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0)
+if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 	header('Location: panel.php?view=home', true, 302);
+	exit();
+}
 ?>
 <!DOCTYPE html>
 <html>
@@ -41,6 +47,11 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0)
 				echo '<li class="current"><a href="panel.php?view=creator">List Creator</a></li>';
 			else
 				echo '<li><a href="panel.php?view=creator">List Creator</a></li>';
+			
+			if($_GET['view'] == "generate")
+				echo '<li class="current"><a href="panel.php?view=generate">Generate Changelog</a></li>';
+			else
+				echo '<li><a href="panel.php?view=generate">Generate Changelog</a></li>';
 		}
 		if($_GET['view'] == "api")
 			echo '<li class="current"><a href="panel.php?view=api">API Key</a></li>';
@@ -68,6 +79,9 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0)
 			break;
 		case "creator":
 			include('pages/listcreator.php');
+			break;
+		case "generate":
+			include('pages/imagethread.php');
 			break;
 	}
 	?>

@@ -1,5 +1,6 @@
 /* List Creator Javascript
  */
+var sessionVar = Math.random();
 
 function checklink() {
 	//http://www.minecraftforum.net/topic/\d+-
@@ -73,7 +74,7 @@ function reset() {
 
 function checkExist() {
 	$('#nametext').html('Matching existing mods...');
-	$.getJSON("../list/modlist.json", function(data) {
+	$.getJSON("../list/modlist.json?" + window.sessionVar, function(data) {
 		var match = false;
 		for(var i = 0; i < Object.keys(data).length; i++) {
 			if(data[i].name.toUpperCase() == $.trim($('#name').val().toUpperCase())) {
@@ -137,7 +138,7 @@ function checkOtherMods() {
 			}
 		}
 		if(!match) {
-			$('#nametext').html('<span class="found">No entries by this author</span>');
+			$('#authortext').html('<span class="found">No entries by this author</span>');
 		} else {
 			if(modcount == 1)
 				$('#authortext').html('<span class="found">1 mod by this author</span>');
