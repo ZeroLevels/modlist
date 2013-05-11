@@ -44,7 +44,7 @@ if(isset($_GET['key'])) {
 							echo md5($file);
 						}
 					} else {
-						echo '{"name":"400","other":"","link":"","desc":"No version has been requested","author":"GrygrFlzr","type":[],"dependencies":["API key"],"versions":[]}';
+						echo '{"name":"400","other":"","link":"","desc":"No version has been requested","author":"GrygrFlzr","type":[],"dependencies":["version"],"versions":[]}';
 					}
 					break;
 					
@@ -54,16 +54,16 @@ if(isset($_GET['key'])) {
 							echo $file;
 						}
 					} else {
-						echo '{"name":"400","other":"","link":"","desc":"No version has been requested","author":"GrygrFlzr","type":[],"dependencies":["API key"],"versions":[]}';
+						echo '{"name":"400","other":"","link":"","desc":"No version has been requested","author":"GrygrFlzr","type":[],"dependencies":["version"],"versions":[]}';
 					}
 					break;
 
 				default:
-					echo '{"name":"401","other":"","link":"","desc":"The request does not exist","author":"GrygrFlzr","type":[],"dependencies":["API key"],"versions":[]}';
+					echo '{"name":"401","other":"","link":"","desc":"The request does not exist","author":"GrygrFlzr","type":[],"dependencies":["request"],"versions":[]}';
 					break;
 			}
 		} else {
-			echo '{"name":"402","other":"","link":"","desc":"A request is needed","author":"GrygrFlzr","type":[],"dependencies":["API key"],"versions":[]}';
+			echo '{"name":"402","other":"","link":"","desc":"A request is needed","author":"GrygrFlzr","type":[],"dependencies":["request"],"versions":[]}';
 		}
 	} else {
 		echo '{"name":"403","other":"","link":"","desc":"Your API Key is invalid or has been removed","author":"GrygrFlzr","type":[],"dependencies":["API key"],"versions":[]}';

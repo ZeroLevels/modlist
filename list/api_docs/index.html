@@ -53,6 +53,7 @@ table tr th {
 <h2>API Requests</h2>
 <p>
 	API Requests use api.php on the root of the site (<a href="http://modlist.mcf.li/api.php">http://modlist.mcf.li/api.php</a>).<br/>
+	You can register for an account and API key <a href="http://modlist.mcf.li/panel/register.php">here</a>.<br/>
 	Requests are executed by attaching a GET request in the following form:
 </p>
 <table>
@@ -62,6 +63,11 @@ table tr th {
 		<th>Accepted Values</th>
 	</tr>
 	<tr>
+		<td>key</td>
+		<td>string</td>
+		<td>alphanumeric md5 generated in panel</td>
+	</tr>
+	<tr>
 		<td>request</td>
 		<td>string</td>
 		<td><span class="reserved">hash</span>, <span class="reserved">json</span></td>
@@ -69,14 +75,16 @@ table tr th {
 	<tr>
 		<td>version</td>
 		<td>string</td>
-		<td><span class="reserved">1.5.1</span>, <span class="reserved">1.5.0</span>, <span class="reserved">1.5</span>, <span class="reserved">1.4.7</span>, <span class="reserved">1.4.6</span>, <span class="reserved">1.4.7_1.4.6</span>, <span class="reserved">1.4.6_1.4.7</span>, <span class="reserved">1.4.5</span>, <span class="reserved">1.4.4</span>, <span class="reserved">1.4.5_1.4.4</span>, <span class="reserved">1.4.4_1.4.5</span>, <span class="reserved">1.4.2</span></td>
+		<td><span class="reserved">1.5.2</span>, <span class="reserved">1.5.1</span>, <span class="reserved">1.5.0</span>, <span class="reserved">1.5</span>, <span class="reserved">1.4.7</span>, <span class="reserved">1.4.6</span>, <span class="reserved">1.4.5</span>, <span class="reserved">1.4.4</span>, <span class="reserved">1.4.2</span></br>or a combined request separated by an underscore</td>
 	</tr>
 </table>
 <h3>Example Usage</h3>
-<pre class="code">http://modlist.mcf.li/api.php?version=1.5.1&request=hash</pre>
+<pre class="code">http://modlist.mcf.li/api.php?key=<strong>API_KEY</strong>&version=1.5.0_1.5.1_1.5.2&request=hash</pre>
+<p>Will return the md5 hash for the combined request of 1.5, 1.5.1 and 1.5.2.</p>
 <h2>Hash Request</h2>
 <p>Returns an md5 check of the requested JSON file.</p>
-<h3>Example Result</h3>
+<h3>Example</h3>
+<pre class="code">http://modlist.mcf.li/api.php?key=<strong>API_KEY</strong>&version=1.5.2&request=hash</pre>
 <pre class="code">fbf9cc4a8704a28045037a69908b2b97</pre>
 <h2>JSON Request</h2>
 <h3>Format</h3>
@@ -120,7 +128,8 @@ table tr th {
 	</ul></br>
 	It may also contain other dependencies such as iChun Utils.
 </p>
-<h3>Example Result</h3>
+<h3>Example</h3>
+<pre class="code">http://modlist.mcf.li/api.php?key=<strong>API_KEY</strong>&version=1.5.1&request=json</pre>
 <pre class="code">
 [
   {
@@ -193,7 +202,53 @@ table tr th {
 ]
 </pre>
 <b>Notice: Result for <span class="reserved">json</span> will be compressed for bandwidth efficiency.</b></br>
-<div id="bottomspacer">Last modified by GrygrFlzr on 3 May 2013, 02:49 PM UTC Time.</div>
+<h2>Invalid Requests</h2>
+<p>An invalid request will return a json object similar to the result of a <span class="reserved">json</span> request.</p>
+<table>
+	<tr>
+		<th>Error Code</th>
+		<th>Meaning</th>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>An API Key is required to access the database</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>Your API Key is invalid or has been removed</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>A request is needed</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>The request does not exist</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>No version has been requested</td>
+	</tr>
+</table>
+<h3>Example</h3>
+<pre class="code">http://modlist.mcf.li/api.php?key=<strong>WRONG_API_KEY</strong>&version=1.5.1&request=json</pre>
+<pre class="code">
+[
+  {
+    "name":"404",
+    "other":"",
+    "link":"",
+    "desc":"An API Key is required to access the database",
+    "author":"GrygrFlzr",
+    "type":[],
+    "dependencies":[
+      "API Key"
+    ],
+    "versions":[]
+  }
+]
+</pre>
+<div id="bottomspacer">Last modified by GrygrFlzr on 11 May 2013, 08:07 AM UTC Time.</div>
 </div>
 </body>
 </html>
