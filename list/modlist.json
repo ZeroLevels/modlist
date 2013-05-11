@@ -143,11 +143,21 @@
     "name":"[Chert Craft] Gravel Replacement",
     "other":"",
     "link":"http://bit.ly/YQ4rer",
-    "desc":"Makes the gravel block not drop flint when mined, making the acquisition of flint depended on crafting flint from chert.",
+    "desc":"Makes the gravel block not drop flint when mined, making the acquisition of flint dependent on crafting flint from chert or by using Kinyoshi's Smeltable Gravel mod.",
     "author":"Kinyoshi",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"[Chert Craft] Gravel Replacement 2",
+    "other":"",
+    "link":"http://bit.ly/YQ4rer",
+    "desc":"Makes gravel always drop a flint when mined.",
+    "author":"Kinyoshi",
+    "type":["Universal"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"[ComputerCraft] Aperture Science Turtle Upgrades",
@@ -897,7 +907,7 @@
     "author":"Noppes",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Animal Packer",
@@ -2070,6 +2080,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"chylex's Minimods",
+    "other":"",
+    "link":"http://bit.ly/13nGTC7",
+    "desc":"A collection of mini mods to  enhance your Minecraft world.",
+    "author":"chylex",
+    "type":["N/A"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.1"]
+  },
+  {
     "name":"CJB API",
     "other":"(Dependency)",
     "link":"http://bit.ly/cjbmodsr",
@@ -2197,7 +2217,7 @@
     "author":"Torquebolt",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Coloured Beds Mod",
@@ -2987,7 +3007,7 @@
     "author":"DerBaM",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Dragon Block C",
@@ -3313,11 +3333,11 @@
     "name":"End of the Rainbow Mod",
     "other":"",
     "link":"http://bit.ly/ZDdVOV",
-    "desc":"Adds rainbows, new armour, and tools!",
+    "desc":"Adds randomly spawning rainbows which have the new Rainbow Ore at the bottom. This can be used to make rainbow tools and armor! But it isn't easy to get! The ore is protected by a leprechaun, who will fight until death to protect it!",
     "author":"DaBigJoe",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Ender Storage",
@@ -3787,7 +3807,7 @@
     "author":"DerBaM",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Flint Tools",
@@ -4167,7 +4187,7 @@
     "author":"DerBaM",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Gravestone Mod",
@@ -4237,7 +4257,7 @@
     "author":"Greg_Ewing",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Grey Goo Mod",
@@ -6217,7 +6237,7 @@
     "author":"dr_frost_dk",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"MoreCrafting",
@@ -6557,7 +6577,7 @@
     "author":"soccerguy3",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"No Ice Melt",
@@ -6567,7 +6587,7 @@
     "author":"soccerguy3",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"No Infinite Water",
@@ -7300,6 +7320,16 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
+    "name":"Recipe Remover",
+    "other":"",
+    "link":"http://bit.ly/10MmNfk",
+    "desc":"Remove recipes based on output ID. It can remove smelting and crafting recipes for any recipe that uses the vanilla crafting handler. It can remove a specific ID with a metadata or the entire range. Synchronizes server removed recipes to the client.",
+    "author":"samrg472",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"RednetworkTools Mod",
     "other":"",
     "link":"http://bit.ly/13vWqzq",
@@ -7330,6 +7360,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Redstone Energy Field",
+    "other":"",
+    "link":"http://bit.ly/10MmNfk",
+    "desc":"Adds blocks where you can have energy fields of redstone. This allows you to power many things at once without having to always manually place down levers all over the place.",
+    "author":"samrg472",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Redstone Jukebox",
     "other":"",
     "link":"Sidben",
@@ -7347,7 +7387,7 @@
     "author":"ReiFNSK",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Reinforced Butter",
@@ -7870,9 +7910,9 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
-    "name":"Soul Eater Mod",
+    "name":"Soul Hunter Mod",
     "other":"",
-    "link":"http://bit.ly/Z6keEp",
+    "link":"http://bit.ly/10MnxBe",
     "desc":"",
     "author":"SmileyPandaBear",
     "type":["Universal"],
@@ -8067,7 +8107,7 @@
     "author":"Vswe",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Stick To Plank Mod",
@@ -8247,7 +8287,7 @@
     "author":"pitman-87",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Teleportation Stones",
@@ -8870,6 +8910,16 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
+    "name":"Tinted Lamps",
+    "other":"",
+    "link":"http://bit.ly/14chqKt",
+    "desc":"Lets you dye Redstone Lamps into any of the 16 available colors.",
+    "author":"TtocsNeb",
+    "type":["Universal"],
+    "dependencies":["Forge Compatible","Modloader Compatible"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"TNT Mod",
     "other":"",
     "link":"http://bit.ly/WGVykv",
@@ -8997,7 +9047,7 @@
     "author":"bspkrs",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Treefeller",
@@ -9565,9 +9615,9 @@
     "link":"http://bit.ly/W2hmul",
     "desc":"",
     "author":"julialy",
-    "type":["N/A"],
+    "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"X-Ray Mod",
