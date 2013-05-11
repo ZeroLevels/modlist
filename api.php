@@ -1,6 +1,7 @@
 <?php
 
-header("Content-Type: text/plain; charset=UTF-8");
+header("Content-Type: application/json; charset=UTF-8");
+include('panel/magic.php');
 
 function readJSON() {
 	if(!isset($GLOBALS['mods'])) {
@@ -33,34 +34,42 @@ function sortAlpha($jsonarray) {
 	return $jsonarray;
 }
 
-if(isset($_GET['request'])) {
-	switch($_GET['request']) {
-		case "hash":
-			if(isset($_GET['version'])) {
-				if ($file = outputVersion($_GET['version'])) {
-					echo md5($file);
-				}
-			} else {
-				echo "Version?";
-			}
-			break;
-			
-		case "json":
-			if(isset($_GET['version'])) {
-				if ($file = outputVersion($_GET['version'])) {
-					echo $file;
-				}
-			} else {
-				echo "Version?";
-			}
-			break;
+if(isset($_GET['key'])) {
+	if(accessAPI($_GET['key'])) {
+		if(isset($_GET['request'])) {
+			switch($_GET['request']) {
+				case "hash":
+					if(isset($_GET['version'])) {
+						if ($file = outputVersion($_GET['version'])) {
+							echo md5($file);
+						}
+					} else {
+						echo '{"name":"400","other":"","link":"","desc":"No version has been requested","author":"GrygrFlzr","type":[],"dependencies":["version"],"versions":[]}';
+					}
+					break;
+					
+				case "json":
+					if(isset($_GET['version'])) {
+						if ($file = outputVersion($_GET['version'])) {
+							echo $file;
+						}
+					} else {
+						echo '{"name":"400","other":"","link":"","desc":"No version has been requested","author":"GrygrFlzr","type":[],"dependencies":["version"],"versions":[]}';
+					}
+					break;
 
-		default:
-			echo "Non-existent request";
-			break;
+				default:
+					echo '{"name":"401","other":"","link":"","desc":"The request does not exist","author":"GrygrFlzr","type":[],"dependencies":["request"],"versions":[]}';
+					break;
+			}
+		} else {
+			echo '{"name":"402","other":"","link":"","desc":"A request is needed","author":"GrygrFlzr","type":[],"dependencies":["request"],"versions":[]}';
+		}
+	} else {
+		echo '{"name":"403","other":"","link":"","desc":"Your API Key is invalid or has been removed","author":"GrygrFlzr","type":[],"dependencies":["API key"],"versions":[]}';
 	}
 } else {
-	echo "No request?";
+	echo '{"name":"404","other":"","link":"","desc":"An API Key is required to access the database","author":"GrygrFlzr","type":[],"dependencies":["API key"],"versions":[]}';
 }
 
 function outputVersion($versions) {

@@ -3610,6 +3610,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Fallout Mod",
+    "other":"",
+    "link":"http://bit.ly/10Mg1Gi",
+    "desc":"A mod which adds nearly every single item from all of the Fallout games.",
+    "author":"Blfngl",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.4", "1.4.5", "1.4.6", "1.4.7", "1.5.0", "1.5.1", "1.5.2"]
+  },
+  {
     "name":"Familiars",
     "other":"",
     "link":"http://bit.ly/VNNZZT",

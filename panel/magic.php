@@ -3,7 +3,7 @@ $valid[0][0] = 'R3J5Z3JGbHpy';
 $valid[0][1] = 'Z3J5Z3JmbHpyQGhvdG1haWwuY29t';
 $valid[0][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.um5x/Q4n6GQBKHCXf7oZdW8HuQWWaZ1O';
 $valid[0][3] = 0;
-$valid[0][4] = '';
+$valid[0][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzurMZJEFtznzVXXzn2wXTfVvdAUhiuLKq';
 $valid[1][0] = 'WmVyb0xldmVscw==';
 $valid[1][1] = 'bW9kbGlzdC5tY2YubGlAZ21haWwuY29t';
 $valid[1][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.uNvsvYfWclbp6ReL1Hhgrg2ouwlqkswC';
@@ -69,7 +69,7 @@ function encAPIkey($key) {
 function accessAPI($keyname) {
 	global $valid;
 	foreach($valid as &$key) {
-		if($keyname == $key[4]) {
+		if(encAPIkey($keyname) == $key[4]) {
 			return true;
 			break;
 		}
