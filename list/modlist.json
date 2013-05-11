@@ -3657,7 +3657,7 @@
     "author":"Koopinator",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Fancy Glass",
@@ -4207,7 +4207,7 @@
     "author":"NightKosh",
     "type":["SSP"],
     "dependencies":["Forge Required","Modloader","Player API"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Gravity Gun",
@@ -5547,7 +5547,7 @@
     "author":"Koopinator",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Metallurgy 2",
@@ -6158,6 +6158,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"More Pistons Mod",
+    "other":"(smeagolworms4)",
+    "link":"http://bit.ly/15ykG7X",
+    "desc":"Recompiled for 1.5.x from MontyPylon's More Pistons Mod. Adds pistons that can push up to 8 blocks away.",
+    "author":"smeagolworms4",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"More Player Models",
@@ -7118,6 +7128,16 @@
     "type":["N/A"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Price of Progress",
+    "other":"",
+    "link":"http://bit.ly/17TwgrC",
+    "desc":"A mod that will give you some very fine items, but there will be something you have to give in return. Be it a debuff for you or straight life loss, there's a way you have to pay for being on the top. Progress comes at a price.",
+    "author":"LastJudge",
+    "type":["SSP","SMP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Primitive Mobs",
@@ -9258,6 +9278,16 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.5.2"]
+  },
+  {
+    "name":"Useful Storage",
+    "other":"",
+    "link":"http://bit.ly/TGtVeq",
+    "desc":"This mod adds coal blocks and hay bales into the game, crafted by placing nine of their respective material into the crafting grid.",
+    "author":"Koopinator",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Uses For Lapis",
