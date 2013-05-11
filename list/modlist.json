@@ -2080,6 +2080,16 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
+    "name":"CJB Mod",
+    "other":"(Continued)",
+    "link":"http://bit.ly/Uvqy7h",
+    "desc":"A continuation of CJB's old 'CJB Mod'.",
+    "author":"Harrison_TOM",
+    "type":["Clientside Mod"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
     "name":"Clay Soldiers Mod",
     "other":"",
     "link":"http://bit.ly/13dqmPA",
@@ -3517,7 +3527,7 @@
     "author":"moverperfect",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"ExtraBiomesXL",
@@ -5527,7 +5537,7 @@
     "author":"Shadowclaimer",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Millenaire",
@@ -5537,7 +5547,7 @@
     "author":"Kinniken",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Minaptics",
@@ -6737,7 +6747,7 @@
     "author":"sp614x",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Ores drop Mores 2",
