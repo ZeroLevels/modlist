@@ -447,7 +447,7 @@
     "author":"Aroma1997",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Custom Machine Recipes",
@@ -970,6 +970,16 @@
     "versions":["1.5.0","1.5.1"]
   },
   {
+    "name":"Armor Bar Mod",
+    "other":"",
+    "link":"http://bit.ly/18CdPZD",
+    "desc":"Will Display the current equiped armor and durabilty on different sides of the action bar. Should work with any item you can convince minecraft to place in equipment slots.",
+    "author":"Crudedragos",
+    "type":["Clientside Mod"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0"]
+  },
+  {
     "name":"Armor Movement Mod",
     "other":"",
     "link":"http://bit.ly/VuvlHp",
@@ -1007,7 +1017,7 @@
     "author":"Aroma1997",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Ars Magica",
@@ -1657,7 +1667,7 @@
     "author":"mmdev",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Booze",
@@ -1738,6 +1748,16 @@
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Buff Bar Mod",
+    "other":"",
+    "link":"http://bit.ly/18CdPZD",
+    "desc":"Displays All Current Potion Effects applied to character. Bar only starts diminishing if time is less than 1 minute.",
+    "author":"Crudedragos",
+    "type":["Clientside Mod"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0"]
   },
   {
     "name":"Buildcraft",
@@ -2847,13 +2867,13 @@
     "author":"Resinresinl",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Desert Cotton Plant",
     "other":"",
     "link":"http://bit.ly/XvcK11",
-    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode ? Do you wonder how you're going to make that bed with no sheep to get wool from? Then this mod is for you!",
+    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to make that bed with no sheep to get wool from? Then this mod is for you!",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
@@ -3127,7 +3147,7 @@
     "author":"jsprouts",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Eastonium147's Mods",
@@ -3847,7 +3867,7 @@
     "author":"WillDaBeast509",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"FloatingRuins",
@@ -3927,7 +3947,7 @@
     "author":"SirSengir",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.5.0"]
+    "versions":["1.4.4","1.4.5","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Forestry",
@@ -4907,7 +4927,7 @@
     "author":"monnef",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Jammy Furniture Mod",
@@ -6187,7 +6207,7 @@
     "author":"jsprouts",
     "type":["SSP","SMP","LAN"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.4","1.4.5","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.5.1","1.5.2"]
   },
   {
     "name":"More Records Mod",
@@ -7060,6 +7080,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Power of the Elements",
+    "other":"",
+    "link":"http://bit.ly/14er3Zk",
+    "desc":"Allows you to control and use the elements of fire, ice, air, earth, and lightning.",
+    "author":"Prime17",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Power Swords Mod",
     "other":"",
     "link":"http://bit.ly/117VOAd",
@@ -7135,7 +7165,7 @@
     "link":"http://bit.ly/17TwgrC",
     "desc":"A mod that will give you some very fine items, but there will be something you have to give in return. Be it a debuff for you or straight life loss, there's a way you have to pay for being on the top. Progress comes at a price.",
     "author":"LastJudge",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.0","1.5.1","1.5.2"]
   },
@@ -7158,6 +7188,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Project Zulu",
+    "other":"",
+    "link":"http://bit.ly/18CdPZD",
+    "desc":"Attempts to add flavor to minecraft by adding unique mobs, blocks, and structures to each Minecraft Biome.",
+    "author":"Crudedragos",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0"]
   },
   {
     "name":"Prometheus",
@@ -7890,6 +7930,16 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"Snow Mod",
+    "other":"",
+    "link":"http://bit.ly/18CdPZD",
+    "desc":"Adds a custom snow block that, when snowing, will grow. On new World/chunk generation it replaces all vanilla snow with the exception of on leaves and wood with the new snow.",
+    "author":"Crudedragos",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0"]
+  },
+  {
     "name":"soccerguy3's Mods",
     "other":"",
     "link":"http://bit.ly/V1qVZv",
@@ -8287,7 +8337,7 @@
     "author":"RocketMan10404",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Tale of Kingdoms",
@@ -8793,11 +8843,11 @@
     "name":"The Ultimate Nether Mod",
     "other":"",
     "link":"http://bit.ly/ZURSye",
-    "desc":"Adss a hefty amount of of nether-based content.",
+    "desc":"Improves the nether by adding such things as Dungeons, Mazes, Giant Nether Mushrooms and Fire Trees. Also adds a few biomes and mobs to the overworld.",
     "author":"Oneric",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"The Uncraftables",
@@ -9253,11 +9303,11 @@
     "name":"Usefulfood",
     "other":"",
     "link":"http://bit.ly/WnXSfV",
-    "desc":"",
+    "desc":"The goal of this mod is to add as much useful food as possible to minecraft, without destroying the vanilla feeling of it. No extreme and complicated recipes! The mod is supposed to be simple and useful for the user, to make food from things you normally can´t make food from and to add a large variety of food to make minecraft more interesting.",
     "author":"Silentspy",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Usefull_cobble",
@@ -9650,16 +9700,6 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
-    "name":"X-Ray Mod (julialy)",
-    "other":"",
-    "link":"http://bit.ly/W2hmul",
-    "desc":"",
-    "author":"julialy",
-    "type":["Client"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.2"]
-  },
-  {
     "name":"X-Ray Mod",
     "other":"(CJB)",
     "link":"http://bit.ly/cjbmodsr",
@@ -9686,8 +9726,8 @@
     "desc":"This mod will let you see any block you desire.",
     "author":"julialy",
     "type":["Client"],
-    "dependencies":["Not Forge Compatible","Liteloader"],
-    "versions":["1.5.2"]
+    "dependencies":["Forge Compatible","Liteloader"],
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"XACT: Xhamolk_'s Advanced Crafting Table",
