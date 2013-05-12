@@ -1267,7 +1267,7 @@
     "author":"BalkondeurAlpha",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Basic Guns Mod",
@@ -4062,12 +4062,12 @@
   {
     "name":"Galacticraft",
     "other":"",
-    "link":"http://bit.ly/galacticraft",
+    "link":"http://bit.ly/10jmPPP",
     "desc":"Lets you travel to new planets with your own spaceship.",
     "author":"Micdoodle8",
     "type":["Universal"],
-    "dependencies":["Forge Required","Render Player API","Player API"],
-    "versions":["1.5.0","1.5.1"]
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Gammabright",
