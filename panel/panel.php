@@ -52,6 +52,11 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 				echo '<li class="current"><a href="panel.php?view=generate">Generate Changelog</a></li>';
 			else
 				echo '<li><a href="panel.php?view=generate">Generate Changelog</a></li>';
+			
+			if($_GET['view'] == "upload")
+				echo '<li class="current"><a href="panel.php?view=upload">Upload Files</a></li>';
+			else
+				echo '<li><a href="panel.php?view=upload">Upload Files</a></li>';
 		}
 		if($_GET['view'] == "api")
 			echo '<li class="current"><a href="panel.php?view=api">API Key</a></li>';
