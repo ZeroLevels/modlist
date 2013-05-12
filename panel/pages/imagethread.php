@@ -93,7 +93,8 @@ if(isset($_SESSION['usr'])) {
 	}
 
 	imagepng($image, '../resources/images/changelog.png', 9, PNG_ALL_FILTERS);
-	echo 'Image generated successfully. Click <a href="../resources/images/changelog.png" target="blank">here</a> to view the image.';
+	echo 'Image generated successfully. Click <a href="../resources/images/changelog.png" target="blank">here</a> to view the image.</br>';
+	echo '<img src="../resources/images/changelog.png" alt="Changelog" />';
 	imagecolordeallocate($image, $background);
 	imagecolordeallocate($image, $cl_black);
 	imagecolordeallocate($image, $cl_darkgrey);

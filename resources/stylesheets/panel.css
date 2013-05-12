@@ -56,12 +56,12 @@ h1 {
 	display: inline-block;
 	list-style: none inside none;
 	background-color: #0F0F0F;
-	width: 33.333%;
+	width: 33.33333333333333%;
 	min-width: 128px;
 	outline: 1px solid #444444;
 }
 #navigation.admin li {
-	width: 16.666%;
+	width: 14.28571428571429%;
 }
 #navigation li.current {
 	background-color: #444444;
