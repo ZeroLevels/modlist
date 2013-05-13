@@ -2102,7 +2102,7 @@
   {
     "name":"chylex's Minimods",
     "other":"",
-    "link":"http://bit.ly/13nGTC7",
+    "link":"http://bit.ly/17W8Phi",
     "desc":"A collection of mini mods to  enhance your Minecraft world.",
     "author":"chylex",
     "type":["N/A"],
@@ -2807,7 +2807,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Death Chest",
@@ -3067,7 +3067,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Dungeon Mobs",
@@ -3577,7 +3577,7 @@
     "author":"MisterFiber",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"ExtraneousCraft",
@@ -4337,7 +4337,7 @@
     "author":"UncleMion",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Hardcore Enderdragon",
@@ -4437,7 +4437,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Health Packs",
@@ -5127,7 +5127,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"LavaBoat",
@@ -5263,11 +5263,11 @@
     "name":"LittleBlocks",
     "other":"",
     "link":"http://bit.ly/UR3eUm",
-    "desc":"",
+    "desc":"Allows you to polish up your creativity and optimize your redstone systems. Indeed, the size of blocks placed in a little blocks is divided by eight compared to its original size, so you can place 512 blocks instead of one. Be careful though with the size of your creations because the resources (memory, gpu / cpu ...) increases proportionally with it.",
     "author":"VengeurK",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"littleMaidMob",
@@ -5317,7 +5317,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Lots of Food",
@@ -6557,7 +6557,7 @@
     "author":"mDiyo",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Nether Eye",
@@ -6820,6 +6820,16 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Ores Extended",
+    "other":"",
+    "link":"http://bit.ly/12pJdWD",
+    "desc":"Adds 7 new ores and 6 new tool sets to Minecraft.",
+    "author":"1jamie50",
+    "type":["SSP"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Original Beacons",
     "other":"",
     "link":"http://bit.ly/Vi5xyQ",
@@ -7027,7 +7037,7 @@
     "author":"FatherToast",
     "type":["Server"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Plugins for Forestry",
@@ -7288,6 +7298,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Random Additions",
+    "other":"",
+    "link":"http://bit.ly/YDJ4zB",
+    "desc":"As the mod name suggests, the mod got its name after the author(s) just decided to add a load of random stuff in.",
+    "author":"Random_Additions",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"rbdyck's Mods",
@@ -8057,7 +8077,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"SpecialTools",
@@ -8717,7 +8737,7 @@
     "author":"sheenrox82",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"The Necromancy Mod",
@@ -9240,6 +9260,16 @@
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
   },
   {
+    "name":"Uncle Steve's Mods",
+    "other":"",
+    "link":"http://bit.ly/YPwdg7",
+    "desc":"Adds new mobs and blocks.",
+    "author":"multistar444",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Underground Biomes",
     "other":"",
     "link":"http://bit.ly/X6ZyLH",
@@ -9367,7 +9397,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Valve Pipes",
@@ -9378,6 +9408,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
+  },
+  {
+    "name":"VanillaPlus",
+    "other":"",
+    "link":"http://bit.ly/10su8kh",
+    "desc":"Making the useless useful! Adds blocks and items that would normally fit into the game but just aren't there, and also gives the most useless items a use!",
+    "author":"gruntpie224",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Vanilla Recipes",
