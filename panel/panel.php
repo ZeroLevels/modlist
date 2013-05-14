@@ -1,6 +1,7 @@
 <?php
 session_start();
 if(!isset($_SESSION['usr'])) {
+	$_SESSION['return'] = $_SERVER['REQUEST_URI'];
 	header('Location: login.php', true, 302);
 	exit();
 }
@@ -87,6 +88,16 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 			break;
 		case "generate":
 			include('pages/imagethread.php');
+			break;
+		case "upload":
+			switch($_GET['mode']) {
+				case "upload":
+					include('pages/upload.php');
+					break;
+				default:
+					include('pages/upload.html');
+					break;
+			}
 			break;
 	}
 	?>
