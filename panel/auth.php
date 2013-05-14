@@ -22,7 +22,13 @@ switch($_GET['mode']) {
 			}
 			
 			if($match) {
-				header('Location: panel.php', true, 302);
+				if(isset($_SESSION['return'])) {
+					$return = $_SESSION['return'];
+					unset($_SESSION['return']);
+					header('Location: ' . $return, true, 302);
+				} else {
+					header('Location: panel.php', true, 302);
+				}
 			} else {
 				header('Location: login.php?mode=error', true, 302);
 			}

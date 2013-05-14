@@ -1,13 +1,49 @@
 /* List Creator Javascript
  */
 var sessionVar = Math.random();
+var lastName = '';
 
 function checklink() {
 	//http://www.minecraftforum.net/topic/\d+-
 	var link = $('#link').val();
-	if(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-./.test(link)) {
-		$('#link').val(link.match(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-/)[0]);
-		$('#linktext').html('<span class="found">MCF Link cut</span>');
+	if(link != "") {
+		if(/^[a-z]+:\/\//i.test(link)) {
+			if(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-./.test(link)) {
+				$('#link').val(link.match(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-/)[0]);
+				$('#linktext').html('<span class="found">MCF Link cut</span>');
+			}
+			link = $('#link').val();
+			if(!/http:\/\/bit\.ly\/[a-zA-Z0-9]*/.test(link)) {
+				if($('#linktext').html() == '<span class="found">MCF Link cut</span>') {
+					$('#linktext').html('<span class="found">MCF Link cut - <a href="javascript:bitly();">bit.ly this link</a></span>');
+				} else {
+					$('#linktext').html('<span class="found"><a href="javascript:bitly();">bit.ly this link</a></span>');
+				}
+			}
+		} else {
+			$('#linktext').html('<span class="failed">Not a valid link</span>');
+		}
+	} else {
+		$('#linktext').html('Link to the mod\'s page');
+	}
+}
+
+function bitly() {
+	alert('Upcoming function');
+}
+
+function loadbitly() {
+	var link = $('#link').val();
+	if(/http:\/\/bit\.ly\/[a-zA-Z0-9]*/.test(link)) {
+		$('#linktext').html('Extracting bitly info...');
+		$.getJSON("tools/bitly.php?mode=info&link=" + $('#link').val(), function(data) {
+			if(/ - Minecraft Forum/.test(data['title']))
+				data['title'] = data['title'].replace(/ - Minecraft Forum/, "");
+			if(/\[[a-zA-Z0-9.]*\]/.test(data['title']))
+				data['title'] = data['title'].replace(/\[[a-zA-Z0-9.\/]*\]/g, "");
+			data['title'] = $.trim(data['title']);
+			$('#linktext').html('<span class="found"><a href="' + data['link'] +'">' + data['title'] + '</a></span>');
+		});
 	}
 }
 
@@ -50,7 +86,7 @@ function generate() {
 	if($('#ver152').is(':checked'))
 		versions.push('1.5.2');
 	if(versions.length > 0)
-		json += '    "versions":["' + versions.join('", "') + '"]\r\n';
+		json += '    "versions":["' + versions.join('","') + '"]\r\n';
 	else
 		json += '    "versions":[]\r\n';
 	
@@ -73,61 +109,64 @@ function reset() {
 }
 
 function checkExist() {
-	$('#nametext').html('Matching existing mods...');
-	$.getJSON("../list/modlist.json?" + window.sessionVar, function(data) {
-		var match = false;
-		for(var i = 0; i < Object.keys(data).length; i++) {
-			if(data[i].name.toUpperCase() == $.trim($('#name').val().toUpperCase())) {
-				$('#name').val(data[i].name);
-				$('#other').val(data[i].other);
-				$('#link').val(data[i].link);
-				$('#desc').val(data[i].desc);
-				$('#author').val(data[i].author);
-				
-				$('#type').val(data[i].type.join(','));
-				$('#dependencies').val(data[i].dependencies.join(','));
-				
-				if(data[i].versions.indexOf('1.5.2') != -1)
-					$('#ver152').attr('checked', true);
-				else
-					$('#ver152').attr('checked', false);
-				if(data[i].versions.indexOf('1.5.1') != -1)
-					$('#ver151').attr('checked', true);
-				else
-					$('#ver151').attr('checked', false);
-				if(data[i].versions.indexOf('1.5.0') != -1)
-					$('#ver150').attr('checked', true);
-				else
-					$('#ver150').attr('checked', false);
-				if(data[i].versions.indexOf('1.4.7') != -1)
-					$('#ver147').attr('checked', true);
-				else
-					$('#ver147').attr('checked', false);
-				if(data[i].versions.indexOf('1.4.5') != -1)
-					$('#ver145').attr('checked', true);
-				else
-					$('#ver145').attr('checked', false);
-				if(data[i].versions.indexOf('1.4.2') != -1)
-					$('#ver142').attr('checked', true);
-				else
-					$('#ver142').attr('checked', false);
+	if($('#name').val != window.lastName) {
+		$('#nametext').html('Matching existing mods...');
+		$.getJSON("../list/modlist.json?" + window.sessionVar, function(data) {
+			var match = false;
+			for(var i = 0; i < Object.keys(data).length; i++) {
+				if(data[i].name.toUpperCase() == $.trim($('#name').val().toUpperCase())) {
+					$('#name').val(data[i].name);
+					$('#other').val(data[i].other);
+					$('#link').val(data[i].link);
+					$('#desc').val(data[i].desc);
+					$('#author').val(data[i].author);
+					
+					$('#type').val(data[i].type.join(','));
+					$('#dependencies').val(data[i].dependencies.join(','));
+					
+					if(data[i].versions.indexOf('1.5.2') != -1)
+						$('#ver152').attr('checked', true);
+					else
+						$('#ver152').attr('checked', false);
+					if(data[i].versions.indexOf('1.5.1') != -1)
+						$('#ver151').attr('checked', true);
+					else
+						$('#ver151').attr('checked', false);
+					if(data[i].versions.indexOf('1.5.0') != -1)
+						$('#ver150').attr('checked', true);
+					else
+						$('#ver150').attr('checked', false);
+					if(data[i].versions.indexOf('1.4.7') != -1)
+						$('#ver147').attr('checked', true);
+					else
+						$('#ver147').attr('checked', false);
+					if(data[i].versions.indexOf('1.4.5') != -1)
+						$('#ver145').attr('checked', true);
+					else
+						$('#ver145').attr('checked', false);
+					if(data[i].versions.indexOf('1.4.2') != -1)
+						$('#ver142').attr('checked', true);
+					else
+						$('#ver142').attr('checked', false);
 
-				$('#nametext').html('<span class="found">Match Found</span>');
-				checkOtherMods();
-				generate();
-				match = true;
-				break;
+					$('#nametext').html('<span class="found">Match Found</span>');
+					checkOtherMods();
+					generate();
+					loadbitly();
+					match = true;
+					break;
+				}
 			}
-		}
-		if(!match) {
-			$('#nametext').html('<span class="failed">No match found</span>');
-		}
-	});
+			if(!match) {
+				$('#nametext').html('<span class="failed">No match found</span>');
+			}
+		});
+	}
 }
 
 function checkOtherMods() {
 	$('#authortext').html('Matching existing authors...');
-	$.getJSON("../list/modlist.json", function(data) {
+	$.getJSON("../list/modlist.json?" + window.sessionVar, function(data) {
 		var match = false;
 		var modcount = 0;
 		for(var i = 0; i < Object.keys(data).length; i++) {
@@ -153,11 +192,15 @@ function checkDepends() {
 }
 
 
+$('#name').focus(function() {
+	window.lastName = $('#name').val();
+});
 $('#name').keyup(generate);
 $('#name').blur(checkExist);
 $('#other').keyup(generate);
 $('#link').keyup(checklink);
 $('#link').keyup(generate);
+$('#link').blur(loadbitly);
 $('#desc').keyup(generate);
 $('#author').keyup(generate);
 $('#author').blur(checkOtherMods);

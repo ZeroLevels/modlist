@@ -1,0 +1,117 @@
+.listcontain {
+	color: white;
+	font-family: 'PT Sans', Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+a {
+	color: #DDFFDD;
+	text-decoration: none;
+}
+a:hover {
+	color: #BBFFBB;
+	text-decoration: underline;
+}
+strong {
+	color: #BBBBFF;
+}
+h1 {
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	background-color: #080808;
+}
+p, h1, form, button{border:0; margin:0; padding:0;}
+.spacer{clear:both; height:1px;}
+#listcreator {
+	width: 640px;
+	padding: 14px;
+}
+.listcontain {
+	border: solid 2px #b7ddf2;
+	background: #ebf4fb;
+}
+.listcontain h1 {
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+.listcontain p {
+	font-size: 11px;
+	color: #666666;
+	margin-bottom: 20px;
+	border-bottom: solid 1px #b7ddf2;
+	padding-bottom: 10px;
+}
+.listcontain  label {
+	display: block;
+	color: black;
+	font-weight: bold;
+	text-align: right;
+	width: 260px;
+	float: left;
+}
+.listcontain .small{
+	color: #666666;
+	display: block;
+	font-size: 11px;
+	font-weight: normal;
+	text-align: right;
+	width: 260px;
+}
+.listcontain  input:not([type=checkbox]):not([type=radio]), .listcontain textarea {
+	float: left;
+	font-size: 12px;
+	padding: 4px 2px;
+	border: solid 1px #aacfe4;
+	width: 320px;
+	margin: 2px 0 21px 10px;
+}
+.listcontain  input[type=reset], .listcontain  input[type=submit] {
+	margin-left: 95px !important;
+	margin-right: 95px !important;
+	width:125px !important;
+	height:31px;
+	background:#666666;
+	text-align:center;
+	line-height:11px;
+	color:#FFFFFF;
+	font-size:11px;
+	font-weight:bold;
+}
+.listcontain  input[type=checkbox], .listcontain  input[type=radio] {
+	float: left;
+	margin-left: 10px;
+}
+.listcontain  input[type=checkbox]+label, .listcontain  input[type=radio]+label {
+	color: black;
+	text-align: left;
+	font-weight: normal;
+	width: 80px;
+	margin-right: 10px;
+}
+.checkcontain, .radiocontain {
+	border: 0;
+}
+.listcontain  input[type=reset]:hover, .listcontain  input[type=submit]:hover {
+	background: #BBBBBB;
+}
+.listcontain  input[type=submit][disabled]:hover {
+	background: #FFBBBB;
+}
+.listcontain {
+	float: left;
+	margin: 0 22.5%
+}
+textarea {
+	height: 96px;
+}
+.found {
+	color: #008800;
+}
+.found a {
+	color: #000088;
+}
+.failed {
+	color: #880000;
+}
