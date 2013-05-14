@@ -7542,7 +7542,7 @@
   {
     "name":"Redstone Jukebox",
     "other":"",
-    "link":"Sidben",
+    "link":"http://bit.ly/17nTRD5",
     "desc":"Adds a new block (redstone jukebox), that works as a redstone-activated jukebox. It has a GUI that holds up to 8 records and can be programmed to play records in loop and random order.",
     "author":"sidben",
     "type":["SSP"],

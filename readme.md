@@ -10,6 +10,9 @@ Panel Features:
 
 	Generate Changelog;
 		Generates an image of the most recent changelogs for embedding elsewhere, such as on the MCF.
+		
+	Upload Files;
+		Uploads to /panel/secrets
 
 	API Key;
 		Lets people do other things with the stuff. (Fix this for me Grygzilla...)
