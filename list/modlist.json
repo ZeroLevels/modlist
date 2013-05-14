@@ -1157,7 +1157,7 @@
     "author":"Hurricaaane",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Aurora Rubealis",
@@ -1527,7 +1527,7 @@
     "author":"Nuchaz",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"BigTrees",
@@ -2140,6 +2140,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
+    "name":"Clay Spawn",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds in clay deposits underground with the frequency and density of iron deposits.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
     "name":"Clay Tools",
     "other":"",
     "link":"http://bit.ly/15vhVEb",
@@ -2537,7 +2547,7 @@
     "author":"Guff",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"CreepersNoCreeping",
@@ -2760,6 +2770,16 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"DartCraft",
+    "other":"",
+    "link":"http://bit.ly/12vM4gK",
+    "desc":"Adds one, and only one new ore to Minecraft: Power Ore.  When you mine this ore you receive 2-4 'Force Gems' (fortune affects this) which can be used to create Force Ingots from which specialty tools are crafted, or even squeezed into Liquid Force which can be used in several DartCraft machines.  Uses for Liquid Force range from using it to imbue your Force Tools with special upgrades and enhancements, or even powering a Force Engine to generate BuildCraft energy.",
+    "author":"bluedart",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1"]
+  },
+  {
     "name":"Davidee's Mods",
     "other":"",
     "link":"http://bit.ly/V21gBt",
@@ -2878,6 +2898,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Desert Craft",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Contains sixteen cactus/desert plants, cactus armor, cactus tools, sandstone tools, glass steel, glass steel window, and glass steel tools. Also includes a recipe to turn cactus blocks into planks for better desert living.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Desert Grund Plant",
@@ -3043,11 +3073,11 @@
     "name":"Dragon Mounts",
     "other":"",
     "link":"http://bit.ly/Shmlc3",
-    "desc":"",
+    "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
     "author":"BarracudaATA",
-    "type":["N/A"],
+    "type":["SSP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Duel Tool Mod",
@@ -4130,6 +4160,16 @@
     "versions":["1.5.1"]
   },
   {
+    "name":"Get all the Seeds!",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Makes all the seeds in the game in addition to wheat drop from tall grass.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
     "name":"Gizmos",
     "other":"",
     "link":"http://bit.ly/10lcmoN",
@@ -4225,7 +4265,7 @@
     "link":"http://bit.ly/XSirsO",
     "desc":"Adds a gravestone to the game, which spawns after player`s death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot.The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.",
     "author":"NightKosh",
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Required","Modloader","Player API"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
@@ -4368,6 +4408,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"HarvestCraft",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds in over TWO HUNDRED AND FIFTY new foods and recipes using new cooking tools using only vanilla Minecraft materials and crops.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Hats",
@@ -4568,6 +4618,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Huge Mushroom Spawn",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds giant red and brown mushroom spawns across several biomes.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Huge Trees are Huge",
@@ -4857,7 +4917,7 @@
     "author":"Kobata",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"iPod mod",
@@ -5477,7 +5537,7 @@
     "author":"Hurricaaane",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"MCAbilities",
@@ -5558,6 +5618,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
     "versions":["1.5.0"]
+  },
+  {
+    "name":"Melon Spawn",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds melon patches in the world similar to pumpkin patches in forest, plains, swamp, ocean, and jungle biomes.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Metal Rods",
@@ -5727,7 +5797,7 @@
     "author":"AnonymousProductions",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"MineFantasy: Renaissance",
@@ -5737,7 +5807,7 @@
     "author":"AnonymousProductions",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Minekawaii",
@@ -5827,7 +5897,7 @@
     "author":"Guff",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Mithril",
@@ -6920,6 +6990,16 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Pam Hates Snow",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Gets rid of all snowy biomes!  As such, it adds in several new recipes to allow you to make snow, pine trees, etc.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
     "name":"Pam's Mods",
     "other":"",
     "link":"http://bit.ly/VFL2O4",
@@ -7227,7 +7307,7 @@
     "author":"Guff",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Pumpkin-less Snow Golem",
@@ -7267,7 +7347,7 @@
     "author":"Cali Alec",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Railcraft",
@@ -7547,7 +7627,7 @@
     "author":"Rodolphito",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Ropes+",
@@ -7800,6 +7880,16 @@
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Simple Recipes",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds several crafting and smelting recipes to the game.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
     "name":"SimplicityOresMod",
     "other":"",
     "link":"http://bit.ly/14ZFBPv",
@@ -7837,7 +7927,7 @@
     "author":"simo_415",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2"]
   },
   {
     "name":"Single Player Console",
@@ -8447,7 +8537,7 @@
     "author":"Azanor",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"The Airship Mod",
@@ -8815,9 +8905,9 @@
     "link":"http://bit.ly/UvEbTZ",
     "desc":"Adds the four seasons to Minecraft, each one with its own features and dangers (such as frostbite!)",
     "author":"The_WeatherPony",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"The Sod Mod",
@@ -8937,7 +9027,7 @@
     "author":"Team CoFH",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Thirst Mod",
@@ -9047,7 +9137,7 @@
     "author":"Marglyph",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"TooManyPlants",
@@ -9197,7 +9287,7 @@
     "author":"maxpowa",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Turret Mod",
@@ -9298,6 +9388,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+  },
+  {
+    "name":"Unlit Torches",
+    "other":"",
+    "link":"http://bit.ly/17nzzJN",
+    "desc":"Makes it so that standard torches have a life span and eventually burn out, giving you unlit torches. Also overrides torch crafting recipes to give you unlit torches instead.",
+    "author":"pelep",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Urban Mod",
@@ -9480,6 +9580,16 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
+    "name":"Village-up",
+    "other":"",
+    "link":"http://bit.ly/15BMCHX",
+    "desc":"On top of enabling village spawning in more biomes, the mod adds custom spawn design based on what biome it spawns in as well as tweaking some of the old spawn structures.",
+    "author":"clovis83",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.4.6", "1.4.7","1.5.0","1.5.2"]
+  },
+  {
     "name":"VoxelMap",
     "other":"(Zan's)",
     "link":"http://bit.ly/Ty9cf2",
@@ -9568,6 +9678,16 @@
     "type":["Client"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Weee! Flowers",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds fourteen new flowers that generate naturally across the world, giving the game a bit more color.  You can also use flower seeds to plant and grow more flowers just like wheat!",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Weeping Angels",
@@ -9668,6 +9788,16 @@
     "type":["N/A"],
     "dependencies":["Not Forge Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Wood Converter",
+    "other":"",
+    "link":"http://bit.ly/ZWcNRL",
+    "desc":"Allows you to convert wood into other types of wood.",
+    "author":"Minecrafter1912",
+    "type":["Universal"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Wool To String Mod",
