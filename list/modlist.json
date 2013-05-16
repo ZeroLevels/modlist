@@ -303,11 +303,11 @@
     "name":"[IndustrialCraft 2] Advanced Machines",
     "other":"",
     "link":"http://bit.ly/xmvYp1",
-    "desc":"",
+    "desc":"Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
     "author":"AtomicStryker",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Advanced Machines Original",
@@ -877,7 +877,7 @@
     "author":"AaronLardenoye",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Ancient Tree Root Mod",
@@ -967,7 +967,7 @@
     "author":"Iron_Pike",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Armor Bar Mod",
@@ -1237,7 +1237,7 @@
     "author":"Eydamos",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Bacon Mod",
@@ -1348,6 +1348,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+  },
+  {
+    "name":"Better Bows Mod",
+    "other":"",
+    "link":"http://bit.ly/18MTscl",
+    "desc":"Adds two new bows, various new arrow types, and quivers to hold arrows and allow you to easily switch between arrow types to fire.",
+    "author":"Zaggy1024",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Better Breeding Mod",
@@ -2016,7 +2026,7 @@
     "desc":"Adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around. Works in singleplayer as well.",
     "author":"chicken_bones",
     "type":["Universal"],
-    "dependencies":["Forge Required","CodeChickenCore"],
+    "dependencies":["Forge Required","CodeChickenCore Required"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
@@ -2203,7 +2213,7 @@
     "name":"CodeChickenCore",
     "other":"(Dependency)",
     "link":"http://bit.ly/cb-core",
-    "desc":"This mod is required for Not Enough Items (NEI), Ender Storage, and ChickenChunks.",
+    "desc":"This mod is required for Not Enough Items (NEI), Ender Storage, Translocator, and ChickenChunks.",
     "author":"chicken_bones",
     "type":["Universal"],
     "dependencies":["Forge Required"],
@@ -3773,11 +3783,11 @@
     "name":"Ferullo's Gun Mod",
     "other":"",
     "link":"http://bit.ly/V23Ib8",
-    "desc":"",
+    "desc":"Adds a lot of modern guns to the game.",
     "author":"f3rullo14",
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"FewerRavines/LessCaves",
@@ -3847,7 +3857,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required","PowerCrystals Core"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Flat Bedrock Layer",
@@ -4537,7 +4547,7 @@
     "author":"burnner_",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Heuristix's TheGunMod",
@@ -4618,6 +4628,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Household Gods",
+    "other":"",
+    "link":"http://bit.ly/106exeU",
+    "desc":"Makes exploration exciting again by adding 16 statues for you to discover, randomly generated to produce thousands of unique results, each of which affects the world around it in its own individual way. Discover dangerous statues, helpful statues, and just plain weird ones! MIX and MATCH pieces to create NEW EFFECTS!",
+    "author":"thisguyisjoe",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Huge Mushroom Spawn",
@@ -4907,7 +4927,7 @@
     "author":"Lieu",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Inventory Tweaks",
@@ -4947,7 +4967,7 @@
     "author":"chrisk123999",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Item Soup Dos",
@@ -5706,7 +5726,7 @@
     "desc":"Adds new player models and textures that make players look like ponies, in the style of the TV show My Little Pony: Friendship Is Magic. Once the mod is installed, you and all other players will look like ponies in both singleplayer and multiplayer. Players who aren't using a special pony skin will look like one of the background ponies from the show (as the default player skins are not fully compatible with this mod).",
     "author":"Verdana",
     "type":["Client"],
-    "dependencies":["Forge Compatible","Modloader"],
+    "dependencies":["Forge Compatible","Modloader Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
@@ -5727,7 +5747,7 @@
     "author":"WildBamaBoy",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Minecraft Ideas Mod",
@@ -5787,7 +5807,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required","PowerCrystals Core"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"MineFantasy",
@@ -6427,7 +6447,7 @@
     "author":"Mr_Crayfish",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"MudMod",
@@ -6607,7 +6627,7 @@
     "author":"JinRyuu",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Naruto Shippuden Mod",
@@ -6657,7 +6677,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required","PowerCrystals Core"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"NetherStuffs",
@@ -7167,7 +7187,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Power of the Elements",
@@ -7207,7 +7227,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"PowerIron",
@@ -7753,11 +7773,11 @@
     "name":"Secret Rooms Mod",
     "other":"",
     "link":"http://bit.ly/XemEC1",
-    "desc":"",
+    "desc":"Adds a variety of cool blocks that camouflage themselves to the surrounding world. All of these blocks have extremely useful functions that allow you to simply hide your diamonds, or punish all who dare try to get to them. Hidden doors, pressure plates, hidden levers and more!",
     "author":"AbrarSyed",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Secure, Craft, Protect",
@@ -8457,7 +8477,7 @@
     "author":"aginsun",
     "type":["SSP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Tale of Kingdoms 2",
@@ -8467,7 +8487,7 @@
     "author":"aginsun",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Team Fortress 2 Mods",
@@ -8687,7 +8707,7 @@
     "author":"poiuytrezay",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"The Ether Mod",
@@ -9047,7 +9067,7 @@
     "author":"StrangeOne101",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Throwing Stones",
@@ -9208,6 +9228,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Translocator",
+    "other":"",
+    "link":"http://bit.ly/13nzgIr",
+    "desc":"Adds an attachment for chests that cause contents in the chest to be moved to a different chest within a one block space.",
+    "author":"chicken_bones",
+    "type":["Universal"],
+    "dependencies":["Forge Required","CodeChickenCore Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Trapcraft",
@@ -9398,6 +9428,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
+    "name":"Upgrade Pickaxe Mod",
+    "other":"",
+    "link":"http://bit.ly/10Hy0Ps",
+    "desc":"Adds upgraded versions of each type of pickaxe, chich are 2x as fast and durable.",
+    "author":"0012saab",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Urban Mod",
