@@ -47,7 +47,7 @@
     "author":"Maexx97",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[Buildcraft] Compact Mobs",
@@ -83,7 +83,7 @@
     "name":"[Buildcraft] Logistics Pipes",
     "other":"",
     "link":"http://bit.ly/Wmu2J1",
-    "desc":"",
+    "desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
     "author":"thezorro266",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
@@ -307,7 +307,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Advanced Machines Original",
@@ -525,9 +525,9 @@
     "link":"http://bit.ly/UvHNeb",
     "desc":"",
     "author":"LostCoder",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Nuclear Control",
@@ -563,11 +563,11 @@
     "name":"[IndustrialCraft 2] QuantumPack",
     "other":"",
     "link":"http://bit.ly/UvGThA",
-    "desc":"",
+    "desc":"Adds storage for quantum energy.",
     "author":"LostCoder",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Transformers",
@@ -768,16 +768,6 @@
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
-  },
-  {
-    "name":"Advanced Machines",
-    "other":"",
-    "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907",
-    "desc":"",
-    "author":"AtomicStryker",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
   },
   {
     "name":"Adventure Kit",
@@ -1297,7 +1287,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"BearGrylls Mod",
@@ -1990,10 +1980,10 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"Chert Craft",
+    "name":"Chert Craft Mod",
     "other":"",
     "link":"http://bit.ly/YuGyqx",
-    "desc":"This mod adds new stone to your world that you can mine and craft from. The mew stone generates in random sizes ranging from very small to large. it currently includes four tool and four armor sets available to craft with balanced specs to fit into the vanilla world.",
+    "desc":"Chert Craft adds a few new stone ores to mine and build with, including five tool and five armor sets with specs that mesh well with vanilla Minecraft. Watch out while mining in the dark, unstable chert explodes when mined and may knock you off a cliff to your death, but is quite useful making torches and smelting stuff in the furnace. The Nether now has chert, though it may be hard to find if you only look on the surface. Also included are a group of non-throwable spears. There is a chert ore that grows on trees (Only naturally generated trees, user generated trees do not get chert, more conditions apply).",
     "author":"Kinyoshi",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
@@ -2900,10 +2890,10 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
-    "name":"Desert Cotton Plant",
+    "name":"Desert Cotton Mod",
     "other":"",
     "link":"http://bit.ly/XvcK11",
-    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to make that bed with no sheep to get wool from? Then this mod is for you!",
+    "desc":"Spawns a new ore block in stone, sand, dirt and grass. You smelt the Bone Ore in the furnace to get Bonemeal. If you have Kinyoshi's Chert Craft Mod or Kinyoshi's Craft Gunpowder Mod then you can use the bonemeal to craft gunpowder.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
@@ -3157,7 +3147,7 @@
     "author":"AtomicStryker",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Dynamic Mazes",
@@ -3177,7 +3167,7 @@
     "author":"mikeprimm",
     "type":["SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Easier Skeletons Mod",
@@ -3817,7 +3807,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Fireplace Mod",
@@ -4077,7 +4067,7 @@
     "author":"Luke",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"FriendsOverlay",
@@ -4157,7 +4147,7 @@
     "author":"RobZ51",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"GenCreator",
@@ -4837,7 +4827,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"InfiCraft",
@@ -5107,7 +5097,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Keyhole Mod",
@@ -5497,7 +5487,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Magical Crops",
@@ -5907,7 +5897,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Minor Alchemy",
@@ -6477,7 +6467,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Multi Page Chest",
@@ -7057,7 +7047,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Pfaeff's Mod",
@@ -7657,7 +7647,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Rotten Flesh to Leather",
@@ -7697,7 +7687,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"S.T.F.U.",
@@ -7927,7 +7917,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Simply Horses",
@@ -8257,7 +8247,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Star Wars Mod",
@@ -8558,6 +8548,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"[Thaumcraft 3] Thaumic Tinkerer",
+    "other":"",
+    "link":"http://bit.ly/12L9teo",
+    "desc":"A spiritual successor to my Elemental Tinkerer mod, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft researches. As of the current release, there are 18 new things you can research, 2 of them being from Knowledge Fragments. Researches that come from this mod are prefixed as [TT] for easy labelling.",
+    "author":"Vazkii",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"The Airship Mod",
