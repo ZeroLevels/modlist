@@ -297,7 +297,7 @@
     "author":"MysteriousAges",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Advanced Machines",
@@ -837,7 +837,7 @@
     "author":"Sopwith",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"All-U-Want Inventory Editor",
@@ -883,7 +883,7 @@
     "name":"Ancient Tree Root Mod",
     "other":"",
     "link":"http://bit.ly/151I1gK",
-    "desc":"Adds the new block Ancient Tree Root, They spawn in dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal.",
+    "desc":"Do you play with large biomes, or spawned/traveled to a new world on an island without any trees and no islands anywhere near? Do you ever wonder ''Now how the hell am I supposed to survive without any possible way to obtain wood or sticks??'' Then this mod is for you!<br/><br/>Spawns a new ore block in stone, dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal. You can also use a wooden axe to get seeds instead of the normal drop.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -1750,6 +1750,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Bucket of Jam Mod",
+    "other":"",
+    "link":"http://bit.ly/11szjkw",
+    "desc":"Adds blocks, items, tools, armour, and weapons made of Jam.",
+    "author":"HarkisGaming",
+    "type":["SSP"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"BuddyCam",
     "other":"",
     "link":"http://bit.ly/VDYvG4",
@@ -2130,6 +2140,16 @@
     "versions":["1.5.1"]
   },
   {
+    "name":"Civil War",
+    "other":"",
+    "link":"http://bit.ly/12SWNBX",
+    "desc":"A mod based around the American Civil War.",
+    "author":"WillBaker12",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible","Modloader"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"CJB API",
     "other":"(Dependency)",
     "link":"http://bit.ly/cjbmodsr",
@@ -2450,7 +2470,7 @@
     "versions":["1.5.1"]
   },
   {
-    "name":"Corn Nuts",
+    "name":"Corn Nuts Mod",
     "other":"",
     "link":"http://bit.ly/15Hk2SO",
     "desc":"Adds a new food item into your world, Corn Nuts!! These corn nuts are made using seeds for the basic variety of corn nuts. The special variety gives you a limited potion effect when eaten including water breathing, fire resistance, damage boost and jumping.",
@@ -2837,7 +2857,7 @@
     "author":"bluedart",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Davidee's Mods",
@@ -2953,7 +2973,7 @@
     "name":"Desert Cotton Mod",
     "other":"",
     "link":"http://bit.ly/XvcK11",
-    "desc":"Spawns a new ore block in stone, sand, dirt and grass. You smelt the Bone Ore in the furnace to get Bonemeal. If you have Kinyoshi's Chert Craft Mod or Kinyoshi's Craft Gunpowder Mod then you can use the bonemeal to craft gunpowder.",
+    "desc":"SDo you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you ever wonder ''Now how the heck am I going to make that bed with no sheep to get wool from???'' Then this mod is for you!<br/><br/>Cotton plants now grow in the desert. Use it in the furnace, craft it into wool or replant it to make more.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
@@ -2970,10 +2990,10 @@
     "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
-    "name":"Desert Grund Plant",
+    "name":"Desert Grund Mod",
     "other":"",
     "link":"http://bit.ly/YRCXnp",
-    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to plant seeds without having dirt to make soil? Then this mod is for you!",
+    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you ever wonder ''Now how the hell am I going to get or plant seeds without having dirt to make soil???'' Then this mod is for you!<br/><br/>Grund (Dirt) plants now grow in the desert. Use your fist to get dirt, use a wooden shovel so you can replant it somewhere else. You can also use a wooden hoe on the grassy top to guarantee the seed drops.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
@@ -2983,7 +3003,7 @@
     "name":"Desert Petrified Wood Mod",
     "other":"",
     "link":"http://bit.ly/151LcVx",
-    "desc":"Petrified Wood can be crafted into an axe and spear or put into a furnace to get Carbonized Wood which is used just like coal except lasts twice as long.",
+    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you find yourself getting excited when you get wood? Then this mod is for you!<br/><br/>Petrified Wood can be crafted into sticks, an axe or non-throwable spear and can be smelted in the furnace to get carbonized wood which is lasts longer than coal. It also spawns in other places than the desert.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -3970,7 +3990,7 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"FlintCraft",
+    "name":"Flint Craft Mod",
     "other":"",
     "link":"http://bit.ly/183rBV4",
     "desc":"Adds flint armour, tools, weapons and more.",
@@ -4457,7 +4477,7 @@
     "author":"Gwafu",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"GuiAPI",
@@ -4738,6 +4758,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
+    "name":"HUDini",
+    "other":"",
+    "link":"http://bit.ly/1427Mvq",
+    "desc":"A HUD mod that focuses on giving a relatively large amount of useful information, whilst attempting to utilize at little screen estate as possible, by dynamically changing the coordinates of items on-screen, depending on certain events. It also has a bunch of other helpful tools, including a text editor to take notes, jump calculations, and more!",
+    "author":"Teotoo",
+    "type":["Clientside Mod"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Huge Mushroom Spawn",
@@ -5637,7 +5667,7 @@
     "author":"Mark719",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Magical Experience",
@@ -6087,7 +6117,7 @@
     "author":"DrZhark",
     "type":["Universal"],
     "dependencies":["Forge Required","GuiAPI","Custom Mob Spawner"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Mo' Foliage",
@@ -6115,7 +6145,7 @@
     "link":"http://bit.ly/18pg6au",
     "desc":"A mod dedicated towards bringing more sophisticated, wide range of foods and food creation technology.",
     "author":"BentSpoonStudios",
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.0","1.5.1","1.5.2"]
   },
@@ -6386,7 +6416,7 @@
     "desc":"Gameplay and balance tweaks, better mod integration, and scripting support.",
     "author":"Grom PE",
     "type":["Universal"],
-    "dependencies":["Forge Compatible"],
+    "dependencies":["Forge Compatible", "Modloader Compatible"],
     "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
@@ -6700,7 +6730,7 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
-    "name":"Mushroom Torch",
+    "name":"Mushroom Torch Mod",
     "other":"",
     "link":"http://bit.ly/15dyxg3",
     "desc":"Adds two new torches into your game. The Red Mushroom Torch gives off light level at 12 and under, which is perfect for growing mushrooms indoors without having to worry about too much light killing your crop. The Brown Mushroom torch gives off light level at 4 and under, which is supposed to be the best light to grow mushrooms where you can still see. Unfortunately, monsters can still spawn with the use of these torches.",
@@ -6850,6 +6880,16 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"Nerd Weapons Mod",
+    "other":"",
+    "link":"http://bit.ly/1aHuskW",
+    "desc":"Adds multiple weapons from popular series' and franchises such as The Legend of Zelda.",
+    "author":"trentonjedi",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Nether Eye",
     "other":"",
     "link":"http://bit.ly/11Rud8a",
@@ -6987,7 +7027,7 @@
     "author":"Sopwith",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Not Enough Items (NEI)",
@@ -7280,6 +7320,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Pastries Mod",
+    "other":"",
+    "link":"http://bit.ly/10DXP6T",
+    "desc":"A work-in-progress mod that adds several pies, and 2 pastries so far.",
+    "author":"ppaxson",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Pet Bat",
     "other":"",
     "link":"http://bit.ly/as-petbats",
@@ -7357,7 +7407,7 @@
     "author":"Divisor",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Player Heads",
@@ -7837,7 +7887,7 @@
     "author":"Divisor",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Reptile Mod",
@@ -7978,6 +8028,16 @@
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
     "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"Scenter",
+    "other":"",
+    "link":"http://bit.ly/11crmRJ",
+    "desc":"Lets you easily find nearby ores like coal, iron, diamond, and more. Just follow the colored particle trail that leads you directly to your target ore.",
+    "author":"MickKay",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Schematica",
@@ -8287,7 +8347,7 @@
     "author":"Divisor",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Smart Spawn Mod",
@@ -8357,7 +8417,7 @@
     "author":"MCVoxelSH",
     "type":["SSP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Sophisticated Wolves",
@@ -8573,7 +8633,7 @@
     "name":"Stick To Plank Mod",
     "other":"",
     "link":"http://bit.ly/YONHXU",
-    "desc":"Adds a simple crafting recipe recipe to craft sticks into one wooden plank.",
+    "desc":"Adds a simple crafting recipe to craft sticks into wooden planks.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -8593,7 +8653,7 @@
     "name":"Stone Basin Biome",
     "other":"",
     "link":"http://bit.ly/ZpV9Vb",
-    "desc":"Adds a stone biome.",
+    "desc":"Adds a stone biome that is somewhat flat with water, some small animals and usually no monsters. Mushrooms and lily-pads are usually plentiful. Goes well with Kinyoshi's Chert Craft Mod.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -9177,7 +9237,7 @@
     "author":"LiamR99",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"The Runic Dust Mod",
@@ -9377,7 +9437,7 @@
     "author":"TehKrush",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Tinkers' Construct",
@@ -9417,7 +9477,7 @@
     "author":"MinecraftTNTstuff",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"TooManyItems",
@@ -9477,7 +9537,7 @@
     "author":"Niconiko",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Trail Mix",
@@ -10153,7 +10213,7 @@
     "name":"Wool To String Mod",
     "other":"",
     "link":"http://bit.ly/YgpQwH",
-    "desc":"Adds a simple crafting recipe to craft two wool blocks into six string.",
+    "desc":"Adds a simple crafting recipe to craft two wool blocks diagonally to get string.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
