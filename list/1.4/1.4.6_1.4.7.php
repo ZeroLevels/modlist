@@ -12,8 +12,15 @@ include('../../resources/scripts/jsontable.php');
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/common.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/cloudy.css" media="screen" />
 </head>
 <body>
+
+<div id="bannerTop" title="Developer of ComputerCraft along with Dan200 - a mod for Minecraft">
+	<br/><a class="help" href="http://cloudhunter.co.uk/post/51553893017/an-appeal-please-help-me-rescue-my-daughter">&nbsp;Please help Cloudy rescue his daughter!&nbsp;</a>
+	<br/>Visit the above URL to read the details. Please consider making a donation to <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3NL5NDTHGF4FW">Save Vanessa!</a><br/>Keep up to date with the situation by checking out <a href="https://twitter.com/Cloudhunter">Cloudy's Twitter</a>.
+</div>
+
 <p>
 	<img src="../../resources/images/<?php echo $version; ?>.png" width="290" height="58"/><br/>
 	<span style="font-size:200%">Last Updated: <?php $content = file('changelog_'.$version.'.html'); echo $content[1]; ?></span><br/><a href="changelog_<?php echo $version; ?>.html" class="ns">Click here</a> to view the changelog.

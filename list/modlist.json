@@ -47,7 +47,7 @@
     "author":"Maexx97",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[Buildcraft] Compact Mobs",
@@ -83,11 +83,11 @@
     "name":"[Buildcraft] Logistics Pipes",
     "other":"",
     "link":"http://bit.ly/Wmu2J1",
-    "desc":"",
+    "desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
     "author":"thezorro266",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[Buildcraft] MineChem",
@@ -297,17 +297,17 @@
     "author":"MysteriousAges",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Advanced Machines",
     "other":"",
     "link":"http://bit.ly/xmvYp1",
-    "desc":"",
+    "desc":"Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
     "author":"AtomicStryker",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Advanced Machines Original",
@@ -525,9 +525,9 @@
     "link":"http://bit.ly/UvHNeb",
     "desc":"",
     "author":"LostCoder",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Nuclear Control",
@@ -563,11 +563,11 @@
     "name":"[IndustrialCraft 2] QuantumPack",
     "other":"",
     "link":"http://bit.ly/UvGThA",
-    "desc":"",
+    "desc":"Adds storage for quantum energy.",
     "author":"LostCoder",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Transformers",
@@ -637,7 +637,7 @@
     "author":"Calclavia",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[Universal Electricity] Atomic Science",
@@ -647,7 +647,7 @@
     "author":"Calclavia",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[Universal Electricity] Biotech",
@@ -657,7 +657,7 @@
     "author":"LiQuiD",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"[Universal Electricity] Blastcraft",
@@ -687,7 +687,7 @@
     "author":"Mattredsox and Alex_Hawks",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[Universal Electricity] Fluid Mechanics",
@@ -707,7 +707,7 @@
     "author":"Calclavia",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[Universal Electricity] Mekanism",
@@ -717,7 +717,7 @@
     "author":"aidancbrady",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[Universal Electricity] MineChem",
@@ -727,7 +727,7 @@
     "author":"Rushmead",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"[Universal Electricity] Modular Powersuits",
@@ -738,6 +738,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Additional Crafting",
+    "other":"",
+    "link":"http://bit.ly/117u1iu",
+    "desc":"Adds more blocks and crafting recipes to the game.",
+    "author":"Chibill",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Additional Pipes",
@@ -768,16 +778,6 @@
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
-  },
-  {
-    "name":"Advanced Machines",
-    "other":"",
-    "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907",
-    "desc":"",
-    "author":"AtomicStryker",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
   },
   {
     "name":"Adventure Kit",
@@ -837,7 +837,7 @@
     "author":"Sopwith",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"All-U-Want Inventory Editor",
@@ -877,13 +877,13 @@
     "author":"AaronLardenoye",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Ancient Tree Root Mod",
     "other":"",
     "link":"http://bit.ly/151I1gK",
-    "desc":"Adds the new block Ancient Tree Root, They spawn in dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal.",
+    "desc":"Do you play with large biomes, or spawned/traveled to a new world on an island without any trees and no islands anywhere near? Do you ever wonder ''Now how the hell am I supposed to survive without any possible way to obtain wood or sticks??'' Then this mod is for you!<br/><br/>Spawns a new ore block in stone, dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal. You can also use a wooden axe to get seeds instead of the normal drop.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -920,14 +920,14 @@
     "versions":["1.4.4","1.4.5"]
   },
   {
-    "name":"Animated Player",
+    "name":"Animated Player Mod",
     "other":"",
     "link":"http://bit.ly/14rfMZG",
     "desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
     "author":"thehippomaster21",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"AntiSteve",
@@ -967,7 +967,7 @@
     "author":"Iron_Pike",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Armor Bar Mod",
@@ -1027,7 +1027,7 @@
     "author":"Mithion",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Asgard Shield: Sword -n- Board Action",
@@ -1157,7 +1157,7 @@
     "author":"Hurricaaane",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Aurora Rubealis",
@@ -1227,7 +1227,7 @@
     "author":"iChun",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Backpacks",
@@ -1237,7 +1237,7 @@
     "author":"Eydamos",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Bacon Mod",
@@ -1297,7 +1297,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"BearGrylls Mod",
@@ -1350,6 +1350,16 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
+    "name":"Better Bows Mod",
+    "other":"",
+    "link":"http://bit.ly/18MTscl",
+    "desc":"Adds two new bows, various new arrow types, and quivers to hold arrows and allow you to easily switch between arrow types to fire.",
+    "author":"Zaggy1024",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Better Breeding Mod",
     "other":"",
     "link":"http://bit.ly/13cbYXT",
@@ -1362,12 +1372,12 @@
   {
     "name":"Better Dungeons",
     "other":"",
-    "link":"http://bit.ly/YeKc9x",
+    "link":"http://bit.ly/12pF8SA",
     "desc":"Adds many, many new dungeons, challenges, and treasures to the game.",
     "author":"Chocolatin",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Better Farming",
@@ -1527,7 +1537,7 @@
     "author":"Nuchaz",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"BigTrees",
@@ -1740,6 +1750,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Bucket of Jam Mod",
+    "other":"",
+    "link":"http://bit.ly/11szjkw",
+    "desc":"Adds blocks, items, tools, armour, and weapons made of Jam.",
+    "author":"HarkisGaming",
+    "type":["SSP"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"BuddyCam",
     "other":"",
     "link":"http://bit.ly/VDYvG4",
@@ -1808,6 +1828,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Butterfly Mania",
+    "other":"",
+    "link":"http://bit.ly/Zrnwsr",
+    "desc":"Adds over 150 unique, naturally spawning Butterflies with semi-intelligent behaviors that you can collect and decorate your home with. Research spawning grounds and catalog your catches in your encyclopedia!",
+    "author":"TyronX",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Calendar GUI",
@@ -1937,7 +1967,7 @@
     "author":"Jade Knightblazer",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Chat Bubbles",
@@ -1980,10 +2010,10 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"Chert Craft",
+    "name":"Chert Craft Mod",
     "other":"",
     "link":"http://bit.ly/YuGyqx",
-    "desc":"This mod adds new stone to your world that you can mine and craft from. The mew stone generates in random sizes ranging from very small to large. it currently includes four tool and four armor sets available to craft with balanced specs to fit into the vanilla world.",
+    "desc":"Chert Craft adds a few new stone ores to mine and build with, including five tool and five armor sets with specs that mesh well with vanilla Minecraft. Watch out while mining in the dark, unstable chert explodes when mined and may knock you off a cliff to your death, but is quite useful making torches and smelting stuff in the furnace. The Nether now has chert, though it may be hard to find if you only look on the surface. Also included are a group of non-throwable spears. There is a chert ore that grows on trees (Only naturally generated trees, user generated trees do not get chert, more conditions apply).",
     "author":"Kinyoshi",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
@@ -2016,7 +2046,7 @@
     "desc":"Adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around. Works in singleplayer as well.",
     "author":"chicken_bones",
     "type":["Universal"],
-    "dependencies":["Forge Required","CodeChickenCore"],
+    "dependencies":["Forge Required","CodeChickenCore Required"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
@@ -2037,7 +2067,7 @@
     "author":"AUTOMATIC_MAIDEN",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Chocolate Mod",
@@ -2102,12 +2132,22 @@
   {
     "name":"chylex's Minimods",
     "other":"",
-    "link":"http://bit.ly/13nGTC7",
+    "link":"http://bit.ly/17W8Phi",
     "desc":"A collection of mini mods to  enhance your Minecraft world.",
     "author":"chylex",
     "type":["N/A"],
     "dependencies":["Forge Compatible"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Civil War",
+    "other":"",
+    "link":"http://bit.ly/12SWNBX",
+    "desc":"A mod based around the American Civil War.",
+    "author":"WillBaker12",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible","Modloader"],
+    "versions":["1.5.2"]
   },
   {
     "name":"CJB API",
@@ -2138,6 +2178,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Clay Spawn",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds in clay deposits underground with the frequency and density of iron deposits.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Clay Tools",
@@ -2193,7 +2243,7 @@
     "name":"CodeChickenCore",
     "other":"(Dependency)",
     "link":"http://bit.ly/cb-core",
-    "desc":"This mod is required for Not Enough Items (NEI), Ender Storage, and ChickenChunks.",
+    "desc":"This mod is required for Not Enough Items (NEI), Ender Storage, Translocator, and ChickenChunks.",
     "author":"chicken_bones",
     "type":["Universal"],
     "dependencies":["Forge Required"],
@@ -2218,6 +2268,16 @@
     "type":["N/A"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"ColorCraft",
+    "other":"",
+    "link":"http://bit.ly/13fr6Dl",
+    "desc":"Adds an item called 'Eraser'. If you put this item and colored wool in the crafting-fields, you'll get white wool out.",
+    "author":"PerryFS",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Colored Glass",
@@ -2248,6 +2308,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Coloured Diamonds Mod",
+    "other":"",
+    "link":"http://bit.ly/16KOEFd",
+    "desc":"Adds coloured diamond gems and tools to the game.",
+    "author":"schoolboy917",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1"]
   },
   {
     "name":"Combat Bars",
@@ -2300,6 +2370,16 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Complication Craft",
+    "other":"",
+    "link":"http://bit.ly/16n65MV",
+    "desc":"Makes things in already in-game more complicated.",
+    "author":"dude22072",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Compressed Cobblestone",
     "other":"",
     "link":"http://bit.ly/ZLJ2oC",
@@ -2317,7 +2397,7 @@
     "author":"dan200",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Condensed Blocks Mod",
@@ -2370,6 +2450,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"CoolFood",
+    "other":"",
+    "link":"http://bit.ly/13fr6Dl",
+    "desc":"Adds many new edible items, for example burger, pommes and scrambled eggs.",
+    "author":"PerryFS",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Coral Reef Mod",
     "other":"",
     "link":"http://bit.ly/16QCciD",
@@ -2380,7 +2470,7 @@
     "versions":["1.5.1"]
   },
   {
-    "name":"Corn Nuts",
+    "name":"Corn Nuts Mod",
     "other":"",
     "link":"http://bit.ly/15Hk2SO",
     "desc":"Adds a new food item into your world, Corn Nuts!! These corn nuts are made using seeds for the basic variety of corn nuts. The special variety gives you a limited potion effect when eaten including water breathing, fire resistance, damage boost and jumping.",
@@ -2537,7 +2627,7 @@
     "author":"Guff",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"CreepersNoCreeping",
@@ -2743,7 +2833,7 @@
     "name":"Dark Messiah's Mods",
     "other":"",
     "link":"http://bit.ly/1432n72",
-    "desc":"",
+    "desc":"Adds new tools, such as obsidian tools, and netherrium tools and it also adds new armors, and new blocks like netherrium block (decorative) and new ore (netherrium ore). The mods also add new mob whos name is John, he lives in jungle biome and spawns around his house.",
     "author":"dark_messiah",
     "type":["N/A"],
     "dependencies":["Forge Required"],
@@ -2758,6 +2848,16 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"DartCraft",
+    "other":"",
+    "link":"http://bit.ly/12vM4gK",
+    "desc":"Adds one, and only one new ore to Minecraft: Power Ore.  When you mine this ore you receive 2-4 'Force Gems' (fortune affects this) which can be used to create Force Ingots from which specialty tools are crafted, or even squeezed into Liquid Force which can be used in several DartCraft machines.  Uses for Liquid Force range from using it to imbue your Force Tools with special upgrades and enhancements, or even powering a Force Engine to generate BuildCraft energy.",
+    "author":"bluedart",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Davidee's Mods",
@@ -2807,7 +2907,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Death Chest",
@@ -2827,7 +2927,7 @@
     "author":"iChun",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Death Scythe",
@@ -2870,20 +2970,30 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
-    "name":"Desert Cotton Plant",
+    "name":"Desert Cotton Mod",
     "other":"",
     "link":"http://bit.ly/XvcK11",
-    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to make that bed with no sheep to get wool from? Then this mod is for you!",
+    "desc":"SDo you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you ever wonder ''Now how the heck am I going to make that bed with no sheep to get wool from???'' Then this mod is for you!<br/><br/>Cotton plants now grow in the desert. Use it in the furnace, craft it into wool or replant it to make more.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
-    "name":"Desert Grund Plant",
+    "name":"Desert Craft",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Contains sixteen cactus/desert plants, cactus armor, cactus tools, sandstone tools, glass steel, glass steel window, and glass steel tools. Also includes a recipe to turn cactus blocks into planks for better desert living.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
+    "name":"Desert Grund Mod",
     "other":"",
     "link":"http://bit.ly/YRCXnp",
-    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you wonder how you're going to plant seeds without having dirt to make soil? Then this mod is for you!",
+    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you ever wonder ''Now how the hell am I going to get or plant seeds without having dirt to make soil???'' Then this mod is for you!<br/><br/>Grund (Dirt) plants now grow in the desert. Use your fist to get dirt, use a wooden shovel so you can replant it somewhere else. You can also use a wooden hoe on the grassy top to guarantee the seed drops.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
@@ -2893,7 +3003,7 @@
     "name":"Desert Petrified Wood Mod",
     "other":"",
     "link":"http://bit.ly/151LcVx",
-    "desc":"Petrified Wood can be crafted into an axe and spear or put into a furnace to get Carbonized Wood which is used just like coal except lasts twice as long.",
+    "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you find yourself getting excited when you get wood? Then this mod is for you!<br/><br/>Petrified Wood can be crafted into sticks, an axe or non-throwable spear and can be smelted in the furnace to get carbonized wood which is lasts longer than coal. It also spawns in other places than the desert.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -3043,11 +3153,11 @@
     "name":"Dragon Mounts",
     "other":"",
     "link":"http://bit.ly/Shmlc3",
-    "desc":"",
+    "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
     "author":"BarracudaATA",
-    "type":["N/A"],
+    "type":["SSP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Duel Tool Mod",
@@ -3067,7 +3177,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Dungeon Mobs",
@@ -3077,7 +3187,7 @@
     "author":"GnomeWorks",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"DungeonPack",
@@ -3117,7 +3227,7 @@
     "author":"AtomicStryker",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Dynamic Mazes",
@@ -3137,7 +3247,7 @@
     "author":"mikeprimm",
     "type":["SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Easier Skeletons Mod",
@@ -3198,6 +3308,26 @@
     "type":["N/A"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
+  },
+  {
+    "name":"Extra Building Materials",
+    "other":"(EBM)",
+    "link":"http://bit.ly/12LpFfg",
+    "desc":"Brings new forms of  building materials and decorations to the game with more to come.",
+    "author":"Yellbana",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
+    "name":"Extra Diamonds Mod",
+    "other":"",
+    "link":"http://bit.ly/10yej0f",
+    "desc":"Adds diamonds of different colors to the game.",
+    "author":"abqzach3",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Edible Ores Mod",
@@ -3337,7 +3467,7 @@
     "author":"mssodin28",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"EnchantView",
@@ -3500,6 +3630,16 @@
     "versions":["1.5.1"]
   },
   {
+    "name":"ExpandedWeaponry",
+    "other":"",
+    "link":"http://bit.ly/ZciGNy",
+    "desc":"Adds 256 new weapons you get as dungeon loot.",
+    "author":"petterroea",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1"]
+  },
+  {
     "name":"Explosives+",
     "other":"",
     "link":"http://bit.ly/11XE9Z2",
@@ -3557,7 +3697,7 @@
     "author":"RWTema",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Extra-Blocks mod",
@@ -3577,7 +3717,7 @@
     "author":"MisterFiber",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"ExtraneousCraft",
@@ -3743,11 +3883,11 @@
     "name":"Ferullo's Gun Mod",
     "other":"",
     "link":"http://bit.ly/V23Ib8",
-    "desc":"",
+    "desc":"Adds a lot of modern guns to the game.",
     "author":"f3rullo14",
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"FewerRavines/LessCaves",
@@ -3777,7 +3917,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Fireplace Mod",
@@ -3817,7 +3957,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required","PowerCrystals Core"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Flat Bedrock Layer",
@@ -3850,7 +3990,7 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"FlintCraft",
+    "name":"Flint Craft Mod",
     "other":"",
     "link":"http://bit.ly/183rBV4",
     "desc":"Adds flint armour, tools, weapons and more.",
@@ -3928,6 +4068,16 @@
     "type":["Client"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Food Plus",
+    "other":"",
+    "link":"http://bit.ly/151zCrn",
+    "desc":"Adds more food so you can get more variety and options to eat.",
+    "author":"JoseTheCrafter",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Fools Gold Mod",
@@ -4037,7 +4187,7 @@
     "author":"Luke",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"FriendsOverlay",
@@ -4117,7 +4267,7 @@
     "author":"RobZ51",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"GenCreator",
@@ -4128,6 +4278,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Get all the Seeds!",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Makes all the seeds in the game in addition to wheat drop from tall grass.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Gizmos",
@@ -4225,7 +4385,7 @@
     "link":"http://bit.ly/XSirsO",
     "desc":"Adds a gravestone to the game, which spawns after player`s death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot.The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.",
     "author":"NightKosh",
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Required","Modloader","Player API"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
@@ -4237,7 +4397,7 @@
     "author":"iChun",
     "type":["Universal"],
     "dependencies":["Forge Required","iChun Util"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Green Thumb Mod",
@@ -4313,11 +4473,11 @@
     "name":"GrowthCraft",
     "other":"",
     "link":"http://bit.ly/Xxl3HK",
-    "desc":"",
+    "desc":"A compilation of mods created by one developer which aims to add more features and improve the agriculture/farming aspect of Mojang's game MineCraft while still keeping its simplicity and avoiding overcomplicating it.",
     "author":"Gwafu",
-    "type":["N/A"],
+    "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"GuiAPI",
@@ -4337,7 +4497,7 @@
     "author":"UncleMion",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Hardcore Enderdragon",
@@ -4370,14 +4530,34 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"HarvestCraft",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds in over TWO HUNDRED AND FIFTY new foods and recipes using new cooking tools using only vanilla Minecraft materials and crops.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
     "name":"Hats",
     "other":"",
     "link":"http://bit.ly/14814a3",
     "desc":"Adds an Aesthetic feature onto players, namely Hats! Comes pre-packaged with 77 hats which will automatically get installed when the mod is run for the first time.",
     "author":"iChun",
+    "type":["Clientside Mod"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"[Hats] Hat Stand",
+    "other":"",
+    "link":"http://bit.ly/14814a3",
+    "desc":"Adds a single block item, a Hat Stand.",
+    "author":"iChun",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Hawk's Machinery",
@@ -4437,7 +4617,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Health Packs",
@@ -4487,7 +4667,7 @@
     "author":"burnner_",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Heuristix's TheGunMod",
@@ -4568,6 +4748,36 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Household Gods",
+    "other":"",
+    "link":"http://bit.ly/106exeU",
+    "desc":"Makes exploration exciting again by adding 16 statues for you to discover, randomly generated to produce thousands of unique results, each of which affects the world around it in its own individual way. Discover dangerous statues, helpful statues, and just plain weird ones! MIX and MATCH pieces to create NEW EFFECTS!",
+    "author":"thisguyisjoe",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
+    "name":"HUDini",
+    "other":"",
+    "link":"http://bit.ly/1427Mvq",
+    "desc":"A HUD mod that focuses on giving a relatively large amount of useful information, whilst attempting to utilize at little screen estate as possible, by dynamically changing the coordinates of items on-screen, depending on certain events. It also has a bunch of other helpful tools, including a text editor to take notes, jump calculations, and more!",
+    "author":"Teotoo",
+    "type":["Clientside Mod"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Huge Mushroom Spawn",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds giant red and brown mushroom spawns across several biomes.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Huge Trees are Huge",
@@ -4657,7 +4867,7 @@
     "author":"iChun",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"ID Resolver",
@@ -4757,7 +4967,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"InfiCraft",
@@ -4783,11 +4993,11 @@
     "name":"InGame Info XML",
     "other":"",
     "link":"http://bit.ly/Sw1AcJ",
-    "desc":"Display various information directly only you ingame screen.",
+    "desc":"Display various information directly on your ingame screen.",
     "author":"Lunatrius",
     "type":["Client"],
-    "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "dependencies":["Forge Compatible","Modloader Compatible"],
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Ingame Mod List",
@@ -4830,6 +5040,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"InstantBlocks",
+    "other":"",
+    "link":"http://www.minecraftforum.net/topic/1802788-",
+    "desc":"Adds several craftable blocks to the game that create instant structures when placed and activated.",
+    "author":"Slymask3",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Instant Repeaters Mod",
     "other":"",
     "link":"http://bit.ly/VFEkaX",
@@ -4847,7 +5067,7 @@
     "author":"Lieu",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Inventory Tweaks",
@@ -4857,7 +5077,17 @@
     "author":"Kobata",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Invincible Hamster",
+    "other":"",
+    "link":"http://bit.ly/13b0vsE",
+    "desc":"Lets hamsters spawn in your world. When you tame them with flowers, they become invincible hamsters, with a never ending hate for iron bars.",
+    "author":"Ivorius",
+    "type":["SSP"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"iPod mod",
@@ -4887,7 +5117,7 @@
     "author":"chrisk123999",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Item Soup Dos",
@@ -4937,7 +5167,7 @@
     "author":"Jammy780",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Jelly Cubes",
@@ -5027,7 +5257,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Keyhole Mod",
@@ -5127,7 +5357,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"LavaBoat",
@@ -5148,6 +5378,16 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
+  },
+  {
+    "name":"Legend of Zelda Mod",
+    "other":"",
+    "link":"http://bit.ly/16ndZWL",
+    "desc":"Adds items from The Legend of Zelda to tha game.",
+    "author":"dude22072",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Legendary Beasts",
@@ -5263,11 +5503,11 @@
     "name":"LittleBlocks",
     "other":"",
     "link":"http://bit.ly/UR3eUm",
-    "desc":"",
+    "desc":"Allows you to polish up your creativity and optimize your redstone systems. Indeed, the size of blocks placed in a little blocks is divided by eight compared to its original size, so you can place 512 blocks instead of one. Be careful though with the size of your creations because the resources (memory, gpu / cpu ...) increases proportionally with it.",
     "author":"VengeurK",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"littleMaidMob",
@@ -5317,7 +5557,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Lots of Food",
@@ -5417,7 +5657,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Magical Crops",
@@ -5427,7 +5667,7 @@
     "author":"Mark719",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Magical Experience",
@@ -5477,7 +5717,7 @@
     "author":"Hurricaaane",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"MCAbilities",
@@ -5560,6 +5800,16 @@
     "versions":["1.5.0"]
   },
   {
+    "name":"Melon Spawn",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds melon patches in the world similar to pumpkin patches in forest, plains, swamp, ocean, and jungle biomes.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
     "name":"Metal Rods",
     "other":"",
     "link":"http://bit.ly/TGtVeq",
@@ -5588,6 +5838,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"Middleage Mod",
+    "other":"",
+    "link":"http://bit.ly/13b0vsE",
+    "desc":"Adds middleage themed content to the game.",
+    "author":"Ivorius",
+    "type":["SSP"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Millenaire",
@@ -5636,7 +5896,7 @@
     "desc":"Adds new player models and textures that make players look like ponies, in the style of the TV show My Little Pony: Friendship Is Magic. Once the mod is installed, you and all other players will look like ponies in both singleplayer and multiplayer. Players who aren't using a special pony skin will look like one of the background ponies from the show (as the default player skins are not fully compatible with this mod).",
     "author":"Verdana",
     "type":["Client"],
-    "dependencies":["Forge Compatible","Modloader"],
+    "dependencies":["Forge Compatible","Modloader Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
@@ -5657,7 +5917,7 @@
     "author":"WildBamaBoy",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Minecraft Ideas Mod",
@@ -5717,7 +5977,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required","PowerCrystals Core"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"MineFantasy",
@@ -5727,7 +5987,7 @@
     "author":"AnonymousProductions",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"MineFantasy: Renaissance",
@@ -5737,7 +5997,17 @@
     "author":"AnonymousProductions",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"MineForever",
+    "other":"",
+    "link":"http://bit.ly/18wA7eC",
+    "desc":"Provides a balanced, realistic, high-tech method of securing your valuables and property.",
+    "author":"Briman",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Minekawaii",
@@ -5817,7 +6087,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Minor Alchemy",
@@ -5827,7 +6097,7 @@
     "author":"Guff",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Mithril",
@@ -5847,7 +6117,7 @@
     "author":"DrZhark",
     "type":["Universal"],
     "dependencies":["Forge Required","GuiAPI","Custom Mob Spawner"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Mo' Foliage",
@@ -5875,7 +6145,7 @@
     "link":"http://bit.ly/18pg6au",
     "desc":"A mod dedicated towards bringing more sophisticated, wide range of foods and food creation technology.",
     "author":"BentSpoonStudios",
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.0","1.5.1","1.5.2"]
   },
@@ -5907,7 +6177,7 @@
     "author":"coocoo617",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Moar Achievements Redux",
@@ -5918,6 +6188,16 @@
     "type":["Client"],
     "dependencies":["Forge Required"],
     "versions":["1.4.2","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Moar Metals and Minerals",
+    "other":"",
+    "link":"http://bit.ly/12LX5dR",
+    "desc":"Adds many new ores, blocks, items, food, tools, and weapons with a unique take on adding more minerals.",
+    "author":"Awesomelf44",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Moar Stuff Mod",
@@ -5937,7 +6217,7 @@
     "author":"iChun",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Mob Dismemberment",
@@ -5947,7 +6227,7 @@
     "author":"iChun",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Mob Filter Mod",
@@ -6057,7 +6337,17 @@
     "author":"Lunatrius",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"More Blocks",
+    "other":"",
+    "link":"http://bit.ly/1avOwXq",
+    "desc":"Adds more blocks, and a few items for certain blocks.",
+    "author":"MCE626",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"More Bows Mod",
@@ -6120,6 +6410,16 @@
     "versions":["1.5.1"]
   },
   {
+    "name":"More Fuel, Tweaks, and Everything",
+    "other":"",
+    "link":"http://bit.ly/ZkLR32",
+    "desc":"Gameplay and balance tweaks, better mod integration, and scripting support.",
+    "author":"Grom PE",
+    "type":["Universal"],
+    "dependencies":["Forge Compatible", "Modloader Compatible"],
+    "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
     "name":"More Furnaces",
     "other":"",
     "link":"http://bit.ly/13dry5y",
@@ -6128,6 +6428,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"More Gems Mod",
+    "other":"",
+    "link":"http://bit.ly/10ZtATa",
+    "desc":"Adds 4 new gems to the game which can be fount in the world and used to make tools.",
+    "author":"0012saab",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1"]
   },
   {
     "name":"More Health Enhanced",
@@ -6310,6 +6620,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Motion Blur Mod",
+    "other":"",
+    "link":"http://bit.ly/18q91rM",
+    "desc":"",
+    "author":"ZachShelly",
+    "type":["Clientside Mod"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Mouse Tweaks",
     "other":"",
     "link":"http://bit.ly/VxcJ9F",
@@ -6353,11 +6673,11 @@
     "name":"Mr_Crayfish's Furniture Mod",
     "other":"",
     "link":"http://bit.ly/12Y1tLl",
-    "desc":"Adds in what Minecraft has been missing for years, furniture! It includes over 30 pieces of furniture to decorate your bedroom, kitchen, living room and even your garden!",
+    "desc":"Adds in what Minecraft has been missing for years, furniture! It includes over 30 pieces of furniture to decorate your bedroom, kitchen, living room and even your garden! This mod also has an API which can be used in development of your mods to make them play more nicely alongside it.",
     "author":"Mr_Crayfish",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"MudMod",
@@ -6387,7 +6707,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Multi Page Chest",
@@ -6410,7 +6730,7 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
-    "name":"Mushroom Torch",
+    "name":"Mushroom Torch Mod",
     "other":"",
     "link":"http://bit.ly/15dyxg3",
     "desc":"Adds two new torches into your game. The Red Mushroom Torch gives off light level at 12 and under, which is perfect for growing mushrooms indoors without having to worry about too much light killing your crop. The Brown Mushroom torch gives off light level at 4 and under, which is supposed to be the best light to grow mushrooms where you can still see. Unfortunately, monsters can still spawn with the use of these torches.",
@@ -6437,7 +6757,7 @@
     "author":"Ktos94852",
     "type":["SSP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Mutant Biome",
@@ -6537,7 +6857,7 @@
     "author":"JinRyuu",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Naruto Shippuden Mod",
@@ -6557,7 +6877,17 @@
     "author":"mDiyo",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"Nerd Weapons Mod",
+    "other":"",
+    "link":"http://bit.ly/1aHuskW",
+    "desc":"Adds multiple weapons from popular series' and franchises such as The Legend of Zelda.",
+    "author":"trentonjedi",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Nether Eye",
@@ -6587,7 +6917,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required","PowerCrystals Core"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"NetherStuffs",
@@ -6697,7 +7027,7 @@
     "author":"Sopwith",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Not Enough Items (NEI)",
@@ -6760,6 +7090,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Obsidian+",
+    "other":"",
+    "link":"http://bit.ly/117jWlJ",
+    "desc":"Adds the capability of smelting obsidian blocks to turn them into ingots. This ingots can be used as any other ingot to make tools and armor. The Obsidian tools are 2 times stronger than diamond tools and the Armor will protect you 2 times more. Repairing the tools is possible by combining the damaged tool with an Obsidian Ingot using an anvil.",
+    "author":"Kvazos",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Obsidian Pressure Plates",
     "other":"",
     "link":"http://bit.ly/11K9MsD",
@@ -6818,6 +7158,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Ores Extended",
+    "other":"",
+    "link":"http://bit.ly/12pJdWD",
+    "desc":"Adds 7 new ores and 6 new tool sets to Minecraft.",
+    "author":"1jamie50",
+    "type":["SSP"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Original Beacons",
@@ -6900,6 +7250,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Palaria",
+    "other":"",
+    "link":"http://bit.ly/10DWl9l",
+    "desc":"Adds a lot of new content to the game, such as weapons, tools, and mobs.",
+    "author":"Coolgatty",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"PaleoCraft",
     "other":"",
     "link":"http://bit.ly/11uSwoI",
@@ -6910,6 +7270,16 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Pam Hates Snow",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Gets rid of all snowy biomes!  As such, it adds in several new recipes to allow you to make snow, pine trees, etc.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
     "name":"Pam's Mods",
     "other":"",
     "link":"http://bit.ly/VFL2O4",
@@ -6918,6 +7288,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Pandora's Box",
+    "other":"",
+    "link":"http://bit.ly/13b0vsE",
+    "desc":"Adds a new Item, the Pandora's box. It is now craftable, and spawns in dungeons, or you can just cheat it in if you want some... interesting times.",
+    "author":"Ivorius",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Parachute mod",
@@ -6940,6 +7320,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Pastries Mod",
+    "other":"",
+    "link":"http://bit.ly/10DXP6T",
+    "desc":"A work-in-progress mod that adds several pies, and 2 pastries so far.",
+    "author":"ppaxson",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Pet Bat",
     "other":"",
     "link":"http://bit.ly/as-petbats",
@@ -6947,7 +7337,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Pfaeff's Mod",
@@ -6983,11 +7373,11 @@
     "name":"Pixelmon",
     "other":"",
     "link":"http://bit.ly/VNVgsL",
-    "desc":"Adds 132 Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.",
+    "desc":"Adds 172 Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.",
     "author":"epicSplashBattle",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"PizzaCraft",
@@ -7017,7 +7407,7 @@
     "author":"Divisor",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Player Heads",
@@ -7027,7 +7417,7 @@
     "author":"FatherToast",
     "type":["Server"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Plugins for Forestry",
@@ -7067,7 +7457,7 @@
     "author":"iChun",
     "type":["Universal"],
     "dependencies":["Forge Required","iChun Util"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Power Converters",
@@ -7077,7 +7467,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Power of the Elements",
@@ -7117,7 +7507,7 @@
     "author":"power crystals",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"PowerIron",
@@ -7217,7 +7607,17 @@
     "author":"Guff",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Psychedelicraft",
+    "other":"(Adults Only)",
+    "link":"http://bit.ly/13b0vsE",
+    "desc":"Adds drugs into minecraft. You can farm them, buy them, and consume them. It uses shaders, so you can guess the effects are actually worth something. Beware, though: It may make you feel dizzy.",
+    "author":"",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Pumpkin-less Snow Golem",
@@ -7257,7 +7657,7 @@
     "author":"Cali Alec",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Railcraft",
@@ -7288,6 +7688,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Random Additions",
+    "other":"",
+    "link":"http://bit.ly/YDJ4zB",
+    "desc":"As the mod name suggests, the mod got its name after the author(s) just decided to add a load of random stuff in.",
+    "author":"Random_Additions",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"rbdyck's Mods",
@@ -7442,7 +7852,7 @@
   {
     "name":"Redstone Jukebox",
     "other":"",
-    "link":"Sidben",
+    "link":"http://bit.ly/17nTRD5",
     "desc":"Adds a new block (redstone jukebox), that works as a redstone-activated jukebox. It has a GUI that holds up to 8 records and can be programmed to play records in loop and random order.",
     "author":"sidben",
     "type":["SSP"],
@@ -7477,7 +7887,7 @@
     "author":"Divisor",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Reptile Mod",
@@ -7527,7 +7937,7 @@
     "author":"Rodolphito",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Ropes+",
@@ -7537,7 +7947,17 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"RotaryCraft",
+    "other":"",
+    "link":"http://bit.ly/14ZVSFs",
+    "desc":"A mod akin to the likes of Buildcraft that adds many unique and useful machines to your game.",
+    "author":"Reika",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1"]
   },
   {
     "name":"Rotten Flesh to Leather",
@@ -7577,7 +7997,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"S.T.F.U.",
@@ -7610,6 +8030,16 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"Scenter",
+    "other":"",
+    "link":"http://bit.ly/11crmRJ",
+    "desc":"Lets you easily find nearby ores like coal, iron, diamond, and more. Just follow the colored particle trail that leads you directly to your target ore.",
+    "author":"MickKay",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
+  },
+  {
     "name":"Schematica",
     "other":"",
     "link":"http://bit.ly/XSPYRr",
@@ -7617,7 +8047,7 @@
     "author":"Lunatrius",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Scoaleton",
@@ -7653,11 +8083,11 @@
     "name":"Secret Rooms Mod",
     "other":"",
     "link":"http://bit.ly/XemEC1",
-    "desc":"",
+    "desc":"Adds a variety of cool blocks that camouflage themselves to the surrounding world. All of these blocks have extremely useful functions that allow you to simply hide your diamonds, or punish all who dare try to get to them. Hidden doors, pressure plates, hidden levers and more!",
     "author":"AbrarSyed",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Secure, Craft, Protect",
@@ -7780,6 +8210,16 @@
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Simple Recipes",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds several crafting and smelting recipes to the game.",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
     "name":"SimplicityOresMod",
     "other":"",
     "link":"http://bit.ly/14ZFBPv",
@@ -7797,7 +8237,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Simply Horses",
@@ -7817,7 +8257,7 @@
     "author":"simo_415",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2"]
   },
   {
     "name":"Single Player Console",
@@ -7907,7 +8347,7 @@
     "author":"Divisor",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Smart Spawn Mod",
@@ -7977,7 +8417,7 @@
     "author":"MCVoxelSH",
     "type":["SSP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Sophisticated Wolves",
@@ -8057,7 +8497,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"SpecialTools",
@@ -8097,7 +8537,7 @@
     "author":"Lunatrius",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"StackPack",
@@ -8127,7 +8567,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Star Wars Mod",
@@ -8193,7 +8633,7 @@
     "name":"Stick To Plank Mod",
     "other":"",
     "link":"http://bit.ly/YONHXU",
-    "desc":"Adds a simple crafting recipe recipe to craft sticks into one wooden plank.",
+    "desc":"Adds a simple crafting recipe to craft sticks into wooden planks.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -8213,7 +8653,7 @@
     "name":"Stone Basin Biome",
     "other":"",
     "link":"http://bit.ly/ZpV9Vb",
-    "desc":"Adds a stone biome.",
+    "desc":"Adds a stone biome that is somewhat flat with water, some small animals and usually no monsters. Mushrooms and lily-pads are usually plentiful. Goes well with Kinyoshi's Chert Craft Mod.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -8280,6 +8720,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"SuperGlass",
+    "other":"",
+    "link":"http://bit.ly/11uXKna",
+    "desc":"Adds over 30 different glass blocks, including stairs, colored glass, obsidian styled glass and an Xray glass block.",
+    "author":"ShreddieNut",
+    "type":["SSP"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Super Heroes in Minecraft",
     "other":"",
     "link":"http://bit.ly/11KenLp",
@@ -8287,7 +8737,7 @@
     "author":"colossali",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Super Mario Mod",
@@ -8307,7 +8757,7 @@
     "author":"Tihyo",
     "type":["SSP","LAN"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Superior Enchantment System",
@@ -8347,7 +8797,7 @@
     "author":"aginsun",
     "type":["SSP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Tale of Kingdoms 2",
@@ -8357,7 +8807,7 @@
     "author":"aginsun",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Team Fortress 2 Mods",
@@ -8427,7 +8877,17 @@
     "author":"Azanor",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"[Thaumcraft 3] Thaumic Tinkerer",
+    "other":"",
+    "link":"http://bit.ly/12L9teo",
+    "desc":"A spiritual successor to my Elemental Tinkerer mod, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft researches. As of the current release, there are 18 new things you can research, 2 of them being from Knowledge Fragments. Researches that come from this mod are prefixed as [TT] for easy labelling.",
+    "author":"Vazkii",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"The Airship Mod",
@@ -8457,7 +8917,7 @@
     "author":"Need4Poop402",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"The Battleaxe Mod",
@@ -8577,7 +9037,7 @@
     "author":"poiuytrezay",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"The Ether Mod",
@@ -8667,7 +9127,7 @@
     "author":"Mevans",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"The Melee/Elemental Skeletons Mod",
@@ -8717,7 +9177,7 @@
     "author":"sheenrox82",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"The Necromancy Mod",
@@ -8777,7 +9237,7 @@
     "author":"LiamR99",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"The Runic Dust Mod",
@@ -8795,9 +9255,9 @@
     "link":"http://bit.ly/UvEbTZ",
     "desc":"Adds the four seasons to Minecraft, each one with its own features and dangers (such as frostbite!)",
     "author":"The_WeatherPony",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"The Sod Mod",
@@ -8917,7 +9377,7 @@
     "author":"Team CoFH",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Thirst Mod",
@@ -8937,7 +9397,7 @@
     "author":"StrangeOne101",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Throwing Stones",
@@ -8977,7 +9437,7 @@
     "author":"TehKrush",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Tinkers' Construct",
@@ -9017,7 +9477,7 @@
     "author":"MinecraftTNTstuff",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"TooManyItems",
@@ -9027,7 +9487,7 @@
     "author":"Marglyph",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"TooManyPlants",
@@ -9050,6 +9510,16 @@
     "versions":["1.4.6","1.4.7","1.5.0"]
   },
   {
+    "name":"Torched",
+    "other":"",
+    "link":"http://bit.ly/ichun-torched",
+    "desc":"Adds a couple of items which aids with torch placement. Mainly a gun, rocket, and launcher.",
+    "author":"iChun",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
+  },
+  {
     "name":"Torojima's Chococraft",
     "other":"",
     "link":"http://bit.ly/108xUFw",
@@ -9067,7 +9537,7 @@
     "author":"Niconiko",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Trail Mix",
@@ -9077,7 +9547,7 @@
     "author":"iChun",
     "type":["Universal"],
     "dependencies":["Forge Required","iChun Util"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Traincraft",
@@ -9098,6 +9568,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Translocator",
+    "other":"",
+    "link":"http://bit.ly/13nzgIr",
+    "desc":"Adds an attachment for chests that cause contents in the chest to be moved to a different chest within a one block space.",
+    "author":"chicken_bones",
+    "type":["Universal"],
+    "dependencies":["Forge Required","CodeChickenCore Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Trapcraft",
@@ -9177,7 +9657,7 @@
     "author":"maxpowa",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Turret Mod",
@@ -9240,6 +9720,16 @@
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
   },
   {
+    "name":"Uncle Steve's Mods",
+    "other":"",
+    "link":"http://bit.ly/YPwdg7",
+    "desc":"Adds new mobs and blocks.",
+    "author":"multistar444",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Underground Biomes",
     "other":"",
     "link":"http://bit.ly/X6ZyLH",
@@ -9267,7 +9757,27 @@
     "author":"Calclavia",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Unlit Torches",
+    "other":"",
+    "link":"http://bit.ly/17nzzJN",
+    "desc":"Makes it so that standard torches have a life span and eventually burn out, giving you unlit torches. Also overrides torch crafting recipes to give you unlit torches instead.",
+    "author":"pelep",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Upgrade Pickaxe Mod",
+    "other":"",
+    "link":"http://bit.ly/10Hy0Ps",
+    "desc":"Adds upgraded versions of each type of pickaxe, chich are 2x as fast and durable.",
+    "author":"0012saab",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Urban Mod",
@@ -9367,7 +9877,7 @@
     "author":"FatherToast",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Valve Pipes",
@@ -9378,6 +9888,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
+  },
+  {
+    "name":"VanillaPlus",
+    "other":"",
+    "link":"http://bit.ly/10su8kh",
+    "desc":"Making the useless useful! Adds blocks and items that would normally fit into the game but just aren't there, and also gives the most useless items a use!",
+    "author":"gruntpie224",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Vanilla Recipes",
@@ -9440,6 +9960,26 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
+    "name":"Village Marker",
+    "other":"",
+    "link":"http://bit.ly/172h65A",
+    "desc":"Allows the player to visualize villages by drawing dots on a sphere that represents the radius of the villages and drawing lines from all the doors that compose a village to the center of the village.  Features 6 colors to help distinguish villages.",
+    "author":"KaboPC",
+    "type":["SSP", "SMP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.5.1"]
+  },
+  {
+    "name":"Village-up",
+    "other":"",
+    "link":"http://bit.ly/15BMCHX",
+    "desc":"On top of enabling village spawning in more biomes, the mod adds custom spawn design based on what biome it spawns in as well as tweaking some of the old spawn structures.",
+    "author":"clovis83",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.4.6", "1.4.7","1.5.0","1.5.2"]
+  },
+  {
     "name":"VoxelMap",
     "other":"(Zan's)",
     "link":"http://bit.ly/Ty9cf2",
@@ -9458,6 +9998,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Wall Jump",
+    "other":"",
+    "link":"http://bit.ly/15eqeQI",
+    "desc":"Allows you to bounce off walls just like Mario. By pressing a custom key you will jump off of any wall you jump into, turning 180 degrees as you do so. Jumps can be limited, shown on a movable bar or text. There are many settings to choose from to customize.",
+    "author":"NukeDuck",
+    "type":["Clientside Mod"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Warfield 3",
@@ -9517,7 +10067,7 @@
     "author":"Corosus",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"WebChat",
@@ -9528,6 +10078,16 @@
     "type":["Client"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Weee! Flowers",
+    "other":"",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds fourteen new flowers that generate naturally across the world, giving the game a bit more color.  You can also use flower seeds to plant and grow more flowers just like wheat!",
+    "author":"MatrexsVigil",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
     "name":"Weeping Angels",
@@ -9577,7 +10137,7 @@
     "author":"WiNeTel",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Wireless Redstone",
@@ -9620,6 +10180,16 @@
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Wither Bow",
+    "other":"",
+    "link":"http://bit.ly/130KqVT",
+    "desc":"Adds a bow with the ability to shoot Wither skulls.",
+    "author":"DeStilleGast",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Wolves+ Mod",
     "other":"",
     "link":"http://bit.ly/TX0t2u",
@@ -9630,10 +10200,20 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Wood Converter",
+    "other":"",
+    "link":"http://bit.ly/ZWcNRL",
+    "desc":"Allows you to convert wood into other types of wood.",
+    "author":"Minecrafter1912",
+    "type":["Universal"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
     "name":"Wool To String Mod",
     "other":"",
     "link":"http://bit.ly/YgpQwH",
-    "desc":"Adds a simple crafting recipe to craft two wool blocks into six string.",
+    "desc":"Adds a simple crafting recipe to craft two wool blocks diagonally to get string.",
     "author":"Kinyoshi",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
@@ -9738,6 +10318,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"XCommands",
+    "other":"",
+    "link":"http://bit.ly/14NgUUn",
+    "desc":"A continuation of SinglePlayerConsole that adds new features not previously possible in SinglePlayerConsole. Acces console with ~ key, supports WorldEdit, and adds 70+ new commands.",
+    "author":"q3hardcore",
+    "type":["Universal"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Xnet's Paxel Mod",
