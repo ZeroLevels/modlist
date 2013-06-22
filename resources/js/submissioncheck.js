@@ -17,68 +17,68 @@ function checkExist() {
 					$('#author').val(data['author']);
 					
 					if(data['versions'].indexOf("1.5.2") > -1)
-						$('#ver152').attr('checked','true');
+						$('#ver152').prop('checked','true');
 					else
 						$('#ver152').removeAttr('checked');
 					if(data['versions'].indexOf("1.5.1") > -1)
-						$('#ver151').attr('checked','true');
+						$('#ver151').prop('checked','true');
 					else
 						$('#ver151').removeAttr('checked');
 					if(data['versions'].indexOf("1.5.0") > -1)
-						$('#ver150').attr('checked','true');
+						$('#ver150').prop('checked','true');
 					else
 						$('#ver150').removeAttr('checked');
 					if(data['versions'].indexOf("1.4.7") > -1)
-						$('#ver147').attr('checked','true');
+						$('#ver147').prop('checked','true');
 					else
 						$('#ver147').removeAttr('checked');
 					if(data['versions'].indexOf("1.4.5") > -1)
-						$('#ver145').attr('checked','true');
+						$('#ver145').prop('checked','true');
 					else
 						$('#ver145').removeAttr('checked');
 					if(data['versions'].indexOf("1.4.2") > -1)
-						$('#ver142').attr('checked','true');
+						$('#ver142').prop('checked','true');
 					else
 						$('#ver142').removeAttr('checked');
 					
 					
 					if(data['dependencies'].indexOf("Forge Required") > -1 ||
 						data['dependencies'].indexOf("Forge Itself") > -1)
-						$('#fr').attr('checked','true');
+						$('#fr').prop('checked','true');
 					else
 						$('#fr').removeAttr('checked');
 					if(data['dependencies'].indexOf("Forge Compatible") > -1)
-						$('#fc').attr('checked','true');
+						$('#fc').prop('checked','true');
 					else
 						$('#fc').removeAttr('checked');
 					if(data['dependencies'].indexOf("Not Forge Compatible") > -1)
-						$('#nfc').attr('checked','true');
+						$('#nfc').prop('checked','true');
 					else
 						$('#nfc').removeAttr('checked');
 					
 					
 					if(data['type'].indexOf("SSP") > -1)
-						$('#ssp').attr('checked','true');
+						$('#ssp').prop('checked','true');
 					else
 						$('#ssp').removeAttr('checked');
 					if(data['type'].indexOf("SMP") > -1)
-						$('#smp').attr('checked','true');
+						$('#smp').prop('checked','true');
 					else
 						$('#smp').removeAttr('checked');
 					if(data['type'].indexOf("LAN") > -1)
-						$('#lan').attr('checked','true');
+						$('#lan').prop('checked','true');
 					else
 						$('#lan').removeAttr('checked');
 					if(data['type'].indexOf("Universal") > -1)
-						$('#universal').attr('checked','true');
+						$('#universal').prop('checked','true');
 					else
 						$('#universal').removeAttr('checked');
 					if(data['type'].indexOf("Client") > -1)
-						$('#client').attr('checked','true');
+						$('#client').prop('checked','true');
 					else
 						$('#client').removeAttr('checked');
 					if(data['type'].indexOf("Server") > -1)
-						$('#server').attr('checked','true');
+						$('#server').prop('checked','true');
 					else
 						$('#server').removeAttr('checked');
 					

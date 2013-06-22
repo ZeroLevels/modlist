@@ -1,6 +1,7 @@
 /* List Creator Javascript
  */
 var sessionVar = Math.random();
+var skipVersions = false;
 var lastName = '';
 
 function checklink() {
@@ -28,8 +29,40 @@ function checklink() {
 	}
 }
 
+function setVersions(versionlist) {
+	window.skipVersions = true;
+	var versions = versionlist.split(',');
+	if(versions.indexOf('1.5.2') != -1)
+		$('#ver152').attr('checked', true);
+	else
+		$('#ver152').attr('checked', false);
+	if(versions.indexOf('1.5.1') != -1)
+		$('#ver151').attr('checked', true);
+	else
+		$('#ver151').attr('checked', false);
+	if(versions.indexOf('1.5.0') != -1)
+		$('#ver150').attr('checked', true);
+	else
+		$('#ver150').attr('checked', false);
+	if(versions.indexOf('1.4.7') != -1)
+		$('#ver147').attr('checked', true);
+	else
+		$('#ver147').attr('checked', false);
+	if(versions.indexOf('1.4.5') != -1)
+		$('#ver145').attr('checked', true);
+	else
+		$('#ver145').attr('checked', false);
+	if(versions.indexOf('1.4.2') != -1)
+		$('#ver142').attr('checked', true);
+	else
+		$('#ver142').attr('checked', false);
+}
+
 function bitly() {
-	alert('Upcoming function');
+	$.getJSON("tools/bitly.php?mode=save&link=" + $('#link').val(), function(data) {
+			$('#link').val(data['link']);
+			$('#linktext').html('<span class="found">Link shortened!</span>');
+		});
 }
 
 function loadbitly() {
@@ -124,30 +157,33 @@ function checkExist() {
 					$('#type').val(data[i].type.join(','));
 					$('#dependencies').val(data[i].dependencies.join(','));
 					
-					if(data[i].versions.indexOf('1.5.2') != -1)
-						$('#ver152').attr('checked', true);
-					else
-						$('#ver152').attr('checked', false);
-					if(data[i].versions.indexOf('1.5.1') != -1)
-						$('#ver151').attr('checked', true);
-					else
-						$('#ver151').attr('checked', false);
-					if(data[i].versions.indexOf('1.5.0') != -1)
-						$('#ver150').attr('checked', true);
-					else
-						$('#ver150').attr('checked', false);
-					if(data[i].versions.indexOf('1.4.7') != -1)
-						$('#ver147').attr('checked', true);
-					else
-						$('#ver147').attr('checked', false);
-					if(data[i].versions.indexOf('1.4.5') != -1)
-						$('#ver145').attr('checked', true);
-					else
-						$('#ver145').attr('checked', false);
-					if(data[i].versions.indexOf('1.4.2') != -1)
-						$('#ver142').attr('checked', true);
-					else
-						$('#ver142').attr('checked', false);
+					if(window.skipVersions === false) {
+						if(data[i].versions.indexOf('1.5.2') != -1)
+							$('#ver152').attr('checked', true);
+						else
+							$('#ver152').attr('checked', false);
+						if(data[i].versions.indexOf('1.5.1') != -1)
+							$('#ver151').attr('checked', true);
+						else
+							$('#ver151').attr('checked', false);
+						if(data[i].versions.indexOf('1.5.0') != -1)
+							$('#ver150').attr('checked', true);
+						else
+							$('#ver150').attr('checked', false);
+						if(data[i].versions.indexOf('1.4.7') != -1)
+							$('#ver147').attr('checked', true);
+						else
+							$('#ver147').attr('checked', false);
+						if(data[i].versions.indexOf('1.4.5') != -1)
+							$('#ver145').attr('checked', true);
+						else
+							$('#ver145').attr('checked', false);
+						if(data[i].versions.indexOf('1.4.2') != -1)
+							$('#ver142').attr('checked', true);
+						else
+							$('#ver142').attr('checked', false);
+					}
+					window.skipVersions = false;
 
 					$('#nametext').html('<span class="found">Match Found</span>');
 					checkOtherMods();
@@ -191,6 +227,10 @@ function checkDepends() {
 	
 }
 
+function hideDivs() {
+	$('.canhide').css('display','none');
+}
+
 
 $('#name').focus(function() {
 	window.lastName = $('#name').val();
@@ -214,19 +254,24 @@ $('#ver147').click(generate);
 $('#ver145').click(generate);
 $('#ver142').click(generate);
 $('#reset').click(reset);
-$("#output").focus(function() {
+$('#output').focus(function() {
     var $this = $(this);
     $this.select();
 
     // Work around Chrome's little problem
     $this.mouseup(function() {
         // Prevent further mouseup intervention
-        $this.unbind("mouseup");
+        $this.unbind('mouseup');
         return false;
     });
 });
 
 // main.js
-var clip = new ZeroClipboard(document.getElementById("copy"), {
-  moviePath: "../resources/flash/ZeroClipboard.swf"
+var clip = new ZeroClipboard(document.getElementById('copy'), {
+  moviePath: '../resources/flash/ZeroClipboard.swf'
 });
+
+$('.canhide').html(
+	$('.canhide').html() +
+	'<div class="closebutton"><a href="javascript:hideDivs();" title="Click to close this message">&times;</a></div>'
+	);

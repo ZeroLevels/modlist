@@ -61,7 +61,7 @@ h1 {
 	outline: 1px solid #444444;
 }
 #navigation.admin li {
-	width: 14.28571428571429%;
+	width: 12.5%;
 }
 #navigation li.current {
 	background-color: #444444;
@@ -126,7 +126,7 @@ p, h1, form, button{border:0; margin:0; padding:0;}
 	width: 200px;
 	margin: 2px 0 21px 10px;
 }
-.listcontain  input[type=reset], .listcontain  input[type=button] {
+.listcontain  input[type=reset], .listcontain  input[type=button], .listcontain  input[type=submit] {
 	clear:both;
 	margin-left:150px;
 	width:125px;
@@ -137,6 +137,10 @@ p, h1, form, button{border:0; margin:0; padding:0;}
 	color:#FFFFFF;
 	font-size:11px;
 	font-weight:bold;
+}
+#listcreator  input[type=button],#listcreator  input[type=submit] {
+	clear:none !important;
+	margin-left:50px !important;
 }
 .listcontain  input[type=checkbox] {
 	float: left;
@@ -152,7 +156,7 @@ p, h1, form, button{border:0; margin:0; padding:0;}
 .checkcontain {
 	border: 0;
 }
-.listcontain  input[type=reset]:hover, .listcontain  input[type=button]:hover, .listcontain  input.zeroclipboard-is-hover {
+.listcontain  input[type=reset]:hover, .listcontain  input[type=submit]:hover, .listcontain  input[type=button]:hover, .listcontain  input.zeroclipboard-is-hover {
 	background: #BBBBBB;
 }
 .listcontain {
@@ -170,9 +174,56 @@ textarea {
 .found {
 	color: #008800;
 }
-.found a {
+.listcontain a {
 	color: #000088;
 }
 .failed {
 	color: #880000;
+}
+.submissiontable {
+	border-spacing: 0px;
+}
+.submissiontable .id {
+	width: 20px;
+}
+.submissiontable th, .submissiontable td {
+	padding: 1px 10px;
+}
+.submissiontable thead tr th {
+	border-bottom: 1px solid white;
+}
+.submissiontable .unresolved {
+	background: #664444;
+}
+.submissiontable .assigned {
+	background: #444466;
+}
+.submissiontable .completed {
+	background: #444444;
+}
+.submissiontable tbody tr:hover {
+	background: #666666;
+}
+.submissiontable tbody tr:hover .unresolved {
+	background: #886666;
+}
+.submissiontable tbody tr:hover .assigned {
+	background: #666688;
+}
+.submissiontable tbody tr:hover .completed {
+	background: #666666;
+}
+.headermessage {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 5px;
+	background: #555555;
+	border: 1px dashed #666666;
+}
+.closebutton {
+	padding: 0;
+	margin: 0;
+	position: relative;
+	float: right;
+	right: 4px;
 }
