@@ -137,6 +137,10 @@ window.onload = function() {
 		echo '<a href="panel.php?view=submission">Return to submission list</a></div>';
 	}
 } else {
+if(isset($_GET['hide']))
+	echo '<a href="panel.php?view=submission">Hide completed</a></br>';
+else
+	echo '<a href="panel.php?view=submission&hide=false">Unhide completed</a></br>';
 ?>
 <table class="submissiontable">
 	<thead>
@@ -149,23 +153,26 @@ window.onload = function() {
 	</thead>
 	<tbody style="text-align: right;">
 		<?php
+			$submissions = array_reverse($submissions);
 			foreach($submissions as &$modreq) {
-				echo '<tr>';
-				echo '<td class="id">' . $modreq->id . '</td>';
-				echo '<td>' . $modreq->name . '</td>';
-				echo '<td>' . $modreq->mode . '</td>';
-				if(isset($modreq->assigned)) {
-					if(isset($modreq->complete))
-						echo '<td class="completed">Completed by ' . $modreq->assigned . '</td>';
-					else {
-						if($modreq->assigned == $_SESSION['usr'])
-							echo '<td class="assigned"><a href="panel.php?view=submission&id=' . $modreq->id . '">Assigned to you</a></td>';
-						else
-							echo '<td class="assigned">Assigned to ' . $modreq->assigned . '</td>';
-					}
-				} else
-					echo '<td class="unresolved"><a href="panel.php?view=submission&id=' . $modreq->id . '">Unresolved</a></td>';
-				echo '</tr>';
+				if(!isset($modreq->complete) || isset($_GET['hide'])) {
+					echo '<tr>';
+					echo '<td class="id">' . $modreq->id . '</td>';
+					echo '<td>' . $modreq->name . '</td>';
+					echo '<td>' . $modreq->mode . '</td>';
+					if(isset($modreq->assigned)) {
+						if(isset($modreq->complete))
+							echo '<td class="completed">Completed by ' . $modreq->assigned . '</td>';
+						else {
+							if($modreq->assigned == $_SESSION['usr'])
+								echo '<td class="assigned"><a href="panel.php?view=submission&id=' . $modreq->id . '">Assigned to you</a></td>';
+							else
+								echo '<td class="assigned">Assigned to ' . $modreq->assigned . '</td>';
+						}
+					} else
+						echo '<td class="unresolved"><a href="panel.php?view=submission&id=' . $modreq->id . '">Unresolved</a></td>';
+					echo '</tr>';
+				}
 			}
 		?>
 	</tbody>
