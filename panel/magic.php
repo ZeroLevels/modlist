@@ -5,7 +5,7 @@ $valid[0][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.um5x/Q4n6GQBKHCXf7oZdW8HuQWWaZ1O';
 $valid[0][3] = 0;
 $valid[0][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzurMZJEFtznzVXXzn2wXTfVvdAUhiuLKq';
 $valid[1][0] = 'WmVyb0xldmVscw==';
-$valid[1][1] = 'bW9kbGlzdC5tY2YubGlAZ21haWwuY29t';
+$valid[1][1] = 'bW9kbGlzdC5tY2ZAZ21haWwuY29t';
 $valid[1][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.uNvsvYfWclbp6ReL1Hhgrg2ouwlqkswC';
 $valid[1][3] = 0;
 $valid[1][4] = '';
