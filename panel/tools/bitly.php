@@ -24,6 +24,13 @@ if(isset($_GET['mode'])) {
 				echo json_encode($json);
 			}
 			break;
+		case "save":
+			if(isset($_GET['link'])) {
+				$data = readJSON('https://api-ssl.bitly.com/v3/shorten?access_token='.$auth['bitly']['key'].'&longUrl=' . urlencode($_GET['link']));
+				$json['link'] = $data->data->link;
+				echo json_encode($json);
+			}
+			break;
 	}
 }
 

@@ -73,31 +73,31 @@ pre {
 <span class="small" id="compattext">Is it compatible with Forge?</span>
 </label>
 <fieldset class="radiocontain">
-<input id="fr" type="radio" name="forge" value="fr" title="The mod must use Forge" checked="checked"><label for="fr" title="The mod must use Forge">Required</label>
-<input id="fc" type="radio" name="forge" value="fc" title="The mod can use Forge (usually ModLoader mod)"><label for="fc" title="The mod can use Forge (usually ModLoader mod)">Compatible</label>
-<input id="nfc" type="radio" name="forge" value="nfc" title="The mod cannot be used with Forge"><label for="nfc" title="The mod cannot be used with Forge">Not Compatible</label>
+<input id="fr" type="radio" name="forge" value="Forge Required" title="The mod must use Forge" checked="checked"><label for="fr" title="The mod must use Forge">Required</label>
+<input id="fc" type="radio" name="forge" value="Forge Compatible" title="The mod can use Forge (usually ModLoader mod)"><label for="fc" title="The mod can use Forge (usually ModLoader mod)">Compatible</label>
+<input id="nfc" type="radio" name="forge" value="Not Forge Compatible" title="The mod cannot be used with Forge"><label for="nfc" title="The mod cannot be used with Forge">Not Compatible</label>
 </fieldset>
 <label>Availability*
 <span class="small">Choose (if you're sure) whether or not the mod is available for singleplayer, multiplayer, etc...</span>
 </label>
 <fieldset class="checkcontain">
-<input id="ssp" type="checkbox" name="availablity[]" value="ssp" title="Singleplayer"><label for="ssp" title="Singleplayer">SSP</label>
-<input id="smp" type="checkbox" name="availablity[]" value="smp" title="Multiplayer"><label for="smp" title="Multiplayer">SMP</label>
-<input id="lan" type="checkbox" name="availablity[]" value="lan" title="Local Multiplayer"><label for="lan" title="Local Multiplayer">LAN</label>
-<input id="universal" type="checkbox" name="availablity[]" value="universal" title="Same file for client and server"><label for="universal" title="Same file for client and server">Universal</label>
-<input id="client" type="checkbox" name="availablity[]" value="client" title="Installed on client only, but works on servers (eg. Minimaps)"><label for="client" title="Installed on client only, but works on servers (eg. Minimaps)">Clientside</label>
-<input id="server" type="checkbox" name="availablity[]" value="server" title="Installed only on server, works for anyone who joins (eg. Additional Commands)"><label for="server" title="Installed only on server, works for anyone who joins (eg. Additional Commands)">Serverside</label>
+<input id="ssp" type="checkbox" name="availability[]" value="SSP" title="Singleplayer"><label for="ssp" title="Singleplayer">SSP</label>
+<input id="smp" type="checkbox" name="availability[]" value="SMP" title="Multiplayer"><label for="smp" title="Multiplayer">SMP</label>
+<input id="lan" type="checkbox" name="availability[]" value="LAN" title="Local Multiplayer"><label for="lan" title="Local Multiplayer">LAN</label>
+<input id="universal" type="checkbox" name="availability[]" value="Universal" title="Same file for client and server"><label for="universal" title="Same file for client and server">Universal</label>
+<input id="client" type="checkbox" name="availability[]" value="Client" title="Installed on client only, but works on servers (eg. Minimaps)"><label for="client" title="Installed on client only, but works on servers (eg. Minimaps)">Clientside</label>
+<input id="server" type="checkbox" name="availability[]" value="Server" title="Installed only on server, works for anyone who joins (eg. Additional Commands)"><label for="server" title="Installed only on server, works for anyone who joins (eg. Additional Commands)">Serverside</label>
 </fieldset></br>
 <label>Versions**
 <span class="small">What Minecraft version are you submitting this for?</span>
 </label>
 <fieldset class="checkcontain">
-<input id="ver152" type="checkbox" name="version[]" value="152"><label for="ver152">1.5.2</label>
-<input id="ver151" type="checkbox" name="version[]" value="151"><label for="ver151">1.5.1</label>
-<input id="ver150" type="checkbox" name="version[]" value="150"><label for="ver150">1.5</label>
-<input id="ver147" type="checkbox" name="version[]" value="147"><label for="ver147">1.4.7/1.4.6</label>
-<input id="ver145" type="checkbox" name="version[]" value="145"><label for="ver145">1.4.5/1.4.4</label>
-<input id="ver142" type="checkbox" name="version[]" value="142"><label for="ver142">1.4.2</label>
+<input id="ver152" type="checkbox" name="version[]" value="1.5.2"><label for="ver152">1.5.2</label>
+<input id="ver151" type="checkbox" name="version[]" value="1.5.1"><label for="ver151">1.5.1</label>
+<input id="ver150" type="checkbox" name="version[]" value="1.5.0"><label for="ver150">1.5</label>
+<input id="ver147" type="checkbox" name="version[]" value="1.4.7"><label for="ver147">1.4.7/1.4.6</label>
+<input id="ver145" type="checkbox" name="version[]" value="1.4.5"><label for="ver145">1.4.5/1.4.4</label>
+<input id="ver142" type="checkbox" name="version[]" value="1.4.2"><label for="ver142">1.4.2</label>
 </fieldset></br>
 <label>Other
 <span class="small">Anything else you want to add?</span>
