@@ -1420,6 +1420,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"BetterCraft",
+    "other":"",
+    "link":"http://bitly.com/1ccLYhM",
+    "desc":"Adds tweaks and new items such as foods, armour sets, and tool sets.",
+    "author":"Kitteh6660",
+    "type":["SSP","LAN"],
+    "dependencies":["Not Forge Compatible","Modloader"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Better Dungeons",
     "other":"",
     "link":"http://bit.ly/12pF8SA",
@@ -3668,6 +3678,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Enjoy your meal!",
+    "other":"",
+    "link":"https://bitly.com/1ccNOzi",
+    "desc":"Adds new foods and ingredients",
+    "author":"Mariolucky59",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"KBI Enriched Gravel",
@@ -8498,6 +8518,16 @@
     "type":["Client"],
     "dependencies":["Forge Compatible"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"SkyInfinity",
+    "other":"",
+    "link":"http://bitly.com/1ccMwnV",
+    "desc":"Adds new worlds, weapons, items and blocks.",
+    "author":"DELTA_1221",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Slabcraft",
