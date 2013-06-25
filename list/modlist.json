@@ -17,7 +17,7 @@
     "author":"Flow86",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[Buildcraft] Additional Pipes",
@@ -60,6 +60,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"[Buildcraft] Den Pipes",
+    "other":"",
+    "link":"http://bit.ly/VFC2bC",
+    "desc":"A small addon for Buildcraft the implements various pipes that aid in making builds smarter and more compact.",
+    "author":"denoflions",
+    "type":["Universal"],
+    "dependencies":["Forge Required","denLib Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"[Buildcraft] FXFix",
     "other":"",
     "link":"http://bit.ly/15hcVPC",
@@ -68,6 +78,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"[Buildcraft] Gate Copy",
+    "other":"",
+    "link":"http://bit.ly/VFC2bC",
+    "desc":"Adds a clipboard item that can copy the settings from a Buildcraft Gate and paste those settings onto another similar gate.",
+    "author":"denoflions",
+    "type":["Universal"],
+    "dependencies":["Forge Required","denLib Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"[Buildcraft] Liquid Metals",
@@ -293,11 +313,11 @@
     "name":"[Forestry] Plugins for Forestry 2",
     "other":"",
     "link":"http://bit.ly/VFC2bC",
-    "desc":"",
+    "desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
     "author":"denoflions",
     "type":["Universal"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "dependencies":["Forge Required", "denLib Required"],
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"[Forestry] ThaumicBees",
@@ -980,6 +1000,16 @@
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
+    "name":"Aquaculture",
+    "other":"",
+    "link":"http://bit.ly/1cgXZmc",
+    "desc":"An expansion of Minecraft's fishing system. You never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing.",
+    "author":"Shadowclaimer",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Arcane Ascension",
     "other":"",
     "link":"http://bit.ly/RAguNd",
@@ -1068,6 +1098,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Artifice",
+    "other":"",
+    "link":"http://bit.ly/1cgVjFs",
+    "desc":"Adds worldgen, new blocks, and new items.",
+    "author":"Shukaro",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Asgard Shield: Sword -n- Board Action",
@@ -1608,6 +1648,16 @@
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.2","1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Big Reactors",
+    "other":"",
+    "link":"http://bit.ly/10PZyYH",
+    "desc":"Designed to be a mid-to-late-game complement to less-realistic mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
+    "author":"Erogenous Beef",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Bindings Compact",
@@ -2728,6 +2778,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Creeper Collateral",
+    "other":"",
+    "link":"http://bit.ly/VFC2bC",
+    "desc":"Exposes the rate at which explosions drop block items in a config file. Vanilla default is 0.3 while the mod's default is 1.0 so no block is ever completely destroyed by a creeper.",
+    "author":"denoflions",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Creeper Sword",
@@ -4792,12 +4852,12 @@
   {
     "name":"HD Skins and Cloaks",
     "other":"",
-    "link":"http://bit.ly/108lOfH",
-    "desc":"",
+    "link":"http://bit.ly/VFC2bC",
+    "desc":"A Forge CoreMod that gives you complete control over your player skin and cloak. Use any size skin or cloak!",
     "author":"denoflions",
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "type":["Universal"],
+    "dependencies":["Forge Compatible","denLib Required"],
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Healing Hearts Mod",
@@ -6987,7 +7047,7 @@
     "author":"thehippomaster21",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"myBiome Mod",
@@ -9968,6 +10028,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Truss Mod",
+    "other":"(Alpha)",
+    "link":"http://bit.ly/15B33OG",
+    "desc":"Adds motors that can move blocks and frames that can form big moving constructions. It was inspired by Red Power 2 by Eloraam.",
+    "author":"RainWarrior",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"TubeStuff",
