@@ -2290,13 +2290,23 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Coal Tools",
+    "other":"",
+    "link":"http://bit.ly/13160ME",
+    "desc":"Adds coal tools and armour.",
+    "author":"B0bGary",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Cobblestone And Stone Armour",
     "other":"",
     "link":"http://bit.ly/13jfCjM",
-    "desc":"",
+    "desc":"Adds stone and cobblestone sets of armour as well as a cobblestone variant of the stone sword.",
     "author":"I_Iz_Shahid",
-    "type":["SSP"],
-    "dependencies":["Not Forge Compatible"],
+    "type":["Universal"],
+    "dependencies":["Forge Compatible","ModLoader Version Available"],
     "versions":["1.4.6","1.4.7"]
   },
   {
@@ -2408,6 +2418,16 @@
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Command Block GUI 2",
+    "other":"",
+    "link":"http://bit.ly/12fmAGu",
+    "desc":"Makes commandblocks easier to understand, use and configure.",
+    "author":"Smithiboi",
+    "type":["Universal"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Command Block Needs",
@@ -3180,6 +3200,16 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
+    "name":"DivineOres",
+    "other":"",
+    "link":"http://bit.ly/14n5d5l",
+    "desc":"Adds tools and armour with religious theme.",
+    "author":"Nikkzilla_",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"DivineRPG",
     "other":"",
     "link":"http://bit.ly/RBORmX",
@@ -3246,7 +3276,7 @@
     "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
     "author":"BarracudaATA",
     "type":["SSP","LAN"],
-    "dependencies":["Forge Compatible"],
+    "dependencies":["Forge Compatible","ModLoader Version Available"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
@@ -3690,6 +3720,16 @@
     "versions":["1.5.2"]
   },
   {
+    "name":"Katana Forge MMO",
+    "other":"",
+    "link":"http://bit.ly/19mILA2",
+    "desc":"Adds skills based on experience, much like those within RuneScape. Also adds hiscores to the user interface than can also be integrated on websites that are updated live.",
+    "author":"Jaspa_Jones",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"KBI Enriched Gravel",
     "other":"",
     "link":"http://bit.ly/10ow9Uo",
@@ -4067,7 +4107,7 @@
     "author":"Xnet",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Flat Bedrock",
@@ -5650,16 +5690,6 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
-    "name":"litteMaidMod",
-    "other":"",
-    "link":"http://bit.ly/Xee3zn",
-    "desc":"",
-    "author":"eromanrocks",
-    "type":["N/A"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
-  },
-  {
     "name":"LittleBlocks",
     "other":"",
     "link":"http://bit.ly/UR3eUm",
@@ -5677,7 +5707,7 @@
     "author":"MMM",
     "type":["SSP","LAN"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Lockit",
@@ -6708,6 +6738,16 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"More Spawner Eggs",
+    "other":"",
+    "link":"http://bit.ly/11XcPZv",
+    "desc":"Adds new spawner eggs which can spawn boats, minecarts, snow golems, iron golems, XP orbs, XP bottles, giant zombies, primed TNT and more.",
+    "author":"D180",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"More Stackables",
@@ -8078,6 +8118,16 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6", "1.4.7","1.5.2"]
+  },
+  {
+    "name":"Redstone Tools",
+    "other":"",
+    "link":"http://bit.ly/1aIFtp1",
+    "desc":"Adds redstone tools and armour.",
+    "author":"B0bGary",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Rei's Minimap",
