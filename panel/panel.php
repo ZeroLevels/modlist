@@ -75,6 +75,9 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 <div id="content">
 	<?php
 	switch($_GET['view']) {
+		case "home":
+			include('pages/home.php');
+			break;
 		case "api":
 			switch($_GET['mode']) {
 				case "generate":
