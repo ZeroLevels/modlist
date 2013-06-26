@@ -220,10 +220,7 @@ function isLink(link) {
 			/(^[a-z]+:\/\/)*(www)*\.yahoo.co/.test(link) ||
 			/(^[a-z]+:\/\/)*(www.)*\.apple.co/.test(link) ||
 			/(^[a-z]+:\/\/)*(www.)*\.mcf.li/.test(link) ||
-			/(^[a-z]+:\/\/)*(www.)*\.andbox.tk/.test(link) ||
-			/(^[a-z]+:\/\/)*127\./.test(link) ||
-			/(^[a-z]+:\/\/)*0\./.test(link) ||
-			/(^[a-z]+:\/\/)*169\./.test(link)
+			/(^[a-z]+:\/\/)*(www.)*\.andbox.tk/.test(link)
 		)
 			return false;
 		else
