@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>MCF Mod List - Home</title>
+	<meta name="description" content="Minecraft Forum Mod List - A list of Minecraft mods compiled by the community" />
 	<link rel="stylesheet" type="text/css" href="resources/stylesheets/index.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="resources/stylesheets/nav.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="resources/stylesheets/common.css" media="screen" />
