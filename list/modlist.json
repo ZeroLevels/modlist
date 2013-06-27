@@ -353,9 +353,9 @@
     "name":"[IndustrialCraft 2] Advanced Power Management",
     "other":"",
     "link":"http://bit.ly/POXv1O",
-    "desc":"",
+    "desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
     "author":"Pantheis",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
   },
@@ -2040,6 +2040,16 @@
     "versions":["1.5.0","1.5.1"]
   },
   {
+    "name":"Carpenter's Blocks",
+    "other":"",
+    "link":"http://bit.ly/12g4swg",
+    "desc":"Adds customizable slopes, stairs, slabs, barriers and gates to the game!",
+    "author":"Mineshopper",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Cartographer",
     "other":"",
     "link":"http://bit.ly/YrLOkS",
@@ -2047,7 +2057,7 @@
     "author":"MelAlvarado",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Castle Defenders",
@@ -2543,11 +2553,11 @@
     "name":"Condensed Blocks Mod",
     "other":"",
     "link":"http://bit.ly/13J8a0U",
-    "desc":"",
+    "desc":"Lets you condense many blocks down into a single block for 3 levels, allowing you to store 46,656 in a single stack of blocks. Used in conjunction with Barrels from Factorization, this number can rise to 2,985,984 in total for a single block of storage. If we're talking metals or diamonds, this increases even further to 26,873,856 worth of ingots/diamonds. 26,873,856 ingots to 2,985,984 storage blocks to 331,776 condensed storage blocks, to 36,864 super condensed storage blocks, to 4,096 extreme condensed storage blocks to 1 barrel (64 stacks of 64) of extreme condensed storage blocks.",
     "author":"Fenrir00",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.4","1.4.5","1.5.2"]
   },
   {
     "name":"Consistent Glowstone Drops",
@@ -3360,6 +3370,16 @@
     "versions":["1.5.2"]
   },
   {
+    "name":"DukeCore",
+    "other":"(Dependency)",
+    "link":"http://bit.ly/14WTyN4",
+    "desc":"Required to run any of Duke605's mods.",
+    "author":"Duke605",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Dungeon Crawler",
     "other":"",
     "link":"http://bit.ly/VuOduI",
@@ -3498,6 +3518,16 @@
     "type":["N/A"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
+  },
+  {
+    "name":"ExchangeCraft",
+    "other":"",
+    "link":"http://bit.ly/11Hd7Z5",
+    "desc":"Allows you to buy and sell items with everyone else who has the mod.",
+    "author":"Duke605",
+    "type":["SSP"],
+    "dependencies":["Forge Required","DukeCore Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Extra Building Materials",
@@ -3870,6 +3900,16 @@
     "versions":["1.4.4","1.4.5"]
   },
   {
+    "name":"Explosives+ Lite",
+    "other":"",
+    "link":"http://bit.ly/11XE9Z2",
+    "desc":"",
+    "author":"Pheenixm",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Extended Workbench",
     "other":"",
     "link":"http://bit.ly/VFB6UT",
@@ -4148,6 +4188,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.0"]
+  },
+  {
+    "name":"Fishing Craft",
+    "other":"",
+    "link":"http://bit.ly/10WW7Q3",
+    "desc":"Adds more rods, 12 new fish, plants, and more designed to increase the variety of fish as well as further develop the fishing in Minecraft.",
+    "author":"Sharingan616",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Flan's Mod",
@@ -4613,7 +4663,7 @@
     "name":"Gravestone Mod",
     "other":"",
     "link":"http://bit.ly/XSirsO",
-    "desc":"Adds a gravestone to the game, which spawns after player`s death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot.The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.",
+    "desc":"Adds a gravestone to the game, which spawns after player's death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot.The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.",
     "author":"NightKosh",
     "type":["Universal"],
     "dependencies":["Forge Required","Modloader","Player API"],
@@ -5058,6 +5108,16 @@
     "type":["N/A"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
+  },
+  {
+    "name":"Hunger Overhaul",
+    "other":"",
+    "link":"http://bit.ly/14yqAB6",
+    "desc":"Ever thought hunger should be more integral to surviving?  This mod is meant to make hunger more of a challenge, rather than just a mild annoyance.",
+    "author":"iguana_man",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Hurricaaane's Glitter Mods",
@@ -5677,7 +5737,7 @@
     "author":"TwistedCarny",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"LibShapeDraw",
@@ -6310,6 +6370,16 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Mini",
+    "other":"",
+    "link":"http://bit.ly/19snXr3",
+    "desc":"A bunch of mini mods that effect your game in a small way and are very customizable.",
+    "author":"Duke605",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Mining Enhancemants",
     "other":"",
     "link":"http://bit.ly/W9HHqH",
@@ -6628,6 +6698,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"More difficulties",
+    "other":"",
+    "link":"http://bit.ly/18etZu4",
+    "desc":"This mod add 10 levels of difficulty, difficulties level change mob speed, mob damage, and more. some difficulties remove the mob burning on sun and the player regeneration. this mod also modify some recipe, gold apple, speckled melon, and healing potion, and add an yellow diamond.",
+    "author":"Tagcube",
+    "type":["SSP","SMP","LAN"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.5.2"]
   },
   {
     "name":"More Enchantments Mod",
@@ -7590,6 +7670,16 @@
     "versions":["1.5.2"]
   },
   {
+    "name":"Panicle Craft",
+    "other":"",
+    "link":"http://bit.ly/14yp41I",
+    "desc":"Adds such things as Chess, the ability to paint, advanced signs, brooms, and chests that you can customize with upgrades.",
+    "author":"ee_man",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Parachute mod",
     "other":"",
     "link":"http://bit.ly/TGjeZl",
@@ -8170,6 +8260,16 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"Redstone in Motion",
+    "other":"",
+    "link":"http://bit.ly/16yxsj5",
+    "desc":"RedPower-type frames, blocks that can move whole cuboids, and blocks that pick up anything connected either on a face or in a direction. The engines that move the frames can move with the structure (or stay where they were).",
+    "author":"Jakj",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
+  },
+  {
     "name":"Redstone Jukebox",
     "other":"",
     "link":"http://bit.ly/17nTRD5",
@@ -8410,6 +8510,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Arcane Scrolls",
+    "other":"",
+    "link":"http://bit.ly/18fv6cV",
+    "desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
+    "author":"Duke605",
+    "type":["SSP"],
+    "dependencies":["Forge Required","DukeCore Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Sealab's Commands",
     "other":"",
     "link":"http://bit.ly/11KtO44",
@@ -8636,6 +8746,16 @@
     "desc":"Adds new worlds, weapons, items and blocks.",
     "author":"DELTA_1221",
     "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
+    "name":"SkyrimCraft",
+    "other":"",
+    "link":"http://bit.ly/139hFdI",
+    "desc":"Adds lots of content from the Skyrim videogame!",
+    "author":"JapangaTextures",
+    "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.5.2"]
   },
