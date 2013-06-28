@@ -82,11 +82,21 @@ if(!empty($mod)) {
 <label>Type
 <span class="small">Comma separated</span>
 </label>
-<input type="text" id="type" name="type" <?php echo 'value="' . $mod->availability . '"'; ?> /></br>
+<input type="text" id="type" name="type" <?php
+if(is_array($mod->availability))
+	echo 'value="' . implode(', ',$mod->availability) . '"';
+else
+	echo 'value="' . $mod->availability . '"';
+?> /></br>
 <label>Dependencies
 <span class="small" id="dependencytext">Comma separated</span>
 </label>
-<input type="text" id="dependencies" name="dependencies" <?php echo 'value="' . implode(', ',$mod->compatibility) . '"'; ?> /></br>
+<input type="text" id="dependencies" name="dependencies" <?php
+if(is_array($mod->compatibility))
+	echo 'value="' . implode(', ',$mod->compatibility) . '"';
+else
+	echo 'value="' . $mod->compatibility . '"';
+?> /></br>
 <label>Versions
 <span class="small">Supported MC Versions</span>
 </label>

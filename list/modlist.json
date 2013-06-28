@@ -4785,9 +4785,9 @@
     "link":"http://bit.ly/Xxl3HK",
     "desc":"A compilation of mods created by one developer which aims to add more features and improve the agriculture/farming aspect of Mojang's game MineCraft while still keeping its simplicity and avoiding overcomplicating it.",
     "author":"Gwafu",
-    "type":["SSP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.2"]
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"GuiAPI",

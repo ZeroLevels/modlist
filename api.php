@@ -97,12 +97,15 @@ function outputVersionSingle($version) {
 	if($version == "1.5")
 		$version = "1.5.0";
 	$json = readJSON();
-	$newjson = array();
-	foreach($json as &$mod) {
-		if(in_array($version,$mod->versions))
-			$newjson[] = $mod;
+	if($version != "all") {
+		$newjson = array();
+		foreach($json as &$mod) {
+			if(in_array($version,$mod->versions))
+				$newjson[] = $mod;
+		}
+		return str_replace('\\/','/',json_encode($newjson));
 	}
-	return str_replace('\\/','/',json_encode($newjson));
+	return str_replace('\\/','/',json_encode($json));
 }
 
 function recode($strIn) {
