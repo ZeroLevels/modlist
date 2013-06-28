@@ -8707,7 +8707,7 @@
     "author":"Ellybelly360",
     "type":["SSP","LAN"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Simply Hax",
