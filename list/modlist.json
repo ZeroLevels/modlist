@@ -8737,13 +8737,13 @@
     "author":"simo_415",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Single Player Console",
     "other":"",
     "link":"http://bit.ly/WDGzrt",
-    "desc":"SPConsole is a mod similar to SinglePlayerCommands, infact they share code. Some key improvements over SPCommands are:",
+    "desc":"SPConsole is a mod similar to Single Player Commands, infact they share code. Some key improvements over SPCommands are:",
     "author":"q3hardcore",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
@@ -10873,7 +10873,7 @@
     "name":"XCommands",
     "other":"",
     "link":"http://bit.ly/14NgUUn",
-    "desc":"A continuation of SinglePlayerConsole that adds new features not previously possible in SinglePlayerConsole. Acces console with ~ key, supports WorldEdit, and adds 70+ new commands.",
+    "desc":"A continuation of SinglePlayerConsole that adds new features not previously possible in SinglePlayerConsole. Access console with ~ key, supports WorldEdit, and adds 70+ new commands.",
     "author":"q3hardcore",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
