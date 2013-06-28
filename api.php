@@ -34,9 +34,9 @@ function sortAlpha($jsonarray) {
 	return $jsonarray;
 }
 
-if(isset($_GET['key'])) {
+if(isset($_GET['key']) && $_GET['key'] != "") {
 	if(accessAPI($_GET['key'])) {
-		if(isset($_GET['request'])) {
+		if(isset($_GET['request']) && $_GET['request'] != "") {
 			switch($_GET['request']) {
 				case "hash":
 					if(isset($_GET['version'])) {

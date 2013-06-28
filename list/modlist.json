@@ -2457,7 +2457,7 @@
     "author":"schoolboy917",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Combat Bars",
@@ -4558,6 +4558,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Genetic Modification Mod",
+    "other":"",
+    "link":"http://bit.ly/19GyzPy",
+    "desc":"Adds genes to mobs which gives them traits that can be passed on during breeding. Adds items to identify genes and kill animals. Edits base classes.",
+    "author":"dude0367",
+    "type":["SSP"],
+    "dependencies":["Forge Compatible","Modloader"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Get all the Seeds!",
@@ -8450,6 +8460,16 @@
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Saffara",
+    "other":"",
+    "link":"http://bit.ly/19GwfYM",
+    "desc":"Adds a new dimension made out of Obsidian with a new mob and a new ore, used to create new tools and armor.",
+    "author":"Blooddude123456",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Sandfix",
     "other":"",
     "link":"http://bit.ly/Vi5xyQ",
@@ -8687,7 +8707,7 @@
     "author":"Ellybelly360",
     "type":["SSP","LAN"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Simply Hax",
@@ -10290,10 +10310,10 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
-    "name":"Unlit Torches",
+    "name":"Unlit Torches and Lanterns",
     "other":"",
     "link":"http://bit.ly/17nzzJN",
-    "desc":"Makes it so that standard torches have a life span and eventually burn out, giving you unlit torches. Also overrides torch crafting recipes to give you unlit torches instead.",
+    "desc":"Makes it so that standard torches have a life span and eventually burn out, giving you unlit torches. Overrides torch crafting recipes to give you unlit torches instead. Adds lanterns that need fuel and eventually burn out.",
     "author":"pelep",
     "type":["Universal"],
     "dependencies":["Forge Required"],
