@@ -8273,7 +8273,7 @@
     "name":"Redstone Clock",
     "other":"",
     "link":"http://bit.ly/11Ugzfv",
-    "desc":"Adds a redstone clock pulsing from a range up t 1 in-game day, including a silent version.",
+    "desc":"Adds a redstone clock pulsing from a range up to one in-game day, including a silent version.",
     "author":"Lachee Domain",
     "type":["SSP"],
     "dependencies":["Forge Required"],
