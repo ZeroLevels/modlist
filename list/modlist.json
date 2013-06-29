@@ -815,7 +815,7 @@
     "link":"http://bit.ly/1152T69",
     "desc":"Continuation of Advanced HUD. Allows you to customize the in-game HUD.",
     "author":"maxpowa",
-    "type":["Universal"],
+    "type":["Client"],
     "dependencies":["Forge Required"],
     "versions":["1.5.2"]
   },
