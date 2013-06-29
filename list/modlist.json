@@ -3560,6 +3560,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"EdziuCraft",
+    "other":"",
+    "link":"http://bit.ly/17rqU6Z",
+    "desc":"Adds new slime-based tools and blocks, along with new items.",
+    "author":"Edziu1996",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Electric Expansion",
     "other":"",
     "link":"http://calclavia.com/universalelectricity/?m=4",
