@@ -63,6 +63,7 @@ function bitly() {
 			$('#link').val(data['link']);
 			$('#linktext').html('<span class="found">Link shortened!</span>');
 		});
+	generate();
 }
 
 function loadbitly() {
@@ -235,18 +236,18 @@ function hideDivs() {
 $('#name').focus(function() {
 	window.lastName = $('#name').val();
 });
-$('#name').keyup(generate);
+$('#name').bind('input propertychange', null,generate);
 $('#name').blur(checkExist);
-$('#other').keyup(generate);
-$('#link').keyup(checklink);
-$('#link').keyup(generate);
+$('#other').bind('input propertychange', null,generate);
+$('#link').bind('input propertychange', null,checklink);
+$('#link').bind('input propertychange', null,generate);
 $('#link').blur(loadbitly);
-$('#desc').keyup(generate);
-$('#author').keyup(generate);
+$('#desc').bind('input propertychange', null,generate);
+$('#author').bind('input propertychange', null,generate);
 $('#author').blur(checkOtherMods);
-$('#type').keyup(generate);
-$('#dependencies').keyup(generate);
-$('#dependencies').keyup(checkDepends);
+$('#type').bind('input propertychange', null,generate);
+$('#dependencies').bind('input propertychange', null,generate);
+$('#dependencies').bind('input propertychange', null,checkDepends);
 $('#ver152').click(generate);
 $('#ver151').click(generate);
 $('#ver150').click(generate);
