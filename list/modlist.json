@@ -810,6 +810,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Advanced HUD Continuation",
+    "other":"",
+    "link":"http://bit.ly/1152T69",
+    "desc":"Continuation of Advanced HUD. Allows you to customize the in-game HUD.",
+    "author":"maxpowa",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Adventure Kit",
     "other":"",
     "link":"http://bit.ly/YgfcLV",
