@@ -8270,6 +8270,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Redstone Clock",
+    "other":"",
+    "link":"http://bit.ly/11Ugzfv",
+    "desc":"Adds a redstone clock pulsing from a range up to one in-game day, including a silent version.",
+    "author":"Lachee Domain",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Redstone Energy Field",
     "other":"",
     "link":"http://bit.ly/10MmNfk",
