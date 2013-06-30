@@ -76,6 +76,8 @@ function loadbitly() {
 			if(/\[[a-zA-Z0-9.]*\]/.test(data['title']))
 				data['title'] = data['title'].replace(/\[[a-zA-Z0-9.\/]*\]/g, "");
 			data['title'] = $.trim(data['title']);
+			if(data['title'] == "")
+				data['title'] = "Link";
 			$('#linktext').html('<span class="found"><a href="' + data['link'] +'">' + data['title'] + '</a></span>');
 		});
 	}
