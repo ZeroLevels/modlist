@@ -62,8 +62,8 @@ function bitly() {
 	$.getJSON("tools/bitly.php?mode=save&link=" + $('#link').val(), function(data) {
 			$('#link').val(data['link']);
 			$('#linktext').html('<span class="found">Link shortened!</span>');
+			generate();
 		});
-	generate();
 }
 
 function loadbitly() {
