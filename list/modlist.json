@@ -880,6 +880,16 @@
     "versions":["1.4.6", "1.4.7","1.5.2"]
   },
   {
+    "name":"Alice's Dolls (Touhou)",
+    "other":"",
+    "link":"http://bit.ly/14i4Uu9",
+    "desc":"Adds craftable dolls from the Touhou game series, with Artificial Intelligence that help with a variety of tasks.",
+    "author":"iwa_yukinoshita",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Aliens Vs Predator",
     "other":"",
     "link":"http://bit.ly/YaUXfI",
@@ -2710,6 +2720,16 @@
     "versions":["1.4.2"]
   },
   {
+    "name":"Craftable Spawners",
+    "other":"",
+    "link":"http://bit.ly/14i5yaP",
+    "desc":"Allows you to craft mob spawners in-game.",
+    "author":"TheBoo",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"CraftGuide",
     "other":"",
     "link":"http://bit.ly/ZfKdKh",
@@ -3937,7 +3957,7 @@
     "author":"Naruto1310",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Exter's Mods",
@@ -9858,6 +9878,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"The Uncrafting Mod",
+    "other":"",
+    "link":"http://bit.ly/13ds5ZN",
+    "desc":"Allows you to uncraft almost every single item, block, weapon, etc.",
+    "author":"Geroy290",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"The Uncraftables",
