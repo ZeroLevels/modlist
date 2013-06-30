@@ -9127,7 +9127,7 @@
     "author":"AXELTOPOLINO",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"StarMod",
