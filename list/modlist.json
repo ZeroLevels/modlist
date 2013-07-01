@@ -1457,7 +1457,7 @@
     "author":"SMEZ1234",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Better Bows Mod",
@@ -1588,6 +1588,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Better Wood Mod",
+    "other":"",
+    "link":"http://bit.ly/17N0aRZ",
+    "desc":"Allows the type of wood you use to affect the color of the tool and items you craft.",
+    "author":"SackCastellon",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Better World Generation 3",
@@ -3660,6 +3670,16 @@
     "versions":["1.5.1"]
   },
   {
+    "name":"Elemental Orbs",
+    "other":"iN3rd's",
+    "link":"http://bit.ly/1auwJEq",
+    "desc":"Allows you to use element-related orbs to do many things to the area around you. Official continuation of MaximumTechnology's Elemental Orbs.",
+    "author":"iN3rd",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Elemental Tinkerer",
     "other":"",
     "link":"http://bit.ly/10tghAD",
@@ -3828,6 +3848,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+  },
+  {
+    "name":"Enhanced Portals 2",
+    "other":"",
+    "link":"http://bit.ly/TGk9sM",
+    "desc":"Allows you to create any shape or size for portals. Portals can be made out of new materials and the portal itself can be dyed. Includes advanced dimensional and particle controls. New version of Enhanced Portals.",
+    "author":"Alz454",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Enhanced Visuals",
@@ -6633,11 +6663,11 @@
     "name":"Mob Spawn Controls",
     "other":"",
     "link":"http://bit.ly/ZwUyGv",
-    "desc":"",
+    "desc":"Allows you to control where mobs can spawn.",
     "author":"Davidee",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Mob Talker",
