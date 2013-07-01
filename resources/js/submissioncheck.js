@@ -129,10 +129,7 @@ function checkFields() {
 			) &&
 			(
 				$('#ver161').is(":checked") ||
-				$('#ver152').is(":checked") ||
-				$('#ver151').is(":checked") ||
-				$('#ver150').is(":checked") ||
-				$('#ver147').is(":checked")
+				$('#ver152').is(":checked")
 			) &&
 			$('#notbot').is(":checked")
 		) {
@@ -145,10 +142,7 @@ function checkFields() {
 			$('#name').val() !== "" &&
 			(
 				$('#ver161').is(":checked") ||
-				$('#ver152').is(":checked") ||
-				$('#ver151').is(":checked") ||
-				$('#ver150').is(":checked") ||
-				$('#ver147').is(":checked")
+				$('#ver152').is(":checked")
 			) &&
 			$('#notbot').is(":checked")
 		) {
