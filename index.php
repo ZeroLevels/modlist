@@ -9,7 +9,7 @@
 	<link rel="stylesheet" type="text/css" href="resources/stylesheets/common.css" media="screen" />
 </head>
 	
-<body style="min-width:600px">
+<body style="min-width:610px">
 <div id="main">
 	<img src="resources/images/mcfmodlist.png" width="670" height="122" alt="MCF-ModList"/><br/><br/>
 	<ul id="list-nav">

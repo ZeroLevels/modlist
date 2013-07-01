@@ -9,6 +9,7 @@ body {
 	font-family: 'PT Sans', Arial, sans-serif;
 	padding: 0;
 	margin: 0;
+	min-width: 1160px;
 }
 #login {
 	margin-left: auto;
