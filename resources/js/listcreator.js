@@ -32,6 +32,10 @@ function checklink() {
 function setVersions(versionlist) {
 	window.skipVersions = true;
 	var versions = versionlist.split(',');
+	if(versions.indexOf('1.6.1') != -1)
+		$('#ver161').attr('checked', true);
+	else
+		$('#ver161').attr('checked', false);
 	if(versions.indexOf('1.5.2') != -1)
 		$('#ver152').attr('checked', true);
 	else
@@ -121,6 +125,8 @@ function generate() {
 		versions.push('1.5.1');
 	if($('#ver152').is(':checked'))
 		versions.push('1.5.2');
+	if($('#ver161').is(':checked'))
+		versions.push('1.6.1');
 	if(versions.length > 0)
 		json += '    "versions":["' + versions.join('","') + '"]\r\n';
 	else
@@ -161,6 +167,10 @@ function checkExist() {
 					$('#dependencies').val(data[i].dependencies.join(','));
 					
 					if(window.skipVersions === false) {
+						if(data[i].versions.indexOf('1.6.1') != -1)
+							$('#ver161').attr('checked', true);
+						else
+							$('#ver161').attr('checked', false);
 						if(data[i].versions.indexOf('1.5.2') != -1)
 							$('#ver152').attr('checked', true);
 						else
@@ -250,6 +260,7 @@ $('#author').blur(checkOtherMods);
 $('#type').bind('input propertychange', null,generate);
 $('#dependencies').bind('input propertychange', null,generate);
 $('#dependencies').bind('input propertychange', null,checkDepends);
+$('#ver161').click(generate);
 $('#ver152').click(generate);
 $('#ver151').click(generate);
 $('#ver150').click(generate);
