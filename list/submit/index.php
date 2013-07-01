@@ -92,6 +92,7 @@ pre {
 <span class="small">What Minecraft version are you submitting this for?</span>
 </label>
 <fieldset class="checkcontain">
+<input id="ver161" type="checkbox" name="version[]" value="1.6.1"><label for="ver161">1.6.1</label>
 <input id="ver152" type="checkbox" name="version[]" value="1.5.2"><label for="ver152">1.5.2</label>
 <input id="ver151" type="checkbox" name="version[]" value="1.5.1"><label for="ver151">1.5.1</label>
 <input id="ver150" type="checkbox" name="version[]" value="1.5.0"><label for="ver150">1.5</label>

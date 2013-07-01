@@ -49,12 +49,13 @@ include('../../resources/scripts/jsontable.php');
 </p>
 <table class="listnav nav major">
 	<thead>
-		<th colspan="2" style="color: black">List Version Navigation</th>
+		<th colspan="3" style="color: black">List Version Navigation</th>
 	</thead>
 	<tbody>
 		<tr class="c">
 			<td class="h">1.4</td>
 			<td class="nh" onclick="window.location.href='../1.5/'"><a href="../1.5/">1.5</a></td>
+			<td class="nh" onclick="window.location.href='../1.6/'"><a href="../1.6/">1.6</a></td>
 		</tr>
 	</tbody>
 </table>
