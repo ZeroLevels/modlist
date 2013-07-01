@@ -6930,6 +6930,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"More Pressure Mod",
+    "other":"",
+    "link":"http://bit.ly/1b24ifG",
+    "desc":"Allows the creation of pressure plates using a vast variety of materials which inherit certain features from their material blocks, such as obsidian's blast resistance and glowstone's light.",
+    "author":"fuj1n",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"More Pressure Plates Mod",
     "other":"",
     "link":"http://bit.ly/13G0lfW",
