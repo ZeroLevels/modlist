@@ -2247,7 +2247,7 @@
     "author":"Vazkii",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Chisel",
@@ -4496,8 +4496,8 @@
     "desc":"A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
     "author":"LexManos",
     "type":["Universal"],
-    "dependencies":["Forge Itself"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "dependencies":["Forge Required"],
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"ForgeEssentials",
@@ -7437,7 +7437,7 @@
     "author":"soccerguy3",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"No Ice Melt",
@@ -7447,7 +7447,7 @@
     "author":"soccerguy3",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"No Infinite Water",
