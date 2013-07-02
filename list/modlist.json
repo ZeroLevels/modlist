@@ -8767,7 +8767,7 @@
     "author":"NemockZans",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.7","1.5.2"]
+    "versions":["1.4.7","1.5.2","1.6.1"]
   },
   {
     "name":"ShowMonsters",
