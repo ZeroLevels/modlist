@@ -55,7 +55,7 @@ include('../../resources/scripts/jsontable.php');
 		<tr class="c">
 			<td class="nh" onclick="window.location.href='../1.4/'"><a href="../1.4/">1.4</a></td>
 			<td class="nh" onclick="window.location.href='../1.5/'"><a href="../1.5/">1.5</a></td>
-			<td class="h">1.6.1</td>
+			<td class="h">1.6</td>
 		</tr>
 	</tbody>
 </table>
