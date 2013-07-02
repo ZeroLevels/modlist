@@ -32,7 +32,7 @@ include('../../resources/scripts/jsontable.php');
 	<li><a href="/banners/">Banners</a></li>
 
 	<![if !IE]>
-	<br/><li class="nh"><a href="/resources/igml2/" class="igml">Ingame Mod List</a></li>
+	<br/><li class="nh"><a href="/resources/igml3/" class="igml">Ingame Mod List</a></li>
 	<![endif]>
 
 	<!--[if IE]>
