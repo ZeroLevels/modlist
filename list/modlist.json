@@ -2627,7 +2627,7 @@
     "author":"TheMinecraftianGamer",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Contagion",
