@@ -42,27 +42,7 @@ include('../../resources/scripts/jsontable.php');
 <br/>
 <hr width="99%" size="6" noshade>
 <p class="padded" style="font-size:2em">This list (<?php echo str_replace('_','/',$version); ?>) will no longer be updated. More recent lists are the priority. <a href="/latest/" class="ns">Click here</a> to the see the latest list.</p>
-<table class="listnav nav major">
-	<thead>
-		<th colspan="3" style="color: black">List Version Navigation</th>
-	</thead>
-	<tbody>
-		<tr class="c">
-			<td class="h">1.4</td>
-			<td class="nh" onclick="window.location.href='../1.5/'"><a href="../1.5/">1.5</a></td>
-			<td class="nh" onclick="window.location.href='../1.6/'"><a href="../1.6/">1.6</a></td>
-		</tr>
-	</tbody>
-</table>
-
-<table class="minor listnav nav">
-	<tr>
-		<td class="nh" onclick="window.location.href='1.4.2.php'"><a href="1.4.2.php">1.4.2</a></td>
-		<td class="h">1.4.4/1.4.5</td>
-		<td class="nh" onclick="window.location.href='1.4.6_1.4.7.php'"><a href="1.4.6_1.4.7.php">1.4.6/1.4.7</a></td>
-	</tr>
-</table>
-
+<?php listVersion($version); ?>
 <table cellspacing="0" class="modlist" id="example">
 	<thead>
 		<?php beginTable(); ?>

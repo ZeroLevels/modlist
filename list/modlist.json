@@ -10434,7 +10434,7 @@
     "other":"",
     "link":"http://bit.ly/X6ZyLH",
     "desc":"Overhauls the underground experience with Underground Biomes that define the rock types and ores present.",
-    "author":"Grom PE",
+    "author":"Grom_PE",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]

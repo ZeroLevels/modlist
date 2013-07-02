@@ -47,26 +47,7 @@ include('../../resources/scripts/jsontable.php');
 	<br/>
 	If there's an icon in the "Info" column, hover over it to read the description for that mod.
 </p>
-<table class="listnav nav major">
-	<thead>
-		<th colspan="3" style="color: black">List Version Navigation</th>
-	</thead>
-	<tbody>
-		<tr class="c">
-			<td class="nh" onclick="window.location.href='../1.4/'"><a href="../1.4/">1.4</a></td>
-			<td class="h">1.5</td>
-			<td class="nh" onclick="window.location.href='../1.6/'"><a href="../1.6/">1.6</a></td>
-		</tr>
-	</tbody>
-</table>
-
-<table class="minor listnav nav">
-	<tr>
-		<td class="nh" onclick="window.location.href='1.5.0.php'"><a href="1.5.0.php">1.5.0</a></td>
-		<td class="nh" onclick="window.location.href='1.5.1.php'"><a href="1.5.1.php">1.5.1</a></td>
-		<td class="h">1.5.2</td>
-	</tr>
-</table>
+<?php listVersion($version); ?>
 <table cellspacing="0" class="modlist" id="example">
 	<thead>
 		<?php beginTable(); ?>
