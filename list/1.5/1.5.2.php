@@ -22,13 +22,13 @@ include('../../resources/scripts/jsontable.php');
 </div>
 
 <p>
-	<img src="../../resources/images/<?php echo $version; ?>.png" width="130" height="58"/><br/>
+	<img src="../../resources/images/<?php echo $version; ?>.png" width="128" height="58"/><br/>
 	<span style="font-size:200%">Last Updated: <?php $content = file('changelog_'.$version.'.html'); echo $content[1]; ?></span><br/><a href="changelog_<?php echo $version; ?>.html" class="ns">Click here</a> to view the changelog.
 </p>
 <ul id="list-nav">
 	<li><a href="/">Home</a></li>
 	<li><a href="/credits/">Credits</a></li>
-	<li class="h"><a>Current List</a></li>
+	<li><a href="/latest/">Current List</a></li>
 	<li><a href="/banners/">Banners</a></li>
 
 	<![if !IE]>
