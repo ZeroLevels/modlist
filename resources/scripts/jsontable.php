@@ -93,6 +93,79 @@ function showAPI($version) {
 	echo implode(' | ', $listing);
 }
 
+function listVersion($version) {
+	echo '<table class="listnav nav major">';
+	echo '<thead>';
+	echo '<th colspan="3" style="color: black">List Version Navigation</th>';
+	echo '</thead>';
+	echo '<tbody>';
+	echo '<tr class="c">';
+	
+	if(floatval($version) == 1.4)
+		echo '<td class="h">1.4</td>';
+	else
+		echo '<td class="nh" onclick="window.location.href=\'../1.4/\'"><a href="../1.4/">1.4</a></td>';
+	
+	if(floatval($version) == 1.5)
+		echo '<td class="h">1.5</td>';
+	else
+		echo '<td class="nh" onclick="window.location.href=\'../1.5/\'"><a href="../1.5/">1.5</a></td>';
+	
+	if(floatval($version) == 1.6)
+		echo '<td class="h">1.6</td>';
+	else
+		echo '<td class="nh" onclick="window.location.href=\'../1.6/\'"><a href="../1.6/">1.6</a></td>';
+	
+	echo '</tr>';
+	echo '</tbody>';
+	echo '</table>';
+	
+	echo '<table class="minor listnav nav">';
+	echo '<tr>';
+	switch(floatval($version)) {
+		case 1.4:
+			if($version == "1.4.2")
+				echo '<td class="h">1.4.2</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.4.2.php\'"><a href="1.4.2.php">1.4.2</a></td>';
+			
+			if($version == "1.4.4_1.4.5")
+				echo '<td class="h">1.4.4/1.4.5</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.4.4_1.4.5.php\'"><a href="1.4.4_1.4.5.php">1.4.4/1.4.5</a></td>';
+			
+			if($version == "1.4.6_1.4.7")
+				echo '<td class="h">1.4.6/1.4.7</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.4.6_1.4.7.php\'"><a href="1.4.6_1.4.7.php">1.4.6/1.4.7</a></td>';
+			break;
+		case 1.5:
+			if($version == "1.5.0")
+				echo '<td class="h">1.5.0</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.5.0.php\'"><a href="1.5.0.php">1.5.0</a></td>';
+			
+			if($version == "1.5.1")
+				echo '<td class="h">1.5.1</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.5.1.php\'"><a href="1.5.1.php">1.5.1</a></td>';
+			
+			if($version == "1.5.2")
+				echo '<td class="h">1.5.2</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.5.2.php\'"><a href="1.5.2.php">1.5.2</a></td>';
+			break;
+		case 1.6:
+			if($version == "1.6.1")
+				echo '<td class="h">1.6.1</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.6.1.php\'"><a href="1.6.1.php">1.6.1</a></td>';
+			break;
+	}
+	echo '</tr>';
+	echo '</table>';
+}
+
 function beginTable() {
 	echo '<th style="min-width:262px">Mod Name<br/><input type="text" id="searchnames" placeholder="Type to search" class="search" /></th>';
 	echo '<th style="min-width: 50px; max-width:51px">Info</th>';
