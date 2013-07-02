@@ -917,7 +917,7 @@
     "author":"mister_person",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Alma Wade Mod",
@@ -1077,7 +1077,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"ArmorStatusHUD",
@@ -1247,7 +1247,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Audiotori",
@@ -1300,6 +1300,26 @@
     "versions":["1.5.0"]
   },
   {
+    "name":"Auto-shutdown",
+    "other":"",
+    "link":"http://bit.ly/12i4AZ1",
+    "desc":"This is a server-only mod used for automatic shutting down after specified time with no players online.",
+    "author":"monnef",
+    "type":["Server"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Awesome Mod",
+    "other":"",
+    "link":"http://bit.ly/15csGbU",
+    "desc":"Adds decorative blocks with neon-like properties, and a light generator which generates light configurable with redstone.",
+    "author":"fuj1n",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"B&I",
     "other":"",
     "link":"http://bit.ly/WdWkqT",
@@ -1338,6 +1358,16 @@
     "type":["Client"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"BackCraft",
+    "other":"",
+    "link":"http://www.minecraftforum.net/topic/1873656-",
+    "desc":"Allows you to reverse crafting recipes to their original materials.",
+    "author":"JL97",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.6.1"]
   },
   {
     "name":"Backpacks",
@@ -1727,7 +1757,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Birds Mod",
@@ -3137,7 +3167,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Death Counter",
@@ -3627,7 +3657,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Elemental Creepers",
@@ -4190,10 +4220,20 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Feather Stuff Mod",
+    "other":"",
+    "link":"http://bit.ly/15csglQ",
+    "desc":"Adds feather tools and armor.",
+    "author":"fuj1n",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Female Gender Option",
     "other":"",
     "link":"http://bit.ly/108keKU",
-    "desc":"This mod has separate ModLoader and Forge versions.See bit.ly/modloaderProvides the option to turn the player into a female model while maintaining the minecraft style.",
+    "desc":"This mod has separate ModLoader and Forge versions. Provides the option to turn the player into a female model while maintaining the minecraft style.",
     "author":"iPixeli",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
@@ -4367,7 +4407,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Flowercraft",
@@ -4827,7 +4867,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Grimoire of Gaia",
@@ -5357,7 +5397,7 @@
     "author":"Alblaka",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Infernal Mobs",
@@ -5708,6 +5748,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"Kodehawa's Cheating Essentials",
+    "other":"",
+    "link":"http://bit.ly/11ulPtx",
+    "desc":"Allows the player to cheat with Fly, X-ray and other cheat tools.",
+    "author":"Kodehawa",
+    "type":["Client"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.6.1"]
   },
   {
     "name":"Koi",
@@ -6707,7 +6757,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"ModOptionsAPI",
@@ -6836,8 +6886,8 @@
     "desc":"Gameplay and balance tweaks, better mod integration, and scripting support.",
     "author":"Grom PE",
     "type":["Universal"],
-    "dependencies":["Forge Compatible", "Modloader Compatible"],
-    "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
+    "dependencies":["Forge Compatible","Modloader Compatible"],
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"More Furnaces",
@@ -6987,7 +7037,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"More Stuff",
@@ -7497,7 +7547,7 @@
     "author":"xaero_",
     "type":["SSP","SMP","LAN"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"NotOnlyMoreOres Mod",
@@ -7608,6 +7658,16 @@
     "type":["Client"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Ore Dimension's Mod",
+    "other":"",
+    "link":"http://bit.ly/12i3UD8",
+    "desc":"Adds 5 new dimensions based on Minecraft ores.",
+    "author":"The_Kurta3",
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Ores drop Mores 2",
@@ -8297,7 +8357,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Recipe Remover",
@@ -8687,7 +8747,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Show Durability",
@@ -8747,7 +8807,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Sim-U-Kraft",
@@ -9077,7 +9137,7 @@
     "author":"Risugami",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Special Mobs",
@@ -10920,16 +10980,6 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"X-Ray Mod (craftminer502)",
-    "other":"",
-    "link":"http://bit.ly/VxkL27",
-    "desc":"Adds the ability to see through blocks so you may quickly find materials you're looking for.",
-    "author":"craftminer502",
-    "type":["N/A"],
-    "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
-  },
-  {
     "name":"X-Ray Mod",
     "other":"(CJB)",
     "link":"http://bit.ly/cjbmodsr",
@@ -10945,9 +10995,9 @@
     "link":"http://bit.ly/VxkL27",
     "desc":"Adds the ability to see through blocks so you may quickly find materials you're looking for.",
     "author":"craftminer502",
-    "type":["SSP"],
+    "type":["Client"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"X-Ray Mod",
