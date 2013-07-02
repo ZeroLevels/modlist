@@ -3,31 +3,17 @@
  * Written by GrygrFlzr
  */
 if(isset($_SESSION['usr'])) {
+	$change161 = file('../list/1.6/changelog_1.6.1.html');
 	$change152 = file('../list/1.5/changelog_1.5.2.html');
-	$change151 = file('../list/1.5/changelog_1.5.1.html');
-	$change150 = file('../list/1.5/changelog_1.5.0.html');
-	$change147 = file('../list/1.4/changelog_1.4.6_1.4.7.html');
 	$counter = 0;
+	for($i=1;$i<count($change161);$i++) {
+		if($change161[$i] == "\r\n" || $change161[$i] == "\n") {
+			$counter = $counter + $i + 1;
+			break;
+		}
+	}
 	for($i=1;$i<count($change152);$i++) {
 		if($change152[$i] == "\r\n" || $change152[$i] == "\n") {
-			$counter = $counter + $i + 1;
-			break;
-		}
-	}
-	for($i=1;$i<count($change151);$i++) {
-		if($change151[$i] == "\r\n" || $change151[$i] == "\n") {
-			$counter = $counter + $i + 1;
-			break;
-		}
-	}
-	for($i=1;$i<count($change150);$i++) {
-		if($change150[$i] == "\r\n" || $change150[$i] == "\n") {
-			$counter = $counter + $i + 1;
-			break;
-		}
-	}
-	for($i=1;$i<count($change147);$i++) {
-		if($change147[$i] == "\r\n" || $change147[$i] == "\n") {
 			$counter = $counter + $i + 1;
 			break;
 		}
@@ -54,38 +40,20 @@ if(isset($_SESSION['usr'])) {
 	imagettftext($image, 8, 0, 560, 18, $cl_darkgrey, $font, "Automatic Changelog Script");
 	imagettftext($image, 8, 0, 596, 28, $cl_darkgrey, $font, "Written by GrygrFlzr");
 
-	imagettftext($image, 12, 0, 10, 48, $cl_black, $fontb, "1.5.2");
+	imagettftext($image, 12, 0, 10, 48, $cl_black, $fontb, "1.6.1");
 	$counter = 0;
+	for($i=1;$i<count($change161);$i++) {
+		if($change161[$i] != "\r\n" && $change161[$i] != "\n") {
+			drawChange($image, 48 + (($i + $counter) * 14), $change161[$i]);
+		} else {
+			$counter = $counter + $i + 1;
+			break;
+		}
+	}
+	imagettftext($image, 12, 0, 10, ($counter * 14) + 48, $cl_black, $fontb, "1.5.2");
 	for($i=1;$i<count($change152);$i++) {
 		if($change152[$i] != "\r\n" && $change152[$i] != "\n") {
 			drawChange($image, 48 + (($i + $counter) * 14), $change152[$i]);
-		} else {
-			$counter = $counter + $i + 1;
-			break;
-		}
-	}
-	imagettftext($image, 12, 0, 10, ($counter * 14) + 48, $cl_black, $fontb, "1.5.1");
-	for($i=1;$i<count($change151);$i++) {
-		if($change151[$i] != "\r\n" && $change151[$i] != "\n") {
-			drawChange($image, 48 + (($i + $counter) * 14), $change151[$i]);
-		} else {
-			$counter = $counter + $i + 1;
-			break;
-		}
-	}
-	imagettftext($image, 12, 0, 10, ($counter * 14) + 48, $cl_black, $fontb, "1.5");
-	for($i=1;$i<count($change150);$i++) {
-		if($change150[$i] != "\r\n" && $change150[$i] != "\n") {
-			drawChange($image, 48 + (($i + $counter) * 14), $change150[$i]);
-		} else {
-			$counter = $counter + $i + 1;
-			break;
-		}
-	}
-	imagettftext($image, 12, 0, 10, ($counter * 14) + 48, $cl_black, $fontb, "1.4.6/1.4.7");
-	for($i=1;$i<count($change147);$i++) {
-		if($change147[$i] != "\r\n" && $change147[$i] != "\n") {
-			drawChange($image, 48 + (($i + $counter) * 14), $change147[$i]);
 		} else {
 			$counter = $counter + $i + 1;
 			break;
