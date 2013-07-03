@@ -1,5 +1,11 @@
 <?php
 $version="1.6.1";
+if(file_exists($version.'_cached.html') &&
+	(filemtime($version.'_cached.html') > filemtime('../modlist.json'))
+	) {
+	echo file_get_contents($version.'_cached.html');
+} else {
+ob_start();
 include('../../resources/scripts/jsontable.php');
 ?>
 <!DOCTYPE html>
@@ -83,3 +89,8 @@ include('../../resources/scripts/jsontable.php');
 </script>
 </body>
 </html>
+<?php
+file_put_contents($version.'_cached.html', ob_get_contents());
+ob_end_flush();
+}
+?>
