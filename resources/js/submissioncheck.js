@@ -44,6 +44,10 @@ function checkExist() {
 						$('#ver142').prop('checked','true');
 					else
 						$('#ver142').removeAttr('checked');
+					if(data['versions'].indexOf("1.3.2") > -1)
+						$('#ver132').prop('checked','true');
+					else
+						$('#ver132').removeAttr('checked');
 					
 					
 					if(data['dependencies'].indexOf("Forge Required") > -1 ||
@@ -206,6 +210,7 @@ function resetAll() {
 	$('#ver147').removeAttr('checked');
 	$('#ver145').removeAttr('checked');
 	$('#ver142').removeAttr('checked');
+	$('#ver132').removeAttr('checked');
 	
 	$('#fc').removeAttr('checked');
 	$('#fr').prop('checked',true);
@@ -278,6 +283,7 @@ $('#ver150').click(checkFields);
 $('#ver147').click(checkFields);
 $('#ver145').click(checkFields);
 $('#ver142').click(checkFields);
+$('#ver132').click(checkFields);
 
 $('#fc').click(checkFields);
 $('#fr').click(checkFields);

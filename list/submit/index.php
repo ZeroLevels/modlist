@@ -99,6 +99,7 @@ pre {
 <input id="ver147" type="checkbox" name="version[]" value="1.4.7"><label for="ver147">1.4.7/1.4.6</label>
 <input id="ver145" type="checkbox" name="version[]" value="1.4.5"><label for="ver145">1.4.5/1.4.4</label>
 <input id="ver142" type="checkbox" name="version[]" value="1.4.2"><label for="ver142">1.4.2</label>
+<input id="ver132" type="checkbox" name="version[]" value="1.3.2"><label for="ver132">1.3.2</label>
 </fieldset></br>
 <label>Other
 <span class="small">Anything else you want to add?</span>
