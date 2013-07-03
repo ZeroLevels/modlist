@@ -807,7 +807,7 @@
     "author":"TurboSlow",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"Advanced HUD Continuation",
@@ -828,6 +828,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"AdventureCraft",
+    "other":"",
+    "link":"http://bit.ly/1aAXPdc",
+    "desc":"A stand alone Minecraft mod designed to let players create adventure maps for other players.  It allows you have full control of how mobs spawn based on the player triggering blocks with a custom trigger system.",
+    "author":"Cryect",
+    "type":["N/A"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.3.2"]
   },
   {
     "name":"AdventureTime Mod",
@@ -897,7 +907,7 @@
     "author":"Ri5ux",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
     "name":"AllSnow Mod",
@@ -967,7 +977,7 @@
     "author":"Shadowmage4513",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.6","1.4.7"]
   },
   {
     "name":"Animal Bikes",
@@ -977,7 +987,7 @@
     "author":"Noppes",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Animal Packer",
@@ -1007,7 +1017,7 @@
     "author":"Verdana",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.3.2","1.4.2","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Applied Energistics",
@@ -1067,7 +1077,7 @@
     "author":"JSut210",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Armor Stand",
@@ -1167,7 +1177,7 @@
     "author":"castielq",
     "type":["SSP","LAN"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Assembly Line",
@@ -1357,7 +1367,7 @@
     "author":"iChun",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"BackCraft",
@@ -1407,7 +1417,7 @@
     "author":"BalkondeurAlpha",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Basic Guns Mod",
@@ -1437,7 +1447,7 @@
     "author":"AtomicStryker",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"BearGrylls Mod",
@@ -1597,7 +1607,7 @@
     "author":"FlowerChild",
     "type":["Universal"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Better Third Person",
@@ -1637,7 +1647,7 @@
     "author":"ted80",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"Better World Generation 4",
@@ -1667,7 +1677,7 @@
     "author":"darahalian",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.6","1.4.7"]
   },
   {
     "name":"BetterPistons",
@@ -1707,7 +1717,7 @@
     "author":"Karob",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.2","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Big Reactors",
@@ -1747,7 +1757,7 @@
     "author":"ted80",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Biosphere",
@@ -1917,7 +1927,7 @@
     "author":"OGZxBUCK",
     "type":["N/A"],
     "dependencies":["N/A"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.6","1.4.7"]
   },
   {
     "name":"Bucket of Jam Mod",
@@ -1957,7 +1967,7 @@
     "author":"SirSengir",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Buildcraft-IndustrialCraft Crossover Mod",
@@ -1987,7 +1997,7 @@
     "author":"bencvt",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.3.2","1.4.4","1.4.5"]
   },
   {
     "name":"Butter Mod",
@@ -2137,7 +2147,7 @@
     "author":"-Reaper-",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Chainz: The -Missing- Iron Link",
@@ -2227,7 +2237,7 @@
     "author":"chicken_bones",
     "type":["N/A"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5"]
   },
   {
     "name":"ChickenChunks",
@@ -2357,7 +2367,7 @@
     "author":"Harrison_TOM",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Clay Soldiers Mod",
@@ -2367,7 +2377,7 @@
     "author":"SanAndreasP",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Clay Spawn",
@@ -2505,9 +2515,9 @@
     "link":"http://bit.ly/UR0s1a",
     "desc":"",
     "author":"Gorion91",
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"Coloured Diamonds Mod",
@@ -2607,7 +2617,7 @@
     "author":"dan200",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Condensed Blocks Mod",
@@ -2717,7 +2727,7 @@
     "author":"crackedEgg",
     "type":["SSP","SMP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.6","1.4.7"]
   },
   {
     "name":"Craft And Enchant",
@@ -2747,7 +2757,7 @@
     "author":"Naruto1310",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.6","1.4.7"]
   },
   {
     "name":"Craftable Command Block",
@@ -2777,7 +2787,7 @@
     "author":"Uristqwerty",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Crafting Creation",
@@ -2827,7 +2837,7 @@
     "author":"klglange",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"crazyb's Mods",
@@ -2887,7 +2897,7 @@
     "author":"MorpheusZero",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.5.0","1.5.1"]
+    "versions":["1.3.2","1.4.2","1.5.0","1.5.1"]
   },
   {
     "name":"CreeperSpecies",
@@ -2907,7 +2917,7 @@
     "author":"Phuck_Yu_Too",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"Crossbow Mod 2",
@@ -2967,7 +2977,7 @@
     "author":"CubeX2",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.6","1.4.7"]
   },
   {
     "name":"Custom Lan Port Mod",
@@ -2987,7 +2997,7 @@
     "author":"DrZhark",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.5.1"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.5.1"]
   },
   {
     "name":"Custom Mob Spawner",
@@ -3007,7 +3017,7 @@
     "author":"Noppes",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Custom Ore Generation",
@@ -3057,7 +3067,7 @@
     "author":"bspkrs ",
     "type":["N/A"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5"]
   },
   {
     "name":"Dalek Mod",
@@ -3117,7 +3127,7 @@
     "author":"Davidee",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"DayZ Mod",
@@ -3297,7 +3307,7 @@
     "author":"thorgot",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
     "name":"Diamond Meter",
@@ -3307,7 +3317,7 @@
     "author":"PCChazter",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.6","1.4.7"]
   },
   {
     "name":"Dimensional Anchors",
@@ -3387,7 +3397,7 @@
     "author":"kirsybuu",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
   },
   {
     "name":"Doubledoor",
@@ -4497,7 +4507,7 @@
     "author":"LexManos",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"ForgeEssentials",

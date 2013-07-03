@@ -45,7 +45,7 @@
 			<a href="list/1.4/1.4.6_1.4.7.php">1.4.6/1.4.7 List</a><br/>
 			<a href="list/1.4/1.4.4_1.4.5.php">1.4.4/1.4.5 List</a><br/>
 			<a href="list/1.4/1.4.2.php">1.4.2 List</a><br/>
-			1.3.2 List
+			<a href="list/1.3/1.3.2.php">1.3.2 List</a>
 		</span>
 	</p>
 </div>
