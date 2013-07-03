@@ -4757,7 +4757,7 @@
     "author":"GrygrFlzr",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"GLSL Shaders mod",
@@ -5468,6 +5468,16 @@
     "type":["Client"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
+  },
+  {
+    "name":"Ingame Mod List 3",
+    "other":"(IGML3)",
+    "link":"http://modlist.mcf.li/resources/igml3/",
+    "desc":"Provides an in-game interface for the modlist.",
+    "author":"Duke605",
+    "type":["Client"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.1"]
   },
   {
     "name":"IngameInfo",
