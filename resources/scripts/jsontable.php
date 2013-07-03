@@ -96,10 +96,15 @@ function showAPI($version) {
 function listVersion($version) {
 	echo '<table class="listnav nav major">';
 	echo '<thead>';
-	echo '<th colspan="3" style="color: black">List Version Navigation</th>';
+	echo '<th colspan="4" style="color: black">List Version Navigation</th>';
 	echo '</thead>';
 	echo '<tbody>';
 	echo '<tr class="c">';
+	
+	if(floatval($version) == 1.3)
+		echo '<td class="h">1.3</td>';
+	else
+		echo '<td class="nh" onclick="window.location.href=\'../1.3/\'"><a href="../1.3/">1.3</a></td>';
 	
 	if(floatval($version) == 1.4)
 		echo '<td class="h">1.4</td>';
@@ -123,6 +128,12 @@ function listVersion($version) {
 	echo '<table class="minor listnav nav">';
 	echo '<tr>';
 	switch(floatval($version)) {
+		case 1.3:
+			if($version == "1.3.2")
+				echo '<td class="h">1.3.2</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.3.2.php\'"><a href="1.3.2.php">1.3.2</a></td>';
+			break;
 		case 1.4:
 			if($version == "1.4.2")
 				echo '<td class="h">1.4.2</td>';
