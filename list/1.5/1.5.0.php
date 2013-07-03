@@ -8,7 +8,7 @@ include('../../resources/scripts/jsontable.php');
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<title>MCF Mod List - <?php echo $version; ?></title>
-	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
 	<script type="text/javascript" src="../../resources/js/betterTableSearch.js" defer>/*Search script courtesy of GrygrFlzr*/</script>
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/modlist.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
