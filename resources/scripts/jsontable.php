@@ -133,6 +133,7 @@ function listVersion($version) {
 				echo '<td class="h">1.3.2</td>';
 			else
 				echo '<td class="nh" onclick="window.location.href=\'1.3.2.php\'"><a href="1.3.2.php">1.3.2</a></td>';
+			break;
 		case 1.4:
 			if($version == "1.4.2")
 				echo '<td class="h">1.4.2</td>';
