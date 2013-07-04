@@ -108,6 +108,7 @@ else
 <input id="ver147" type="checkbox" name="version" value="147"><label for="147">1.4.7/1.4.6</label>
 <input id="ver145" type="checkbox" name="version" value="145"><label for="145">1.4.5/1.4.4</label>
 <input id="ver142" type="checkbox" name="version" value="142"><label for="142">1.4.2</label>
+<input id="ver132" type="checkbox" name="version" value="132"><label for="132">1.3.2</label>
 </fieldset>
 <input id="reset" type="reset" value="Reset" />
 </form>
