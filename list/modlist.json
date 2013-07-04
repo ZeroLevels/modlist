@@ -997,7 +997,7 @@
     "author":"Noppes",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Animal Packer",
@@ -1537,7 +1537,7 @@
     "author":"Kitteh6660",
     "type":["SSP","LAN"],
     "dependencies":["Not Forge Compatible","Modloader"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.1"]
   },
   {
     "name":"Better Dungeons",
@@ -1667,7 +1667,7 @@
     "author":"ted80",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.2"]
+    "versions":["1.5.0","1.5.2","1.6.1"]
   },
   {
     "name":"BetterFonts",
@@ -1897,7 +1897,7 @@
     "author":"Matchlighter",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.6.1"]
   },
   {
     "name":"Brownies",
@@ -2127,7 +2127,7 @@
     "author":"Mineshopper",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.1"]
   },
   {
     "name":"Cartographer",
@@ -2343,11 +2343,11 @@
     "name":"chylex's Minimods",
     "other":"",
     "link":"http://bit.ly/17W8Phi",
-    "desc":"A collection of mini mods to  enhance your Minecraft world.",
+    "desc":"A collection of mini mods to enhance your Minecraft world.",
     "author":"chylex",
     "type":["N/A"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.6.1"]
   },
   {
     "name":"Civil War",
@@ -2548,6 +2548,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.0","1.5.1"]
+  },
+  {
+    "name":"ComicRetrolution's Craftory Mods",
+    "other":"",
+    "link":"http://bit.ly/144adfU",
+    "desc":"Collection of mods inspired by Rune Factory and Harvest Moon. Can be installed individually or together. Adds tools, crops, trees, watering cans, food descriptions and a simplified cooking system.",
+    "author":"ComicRetrolution",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.1"]
   },
   {
     "name":"Command Block GUI",
@@ -2778,6 +2788,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.2"]
+  },
+  {
+    "name":"Craftable Horse Armor",
+    "other":"",
+    "link":"http://bit.ly/16Q0QSe",
+    "desc":"Allows you to craft the Saddle and the Horse Armor",
+    "author":"SackCastellon",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.1"]
   },
   {
     "name":"Craftable Spawners",
@@ -3210,6 +3230,16 @@
     "versions":["1.4.2"]
   },
   {
+    "name":"Deconstruction Table",
+    "other":"",
+    "link":"http://bit.ly/16Q4QC2",
+    "desc":"Adds a table used to deconstruct items from the game",
+    "author":"Coolthings42",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2","1.6.1"]
+  },
+  {
     "name":"Defensive Villagers",
     "other":"",
     "link":"http://bit.ly/XWkxFW",
@@ -3497,7 +3527,7 @@
     "author":"Stuuupiiid",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1"]
   },
   {
     "name":"DupleCraft",
@@ -5407,7 +5437,7 @@
     "author":"Davidee",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"IndustrialCraft 2 (IC2)",
@@ -5883,11 +5913,11 @@
     "name":"Legendary Beasts",
     "other":"",
     "link":"http://bit.ly/RBR2ai",
-    "desc":"",
+    "desc":"Adds new boss mobs into the game.",
     "author":"Davidee",
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"LegendGear",
@@ -6327,7 +6357,7 @@
     "author":"Shadowclaimer",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Metallurgy 3",
@@ -7480,6 +7510,16 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Nexion",
+    "other":"",
+    "link":"http://bit.ly/16Q1Be1",
+    "desc":"Adds new tools, dimensions, mods and much more.",
+    "author":"Naiakoa",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Ninja Mod",
     "other":"",
     "link":"http://bit.ly/UR7mDM",
@@ -8580,8 +8620,8 @@
     "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
-    "name":"Revamp",
-    "other":"(Rivvest's Enhanced Villager and Mob Performance)",
+    "name":"Revamp Enhanced Villager and Mob Performance",
+    "other":"",
     "link":"http://bit.ly/11ZKqqp",
     "desc":"Increased mob view/action distance; eliminates mob corner-crowding; improved villager home selection and spreading out into villages; cave villages; configurable door-to-villager ratio; miscellaneous other village-related tweaks",
     "author":"rivvest",
@@ -10517,7 +10557,7 @@
     "author":"Grom_PE",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"UnifyMC",
