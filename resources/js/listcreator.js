@@ -60,6 +60,10 @@ function setVersions(versionlist) {
 		$('#ver142').attr('checked', true);
 	else
 		$('#ver142').attr('checked', false);
+	if(versions.indexOf('1.3.2') != -1)
+		$('#ver132').attr('checked', true);
+	else
+		$('#ver132').attr('checked', false);
 }
 
 function bitly() {
