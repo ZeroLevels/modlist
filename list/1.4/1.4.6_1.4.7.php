@@ -1,9 +1,11 @@
 <?php
 $version="1.4.6_1.4.7";
-if(file_exists($version.'_cached.html') &&
-	(filemtime($version.'_cached.html') > filemtime('../modlist.json'))
+$cache = '../../panel/secrets/'.$version.'_cached.html';
+if(file_exists($cache) &&
+	(filemtime($cache) > filemtime('../modlist.json'))
 	) {
-	echo file_get_contents($version.'_cached.html');
+	echo file_get_contents($cache);
+	exit();
 } else {
 ob_start();
 include('../../resources/scripts/jsontable.php');
@@ -85,7 +87,7 @@ include('../../resources/scripts/jsontable.php');
 </body>
 </html>
 <?php
-file_put_contents($version.'_cached.html', ob_get_contents());
+file_put_contents($cache, ob_get_contents());
 ob_end_flush();
 }
 ?>

@@ -160,6 +160,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"[BuildCraft] QuarryPlus",
+    "other":"",
+    "link":"http://bit.ly/11ZM7UK",
+    "desc":"Adds markers for BuildCraft.",
+    "author":"yogpstop",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
+  },
+  {
     "name":"[Chert Craft] Gravel Replacement",
     "other":"",
     "link":"http://bit.ly/YQ4rer",
@@ -767,7 +777,7 @@
     "author":"MachineMuse",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Additional Crafting",
@@ -1597,7 +1607,7 @@
     "author":"chylex",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Better Than Wolves Mod",
@@ -3087,7 +3097,7 @@
     "author":"rich1051414",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Dark Messiah's Mods",
@@ -3837,7 +3847,7 @@
     "author":"Jeffrey6978",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.6.1"]
   },
   {
     "name":"EnderSpace",
@@ -4747,7 +4757,7 @@
     "author":"GrygrFlzr",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"GLSL Shaders mod",
@@ -4817,7 +4827,7 @@
     "author":"Enosphorous",
     "type":["SSP"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Greg's Blocks",
@@ -5460,6 +5470,16 @@
     "versions":["1.4.4","1.4.5"]
   },
   {
+    "name":"Ingame Mod List 3",
+    "other":"(IGML3)",
+    "link":"http://modlist.mcf.li/resources/igml3/",
+    "desc":"Provides an in-game interface for the modlist.",
+    "author":"Duke605",
+    "type":["Client"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.1"]
+  },
+  {
     "name":"IngameInfo",
     "other":"",
     "link":"http://bit.ly/TWHHIG",
@@ -5498,6 +5518,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"Instant Massive Structures Mod",
+    "other":"",
+    "link":"http://bit.ly/12da1ro",
+    "desc":"This mod adds over 24 blocks, that create their own structures instantly! Just walk over the block and an structure will be generated! Drag n drop installation.",
+    "author":"SimJoo",
+    "type":["SSP","LAN"],
+    "dependencies":["Forge Compatible","Modloader"],
+    "versions":["1.6.1"]
   },
   {
     "name":"Instant Repeaters Mod",
@@ -5990,6 +6020,16 @@
     "versions":["1.5.2"]
   },
   {
+    "name":"Logitech LCD Application for Minecraft",
+    "other":"",
+    "link":"http://bit.ly/11ZKJBw",
+    "desc":"This application for the Logitech GameBoard Series allows you to display Minecraft game information on your GameBoard series LCD panel.",
+    "author":"Schravendeel",
+    "type":["Client"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+  },
+  {
     "name":"Logistics Pipes",
     "other":"",
     "link":"http://ci.thezorro266.com/job/LogisticsPipes/",
@@ -6361,13 +6401,13 @@
   },
   {
     "name":"Minecraft Capes",
-    "other":"",
+    "other":"(MCCapes)",
     "link":"http://bit.ly/XD3gCF",
-    "desc":"Everybody wants a cape and now you can get one! Create an account in ten seconds and login, upload a cape image or choose one from the gallery! All you have to do now is copy one small changed file into your minecraft.jar file and then you can see it on your character!",
+    "desc":"Everybody wants a cape and now you can get one! Create an account in ten seconds and login, upload a cape image or choose one from the gallery! All you have to do now After that, all you have to do is install the mod and you'll be able to see your cape!",
     "author":"cjz__",
-    "type":["SSP","SMP"],
+    "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Minecraft Comes Alive",
@@ -7078,6 +7118,16 @@
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+  },
+  {
+    "name":"More Village Biomes",
+    "other":"",
+    "link":"http://bit.ly/SfwZji",
+    "desc":"With the recent zombie infiltration the villagers have decided to expand into new territories, including biomes such as Forest, Extreme Hills, Jungle, Taiga, Swamp, and Ice Plains on top of the standard Plains and Desert.",
+    "author":"shortwind",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.6.1"]
   },
   {
     "name":"More XP Mod",
@@ -8487,7 +8537,7 @@
     "author":"Divisor",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Reptile Mod",
@@ -8530,14 +8580,14 @@
     "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
-    "name":"Risugami's Mods",
-    "other":"",
-    "link":"http://bit.ly/WnSwBj",
-    "desc":"",
-    "author":"Risugami",
-    "type":["N/A"],
-    "dependencies":["N/A"],
-    "versions":["1.4.2","1.4.4","1.4.5"]
+    "name":"Revamp",
+    "other":"(Rivvest's Enhanced Villager and Mob Performance)",
+    "link":"http://bit.ly/11ZKqqp",
+    "desc":"Increased mob view/action distance; eliminates mob corner-crowding; improved villager home selection and spreading out into villages; cave villages; configurable door-to-villager ratio; miscellaneous other village-related tweaks",
+    "author":"rivvest",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Rival Rebels",
@@ -8548,6 +8598,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Rougelike Dungeons Mod",
+    "other":"",
+    "link":"http://bit.ly/12dacmo",
+    "desc":"Adds randomized maze-like dungeons.",
+    "author":"Greymerk",
+    "type":["SSP","LAN","SMP"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.6.1"]
   },
   {
     "name":"Ropes+",
@@ -8773,11 +8833,11 @@
     "name":"Show Durability 2",
     "other":"",
     "link":"http://bit.ly/17xuf78",
-    "desc":"The successor of the ''Show Durability'' mod. This version is base clean and requires Forge. The display has moved from hover info to above the hunger bar.",
+    "desc":"The successor of the 'Show Durability' mod. This version is base clean and requires Forge. The display has moved from hover info to above the hunger bar.",
     "author":"NemockZans",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.7","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.1"]
   },
   {
     "name":"ShowMonsters",
@@ -10140,6 +10200,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
+    "name":"TimesOreForge",
+    "other":"",
+    "link":"http://bit.ly/11ZM7UK",
+    "desc":"Allows you to control the ore generation rate. Compatible with vanilla clients when used on servers.",
+    "author":"yogpstop",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.1"]
+  },
+  {
     "name":"Tinkers' Construct",
     "other":"",
     "link":"http://bit.ly/Z7xU26",
@@ -10187,7 +10257,7 @@
     "author":"Marglyph",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"TooManyPlants",
@@ -10677,7 +10747,7 @@
     "author":"trunkz",
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1"]
   },
   {
     "name":"Village Marker",
@@ -10707,7 +10777,7 @@
     "author":"MamiyaOtaru",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Walking Dead Mod",
@@ -10763,11 +10833,11 @@
     "name":"Water & Sun Proof Endermen Mod",
     "other":"",
     "link":"http://bit.ly/V67BOd",
-    "desc":"",
+    "desc":"Allows Endermen to survive in water and direct sunlight.",
     "author":"Jeffrey6978",
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Water Shader Alpha",
@@ -11017,7 +11087,7 @@
     "author":"julialy",
     "type":["Client"],
     "dependencies":["Forge Compatible","Liteloader"],
-    "versions":["1.4.6","1.4.7","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.1"]
   },
   {
     "name":"XACT: Xhamolk_'s Advanced Crafting Table",
