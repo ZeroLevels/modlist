@@ -1507,7 +1507,7 @@
     "author":"SMEZ1234",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Better Bows Mod",
@@ -5617,7 +5617,7 @@
     "author":"cpw",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Item Frame Lag Fix",
@@ -6268,6 +6268,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"MCPatcher",
+    "other":"",
+    "link":"http://bit.ly/Wo8GLo",
+    "desc":"Enhanced colors, animations, mipmapping, textures and font support. Includes Connected Textures and RandomMobs.",
+    "author":"Kahr",
+    "type":["SSP"],
+    "dependencies":["Not Forge Compatible","Modloader Compatible"],
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.1"]
   },
   {
     "name":"Meat+",
@@ -10806,8 +10816,8 @@
     "desc":"On top of enabling village spawning in more biomes, the mod adds custom spawn design based on what biome it spawns in as well as tweaking some of the old spawn structures.",
     "author":"clovis83",
     "type":["SSP"],
-    "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6", "1.4.7","1.5.0","1.5.2"]
+    "dependencies":["Forge Compatible","Modloader Compatible"],
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.2"]
   },
   {
     "name":"VoxelMap",
