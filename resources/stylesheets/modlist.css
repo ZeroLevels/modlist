@@ -50,7 +50,7 @@ input {border:solid 1px gray;
 
 /*Stuff to center specific columns*/
 table.modlist td:nth-of-type(1) { text-align: left; }
-table.modlist td:nth-of-type(2) { /*display:none;*/ 		text-align: left;}
+table.modlist td:nth-of-type(2) { /*display:none;*/ 		text-align: left; width:48px;}
 table.modlist td:nth-of-type(3) { text-align: center; }
 table.modlist td:nth-of-type(4) {text-align: center; font-weight: bold;}
 table.modlist td:nth-of-type(5) {text-align: center; text-decoration: underline;}
@@ -79,7 +79,9 @@ a.ns:hover	{color:#3072B3;
 			text-decoration:none;}
 
 /*CSS for Open Source links*/
-.opensource	{float: right;}
+.opensource	{
+	float: right;
+	margin-right: 10px;}
 /**/
 /*Code for descriptions*/
 .desctt 		{background:transparent url(../images/desc.png) center center no-repeat;

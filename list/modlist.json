@@ -13,6 +13,7 @@
     "link":"http://bit.ly/13infK7",
     "desc":"Provides some additional pipes and objects for buildcraft.",
     "author":["Flow86"],
+	"source":"https://github.com/Flow86/Additional-Buildcraft-Objects-Mod",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
@@ -47,11 +48,12 @@
   {
     "name":"[Buildcraft] Compact Mobs",
     "link":"http://bit.ly/VMx3D4",
-    "desc":"",
+    "desc":"An addon that allows you to compress mobs into items.",
     "author":["itsZN"],
-    "type":["SSP","SMP"],
+	"source":"https://github.com/itsZN/CompactMobs",
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[Buildcraft] Den Pipes",
@@ -328,6 +330,7 @@
     "link":"http://bit.ly/POXv1O",
     "desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
     "author":["Pantheis"],
+	"source":"https://github.com/pantheis/AdvancedPowerManagement",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
@@ -427,9 +430,10 @@
     "link":"http://bit.ly/UvuyEV",
     "desc":"",
     "author":["cpw"],
+	"source":"https://github.com/cpw/compactsolars",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] CompactWindmills",
@@ -626,6 +630,7 @@
     "link":"http://bit.ly/Z7jGiQ",
     "desc":"Focuses on bringing advanced agriculture systems and contraptions, automation of agriculture, and food production. In addition, the mod will also provide genetic manipulations in higher tiers.",
     "author":["LiQuiD"],
+	"source":"https://github.com/liquidgithub/Biotech",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
@@ -707,6 +712,7 @@
     "link":"http://bit.ly/117u1iu",
     "desc":"Adds more blocks and crafting recipes to the game.",
     "author":["Chibill"],
+	"source":"https://github.com/chibill/AdditionalCrafting",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.0","1.5.1","1.5.2"]
@@ -997,6 +1003,7 @@
     "link":"http://bit.ly/WmtGCf",
     "desc":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/ArmorStatusHUD",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -1132,6 +1139,7 @@
     "link":"http://bit.ly/1536su4",
     "desc":"A new desert dimension that contains an eternal world full of sand, temples, and tons of new foes. Journey into Atum and discover ancient artifacts as you battle your way through vicious new enemies!",
     "author":["Shadowclaimer & RebelKeithy"],
+	"source":"https://github.com/rebelkeithy/atum",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
@@ -1538,9 +1546,10 @@
     "link":"http://bit.ly/VZVIFl",
     "desc":"Adds more storage options, like Storage Crates, Reinforced Chests, Lockers, Armor Stands, as well as locks and keys for its chests. I'm aiming for fun, interesting and balanced features which would fit well into vanilla Minecraft, but also work nicely together with other mods.",
     "author":["copyboy"],
+	"source":"https://github.com/copyboy/mod_BetterStorage",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"BiblioCraft",
@@ -1647,6 +1656,7 @@
     "link":"http://bit.ly/TWHHIG",
     "desc":"Allows you to define a list of blocks that will break in a chain reaction when an adjacent block of the same type is broken.",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/BlockBreaker",
     "type":["Universal"],
     "dependencies":["Forge Required","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -1710,9 +1720,10 @@
     "link":"http://bit.ly/14vHhkF",
     "desc":"Boxes brings cardboard boxes to Minecraft! A basic box allows you to carry up to 18 stacks of items in one inventory slot. Though this is possible with backpack mods, there are two major differences: 1) You can see and interact with the contents of a box without leaving your Gui. 2) You can place a box in the world and pick it up again.",
     "author":["Matchlighter"],
+	"source":"https://github.com/Matchlighter/Boxes",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.6.1"]
+    "versions":["1.5.1"]
   },
   {
     "name":"Brownies",
@@ -1738,6 +1749,7 @@
     "link":"http://bit.ly/bspkrscore",
     "desc":"This mods is required by all other mods created/maintained by bspkrs.",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/bspkrsCore",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader"],
     "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -1783,6 +1795,7 @@
     "link":"http://bit.ly/156o88k",
     "desc":"Adds machines which can be powered by engines and fuel to help build and/or dig!",
     "author":["SirSengir"],
+	"source":"https://github.com/BuildCraft/BuildCraft",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
@@ -2479,6 +2492,16 @@
     "dependencies":["Forge Required"],
     "versions":["1.5.2"]
   },
+    {
+    "name":"Cowboy Hat Mod",
+    "link":"http://bit.ly/13BkYcl",
+    "desc":"Adds a cowboy hat that, while worn, allows you to see the stats of the horse you're riding.",
+    "author":["Vazkii"],
+    "source":"https://github.com/Vazkii/CowboyHat-Mod",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.1"]
+  },
   {
     "name":"crackedEgg's Mods",
     "link":"http://bit.ly/TGjeZl",
@@ -2547,6 +2570,7 @@
     "link":"http://bit.ly/ZfKdKh",
     "desc":"Quick access to a list of every crafting recipe in the game!",
     "author":["Uristqwerty"],
+	"source":"https://github.com/Uristqwerty/CraftGuide",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
     "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
@@ -2556,9 +2580,10 @@
     "link":"http://bit.ly/XxSZbI",
     "desc":"A recreation of the Runescape minigame Stealing Creation in Minecraft.",
     "author":["Vazkii"],
+	"source":"https://github.com/Vazkii/CraftingCreation",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Crafting++",
@@ -2700,6 +2725,7 @@
     "link":"http://bit.ly/TWHHIG",
     "desc":"With this enchanted wing, you'll be able to teleport back to your spawn point or bed (fancy effects included!).",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/CrystalWing",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
@@ -3071,6 +3097,7 @@
     "link":"http://bit.ly/WmtGCf",
     "desc":"Displays your magnetic compass heading at the top of your screen.",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/DirectionHUD",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
@@ -3271,6 +3298,7 @@
     "link":"http://bit.ly/108jsgI",
     "desc":"A spiritual successor to the Crafting Table II and Crafting Table III mods by ljdp and Zeldo, but aims to be so much more.",
     "author":["Lepko"],
+	"source":"https://github.com/LepkoQQ/EasyCrafting",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
@@ -4033,6 +4061,7 @@
     "link":"http://bit.ly/TWHHIG",
     "desc":"This mod has separate ModLoader and Forge versions.Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/FloatingRuins",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -4125,6 +4154,7 @@
     "link":"http://bit.ly/forge-dl",
     "desc":"A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
     "author":["LexManos"],
+	"source":"https://github.com/MinecraftForge/MinecraftForge",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -4226,7 +4256,7 @@
     "author":["Micdoodle8"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Gammabright",
@@ -4686,6 +4716,7 @@
     "link":"http://bit.ly/ZxA103",
     "desc":"Originally by TehKrush, Hidden Doors adds a door that will take the texture of whatever block you place it on.  Useful for making secret passages/rooms.",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/HiddenDoors",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.5.1"]
@@ -5006,6 +5037,7 @@
     "link":"http://bit.ly/TWHHIG",
     "desc":"Want to know how much score you have without having to die? In need of real time information like weather, light level or your world size as you explore? Then this mod is for you!",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/IngameInfo",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -5069,6 +5101,7 @@
     "link":"http://bit.ly/k-invtweaks",
     "desc":"Allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will save you a massive amount of time!",
     "author":["Kobata"],
+	"source":"https://github.com/Kobata/inventory-tweaks",
     "type":["Client"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
@@ -5099,7 +5132,7 @@
 	"source":"https://github.com/cpw/ironchest/tree/master/IronChests2",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Item Frame Lag Fix",
@@ -6777,6 +6810,7 @@
     "link":"http://bit.ly/176MWcV",
     "desc":"A mod that aims to spice up the world with interesting worldgen. With a few small additions, hunger no longer has to be about hunting animals early game. The mod is mostly intuitive; everything should be sensible or explained in-game.",
     "author":["mDiyo"],
+	"source":"https://github.com/mDiyo/Natura",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
@@ -7273,6 +7307,7 @@
     "link":"http://bit.ly/VNVgsL",
     "desc":"Adds 172 Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.",
     "author":["epicSplashBattle"],
+	"source":"https://github.com/MrMasochism/Pixelmon",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
@@ -8493,6 +8528,7 @@
     "link":"http://bit.ly/TWHHIG",
     "desc":"This mod gives you items and blocks each time you start a new world, just by editing a .txt file.",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/StartingInventory",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -8511,6 +8547,7 @@
     "link":"http://bit.ly/WmtGCf",
     "desc":"Displays your currently active potions/effects without having to open your inventory!",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/StatusEffectHUD",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -8765,6 +8802,7 @@
     "link":"http://bit.ly/12L9teo",
     "desc":"A spiritual successor to my Elemental Tinkerer mod, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft researches. As of the current release, there are 18 new things you can research, 2 of them being from Knowledge Fragments. Researches that come from this mod are prefixed as [TT] for easy labelling.",
     "author":["Vazkii"],
+	"source":"https://github.com/Vazkii/ThaumicTinkerer",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.2"]
@@ -9307,6 +9345,7 @@
     "link":"http://bit.ly/Z7xU26",
     "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
     "author":["mDiyo"],
+	"source":"https://github.com/mDiyo/TinkersConstruct",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
@@ -9451,6 +9490,7 @@
     "link":"http://bit.ly/TWHHIG",
     "desc":"This mod has separate ModLoader and Forge versions.Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/TreeCapitator",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -9506,6 +9546,7 @@
     "link":"http://bit.ly/XUn0Mp",
     "desc":"A slick HUD mod that is inspired by the World of Warcraft addon, tukui.",
     "author":["maxpowa"],
+	"source":"https://github.com/maxpowa/tukmc",
     "type":["Client"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
@@ -9758,9 +9799,10 @@
     "link":"http://bit.ly/12XYGle",
     "desc":"Adds storage blocks (Much like iron/gold/diamond blocks) for both vanilla/modded materials, as well as some vanity blocks, like lavalamps.",
     "author":["AnarchySage"],
+	"source":"https://github.com/AnarchySage/Vanityblocksmod",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Vazkii's Mods",
@@ -10056,6 +10098,7 @@
     "link":"http://bit.ly/VNYhcp",
     "desc":"Gives you a way to take snapshots of your singleplayer worlds!",
     "author":["bspkrs"],
+	"source":"https://github.com/bspkrs/WorldStateCheckpoints",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
