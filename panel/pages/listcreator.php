@@ -22,6 +22,10 @@
 <span class="small" id="authortext">Mod Creator</span>
 </label>
 <input type="text" id="author" name="author" /></br>
+<label>Source
+<span class="small" id="sourcetext">Link to Source Code</span>
+</label>
+<input type="text" id="source" name="source" /></br>
 <label>Type
 <span class="small">Comma separated</span>
 </label>
@@ -52,10 +56,9 @@
 <p>Automatically generated output</p>
 <textarea id="output" name="output" readonly>  {
     "name":"",
-    "other":"",
     "link":"",
     "desc":"",
-    "author":"",
+    "author":[],
     "type":[],
     "dependencies":[],
     "versions":[]

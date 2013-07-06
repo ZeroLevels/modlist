@@ -5,7 +5,8 @@
 		
 		<title>MCF Mod List - Submission Form</title>
 		
-		<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type="application/javascript" src="../../resources/js/jquery.min.js"></script>
 		<script type="application/javascript" src="../../resources/js/submissioncheck.js" defer></script>
 		
 		<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
@@ -62,15 +63,19 @@ pre {
 </label>
 <input type="url" id="link" name="link" /></br>
 <label>Description*
-<span class="small">Provide a (preferably concise) description of what the mod does here.</span>
+<span class="small">Provide a (preferably concise) description of what the mod does here.</br></br>Short and to the point descriptions are infinitely preferred over copy-paste from threads.</span>
 </label>
 <textarea id="desc" name="desc"></textarea></br>
-<label>Mod Author*
-<span class="small" id="authortext">Enter the username of the mod's author here.</span>
+<label>Mod Author(s)*
+<span class="small" id="authortext">Enter the username of the mod's author(s) here (comma separated)</span>
 </label>
 <input type="text" id="author" name="author" /></br>
+<label>Source
+<span class="small" id="sourcetext">Link to the source code (only if Open Source)</span>
+</label>
+<input type="text" id="source" name="source" /></br>
 <label>Forge Compatibility*
-<span class="small" id="compattext">Is it compatible with Forge?</span>
+<span class="small" id="compattext">Is it compatible with Forge?<br/>Hover over labels to see definitions</span>
 </label>
 <fieldset class="radiocontain">
 <input id="fr" type="radio" name="forge" value="Forge Required" title="The mod must use Forge" checked="checked"><label for="fr" title="The mod must use Forge">Required</label>
@@ -78,7 +83,7 @@ pre {
 <input id="nfc" type="radio" name="forge" value="Not Forge Compatible" title="The mod cannot be used with Forge"><label for="nfc" title="The mod cannot be used with Forge">Not Compatible</label>
 </fieldset>
 <label>Availability*
-<span class="small">Choose (if you're sure) whether or not the mod is available for singleplayer, multiplayer, etc...</span>
+<span class="small">Choose (if you are sure) whether or not the mod is available for singleplayer, multiplayer, etc...<br/>Hover over labels to see definitions</span>
 </label>
 <fieldset class="checkcontain">
 <input id="ssp" type="checkbox" name="availability[]" value="SSP" title="Singleplayer"><label for="ssp" title="Singleplayer">SSP</label>
@@ -89,7 +94,7 @@ pre {
 <input id="server" type="checkbox" name="availability[]" value="Server" title="Installed only on server, works for anyone who joins (eg. Additional Commands)"><label for="server" title="Installed only on server, works for anyone who joins (eg. Additional Commands)">Serverside</label>
 </fieldset></br>
 <label>Versions**
-<span class="small">What Minecraft version are you submitting this for?</span>
+<span class="small">What Minecraft versions does the mod work on?</span>
 </label>
 <fieldset class="checkcontain">
 <input id="ver161" type="checkbox" name="version[]" value="1.6.1"><label for="ver161">1.6.1</label>

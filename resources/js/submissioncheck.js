@@ -103,6 +103,86 @@ function checkExist() {
 	window.lastName = $('#name').val();
 }
 
+function sspsmplan() {
+	if($('#ssp').is(':checked') ||
+		$('#smp').is(':checked') ||
+		$('#lan').is(':checked')) {
+		$('#universal').removeAttr('checked');
+		$('#universal').attr('disabled',true);
+		$('#client').removeAttr('checked');
+		$('#client').attr('disabled',true);
+		$('#server').removeAttr('checked');
+		$('#server').attr('disabled',true);
+	} else {
+		$('#universal').attr('disabled',false);
+		$('#client').attr('disabled',false);
+		$('#server').attr('disabled',false);
+	}
+}
+
+function universal() {
+	if($('#universal').is(':checked')) {
+		$('#ssp').removeAttr('checked');
+		$('#ssp').attr('disabled',true);
+		$('#smp').removeAttr('checked');
+		$('#smp').attr('disabled',true);
+		$('#lan').removeAttr('checked');
+		$('#lan').attr('disabled',true);
+		$('#client').removeAttr('checked');
+		$('#client').attr('disabled',true);
+		$('#server').removeAttr('checked');
+		$('#server').attr('disabled',true);
+	} else {
+		$('#ssp').attr('disabled',false);
+		$('#smp').attr('disabled',false);
+		$('#lan').attr('disabled',false);
+		$('#client').attr('disabled',false);
+		$('#server').attr('disabled',false);
+	}
+}
+
+function client() {
+	if($('#client').is(':checked')) {
+		$('#ssp').removeAttr('checked');
+		$('#ssp').attr('disabled',true);
+		$('#smp').removeAttr('checked');
+		$('#smp').attr('disabled',true);
+		$('#lan').removeAttr('checked');
+		$('#lan').attr('disabled',true);
+		$('#universal').removeAttr('checked');
+		$('#universal').attr('disabled',true);
+		$('#server').removeAttr('checked');
+		$('#server').attr('disabled',true);
+	} else {
+		$('#ssp').attr('disabled',false);
+		$('#smp').attr('disabled',false);
+		$('#lan').attr('disabled',false);
+		$('#universal').attr('disabled',false);
+		$('#server').attr('disabled',false);
+	}
+}
+
+function server() {
+	if($('#server').is(':checked')) {
+		$('#ssp').removeAttr('checked');
+		$('#ssp').attr('disabled',true);
+		$('#smp').removeAttr('checked');
+		$('#smp').attr('disabled',true);
+		$('#lan').removeAttr('checked');
+		$('#lan').attr('disabled',true);
+		$('#universal').removeAttr('checked');
+		$('#universal').attr('disabled',true);
+		$('#client').removeAttr('checked');
+		$('#client').attr('disabled',true);
+	} else {
+		$('#ssp').attr('disabled',false);
+		$('#smp').attr('disabled',false);
+		$('#lan').attr('disabled',false);
+		$('#universal').attr('disabled',false);
+		$('#client').attr('disabled',false);
+	}
+}
+
 function checkAuthor() {
 	$('#authortext').html('Checking for capitalisation...');
 	$.getJSON("getinfo.php?request=author&value=" + encodeURIComponent($('#author').val()), function(data) {
@@ -272,9 +352,15 @@ $('#other').blur(checkFields);
 $('#ssp').click(checkFields);
 $('#smp').click(checkFields);
 $('#lan').click(checkFields);
+$('#ssp').click(sspsmplan);
+$('#smp').click(sspsmplan);
+$('#lan').click(sspsmplan);
 $('#universal').click(checkFields);
+$('#universal').click(universal);
 $('#client').click(checkFields);
+$('#client').click(client);
 $('#server').click(checkFields);
+$('#server').click(server);
 
 $('#ver161').click(checkFields);
 $('#ver152').click(checkFields);

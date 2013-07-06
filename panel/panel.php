@@ -1,5 +1,6 @@
 <?php
 session_start();
+date_default_timezone_set('UTC');
 if(!isset($_SESSION['usr'])) {
 	$_SESSION['return'] = $_SERVER['REQUEST_URI'];
 	header('Location: login.php', true, 302);
@@ -20,7 +21,8 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 <head>
 	<title>MCF Modlist Webpanel</title>
 	<link rel="stylesheet" type="text/css" href="../resources/stylesheets/panel.css" />
-	<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="application/javascript" src="../resources/js/jquery.min.js"></script>
 	<script type="application/javascript" src="../resources/js/ZeroClipboard.min.js"></script>
 	<script type="application/javascript" src="../resources/js/listcreator.js" defer></script>
 </head>
