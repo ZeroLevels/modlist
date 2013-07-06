@@ -6,7 +6,6 @@
 		<title>MCF Mod List - Submission Form</title>
 		
 		<script type="application/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-		<script type="application/javascript" src="../../resources/js/jquery.min.js"></script>
 		<script type="application/javascript" src="../../resources/js/submissioncheck.js" defer></script>
 		
 		<link rel="stylesheet" type="text/css" href="../../resources/stylesheets/nav.css" media="screen" />
