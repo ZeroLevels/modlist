@@ -29,6 +29,30 @@ function checklink() {
 	}
 }
 
+function checksource() {
+	var link = $('#source').val();
+	if(link != "") {
+		if(/^[a-z]+:\/\//i.test(link)) {
+			if(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-./.test(link)) {
+				$('#source').val(link.match(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-/)[0]);
+				$('#sourcetext').html('<span class="found">MCF Link cut</span>');
+			}
+			link = $('#source').val();
+			if(!/http:\/\/bit\.ly\/[a-zA-Z0-9]*/.test(link)) {
+				if($('#sourcetext').html() == '<span class="found">MCF Link cut</span>') {
+					$('#sourcetext').html('<span class="found">MCF Link cut - <a href="javascript:bitlysource();">bit.ly this link</a></span>');
+				} else {
+					$('#sourcetext').html('<span class="found"><a href="javascript:bitlysource();">bit.ly this link</a></span>');
+				}
+			}
+		} else {
+			$('#sourcetext').html('<span class="failed">Not a valid link</span>');
+		}
+	} else {
+		$('#sourcetext').html('Link to Source Code');
+	}
+}
+
 function setVersions(versionlist) {
 	window.skipVersions = true;
 	var versions = versionlist.split(',');
@@ -67,10 +91,26 @@ function setVersions(versionlist) {
 }
 
 function bitly() {
+	$('#linktext').html('Processing link...');
 	$.getJSON("tools/bitly.php?mode=save&link=" + $('#link').val(), function(data) {
-			$('#link').val(data['link']);
-			$('#linktext').html('<span class="found">Link shortened!</span>');
-			generate();
+			if(data['link'] != "") {
+				$('#link').val(data['link']);
+				$('#linktext').html('<span class="found">Link shortened!</span>');
+				generate();
+			} else
+				$('#sourcetext').html('<span class="failed">Failed to shorten link</span>');
+		});
+}
+
+function bitlysource() {
+	$('#sourcetext').html('Processing link...');
+	$.getJSON("tools/bitly.php?mode=save&link=" + $('#source').val(), function(data) {
+			if(data['link'] != "") {
+				$('#source').val(data['link']);
+				$('#sourcetext').html('<span class="found">Link shortened!</span>');
+				generate();
+			} else
+				$('#sourcetext').html('<span class="failed">Failed to shorten link</span>');
 		});
 }
 
@@ -91,13 +131,40 @@ function loadbitly() {
 	}
 }
 
+function loadbitlysource() {
+	var link = $('#source').val();
+	if(/http:\/\/bit\.ly\/[a-zA-Z0-9]*/.test(link)) {
+		$('#sourcetext').html('Extracting bitly info...');
+		$.getJSON("tools/bitly.php?mode=info&link=" + $('#source').val(), function(data) {
+			if(/ - Minecraft Forum/.test(data['title']))
+				data['title'] = data['title'].replace(/ - Minecraft Forum/, "");
+			if(/\[[a-zA-Z0-9.]*\]/.test(data['title']))
+				data['title'] = data['title'].replace(/\[[a-zA-Z0-9.\/]*\]/g, "");
+			data['title'] = $.trim(data['title']);
+			if(data['title'] == "")
+				data['title'] = "Link";
+			$('#sourcetext').html('<span class="found"><a href="' + data['link'] +'">' + data['title'] + '</a></span>');
+		});
+	}
+}
+
 function generate() {
 	var json = '  {\r\n';
 	json += '    "name":"' + $.trim($('#name').val()) + '",\r\n';
-	json += '    "other":"' + $.trim($('#other').val()) + '",\r\n';
+	if($.trim($('#other').val()) != "")
+		json += '    "other":"' + $.trim($('#other').val()) + '",\r\n';
 	json += '    "link":"' + $.trim($('#link').val()) + '",\r\n';
 	json += '    "desc":"' + $.trim($('#desc').val()) + '",\r\n';
-	json += '    "author":"' + $.trim($('#author').val()) + '",\r\n';
+	
+	if($.trim($('#author').val()) != "")
+		json += '    "author":["' +
+			$.map($('#author').val().split(','), $.trim).join('","') +
+			'"],\r\n';
+	else
+		json += '    "author":[],\r\n';
+	
+	if($.trim($('#source').val()) != "")
+		json += '    "source":"' + $.trim($('#source').val()) + '",\r\n';
 	if($.trim($('#type').val()) != "")
 		json += '    "type":["' +
 			$.map($('#type').val().split(','), $.trim).join('","') +
@@ -146,7 +213,7 @@ function reset() {
 	json += '    "other":"",\r\n';
 	json += '    "link":"",\r\n';
 	json += '    "desc":"",\r\n';
-	json += '    "author":"",\r\n';
+	json += '    "author":[],\r\n';
 	json += '    "type":[],\r\n';
 	json += '    "dependencies":[],\r\n';
 	json += '    "versions":[]\r\n';
@@ -166,6 +233,7 @@ function checkExist() {
 					$('#link').val(data[i].link);
 					$('#desc').val(data[i].desc);
 					$('#author').val(data[i].author);
+					$('#source').val(data[i].source);
 					
 					$('#type').val(data[i].type.join(','));
 					$('#dependencies').val(data[i].dependencies.join(','));
@@ -261,6 +329,9 @@ $('#link').blur(loadbitly);
 $('#desc').bind('input propertychange', null,generate);
 $('#author').bind('input propertychange', null,generate);
 $('#author').blur(checkOtherMods);
+$('#source').bind('input propertychange', null,checksource);
+$('#source').bind('input propertychange', null,generate);
+$('#source').blur(loadbitlysource);
 $('#type').bind('input propertychange', null,generate);
 $('#dependencies').bind('input propertychange', null,generate);
 $('#dependencies').bind('input propertychange', null,checkDepends);

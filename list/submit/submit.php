@@ -70,6 +70,7 @@ if(
 		$submission['link'] = $_POST['link'];
 		$submission['desc'] = $_POST['desc'];
 		$submission['author'] = $_POST['author'];
+		$submission['source'] = $_POST['source'];
 		$submission['compatibility'] = $_POST['forge'];
 		foreach($_POST['availability'] as $availability) {
 			$submission['availability'][] = $availability;
@@ -107,6 +108,7 @@ if(
 	$html = str_replace('$idnumber',$submission['id'],$html);
 	$html = str_replace('$name',$submission['name'],$html);
 	$html = str_replace('$author',$submission['author'],$html);
+	$html = str_replace('$source',$submission['source'],$html);
 	$html = str_replace('$link',$submission['link'],$html);
 	$html = str_replace('$availability',implode(', ',$submission['availability']),$html);
 	$html = str_replace('$compatibility',$submission['compatibility'],$html);
@@ -119,6 +121,7 @@ if(
 	$plaintext = 'Submission for ' . $submission['name'] . "\n";
 	$plaintext .= 'Name: ' . $submission['name'] . "\n";
 	$plaintext .= 'Author: ' . $submission['author'] . "\n";
+	$plaintext .= 'Source: ' . $submission['source'] . "\n";
 	$plaintext .= 'Link: ' . $submission['link'] . "\n";
 	$plaintext .= 'Availability: ' . implode(', ',$submission['availability']) . "\n";
 	$plaintext .= 'Compatibility: ' . $submission['compatibility'] . "\n";

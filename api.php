@@ -21,17 +21,35 @@ function sortAlpha($jsonarray) {
 			str_replace(')','',
 			strtolower($mod->name)
 			))));
-		$others[] = str_replace('[','',
-			str_replace(']','',
-			str_replace('(','',
-			str_replace(')','',
-			strtolower($mod->other)
-			))));
+		if(isset($mod->other))
+			$others[] = str_replace('[','',
+				str_replace(']','',
+				str_replace('(','',
+				str_replace(')','',
+				strtolower($mod->other)
+				))));
+		else
+			$others[] = '';
 	}
 
 	array_multisort($names, SORT_ASC, $others, SORT_ASC, $jsonarray);
 	
 	return $jsonarray;
+}
+
+function parseAuthors($authors) {
+	switch(count($authors)) {
+		case 1:
+			return $authors[0];
+			break;
+		case 2:
+			return $authors[0] . ' and ' . $authors[1];
+			break;
+		default:
+			$last = $authors[count($authors)-1];
+			unset($authors[count($authors)-1]);
+			return implode(', ', $authors) . ' and ' . $last;
+	}
 }
 
 if(isset($_GET['key']) && $_GET['key'] != "") {
@@ -77,8 +95,17 @@ function outputVersion($versions) {
 		$json = readJSON();
 		$newjson = array();
 		foreach($json as &$mod) {
-			if(multimatch($versions,$mod->versions))
+			$mod->author = parseAuthors($mod->author);
+			if(multimatch($versions,$mod->versions)) {
+				if(!isset($mod->other)) {
+					$newmod->name = $mod->name;
+					$newmod->other = "";
+					unset($mod->name);
+					unset($mod->other);
+					$mod = (object) array_merge((array) $newmod, (array) $mod);
+				}
 				$newjson[] = $mod;
+			}
 		}
 		return str_replace('\\/','/',json_encode($newjson));
 	} else
@@ -88,7 +115,7 @@ function outputVersion($versions) {
 function multimatch($versions,$verArray) {
 	$exversions = explode('_',$versions);
 	foreach($exversions as &$currVer) {
-		if(in_array($currVer,$verArray))
+		if(in_array($currVer,$verArray) || $currVer == "all")
 			return true;
 	}
 	return false;
@@ -100,12 +127,34 @@ function outputVersionSingle($version) {
 	if($version != "all") {
 		$newjson = array();
 		foreach($json as &$mod) {
-			if(in_array($version,$mod->versions))
+			$mod->author = parseAuthors($mod->author);
+			if(in_array($version,$mod->versions)) {
+				if(!isset($mod->other)) {
+					$newmod = new stdClass();
+					$newmod->name = $mod->name;
+					$newmod->other = "";
+					unset($mod->name);
+					unset($mod->other);
+					$mod = (object) array_merge((array) $newmod, (array) $mod);
+				}
 				$newjson[] = $mod;
+			}
 		}
 		return str_replace('\\/','/',json_encode($newjson));
 	}
-	return str_replace('\\/','/',json_encode($json));
+	foreach($json as &$mod) {
+		$mod->author = parseAuthors($mod->author);
+		if(!isset($mod->other)) {
+			$newmod = new stdClass();
+			$newmod->name = $mod->name;
+			$newmod->other = "";
+			unset($mod->name);
+			unset($mod->other);
+			$mod = (object) array_merge((array) $newmod, (array) $mod);
+		}
+		$newjson[] = $mod;
+	}
+	return str_replace('\\/','/',json_encode($newjson));
 }
 
 function recode($strIn) {

@@ -66,7 +66,7 @@ if(!empty($mod)) {
 <label>Other
 <span class="small">Extra names attached</span>
 </label>
-<input type="text" id="other" name="other" /></br>
+<input type="text" id="other" name="other" <?php if(isset($mod->other)) echo 'value="' . trim($mod->other) . '"'; ?> /></br>
 <label>Link
 <span class="small" id="linktext">Link to the mod's page</span>
 </label>
@@ -79,6 +79,10 @@ if(!empty($mod)) {
 <span class="small" id="authortext">Mod Creator</span>
 </label>
 <input type="text" id="author" name="author" <?php echo 'value="' . trim($mod->author) . '"'; ?> /></br>
+<label>Source
+<span class="small" id="sourcetext">Link to Source Code</span>
+</label>
+<input type="text" id="source" name="source" <?php if(isset($mod->source)) echo 'value="' . trim($mod->source) . '"'; ?> /></br>
 <label>Type
 <span class="small">Comma separated</span>
 </label>
@@ -122,7 +126,7 @@ else
     "other":"",
     "link":"",
     "desc":"",
-    "author":"",
+    "author":[],
     "type":[],
     "dependencies":[],
     "versions":[]

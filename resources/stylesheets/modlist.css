@@ -78,6 +78,9 @@ a.ns:hover	{color:#3072B3;
 .modlist a:hover		{color:#173859;
 			text-decoration:none;}
 
+/*CSS for Open Source links*/
+.opensource	{float: right;}
+/**/
 /*Code for descriptions*/
 .desctt 		{background:transparent url(../images/desc.png) center center no-repeat;
 			color: #3072B3;
@@ -122,13 +125,13 @@ display:block;
 	list-style-position: outside;
 }
 
-.desctt>.tt>ul>li>a {
+.desctt>.tt>ul>li>a, .desctt>.tt>a {
 	text-decoration: none;
 	font-style: italic;
 	color: #04ff81;
 }
 
-.desctt>.tt>ul>li>a:hover {
+.desctt>.tt>ul>li>a:hover, .desctt>.tt>a:hover {
 	text-decoration: underline;
 }
 

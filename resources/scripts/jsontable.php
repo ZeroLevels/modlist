@@ -36,12 +36,15 @@ function sortAlpha($jsonarray) {
 			str_replace(')','',
 			strtolower($mod->name)
 			))));
-		$others[] = str_replace('[','',
-			str_replace(']','',
-			str_replace('(','',
-			str_replace(')','',
-			strtolower($mod->other)
-			))));
+		if(isset($mod->other))
+			$others[] = str_replace('[','',
+				str_replace(']','',
+				str_replace('(','',
+				str_replace(')','',
+				strtolower($mod->other)
+				))));
+		else
+			$others[] = '';
 	}
 
 	array_multisort($names, SORT_ASC, $others, SORT_ASC, $jsonarray);
@@ -55,6 +58,7 @@ function apiList($version) {
 		$apilist = array(array());
 		foreach($mods as &$mod) { //first iteration - grab all APIs
 			if(trim($mod->name) != "" && 
+				isset($mod->other) &&
 				(strpos(strtolower($mod->other), "(api)") !== false ||
 				strtolower($mod->other) == "(dependency)" ||
 				strpos(trim($mod->name), 'API') !== false) &&
@@ -192,6 +196,19 @@ function beginTable() {
 		'</th>';
 }
 
+function parseAuthors($authors) {
+	switch(count($authors)) {
+		case 1:
+			return $authors[0];
+			break;
+		case 2:
+			return $authors[0] . ' and ' . $authors[1];
+			break;
+		default:
+			return $authors[0] . ' and ' . (count($authors)-1) . ' more...';
+	}
+}
+
 function jsonTable($version) {
 	$mods = readJSON();
 	$apilist = apiList($version);
@@ -203,8 +220,11 @@ function jsonTable($version) {
 			echo '<td><a href="'.
 				$mod->link.'" target="blank">'.
 				$mod->name.'</a>';
-			if($mod->other != "") {
+			if(isset($mod->other) && $mod->other != "") {
 				echo ' '.$mod->other;
+			}
+			if(isset($mod->source) && $mod->source != "") {
+				echo '<a href="'.$mod->source.'" target="blank"><img class="opensource" src="../../resources/images/opensource.png" alt="(Open Source)" title="Open Source Mod" /></a>';
 			}
 			echo '</td>';
 			
@@ -253,9 +273,18 @@ function jsonTable($version) {
 			}
 			echo $api;
 			
-			echo '</li></ul></span></td>';
+			echo '</li></ul>';
 			
-			echo '<td>'.$mod->author.'</td>';
+			echo '<big class="d bc">Author(s):</big><ul><li>' .
+				implode('</li><li>',$mod->author) .
+				'</li></ul>';
+			
+			if(isset($mod->source) && $mod->source != "")
+				echo 'This mod is <a href="'.$mod->source.'" target="blank">Open Source</a>.';
+			
+			echo '</span></td>';
+			
+			echo '<td>'.parseAuthors($mod->author).'</td>';
 			$typelist = array();
 			foreach($mod->type as &$types) {
 				$typelist[] = str_replace('Client','Clientside',
