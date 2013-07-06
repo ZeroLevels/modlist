@@ -4340,7 +4340,7 @@
     "name":"Glowstone Wire",
     "link":"http://bit.ly/13BkZcS",
     "desc":"Allows you to place glowstone dust! Not only they're great for trails, they actually give out light!",
-    "author":["GrygrFlzr","ZeroLevels","Duke605","samrg472"],
+    "author":["GrygrFlzr"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
