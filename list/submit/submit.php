@@ -77,6 +77,7 @@ if(
 		}
 	} else {
 		$submission['mode'] = 'Update Request';
+		$submission['source'] = $_POST['source'];
 	}
 	
 	$logs = readJSON('../../panel/secrets/submissions.json');
