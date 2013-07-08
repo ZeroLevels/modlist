@@ -38,6 +38,7 @@
 <span class="small">Supported MC Versions</span>
 </label>
 <fieldset class="checkcontain">
+<input id="ver162" type="checkbox" name="version" value="162"><label for="162">1.6.2</label>
 <input id="ver161" type="checkbox" name="version" value="161"><label for="161">1.6.1</label>
 <input id="ver152" type="checkbox" name="version" value="152"><label for="152">1.5.2</label>
 <input id="ver151" type="checkbox" name="version" value="151"><label for="151">1.5.1</label>
