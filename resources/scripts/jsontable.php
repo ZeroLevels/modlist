@@ -175,6 +175,11 @@ function listVersion($version) {
 				echo '<td class="h">1.6.1</td>';
 			else
 				echo '<td class="nh" onclick="window.location.href=\'1.6.1.php\'"><a href="1.6.1.php">1.6.1</a></td>';
+			
+			if($version == "1.6.2")
+				echo '<td class="h">1.6.2</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.6.2.php\'"><a href="1.6.2.php">1.6.2</a></td>';
 			break;
 	}
 	echo '</tr>';

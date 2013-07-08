@@ -16,6 +16,10 @@ function checkExist() {
 					$('#desc').val(data['desc']);
 					$('#author').val(data['author']);
 					
+					if(data['versions'].indexOf("1.6.2") > -1)
+						$('#ver162').prop('checked','true');
+					else
+						$('#ver162').removeAttr('checked');
 					if(data['versions'].indexOf("1.6.1") > -1)
 						$('#ver161').prop('checked','true');
 					else
@@ -212,6 +216,7 @@ function checkFields() {
 				$('#server').is(":checked")
 			) &&
 			(
+				$('#ver162').is(":checked") ||
 				$('#ver161').is(":checked") ||
 				$('#ver152').is(":checked")
 			) &&
@@ -225,6 +230,7 @@ function checkFields() {
 		if(
 			$('#name').val() !== "" &&
 			(
+				$('#ver162').is(":checked") ||
 				$('#ver161').is(":checked") ||
 				$('#ver152').is(":checked")
 			) &&
@@ -283,6 +289,7 @@ function resetAll() {
 	$('#client').removeAttr('checked');
 	$('#server').removeAttr('checked');
 	
+	$('#ver162').removeAttr('checked');
 	$('#ver161').removeAttr('checked');
 	$('#ver152').removeAttr('checked');
 	$('#ver151').removeAttr('checked');
@@ -362,6 +369,7 @@ $('#client').click(client);
 $('#server').click(checkFields);
 $('#server').click(server);
 
+$('#ver162').click(checkFields);
 $('#ver161').click(checkFields);
 $('#ver152').click(checkFields);
 $('#ver151').click(checkFields);

@@ -56,36 +56,40 @@ function checksource() {
 function setVersions(versionlist) {
 	window.skipVersions = true;
 	var versions = versionlist.split(',');
+	if(versions.indexOf('1.6.2') != -1)
+		$('#ver162').prop('checked', true);
+	else
+		$('#ver162').attr('checked', false);
 	if(versions.indexOf('1.6.1') != -1)
-		$('#ver161').attr('checked', true);
+		$('#ver161').prop('checked', true);
 	else
 		$('#ver161').attr('checked', false);
 	if(versions.indexOf('1.5.2') != -1)
-		$('#ver152').attr('checked', true);
+		$('#ver152').prop('checked', true);
 	else
 		$('#ver152').attr('checked', false);
 	if(versions.indexOf('1.5.1') != -1)
-		$('#ver151').attr('checked', true);
+		$('#ver151').prop('checked', true);
 	else
 		$('#ver151').attr('checked', false);
 	if(versions.indexOf('1.5.0') != -1)
-		$('#ver150').attr('checked', true);
+		$('#ver150').prop('checked', true);
 	else
 		$('#ver150').attr('checked', false);
 	if(versions.indexOf('1.4.7') != -1)
-		$('#ver147').attr('checked', true);
+		$('#ver147').prop('checked', true);
 	else
 		$('#ver147').attr('checked', false);
 	if(versions.indexOf('1.4.5') != -1)
-		$('#ver145').attr('checked', true);
+		$('#ver145').prop('checked', true);
 	else
 		$('#ver145').attr('checked', false);
 	if(versions.indexOf('1.4.2') != -1)
-		$('#ver142').attr('checked', true);
+		$('#ver142').prop('checked', true);
 	else
 		$('#ver142').attr('checked', false);
 	if(versions.indexOf('1.3.2') != -1)
-		$('#ver132').attr('checked', true);
+		$('#ver132').prop('checked', true);
 	else
 		$('#ver132').attr('checked', false);
 }
@@ -198,6 +202,8 @@ function generate() {
 		versions.push('1.5.2');
 	if($('#ver161').is(':checked'))
 		versions.push('1.6.1');
+	if($('#ver161').is(':checked'))
+		versions.push('1.6.2');
 	if(versions.length > 0)
 		json += '    "versions":["' + versions.join('","') + '"]\r\n';
 	else
@@ -239,32 +245,36 @@ function checkExist() {
 					$('#dependencies').val(data[i].dependencies.join(','));
 					
 					if(window.skipVersions === false) {
+						if(data[i].versions.indexOf('1.6.2') != -1)
+							$('#ver162').prop('checked', true);
+						else
+							$('#ver162').attr('checked', false);
 						if(data[i].versions.indexOf('1.6.1') != -1)
-							$('#ver161').attr('checked', true);
+							$('#ver161').prop('checked', true);
 						else
 							$('#ver161').attr('checked', false);
 						if(data[i].versions.indexOf('1.5.2') != -1)
-							$('#ver152').attr('checked', true);
+							$('#ver152').prop('checked', true);
 						else
 							$('#ver152').attr('checked', false);
 						if(data[i].versions.indexOf('1.5.1') != -1)
-							$('#ver151').attr('checked', true);
+							$('#ver151').prop('checked', true);
 						else
 							$('#ver151').attr('checked', false);
 						if(data[i].versions.indexOf('1.5.0') != -1)
-							$('#ver150').attr('checked', true);
+							$('#ver150').prop('checked', true);
 						else
 							$('#ver150').attr('checked', false);
 						if(data[i].versions.indexOf('1.4.7') != -1)
-							$('#ver147').attr('checked', true);
+							$('#ver147').prop('checked', true);
 						else
 							$('#ver147').attr('checked', false);
 						if(data[i].versions.indexOf('1.4.5') != -1)
-							$('#ver145').attr('checked', true);
+							$('#ver145').prop('checked', true);
 						else
 							$('#ver145').attr('checked', false);
 						if(data[i].versions.indexOf('1.4.2') != -1)
-							$('#ver142').attr('checked', true);
+							$('#ver142').prop('checked', true);
 						else
 							$('#ver142').attr('checked', false);
 					}
@@ -335,6 +345,7 @@ $('#source').blur(loadbitlysource);
 $('#type').bind('input propertychange', null,generate);
 $('#dependencies').bind('input propertychange', null,generate);
 $('#dependencies').bind('input propertychange', null,checkDepends);
+$('#ver162').click(generate);
 $('#ver161').click(generate);
 $('#ver152').click(generate);
 $('#ver151').click(generate);
