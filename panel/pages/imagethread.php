@@ -3,9 +3,16 @@
  * Written by GrygrFlzr
  */
 if(isset($_SESSION['usr'])) {
+	$change162 = file('../list/1.6/changelog_1.6.1.html');
 	$change161 = file('../list/1.6/changelog_1.6.1.html');
 	$change152 = file('../list/1.5/changelog_1.5.2.html');
 	$counter = 0;
+	for($i=1;$i<count($change162);$i++) {
+		if($change162[$i] == "\r\n" || $change162[$i] == "\n") {
+			$counter = $counter + $i + 1;
+			break;
+		}
+	}
 	for($i=1;$i<count($change161);$i++) {
 		if($change161[$i] == "\r\n" || $change161[$i] == "\n") {
 			$counter = $counter + $i + 1;
@@ -40,8 +47,17 @@ if(isset($_SESSION['usr'])) {
 	imagettftext($image, 8, 0, 560, 18, $cl_darkgrey, $font, "Automatic Changelog Script");
 	imagettftext($image, 8, 0, 596, 28, $cl_darkgrey, $font, "Written by GrygrFlzr");
 
-	imagettftext($image, 12, 0, 10, 48, $cl_black, $fontb, "1.6.1");
+	imagettftext($image, 12, 0, 10, 48, $cl_black, $fontb, "1.6.2");
 	$counter = 0;
+	for($i=1;$i<count($change162);$i++) {
+		if($change162[$i] != "\r\n" && $change162[$i] != "\n") {
+			drawChange($image, 48 + (($i + $counter) * 14), $change162[$i]);
+		} else {
+			$counter = $counter + $i + 1;
+			break;
+		}
+	}
+	imagettftext($image, 12, 0, 10, ($counter * 14) + 48, $cl_black, $fontb, "1.6.1");
 	for($i=1;$i<count($change161);$i++) {
 		if($change161[$i] != "\r\n" && $change161[$i] != "\n") {
 			drawChange($image, 48 + (($i + $counter) * 14), $change161[$i]);
