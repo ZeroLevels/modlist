@@ -26,12 +26,12 @@
 	<p class="select">
 		<span class="section">Current:</span><br/>
 		<span style="text-size:30px; font-style:italic">
-			Last Updated: <?php $content = file('list/1.6/changelog_1.6.1.html'); echo $content[1]; ?>
+			Last Updated: <?php $content = file('list/1.6/changelog_1.6.2.html'); echo $content[1]; ?>
 		</span><br/>
 
 		<span class="selection">
-			<a href="list/1.6/1.6.1.php">1.6.1 List</a><br/>
-			<a href="list/1.6/changelog_1.6.1.html">Changelog</a>
+			<a href="list/1.6/1.6.2.php">1.6.2 List</a><br/>
+			<a href="list/1.6/changelog_1.6.2.html">Changelog</a>
 		</span><br/><br/>
 
 		<span class="section">
@@ -39,6 +39,7 @@
 		</span><br>
 
 		<span class="selection">
+			<a href="list/1.6/1.6.1.php">1.6.1 List</a><br/>
 			<a href="list/1.5/1.5.2.php">1.5.2 List</a><br/>
 			<a href="list/1.5/1.5.1.php">1.5.1 List</a><br/>
 			<a href="list/1.5/1.5.0.php">1.5 List</a><br/>

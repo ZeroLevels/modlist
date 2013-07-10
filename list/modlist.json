@@ -1188,7 +1188,7 @@
     "author":["MamiyaOtaru"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"AutoSwitch",
@@ -1269,7 +1269,7 @@
     "author":["Eydamos"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Bacon Mod",
@@ -1323,7 +1323,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"BearGrylls Mod",
@@ -1458,7 +1458,7 @@
     "author":["chylex"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Better Than Wolves Mod",
@@ -1494,7 +1494,7 @@
     "author":["SackCastellon"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Better World Generation 3",
@@ -1980,7 +1980,7 @@
     "author":["MamiyaOtaru"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"ChatlogToFile",
@@ -2554,7 +2554,7 @@
     "author":["SackCastellon"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.6.1"]
+    "versions":["1.6.1","1.6.2"]
   },
   {
     "name":"Craftable Spawners",
@@ -2829,7 +2829,7 @@
     "author":["MustangXPress7"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"DaftPVF's Mods",
@@ -2965,6 +2965,15 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2","1.6.1"]
+  },
+  {
+    "name":"Decraft Mod",
+    "link":"http://bit.ly/13A1VAq",
+    "desc":"Adds the ability to craft many finished products back into the raw materials.",
+    "author":["LosMen"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Defensive Villagers",
@@ -3255,7 +3264,7 @@
     "author":["AtomicStryker"],
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Dynamic Mazes",
@@ -3771,6 +3780,7 @@
     "link":"http://bit.ly/XCV19S",
     "desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
     "author":["MisterFiber"],
+	"source":"https://github.com/ExtrabiomesXL/ExtrabiomesXL",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
@@ -4082,7 +4092,7 @@
     "author":["Blubbeltasche"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Fluid Mechanics",
@@ -4157,7 +4167,7 @@
 	"source":"https://github.com/MinecraftForge/MinecraftForge",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"ForgeEssentials",
@@ -4256,7 +4266,7 @@
     "author":["Micdoodle8"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Gammabright",
@@ -4626,7 +4636,7 @@
     "author":["Blubbeltasche"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"HD Skins and Cloaks",
@@ -4984,7 +4994,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"InfiCraft",
@@ -5104,7 +5114,7 @@
 	"source":"https://github.com/Kobata/inventory-tweaks",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Invincible Hamster",
@@ -5132,7 +5142,7 @@
 	"source":"https://github.com/cpw/ironchest/tree/master/IronChests2",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Item Frame Lag Fix",
@@ -5267,7 +5277,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Keyhole Mod",
@@ -5646,7 +5656,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Magical Crops",
@@ -5682,7 +5692,7 @@
     "author":["Greency99"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2","1.6.1"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Marcopolo's Mods",
@@ -6061,7 +6071,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Minor Alchemy",
@@ -6088,7 +6098,7 @@
     "author":["DrZhark"],
     "type":["Universal"],
     "dependencies":["Forge Required","GuiAPI","Custom Mob Spawner"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Mo' Foliage",
@@ -6368,6 +6378,7 @@
     "link":"http://bit.ly/ZkLR32",
     "desc":"Gameplay and balance tweaks, better mod integration, and scripting support.",
     "author":["Grom_PE"],
+	"source":"https://github.com/grompe/moreeverything",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
@@ -6659,7 +6670,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Multi Page Chest",
@@ -6761,13 +6772,13 @@
     "versions":["1.5.1"]
   },
   {
-    "name":"Mystic Mod",
+    "name":"Mystic Mods",
     "link":"http://bit.ly/16RPIWd",
     "desc":"There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience.Mystic Ores adds 4 nether ores and 7 overworld ores as well as 1 blastproof glass block into the game, some of which can be used to create some quite impressive tools!Mystic Ruins adds 2 new structures, some overworld ruins which can contain treasure chests, as well as massive underground dungeons that also double as mazes, as you can quite easily get lost in them!Mystic Stones adds 7 new stones to the game, as well as planks, bricks, and cobbled versions of each. It also adds reinforced bricks, a compatibility pack for Mystic Ores, which allows you to compress your gems/ingots from Mystic Ores into blocks, which double as beacon bases (currently bugged, fixing right now) and are blastproof. They cannot be uncrafted.",
     "author":["oitsjustjose"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1","1.5.2"]
   },
   {
     "name":"MysticRPG",
@@ -7273,7 +7284,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Pfaeff's Mod",
@@ -7627,7 +7638,7 @@
     "author":["lumien"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"rbdyck's Mods",
@@ -7808,7 +7819,7 @@
     "author":["ReiFNSK"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Reinforced Butter",
@@ -7898,7 +7909,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"RotaryCraft",
@@ -7943,7 +7954,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"S.T.F.U.",
@@ -8186,7 +8197,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Simply Horses",
@@ -8250,7 +8261,7 @@
     "author":["Blubbeltasche"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Slender - Reimagined",
@@ -8503,7 +8514,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Star Wars Mod",
@@ -9621,7 +9632,7 @@
     "author":["Grom_PE"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"UnifyMC",
@@ -9857,7 +9868,7 @@
     "author":["MamiyaOtaru"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Walking Dead Mod",

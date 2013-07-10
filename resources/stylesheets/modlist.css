@@ -81,7 +81,8 @@ a.ns:hover	{color:#3072B3;
 /*CSS for Open Source links*/
 .opensource	{
 	float: right;
-	margin-right: 10px;}
+	margin-right: 10px;
+}
 /**/
 /*Code for descriptions*/
 .desctt 		{background:transparent url(../images/desc.png) center center no-repeat;
