@@ -45,7 +45,8 @@ pre {
 <div class="listcontain">
 <form id="listcreator" action="submit.php" method="POST">
 <h1>MCF Mod List - Entry Suggestions</h1>
-<p>Request for a mod to be added to the list. ** = Required for all submissions. * = Required for new mods.</p>
+<p>Request for a mod to be added to the list. ** = Required for all submissions. * = Required for new mods.</br>
+<strong style="color:black;">Please check if the mod you want to submit is already on the list, or <u>you may risk being temporarily banned from submitting.</u></strong></p>
 <label>Status**
 <span class="small" id="compattext">Are you submitting a new mod not on the list yet?</span>
 </label>
@@ -96,7 +97,7 @@ pre {
 <span class="small">What Minecraft versions does the mod work on?</span>
 </label>
 <fieldset class="checkcontain">
-<input id="ver162" type="checkbox" name="version[]" value="1.6.1"><label for="ver161">1.6.2</label>
+<input id="ver162" type="checkbox" name="version[]" value="1.6.2"><label for="ver162">1.6.2</label>
 <input id="ver161" type="checkbox" name="version[]" value="1.6.1"><label for="ver161">1.6.1</label>
 <input id="ver152" type="checkbox" name="version[]" value="1.5.2"><label for="ver152">1.5.2</label>
 <input id="ver151" type="checkbox" name="version[]" value="1.5.1"><label for="ver151">1.5.1</label>
