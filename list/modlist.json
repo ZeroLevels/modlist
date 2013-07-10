@@ -996,7 +996,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"ArmorStatusHUD",
@@ -1152,7 +1152,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"Audiotori",
@@ -1512,7 +1512,7 @@
     "author":["ted80"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.2","1.6.1"]
+    "versions":["1.5.0","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"BetterFonts",
@@ -1613,7 +1613,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Birds Mod",
@@ -2937,7 +2937,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Death Counter",
@@ -3401,7 +3401,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Elemental Creepers",
@@ -4083,7 +4083,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Flowercraft",
@@ -4501,7 +4501,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Grimoire of Gaia",
@@ -6262,7 +6262,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"ModOptionsAPI",
@@ -6517,7 +6517,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"More Stuff",
@@ -7729,7 +7729,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Recipe Remover",
@@ -8089,7 +8089,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Show Durability",
@@ -8143,7 +8143,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Sim-U-Kraft",
@@ -8442,7 +8442,7 @@
     "author":["Risugami"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Special Mobs",

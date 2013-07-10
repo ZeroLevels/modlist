@@ -3,7 +3,7 @@
  * Written by GrygrFlzr
  */
 if(isset($_SESSION['usr'])) {
-	$change162 = file('../list/1.6/changelog_1.6.1.html');
+	$change162 = file('../list/1.6/changelog_1.6.2.html');
 	$change161 = file('../list/1.6/changelog_1.6.1.html');
 	$change152 = file('../list/1.5/changelog_1.5.2.html');
 	$counter = 0;
