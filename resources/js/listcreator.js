@@ -202,7 +202,7 @@ function generate() {
 		versions.push('1.5.2');
 	if($('#ver161').is(':checked'))
 		versions.push('1.6.1');
-	if($('#ver161').is(':checked'))
+	if($('#ver162').is(':checked'))
 		versions.push('1.6.2');
 	if(versions.length > 0)
 		json += '    "versions":["' + versions.join('","') + '"]\r\n';
