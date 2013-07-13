@@ -37,8 +37,10 @@ if(file_exists($changelogfile)) {
     echo 'The automatic changelog was last generated on ' . date ("F d Y, H:i:s.", filemtime($changelogfile)) . '</br>';
 }
 echo '</br>';
-if(file_exists($modlistfile) && file_exists($changelogfile)) {
-	if(filemtime($changelogfile) < filemtime($modlistfile))
-		echo 'The changelog seems to be outdated... It is recommended that you <a href="panel.php?view=generate">generate the changelog</a>.';
+if(accesslevel($_SESSION['usr']) == 0) {
+	if(file_exists($modlistfile) && file_exists($changelogfile)) {
+		if(filemtime($changelogfile) < filemtime($modlistfile))
+			echo 'The changelog seems to be outdated... It is recommended that you <a href="panel.php?view=generate">generate the changelog</a>.';
+	}
 }
 ?>
