@@ -618,12 +618,12 @@
   },
   {
     "name":"[Universal Electricity] Atomic Science",
-    "link":"http://bit.ly/YofWfU",
+    "link":"http://bit.ly/1aBCGAq",
     "desc":"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!",
     "author":["Calclavia"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"[Universal Electricity] Biotech",
@@ -678,7 +678,7 @@
     "author":["Calclavia"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"[Universal Electricity] Mekanism",
@@ -843,7 +843,7 @@
     "author":["Sopwith"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"All-U-Want Inventory Editor",
@@ -948,10 +948,10 @@
     "name":"Aquaculture",
     "link":"http://bit.ly/1cgXZmc",
     "desc":"An expansion of Minecraft's fishing system. You never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing.",
-    "author":["Shadowclaimer"],
+    "author":["Shadowclaimer","RebelKeithy"],
     "type":["Universal"],
-    "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "dependencies":["Forge Required","KeithyUtils Required"],
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Arcane Ascension",
@@ -1006,7 +1006,7 @@
 	"source":"https://github.com/bspkrs/ArmorStatusHUD",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Aroma1997s Dimensional World",
@@ -1224,7 +1224,7 @@
     "author":["Megabitus98"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"B.F.Mod",
@@ -1368,7 +1368,7 @@
     "author":["SMEZ1234"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Better Bows Mod",
@@ -1601,10 +1601,10 @@
     "name":"Biomes O' Plenty",
     "link":"http://bit.ly/106hnC2",
     "desc":"A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.",
-    "author":["ted80"],
+    "author":["TDWP_FTW","ted80","Amnet","Adubbz"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Biosphere",
@@ -1659,7 +1659,7 @@
 	"source":"https://github.com/bspkrs/BlockBreaker",
     "type":["Universal"],
     "dependencies":["Forge Required","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"BlockPhysics Mod",
@@ -1752,7 +1752,7 @@
 	"source":"https://github.com/bspkrs/bspkrsCore",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Buck's Mods",
@@ -1935,7 +1935,7 @@
     "author":["Mineshopper"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2","1.6.1"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Cartographer",
@@ -2035,7 +2035,7 @@
     "author":["CubeX2"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Chickenbones Mods",
@@ -2062,7 +2062,7 @@
     "author":["Vazkii"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Chisel",
@@ -2396,11 +2396,11 @@
   {
     "name":"ComputerCraft",
     "link":"http://bit.ly/13aWXXd",
-    "desc":"ComputerCraft adds programmable computers and robots to minecraft.",
+    "desc":"ComputerCraft adds programmable computers and robots.",
     "author":["dan200"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Condensed Blocks Mod",
@@ -2519,6 +2519,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Craft Cards",
+    "link":"http://bit.ly/1dtJL20",
+    "desc":"Adds cards that can have recipes encoded onto them. The cards can then be used to instantly craft the recipe using the items in one's inventory without a crafting table.",
+    "author":["Lomeli12"],
+    "source":"https://github.com/Lomeli12/CraftCards",
+    "type":["Universal"],
+    "dependencies":["Forge Required","Lomlib Required"],
+    "versions":["1.6.1","1.6.2"]
   },
   {
     "name":"Craft Gunpowder Mod",
@@ -2728,7 +2738,7 @@
 	"source":"https://github.com/bspkrs/CrystalWing",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"CT Third Person",
@@ -2810,7 +2820,7 @@
     "author":["CubeX2"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"CustomVolume",
@@ -2845,9 +2855,9 @@
     "link":"http://bit.ly/WBHu2N",
     "desc":"This mod has a separate version for each ModLoader and Forge.Adds a bunch of creatures from the hit BBC show Doctor Who",
     "author":["1WTC"],
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.6.2"]
   },
   {
     "name":"Damage Indicators",
@@ -2856,7 +2866,7 @@
     "author":["rich1051414"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Dark Messiah's Mods",
@@ -2869,12 +2879,12 @@
   },
   {
     "name":"DarkLords RPG",
-    "link":"http://bit.ly/15NImlQ",
+    "link":"http://bit.ly/11KRTeL",
     "desc":"Adds new mobs (including bosses), weapons, tools, a biome, and more.",
     "author":["darklord987"],
     "type":["SSP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"DartCraft",
@@ -3109,7 +3119,7 @@
 	"source":"https://github.com/bspkrs/DirectionHUD",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"DivineOres",
@@ -3128,6 +3138,16 @@
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Diving Gear Mod",
+    "link":"http://bit.ly/1aBxAnO",
+    "desc":"Adds 4 types of helmets that allow one to breath underwater for longer periods of time!",
+    "author":["Lomeli12"],
+    "source":"https://github.com/Lomeli12/DivingGear",
+    "type":["Universal"],
+    "dependencies":["Forge Required","LomLib Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"doFireTweak",
@@ -3282,7 +3302,7 @@
     "author":["mikeprimm"],
     "type":["SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Easier Skeletons Mod",
@@ -3310,7 +3330,7 @@
 	"source":"https://github.com/LepkoQQ/EasyCrafting",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Easy Dyes Mod",
@@ -3346,7 +3366,7 @@
     "author":["Duke605"],
     "type":["SSP"],
     "dependencies":["Forge Required","DukeCore Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.1"]
   },
   {
     "name":"Extra Building Materials",
@@ -3677,6 +3697,16 @@
     "versions":["1.4.6","1.4.7","1.4.4","1.4.5","1.5.1","1.5.2"]
   },
   {
+    "name":"[Equivalent Exchange 3] Equivalency",
+    "link":"http://bit.ly/1aBwNmU",
+    "desc":"An addon for Equivalent Exchange 3 that adds more transmutation recipes for the mod. It also adds support for several mods that are usually used along side EE3, such as Industrial Craft 2 and Forestry.",
+    "author":["Lomeli12"],
+    "source":"https://github.com/Lomeli12/Equivalency",
+    "type":["Universal"],
+    "dependencies":["Forge Required","LomLib Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"EssentialCraft",
     "link":"http://bit.ly/108jRA3",
     "desc":"",
@@ -3783,7 +3813,7 @@
 	"source":"https://github.com/ExtrabiomesXL/ExtrabiomesXL",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"ExtraneousCraft",
@@ -4074,7 +4104,7 @@
 	"source":"https://github.com/bspkrs/FloatingRuins",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Floodgate",
@@ -4264,18 +4294,19 @@
     "link":"http://bit.ly/10jmPPP",
     "desc":"Lets you travel to new planets with your own spaceship.",
     "author":["Micdoodle8"],
+	"source":"https://github.com/micdoodle8/Galacticraft",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
-    "name":"Gammabright",
+    "name":"Gamma bright",
     "link":"http://bit.ly/13aZktd",
     "desc":"Allows you to change your in-game brightness.",
     "author":["kymaster"],
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"GardenCraft",
@@ -4463,9 +4494,10 @@
     "link":"http://bit.ly/117MwEs",
     "desc":"",
     "author":["gcewing"],
-    "type":["SSP","SMP"],
+	"source":"http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/#mozTocId598776",
+    "type":["universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Greg's Prospecting",
@@ -4975,7 +5007,7 @@
     "author":["Davidee"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"IndustrialCraft 2 (IC2)",
@@ -5021,7 +5053,7 @@
     "author":["Lunatrius"],
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Ingame Mod List",
@@ -5050,7 +5082,7 @@
 	"source":"https://github.com/bspkrs/IngameInfo",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"InkMaster",
@@ -5271,6 +5303,16 @@
     "versions":["1.5.0","1.5.1"]
   },
   {
+    "name":"KeithyUtils",
+    "other":"(Dependency)",
+    "link":"http://bit.ly/12nxBTF",
+    "desc":"Provides helper utilities for RebelKeithy's other mods.",
+    "author":["RebelKeithy"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"KenshiroMod",
     "link":"http://bit.ly/as-kenshiro",
     "desc":"Unleashing rage only possible with bare chest and empty hands. Drains a lot of stamina / hunger. For real men only.",
@@ -5331,7 +5373,7 @@
     "author":["Kodehawa"],
     "type":["Client"],
     "dependencies":["Not Forge Compatible","Modloader Compatible"],
-    "versions":["1.6.1"]
+    "versions":["1.6.1","1.6.2"]
   },
   {
     "name":"Koi",
@@ -5412,7 +5454,7 @@
     "author":["Davidee"],
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"LegendGear",
@@ -5558,6 +5600,17 @@
     "type":["SSP","SMP"],
     "dependencies":["N/A"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"LomLib",
+    "other":"(Dependency)",
+    "link":"http://bit.ly/1dtIfx4",
+    "desc":"A library used by mods created by Lomeli12.",
+    "author":["Lomeli12"],
+    "source":"https://github.com/Lomeli12/LomLib",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Lost Books",
@@ -5831,12 +5884,13 @@
   },
   {
     "name":"Metallurgy 3",
-    "link":"http://bit.ly/temp-metallurgy-beta-151",
+    "link":"http://bit.ly/17aSWTB",
     "desc":"A vast enhancement to the basic mining system, adding well over 48+ new metals (based on which submods you use). Our goal is to create a balanced atmosphere for players to explore and enjoy mining. Metallurgy 2 is also modular, configurable, and entirely tailoring for the player's experience.",
     "author":["Shadowclaimer"],
+	"source":"https://github.com/RebelKeithy/Metallurgy3",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Middleage Mod",
@@ -5854,7 +5908,7 @@
     "author":["Kinniken"],
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Minaptics",
@@ -6035,7 +6089,7 @@
     "author":["Duke605"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.1"]
   },
   {
     "name":"Mining Enhancemants",
@@ -6125,7 +6179,7 @@
     "author":["BentSpoonStudios"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Mo' Minecraft Mod",
@@ -6224,7 +6278,7 @@
     "author":["Davidee"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Mob Talker",
@@ -6264,6 +6318,7 @@
     "dependencies":["Not Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
+  
   {
     "name":"ModOptionsAPI",
     "link":"http://bit.ly/XeiQAH",
@@ -6297,9 +6352,10 @@
     "link":"http://bit.ly/Sw1AcJ",
     "desc":"This mod has separate ModLoader and Forge versions.See bit.ly/modloaderHighlights any blocks where monsters can spawn.",
     "author":["Lunatrius"],
+	"source":"https://github.com/Lunatrius/Monster-Spawn-Highlighter",
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"More Blocks",
@@ -6381,7 +6437,7 @@
 	"source":"https://github.com/grompe/moreeverything",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"More Furnaces",
@@ -6390,7 +6446,7 @@
     "author":["CubeX2"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"More Gems Mod",
@@ -6490,7 +6546,7 @@
     "author":["DarkHax"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"More Slicers and Slappers",
@@ -6535,7 +6591,7 @@
     "author":["DarkHax"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"More Village Biomes + Village Logic Addon",
@@ -6679,7 +6735,7 @@
     "author":["CubeX2"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"MumbleLink",
@@ -6688,7 +6744,7 @@
     "author":["zsawyer"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Mushroom Torch Mod",
@@ -6969,7 +7025,7 @@
     "author":["Sopwith"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Not Enough Items (NEI)",
@@ -7094,8 +7150,8 @@
     "desc":"Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS. (The update to 1.6 is still very much in progress.)",
     "author":["sp614x"],
     "type":["Client"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Ore Dimension's Mod",
@@ -7876,13 +7932,13 @@
     "versions":["1.5.0","1.5.1","1.5.2"]
   },
   {
-    "name":"Revamp Enhanced Villager and Mob Performance",
+    "name":"Revamp: Enhanced Villager and Mob Performance",
     "link":"http://bit.ly/11ZKqqp",
     "desc":"Increased mob view/action distance; eliminates mob corner-crowding; improved villager home selection and spreading out into villages; cave villages; configurable door-to-villager ratio; miscellaneous other village-related tweaks",
     "author":["rivvest"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Rival Rebels",
@@ -7891,7 +7947,7 @@
     "author":["Rodolphito"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Rougelike Dungeons Mod",
@@ -7999,16 +8055,17 @@
     "author":["MickKay"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Schematica",
     "link":"http://bit.ly/XSPYRr",
     "desc":"Allows you to display a ghost image of a schematic file inside Minecraft to rebuild a structure or export any part of your world (or a server's world) into a schematic file. You're able to export parts of your world, too!",
     "author":["Lunatrius"],
+	"source":"https://github.com/Lunatrius/Schematica",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Scoaleton",
@@ -8485,9 +8542,10 @@
     "link":"http://bit.ly/Sw1AcJ",
     "desc":"Groups all items of the same type and experience orbs into stacks of maximum size. For example: 6 towers, 64 high of sand will give you 384 entities.",
     "author":["Lunatrius"],
+	"source":"https://github.com/Lunatrius/Stackie",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"StackPack",
@@ -8505,7 +8563,7 @@
     "author":["Blubbeltasche"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Stalker Creepers",
@@ -8542,7 +8600,7 @@
 	"source":"https://github.com/bspkrs/StartingInventory",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Statues",
@@ -8560,8 +8618,8 @@
     "author":["bspkrs"],
 	"source":"https://github.com/bspkrs/StatusEffectHUD",
     "type":["Client"],
-    "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Steve's Carts 2",
@@ -8570,7 +8628,7 @@
     "author":["Vswe"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Stick To Plank Mod",
@@ -8877,6 +8935,7 @@
     "link":"http://bit.ly/YeKc9x",
     "desc":"Adds many items to the game themed towards camping. Like Tents, campfires, and camping bags as well as a new inventory for better crafting and item management.",
     "author":["__rikmuld__"],
+	"source":"https://github.com/Rikmuld/Camping-Mod",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
@@ -9340,7 +9399,7 @@
     "author":["TehKrush"],
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"TimesOreForge",
@@ -9395,7 +9454,7 @@
     "author":["Marglyph"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"TooManyPlants",
@@ -9504,7 +9563,7 @@
 	"source":"https://github.com/bspkrs/TreeCapitator",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Treefeller",
@@ -9560,7 +9619,7 @@
 	"source":"https://github.com/maxpowa/tukmc",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Turret Mod",
@@ -9605,7 +9664,7 @@
     "author":["Mao"],
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.5.2"]
   },
   {
     "name":"Ultimate Tools",
@@ -9614,7 +9673,7 @@
     "author":["Umbrosus"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Uncle Steve's Mods",
@@ -9988,6 +10047,15 @@
     "versions":["1.5.0"]
   },
   {
+    "name":"Whole Tree Axe",
+    "link":"http://www.minecraftforum.net/topic/506109-",
+    "desc":"Adds a new item to the game: Whole Tree Axe. This axe harvests all connecting wood blocks. The axe has 59 uses.",
+    "author":["CubeX2"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
     "name":"Wild Caves 3",
     "link":"http://bit.ly/VVSHIm",
     "desc":"Gives some much needed love to vanilla caves, adding stalactites, stalagmites, vines, glowing mushrooms, icicles and other realistic and aesthetic features.",
@@ -10112,7 +10180,7 @@
 	"source":"https://github.com/bspkrs/WorldStateCheckpoints",
     "type":["SSP"],
     "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"X-mas Armor'n'Weapons",
@@ -10333,5 +10401,14 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.0","1.5.1"]
+  },
+  {
+    "name":"Zyin's HUD",
+    "link":"http://bit.ly/12nyMm0",
+    "desc":"Adds your coordinates, a compass, calculates distances, shows nearby players, shows unsafe areas, shows potion duration, eating helper, weapon swapper, an fps counter, displays horse stats, and dynamically displays your equipment that is at less than 10% durability.",
+    "author":["Zyin055"],
+    "type":["Client"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
   }
 ]
