@@ -33,7 +33,7 @@ include('../../resources/scripts/jsontable.php');
 <ul id="list-nav">
 	<li><a href="/">Home</a></li>
 	<li><a href="/credits/">Credits</a></li>
-	<li class="h"><a>Current List</a></li>
+	<li><a href="/latest/">Current List</a></li>
 	<li><a href="/banners/">Banners</a></li>
 
 	<![if !IE]>
