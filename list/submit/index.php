@@ -27,6 +27,12 @@ pre {
 	white-space:-o-pre-wrap;	/* Opera 7 */
 	word-wrap: break-word;	/* Internet Explorer 5.5+ */
 }
+a {
+	color: #0000ff;
+}
+a:hover {
+	color: #8888ff;
+}
 </style>
 
 	<body id="submission_form">
@@ -46,7 +52,8 @@ pre {
 <form id="listcreator" action="submit.php" method="POST">
 <h1>MCF Mod List - Entry Suggestions</h1>
 <p>Request for a mod to be added to the list. ** = Required for all submissions. * = Required for new mods.</br>
-<strong style="color:black;">Please check if the mod you want to submit is already on the list, or <u>you may risk being temporarily banned from submitting.</u></strong></p>
+<strong style="color:black;">Please check if the mod you want to submit is already on the list or already submitted, or <u>you may risk being temporarily banned from submitting.</u></strong></br>
+<span style="color:black;">The list of requests in process can be viewed <a href="list.php">here</a>.</span></p>
 <label>Status**
 <span class="small" id="compattext">Are you submitting a new mod not on the list yet?</span>
 </label>
