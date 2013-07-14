@@ -719,7 +719,7 @@
   },
   {
     "name":"Additional Pipes",
-    "link":"https://github.com/tcooc/AdditionalPipesBC/downloads",
+    "link":"http://bit.ly/15c3h03",
     "desc":"",
     "author":["DaStormBringer"],
     "type":["SSP","SMP"],
@@ -1255,7 +1255,7 @@
   },
   {
     "name":"BackCraft",
-    "link":"http://www.minecraftforum.net/topic/1873656-",
+    "link":"http://bit.ly/12A4VFE",
     "desc":"Allows you to reverse crafting recipes to their original materials.",
     "author":["JL97"],
     "type":["SSP"],
@@ -3407,10 +3407,10 @@
   },
   {
     "name":"Electric Expansion",
-    "link":"http://calclavia.com/universalelectricity/?m=4",
+    "link":"http://bit.ly/1bbB9R3",
     "desc":"",
     "author":["Mattredsox","Alex_Hawks"],
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
   },
@@ -4645,10 +4645,10 @@
   },
   {
     "name":"Hawk's Machinery",
-    "link":"http://calclavia.com/universalelectricity/?m=34",
+    "link":"http://bit.ly/12A5oHW",
     "desc":"",
     "author":["Elusivehawk"],
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5"]
   },
@@ -5104,7 +5104,7 @@
   },
   {
     "name":"InstantBlocks",
-    "link":"http://www.minecraftforum.net/topic/1802788-",
+    "link":"http://bit.ly/10wfidT",
     "desc":"Adds several craftable blocks to the game that create instant structures when placed and activated.",
     "author":["Slymask3"],
     "type":["Universal"],
@@ -5585,7 +5585,7 @@
   },
   {
     "name":"Logistics Pipes",
-    "link":"http://ci.thezorro266.com/job/LogisticsPipes/",
+    "link":"http://bit.ly/12p1tyZ",
     "desc":"",
     "author":["thezorro266"],
     "type":["SSP","SMP"],
@@ -5839,7 +5839,7 @@
   },
   {
     "name":"Mekanism",
-    "link":"http://calclavia.com/universalelectricity/?m=17",
+    "link":"http://bit.ly/13ZCuHu",
     "desc":"",
     "author":["Aidancbrady"],
     "type":["Universal"],
@@ -6811,7 +6811,7 @@
   },
   {
     "name":"Mystcraft",
-    "link":"http://binarymage.com/",
+    "link":"http://bit.ly/13ZCBTB",
     "desc":"Let's you write your own dimensions, known as ages. Inspired by the Myst videogame series.",
     "author":["XCompWiz"],
     "type":["Universal"],
@@ -7505,15 +7505,6 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
-  },
-  {
-    "name":"PowerTools",
-    "link":"http://calclavia.com/universalelectricity/?m=16",
-    "desc":"",
-    "author":["Eearslya"],
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
   },
   {
     "name":"Pre-Historic Mod",
@@ -8831,7 +8822,7 @@
   },
   {
     "name":"TerraFirmaCraft",
-    "link":"http://terrafirmacraft.com/",
+    "link":"http://bit.ly/15c5F7g",
     "desc":"",
     "author":["bioxx"],
     "type":["SSP","SMP"],
@@ -8841,7 +8832,7 @@
   {
     "name":"TerraFirmaCraft",
     "other":"(1.4.6 only)",
-    "link":"http://terrafirmacraft.com/",
+    "link":"http://bit.ly/15c5F7g",
     "desc":"",
     "author":["bioxx"],
     "type":["SSP","SMP"],
@@ -8923,7 +8914,7 @@
   },
   {
     "name":"The Breakfast Mod",
-    "link":"",
+    "link":"http://bit.ly/13aa0ZN",
     "desc":"Adds new reasons to explore! Strawberry and Blueberry seeds! They can only be found in dungeons, plant them on some farmland to grow yourself some fruit! You don't want to let that farm land dry out, do you? Then put a bottle of Orange Juice on-top of a empty bucket and hydrate those fields with some Orange Juice! Oranges can also be found in dungeons as an alternative to ''crafting'' them.",
     "author":["Tenyar"],
     "type":["Universal"],
@@ -9830,7 +9821,7 @@
   },
   {
     "name":"Valve Pipes",
-    "link":"https://github.com/denoflionsx/DenPipes/wiki",
+    "link":"http://bit.ly/15c6blv",
     "desc":"",
     "author":["denoflionsx"],
     "type":["SSP","SMP"],
@@ -10048,7 +10039,7 @@
   },
   {
     "name":"Whole Tree Axe",
-    "link":"http://www.minecraftforum.net/topic/506109-",
+    "link":"http://bit.ly/13dry5y",
     "desc":"Adds a new item to the game: Whole Tree Axe. This axe harvests all connecting wood blocks. The axe has 59 uses.",
     "author":["CubeX2"],
     "type":["Universal"],
