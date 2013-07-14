@@ -33,7 +33,7 @@ include('../../resources/scripts/jsontable.php');
 <ul id="list-nav">
 	<li><a href="/">Home</a></li>
 	<li><a href="/credits/">Credits</a></li>
-	<li class="h"><a>Current List</a></li>
+	<li><a href="/latest/">Current List</a></li>
 	<li><a href="/banners/">Banners</a></li>
 
 	<![if !IE]>
@@ -46,13 +46,10 @@ include('../../resources/scripts/jsontable.php');
 </ul>
 <br/>
 <hr width="99%" size="6" noshade>
-<p class="padded">
-	If you know of a mod that's not on this list, please let us know. There are three ways to inform us of new mods. If you have an account on the Minecraft Forums, leave a post in the suggestion thread <a href="http://bit.ly/13fsFlm" class="ns" title="The original Minecraft Forums post for the mod list">here</a>, or drop by the <span style="color: #0481ff">#mcf_modlist</span> IRC channel on <span style="color: purple">EsperNet</span>. If you wish to remain anonymous, you may use the submission form <a href="/list/submit/">here</a>. Please check to see if the mod is on the list already before suggesting.
-	<br/>
-	<br/>
-	If there's an icon in the "Info" column, hover over it to read the description for that mod.
-</p>
-<?php listVersion($version); ?>
+<?php
+supportedCheck($version);
+listVersion($version);
+?>
 <table cellspacing="0" class="modlist" id="example">
 	<thead>
 		<?php beginTable(); ?>

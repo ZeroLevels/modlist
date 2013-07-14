@@ -97,6 +97,16 @@ function showAPI($version) {
 	echo implode(' | ', $listing);
 }
 
+function supportedCheck($version) {
+	$supported[] = '1.6.2';
+	$supported[] = '1.6.1';
+	$supported[] = '1.5.2';
+	if(in_array($version,$supported))
+		include '../supported.php';
+	else
+		include '../oldversion.php';
+}
+
 function listVersion($version) {
 	echo '<table class="listnav nav major">';
 	echo '<thead>';
