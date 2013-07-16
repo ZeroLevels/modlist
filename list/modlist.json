@@ -1602,6 +1602,7 @@
     "link":"http://bit.ly/106hnC2",
     "desc":"A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.",
     "author":["TDWP_FTW","ted80","Amnet","Adubbz"],
+	"source":"https://github.com/BiomesOPlenty/BiomesOPlenty",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
@@ -5439,6 +5440,15 @@
     "versions":["1.4.4","1.4.5"]
   },
   {
+    "name":"Left-Handed",
+    "link":"http://bit.ly/16FUxhU",
+    "desc":"Places items in your left hand, swaps panorama direction, and makes actions with left hand instead. Edits the jar.",
+    "author":["GreensMC"],
+    "type":["Client"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.6.1","1.6.2"]
+  },
+  {
     "name":"Legend of Zelda Mod",
     "link":"http://bit.ly/16ndZWL",
     "desc":"Adds items from The Legend of Zelda to tha game.",
@@ -8703,6 +8713,15 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"SuperCraftingFrame",
+    "link":"http://bit.ly/10XP87k",
+    "desc":"Helps with repetitive crafting tasks during early game.",
+    "author":["EdgarAllen"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
+  },
+  {
     "name":"Super Creepers",
     "link":"http://bit.ly/XPsD0o",
     "desc":"",
@@ -8773,6 +8792,15 @@
     "type":["Client"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"TaleCraft",
+    "link":"http://bit.ly/14VSJTT",
+    "desc":"TaleCraft gives you the tools and abilities to create more in-depth adventure maps, improve your control over the environment, and help tell an unique tale. Still in early development.",
+    "author":["Snow_56767","Longor1996"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Tale of Kingdoms",
