@@ -103,6 +103,8 @@ function outputVersion($versions) {
 					unset($mod->name);
 					unset($mod->other);
 					$mod = (object) array_merge((array) $newmod, (array) $mod);
+					if(isset($mod->source))
+						unset($mod->source);
 				}
 				$newjson[] = $mod;
 			}
@@ -136,6 +138,8 @@ function outputVersionSingle($version) {
 					unset($mod->name);
 					unset($mod->other);
 					$mod = (object) array_merge((array) $newmod, (array) $mod);
+					if(isset($mod->source))
+						unset($mod->source);
 				}
 				$newjson[] = $mod;
 			}
@@ -151,6 +155,8 @@ function outputVersionSingle($version) {
 			unset($mod->name);
 			unset($mod->other);
 			$mod = (object) array_merge((array) $newmod, (array) $mod);
+			if(isset($mod->source))
+				unset($mod->source);
 		}
 		$newjson[] = $mod;
 	}
