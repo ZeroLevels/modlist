@@ -6504,6 +6504,16 @@
     "versions":["1.5.2"]
   },
   {
+    "name":"MoreOresOrite",
+    "other":"Addings more things in the future not just ores, tools and amrour, as I have just started modding.",
+    "link":"http://bit.ly/1bIAtRF",
+    "desc":"Adds more ores, tools and armor to Minecraft.",
+    "author":["UsernameZero"],
+    "type":["SSP"],
+    "dependencies":["Forge Compatible","Modloader"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
+  },
+  {
     "name":"More Pistons Mod",
     "link":"http://bit.ly/Zg0U8p",
     "desc":"",
@@ -8953,11 +8963,11 @@
     "name":"The Camping Mod",
     "link":"http://bit.ly/YeKc9x",
     "desc":"Adds many items to the game themed towards camping. Like Tents, campfires, and camping bags as well as a new inventory for better crafting and item management.",
-    "author":["__rikmuld__"],
+    "author":["RikMuld"],
 	"source":"https://github.com/Rikmuld/Camping-Mod",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"The Car Mod",
