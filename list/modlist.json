@@ -852,7 +852,7 @@
     "author":["mister_person"],
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.5.1","1.5.2","1.6.1"]
+    "versions":["1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Alma Wade Mod",
@@ -906,7 +906,7 @@
     "author":["Noppes"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Animal Packer",
@@ -942,7 +942,7 @@
     "author":["AlgorithmX2"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Aquaculture",
@@ -1314,7 +1314,7 @@
     "author":["MorpheusZero"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1"]
+    "versions":["1.5.0","1.5.1","1.6.1","1.6.2"]
   },
   {
     "name":"BattleTowers",
@@ -1542,6 +1542,24 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"BetterSnow",
+    "link":"http://bit.ly/WhJqrb",
+    "desc":"Allows snow to pile up during snowfall and increases snow levels from 8 to 16. Includes a GUI to customize snow.",
+    "author":["acomputerdog"],
+    "type":["SSP","LAN"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"BetterSnow",
+    "link":"http://bit.ly/WhJqrb",
+    "desc":"Allows snow to pile up during snowfall and increases snow levels from 8 to 16. Includes a GUI to customize snow.",
+    "author":["acomputerdog"],
+    "type":["SSP","LAN"],
+    "dependencies":["Not Forge Compatible"],
+    "versions":["1.6.1","1.6.2"]
+  },
+  {
     "name":"BetterStorage",
     "link":"http://bit.ly/VZVIFl",
     "desc":"Adds more storage options, like Storage Crates, Reinforced Chests, Lockers, Armor Stands, as well as locks and keys for its chests. I'm aiming for fun, interesting and balanced features which would fit well into vanilla Minecraft, but also work nicely together with other mods.",
@@ -1558,7 +1576,7 @@
     "author":["Nuchaz"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"BigTrees",
@@ -2184,7 +2202,7 @@
     "author":["MatrexsVigil"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Clay Tools",
@@ -2419,7 +2437,7 @@
     "author":["TheMinecraftianGamer"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1","1.5.2","1.6.1"]
+    "versions":["1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Contagion",
@@ -2693,7 +2711,7 @@
     "author":["MorpheusZero"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.6.1"]
+    "versions":["1.6.1","1.6.2"]
   },
   {
     "name":"CreeperSpecies",
@@ -3029,7 +3047,7 @@
     "author":["MatrexsVigil"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Desert Grund Mod",
@@ -4370,7 +4388,7 @@
     "author":["MatrexsVigil"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Gizmos",
@@ -4413,9 +4431,10 @@
     "link":"http://bit.ly/13BkZcS",
     "desc":"Allows you to place glowstone dust! Not only they're great for trails, they actually give out light!",
     "author":["GrygrFlzr"],
+	"source":"https://github.com/GrygrFlzr/GlowstoneWire",
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"GLSL Shaders mod",
@@ -4624,7 +4643,7 @@
     "author":["MatrexsVigil"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Hats",
@@ -4843,7 +4862,7 @@
     "author":["MatrexsVigil"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Huge Trees are Huge",
@@ -5018,7 +5037,7 @@
     "author":["Alblaka"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Infernal Mobs",
@@ -5068,12 +5087,12 @@
   {
     "name":"Ingame Mod List 3",
     "other":"(IGML3)",
-    "link":"http://modlist.mcf.li/resources/igml3/",
+    "link":"http://bit.ly/1bKHuS7",
     "desc":"Provides an in-game interface for the modlist.",
     "author":["Duke605"],
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.6.1"]
+    "versions":["1.6.1","1.6.2"]
   },
   {
     "name":"IngameInfo",
@@ -5119,7 +5138,7 @@
     "author":["SimJoo"],
     "type":["SSP","LAN"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.6.1"]
+    "versions":["1.6.1","1.6.2"]
   },
   {
     "name":"Instant Repeaters Mod",
@@ -5372,8 +5391,9 @@
     "link":"http://bit.ly/11ulPtx",
     "desc":"Allows the player to cheat with Fly, X-ray and other cheat tools.",
     "author":["Kodehawa"],
+	"source":"https://github.com/Kodehawa/Cheat-Pack-2/",
     "type":["Client"],
-    "dependencies":["Not Forge Compatible","Modloader Compatible"],
+    "dependencies":["Forge Compatible","Modloader Compatible"],
     "versions":["1.6.1","1.6.2"]
   },
   {
@@ -5544,9 +5564,10 @@
     "link":"http://bit.ly/WnFEuT",
     "desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. It is designed to run alongside ModLoader and Minecraft Forge and LiteLoader mods will not conflict with ModLoader or Forge mods.",
     "author":["Mumfrey"],
+	"source":"https://www.assembla.com/spaces/liteloader/stream",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"LittleBlocks",
@@ -5872,7 +5893,7 @@
     "author":["MatrexsVigil"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Metal Rods",
@@ -5964,7 +5985,7 @@
     "author":["cjz__"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Minecraft Comes Alive",
@@ -6504,6 +6525,15 @@
     "versions":["1.5.2"]
   },
   {
+    "name":"MoreOresOrite",
+    "link":"http://bit.ly/1bIAtRF",
+    "desc":"Adds more ores, tools and armor to Minecraft.",
+    "author":["UsernameZero"],
+    "type":["SSP"],
+    "dependencies":["Forge Compatible","Modloader"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
+  },
+  {
     "name":"More Pistons Mod",
     "link":"http://bit.ly/Zg0U8p",
     "desc":"",
@@ -6752,9 +6782,20 @@
     "link":"http://bit.ly/UR753N",
     "desc":"A client-side Mod so that Minecraft now natively supports Mumble's positional audio feature.",
     "author":["zsawyer"],
+	"source":"https://sourceforge.net/projects/modmumblelink/",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"MumbleLink",
+    "link":"http://bit.ly/UR753N",
+    "desc":"A client-side Mod so that Minecraft now natively supports Mumble's positional audio feature.",
+    "author":["zsawyer"],
+	"source":"https://sourceforge.net/projects/modmumblelink/",
+    "type":["Client"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.1","1.6.2"]
   },
   {
     "name":"Mushroom Torch Mod",
@@ -7071,7 +7112,7 @@
     "author":["sorash67"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2","1.6.1"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"nZuR's RPG",
@@ -7161,7 +7202,16 @@
     "author":["sp614x"],
     "type":["Client"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Optifine",
+    "link":"http://bit.ly/VFKJCV",
+    "desc":"Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS. (The update to 1.6 is still very much in progress.)",
+    "author":["sp614x"],
+    "type":["Client"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Ore Dimension's Mod",
@@ -7288,15 +7338,6 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6", "1.4.7","1.5.2"]
-  },
-  {
-    "name":"Pam's Mods",
-    "link":"http://bit.ly/VFL2O4",
-    "desc":"",
-    "author":["MatrexsVigil"],
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
     "name":"Pandora's Box",
@@ -7541,7 +7582,7 @@
     "author":["pelep"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Price of Progress",
@@ -7677,7 +7718,7 @@
     "author":["immediately"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Random Additions",
@@ -8237,7 +8278,7 @@
     "author":["MatrexsVigil"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"SimplicityOresMod",
@@ -8849,6 +8890,15 @@
     "versions":["1.4.6","1.4.7","1.5.1"]
   },
   {
+    "name":"Temperate Plants",
+    "link":"http://bit.ly/VFL2O4",
+    "desc":"Adds new plants for aesthetics.",
+    "author":["MatrexsVigil"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
     "name":"TerraFirmaCraft",
     "link":"http://bit.ly/15c5F7g",
     "desc":"",
@@ -8953,11 +9003,11 @@
     "name":"The Camping Mod",
     "link":"http://bit.ly/YeKc9x",
     "desc":"Adds many items to the game themed towards camping. Like Tents, campfires, and camping bags as well as a new inventory for better crafting and item management.",
-    "author":["__rikmuld__"],
+    "author":["RikMuld"],
 	"source":"https://github.com/Rikmuld/Camping-Mod",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"The Car Mod",
@@ -9165,7 +9215,7 @@
     "author":["sheenrox82"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"The Necromancy Mod",
@@ -9708,6 +9758,7 @@
     "link":"http://bit.ly/X6ZyLH",
     "desc":"Overhauls the underground experience with Underground Biomes that define the rock types and ores present.",
     "author":["Grom_PE"],
+    "source":"https://github.com/ExterminatorJeff/UndergroundBiomes",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
@@ -9737,7 +9788,7 @@
     "author":["Calclavia"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Unlit Torches and Lanterns",
@@ -9746,7 +9797,7 @@
     "author":["pelep"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Upgrade Pickaxe Mod",
@@ -9755,7 +9806,7 @@
     "author":["0012saab"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Urban Mod",
@@ -10036,7 +10087,7 @@
     "author":["MatrexsVigil"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Weeping Angels",
@@ -10231,14 +10282,15 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
   },
   {
-    "name":"X-Ray Mod",
+    "name":"!X-RAY MOD",
     "other":"(julialy)",
     "link":"http://bit.ly/W2hmul",
-    "desc":"This mod will let you see any block you desire.",
+    "desc":"This mod will let you see through any block or entity and has simple controls.",
     "author":["julialy"],
+	"source":"https://github.com/uyjulian/MinecraftX-RAY",
     "type":["Client"],
     "dependencies":["Forge Compatible","Liteloader"],
-    "versions":["1.4.6","1.4.7","1.5.2","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"XACT: Xhamolk_'s Advanced Crafting Table",
