@@ -2678,6 +2678,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"CreeperBurnCore",
+    "link":"http://bit.ly/12ZFKh1",
+    "desc":"Makes Creepers burn in sunlight.",
+    "author":["culegooner"],
+    "source":"https://github.com/culegooner/CreeperBurnCore",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"Creeper Collateral",
     "link":"http://bit.ly/VFC2bC",
     "desc":"Exposes the rate at which explosions drop block items in a config file. Vanilla default is 0.3 while the mod's default is 1.0 so no block is ever completely destroyed by a creeper.",
@@ -3416,6 +3426,16 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"EditableSigns",
+    "link":"http://bit.ly/12ZEpXp",
+    "desc":"Allows you to edit signs",
+    "author":["Flow86"],
+    "source":"https://github.com/Flow86/Edit-Sign-Mod",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+  },
+  {
     "name":"EdziuCraft",
     "link":"http://bit.ly/17rqU6Z",
     "desc":"Adds new slime-based tools and blocks, along with new items.",
@@ -3751,6 +3771,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"ExplosionDropsCore",
+    "link":"http://bit.ly/12ZFKh1",
+    "desc":"All blocks destroyed by an explosion will return drops.",
+    "author":["culegooner"],
+    "source":"https://github.com/culegooner/ExplosionDropsCore",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Explosives+",
@@ -4809,6 +4839,15 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Holy Dragonfly Mod",
+    "link":"http://bit.ly/12ZDar9",
+    "desc":"Adds new blocks, tools, items and armor.",
+    "author":["MrBlackDrag0nfly"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"HomiePower Mod",
@@ -8245,6 +8284,15 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
+    "name":"SimCraft",
+    "link":"http://bit.ly/12ZDMgo",
+    "desc":"A mod that focuses on realism and creativity at the same time, attempting to give a balanced but authentic gameplay experience.",
+    "author":["Conraad","Mikerman50"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6","1.4.7","1.5.2"]
+  },
+  {
     "name":"Sim-U-Kraft",
     "link":"http://bit.ly/UvCRQX",
     "desc":"",
@@ -8352,6 +8400,15 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.5.2"]
+  },
+  {
+    "name":"SkyZone World Generator",
+    "link":"http://bit.ly/12ZEIBt",
+    "desc":"Minimalist world generator based on Noobcrew's SkyBlock map for The Overworld, The Nether and The End; with access to all renewable resources found in vanilla Minecraft.",
+    "author":["King Korihor"],
+    "type":["SSP","LAN"],
+    "dependencies":["Forge Compatible","Modloader"],
+    "versions":["1.3.2","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Slabcraft",
@@ -8524,6 +8581,16 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"SpawnEggDropsMod",
+    "link":"http://bit.ly/12ZFKh1",
+    "desc":"Adds an enchantment which adds a 25% chance of mobs dropping spawn eggs.",
+    "author":["culegooner"],
+    "source":"https://github.com/culegooner/SpawnEggDropsMod",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Spawn Eggs Mod",
