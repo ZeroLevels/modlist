@@ -34,15 +34,19 @@ function sortAlpha($jsonarray) {
 			str_replace(']','',
 			str_replace('(','',
 			str_replace(')','',
+			str_replace('!','',
+			str_replace('?','',
 			strtolower($mod->name)
-			))));
+			))))));
 		if(isset($mod->other))
 			$others[] = str_replace('[','',
 				str_replace(']','',
 				str_replace('(','',
 				str_replace(')','',
+				str_replace('!','',
+				str_replace('?','',
 				strtolower($mod->other)
-				))));
+				))))));
 		else
 			$others[] = '';
 	}
