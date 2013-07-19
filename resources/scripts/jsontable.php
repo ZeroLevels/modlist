@@ -26,27 +26,21 @@ function findVersion($version, $verArray) {
 	return $found;
 }
 
+function filtersort($data) {
+	return PREG_REPLACE("/[^0-9a-zA-Z]/i", '', $data);
+}
+
 function sortAlpha($jsonarray) {
 	$names = array();
 	$others = array();
 	foreach($jsonarray as &$mod) {
-		$names[] = str_replace('[','',
-			str_replace(']','',
-			str_replace('(','',
-			str_replace(')','',
-			str_replace('!','',
-			str_replace('?','',
+		$names[] = filtersort(
 			strtolower($mod->name)
-			))))));
+			);
 		if(isset($mod->other))
-			$others[] = str_replace('[','',
-				str_replace(']','',
-				str_replace('(','',
-				str_replace(')','',
-				str_replace('!','',
-				str_replace('?','',
+			$others[] = filtersort(
 				strtolower($mod->other)
-				))))));
+				);
 		else
 			$others[] = '';
 	}
