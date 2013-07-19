@@ -43,8 +43,10 @@ function sortAlpha($jsonarray) {
 				str_replace(']','',
 				str_replace('(','',
 				str_replace(')','',
+				str_replace('!','',
+				str_replace('?','',
 				strtolower($mod->other)
-				))));
+				))))));
 		else
 			$others[] = '';
 	}
