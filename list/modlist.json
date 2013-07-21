@@ -2002,6 +2002,16 @@
     "versions":["1.4.6","1.4.7","1.5.2","1.6.1","1.6.2"]
   },
   {
+    "name":"Chat Damage Indicators",
+    "link":"http://bit.ly/15WP3QX",
+    "desc":"Displays damage indicators in chat. Configurable to show only mobs you hit or show all sources of damage. Cannot be used on servers without the mod.",
+    "author":["DarkHax"],
+    "source":"https://github.com/darkhax/ChatDamageIndicators",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"ChatlogToFile",
     "other":"(Mine Little Pony)",
     "link":"http://bit.ly/16756dY",
@@ -6668,6 +6678,7 @@
     "link":"http://bit.ly/UR6Wxe",
     "desc":"Adds many new swords to the game.",
     "author":["DarkHax"],
+	"source":"https://github.com/darkhax/MoreSwordsMod",
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
