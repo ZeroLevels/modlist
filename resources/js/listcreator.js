@@ -184,6 +184,8 @@ function generate() {
 		json += '    "dependencies":[],\r\n';
 	
 	var versions = new Array();
+	if($('#ver132').is(':checked'))
+		versions.push('1.3.2');
 	if($('#ver142').is(':checked'))
 		versions.push('1.4.2');
 	if($('#ver145').is(':checked')) {
