@@ -118,7 +118,7 @@ display:block;
 	border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
 	box-shadow: 5px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px rgba(0, 0, 0, 0.1);
 	font-family: Calibri, Tahoma, Geneva, sans-serif;
-	position: absolute; right: 5.5em; bottom: -1em; z-index: 99;
+	position: absolute; right: 4.75em; bottom: -1em; z-index: 99;
 	margin-left: 0; width: 250px;
 }
 .desctt>.tt>ul {
