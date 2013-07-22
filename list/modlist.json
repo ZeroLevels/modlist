@@ -3811,6 +3811,15 @@
     "versions":["1.5.2"]
   },
   {
+    "name":"Extended Item Information",
+    "link":"http://bit.ly/1bVV8lm",
+    "desc":"Displays miscellaneous item information in tooltips.",
+    "author":["Alexiy_Ov"],
+    "type":["Client"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Extended Workbench",
     "link":"http://bit.ly/VFB6UT",
     "desc":"Extends the abilities of the workbench, allowing for more powerful tools, armour, and weapons.",
@@ -5572,6 +5581,15 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1"]
   },
   {
+    "name":"Light Placer",
+    "link":"http://bit.ly/1bVV8lm",
+    "desc":"Places the brightest block in the inventory when placing while holding left control.",
+    "author":["Alexiy_Ov"],
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2"]
+  },
+  {
     "name":"Light Sensor",
     "link":"http://bit.ly/WnSwBj",
     "desc":"Adds a new craftable block that is a new input for redstone mechanisms. It turns on if it is hit with a light level of 12.",
@@ -6859,11 +6877,11 @@
   {
     "name":"Music Timer Mod",
     "link":"http://bit.ly/USU7lo",
-    "desc":"",
+    "desc":"Makes Minecraft music play every 2 minutes instead of 10.",
     "author":["Cycloneblaze"],
     "type":["Client"],
     "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"MusicCraft",
@@ -7977,6 +7995,15 @@
     "type":["SSP","SMP","Lan"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Remote Access",
+    "link":"http://bit.ly/1bVV8lm",
+    "desc":"Activates blocks from any distance.",
+    "author":["Alexiy_Ov"],
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2"]
   },
   {
     "name":"Render Player API",
@@ -9357,6 +9384,15 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
+  },
+  {
+    "name":"The Saturation Mod",
+    "link":"http://bit.ly/13RmUrs",
+    "desc":"Displays a bar for player saturation, normally hidden in vanilla Minecraft.",
+    "author":["Spencie37"],
+    "type":["Client"],
+    "dependencies":["Forge Compatible","Modloader"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"The Seasons Mod",
