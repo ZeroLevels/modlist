@@ -1314,7 +1314,16 @@
     "author":["MorpheusZero"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.5.0","1.5.1","1.6.1","1.6.2"]
+    "versions":["1.5.0","1.5.1","1.6.1"]
+  },
+  {
+    "name":"BatsDropLeather",
+    "link":"http://bit.ly/117U1v2",
+    "desc":"When you kill a bat it has a chance of dropping 0 - 3 pieces of leather during the daytime. If you kill a bat during the night it's yield may improve since bats are nocturnal creatures. Sometimes they may even drop other kinds of seeds! You can also feed them seeds to breed them. I felt like bats were kind of useless at this point as they don't drop anything or give you XP so I added this in.",
+    "author":["MorpheusZero"],
+    "type":["Universal"],
+    "dependencies":["Forge Compatible","MorphCore"],
+    "versions":["1.6.2"]
   },
   {
     "name":"BattleTowers",
@@ -2731,7 +2740,16 @@
     "author":["MorpheusZero"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.6.1","1.6.2"]
+    "versions":["1.6.1"]
+  },
+  {
+    "name":"CreepersNoCreeping",
+    "link":"http://bit.ly/117U1v2",
+    "desc":"Creepers will burn in the sunlight and flee in the sun to find shade when burning. They are also afraid of water because they cannot swim and will explode if they touch water. They also make a sound when wandering around.",
+    "author":["MorpheusZero"],
+    "type":["Universal"],
+    "dependencies":["Forge Required","MorphCore"],
+    "versions":["1.6.2"]
   },
   {
     "name":"CreeperSpecies",
@@ -4887,6 +4905,15 @@
     "versions":["1.5.1"]
   },
   {
+    "name":"HorseAccessories",
+    "link":"http://bit.ly/117U1v2",
+    "desc":"Increases the amount of biomes horses spawn in, and allows the player to craft saddles and horse armor.",
+    "author":["MorpheusZero"],
+    "type":["Universal"],
+    "dependencies":["Forge Required","MorphCore"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"Hostile Drops",
     "link":"http://bit.ly/10WOfh4",
     "desc":"",
@@ -6745,6 +6772,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"MorphCore",
+    "other":"(Dependency)",
+    "link":"http://bit.ly/117U1v2",
+    "desc":"Required dependency for all mods by MorpheusZero.",
+    "author":["MorpheusZero"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"MorpheusZero's Mods",
