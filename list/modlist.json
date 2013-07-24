@@ -834,7 +834,7 @@
     "author":["Ri5ux"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"AllSnow Mod",
@@ -1296,7 +1296,7 @@
     "author":["BalkondeurAlpha"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Basic Guns Mod",
@@ -1431,7 +1431,7 @@
     "author":["TheFrogMC"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"Better Item Despawning",
@@ -2621,7 +2621,7 @@
 	"source":"https://github.com/Uristqwerty/CraftGuide",
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Crafting Creation",
@@ -3139,7 +3139,7 @@
     "author":["thorgot"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Diamond Meter",
@@ -4244,7 +4244,7 @@
     "author":["JoseTheCrafter"],
     "type":["SSP"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Fools Gold Mod",
@@ -7560,7 +7560,7 @@
     "author":["Divisor"],
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Player Heads",
@@ -8546,7 +8546,7 @@
     "author":["Divisor"],
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Smart Spawn Mod",
