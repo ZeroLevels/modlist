@@ -28,18 +28,30 @@ function findModFromName($name) {
 }
 
 function checkAuthor($name) {
+	$namelist = explode(',',$name);
 	$mods = readJSON();
-	$match = false;
-	foreach ($mods as &$mod) {
-		if(strtolower($mod->author) == trim(strtolower($name))) {
-			return json_encode($mod->author);
-			$match = true;
-			break;
+	$authorList = array();
+	foreach($namelist as &$currName) {
+		$break = false;
+		$currName = trim($currName);
+		foreach ($mods as &$mod) {
+			foreach($mod->author as &$currAuthor) {
+				if(strtolower($currAuthor) == strtolower($currName)) {
+					$authorList[] = $currAuthor;
+					$break = true;
+					break;
+				}
+				if($break)
+					break;
+			}
+			if($break)
+				break;
+		}
+		if(empty($authorList)) {
+			return json_encode(false);
 		}
 	}
-	if(!$match) {
-		return json_encode(false);
-	}
+	return json_encode(implode(', ',$authorList));
 }
 
 if(isset($_GET['request']) && isset($_GET['value'])) {
