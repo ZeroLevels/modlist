@@ -882,6 +882,15 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"Amethyst Tools",
+    "link":"http://bit.ly/18EIrwG",
+    "desc":"Adds Amethyst tools and armor.",
+    "author":["Duckstepper"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
     "name":"Ancient Tree Root Mod",
     "link":"http://bit.ly/151I1gK",
     "desc":"Do you play with large biomes, or spawned/traveled to a new world on an island without any trees and no islands anywhere near? Do you ever wonder ''Now how the hell am I supposed to survive without any possible way to obtain wood or sticks??'' Then this mod is for you!<br/><br/>Spawns a new ore block in stone, dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal. You can also use a wooden axe to get seeds instead of the normal drop.",
@@ -1288,6 +1297,15 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Balanced Rotten Flesh to Leather Mod",
+    "link":"http://bit.ly/12i3UD8",
+    "desc":"Adds a crafting recipe which requires 8 smelted zombie flesh to craft 3 leather pieces.",
+    "author":["The_Kurta3"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Balkon's WeaponMod",
@@ -2123,6 +2141,16 @@
   },
   {
     "name":"Chocolate Mod",
+    "other":"(Killerjdog51)",
+    "link":"http://bit.ly/18EHVi1",
+    "desc":"Allows you to brew chocolate milk and craft chocolate items, and adds smeltable storage blocks.",
+    "author":["Killerjdog51"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2","1.6.2"]
+  },
+  {
+    "name":"Chocolate Mod",
     "other":"(Saphir09)",
     "link":"http://bit.ly/ZnHlz9",
     "desc":"Adds the opportunity to craft edible chocolate to the game!",
@@ -2202,8 +2230,8 @@
     "desc":"A continuation of CJB's old 'CJB Mod'.",
     "author":["Harrison_TOM"],
     "type":["Client"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.3.2","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "dependencies":["Forge Compatible","Player API"],
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Clay Soldiers Mod",
@@ -2596,9 +2624,18 @@
     "versions":["1.4.2"]
   },
   {
+    "name":"Craftable End Portal",
+    "link":"http://bit.ly/18EIrwG",
+    "desc":"Adds a crafting recipe for the End Portal Frame.",
+    "author":["Duckstepper"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
     "name":"Craftable Horse Armor",
     "link":"http://bit.ly/16Q0QSe",
-    "desc":"Allows you to craft the Saddle and the Horse Armor",
+    "desc":"Allows you to craft the Saddle and the Horse Armor.",
     "author":["SackCastellon"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
@@ -3222,7 +3259,7 @@
     "author":["ProPercivalalb"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Double Door Mod",
@@ -3454,6 +3491,24 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Extrapolated Decor",
+    "link":"http://bit.ly/13GxCFt",
+    "desc":"Adds new building blocks, both decorative and functional.",
+    "author":["SoBiohazardous","Delocuro"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
+    "name":"Extrapolated Ores",
+    "link":"http://bit.ly/13GxCFt",
+    "desc":"Adds 9 ores in the Overworld and 2 ores in the nether. Also adds decoration blocks and a plating system to improve tools, armor and weapons.",
+    "author":["SoBiohazardous","Delocuro"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"EditableSigns",
     "link":"http://bit.ly/12ZEpXp",
     "desc":"Allows you to edit signs",
@@ -3520,22 +3575,21 @@
   },
   {
     "name":"Elemental Orbs",
+    "link":"http://bit.ly/1auwJEq",
+    "desc":"Allows you to use element-related orbs to do many things to the area around you. Official continuation of MaximumTechnology's Elemental Orbs.",
+    "author":["iN3rd","ferrettomato","MaximumTechnology"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
+    "name":"Elemental Orbs",
     "link":"http://bit.ly/ZMwKMm",
-    "desc":"Allows you to use element-related orbs to do many things to the area around you.",
+    "desc":"Allows you to use element-related orbs to do many things to the area around you. Officially continued by iN3rd.",
     "author":["MaximumTechnology"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1"]
-  },
-  {
-    "name":"Elemental Orbs",
-    "other":"iN3rd's",
-    "link":"http://bit.ly/1auwJEq",
-    "desc":"Allows you to use element-related orbs to do many things to the area around you. Official continuation of MaximumTechnology's Elemental Orbs.",
-    "author":["iN3rd"],
-    "type":["Universal"],
-    "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
   },
   {
     "name":"Elemental Tinkerer",
@@ -3572,6 +3626,15 @@
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Emerald Tools/Armor",
+    "link":"http://bit.ly/18EIrwG",
+    "desc":"Adds Emerald tools and armor.",
+    "author":["Duckstepper"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Emerald Tools and Armor",
@@ -3620,12 +3683,30 @@
   },
   {
     "name":"End of the Rainbow Mod",
-    "link":"http://bit.ly/ZDdVOV",
-    "desc":"Adds randomly spawning rainbows which have the new Rainbow Ore at the bottom. This can be used to make rainbow tools and armor! But it isn't easy to get! The ore is protected by a leprechaun, who will fight until death to protect it!",
+    "link":"http://bit.ly/13f8VN2",
+    "desc":"Adds randomly spawning rainbows with a rainbow ore beneath them, protected by a leprechaun mob. Usable to make tools and armor.",
     "author":["DaBigJoe"],
-    "type":["SSP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+  },
+  {
+    "name":"Endergun Mod",
+    "link":"http://bit.ly/13GuGJ1",
+    "desc":"Mobs teleport anywhere from 1 block to 100 blocks away after being shot by the gun.",
+    "author":["NzahCraft"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
+    "name":"Enderstaff Mod",
+    "link":"http://bit.ly/13GuGJ1",
+    "desc":"Mobs teleport anywhere from 1 block to 1000 blocks away after being hit by the staff.",
+    "author":["NzahCraft"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Ender Storage",
@@ -3671,6 +3752,15 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1"]
+  },
+  {
+    "name":"Energy Weapons",
+    "link":"http://bit.ly/15hWfIs",
+    "desc":"Energy Weapon mod with responsive control. Balanced with PvP and Mo' Creatures in mind.",
+    "author":["NerfPlease"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Enhanced Books",
@@ -3771,7 +3861,7 @@
     "source":"https://github.com/Lomeli12/Equivalency",
     "type":["Universal"],
     "dependencies":["Forge Required","LomLib Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"EssentialCraft",
@@ -3844,7 +3934,7 @@
     "author":["Naruto1310"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Exter's Mods",
@@ -4238,6 +4328,15 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"FoodEx",
+    "link":"http://bit.ly/13f7rT8",
+    "desc":"Adds more food and simple recipes.",
+    "author":["T_DoggG"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2","1.6.2"]
+  },
+  {
     "name":"Food Plus",
     "link":"http://bit.ly/151zCrn",
     "desc":"Adds more food so you can get more variety and options to eat.",
@@ -4464,7 +4563,7 @@
     "author":["Planetguy"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"GL Shaders OF",
@@ -4666,6 +4765,15 @@
     "type":["Universal"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Hardcore Craftable Horse Armor",
+    "link":"http://bit.ly/18ENSvA",
+    "desc":"Allows you to craft the Saddle and the Horse Armor. Hardcore version of 'Craftable Horse Armor' from the same author, which makes the crafting materials harder to obtain.",
+    "author":["SackCastellon"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Hardcore Enderdragon",
@@ -4938,7 +5046,7 @@
     "author":["Teotoo"],
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Huge Mushroom Spawn",
@@ -4993,6 +5101,15 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+  },
+  {
+    "name":"Hyper Fire",
+    "link":"http://bit.ly/15hAqJc",
+    "desc":"Modifies fire spread speed. Edits base classes.",
+    "author":["zeuslightning125"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"I Don't Like Villages Mod",
@@ -5587,7 +5704,7 @@
     "author":["TwistedCarny"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"LibShapeDraw",
@@ -5859,9 +5976,10 @@
     "link":"http://bit.ly/13duyig",
     "desc":"A minimap mod that not only shows your surroundings, but everywhere you've been.",
     "author":["mapwriter"],
+    "source":"https://github.com/daveyliam/mapwriter",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Marble XL",
@@ -5898,6 +6016,33 @@
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"MC+ Blowpipe Mod",
+    "link":"http://bit.ly/18ENZXN",
+    "desc":"Adds an enchantable blowpipe to shoot seeds. Seeds have a small chance to spawn grass on grass blocks, dead bush on sand.",
+    "author":["andykuo1"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
+  },
+  {
+    "name":"MC+ Satchel Mod",
+    "link":"http://bit.ly/18ENZXN",
+    "desc":"Adds a satchel to carry around your stuff. They are also dyeable to any color, like leather armor.",
+    "author":["andykuo1"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
+  },
+  {
+    "name":"MC+ QuartzTools Mod",
+    "link":"http://bit.ly/18ENZXN",
+    "desc":"Adds Quartz tools that are only efficient in the Nether.",
+    "author":["andykuo1"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.1","1.6.2"]
   },
   {
     "name":"MCAbilities",
@@ -6088,7 +6233,7 @@
     "author":["WildBamaBoy"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Minecraft Ideas Mod",
@@ -6125,6 +6270,15 @@
     "type":["N/A"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+  },
+  {
+    "name":"Minecraft Tweaks",
+    "link":"http://bit.ly/13Gwjqi",
+    "desc":"Allows arrows to break through certain block. The player can climb blocks like fences, gates, and trapdoors. Adds the ability to grab items using a fishing rod, makes players and mobs have a chance to drop mob heads on death, and allows mobs to see through certain blocks.",
+    "author":["pelep"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Minecraft: Community Edition",
@@ -6610,6 +6764,25 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
+    "name":"More Minerals Mod",
+    "link":"http://bit.ly/15hXdo7",
+    "desc":"Adds many new metals and gems to your game. These can be found as stone, nether, end, dirt or even sand ores. Also adds an ore crusher so you can get double the ingots from your ores.",
+    "author":["Clashsoft"],
+    "source":"https://github.com/Clashsoft/More-Minerals-Mod",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
+    "name":"More Mobs Mod",
+    "link":"http://bit.ly/13GSj4j",
+    "desc":"Adds more than 35 new mobs, ranging from animals, humans, monsters, fishes and more.",
+    "author":["SimJoo"],
+    "type":["SSP","LAN"],
+    "dependencies":["Not Forge Compatible","Modloader"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"More Notches",
     "link":"http://bit.ly/10oybDY",
     "desc":"A mod that add a lot of different Notches to the game.",
@@ -6629,6 +6802,16 @@
   },
   {
     "name":"More Pistons Mod",
+    "other":"(smeagolworms4)",
+    "link":"http://bit.ly/15ykG7X",
+    "desc":"Recompiled for 1.5.x from MontyPylon's More Pistons Mod. Adds pistons that can push up to 8 blocks away.",
+    "author":["smeagolworms4"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.0","1.5.1","1.5.2"]
+  },
+  {
+    "name":"More Pistons Mod",
     "link":"http://bit.ly/Zg0U8p",
     "desc":"",
     "author":["MontyPylon"],
@@ -6637,14 +6820,14 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
-    "name":"More Pistons Mod",
-    "other":"(smeagolworms4)",
-    "link":"http://bit.ly/15ykG7X",
-    "desc":"Recompiled for 1.5.x from MontyPylon's More Pistons Mod. Adds pistons that can push up to 8 blocks away.",
-    "author":["smeagolworms4"],
+    "name":"More Potions Mod",
+    "link":"http://bit.ly/15hWEdV",
+    "desc":"Adds the missing vanilla potions and base potions as well as custom potions to your game.",
+    "author":["Clashsoft"],
+    "source":"https://github.com/Clashsoft/More-Potions-Mod",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"More Player Models",
@@ -6729,6 +6912,16 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
+    "name":"More Tools Mod",
+    "link":"http://bit.ly/15hWWS1",
+    "desc":"Adds swords, pickaxes, shovels, axes and hoes made out of many vanilla materials to your game.",
+    "author":["Clashsoft"],
+    "source":"https://github.com/Clashsoft/More-Tools-Mod",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+  },
+  {
     "name":"More Village Biomes + Village Logic Addon",
     "link":"http://bit.ly/SfwZji",
     "desc":"With the recent zombie infiltration the villagers have decided to expand into new territories, including biomes such as Forest, Extreme Hills, Jungle, Taiga, Swamp, and Ice Plains on top of the standard Plains and Desert.",
@@ -6745,6 +6938,15 @@
     "type":["SSP"],
     "dependencies":["Not Forge Compatible"],
     "versions":["1.6.1"]
+  },
+  {
+    "name":"More Wolves Mod",
+    "link":"http://bit.ly/13GTuAP",
+    "desc":"Adds 12 biome-themed wolves into the game.",
+    "author":["SimJoo"],
+    "type":["SSP","LAN"],
+    "dependencies":["Not Forge Compatible","Modloader"],
+    "versions":["1.6.2"]
   },
   {
     "name":"More XP Mod",
@@ -6844,7 +7046,7 @@
     "author":["Mr_Crayfish"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"MudMod",
@@ -6927,7 +7129,7 @@
     "author":["Ktos94852"],
     "type":["SSP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Mutant Biome",
@@ -7002,6 +7204,15 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
   },
   {
+    "name":"Mystik Ores Mod",
+    "link":"http://bit.ly/13GwCRK",
+    "desc":"Adds ores that can be crafted into tools.",
+    "author":["TXX59"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"Myths and Monsters",
     "link":"http://bit.ly/11uNdWt",
     "desc":"Adds a bunch of new weapons, armor, and items to use against the new, powerful monsters that lurk in the darkness and that are based off of folklore and fictious stories.",
@@ -7017,7 +7228,7 @@
     "author":["JinRyuu"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Naruto Shippuden Mod",
@@ -7046,6 +7257,16 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.5.2"]
+  },
+  {
+    "name":"Nether Essence Mod",
+    "link":"http://bit.ly/18ENlcX",
+    "desc":"Adds items to craft gunpowder, usable as a fuel; and a Nether Essence block, which emits a dim light.",
+    "author":["Flayr"],
+    "source":"http://www.minecraftforum.net/topic/1890111-",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Nether Eye",
@@ -7323,9 +7544,9 @@
     "link":"http://bit.ly/12i3UD8",
     "desc":"Adds 5 new dimensions based on Minecraft ores.",
     "author":["The_Kurta3"],
-    "type":["SSP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Ores drop Mores 2",
@@ -7508,6 +7729,15 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"Pig Companion Mod",
+    "link":"http://bit.ly/13GQt3o",
+    "desc":"This mod adds armor for pigs and lets you tame them. You can give an pig an helmet and seeds to let it fight for you.",
+    "author":["SimJoo"],
+    "type":["SSP","LAN"],
+    "dependencies":["Not Forge Compatible","Modloader"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"Pig Grinder",
     "link":"http://bit.ly/XKMpZH",
     "desc":"Lets you attach a grinder to a pig's back which grinds meat out of it to give extra food.",
@@ -7623,7 +7853,7 @@
     "author":["Prime17"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Power Swords Mod",
@@ -7844,6 +8074,15 @@
     "versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
+    "name":"RareOres",
+    "link":"http://bit.ly/18EJBbm",
+    "desc":"Adds new ores, tools and tier systems, 2 of which are found in the Nether. Aims to be balanced and adds end game items.",
+    "author":["cup of water"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"rbdyck's Mods",
     "link":"http://bit.ly/10pK0Vf",
     "desc":"",
@@ -7942,6 +8181,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
+  },
+  {
+    "name":"Rediscovered Mod",
+    "other":"(WIP)",
+    "link":"http://bit.ly/18EMgSt",
+    "desc":"Adds items, blocks, and everything else that was removed, unimplemented or unused in vanilla Minecraft. Uses base edits.",
+    "author":["Stormister"],
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.3.2","1.4.6","1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"RednetworkTools Mod",
@@ -8435,9 +8684,10 @@
     "link":"http://bit.ly/Xen4s0",
     "desc":"A mod that adds many commands which can help you quickly and efficiently build structures. Easily saves hours for the creative!",
     "author":["simo_415"],
+    "source":"https://github.com/simo415/spc",
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Single Player Console",
@@ -8457,6 +8707,15 @@
     "type":["Client"],
     "dependencies":["Forge Compatible"],
     "versions":["1.5.1"]
+  },
+  {
+    "name":"Skorpio's Washing Machine Mod",
+    "link":"http://bit.ly/13fa5bl",
+    "desc":"Adds a washing machine block to decolor any colored blocks. Also decolors and repairs leather armor.",
+    "author":["sorash67"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"SkyInfinity",
@@ -8567,6 +8826,15 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"Smiley Gem Mod",
+    "link":"http://bit.ly/13GwCRK",
+    "desc":"Adds smiley gems that can be crafted into tools or alloys.",
+    "author":["TXX59"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
+  },
+  {
     "name":"Snow Mod",
     "link":"http://bit.ly/18CdPZD",
     "desc":"Adds a custom snow block that, when snowing, will grow. On new World/chunk generation it replaces all vanilla snow with the exception of on leaves and wood with the new snow.",
@@ -8647,6 +8915,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.2"]
+  },
+  {
+    "name":"Space Marine Mod",
+    "link":"http://bit.ly/13Gvpdd",
+    "desc":"Adds various science fiction weapons (blasters, lasers, plasma gun, power fist) and gadgets (mining laser, jet boots) to the game.",
+    "author":["Senitiel"],
+    "source":"http://www.senitiel.net/index.php?name=Commented_source_code",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Sparcs Tweaks",
@@ -9014,6 +9292,15 @@
     "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
+    "name":"Telecrapht",
+    "link":"http://bit.ly/15hAyZ4",
+    "desc":"Adds a block to view your Twitter feed and a command to post text and screenshots to Twitter.",
+    "author":["dawgeth"],
+    "type":["SSP"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"Teleportation Stones",
     "link":"http://bit.ly/UvDkCW",
     "desc":"",
@@ -9315,6 +9602,15 @@
     "versions":["1.5.1","1.5.2"]
   },
   {
+    "name":"The Magical Pills Mod",
+    "link":"http://bit.ly/18EJbSm",
+    "desc":"Adds magical pills that contain vanilla potion effects. Craftable using holystone dust, which is obtained from holystone ore.",
+    "author":["PrototypeJS"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.1","1.6.2"]
+  },
+  {
     "name":"The Melee/Elemental Skeletons Mod",
     "link":"http://bit.ly/137j80T",
     "desc":"The Melee Skeletons Mod adds 5 new Skeletons, modifies the original Skeleton to hold a new sword, the Ancient Blade instead of a bow, adds a new Enchantment and adds a couple new weapons, materials and tools.",
@@ -9492,7 +9788,7 @@
     "author":["Geroy290"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"The Uncraftables",
@@ -9574,7 +9870,7 @@
     "author":["StrangeOne101"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"ThrowCraft Reloaded",
@@ -10118,9 +10414,9 @@
     "link":"http://bit.ly/TGtW1L",
     "desc":"Shows some information about the village you're currently in.",
     "author":["trunkz"],
-    "type":["SSP"],
-    "dependencies":["Not Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1"]
+    "type":["Universal"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Village Marker",
