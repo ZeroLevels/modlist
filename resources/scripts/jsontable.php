@@ -55,18 +55,21 @@ function apiList($version) {
 		$mods = readJSON();
 		$apilist = array(array());
 		foreach($mods as &$mod) { //first iteration - grab all APIs
-			if(trim($mod->name) != "" && 
-				isset($mod->other) &&
-				(strpos(strtolower($mod->other), "(api)") !== false ||
-				strtolower($mod->other) == "(dependency)" ||
-				strpos(trim($mod->name), 'API') !== false) &&
-				findVersion($version,$mod->versions)) {
+			if(trim($mod->name) != "" &&
+				findVersion($version,$mod->versions) &&
+				(strpos(trim($mod->name), 'API') !== false ||
+					(isset($mod->other) &&
+						(strpos(strtolower($mod->other), "(api)") !== false ||
+						strtolower($mod->other) == "(dependency)")
+					)
+				)
+			) {
 				$currCount = count($apilist);
 				$apilist[$currCount]["name"] = trim($mod->name);
 				$apilist[$currCount]["link"] = trim($mod->link);
 				$apilist[$currCount]["desc"] = trim(strip_tags($mod->desc));
 				
-				if(strtolower($mod->other) != "(dependency)")
+				if(!isset($mod->other) || (isset($mod->other) && strtolower($mod->other) != "(dependency)"))
 					$apilist[$currCount]["api"] = true;
 			}
 		}
