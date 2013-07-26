@@ -66,7 +66,7 @@ if(!empty($mod)) {
 <label>Other
 <span class="small">Extra names attached</span>
 </label>
-<input type="text" id="other" name="other" <?php if(isset($mod->other)) echo 'value="' . trim($mod->other) . '"'; ?> /></br>
+<input type="text" id="other" name="other" /></br>
 <label>Link
 <span class="small" id="linktext">Link to the mod's page</span>
 </label>
