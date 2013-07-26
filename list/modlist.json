@@ -1413,7 +1413,7 @@
     "author":["senpaisubaraki"],
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"BetterCraft",
@@ -1990,7 +1990,7 @@
     "author":["MelAlvarado"],
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Castle Defenders",
@@ -2109,7 +2109,7 @@
     "author":["chicken_bones"],
     "type":["Universal"],
     "dependencies":["Forge Required","CodeChickenCore Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"ChickenShed",
@@ -2311,9 +2311,10 @@
     "link":"http://bit.ly/cb-core",
     "desc":"This mod is required for Not Enough Items (NEI), Ender Storage, Translocator, and ChickenChunks.",
     "author":["chicken_bones"],
+	"source":"https://github.com/Chicken-Bones/CodeChickenLib",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"COFL's Simple Arrowblur",
@@ -2502,7 +2503,7 @@
     "author":["infinitiesloop"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Converter Gem",
@@ -3351,7 +3352,7 @@
     "author":["Stuuupiiid"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1","1.6.2"]
   },
   {
     "name":"DupleCraft",
@@ -3715,7 +3716,7 @@
     "author":["chicken_bones"],
     "type":["Universal"],
     "dependencies":["Forge Required","CodeChickenCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Endermen Don't Pick Up Blocks Mod",
@@ -4016,7 +4017,7 @@
     "author":["neptunepink"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"FactoryCraft",
@@ -5812,9 +5813,10 @@
     "link":"http://bit.ly/186FvaL",
     "desc":"Adds many new armors and foods to the game.",
     "author":["ggfrt96"],
-    "type":["SSP"],
+	"source":"",
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Logitech LCD Application for Minecraft",
@@ -5871,6 +5873,16 @@
     "type":["N/A"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"LumberJack",
+    "link":"http://bit.ly/173KX8T",
+    "desc":"Allows you to cut down trees by breaking only a single block.",
+    "author":["acomputerdog"],
+    "source":"http://www.mediafire.com/download/a346e3a5y1q6col",
+    "type":["SSP","LAN"],
+    "dependencies":["Forge Compatible"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Lunatrius' Mods",
@@ -7405,13 +7417,14 @@
     "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
-    "name":"Not Enough Items (NEI)",
+    "name":"Not Enough Items",
+	"other":"(NEI)",
     "link":"http://bit.ly/UvpH6y",
     "desc":"NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.",
     "author":["chicken_bones"],
     "type":["Universal"],
     "dependencies":["Forge Required","CodeChickenCore"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Not in Minecraft Mod",
@@ -9037,6 +9050,17 @@
     "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
+    "name":"StandInMod",
+	"other":"(WIP)",
+    "link":"http://bit.ly/12ZFKh1",
+    "desc":"Adds tools that dig up 1x3, 3x3 and 5x5 areas. Also adds a tool to easily fill areas or walls with blocks.",
+    "author":["culegooner"],
+    "source":"https://github.com/culegooner/StandInMod",
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"Star Wars Mod",
     "link":"http://bit.ly/12vXxzb",
     "desc":"Adds new gameplay features in the theme of Star Wars. According to the instructions, this edits base classes from Forge, and thus, has Forge built into it. Install this mod in Forge's place, and Forge mods should work with it.",
@@ -9809,6 +9833,15 @@
     "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
   },
   {
+    "name":"The Walking Dead",
+    "link":"http://bit.ly/1bolrms",
+    "desc":"Based of the hit TV series 'The Walking Dead'. Adds 'walkers', structures and characters from the show.",
+    "author":["MobApocalypse"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
     "name":"The Wild Grass Mod",
     "link":"http://bit.ly/YjuoTx",
     "desc":"Creates a wild grass block that grows on top of existing grass blocks, which may then spread. Biome determines the max height of the grass.",
@@ -10051,7 +10084,7 @@
     "author":["chicken_bones"],
     "type":["Universal"],
     "dependencies":["Forge Required","CodeChickenCore Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Trapcraft",
@@ -10609,13 +10642,14 @@
     "versions":["1.5.2"]
   },
   {
-    "name":"Wireless Redstone: Chicken Bones Edition (WR-CBE)",
+    "name":"Wireless Redstone: Chicken Bones Edition",
+	"other":"(WR-CBE)",
     "link":"http://bit.ly/UvpH6y",
     "desc":"In its simplest this is a mod that allows you to transmit your redstone state wirelessly. Even if you dont use redstone this mod could still be for you. Found an awesome landscape you'd like to mark, a cool cave to explore, or keep losing your way from base to base? Ever wished that compass pointed somewhere else or there was a way to mark things on a map. Well now there is. With the wireless addons component of this mod you can use wireless signals for navigation.",
     "author":["chicken_bones"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.6.2"]
   },
   {
     "name":"Witches and More",

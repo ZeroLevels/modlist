@@ -239,8 +239,11 @@ function jsonTable($version) {
 			if(isset($mod->other) && $mod->other != "") {
 				echo ' '.$mod->other;
 			}
-			if(isset($mod->source) && $mod->source != "") {
-				echo '<a href="'.$mod->source.'" target="blank"><img class="opensource" src="../../resources/images/opensource.png" alt="(Open Source)" title="Open Source Mod" /></a>';
+			if(isset($mod->source)) {
+				if($mod->source != "")
+					echo '<a href="'.$mod->source.'" target="blank"><img class="opensource" src="../../resources/images/opensource.png" alt="(Open Source)" title="Open Source Mod" /></a>';
+				else
+					echo '<a onclick="alert(\'Source code is given by author personally on request.\')"><img class="opensource" src="../../resources/images/opensource.png" alt="(Open Source - Personal Request Only)" title="Open Source Mod - Personal Request Only" /></a>';
 			}
 			echo '</td>';
 			
@@ -295,8 +298,11 @@ function jsonTable($version) {
 				implode('</li><li>',$mod->author) .
 				'</li></ul>';
 			
-			if(isset($mod->source) && $mod->source != "")
-				echo 'This mod is <a href="'.$mod->source.'" target="blank">Open Source</a>.';
+			if(isset($mod->source))
+				if($mod->source != "")
+					echo 'This mod is <a href="'.$mod->source.'" target="blank">Open Source</a>.';
+				else
+					echo 'This mod is Open Source, but requires you to personally request the source from the author.';
 			
 			echo '</span></td>';
 			
