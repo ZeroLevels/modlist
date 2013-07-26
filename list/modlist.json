@@ -749,9 +749,10 @@
     "link":"http://bit.ly/1152T69",
     "desc":"Continuation of Advanced HUD. Allows you to customize the in-game HUD.",
     "author":["maxpowa"],
+	"source":"https://github.com/maxpowa/AdvancedHUD",
     "type":["Client"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Adventure Kit",
@@ -1141,7 +1142,7 @@
     "author":["iChun"],
     "type":["Universal"],
     "dependencies":["Forge Required","iChun Util"],
-    "versions":["1.5.1"]
+    "versions":["1.5.1","1.6.2"]
   },
   {
     "name":"Atum: Journey Into The Sands",
@@ -1324,6 +1325,16 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7"]
+  },
+  {
+    "name":"Batman Mod",
+    "other":"(WIP)",
+    "link":"http://bit.ly/13LqcRi",
+    "desc":"Ever wanted to be Batman? This mod allows you to do so!",
+    "author":["colossali"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"BatsDropLeather",
@@ -2359,7 +2370,7 @@
     "author":["Torquebolt"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.1"]
   },
   {
     "name":"Coloured Beds Mod",
@@ -3051,7 +3062,7 @@
     "author":["iChun"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Death Scythe",
@@ -4656,7 +4667,7 @@
     "author":["iChun"],
     "type":["Universal"],
     "dependencies":["Forge Required","iChun Util"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Green Thumb Mod",
@@ -4826,6 +4837,7 @@
     "link":"http://bit.ly/14814a3",
     "desc":"Adds an Aesthetic feature onto players, namely Hats! Comes pre-packaged with 77 hats which will automatically get installed when the mod is run for the first time.",
     "author":["iChun"],
+	"source":"https://github.com/iChun/Hats",
     "type":["Client"],
     "dependencies":["Forge Required"],
     "versions":["1.5.1","1.5.2"]
@@ -5156,7 +5168,7 @@
     "author":["iChun"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"ID Resolver",
@@ -6023,11 +6035,11 @@
   {
     "name":"MAtmos",
     "link":"http://bit.ly/ZfUxlk",
-    "desc":"MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirpling in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.",
+    "desc":"MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirping in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.",
     "author":["Hurricaaane"],
     "type":["Client"],
     "dependencies":["Forge Compatible","Modloader"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"MC+ Blowpipe Mod",
@@ -8773,16 +8785,17 @@
     "author":["iChun"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.6.2"]
   },
   {
     "name":"Slender Man",
     "link":"http://bit.ly/15vkWV9",
-    "desc":"",
+    "desc":"Adds Slender Man to your game.",
     "author":["colossali"],
-    "type":["N/A"],
+	"source":"https://github.com/colossali/Slender_Man_Mod",
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5"]
+    "versions":["1.4.4","1.4.5","1.5.2","1.6.2"]
   },
   {
     "name":"Slime Chunk Finder",
@@ -9227,11 +9240,11 @@
   {
     "name":"Super Heroes in Minecraft",
     "link":"http://bit.ly/11KenLp",
-    "desc":"",
+    "desc":"Adds the ability to become several Marvel superheroes.",
     "author":["colossali"],
-    "type":["SSP","SMP"],
+    "type":["universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Super Mario Mod",
@@ -10030,7 +10043,7 @@
     "author":["iChun"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.0","1.5.1","1.5.2"]
+    "versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Torojima's Chococraft",
@@ -10057,7 +10070,7 @@
     "author":["iChun"],
     "type":["Universal"],
     "dependencies":["Forge Required","iChun Util"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Traincraft",
