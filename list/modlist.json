@@ -1433,7 +1433,7 @@
     "author":["Kitteh6660"],
     "type":["SSP","LAN"],
     "dependencies":["Not Forge Compatible","Modloader"],
-    "versions":["1.5.2","1.6.1"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Better Dungeons",
@@ -3336,7 +3336,7 @@
     "author":["Duke605"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2","1.6.1"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Dungeon Crawler",
@@ -3797,9 +3797,10 @@
     "link":"http://bit.ly/TGk9sM",
     "desc":"Allows you to create any shape or size for portals. Portals can be made out of new materials and the portal itself can be dyed. Includes advanced dimensional and particle controls. New version of Enhanced Portals.",
     "author":["Alz454"],
+	"source":"https://github.com/ShadedDimension/enhanced-portals",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Enhanced Visuals",
@@ -6365,7 +6366,7 @@
     "author":["BarracudaATA"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
   },
   {
     "name":"MineTunes",
@@ -6392,7 +6393,7 @@
     "author":["Duke605"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2","1.6.1"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Mining Enhancemants",
@@ -8520,6 +8521,15 @@
     "link":"http://bit.ly/18fv6cV",
     "desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
     "author":["Duke605"],
+    "type":["Universal"],
+    "dependencies":["Forge Required","DukeCore Required"],
+    "versions":["1.6.2"]
+  },
+  {
+    "name":"Arcane Scrolls",
+    "link":"http://bit.ly/18fv6cV",
+    "desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
+    "author":["Duke605"],
     "type":["SSP"],
     "dependencies":["Forge Required","DukeCore Required"],
     "versions":["1.5.2","1.6.1"]
@@ -9326,7 +9336,7 @@
     "author":["pitman-87"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Telecrapht",
