@@ -1812,6 +1812,16 @@
     "versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
+    "name":"BTWTweak",
+    "link":"http://bit.ly/12Lo51S",
+    "desc":"Mod that adds various tweaks to improve and further polish up the gameplay of Better Than Wolves.",
+    "author":["Grom PE"],
+    "source":"https://github.com/grompe/BTWTweak",
+    "type":["SSP","SMP","LAN"],
+    "dependencies":["Not Forge Compatible","Better Than Wolves Mod required"],
+    "versions":["1.5.2"]
+  },
+  {
     "name":"Buck's Mods",
     "link":"http://bit.ly/TEXj4G",
     "desc":"",
@@ -6737,7 +6747,7 @@
     "name":"More Fuel, Tweaks, and Everything",
     "link":"http://bit.ly/ZkLR32",
     "desc":"Gameplay and balance tweaks, better mod integration, and scripting support.",
-    "author":["Grom_PE"],
+    "author":["Grom PE"],
 	"source":"https://github.com/grompe/moreeverything",
     "type":["Universal"],
     "dependencies":["Forge Compatible","Modloader Compatible"],
@@ -10260,7 +10270,7 @@
     "name":"Underground Biomes",
     "link":"http://bit.ly/X6ZyLH",
     "desc":"Overhauls the underground experience with Underground Biomes that define the rock types and ores present.",
-    "author":["Grom_PE"],
+    "author":["Grom PE"],
     "source":"https://github.com/ExterminatorJeff/UndergroundBiomes",
     "type":["Universal"],
     "dependencies":["Forge Required"],
