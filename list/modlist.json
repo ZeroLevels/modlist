@@ -188,7 +188,7 @@
     "author":["immibis"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"[ComputerCraft] MiscPeripherals",
@@ -314,7 +314,7 @@
     "author":["AtomicStryker"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"[IndustrialCraft 2] Advanced Machines Original",
@@ -338,11 +338,11 @@
   {
     "name":"[IndustrialCraft 2] Advanced Repulsion Systems",
     "link":"http://bit.ly/Tj9hmM",
-    "desc":"",
+    "desc":"Allows you to create forcefields and zap stuff.",
     "author":["immibis"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"[IndustrialCraft 2] Advanced Solar Panels",
@@ -487,7 +487,7 @@
     "author":["GregoriusT"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
   },
   {
     "name":"[IndustrialCraft 2] Liquid UU-Matter",
@@ -953,6 +953,15 @@
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+  },
+  {
+    "name":"[Applied Energistics] ExtraCells",
+    "link":"http://bit.ly/14afxzO",
+    "desc":"Adds new standard storage blocks and special storage blocks.",
+    "author":["Leonelf"],
+    "type":["Universal"],
+    "dependencies":["Forge Required","Applied Energistics"],
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Aquaculture",
@@ -1942,11 +1951,11 @@
   {
     "name":"Camo Lights Mod",
     "link":"http://bit.ly/ZB4EWR",
-    "desc":"",
+    "desc":"Allows you to craft blocks with glowstone to make glowing blocks.",
     "author":["Phobophobe"],
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.1"]
   },
   {
     "name":"CampCraft",
@@ -3167,11 +3176,11 @@
   {
     "name":"Desired Blocks",
     "link":"http://bit.ly/ThWssX",
-    "desc":"",
+    "desc":"Adds recipes to craft multiple items into blocks.",
     "author":["Phobophobe"],
     "type":["SSP","SMP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Desperation Food",
@@ -3216,7 +3225,7 @@
     "author":["immibis"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Dimensional Doors",
@@ -3599,7 +3608,7 @@
     "name":"Elemental Orbs",
     "link":"http://bit.ly/1auwJEq",
     "desc":"Allows you to use element-related orbs to do many things to the area around you. Official continuation of MaximumTechnology's Elemental Orbs.",
-    "author":["iN3rd","ferrettomato","MaximumTechnology"],
+    "author":["iN3rd","MaximumTechnology"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
     "versions":["1.5.2","1.6.2"]
@@ -5198,16 +5207,17 @@
     "author":["immibis"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Immibis's Microblocks",
+    "other":"(Dependency)",
     "link":"http://bit.ly/Uvusgl",
-    "desc":"Mostly work like RedPower 2's microblocks. Install into the coremods folder.",
+    "desc":"Mostly work like RedPower 2's microblocks. Install into the coremods folder. Required for RedLogic.",
     "author":["immibis"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Immibis's Mods",
@@ -5290,7 +5300,7 @@
     "author":["immibis"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"InGame Info XML",
@@ -5687,7 +5697,7 @@
   },
   {
     "name":"Left-Handed",
-    "link":"http://bit.ly/16FUxhU",
+    "link":"http://bit.ly/14adThD",
     "desc":"Places items in your left hand, swaps panorama direction, and makes actions with left hand instead. Edits the jar.",
     "author":["GreensMC"],
     "type":["Client"],
@@ -5791,7 +5801,7 @@
     "author":["immibis"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"LiteLoader",
@@ -7686,11 +7696,11 @@
   {
     "name":"PaleoCraft",
     "link":"http://bit.ly/11uSwoI",
-    "desc":"A work in progress mod that will add realistic dinosaurs into your game. At the moment, the dinosaurs will only be spawnable using spawn eggs. Expect regular updates until the mod is released!",
+    "desc":"A mod that will add realistic dinosaurs into your game, being as scientifically accurate as possible.",
     "author":["Dan_Wallace"],
     "type":["SSP"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Pam Hates Snow",
@@ -8227,6 +8237,15 @@
     "type":["SSP"],
     "dependencies":["Forge Required"],
     "versions":["1.3.2","1.4.6","1.4.7","1.5.2","1.6.2"]
+  },
+  {
+    "name":"RedLogic",
+    "link":"http://bit.ly/11Ej88y",
+    "desc":"A replacement for the wiring, logic, control and lighting parts of Eloraam's Redpower 2.",
+    "author":["immibis"],
+    "type":["Universal"],
+    "dependencies":["Forge Required","Immibis Core","Immibis's Microblocks"],
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"RednetworkTools Mod",
@@ -9456,7 +9475,7 @@
     "author":["Need4Poop402"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"The Battleaxe Mod",
@@ -10191,7 +10210,7 @@
     "author":["immibis"],
     "type":["Universal"],
     "dependencies":["Forge Required","Immibis Core"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"tukmc",
@@ -10427,7 +10446,7 @@
     "author":["gruntpie224"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2"]
+    "versions":["1.5.2","1.6.2"]
   },
   {
     "name":"Vanilla Recipes",
