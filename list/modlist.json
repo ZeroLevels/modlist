@@ -817,7 +817,7 @@
     "author":["Azaka7"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"Alice's Dolls (Touhou)",
@@ -3185,11 +3185,11 @@
   {
     "name":"Desperation Food",
     "link":"http://bit.ly/WqV6IQ",
-    "desc":"",
+    "desc":"Adds new forms of food for desperate situations.",
     "author":["Phobophobe"],
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"DessertCraft",
@@ -3469,11 +3469,11 @@
   {
     "name":"Easy Items",
     "link":"http://bit.ly/UJgYQe",
-    "desc":"",
+    "desc":"Adds new ways to get rare vanilla items.",
     "author":["Phobophobe"],
-    "type":["N/A"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.2","1.4.6","1.4.7"]
+    "versions":["1.4.2","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"EasyDiamond",
@@ -5352,11 +5352,11 @@
   {
     "name":"Insta House Mod",
     "link":"http://bit.ly/UN9Lyn",
-    "desc":"",
+    "desc":"Adds blocks that transform into houses when right-clicked with a staff.",
     "author":["Phobophobe"],
-    "type":["N/A"],
+    "type":["Universal"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.1"]
   },
   {
     "name":"InstantBlocks",
@@ -5775,15 +5775,6 @@
     "type":["SSP"],
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
-  },
-  {
-    "name":"Lighting Fix",
-    "link":"http://bit.ly/117QooQ",
-    "desc":"",
-    "author":["silverwind213"],
-    "type":["Client"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5"]
   },
   {
     "name":"Lion King Mod",
@@ -6290,13 +6281,14 @@
     "versions":["1.5.1"]
   },
   {
-    "name":"Minecraft Lighting Fix",
+    "name":"Minecraft Lighting Fix Mod",
+	"other":"(LFM)",
     "link":"http://bit.ly/117QooQ",
-    "desc":"Fixes entity based rendering issues you may have with Minecraft.",
+    "desc":"Fixes entity based rendering issues you may have with Minecraft. Modifies 1 class file.",
     "author":["silverwind213"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.0"]
+    "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2","1.6.2"]
   },
   {
     "name":"Minecraft My Way",
@@ -6427,11 +6419,11 @@
   {
     "name":"Mining Enhancements",
     "link":"http://bit.ly/W9HHqH",
-    "desc":"",
+    "desc":"Adds a block that allows you to see through attached blocks.",
     "author":["Phobophobe"],
-    "type":["N/A"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"Mining Mod",
@@ -7963,7 +7955,7 @@
     "author":["pelep"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.2","1.6.2"]
+    "versions":["1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Price of Progress",
@@ -8455,6 +8447,15 @@
     "versions":["1.4.6","1.4.7"]
   },
   {
+    "name":"RPG-Hud Mod",
+    "link":"http://bit.ly/184uyTW",
+    "desc":"Modifies the HUD into an RPG-styled one.",
+    "author":["KurodaAkira"],
+    "type":["Client"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
+  {
     "name":"RPG Inventory Mod",
     "link":"http://bit.ly/YZGpPk",
     "desc":"Adds an RPG like inventory that allows you to equip further equipment including: Amulets, Shields, Capes, Gloves, and 2 slots for rings.",
@@ -8920,11 +8921,11 @@
   {
     "name":"Soda Craft",
     "link":"http://bit.ly/UJaAZg",
-    "desc":"",
+    "desc":"Adds a soda machine you can craft with aluminum, obtained from a new ore.",
     "author":["Phobophobe"],
-    "type":["N/A"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
   },
   {
     "name":"SojaCraft",
@@ -10329,7 +10330,7 @@
     "author":["pelep"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   {
     "name":"Upgrade Pickaxe Mod",
