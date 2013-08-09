@@ -7605,6 +7605,15 @@
     "versions":["1.5.2"]
   },
   {
+    "name":"OreSpawn",
+    "link":"http://bit.ly/15UwLnt",
+    "desc":"Adds 30 new mobs, 3 new dimensions, new tools, armors and weapons. Also adds Flying dragons and a Kraken.",
+    "author":["TheyCallMeDanger"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
     "name":"Original Beacons",
     "link":"http://bit.ly/Vi5xyQ",
     "desc":"Optifine Required:See bit.ly/optifine(URL)Brings back the much loved spinning crystal inside the beacon block. Also, it fixes some z-fighting (obsidian and glass textures conflicting) with the bottom of the block.",
