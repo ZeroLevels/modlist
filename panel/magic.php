@@ -22,7 +22,7 @@ $valid[3][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzuzz.OXwSqR./nngKJPswEuvC8YoAQHOq';
 $valid[4][0] = 'RHVrZTYwNQ==';
 $valid[4][1] = '';
 $valid[4][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.ukWDremH.Z.RosSEpk/66G7MYIMbj90m';
-$valid[4][3] = 3;
+$valid[4][3] = 2;
 $valid[4][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzum5YaICrEW8W3DbZerrwcUBt2nXwuucq';
 function accesslevel($keyname) {
 	global $valid;
@@ -39,6 +39,9 @@ function textLevel($keyname) {
 	switch($level) {
 		case 0:
 			return 'admin';
+			break;
+		case 2:
+			return 'moderator';
 			break;
 		case 3:
 			return 'api-dev';

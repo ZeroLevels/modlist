@@ -29,7 +29,7 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 <h1>MCF Modlist Webpanel</h1>
 <div id="nav">
 	<?php
-	if(accesslevel($_SESSION['usr']) == 0)
+	if(accesslevel($_SESSION['usr']) <= 2)
 		echo '<ul id="navigation" class="admin">';
 	else
 		echo '<ul id="navigation">';
@@ -44,12 +44,14 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 				echo '<li class="current"><a href="panel.php?view=userlist">Userlist</a></li>';
 			else
 				echo '<li><a href="panel.php?view=userlist">Userlist</a></li>';
-			
+		}
+		if(accesslevel($_SESSION['usr']) <= 2) {
 			if($_GET['view'] == "creator")
 				echo '<li class="current"><a href="panel.php?view=creator">List Creator</a></li>';
 			else
 				echo '<li><a href="panel.php?view=creator">List Creator</a></li>';
-			
+		}
+		if(accesslevel($_SESSION['usr']) == 0) {
 			if($_GET['view'] == "generate")
 				echo '<li class="current"><a href="panel.php?view=generate">Generate Changelog</a></li>';
 			else
@@ -59,7 +61,8 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 				echo '<li class="current"><a href="panel.php?view=upload">Upload Files</a></li>';
 			else
 				echo '<li><a href="panel.php?view=upload">Upload Files</a></li>';
-			
+		}
+		if(accesslevel($_SESSION['usr']) <= 2) {
 			if($_GET['view'] == "submission")
 				echo '<li class="current"><a href="panel.php?view=submission">Submissions</a></li>';
 			else
