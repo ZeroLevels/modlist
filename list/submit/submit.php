@@ -133,7 +133,8 @@ if(
 	
 	if(!$mail->Send()) {
 		$errorlog = readJSON('../../panel/secrets/submiterrors.json');
-		$error['id'] = $errorlog[count($errorlog)-1]['id']+1;
+		//$error['id'] = $errorlog[count($errorlog)-1]['id']+1;
+		$error['id'] = end($errorlog)['id']+1;
 		$error['timestamp'] = time();
 		$error['error'] = $mail->ErrorInfo;
 		$errorlog[] = $error;
