@@ -106,6 +106,12 @@ if($_GET['view'] == "userlist" && accesslevel($_SESSION['usr']) > 0) {
 				case "upload":
 					include('pages/upload.php');
 					break;
+				case "image":
+					include('pages/uploadimage.php');
+					break;
+				case "imagehtml":
+					include('pages/uploadimage.html');
+					break;
 				default:
 					include('pages/upload.html');
 					break;
