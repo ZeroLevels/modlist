@@ -774,12 +774,13 @@
   },
   {
     "name":"AdventureTime Mod",
+	"other":"(Beta)",
     "link":"http://bit.ly/125Iet4",
     "desc":"Adds content from the hit Cartoon Network show: Adventure Time into Minecraft!",
     "author":["Koslaw"],
     "type":["SSP","LAN"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.6","1.4.7","1.5.1"]
+    "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.5.2"]
   },
   {
     "name":"Aether II",
@@ -1498,6 +1499,15 @@
     "dependencies":["Forge Compatible"],
     "versions":["1.4.6","1.4.7"]
   },
+    {
+    "name":"Better Sponge Mod",
+    "link":"http://bit.ly/17dyFhJ",
+    "desc":"Replaced the vanilla sponge to make it a bit better!",
+    "author":["Skorpio","sorash67"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
+  },
   {
     "name":"Better Sprinting",
     "link":"http://bit.ly/WA0xnr",
@@ -1874,7 +1884,7 @@
     "source":"https://github.com/BuildCraft/BuildCraft",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Buildcraft-IndustrialCraft Crossover Mod",
@@ -2515,7 +2525,7 @@
     "author":["Fenrir00"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.5.2","1.6.2"]
   },
   {
     "name":"Consistent Glowstone Drops",
@@ -5073,6 +5083,15 @@
     "versions":["1.5.1"]
   },
   {
+    "name":"Hopper Ducts",
+    "link":"http://bit.ly/17dxw9R",
+    "desc":"This mod adds ducts, which connect to hoppers and can route items in any direction, including upwards.",
+    "author":["FyberOptic"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.5.2","1.6.2"]
+  },
+  {
     "name":"HorseAccessories",
     "link":"http://bit.ly/117U1v2",
     "desc":"Increases the amount of biomes horses spawn in, and allows the player to craft saddles and horse armor.",
@@ -5839,7 +5858,7 @@
     "author":["VengeurK"],
     "type":["SSP","SMP"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.2"]
   },
   {
     "name":"littleMaidMob",
@@ -6750,9 +6769,9 @@
     "link":"http://bit.ly/VNTTtZ",
     "desc":"Adds many new types of ways to destroy your enemies, more often than not, involving explosions. Be careful you don't set anything off too close to home!",
     "author":["NikolaiTheEpicGenius"],
-    "type":["SSP","SMP"],
-    "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.1","1.6.2"]
   },
   {
     "name":"More Fences Mod",
@@ -7837,7 +7856,7 @@
     "source":"https://github.com/MrMasochism/Pixelmon",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"PizzaCraft",
@@ -8027,7 +8046,7 @@
     "author":["_bau5"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Project Zulu",
@@ -9229,9 +9248,10 @@
     "link":"http://bit.ly/UUqfYh",
     "desc":"Adds lots more food into your game, roughly around 50 items, which is more food than there actually is in Minecraft currently.",
     "author":["17CupsOfCoffee"],
+	"source":"https://github.com/17cupsofcoffee/Still-Hungry",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.6.2"]
   },
   {
     "name":"Stone Basin Biome",
@@ -9375,7 +9395,7 @@
     "author":["RocketMan10404"],
     "type":["Client"],
     "dependencies":["Forge Compatible"],
-    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"TaleCraft",
@@ -9715,14 +9735,14 @@
     "versions":["1.5.1"]
   },
   {
-    "name":"The Lord of the Rings",
+    "name":"The Lord of the Rings Mod",
     "other":"(Beta)",
     "link":"http://bit.ly/11318S2",
     "desc":"Bringing middle-earth to minecraft, The Lord of the Rings mod adds a bunch of new items, mobs, blocks and a dimension from the Lord of the Rings series. This mod also adds a good and evil selection, plus quests ranging from small tasks to epic adventures.",
     "author":["Mevans"],
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.5.1","1.5.2"]
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"The Magical Pills Mod",
@@ -9829,8 +9849,8 @@
     "desc":"Adds much content based on the Resident Evil franchise of videogames.",
     "author":["LiamR99"],
     "type":["SSP"],
-    "dependencies":["Not Forge Compatible"],
-    "versions":["1.5.1","1.5.2"]
+    "dependencies":["Forge Required"],
+    "versions":["1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"The Runic Dust Mod",
@@ -10066,7 +10086,7 @@
     "source":"https://github.com/mDiyo/TinkersConstruct",
     "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+    "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
   },
   {
     "name":"Tinted Lamps",
@@ -10462,11 +10482,11 @@
   {
     "name":"Utility Chests Mod",
     "link":"http://bit.ly/Va07XI",
-    "desc":"",
+    "desc":"Adds multiple new chests to the game that each serve its own purpose aside from storage.",
     "author":["watkins577"],
-    "type":["SSP","SMP"],
+    "type":["Universal"],
     "dependencies":["Forge Required"],
-    "versions":["1.4.6","1.4.7"]
+    "versions":["1.4.6","1.4.7","1.6.2"]
   },
   {
     "name":"Utility Mobs",
@@ -10613,6 +10633,15 @@
     "type":["SSP","SMP"],
     "dependencies":["Not Forge Compatible"],
     "versions":["1.5.1"]
+  },
+    {
+    "name":"WashingMachine Mod",
+    "link":"http://bit.ly/13fa5bl",
+    "desc":"Adds a washing machine that un-dyes colored blocks and armor.",
+    "author":["Skorpio","sorash67"],
+    "type":["Universal"],
+    "dependencies":["Forge Required"],
+    "versions":["1.6.2"]
   },
   {
     "name":"Wasteland Mod",
