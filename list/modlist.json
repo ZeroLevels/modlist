@@ -540,7 +540,7 @@
 "author":["GregoriusT"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -4717,7 +4717,7 @@
 "author":["f3rullo14"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -4959,7 +4959,7 @@
 "author":["SirSengir"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.4","1.4.5","1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -5640,7 +5640,7 @@
 "author":["sdj64"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -6475,6 +6475,16 @@
 
 },{
 
+"name":"Light Bridges Mod",
+"link":"http://bit.ly/1doMnni",
+"desc":"A mod that adds light bridges and light doors and also light rails to minecraft just like the halo games :)",
+"author":["kris91268"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.1","1.6.2"]
+
+},{
+
 "name":"Light Level Overlay",
 "link":"http://bit.ly/WmOkmG",
 "desc":"Visualizes the light levels emitted by torches, glowstone and alike directly on top of blocks, this is helpful to quickly identify areas where mobs can spawn. It shows the light level of the airblock above the block the number is drawn onto, this is the block that is considered for mob spawning, light level 7 or below allows mobs to spawn.",
@@ -7049,8 +7059,8 @@
 "desc":"Adds new player models and textures that make players look like ponies, in the style of the TV show My Little Pony: Friendship Is Magic. Once the mod is installed, you and all other players will look like ponies in both singleplayer and multiplayer. Players who aren't using a special pony skin will look like one of the background ponies from the show (as the default player skins are not fully compatible with this mod).",
 "author":["Verdana"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"dependencies":["Forge Compatible","LiteLoader Required"],
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -9092,7 +9102,7 @@
 "author":["CovertJaguar"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -9725,7 +9735,7 @@
 "author":["KaboPC"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.6.2"]
 
 },{
 
@@ -11604,6 +11614,16 @@
 
 },{
 
+"name":"Universal Coins Mod",
+"link":"http://bit.ly/15wh04o",
+"desc":"A mod that makes coins work for you and u can buy and sell stuff through one block the trade station :)",
+"author":["TED_996"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"Universal Electricity",
 "link":"http://bit.ly/UCJ3sf",
 "desc":"Universal Electricity is a modular coding framework that allows the use of electricity in Minecraft. Mods which uses the Universal Electricity API have the ability to communicate and be compatible with each other.",
@@ -11821,7 +11841,7 @@
 "author":["KaboPC"],
 "type":["SSP", "SMP"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.5.1"]
+"versions":["1.5.1","1.6.2"]
 
 },{
 
