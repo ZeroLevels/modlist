@@ -122,16 +122,17 @@ else
 <form id="listcreator">
 <h1>JSON Output</h1>
 <p>Automatically generated output</p>
-<textarea id="output" name="output" readonly>  {
-    "name":"",
-    "other":"",
-    "link":"",
-    "desc":"",
-    "author":[],
-    "type":[],
-    "dependencies":[],
-    "versions":[]
-  }</textarea>
+<textarea id="output" name="output" readonly>{
+
+"name":"",
+"link":"",
+"desc":"",
+"author":[],
+"type":[],
+"dependencies":[],
+"versions":[]
+
+},</textarea>
 <input id="copy" type="button" value="Copy to Clipboard" data-clipboard-target="output" />
 <input id="complete" type="button" value="Mark as Complete" onclick="window.location = 'panel.php?view=submission&id=<?php echo $mod->id; ?>&mode=complete';" />
 </form>

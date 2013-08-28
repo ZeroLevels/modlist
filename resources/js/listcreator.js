@@ -153,35 +153,35 @@ function loadbitlysource() {
 }
 
 function generate() {
-	var json = '  {\r\n';
-	json += '    "name":"' + $.trim($('#name').val()) + '",\r\n';
+	var json = '{\r\n\r\n';
+	json += '"name":"' + $.trim($('#name').val()) + '",\r\n';
 	if($.trim($('#other').val()) != "")
-		json += '    "other":"' + $.trim($('#other').val()) + '",\r\n';
-	json += '    "link":"' + $.trim($('#link').val()) + '",\r\n';
-	json += '    "desc":"' + $.trim($('#desc').val()) + '",\r\n';
+		json += '"other":"' + $.trim($('#other').val()) + '",\r\n';
+	json += '"link":"' + $.trim($('#link').val()) + '",\r\n';
+	json += '"desc":"' + $.trim($('#desc').val()) + '",\r\n';
 	
 	if($.trim($('#author').val()) != "")
-		json += '    "author":["' +
+		json += '"author":["' +
 			$.map($('#author').val().split(','), $.trim).join('","') +
 			'"],\r\n';
 	else
-		json += '    "author":[],\r\n';
+		json += '"author":[],\r\n';
 	
 	if($.trim($('#source').val()) != "")
-		json += '    "source":"' + $.trim($('#source').val()) + '",\r\n';
+		json += '"source":"' + $.trim($('#source').val()) + '",\r\n';
 	if($.trim($('#type').val()) != "")
-		json += '    "type":["' +
+		json += '"type":["' +
 			$.map($('#type').val().split(','), $.trim).join('","') +
 			'"],\r\n';
 	else
-		json += '    "type":[],\r\n';
+		json += '"type":[],\r\n';
 	
 	if($.trim($('#dependencies').val()) != "")
-		json += '    "dependencies":["' +
+		json += '"dependencies":["' +
 			$.map($('#dependencies').val().split(','), $.trim).join('","') +
 			'"],\r\n';
 	else
-		json += '    "dependencies":[],\r\n';
+		json += '"dependencies":[],\r\n';
 	
 	var versions = new Array();
 	if($('#ver132').is(':checked'))
@@ -207,11 +207,11 @@ function generate() {
 	if($('#ver162').is(':checked'))
 		versions.push('1.6.2');
 	if(versions.length > 0)
-		json += '    "versions":["' + versions.join('","') + '"]\r\n';
+		json += '"versions":["' + versions.join('","') + '"]\r\n';
 	else
-		json += '    "versions":[]\r\n';
+		json += '"versions":[]\r\n';
 	
-	json += '  }';
+	json += '\r\n}';
 	$('#output').val(json);
 }
 
