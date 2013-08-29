@@ -1091,6 +1091,26 @@
 
 },{
 
+"name":"Arcane Scrolls",
+"link":"http://bit.ly/18fv6cV",
+"desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
+"author":["Duke605"],
+"type":["Universal"],
+"dependencies":["Forge Required","DukeCore Required"],
+"versions":["1.5.2","1.6.1","1.6.2"]
+
+},{
+
+"name":"Archimedes' Ships",
+"link":"http://bit.ly/1aQL0M7",
+"desc":"Craft and create your own ship and sail it across the seven seas or infinite sky.",
+"author":["BalkondeurAlpha"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2"]
+
+},{
+
 "name":"Ariadne's Thread",
 "link":"http://bit.ly/13Y62Vg",
 "desc":"Upon hitting the activation key (default is P), this mod creates a floating thread that leads from where you pressed the key to wherever you walk to. Never get lost again!",
@@ -1821,8 +1841,8 @@
 "desc":"The purpose of the mod is to create immersive forest environments, inspired by forests Karob has been to, yet modeled to suit the Minecraft universe.",
 "author":["Karob"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.4.6","1.4.7","1.5.1","1.5.2"]
+"dependencies":["Not Forge Compatible"],
+"versions":["1.3.2","1.4.2","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -5865,6 +5885,17 @@
 
 },{
 
+"name":"Iguana Tweaks",
+"link":"http://bit.ly/1dooEma",
+"desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
+"author":["iguana_man"],
+"source":"https://www.dropbox.com/sh/gl9sxgfbgt7tc0r/H4G3rPDfKF",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2"]
+
+},{
+
 "name":"Immibis Core",
 "other":"(Dependency)",
 "link":"http://bit.ly/Uvusgl",
@@ -7282,7 +7313,7 @@
 "author":["Guff"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -7557,6 +7588,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"More Cookable Food Mod",
+"link":"http://bit.ly/1a0wAtu",
+"desc":"Makes certain foods that previously unable to be cooked now able to do so, enabling further hunger regeneration from said food.",
+"author":["TNTMCPeople"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -9267,6 +9308,17 @@
 
 },{
 
+"name":"Reciper",
+"link":"http://bit.ly/1aQKHkn",
+"desc":"Adds several missing or useful recipes to vanilla Minecraft that can be enabled or disabled individually.",
+"author":["ComplexUnit"],
+"source":"https://github.com/SDXC/Reciper",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"Rediscovered Mod",
 "other":"(WIP)",
 "link":"http://bit.ly/18EMgSt",
@@ -9626,26 +9678,6 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7"]
-
-},{
-
-"name":"Arcane Scrolls",
-"link":"http://bit.ly/18fv6cV",
-"desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
-"author":["Duke605"],
-"type":["Universal"],
-"dependencies":["Forge Required","DukeCore Required"],
-"versions":["1.6.2"]
-
-},{
-
-"name":"Arcane Scrolls",
-"link":"http://bit.ly/18fv6cV",
-"desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
-"author":["Duke605"],
-"type":["SSP"],
-"dependencies":["Forge Required","DukeCore Required"],
-"versions":["1.5.2","1.6.1"]
 
 },{
 
@@ -10897,6 +10929,16 @@
 
 },{
 
+"name":"The Lapis Mod",
+"link":"http://bit.ly/19MSmx3",
+"desc":"Adds tools and armour that can be crafted using lapis.",
+"author":["TNTMCPeople"],
+"type":["SSP","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"The Lord of the Rings Mod",
 "other":"(Beta)",
 "link":"http://bit.ly/11318S2",
@@ -11287,6 +11329,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+
+},{
+
+"name":"[Tinkers' Construct] Iguana Tweaks",
+"link":"http://bit.ly/17nkepE",
+"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
+"author":["iguana_man"],
+"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2"]
 
 },{
 
