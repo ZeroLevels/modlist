@@ -490,7 +490,7 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -1037,7 +1037,7 @@
 "author":["thehippomaster21"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -2659,11 +2659,11 @@
 
 "name":"COFL's Simple Arrowblur",
 "link":"http://bit.ly/10ATG5R",
-"desc":"Adds dlordazgalor's Stadiametric Rangefinder without replacing the pumpkin blur texture.Conflicts with the aww.class (GuiIngame) file from forge.",
+"desc":"Adds dlordazgalor's Stadiametric Rangefinder without replacing the pumpkin blur texture. Conflicts with the GuiIngame class from Forge.",
 "author":["clacourt"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.5.1"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -2991,11 +2991,11 @@
 
 "name":"Craftable Animals",
 "link":"http://bit.ly/ZwDikN",
-"desc":"",
+"desc":"Allows you to craft animals using the items they drop",
 "author":["Naruto1310"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.6","1.4.7"]
+"versions":["1.3.2","1.4.6","1.4.7","1.6.2"]
 
 },{
 
@@ -4201,7 +4201,7 @@
 "author":["mssodin28"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -4586,7 +4586,7 @@
 "author":["neptunepink"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -5248,13 +5248,13 @@
 
 },{
 
-"name":"GLSL Shaders mod",
+"name":"GLSL Shaders Mod",
 "link":"http://bit.ly/VK1Y3q",
-"desc":"",
+"desc":"Adds shaders that can be swapped in-game. Allows use of Depth of Field, Parallax Occlusion and other advanced shading. Continuation of daxnitro's GLSL Shaders.",
 "author":["karyonix"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -5272,9 +5272,10 @@
 "link":"http://bit.ly/Yj1yR6",
 "desc":"Goblins And Giants is a WIP mod that adds a lot of new mobs and a dimension.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/goblinsgiants",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -5452,11 +5453,12 @@
 
 "name":"Harder Peaceful",
 "link":"http://bit.ly/YiVl7R",
-"desc":"Harder Peaceful is a mod that will make peaceful a bit more like the other game modes. It causes like normal and you will no longer regenerate health when you are hurt and don't have enough food.Goes well with The Peacefulpack mod.",
+"desc":"Harder Peaceful is a mod that will make peaceful a bit more like the other game modes. It causes like normal and you will no longer regenerate health when you are hurt and don't have enough food. Goes well with The Peacefulpack mod.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/harderpeaceful",
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -5686,21 +5688,11 @@
 
 "name":"HomiePower Mod",
 "link":"http://bit.ly/10DRioi",
-"desc":"Adds new ores and metals.",
+"desc":"Adds new ores and metals. A fan made mod for the youtuber SlyFoxHound and his homies. This mod adds all things related to SlyFoxHound and the homies.",
 "author":["hoshan"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
-
-},{
-
-"name":"HomiePower Mod FE",
-"link":"http://bit.ly/10DRioi",
-"desc":"A fan made mod for the youtuber SlyFoxHound and his homies. This mod adds all things related to SlyFoxHound and the homies.",
-"author":["hoshan"],
-"type":["SSP"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.4.6","1.4.7","1.6.2"]
 
 },{
 
@@ -5790,7 +5782,7 @@
 "author":["iguana_man"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -5953,9 +5945,10 @@
 "link":"http://bit.ly/YjaJRx",
 "desc":"This mod will change the mob spawn of several mobs. One example is that spider jockeys are 5 times less rare. There are also changes to the spawns of slime, cave spiders, blazes, silver fish and magma cubes.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/ImprovedMobSpawn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -6218,9 +6211,10 @@
 "link":"http://bit.ly/W0tf6U",
 "desc":"The jelly cubes mod adds a new type of food to the game. It's crafted with two slime balls and can be used in flatlands for food.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/jellycubes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -6380,9 +6374,10 @@
 "link":"http://bit.ly/12EyGdZ",
 "desc":"Simply adds a fish mob to the game. It will spawn and swim around your world in water.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/koi",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -6458,11 +6453,11 @@
 
 "name":"Legend of Zelda Mod",
 "link":"http://bit.ly/16ndZWL",
-"desc":"Adds items from The Legend of Zelda to tha game.",
+"desc":"Adds items from The Legend of Zelda to the game.",
 "author":["dude22072"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -6806,9 +6801,10 @@
 "link":"http://bit.ly/W0sOJW",
 "desc":"Magical Experience adds new ways to get experience. You can also craft all the spawner eggs with this mod and there are some very fun items that can destroy your world if you are not careful.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/magicalexp",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8276,9 +8272,10 @@
 "link":"http://bit.ly/11Rud8a",
 "desc":"This mod adds the Nether Eye to the game. Use it to find your way to a nether fortress. Crafted with ender pearl and magma cream.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/nethereye",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8318,7 +8315,7 @@
 "author":["Naiakoa"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8506,11 +8503,11 @@
 
 "name":"Obsidian Pressure Plates",
 "link":"http://bit.ly/11K9MsD",
-"desc":"",
+"desc":"Adds obsidian and mossy cobblestone pressure plates that output a signal when stood on by a player or an NPC respectively. Includes silent versions of the pressure plates.",
 "author":["Myrathi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -9101,9 +9098,10 @@
 "link":"http://bit.ly/135GpNu",
 "desc":"Removes the pumpkin from a snow golem's head.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/snowgolem",
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -9173,7 +9171,7 @@
 "author":["Random_Additions"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6", "1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6", "1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -9556,7 +9554,7 @@
 "author":["DarrenPR"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -9868,7 +9866,7 @@
 "author":["Ellybelly360"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -10009,9 +10007,10 @@
 "link":"http://bit.ly/15qHGD1",
 "desc":"Adds slime dungeons to your game. When you come across one, will have a lot of slimeballs.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/slimedungeons",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -10561,7 +10560,7 @@
 "author":["Snow_56767","Longor1996"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -11044,9 +11043,10 @@
 "link":"http://bit.ly/WSAP1Z",
 "desc":"This mod adds new ways to get all the mob drops. You can get them all without having to fight any monsters. This can be useful if you don't like monsters or if you just want more of the drops.Goes well with Harder Peaceful mod.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/peacefulpackmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11449,7 +11449,7 @@
 "author":["Traincraft"],
 "type":["SSP","SMP","LAN"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11763,7 +11763,7 @@
 "author":["_TheCreator_"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -11854,7 +11854,7 @@
 "source":"https://github.com/AnarchySage/Vanityblocksmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
