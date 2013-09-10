@@ -8865,7 +8865,7 @@
 
 "name":"Player API",
 "link":"http://bit.ly/WnR9CL",
-"desc":"Render Player API gives third party mods managed access to the player render classes.",
+"desc":"Player API gives third party mods managed access to the main player classes.",
 "author":["Divisor"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
@@ -9465,7 +9465,7 @@
 "author":["Divisor"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
