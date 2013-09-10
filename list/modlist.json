@@ -859,7 +859,7 @@
 },{
 
 "name":"AdventureTime Mod",
-	"other":"(Beta)",
+"other":"(Beta)",
 "link":"http://bit.ly/125Iet4",
 "desc":"Adds content from the hit Cartoon Network show: Adventure Time into Minecraft!",
 "author":["Koslaw"],
@@ -872,11 +872,11 @@
 "name":"Aether II",
 "other":"(Alpha)",
 "link":"http://bit.ly/185nvNY",
-"desc":"The Aether is a ''hostile paradise'', composed of floating sky islands filled with strange creatures and great mysteries. Brave adventurers who wish to explore this forgotten paradise merely only have to compose a portal out of glowstone and ignite it with a bucket of water.",
+"desc":"The Aether is a 'hostile paradise', composed of floating sky islands filled with strange creatures and great mysteries. Brave adventurers who wish to explore this forgotten paradise merely only have to compose a portal out of glowstone and ignite it with a bucket of water.",
 "author":["kingbdogz"],
 "type":["Universal"],
 "dependencies":["Forge Required", "Player API", "Render Player API"],
-"versions":["1.5.1"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -3268,7 +3268,7 @@
 "link":"http://bit.ly/TWHHIG",
 "desc":"With this enchanted wing, you'll be able to teleport back to your spawn point or bed (fancy effects included!).",
 "author":["bspkrs"],
-	"source":"https://github.com/bspkrs/CrystalWing",
+"source":"https://github.com/bspkrs/CrystalWing",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
 "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
@@ -3741,7 +3741,7 @@
 
 "name":"Doggy Talents Mod",
 "link":"http://bit.ly/137QH54",
-"desc":"Trap your friends or mobs with spikes, fans, igniters, dummies, and even grass coverings. Then collect all the loot with the magnetic chest!",
+"desc":"Transform your wolves into dogs using a biscuit, and customize your dogs with specific traits.",
 "author":["ProPercivalalb"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -3776,7 +3776,7 @@
 "author":["JinRyuu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -3785,8 +3785,8 @@
 "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
 "author":["BarracudaATA"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Compatible","ModLoader Version Available"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
+"dependencies":["Forge Compatible","Modloader Compatible"],
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -4797,7 +4797,7 @@
 "author":["jamioflan"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.2"]
 
 },{
 
@@ -7062,12 +7062,23 @@
 
 "name":"Mine & Blade: Battlegear 2",
 "link":"http://bit.ly/1ccxikD",
-"desc":"Allows player to use left hand for the second weapon or shield.",
+"desc":"Provides new combat features and allows players weild a second weapon or shield.",
 "author":["Mine_and_Blade_Admin"],
 "source":"https://github.com/Mine-and-blade-admin/Battlegear2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.1","1.6.2"]
+
+},{
+
+"name":"Mine & Blade: Battlegear 2",
+"link":"http://bit.ly/1ccxikD",
+"desc":"Provides new combat features, including new weapons.",
+"author":["Mine_and_Blade_Admin"],
+"source":"https://github.com/Mine-and-blade-admin/Battlegear2",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2"]
 
 },{
 
@@ -10387,7 +10398,7 @@
 "link":"http://bit.ly/UUqfYh",
 "desc":"Adds lots more food into your game, roughly around 50 items, which is more food than there actually is in Minecraft currently.",
 "author":["17CupsOfCoffee"],
-	"source":"https://github.com/17cupsofcoffee/Still-Hungry",
+"source":"https://github.com/17cupsofcoffee/Still-Hungry",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7","1.6.2"]
