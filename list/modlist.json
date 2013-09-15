@@ -2176,11 +2176,11 @@
 
 "name":"Camera Studio",
 "link":"http://bit.ly/UCnV5m",
-"desc":"",
+"desc":"A mod for recording timeplapses without the need of another player.",
 "author":["Sushen"],
-"type":["SSP","SMP"],
+"type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -3533,7 +3533,7 @@
 "author":["Coolthings42"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.1"]
+"versions":["1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -4657,7 +4657,7 @@
 "author":["Koopinator"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8959,7 +8959,7 @@
 "author":["MightyPork"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
 
 },{
 
@@ -11456,7 +11456,7 @@
 
 "name":"Traincraft",
 "link":"http://bit.ly/RBXBcJ",
-"desc":"",
+"desc":"Adds more than 80 trains, wagons and other moving vehicles to the game.",
 "author":["Traincraft"],
 "type":["SSP","SMP","LAN"],
 "dependencies":["Forge Required"],
