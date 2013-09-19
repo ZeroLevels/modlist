@@ -99,6 +99,7 @@ function showAPI($version) {
 }
 
 function supportedCheck($version) {
+	$supported[] = '1.6.4';
 	$supported[] = '1.6.2';
 	$supported[] = '1.6.1';
 	$supported[] = '1.5.2';
@@ -191,6 +192,11 @@ function listVersion($version) {
 				echo '<td class="h">1.6.2</td>';
 			else
 				echo '<td class="nh" onclick="window.location.href=\'1.6.2.php\'"><a href="1.6.2.php">1.6.2</a></td>';
+			
+			if($version == "1.6.4")
+				echo '<td class="h">1.6.4</td>';
+			else
+				echo '<td class="nh" onclick="window.location.href=\'1.6.4.php\'"><a href="1.6.4.php">1.6.4</a></td>';
 			break;
 	}
 	echo '</tr>';

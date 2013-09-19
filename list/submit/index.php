@@ -104,6 +104,7 @@ a:hover {
 <span class="small">What Minecraft versions does the mod work on?</span>
 </label>
 <fieldset class="checkcontain">
+<input id="ver164" type="checkbox" name="version[]" value="1.6.4"><label for="ver164">1.6.4</label>
 <input id="ver162" type="checkbox" name="version[]" value="1.6.2"><label for="ver162">1.6.2</label>
 <input id="ver161" type="checkbox" name="version[]" value="1.6.1"><label for="ver161">1.6.1</label>
 <input id="ver152" type="checkbox" name="version[]" value="1.5.2"><label for="ver152">1.5.2</label>
