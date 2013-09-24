@@ -1799,9 +1799,10 @@
 "link":"http://bit.ly/WhJqrb",
 "desc":"Allows snow to pile up during snowfall and increases snow levels from 8 to 16. Includes a GUI to customize snow.",
 "author":["acomputerdog"],
-"type":["SSP","LAN"],
+"source":"http://www.mediafire.com/folder/evvtvo117nd9v/sources",
+"type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1995,7 +1996,7 @@
 "author":["rbdyck"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -3704,7 +3705,7 @@
 "author":["Nikkzilla_"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.4"]
 
 },{
 
@@ -5018,7 +5019,7 @@
 
 "name":"ForgeMultipart",
 "other":"(API)",
-"link":"http://files.minecraftforge.net/ForgeMultipart/",
+"link":"http://bit.ly/1b2fybw",
 "desc":"An API for dynamically handling different functional parts in the one block space.",
 "author":["chicken_bones"],
 "source":"https://github.com/Chicken-Bones/ForgeMultipart",
@@ -6378,7 +6379,7 @@
 "author":["rbdyck"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6704,10 +6705,10 @@
 "link":"http://bit.ly/173KX8T",
 "desc":"Allows you to cut down trees by breaking only a single block.",
 "author":["acomputerdog"],
-"source":"http://www.mediafire.com/download/a346e3a5y1q6col",
-"type":["SSP","LAN"],
+"source":"http://www.mediafire.com/folder/zxzc9hgv8tl2f/Source",
+"type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -7365,7 +7366,7 @@
 "author":["rbdyck"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9227,7 +9228,7 @@
 "author":["lumien"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
