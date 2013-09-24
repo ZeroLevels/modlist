@@ -56,6 +56,10 @@ function checksource() {
 function setVersions(versionlist) {
 	window.skipVersions = true;
 	var versions = versionlist.split(',');
+	if(versions.indexOf('1.6.4') != -1)
+		$('#ver164').prop('checked', true);
+	else
+		$('#ver164').attr('checked', false);
 	if(versions.indexOf('1.6.2') != -1)
 		$('#ver162').prop('checked', true);
 	else
@@ -206,6 +210,8 @@ function generate() {
 		versions.push('1.6.1');
 	if($('#ver162').is(':checked'))
 		versions.push('1.6.2');
+	if($('#ver164').is(':checked'))
+		versions.push('1.6.4');
 	if(versions.length > 0)
 		json += '"versions":["' + versions.join('","') + '"]\r\n';
 	else
@@ -247,6 +253,10 @@ function checkExist() {
 					$('#dependencies').val(data[i].dependencies.join(','));
 					
 					if(window.skipVersions === false) {
+						if(data[i].versions.indexOf('1.6.4') != -1)
+							$('#ver164').prop('checked', true);
+						else
+							$('#ver164').attr('checked', false);
 						if(data[i].versions.indexOf('1.6.2') != -1)
 							$('#ver162').prop('checked', true);
 						else
@@ -347,6 +357,7 @@ $('#source').blur(loadbitlysource);
 $('#type').bind('input propertychange', null,generate);
 $('#dependencies').bind('input propertychange', null,generate);
 $('#dependencies').bind('input propertychange', null,checkDepends);
+$('#ver164').click(generate);
 $('#ver162').click(generate);
 $('#ver161').click(generate);
 $('#ver152').click(generate);
