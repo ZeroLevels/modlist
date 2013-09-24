@@ -1158,7 +1158,7 @@
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -2048,7 +2048,7 @@
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3271,7 +3271,7 @@
 "source":"https://github.com/bspkrs/CrystalWing",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -3694,7 +3694,7 @@
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4899,7 +4899,7 @@
 "source":"https://github.com/bspkrs/FloatingRuins",
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6029,9 +6029,10 @@
 "link":"http://bit.ly/Sw1AcJ",
 "desc":"Display various information directly on your ingame screen.",
 "author":["Lunatrius"],
+"source":"https://github.com/Lunatrius/InGame-Info-XML",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6063,7 +6064,7 @@
 "source":"https://github.com/bspkrs/IngameInfo",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7598,7 +7599,7 @@
 "source":"https://github.com/Lunatrius/Monster-Spawn-Highlighter",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9700,7 +9701,7 @@
 "source":"https://github.com/Lunatrius/Schematica",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10331,7 +10332,7 @@
 "source":"https://github.com/Lunatrius/Stackie",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10404,7 +10405,7 @@
 "source":"https://github.com/bspkrs/StartingInventory",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -10425,7 +10426,7 @@
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -11566,7 +11567,7 @@
 "source":"https://github.com/bspkrs/TreeCapitator",
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -12283,7 +12284,7 @@
 "source":"https://github.com/bspkrs/WorldStateCheckpoints",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
