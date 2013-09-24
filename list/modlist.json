@@ -389,7 +389,7 @@
 "author":["SeNtiMeL"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -2426,7 +2426,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2653,7 +2653,7 @@
 "source":"https://github.com/Chicken-Bones/CodeChickenLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -3024,8 +3024,8 @@
 "desc":"Allows you to craft the Saddle and the Horse Armor.",
 "author":["SackCastellon"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.1","1.6.2"]
+"dependencies":["Forge Required","SKC Core"],
+"versions":["1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3138,7 +3138,7 @@
 "author":["Andy608"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.3.2","1.4.6","1.4.7","1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3989,7 +3989,7 @@
 "author":["abqzach3"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4215,6 +4215,16 @@
 
 },{
 
+"name":"Endless Ocean",
+"link":"http://bit.ly/18mCZtQ",
+"desc":"Custom world generator that will generate an ocean world. Islands and archipelagos will spawn with an adjustable frequency.",
+"author":["Spikitiger"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"End of the Rainbow Mod",
 "link":"http://bit.ly/13f8VN2",
 "desc":"Adds randomly spawning rainbows with a rainbow ore beneath them, protected by a leprechaun mob. Usable to make tools and armor.",
@@ -4251,7 +4261,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4342,7 +4352,7 @@
 "author":["Sonicjumper"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -5002,7 +5012,19 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+
+},{
+
+"name":"ForgeMultipart",
+"other":"(API)",
+"link":"http://files.minecraftforge.net/ForgeMultipart/",
+"desc":"An API for dynamically handling different functional parts in the one block space.",
+"author":["chicken_bones"],
+"source":"https://github.com/Chicken-Bones/ForgeMultipart",
+"type":["Universal"],
+"dependencies":["Forge Required","CodeChickenCore Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5244,7 +5266,7 @@
 "source":"https://github.com/GrygrFlzr/GlowstoneWire",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6203,7 +6225,7 @@
 "author":["Jammy780"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -6515,9 +6537,10 @@
 "link":"http://bit.ly/WmOkmG",
 "desc":"Visualizes the light levels emitted by torches, glowstone and alike directly on top of blocks, this is helpful to quickly identify areas where mobs can spawn. It shows the light level of the airblock above the block the number is drawn onto, this is the block that is considered for mob spawning, light level 7 or below allows mobs to spawn.",
 "author":["4poc"],
+"source":"https://github.com/4poc/lloverlay",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6662,7 +6685,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -7102,6 +7125,17 @@
 
 },{
 
+"name":"MineChess",
+"link":"http://bit.ly/18mCGyX",
+"desc":"Adds giant chess in Minecraft, similar to the one in Harry Potter.",
+"author":["MineMaarten"],
+"source":"https://github.com/MineMaarten/MineChess",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.1","1.5.2","1.6.2"]
+
+},{
+
 "name":"Minecraft Capes",
 "other":"(MCCapes)",
 "link":"http://bit.ly/XD3gCF",
@@ -7250,7 +7284,7 @@
 "author":["fenceFoil"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8438,7 +8472,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8578,7 +8612,7 @@
 "author":["sp614x"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -9922,6 +9956,17 @@
 
 },{
 
+"name":"SKC Core",
+"other":"(Dependency)",
+"link":"http://bit.ly/18mAMyj",
+"desc":"Required Dependency for SackCastellon's mods",
+"author":["SackCastellon"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Skinning In-Game",
 "other":"(Mine Little Pony)",
 "link":"http://bit.ly/174HbiI",
@@ -10032,6 +10077,16 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"Small World",
+"link":"http://bit.ly/18mCZtQ",
+"desc":"A generator that will generate limited worlds of custom size.",
+"author":["Spikitiger"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -11107,7 +11162,7 @@
 "author":["The_WeatherPony"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11480,7 +11535,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore Required"],
-"versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.6", "1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12126,8 +12181,8 @@
 "desc":"In its simplest this is a mod that allows you to transmit your redstone state wirelessly. Even if you dont use redstone this mod could still be for you. Found an awesome landscape you'd like to mark, a cool cave to explore, or keep losing your way from base to base? Ever wished that compass pointed somewhere else or there was a way to mark things on a map. Well now there is. With the wireless addons component of this mod you can use wireless signals for navigation.",
 "author":["chicken_bones"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.6.2"]
+"dependencies":["Forge Required","CodeChickenCore Required","ForgeMultipart Required"],
+"versions":["1.4.6","1.4.7","1.5.1","1.6.2","1.6.4"]
 
 },{
 
