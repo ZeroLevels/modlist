@@ -5018,7 +5018,7 @@
 
 "name":"ForgeMultipart",
 "other":"(API)",
-"link":"http://files.minecraftforge.net/ForgeMultipart/",
+"link":"http://bit.ly/1b2fybw",
 "desc":"An API for dynamically handling different functional parts in the one block space.",
 "author":["chicken_bones"],
 "source":"https://github.com/Chicken-Bones/ForgeMultipart",
@@ -9227,7 +9227,7 @@
 "author":["lumien"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
