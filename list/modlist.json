@@ -838,6 +838,16 @@
 
 },{
 
+"name":"AdvanceTime",
+"link":"http://bit.ly/18pxYma",
+"desc":"A core mod that allows administrators to control the length of day for any dimension.",
+"author":["Neometron"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Adventure Kit",
 "link":"http://bit.ly/YgfcLV",
 "desc":"Adds many features geared towards adventuring. Adds tents, lanterns, headlamps, telescopes, climbing ropes and anchors, and grappling hooks!",
@@ -3534,7 +3544,7 @@
 "author":["Coolthings42"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3711,11 +3721,11 @@
 
 "name":"DivineRPG",
 "link":"http://bit.ly/RBORmX",
-"desc":"",
+"desc":"Adds new dimensions, mobs and items.",
 "author":["Xolova"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.6.2"]
 
 },{
 
@@ -4568,6 +4578,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+
+},{
+
+"name":"ExtraButtons",
+"link":"http://bit.ly/18pytfK",
+"desc":"Adds extra button and button-related blocks to Minecraft.",
+"author":["jaquadro"],
+"source":"https://github.com/jaquadro/ForgeMods",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.4.6","1.4.7","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7276,7 +7297,7 @@
 "author":["BarracudaATA"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -9561,7 +9582,7 @@
 "author":["Rodolphito"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9868,12 +9889,12 @@
 },{
 
 "name":"Sim-U-Kraft",
-"link":"http://bit.ly/UvCRQX",
-"desc":"",
+"link":"http://bit.ly/17oiQoz",
+"desc":"Extends and modifies single player gameplay by adding aspects of Sim City and The Sims to the game.",
 "author":["Satscape"],
-"type":["N/A"],
+"type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11002,7 +11023,7 @@
 "author":["TNTMCPeople"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -11315,7 +11336,7 @@
 "author":["tarun1998"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -11855,6 +11876,17 @@
 
 },{
 
+"name":"Utilities",
+"link":"http://bit.ly/18pyUXy",
+"desc":"Adds various useful blocks and items to the game to help make some of Minecraft's tedious tasks a bit more fun!",
+"author":["RossRKK"],
+"source":"https://github.com/RossRKK/Utilities",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"Utility Chests Mod",
 "link":"http://bit.ly/Va07XI",
 "desc":"Adds multiple new chests to the game that each serve its own purpose aside from storage.",
@@ -11891,7 +11923,7 @@
 "author":["gruntpie224"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
