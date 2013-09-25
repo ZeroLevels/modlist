@@ -5298,7 +5298,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/goblinsgiants",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5481,7 +5481,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/harderpeaceful",
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5971,7 +5971,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/ImprovedMobSpawn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6238,7 +6238,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/jellycubes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6401,7 +6401,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/koi",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6829,7 +6829,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/magicalexp",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8322,7 +8322,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/nethereye",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9148,7 +9148,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/snowgolem",
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10068,7 +10068,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/slimedungeons",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11114,7 +11114,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/peacefulpackmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
