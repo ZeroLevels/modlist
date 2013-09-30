@@ -1905,7 +1905,7 @@
 "source":"https://github.com/BiomesOPlenty/BiomesOPlenty",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1977,6 +1977,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+
+},{
+
+"name":"Blocks3D Mod",
+"link":"http://bit.ly/14WTzkE",
+"desc":"Turns previously 2D blocks into a 3D versions, much like what has been done to dropped item entities on fancy graphics.",
+"author":["rangatangaa"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10663,6 +10673,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+
+},{
+
+"name":"Super Sword",
+"link":"http://www.minecraftforum.net/topic/1996694-",
+"desc":"Adds a sword that does +20,000 damage, effectively killing anything (in Vanilla) with a single hit.",
+"author":["TNTMCPeople"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
