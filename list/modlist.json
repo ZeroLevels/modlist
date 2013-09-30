@@ -587,11 +587,11 @@
 
 "name":"[IndustrialCraft 2] OreDupeFix",
 "link":"http://bit.ly/Wgp1TF",
-"desc":"Installing multiple tech mods often leads to more than a single type of the same ore. The problem can partially be fixed by making only one ore type spawn in the world, but that doesn't fix the outputs. While the Forge Ore Dictionary lets them all be used in the same crafting recipes, it can still be a cause for concern due to clutter. The aim of this mod is to fix that, letting you specify a single output for all types.",
+"desc":"Unifies output of crafting recipes, furnace recipes, dungeon loot, and IC2 machine recipes to a configurable preferred ore from each mod.",
 "author":["agaricus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
 
 },{
 
@@ -957,7 +957,7 @@
 "author":["mister_person"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1117,7 +1117,7 @@
 "author":["BalkondeurAlpha"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1146,8 +1146,8 @@
 "desc":"Adds armour that aids in different types of mobility.",
 "author":["JSut210"],
 "type":["SSP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+"dependencies":["Forge Required"],
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.6.2"]
 
 },{
 
@@ -1308,7 +1308,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.5.1","1.6.2"]
+"versions":["1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1439,8 +1439,8 @@
 "desc":"Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.",
 "author":["iChun"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1562,6 +1562,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Bedrock Utilities Mod",
+"link":"http://www.minecraftforum.net/topic/1987318-",
+"desc":"Adds bedrock tools and armor in a manner that is more fair overall, as it doesn't actually let you acquire bedrock.",
+"author":["Bs199sg","Runescaper1105","Empireslayer666"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -1771,7 +1781,7 @@
 "author":["ted80"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.0","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -2345,7 +2355,7 @@
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -2447,7 +2457,7 @@
 "author":["Vazkii"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3410,11 +3420,11 @@
 
 "name":"Dalek Mod",
 "link":"http://bit.ly/WBHu2N",
-"desc":"This mod has a separate version for each ModLoader and Forge.Adds a bunch of creatures from the hit BBC show Doctor Who",
+"desc":"Adds a bunch of creatures from the hit BBC show Doctor Who",
 "author":["1WTC"],
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.6","1.4.7","1.5.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3424,7 +3434,7 @@
 "author":["rich1051414"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -4516,7 +4526,7 @@
 "author":["Naruto1310"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4829,7 +4839,7 @@
 "author":["jamioflan"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5267,7 +5277,7 @@
 "author":["fisherman77"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5350,7 +5360,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5532,7 +5542,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.6", "1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5543,7 +5553,7 @@
 "source":"https://github.com/iChun/Hats",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5553,7 +5563,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5707,6 +5717,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+
+},{
+
+"name":"HighlightTips",
+"link":"http://bit.ly/1fBjYeC",
+"desc":"Show information about the block highlighted at your cursor tip.",
+"author":["agaricus"],
+"source":"https://github.com/agaricusb/HighlightTips",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2"]
 
 },{
 
@@ -5907,7 +5928,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6188,7 +6209,7 @@
 "source":"https://github.com/cpw/ironchest/tree/master/IronChests2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6252,6 +6273,17 @@
 
 },{
 
+"name":"Jarmod2Coremod",
+"link":"http://bit.ly/1fBiKjN",
+"desc":"A coremod that loads jarmods.",
+"author":["agaricus"],
+"source":"https://github.com/agaricusb/Jarmod2Coremod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2"]
+
+},{
+
 "name":"Jelly Cubes",
 "link":"http://bit.ly/W0tf6U",
 "desc":"The jelly cubes mod adds a new type of food to the game. It's crafted with two slime balls and can be used in flatlands for food.",
@@ -6289,7 +6321,7 @@
 "author":["techbrew"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.6","1.4.7","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5.1","1.6.4"]
 
 },{
 
@@ -6404,14 +6436,14 @@
 
 },{
 
-"name":"Kodehawa's Cheating Essentials",
+"name":"Cheating Essentials",
 "link":"http://bit.ly/11ulPtx",
 "desc":"Allows the player to cheat with Fly, X-ray and other cheat tools.",
 "author":["Kodehawa"],
-"source":"https://github.com/Kodehawa/Cheat-Pack-2/",
-"type":["Client"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.6.1","1.6.2"]
+"source":"https://github.com/Kodehawa/Cheating-Essentials-Forge",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6635,7 +6667,7 @@
 "author":["MMM"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -7166,7 +7198,7 @@
 "author":["cjz__"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7176,7 +7208,7 @@
 "author":["WildBamaBoy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7496,8 +7528,8 @@
 "desc":"Lets you cut off the arms and head of some mobs. Also, blood particles!",
 "author":["iChun"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7506,8 +7538,8 @@
 "desc":"Some mobs fall apart whenever you kill them.",
 "author":["iChun"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"dependencies":["Forge Compatible","iChun Util"],
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7722,7 +7754,7 @@
 "source":"https://github.com/grompe/moreeverything",
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7814,6 +7846,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader"],
 "versions":["1.5.2","1.6.1","1.6.2"]
+
+},{
+
+"name":"Morph",
+"link":"http://bit.ly/ichun-morph",
+"desc":"Acquire most living mobs by killing them (a morph). This includes other players, silverfish, mobs from Twilight Forest, Mo' Creatures, Ore Spawn, and more! Use abilities that accompany morphs you acquire!",
+"author":["iChun"],
+"source":"http://adf.ly/WSG0c",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -8088,7 +8131,7 @@
 "author":["Mr_Crayfish"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8175,12 +8218,12 @@
 },{
 
 "name":"MusicCraft",
-"link":"http://bit.ly/12UCRxu",
+"link":"http://bit.ly/199Exv6",
 "desc":"Adds musical instruments to the game.",
 "author":["Ktos94852"],
-"type":["SSP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8329,10 +8372,10 @@
 "link":"http://bit.ly/18ENlcX",
 "desc":"Adds items to craft gunpowder, usable as a fuel; and a Nether Essence block, which emits a dim light.",
 "author":["Flayr"],
-"source":"http://www.minecraftforum.net/topic/1890111-",
+"source":"https://github.com/TheJawrey/Nether-Essence",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -8457,14 +8500,13 @@
 
 },{
 
-"name":"No Voidfog",
-"other":"(or Dimming)",
+"name":"No Voidfog or Dimming",
 "link":"http://bit.ly/Ty9cf2",
 "desc":"Removes the void fog and dimming when getting nearer to bedrock level.",
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -8595,7 +8637,7 @@
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8606,6 +8648,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"OpenBlocks",
+"link":"http://bit.ly/19P7fg6",
+"desc":"The idea of OpenBlocks is to add small and interesting utilities to minecraft to make the gameplay a little bit more enjoyable.",
+"author":["Mikeemoo"],
+"source":"https://github.com/OpenMods/OpenBlocks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2"]
 
 },{
 
@@ -8976,7 +9029,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9068,6 +9121,16 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+
+},{
+
+"name":"Presence Footsteps",
+"link":"http://bit.ly/19PfE2Q",
+"desc":"Presence Footsteps is an overly complicated footstep sound enhancement mod for Minecraft. It changes the way footstep sounds are produced, in addition to a whole new set of sounds.",
+"author":["Hurricaaane"],
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.6.2"]
 
 },{
 
@@ -10057,7 +10120,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.6.2","1.6.4"]
 
 },{
 
@@ -10246,12 +10309,12 @@
 
 "name":"Sorcery",
 "other":"(Beta)",
-"link":"http://bit.ly/10Hed1v",
+"link":"http://bit.ly/19P8PhT",
 "desc":"Adds a spell casting system, a whole heap of useful spells, and many other fun magical toys.",
 "author":["vroominator"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.4"]
 
 },{
 
@@ -10720,7 +10783,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11462,13 +11525,13 @@
 
 },{
 
-"name":"TooManyItems",
+"name":"TooManyItems (TMI)",
 "link":"http://bit.ly/toomanyitems",
 "desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
 "author":["Marglyph"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -11498,7 +11561,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11518,7 +11581,7 @@
 "author":["Niconiko"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -11528,7 +11591,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11671,7 +11734,7 @@
 "author":["Benimatic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11732,7 +11795,7 @@
 "source":"https://github.com/ExterminatorJeff/UndergroundBiomes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -11954,7 +12017,7 @@
 "source":"https://github.com/AnarchySage/Vanityblocksmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -12015,7 +12078,7 @@
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -12125,7 +12188,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6", "1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.6", "1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
