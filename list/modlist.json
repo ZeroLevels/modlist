@@ -7757,6 +7757,17 @@
 
 },{
 
+"name":"More Enchantments",
+"other":"(Forge)",
+"link":"http://bit.ly/18wkwfw",
+"desc":"Adds numerous new enchantments.",
+"author":["Lithial"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"More Explosives",
 "link":"http://bit.ly/VNTTtZ",
 "desc":"Adds many new types of ways to destroy your enemies, more often than not, involving explosions. Be careful you don't set anything off too close to home!",
