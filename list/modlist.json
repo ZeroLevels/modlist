@@ -42,12 +42,12 @@
 },{
 
 "name":"[Buildcraft] Buildcraft Tools",
-"link":"http://bit.ly/XEy7d5",
+"link":"http://bit.ly/19jLeeo",
 "desc":"Adds a bunch of chargeable tools and armor to Buildcraft.",
 "author":["Maexx97"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1379,8 +1379,8 @@
 "desc":"Automatically harvests fully matured plants as well as automatically plant seeds.",
 "author":["Corosus"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5.0","1.5.1"]
+"dependencies":["Forge Required"],
+"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -3434,7 +3434,7 @@
 "author":["MustangXPress7"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4499,6 +4499,16 @@
 
 },{
 
+"name":"Exp Chest",
+"link":"http://bit.ly/GAB3pq",
+"desc":"A simple experience chest. Best used if you are a high level and don't want to take a chance at losing your exp when you go adventuring. Also good if you just want so save up your exp without having the risk of one of those pesky creepers killing you while you're just getting a few resources.",
+"author":["jamolnng"],
+"type":["SSP","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"ExpandedWeaponry",
 "link":"http://bit.ly/ZciGNy",
 "desc":"Adds 256 new weapons you get as dungeon loot.",
@@ -5137,6 +5147,16 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.0"]
+
+},{
+
+"name":"FreezeCam",
+"link":"http://bit.ly/GAFgcQ",
+"desc":"Lets you freeze your camera to a certain position, allowing you to walk away from your camera.",
+"author":["DeStilleGast"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5831,6 +5851,16 @@
 
 },{
 
+"name":"Hostile Worlds",
+"link":"http://bit.ly/GAD8ls",
+"desc":"Adds long distance invasions, zombie miners, stacking zombies, a new dimension, lava worms, and more.",
+"author":["Corosus"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.4"]
+
+},{
+
 "name":"Household Gods",
 "link":"http://bit.ly/106exeU",
 "desc":"Makes exploration exciting again by adding 16 statues for you to discover, randomly generated to produce thousands of unique results, each of which affects the world around it in its own individual way. Discover dangerous statues, helpful statues, and just plain weird ones! MIX and MATCH pieces to create NEW EFFECTS!",
@@ -6075,6 +6105,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+
+},{
+
+"name":"IndustrialCraft 2 (Experimental)",
+"link":"http://bit.ly/10oNRBU",
+"desc":"IC2 experimental is unstable, may break worlds and its API may change frequently. Create backups of your world when using it.  Use at own risk if you can't wait for stable, non-experimental builds.  Being Tested on Forgecraft 2.  Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
+"author":["Alblaka","player"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -8162,7 +8202,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -8945,6 +8985,16 @@
 
 },{
 
+"name":"Particle Man",
+"link":"http://bit.ly/GADI2t",
+"desc":"Wield fire particles, kill stuff BioShock style!",
+"author":["Corosus"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.4"]
+
+},{
+
 "name":"Pastries Mod",
 "link":"http://bit.ly/10DXP6T",
 "desc":"A work-in-progress mod that adds several pies, and 2 pastries so far.",
@@ -9327,6 +9377,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"QuiverBow",
+"link":"http://bit.ly/GAGjto",
+"desc":"Adds a variety of (mostly) ranged weaponry.  Everything is invented from the perspective of Steve?, to keep it lore friendly and balanced (if such things can be said to exist).",
+"author":["Domochevsky"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -12282,7 +12342,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -12728,18 +12788,18 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
-"name":"ZombieCraft",
+"name":"ZombieCraft 3",
 "other":"(Beta)",
 "link":"http://bit.ly/ZQQZrl",
 "desc":"A complete remake of ZombieCraft Classic. Taken to a whole new level, with proper multiplayer and map making support from the start. Currently in its 3rd beta, very stable and polished.<br>Features:<ul><li>Waves of zombie hordes that progress in numbers, health, and speed</li><li>15 Weapons and items to battle off the zombies</li><li>Improved AI Comrade perk to help watch your back, can be given any weapon</li><li>Speed Cola, Juggernog, Charge and ExStatic perk machines</li><li>5 maps so far: Nacht, Last Resort, Observation Deck, Verruckt, and a more open map called Invasion</li><li>Built-in Single/Multiplayer map making support</li></ul>",
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
