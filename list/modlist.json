@@ -22,12 +22,12 @@
 },{
 
 "name":"[Buildcraft] Additional Pipes",
-"link":"http://bit.ly/SdUdXc",
-"desc":"",
+"link":"http://bit.ly/1fMO3YI",
+"desc":"Adds additional piping options such as teleport pipes.",
 "author":["tcooc"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -218,7 +218,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -372,6 +372,16 @@
 
 },{
 
+"name":"[IndustrialCraft 2] Advanced Machines (immibis)",
+"link":"http://bit.ly/16lF6Qc",
+"desc":"An unnerfed version of AtomicStryker's.  Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
+"author":["immibis"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"[IndustrialCraft 2] Advanced Machines Original",
 "link":"http://bit.ly/UvGdJ4",
 "desc":"",
@@ -399,7 +409,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -711,7 +721,7 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -772,7 +782,7 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -782,7 +792,7 @@
 "author":["aidancbrady"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -792,7 +802,7 @@
 "author":["Rushmead"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -802,7 +812,17 @@
 "author":["MachineMuse"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+
+},{
+
+"name":"[Universal Electricity] Resonant Induction",
+"link":"http://bit.ly/16lLFCh",
+"desc":"Focuses on the manipulation of electricity and wireless technology.",
+"author":["Calclavia","Aidancbrady","Unpairedbracket"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -928,6 +948,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Alchemy++",
+"link":"http://bit.ly/16llNXn",
+"desc":"Implements new ways of potion brewing, combining potions together and getting potion effects not obtainable through vanilla alchemy. It also adds new ways of storing potions and some new blocks to decorate the alchemical lab.",
+"author":["mokonaDesu"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -1474,13 +1504,23 @@
 
 },{
 
-"name":"Backpacks",
+"name":"Backpacks (Brad16840)",
+"link":"http://bit.ly/1fMM6M4",
+"desc":"Adds nestable backpacks that can be opened from inside other backpacks.",
+"author":["Brad16840"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Backpacks (Eydamos)",
 "link":"http://bit.ly/WmsjDo",
 "desc":"Adds dyable backpacks to the game for storing extra items. Backpack size is configurable.",
 "author":["Eydamos"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1712,6 +1752,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"Better Signs Mod",
+"link":"http://bit.ly/16lomIS",
+"desc":"Improves the handling and visuals of standard signs.",
+"author":["Poersch"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.4.6","1.4.7","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -2778,6 +2828,16 @@
 
 },{
 
+"name":"Colourful Portals Mod",
+"link":"http://bit.ly/16ljxPS",
+"desc":"Adds colourful portals which can be created anywhere and teleport you from one to another based on colour (they also work between dimensions).  Also adds colourful water, which along with wool or stained clay, is used to create the portals.",
+"author":["Tmtravlr"],
+"type":["SSP","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Combat Bars",
 "link":"http://bit.ly/14bQNbq",
 "desc":"Adds 4 new items to Minecraft, which can help you in several situations, but aren't terribly overpowered at the same time.",
@@ -2785,6 +2845,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.0","1.5.1"]
+
+},{
+
+"name":"Combustable Lemon Launcher",
+"link":"http://bit.ly/174msbk",
+"desc":"Adds a combustible lemon launcher (a 3D-Model designed by me in Blender) and (of course) lemons. You can bind your shooting-key in the controls to whatever key you like.",
+"author":["iBuilder99"],
+"source":"https://github.com/iBuilder99/Combustible-Lemon-Launcher",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -3097,7 +3168,7 @@
 "source":"https://github.com/Uristqwerty/CraftGuide",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -3208,9 +3279,10 @@
 "link":"http://bit.ly/VFC2bC",
 "desc":"Exposes the rate at which explosions drop block items in a config file. Vanilla default is 0.3 while the mod's default is 1.0 so no block is ever completely destroyed by a creeper.",
 "author":["denoflions"],
+"source":"https://github.com/denoflionsx/CreeperCollateral",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -3724,7 +3796,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4360,6 +4432,16 @@
 "link":"http://bit.ly/15hWfIs",
 "desc":"Energy Weapon mod with responsive control. Balanced with PvP and Mo' Creatures in mind.",
 "author":["NerfPlease"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
+"name":"Engineered Farm",
+"link":"http://bit.ly/16lJqz9",
+"desc":"Adds several machines that allow you alternate ways to harvest your vanilla minecraft ores and minerals.",
+"author":["Shane Dublin"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
@@ -5216,8 +5298,8 @@
 "author":["Micdoodle8"],
 "source":"https://github.com/micdoodle8/Galacticraft",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"dependencies":["Forge Required","Micdoodle Core"],
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5661,9 +5743,10 @@
 "link":"http://bit.ly/VFC2bC",
 "desc":"A Forge CoreMod that gives you complete control over your player skin and cloak. Use any size skin or cloak!",
 "author":["denoflions"],
+"source":"https://github.com/denoflionsx/HDSAC",
 "type":["Universal"],
 "dependencies":["Forge Compatible","denLib Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -6030,7 +6113,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6041,7 +6124,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6144,7 +6227,18 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"InfinityBound",
+"link":"http://bit.ly/1fMGu4n",
+"desc":"Adds in new ores, tools, and lamb chops with more to come.",
+"author":["xlash123"],
+"source":"https://www.dropbox.com/s/j8345o2mpne1vge/src-InfinityBound.zip",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6715,7 +6809,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7178,6 +7272,17 @@
 
 },{
 
+"name":"Micdoodle Core",
+"other":"(Dependency)",
+"link":"http://bit.ly/174l9ZV",
+"desc":"Core file for Galacticraft.",
+"author":["micdoodle8"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Middleage Mod",
 "link":"http://bit.ly/13b0vsE",
 "desc":"Adds middleage themed content to the game.",
@@ -7267,7 +7372,7 @@
 "source":"https://github.com/MineMaarten/MineChess",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7393,6 +7498,16 @@
 
 },{
 
+"name":"Minegicka II",
+"link":"http://bit.ly/16lJO0g",
+"desc":"Bring the aspects of Magicka into the game, with additional features.",
+"author":["Will.Eze"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"Minekawaii",
 "link":"http://bit.ly/YQNEuE",
 "desc":"A simple mod for all of your favorite Japanese snacks, in Minecraft!",
@@ -7410,6 +7525,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+
+},{
+
+"name":"Minesweeper Mod",
+"link":"http://bit.ly/16lvqFm",
+"desc":"Adds the old school Minesweeper game into the game. Solving puzzles gives you loot, and puzzles can be found in custom Minesweeper dungeons.",
+"author":["MineMaarten"],
+"source":"https://github.com/MineMaarten/MinesweeperMod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8662,6 +8788,17 @@
 
 },{
 
+"name":"NumiRP",
+"link":"http://bit.ly/16lCAte",
+"desc":"Temporary replacement for world-gen and decorative blocks from RP2",
+"author":["Numerios"],
+"source":"https://github.com/numerios/NumiRP",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.0","1.5.1","1.5.2"]
+
+},{
+
 "name":"nZuR's RPG",
 "link":"http://bit.ly/ZOaWin",
 "desc":"Adds many new ores, armours, tools, and weapons.",
@@ -9116,9 +9253,20 @@
 
 },{
 
+"name":"PneumaticCraft",
+"other":"(WIP)",
+"link":"http://bit.ly/16ltw7I",
+"desc":"This technical mod is all about pressurized air. It adds Elevators, Pressure Chambers, Air Cannons, Pneumatic Armor (Iron Man like), and much more...",
+"author":["MineMaarten"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"Poop",
 "link":"http://bit.ly/WrhgtF",
-"desc":"Adds poop-related items into Minecraft.. . . -sigh- . . .",
+"desc":"Adds poop-related items into Minecraft.<br/><br/>. . . -sigh- . . .",
 "author":["Tominator1"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9173,6 +9321,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+
+},{
+
+"name":"Power Tools",
+"link":"http://bit.ly/16lpJHJ",
+"desc":"Power tools adds four new tools to the game to make mining and digging much more efficient.",
+"author":["Cuchaz"],
+"source":"https://bitbucket.org/cuchaz/power-tools",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -9553,10 +9712,10 @@
 
 "name":"Recipe Book",
 "link":"http://bit.ly/WnSwBj",
-"desc":"This item, when used, opens up a GUI of every recipe that can be done. The items can not be touched, but you can read the tool tips. Left click moves to next recipe. Right click moves to previous recipe.",
+"desc":"This item, when used, opens up a GUI of every recipe that can be done. The items can not be touched, but you can read the tool tips. Left click moves to next recipe. Right click moves to previous recipe.<br/><br/>If you need a version for Forge, see CraftGuide.",
 "author":["Risugami"],
 "type":["SSP"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Not Forge Compatible"],
 "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
@@ -9599,7 +9758,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core","Immibis's Microblocks"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10390,6 +10549,16 @@
 
 },{
 
+"name":"Soft Hardcore",
+"link":"http://bit.ly/16lHbvw",
+"desc":"Permanently lose one heart of your max health on death. Also makes mobs slightly harder.",
+"author":["PhineasSurrey"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2"]
+
+},{
+
 "name":"SojaCraft",
 "link":"http://bit.ly/Zx0FKY",
 "desc":"Makes it possible to get meat without killing animals.",
@@ -10397,6 +10566,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+
+},{
+
+"name":"Sokoban Mod",
+"link":"http://bit.ly/16lw4mc",
+"desc":"Adds the game Sokoban to the game. Sokoban sounds unfamiliar, but everyone knows it. Over 10 different levels can be found throughout Minecraftia.",
+"author":["MineMaarten"],
+"source":"https://github.com/MineMaarten/Sokoban-Mod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10784,9 +10964,9 @@
 "link":"http://bit.ly/11uXKna",
 "desc":"Adds over 30 different glass blocks, including stairs, colored glass, obsidian styled glass and an Xray glass block.",
 "author":["ShreddieNut"],
-"type":["SSP"],
+"type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -11160,7 +11340,7 @@
 "author":["Damoniy"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11170,7 +11350,7 @@
 "author":["Fabiulu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11877,7 +12057,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12009,7 +12189,7 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12608,7 +12788,7 @@
 "author":["Xhamolk_"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.5.1","1.6.2"]
 
 },{
 
