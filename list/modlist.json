@@ -857,6 +857,16 @@
 
 },{
 
+"name":"Advanced Genetics",
+"link":"http://bit.ly/15bQmOp",
+"desc":"Allows you to get the special abilities of a mob and to combine them with yourself. So it is possible to explode!",
+"author":["ObsiLP"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Advanced HUD",
 "link":"http://bit.ly/UxaOWE",
 "desc":"A mod that allows you to customize the in-game HUD.",
@@ -1541,6 +1551,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"Balanced Exchange",
+"link":"http://bit.ly/15NTrqf",
+"desc":"Adds block and item transmutation. Inspired by EE2",
+"author":["Brad16840"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2365,7 +2385,7 @@
 "source":"https://github.com/alix-the-alicorn/Carbon-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required","Carbon Mod Core"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -2804,7 +2824,7 @@
 "author":["Torquebolt"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.1"]
+"versions":["1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -4116,6 +4136,16 @@
 
 },{
 
+"name":"Extreme Blocks",
+"link":"http://bit.ly/15aVMJv",
+"desc":"Adds new tools, blocks, and items, also adding ores to both the Overworld and Nether.",
+"author":["Fir3will"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Edible Ores Mod",
 "link":"http://bit.ly/VoFAzl",
 "desc":"Adds edible versions of ores to the game, as well as a few to world generation.",
@@ -4688,7 +4718,7 @@
 "author":["RWTema"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -6644,11 +6674,21 @@
 
 "name":"Lanterns Mod",
 "link":"http://bit.ly/VK35QB",
-"desc":"",
+"desc":"Adds lanterns which can be carried and will emit light around the player when switched on. The light can be seen by other players on SMP.",
 "author":["HyperNerd"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.4.6","1.4.7","1.5.2"]
+
+},{
+
+"name":"Lantern Mod",
+"link":"http://bit.ly/15aZxOU",
+"desc":"Adds candles and a portable light-source with 3D model to the game.",
+"author":["FLUFFY"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -6965,7 +7005,7 @@
 "author":["Kuuu"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -7006,6 +7046,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.5.2"]
+
+},{
+
+"name":"Magic Clover",
+"link":"http://bit.ly/1a91cnW",
+"desc":"Adds four-leaf clovers to game! You can use this item as food or to get a random block, item, or creeper-I mean block or item. Yeah. No creepers here.",
+"author":["konwboj"],
+"source":"https://github.com/konwboj/MagicClover",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -7458,6 +7509,17 @@
 
 },{
 
+"name":"MineDonalds",
+"link":"http://bit.ly/15b13ka",
+"desc":"Adds McDonalds to the game.  Includes foods, mobs, and a dimension.",
+"author":["iLexiconn"],
+"source":"https://github.com/iLexiconn/MineDonalds",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"MineFactory Reloaded",
 "link":"http://bit.ly/VW7qTy",
 "desc":"MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.",
@@ -7867,9 +7929,9 @@
 "link":"http://bit.ly/1avOwXq",
 "desc":"Adds more blocks, and a few items for certain blocks.",
 "author":["MCE626"],
-"type":["SSP"],
+"type":["SSP","LAN"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.6.4"]
 
 },{
 
@@ -9142,6 +9204,16 @@
 
 },{
 
+"name":"Persistent Items",
+"link":"http://bit.ly/19oW9mZ",
+"desc":"Persistent Items allow administrator control over what items can despawn from the world.",
+"author":["Neometron"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Pet Bat",
 "link":"http://bit.ly/as-petbats",
 "desc":"Lets you tame and level-up bats, which will fight for you.",
@@ -9159,6 +9231,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"PickItUp",
+"link":"http://bit.ly/15bcg44",
+"desc":"Pick up and move blocks with your bare hands, even complex ones like signs and chests!",
+"author":["FunnyMan3595"],
+"source":"https://github.com/FunnyMan3595/PickItUp",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -9832,6 +9915,16 @@
 
 },{
 
+"name":"Redstone Paste Mod",
+"link":"http://bit.ly/15bRtgO",
+"desc":"Adds a paste form of redstone dust, which will stick to a variety of surfaces, including ceilings and walls.",
+"author":["FyberOptic"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Redstone Tools",
 "link":"http://bit.ly/1aIFtp1",
 "desc":"Adds redstone tools and armour.",
@@ -10281,6 +10374,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1"]
+
+},{
+
+"name":"Simple Portables",
+"link":"http://bit.ly/1hrLjvq",
+"desc":"Adds two new items. With first you can remotely access any block with inventory. Second item is pocket anvil, enchant, crafting and ender chest!",
+"author":["konwboj"],
+"source":"https://github.com/konwboj/SimplePortables",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -11825,7 +11929,7 @@
 "source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -11925,7 +12029,7 @@
 "author":["Torojima"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.5.2","1.6.2","1.6.4"]
 
 },{
 
