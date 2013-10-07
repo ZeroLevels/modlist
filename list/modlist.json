@@ -324,11 +324,11 @@
 
 "name":"[Forestry] Extra Bees",
 "link":"http://bit.ly/WCTXws",
-"desc":"",
+"desc":"Extra bees for Forestry. Link leads to Hanfox's unofficial page as the official is currently down. Click the numbers to show information/downloads.",
 "author":["Binnie"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -368,7 +368,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1111,6 +1111,16 @@
 
 },{
 
+"name":"AnimationAPI",
+"link":"http://bit.ly/1bNyxqy",
+"desc":"An API that allows mod makers to create animated entities more easily.",
+"author":["thehippomaster21"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"AntiSteve",
 "link":"http://bit.ly/UxbOKv",
 "desc":"Sets the default skin server to Mojang's old skin server, possibly fixing skins not loading should their new server be down.",
@@ -1631,7 +1641,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1882,6 +1892,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
+
+},{
+
+"name":"BetterFonts",
+"link":"http://bit.ly/GGBZc3",
+"desc":"Adds TrueType/OpenType font support. It will use the fonts installed on your system for drawing text instead of the built-in bitmap fonts.",
+"author":["thvortex","iSuzutsuki"],
+"source":"github.com/secretdataz/BetterFonts",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -3499,6 +3520,16 @@
 
 },{
 
+"name":"Custom Recipes",
+"link":"http://bit.ly/GDckRd",
+"desc":"Allows you to create custom recipes for blocks/items and some mods using a simple text file.",
+"author":["MightyPork"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"Custom Stuff 2",
 "link":"http://bit.ly/13dry5y",
 "desc":"Allows you to add content to minecraft with simple text files. You can also send your created content in a zip to your friends and they have only put this zip into the custom stuff 2 mods directory. You can create chests, furnaces, ladders, torches that can also be placed on the ceiling, armory, food, potions, crafting recipes and much more.",
@@ -4020,7 +4051,7 @@
 "author":["AtomicStryker"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4739,7 +4770,7 @@
 "source":"https://github.com/ExtrabiomesXL/ExtrabiomesXL",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4961,7 +4992,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5173,7 +5204,7 @@
 "author":["SirSengir"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6237,7 +6268,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6586,7 +6617,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6855,13 +6886,13 @@
 
 "name":"LiteLoader",
 "other":"(API)",
-"link":"http://bit.ly/WnFEuT",
+"link":"http://bit.ly/18mKFgD",
 "desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. It is designed to run alongside ModLoader and Minecraft Forge and LiteLoader mods will not conflict with ModLoader or Forge mods.",
 "author":["Mumfrey"],
 "source":"https://www.assembla.com/spaces/liteloader/stream",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7025,7 +7056,7 @@
 "author":["Mumfrey"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7086,7 +7117,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7118,7 +7149,7 @@
 "source":"https://github.com/daveyliam/mapwriter",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7350,7 +7381,7 @@
 "author":["Kinniken"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7376,23 +7407,12 @@
 
 "name":"Mine & Blade: Battlegear 2",
 "link":"http://bit.ly/1ccxikD",
-"desc":"Provides new combat features and allows players weild a second weapon or shield.",
-"author":["Mine_and_Blade_Admin"],
+"desc":"Provides new combat features and allows players wield a second weapon or shield.",
+"author":["Nerd_Boy","Oliv1er"],
 "source":"https://github.com/Mine-and-blade-admin/Battlegear2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.1","1.6.2"]
-
-},{
-
-"name":"Mine & Blade: Battlegear 2",
-"link":"http://bit.ly/1ccxikD",
-"desc":"Provides new combat features, including new weapons.",
-"author":["Mine_and_Blade_Admin"],
-"source":"https://github.com/Mine-and-blade-admin/Battlegear2",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7667,7 +7687,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8440,7 +8460,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9220,7 +9240,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9231,6 +9251,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"Photoreal",
+"link":"http://bit.ly/ichun-photoreal",
+"desc":"This mod adds a camera, as found in CorridorDigital's Photoreal, when snapped it forms a screen ahead of the player, showing the view that was just there. Kinda hard to explain.",
+"author":["iChun"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10051,7 +10081,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10111,7 +10141,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10161,7 +10191,7 @@
 "author":["MickKay"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10414,7 +10444,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10875,7 +10905,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11257,7 +11287,7 @@
 },{
 
 "name":"Thaumcraft 3",
-"link":"http://bit.ly/XDdxic",
+"link":"http://bit.ly/1bNyb3j",
 "desc":"Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
 "author":["Azanor"],
 "type":["Universal"],
@@ -11266,14 +11296,35 @@
 
 },{
 
+"name":"Thaumcraft 4",
+"link":"http://bit.ly/1bNyb3j",
+"desc":"Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
+"author":["Azanor"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"[Thaumcraft 3] Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
-"desc":"A spiritual successor to my Elemental Tinkerer mod, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft researches. As of the current release, there are 18 new things you can research, 2 of them being from Knowledge Fragments. Researches that come from this mod are prefixed as [TT] for easy labelling.",
+"desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/ThaumicTinkerer",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"[Thaumcraft 4] Thaumic Tinkerer",
+"link":"http://bit.ly/12L9teo",
+"desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 4. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
+"author":["Vazkii"],
+"source":"https://github.com/Vazkii/ThaumicTinkerer",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -13093,6 +13144,6 @@
 "author":["Zyin055"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 }]
