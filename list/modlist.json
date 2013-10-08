@@ -148,7 +148,7 @@
 "author":["kingrunes"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -560,7 +560,7 @@
 "author":["SeNtiMeL"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -987,7 +987,7 @@
 "author":["iwa_yukinoshita"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1431,6 +1431,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
+
+},{
+
+"name":"Auto-Fisher",
+"link":"http://bit.ly/GJUs7X",
+"desc":"Automatically reels in when detecting that you've caught a fish, as well as automatically re-casting the line.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -2017,6 +2027,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+
+},{
+
+"name":"Biome Wand",
+"link":"http://bit.ly/GIkO9W",
+"desc":"Adds a wand that lets you change a small area of land into a different biome. You must first sample a biome before it's usable.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.4.6","1.4.7","1.5.0","1.6.2"]
 
 },{
 
@@ -2970,6 +2990,17 @@
 
 },{
 
+"name":"Component Equipment",
+"other":"(WIP)",
+"link":"http://bit.ly/GIoo40",
+"desc":"Allows you to make the different parts of tools out of different materials and combine them in whatever combination you desire, much like Tinkers' Construct.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"Compressed Cobblestone",
 "link":"http://bit.ly/ZLJ2oC",
 "desc":"Lets you compress cobblestone to save inventory space (1024 (16 stacks) can be compressed down to 1).",
@@ -2997,6 +3028,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.4","1.4.5","1.5.2","1.6.2"]
+
+},{
+
+"name":"Condensed Potions",
+"link":"http://bit.ly/19vtnkK",
+"desc":"Lets you condense 9 potions into a single one using a similar recipe to metal storage blocks.  Nine of the same potions in a crafting table will give you a single.  Depending on the type, this will also return the 9 bottles once you've used all 9 sips of the potion.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.6.2"]
 
 },{
 
@@ -3711,6 +3752,16 @@
 
 },{
 
+"name":"Decorative Stuff",
+"link":"http://bit.ly/GIlaNK",
+"desc":"Adds armor stands and plates that you can place food on, giving some their own unique model, such as pumpkin pie, chicken, and apples. More is planned.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.1","1.6.2"]
+
+},{
+
 "name":"Decraft Mod",
 "link":"http://bit.ly/13A1VAq",
 "desc":"Adds the ability to craft many finished products back into the raw materials.",
@@ -3900,6 +3951,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","LomLib Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"DLC Craft",
+"link":"http://bit.ly/1bS2x4s",
+"desc":"Allows you to find coins in world gen chests that let you unlock features of the game.",
+"author":["Abascus"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -4380,12 +4441,12 @@
 },{
 
 "name":"Enchanting Plus",
-"link":"http://bit.ly/UvMdBK",
+"link":"http://bit.ly/GIvqWc",
 "desc":"Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.",
 "author":["mssodin28"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4642,6 +4703,16 @@
 
 },{
 
+"name":"Everlasting Tools",
+"link":"http://bit.ly/15iwDMW",
+"desc":"Adds an expensive enchantment that can be crafted onto a tool to give it infinite durability. Once created, it will no longer be capable of upgrades via the anvil aside from renaming, so enchant it to your liking before-hand.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.6.2"]
+
+},{
+
 "name":"Exp Chest",
 "link":"http://bit.ly/GAB3pq",
 "desc":"A simple experience chest. Best used if you are a high level and don't want to take a chance at losing your exp when you go adventuring. Also good if you just want so save up your exp without having the risk of one of those pesky creepers killing you while you're just getting a few resources.",
@@ -4690,6 +4761,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Extended Enchants",
+"link":"http://bit.ly/1hyek8I",
+"desc":"Extends the Max Levels of many Vanilla Enchantments. For example, Protection 10, Unbreaking 5, Fortune 5. Fully compatible with Enchanting Plus.",
+"author":["SimtropBuggi"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -7934,6 +8015,16 @@
 
 },{
 
+"name":"Monster Hunter Frontier Craft",
+"link":"http://bit.ly/1bS6beI",
+"desc":"Adds a new dimension, new blocks, items, weapons, armors, ores and, most of all, mobs that have different attack variations.",
+"author":["Heltrato"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Monster Spawn Highlighter",
 "link":"http://bit.ly/Sw1AcJ",
 "desc":"This mod has separate ModLoader and Forge versions.See bit.ly/modloaderHighlights any blocks where monsters can spawn.",
@@ -8744,8 +8835,8 @@
 "desc":"Prevents fire from spreading.",
 "author":["soccerguy3"],
 "type":["SSP"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
+"dependencies":["Forge Compatible"],
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.4"]
 
 },{
 
@@ -8755,7 +8846,7 @@
 "author":["soccerguy3"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.4"]
 
 },{
 
@@ -9694,11 +9785,11 @@
 
 "name":"Rancraft Penguins",
 "link":"http://bit.ly/Wdr4Nt",
-"desc":"Adds twelve different species of penguins to your world.",
+"desc":"Adds fifteen different species of penguins to your world.",
 "author":["immediately"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10848,6 +10939,16 @@
 
 },{
 
+"name":"Spelunker Dimension",
+"link":"http://bit.ly/GIkk3A",
+"desc":"Adds a dimension made purely of stone, full of ores on all levels. Beware, however. There are more dangers and traps as well.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"Sports Mod",
 "link":"http://bit.ly/VFMccu",
 "desc":"",
@@ -11151,6 +11252,16 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"Survival Wings",
+"link":"http://bit.ly/19vswR0",
+"desc":"Adds degradeable sets of wings that can be crafted in Survival mode that let you fly.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -12094,6 +12205,16 @@
 
 },{
 
+"name":"Toxic Rain",
+"link":"http://bit.ly/GImEHT",
+"desc":"Makes vanilla rain poisonous.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.5.2","1.6.2"]
+
+},{
+
 "name":"Trail Mix",
 "link":"http://bit.ly/YOigbZ",
 "desc":"Adds all sort of crazy stuff. No really, there's freaking nyan pigs, pig launchers, powerfully pooting pigs, and cartoony POW and BAM shoot icons!",
@@ -12328,6 +12449,16 @@
 
 },{
 
+"name":"Universal Blocks",
+"link":"http://bit.ly/1bS1lOz",
+"desc":"Allows for the creation of slabs and stairs made out of any material, including modded ones.",
+"author":["Abascus"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"Universal Coins Mod",
 "link":"http://bit.ly/15wh04o",
 "desc":"A mod that makes coins work for you and u can buy and sell stuff through one block the trade station :)",
@@ -12395,6 +12526,16 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"Useful Pets",
+"link":"http://bit.ly/GInfcu",
+"desc":"Allows you to level up tamable pets, as well as have them earn new skills, such as mountable, which lets you ride them. Works with wolves, cats, and pigs.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
