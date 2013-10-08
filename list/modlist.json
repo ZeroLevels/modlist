@@ -7631,6 +7631,16 @@
 
 },{
 
+"name":"MineFactory Reloaded",
+"link":"http://bit.ly/1hyiLR0",
+"desc":"MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.",
+"author":["skyboy026"],
+"type":["Universal"],
+"dependencies":["Forge Required","PowerCrystals Core"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"MineFantasy",
 "link":"http://bit.ly/UcZLj8",
 "desc":"MineFantasy adds difficulty to the game by expanding the progression through mining, crafting and smelting, adding a longer tier of metals and processes from forging, smelting, alloying, tanning, and refining. As well as a range of monsters, pvp opportunities and decorations to add difficulty and a middle-aged gameplay experience.",
@@ -8800,6 +8810,16 @@
 
 },{
 
+"name":"Nether Ores",
+"link":"http://bit.ly/1hyjzp8",
+"desc":"Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.",
+"author":["skyboy026"],
+"type":["Universal"],
+"dependencies":["Forge Required","PowerCrystals Core"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"NetherStuffs",
 "link":"http://bit.ly/YbHbvc",
 "desc":"Adds ores and Trees to the Nether and also allows gathering of Soul Energy from mobs to be used in other Machinery. Also adds a torchbow!",
@@ -9557,6 +9577,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7","1.5.1","1.5.2"]
+
+},{
+
+"name":"PowerCrystals Core",
+"other":"(Dependency)",
+"link":"http://bit.ly/1hyiAFv",
+"desc":"You need this for Minefactory Reloaded and Nether Ores to work.",
+"author":["skyboy026"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
