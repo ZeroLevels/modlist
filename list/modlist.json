@@ -1137,7 +1137,7 @@
 "author":["AlgorithmX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1147,7 +1147,7 @@
 "author":["Leonelf"],
 "type":["Universal"],
 "dependencies":["Forge Required","Applied Energistics"],
-"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1318,7 +1318,7 @@
 "author":["castielq"],
 "type":["Universal"],
 "dependencies":["Forge Required","Render Player API"],
-"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1459,8 +1459,8 @@
 "desc":"This mod has separate ModLoader and Forge versions.See bit.ly/modloaderA highly-configurable, advanced mod that automatically switches to the correct tool when mining a block and automatically uses the correct weapon when attacking a mob or a player. It will also switch back to your previous item when you are done mining or attacking a mob, useful for building and going on mining trips.",
 "author":["thebombzen"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.5.0"]
+"dependencies":["Forge Compatible","Modloader Compatible","ThebombzenAPI"],
+"versions":["1.5.0","1.6.2"]
 
 },{
 
@@ -1655,6 +1655,16 @@
 
 },{
 
+"name":"Battle Music",
+"link":"http://bit.ly/16V7yUv",
+"desc":"Adds music that cues while the player is fighting enemies to get your adrenaline pumping during battles.",
+"author":["Mr. okushama"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"BearGrylls Mod",
 "link":"http://bit.ly/ZUIFVC",
 "desc":"Allows you to eat every single thing in minecraft by holding R key (customizable).",
@@ -1831,7 +1841,7 @@
 "author":["chylex"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1974,7 +1984,7 @@
 "author":["Nuchaz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2118,6 +2128,16 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Blood Magic",
+"link":"http://bit.ly/1hyl5HK",
+"desc":"An arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly.",
+"author":["WayofTime"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -2608,7 +2628,7 @@
 "author":["AUTOMATIC_MAIDEN"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -3507,6 +3527,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.3.2","1.4.6","1.4.7"]
+
+},{
+
+"name":"Custom Flags",
+"link":"http://bit.ly/1cttDSs",
+"desc":"Allows you to design and create custom flags in-game.",
+"author":["nerd-boy"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -5607,6 +5637,16 @@
 
 },{
 
+"name":"Godzilla",
+"link":"http://bit.ly/GMF89x",
+"desc":"Speaks for itself. Adds Godzilla into the game.",
+"author":["Tihyo"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2"]
+
+},{
+
 "name":"Good Night's Sleep",
 "link":"http://bit.ly/GAwoUL",
 "desc":"Adds two new dimensions, the good dream and the nightmare. Each dream land is accessed through sleeping in its corresponding bed, rather than stepping through a portal.",
@@ -6377,7 +6417,7 @@
 "link":"http://bit.ly/1fMGu4n",
 "desc":"Adds in new ores, tools, and lamb chops with more to come.",
 "author":["xlash123"],
-"source":"https://www.dropbox.com/s/j8345o2mpne1vge/src-InfinityBound.zip",
+"source":"https://github.com/xlash123/InfinityBound",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.6.1","1.6.2","1.6.4"]
@@ -7098,6 +7138,16 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7"]
+
+},{
+
+"name":"Lycanite's Mobs",
+"link":"http://bit.ly/1ctxMpn",
+"desc":"Adds several hostile and biome specific mobs into the game.",
+"author":["Lycanite"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -8790,13 +8840,14 @@
 
 },{
 
-"name":"Nether Fortress Bounding Box Outline",
+"name":"Bounding Box Outline",
 "link":"http://bit.ly/133miiH",
-"desc":"",
+"desc":"Outlines component bounding boxes of nether fortresses and other structures. Those are important because they directly influence the spawning of Wither Skeletons/Witches.",
 "author":["4poc"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.2"]
+"source":"https://github.com/4poc/bboutline",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.4.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -8948,6 +8999,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
 "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"[Not Enough Items] NEI Plugins",
+"link":"http://bit.ly/14h8yXi",
+"desc":"Plugin for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct support in chicken_bones' Not Enough Items (NEI).",
+"author":["mistaqur"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9295,13 +9356,14 @@
 
 },{
 
-"name":"Parachute mod",
+"name":"Parachute Mod",
 "link":"http://bit.ly/TGjeZl",
 "desc":"Allows you to jump from high places and control your decent. Now Minecraft base jumping is possible! The parachute pretty much steers just like the boat. Only difference is that it's not as easy to tell where the front of the chute is.  The front of the parachute can be found by looking up or from third-person view. The parachute cords are more red on the right side of the parachute. It's fun! It only takes a few jumps to learn to skydive!",
 "author":["crackedEgg"],
+"source":"https://github.com/m1k3s/parachute",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9403,6 +9465,17 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+
+},{
+
+"name":"Pirates",
+"other":"(WIP)",
+"link":"http://bit.ly/GMCEbb",
+"desc":"Generates pirate ships in your world and adds a whole load of blocks and items to do with piracy and the sea itself.",
+"author":["Koadmaster"],
+"type":["SSP","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -9800,7 +9873,7 @@
 "author":["CovertJaguar"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10131,9 +10204,10 @@
 "link":"http://bit.ly/TGjeZl",
 "desc":"Adds various reptile mobs to the game.",
 "author":["crackedEgg"],
+"source":"https://github.com/m1k3s/reptiles",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10740,7 +10814,7 @@
 "desc":"Provides various additional moving possibilities, such as climbing, crawling, sliding, and alternate swim/fly/fall animations.",
 "author":["Divisor"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader Compatible","Player API Required","Render Player API Required"],
 "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
 
 },{
@@ -12260,9 +12334,9 @@
 "link":"http://bit.ly/RBXBcJ",
 "desc":"Adds more than 80 trains, wagons and other moving vehicles to the game.",
 "author":["Traincraft"],
-"type":["SSP","SMP","LAN"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12767,9 +12841,10 @@
 "link":"http://bit.ly/TGjeZl",
 "desc":"Zombies in the daytime! Walkers are everywhere, be careful. The walkers will attack players, chickens and pigs. There are options in the config file to allow or disallow spawning of zombies, skeletons, creepers, spiders, slime, and endermen.",
 "author":["crackedEgg"],
+"source":"https://github.com/m1k3s/walkingdead",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
