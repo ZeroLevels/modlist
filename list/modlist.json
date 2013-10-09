@@ -675,16 +675,6 @@
 
 },{
 
-"name":"[Not Enough Items] NEI_plugins",
-"link":"http://bit.ly/14h8yXi",
-"desc":"Adds recipe support for many larger tech mods. Shows recipes from machines from Forestry, RedPower, IndustrialCraft 2, and Buildcraft.",
-"author":["mistaqur"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7"]
-
-},{
-
 "name":"[Thaumcraft 3] Essentia Everything",
 "link":"http://bit.ly/Xhovos",
 "desc":"This addon has two major features. Firstly, it automatically adds support for all ores, nuggets, ingots, and dusts registered with Forge's Ore Dictionary. Secondly, it adds the ability to add or adjust aspects for just about anything, vanilla or modded.",
@@ -1342,6 +1332,17 @@
 
 },{
 
+"name":"Atlanticraft",
+"other":"(WIP)",
+"link":"http://bit.ly/17lV6xB",
+"desc":"More Underwater Content such as diving armor, biomes, and mobs.",
+"author":["dalivinfart"],
+"type":["SSP","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"AtmosMobs",
 "link":"http://bit.ly/Xc75eg",
 "desc":"Adds many new mobs to the game to create a more pleasant/realistic atmosphere. Supports ExtraBiomesXL/Biomes 'O PLenty",
@@ -1581,16 +1582,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.6.2","1.6.4"]
-
-},{
-
-"name":"Balanced Rotten Flesh to Leather Mod",
-"link":"http://bit.ly/12i3UD8",
-"desc":"Adds a crafting recipe which requires 8 smelted zombie flesh to craft 3 leather pieces.",
-"author":["The_Kurta3"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2"]
 
 },{
 
@@ -2811,9 +2802,9 @@
 "link":"http://bit.ly/13jfCjM",
 "desc":"Adds stone and cobblestone sets of armour as well as a cobblestone variant of the stone sword.",
 "author":["I_Iz_Shahid"],
-"type":["Universal"],
-"dependencies":["Forge Compatible","ModLoader Version Available"],
-"versions":["1.4.6","1.4.7"]
+"type":["SSP","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -5404,6 +5395,16 @@
 
 },{
 
+"name":"FpsPlus",
+"link":"http://bit.ly/17lVWub",
+"desc":"Changes how math is defined in minecraft and results in anywhere from 3-80 FPS gain, many different versions available and a version that removes alot more lag but that version has some incompatibilities while the rest will work with any mod.",
+"author":["abandenz"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"FreezeCam",
 "link":"http://bit.ly/GAFgcQ",
 "desc":"Lets you freeze your camera to a certain position, allowing you to walk away from your camera.",
@@ -5592,6 +5593,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+
+},{
+
+"name":"Gliby's Voice Chat Mod",
+"link":"http://bit.ly/1fYInep",
+"desc":"Adds 3D voice chat, regional voice chat, and global voice chat. Does not use an external program such as Skype or Mumble.",
+"author":["Gliby"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2"]
 
 },{
 
@@ -7751,6 +7762,27 @@
 
 },{
 
+"name":"Mineshot",
+"link":"http://bit.ly/1fYILJP",
+"desc":"Allows you to create extremely detailed screenshots far beyond the size of your screen by combining multiple screenshots seamlessly from a virtual camera array. Theoretically, the dimensions are limited only by available memory, hard disk space and your patience.",
+"author":["BarracudaATA"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+
+},{
+
+"name":"Minestrappolation",
+"link":"http://bit.ly/13GxCFt",
+"desc":"Adds several new mods to the game, sort of like a modpack. Each mod adds vast amounts of blocks and items already related to the feel of vanilla.",
+"author":["SoBiohazardous","Delocuro"],
+"source":"https://github.com/sobiohazardous/minestrappolation-recode",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"Minesweeper Mod",
 "link":"http://bit.ly/16lvqFm",
 "desc":"Adds the old school Minesweeper game into the game. Solving puzzles gives you loot, and puzzles can be found in custom Minesweeper dungeons.",
@@ -9008,7 +9040,7 @@
 "author":["mistaqur"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9561,6 +9593,16 @@
 
 },{
 
+"name":"Pokecube",
+"link":"http://bit.ly/16wq2iZ",
+"desc":"Adds Pokemon to the game that provides the user with a real time battle system and a world full of Pokemon to explore.",
+"author":["Manchou"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.4.4","1.4.5","1.5.1","1.5.2"]
+
+},{
+
 "name":"Poop",
 "link":"http://bit.ly/WrhgtF",
 "desc":"Adds poop-related items into Minecraft.<br/><br/>. . . -sigh- . . .",
@@ -9588,6 +9630,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
 "versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Power Boxes",
+"link":"http://bit.ly/1fYGhLG",
+"desc":"Adds storage and conversion of energy from and to both Buildcraft and IndustrialCraft 2.",
+"author":["Lordmau5"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -10452,6 +10504,16 @@
 
 },{
 
+"name":"SecurityCraft",
+"link":"http://bit.ly/16wpGJ8",
+"desc":"Adds keypads, laser tripwires, unbreakable blocks and more!",
+"author":["Geforce132"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"SettingsAPI",
 "link":"http://bit.ly/Zg5DXK",
 "desc":"",
@@ -10754,6 +10816,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.6.2","1.6.4"]
+
+},{
+
+"name":"Slender Chicken",
+"link":"http://bit.ly/17lWRuK",
+"desc":"Adds the Slenderchicken mob and the Slenderchicken dimension, wich will be played like the game Slender.",
+"author":["buster_the_dog"],
+"source":"https://github.com/buster-the-dog/slenderchicken",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -11675,6 +11748,16 @@
 
 },{
 
+"name":"The Elements Mod",
+"link":"http://bit.ly/16woKEB",
+"desc":"Adds in The Elements of Harmony from the TV show My Little Pony: Friendship is Magic.",
+"author":["SageZenol"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"The Empyrean",
 "link":"http://bit.ly/Z6wyoD",
 "desc":"",
@@ -12300,6 +12383,16 @@
 
 },{
 
+"name":"TotalRPG",
+"link":"http://bit.ly/184iH87",
+"desc":"Adds new blocks, items, tools, and a dimension.",
+"author":["NoobyHax"],
+"type":["SSP","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"Touhou Items Mod",
 "link":"http://bit.ly/XDfmMd",
 "desc":"Adds a lot of things such as weapons, foods, and some magic meterials into the game. In Touhou Style~!",
@@ -12449,7 +12542,7 @@
 "source":"https://github.com/maxpowa/tukmc",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
