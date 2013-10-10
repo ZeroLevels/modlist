@@ -5,7 +5,7 @@ include('panel/magic.php');
 
 function readJSON() {
 	if(!isset($GLOBALS['mods'])) {
-		$JSONfile = recode(file_get_contents('list/modlist.json'));
+		$JSONfile = recode(file_get_contents('resources/data/modlist.json'));
 		$GLOBALS['mods'] = sortAlpha(json_decode($JSONfile));
 	}
 	return $GLOBALS['mods'];
