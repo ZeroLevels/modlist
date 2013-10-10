@@ -1,6 +1,7 @@
 <?php
 set_include_path($_SERVER['DOCUMENT_ROOT']);
 require_once('resources/scripts/engine.php');
+date_default_timezone_set('UTC');
 $page = new Page;
 $page->setTitle('Home');
 $page->startBody();
@@ -16,25 +17,25 @@ $page->startBody();
 <div class="row">
 	<div class="col-sm-6 col-lg-3">
 		<h2>1.6.4</h2>
-		<p><i>Last Updated 30th September, 2013</i></p>
+		<p><i>Last Updated <?php echo changelogDate('1.6.4') ?></i></p>
 		<p><?php echo changelogParse('1.6.4') ?></p>
 		<p><a class="btn btn-primary" href="/version/1.6.4">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.6.4">View all changes &raquo;</a></p>
 	</div>
 	<div class="col-sm-6 col-lg-3">
 		<h2>1.6.2</h2>
-		<p><i>Last Updated 24th September, 2013</i></p>
+		<p><i>Last Updated <?php echo changelogDate('1.6.2') ?></i></p>
 		<p><?php echo changelogParse('1.6.2') ?></p>
 		<p><a class="btn btn-primary" href="/version/1.6.2">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.6.2">View all changes &raquo;</a></p>
 	</div>
 	<div class="col-sm-6 col-lg-3">
 		<h2>1.6.1</h2>
-		<p><i>Last Updated 10th September, 2013</i></p>
+		<p><i>Last Updated <?php echo changelogDate('1.6.1') ?></i></p>
 		<p><?php echo changelogParse('1.6.1') ?></p>
 		<p><a class="btn btn-primary" href="/version/1.6.1">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.6.1">View all changes &raquo;</a></p>
 	</div>
 	<div class="col-sm-6 col-lg-3">
 		<h2>1.5.2</h2>
-		<p><i>Last Updated 24th September, 2013</i></p>
+		<p><i>Last Updated <?php echo changelogDate('1.5.2') ?></i></p>
 		<p><?php echo changelogParse('1.5.2') ?></p>
 		<p><a class="btn btn-primary" href="/version/1.5.2">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.5.2">View all changes &raquo;</a></p>
 	</div>
@@ -45,7 +46,14 @@ echo $page->render('resources/templates/modlist-template.php');
 
 function changelogDate($version) {
 	$file = file('resources/data/changelogs/'.$version.'.txt');
-	return substr(trim($file[0]),1,-1);
+	$date = substr(trim($file[0]),1,-1);
+	$date = parseDate($date);
+	return date('jS F, Y',$date);
+}
+
+function parseDate($date) {
+	$pieces = explode('/',$date);
+	return strtotime(implode(' ',$pieces));
 }
 
 function changelogParse($version) {
