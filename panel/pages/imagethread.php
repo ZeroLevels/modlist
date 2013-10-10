@@ -2,31 +2,32 @@
 /* Recent Changelog Image Script
  * Written by GrygrFlzr
  */
+set_include_path($_SERVER['DOCUMENT_ROOT']);
 if(isset($_SESSION['usr'])) {
-	$change164 = file('../list/1.6/changelog_1.6.4.html');
-	$change162 = file('../list/1.6/changelog_1.6.2.html');
-	$change161 = file('../list/1.6/changelog_1.6.1.html');
-	$change152 = file('../list/1.5/changelog_1.5.2.html');
+	$change164 = file('resources/data/changelogs/1.6.4.txt');
+	$change162 = file('resources/data/changelogs/1.6.2.txt');
+	$change161 = file('resources/data/changelogs/1.6.1.txt');
+	$change152 = file('resources/data/changelogs/1.5.2.txt');
 	$counter = 0;
-	for($i=1;$i<count($change164);$i++) {
+	for($i=0;$i<count($change164);$i++) {
 		if($change164[$i] == "\r\n" || $change164[$i] == "\n") {
 			$counter = $counter + $i + 1;
 			break;
 		}
 	}
-	for($i=1;$i<count($change162);$i++) {
+	for($i=0;$i<count($change162);$i++) {
 		if($change162[$i] == "\r\n" || $change162[$i] == "\n") {
 			$counter = $counter + $i + 1;
 			break;
 		}
 	}
-	for($i=1;$i<count($change161);$i++) {
+	for($i=0;$i<count($change161);$i++) {
 		if($change161[$i] == "\r\n" || $change161[$i] == "\n") {
 			$counter = $counter + $i + 1;
 			break;
 		}
 	}
-	for($i=1;$i<count($change152);$i++) {
+	for($i=0;$i<count($change152);$i++) {
 		if($change152[$i] == "\r\n" || $change152[$i] == "\n") {
 			$counter = $counter + $i + 1;
 			break;
@@ -44,8 +45,8 @@ if(isset($_SESSION['usr'])) {
 	$cl_darkgreen = imagecolorallocate($image, 0, 128, 0);
 	$cl_darkblue = imagecolorallocate($image, 0, 0, 128);
 	$cl_darkred = imagecolorallocate($image, 128, 0, 0);
-	$font = '../resources/fonts/arial.ttf';
-	$fontb = '../resources/fonts/arialbd.ttf';
+	$font = 'resources/fonts/arial.ttf';
+	$fontb = 'resources/fonts/arialbd.ttf';
 
 	imagettftext($image, 18, 0, 10, 29, $cl_white, $font, "Latest Changes");
 	imagettftext($image, 18, 0, 10, 28, $cl_black, $font, "Latest Changes");
@@ -56,7 +57,7 @@ if(isset($_SESSION['usr'])) {
 
 	imagettftext($image, 12, 0, 10, 48, $cl_black, $fontb, "1.6.4");
 	$counter = 0;
-	for($i=1;$i<count($change164);$i++) {
+	for($i=0;$i<count($change164);$i++) {
 		if($change164[$i] != "\r\n" && $change164[$i] != "\n") {
 			drawChange($image, 48 + (($i + $counter) * 14), $change164[$i]);
 		} else {
@@ -65,7 +66,7 @@ if(isset($_SESSION['usr'])) {
 		}
 	}
 	imagettftext($image, 12, 0, 10, ($counter * 14) + 48, $cl_black, $fontb, "1.6.2");
-	for($i=1;$i<count($change162);$i++) {
+	for($i=0;$i<count($change162);$i++) {
 		if($change162[$i] != "\r\n" && $change162[$i] != "\n") {
 			drawChange($image, 48 + (($i + $counter) * 14), $change162[$i]);
 		} else {
@@ -74,7 +75,7 @@ if(isset($_SESSION['usr'])) {
 		}
 	}
 	imagettftext($image, 12, 0, 10, ($counter * 14) + 48, $cl_black, $fontb, "1.6.1");
-	for($i=1;$i<count($change161);$i++) {
+	for($i=0;$i<count($change161);$i++) {
 		if($change161[$i] != "\r\n" && $change161[$i] != "\n") {
 			drawChange($image, 48 + (($i + $counter) * 14), $change161[$i]);
 		} else {
@@ -83,7 +84,7 @@ if(isset($_SESSION['usr'])) {
 		}
 	}
 	imagettftext($image, 12, 0, 10, ($counter * 14) + 48, $cl_black, $fontb, "1.5.2");
-	for($i=1;$i<count($change152);$i++) {
+	for($i=0;$i<count($change152);$i++) {
 		if($change152[$i] != "\r\n" && $change152[$i] != "\n") {
 			drawChange($image, 48 + (($i + $counter) * 14), $change152[$i]);
 		} else {
@@ -92,9 +93,9 @@ if(isset($_SESSION['usr'])) {
 		}
 	}
 
-	imagepng($image, '../resources/images/changelog.png', 9, PNG_ALL_FILTERS);
-	echo 'Image generated successfully. Click <a href="../resources/images/changelog.png" target="blank">here</a> to view the image.</br>';
-	echo '<img src="../resources/images/changelog.png" alt="Changelog" />';
+	imagepng($image, 'resources/images/changelog.png', 9, PNG_ALL_FILTERS);
+	echo 'Image generated successfully. Click <a href="/resources/images/changelog.png" target="blank">here</a> to view the image.</br>';
+	echo '<img src="/resources/images/changelog.png" alt="Changelog" />';
 	imagecolordeallocate($image, $background);
 	imagecolordeallocate($image, $cl_black);
 	imagecolordeallocate($image, $cl_darkgrey);

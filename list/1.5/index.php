@@ -1,2 +1,3 @@
-<?php 
-header("Location: http://modlist.mcf.li/list/1.5/1.5.2.php", true, 302);
+<?php
+$base = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS']) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . '/';
+header("Location: $base" . 'version/1.5.2', true, 301);

@@ -1,0 +1,318 @@
+(July/16/2013)
+	*Updated "Biomes O' Plenty" info: Added source
+
+(July/06/2013)
+	+Added "B&I"
+
+(July/05/2013)
+	*Updated "Optifine" description
+	+Added "Gammabright"
+	+Added "MumbleLink"
+
+(July/04/2013)
+	*Updated "Village-up" info: Now "Forge Compatible" and "Modloader Compatible"
+	+Added "Legendary Beasts"
+
+(July/03/2013)
+	*Updated "Minecraft Capes" name, description and info: Now "Minecraft Capes (MCCapes)" and "Clientside"
+	+Added "[BuildCraft] QuarryPlus"
+	+Added "Logitech LCD Application for Minecraft"
+	+Added "Revamp Enhanced Villager and Mob Performance"
+	+Added "Water & Sun Proof Endermen Mod"
+
+(July/02/2013)
+	*Updated "X-Ray Mod (craftminer502)" info: Now "Clientside"
+	+Added "Auto-shutdown"
+
+(July/01/2013)
+	+Added "Mob Spawn Controls"
+
+(June/22/2013)
+	+Added "Project Bench"
+	+Added "Random Things"
+
+(May/28/2013)
+	+Added "Additional Crafting"
+	+Added "More Gems Mod"
+
+(May/13/2013)
+	+Added "Village-up"
+
+(May/12/2013)
+	+Added "Glowstone Wire"
+	+Added "Random Additions"
+
+(May/11/2013)
+	+Added 4 mods by Crudedragos (Which are the following)
+		+Added "Armor Bar Mod"
+		+Added "Buff Bar Mod"
+		+Added "Project Zulu"
+		+Added "Snow Mod"
+	+Added "Price of Progress"
+	+Added "More Pistons Mod"
+
+(May/10/2013)
+	+Added "Emoticons"
+	+Added "Fallout Mod"
+	+Added "Useful Storage"
+
+(May/08/2013)
+	+Added "KBI Enriched Gravel"
+
+(May/06/2013)
+	+Added "Mo' Foods+"
+
+(May/04/2013)
+	+Added "M-Ore Mod"
+
+(April/15/2013)
+	+Added "SwipeSilk"
+	+Added "The Seasons Mod"
+	+Added "DupleCraft"
+
+(April/10/2013)
+	+Added "Mo' Foliage"
+
+(April/07/2013)
+	+Added "Flat Bedrock Layer"
+
+(April/02/2013)
+	+Added "GuiAPI"
+
+(March/30/2013)
+	*Updated "More Swords Mod" info: Now "Universal"
+	+Added "The Invether"
+
+(March/25/2013)
+	*Updated "Mystic Mod" info: Updated description
+	+Added "Elemental Creepers"
+	+Added "Enhanced Portals"
+	+Added "Flintlock Guns Mod"
+	+Added "More Swords Mod"
+	+Added "Team Fortress 2 Mods"
+	+Added "The Wars Mod"
+	+Added "Village Info"
+	+Added "X-Ray Mod (craftminer502)"
+
+(March/24/2013)
+	+Added "Mystic Mod"
+
+(March/22/2013)
+	+Added 6 mods by immibis (Which are the following)
+		+Added "TubeStuff"
+		+Added "Dimensional Anchors"
+		+Added "Immibis Core"
+		+Added "Immibis's Microblocks"
+		+Added "InfiniTubes"
+		+Added "Liquid XP"
+		+Added "[ComputerCraft] Immibis's Peripherals"
+	+Added 3 mods by WyrdOne (Which are the following)
+		+Added "Caption API"
+		+Added "ModOptionsAPI"
+		+Added "Minecraft My Way"
+	+Added 3 mods by Lunatrius (Which are the following)
+		+Added "Monster Spawn Highlighter"
+		+Added "InGame Info XML"
+		+Added "Stackie"
+	+Added "tukmc"
+	+Added "Better Biomes"
+	+Added "The Mists of RioV"
+	+Added "Tinkers Construct"
+	+Added "More Explosives"
+	+Added "Dynmap"
+	+Added "RPG Inventory Mod"
+	+Added "Light Level Overlay"
+	+Added "Durability101"
+	+Added "Rancraft Penguins"
+	+Added "TabbyChat"
+	+Added "Single Player Commands"
+	+Added "Combat Bars"
+	+Added "Gearz Mod"
+	+Added "Fireplace Mod"
+	+Added "Travelling House Mod"
+
+(March/20/2013)
+	*Updated "Forestry" Info: Changed it to (Beta) and changed link to their Beta Versions Page
+	+Added 4 mods by FatherToast (Which are the following)
+		+Added "Special Mobs"
+		+Added "Utility Mobs"
+		+Added "Lava Monsters"
+		+Added "Player Heads"
+	+Added 2 mods by Koopinator (Which are the following)
+		+Added "Fancy Fences"
+		+Added "Metal Rods"
+	+Added 3 mods by Koopinator (Which are the following)
+		+Added "Minor Alchemy"
+		+Added "Creeper Sword"
+		+Added "ProSthetics"
+	+Added 2 mods by Hurricaaane (Which are the following)
+		+Added "Audiotori"
+		+Added "MAtmos"
+	+Added "Primitive Mobs"
+	+Added "More Records Mod"
+	+Added "Timber!"
+	+Added "Ultimate Tools"
+	+Added "EnderStuff+"
+	+Added "Optifine"
+	+Added "Better World Generation 4"
+	+Added "Show Durability Mod"
+
+(March/19/2013)
+	+Added 2 mods by Sopwith (Which are the following)
+		+Added "NoSnow Mod"
+		+Added "AllSnow Mod"
+	+Added 5 mods by Corosus (Which are the following)
+		+Added "Movement State Display"
+		+Added "Move Plus"
+		+Added "Zombie Awareness"
+		+Added "Auto Farmer"
+		+Added "Weather & Tornadoes"
+	+Added 3 mods by "DaftPVF" (Which are the following)
+		+Added "TreeCapitator"
+		+Added "FloatingRuins"
+		+Added "StartingInventory"
+	+Added "Elemental Tinkerer"
+	+Added "Better Sprinting"
+	+Added "Obly's Sheepers Creepers"
+	+Added "Familiars Mod"
+	+Added "Heikki Mod"
+	+Added "Twilight Forest"
+	+Added "Smart Spawn Mod"
+	+Added "AutoSwitch"
+	+Added "Defensive Villagers"
+	+Added "More Village Biomes + Village Logic Addon"
+	+Added "BetterFonts"
+	+Added "Rainbow XP Mod"
+	+Added "KeepMyStats"
+	+Added "Fluid Mechanics"
+	+Added "CreeperSpecies"
+	+Added "Atomic Science"
+	+Added "ICBM - Missiles and Military Tech"
+	+Added "Extended Workbench"
+	+Added "Kingdoms of Amalur"
+	+Added "Texture Pack on Main Menu"
+
+(March/18/2013)
+	+Added "Gems+"
+	+Added "Minecraft Lighting Fix"
+	+Added "BiblioCraft"
+	+Added "Backpacks"
+	+Added "ExtraWorldGeneration"
+	+Added "IngameInfo"
+	+Added "Schematica"
+	+Added "The Barrels Mod"
+	+Added "StackPack"
+	+Added "Torojima's Chococraft"
+	+Added "CraftGuide"
+	+Added "Diamond Buckets+"
+	+Added "Smart Moving"
+	+Added "Flan's Mod"
+	+Added "Forestry"
+	+Added "Enchanting Plus"
+	+Added "Steve's Carts 2"
+	+Added "RecallStone"
+	+Added "Gravestone Mod"
+	+Added "Melee Skeletons"
+	+Added "Scoaleton"
+	+Added "Universal Electricity"
+
+(March/16/2013)
+	/Fixed previous Changelog... Sorry AtomicStryker and iChun! D:
+	+Added 2 mods by soccerguy3 (Which are the following)
+		+Added "No Ice Melt"
+		+Added "No Fire Spread"
+	+Added 4 mods by bspkrs (Which are the following)
+		+Added dependency "bspkrsCore"
+		+Added "ArmorStatusHUD"
+		+Added "DirectionHUD"
+		+Added "StatusEffectHUD"
+	+Added 2 mods by chicken_bones (Which are the following)
+		+Added dependency "CodeChickenCore"
+		+Added "ChickenChunks"
+	+Added 2 mods by DaftPVF (Which are the following)
+		+Added "CrystalWing"
+		+Added "BlockBreaker / ConnectedDestruction"
+	+Added 5 mods by CJB (Which are the following)
+		+Added "CJB API"
+		+Added "More Info Mod"
+		+Added "QuickCraft Mod"
+		+Added "X-Ray Mod"
+		+Added "Mob Filter Mod"
+	+Added "WorldStateCheckpoints"	
+	+Added "Item Frame Lag Fix"
+	+Added "Ariadne's Thread"
+	+Added "nZuR's RPG"
+	+Added "MineTunes"
+	+Added "FriendColor"
+	+Added "John: Revived"
+	+Added "Dungeon Mobs"
+	+Added "Female Gender Option"
+	+Added "Inventory Tweaks"
+	+Added "Custom NPCs"
+	+Added "Galacticraft"
+	+Added "SojaCraft"
+	+Added "Torch Levers"
+	+Added "Glacier Ice"
+	+Added "Single Player Console"
+	+Added "Derpy Sheep Mod"
+	+Added "Millenaire"
+	+Added "Ellian's MaterialDetector"
+	+Added "The Runic Dust Mod"
+
+(March/14/2013)
+	+Added 5 mods by MamiyaOtaru (Which are the following)
+		+Added "VoxelMap (Zan's)"
+		+Added "No Voidfog (or Dimming)"
+		+Added "Old North / Retro Sun Direction"
+		+Added "No Slimes in Superflat"
+		+Added "Retro Fences"
+	+Added 2 mods by chicken_bones (Which are the following)
+		+Added "Not Enough Items (NEI)"
+		+Added "Ender Storage"
+	+Added 12 mods by Risugami (Which are the following)
+		+Added "ModLoader"
+		+Added "Elemental Arrows"
+		+Added "More Stackables"
+		+Added "Sign Tags"
+		+Added "Death Chest"
+		+Added "AudioMod"
+		+Added "Spawner GUI"
+		+Added "Griefer Creepers"
+		+Added "Recipe Book"
+		+Added "Shelf"
+		+Added "Biosphere"
+		+Added "Armor Stand"
+	+Added 12 mods by AtomicStryker (Which are the following)
+		+Added "Dynamic Lights"
+		+Added "Minions"
+		+Added "Ropes+"
+		+Added "BattleTowers"
+		+Added "KenshiroMod"
+		+Added "Multi Mine"
+		+Added "Simply Hax"
+		+Added "Magic Yarn"
+		+Added "Ruins"
+		+Added "Stalker Creepers"
+		+Added "Pet Bat"
+		+Added "Infernal Mobs"
+	+Added 3 mods by MorpheusZero (Which are the following)
+		+Added "CreepersNoCreeping"
+		+Added "BatsDropLeather"
+		+Added "WheatTweak"
+	+Added 5 mods by iChun (Which are the following)
+		+Added "Death Counter"
+		+Added "Portal Gun"
+		+Added "Trailmix"
+		+Added "Gravity Gun"
+		+Added "iChun Util"
+	+Added "Forge"
+	+Added "ChickenShed"
+	+Added "Player API"
+	+Added "Render Player API"
+	+Added "Aliens Vs Predator"
+	+Added "The Ocarina Mod"
+	+Added "Damage Indicators"
+	+Added "TooManyItems"
+	+Added "More XP Mod"
+	+Added "ComputerCraft"
+	+Added "IronChests 2"
