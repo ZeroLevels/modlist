@@ -1,0 +1,351 @@
+(July/16/2013)
+	*Updated "Biomes O' Plenty" info: Added source
+
+(July/06/2013)
+	+Added "B&I"
+
+(July/05/2013)
+	*Updated "Optifine" description
+	+Added "Gammabright"
+	+Added "MumbleLink"
+
+(July/03/2013)
+	*Updated "Minecraft Capes" name, description and info: Now "Minecraft Capes (MCCapes)" and "Clientside"
+	+Added "Revamp Enhanced Villager and Mob Performance"
+	+Added "Logitech LCD Application for Minecraft"
+	+Added "Water & Sun Proof Endermen Mod"
+	-Removed "Risugami's Mods"
+
+(July/02/2013)
+	*Updated "X-Ray Mod (craftminer502)" info: Now "Clientside"
+
+(May/10/2013)
+	+Added "Fallout Mod"
+
+(December/22/2012)
+	+Added Crossbow Mod 2
+	+Added ShowMonsters
+	+Added Sports Mod
+
+(December/20/2012)
+	*Renamed "MapWriter Mod" to "MapWriter Mini Map Mod"
+	+Added M-Food
+	+Added Elemental Creepers
+
+(December/19/2012)
+	+Added Coloured Beds Mod
+	+Added Easy Crafting
+	+Added Ingame Mod List
+	+Added Advanced HUD
+	+Added Immibis's Mods
+
+(December/18/2012)
+	+Added Arcane Acsension
+	+Added Double Door Mod
+	+Added Explosives+
+	+Added Extra Bees
+	+Added Heuristix's TheGunMod
+	+Added Logistics Pipes
+	+Added MegaCraft Mod
+	+Added More Fences Mod
+	+Added More Pressure Plates Mod
+	+Added More Village Biomes + Village Logic Addon
+	+Added Plugins for Forestry
+	+Added RealLan
+	+Added Spawn eggs Mod
+	+Added Vanilla with Sprinkles
+	+Added Xeno's Reliquary
+	+Added Better Furnaces
+	+Added Reactioncraft Better Glass
+
+(December/14/2012)
+	+Added Ars Magica
+	+Added Bladecraft
+	+Added DupleCraft
+	+Added Enhanced Books
+	+Added Goblins
+
+(December/10/2012)
+	+Added The Necromancy Mod
+	+Added Urban Mod
+	+Added Herblore Mod™ (ages 18+ only)
+
+(December/09/2012)
+	+Added Power Swords Mod
+	+Added CreepyPastaCraft
+	+Added MusicCraft
+	+Added SimpleOres
+	+Added Yourock129s Mods
+	+Added MineFantasy
+
+(December/07/2012)
+	+Added Sophisticated Wolves
+	+Added Tropicraft
+	+Added Bacon Mod
+	+Added Animal Bikes
+	+Added The Wars Mod
+	+Added The Runic Dust Mod
+	+Added TooManyPlants
+	+Added Clay Tools
+
+(December/05/2012)
+	*Changed You are the Wither to Forge Compatible (According to the mod author)
+	+Added FatherToast's Mods
+	+Added Traincraft
+	+Added Emasher's Mods
+	+Added More Enchantments Mod
+	+Added Enchanting Plus
+	+Added Super Mario Mod
+	+Added Jaffas and More
+	+Re-Added Car Mod (It doesn't crash with Forge, but it won't work with it either)
+	+Added TerraFirmaCraft
+	+Added EasyDiamond
+	+Added Christmas Festivities Mod
+	+Added ChristmasCraft
+	+Added Armor Movement Mod
+
+(December/04/2012)
+	+Added Bukkit4Vanilla Mods
+	+Added Lockit
+	+Added M-Ore Mod
+	+Added littleMaidMod
+	+Added More Player Models
+	+Added Greg's Prospecting
+	+Added Greg's Blocks
+	+Added Cave-Gen Mod
+
+(December/02/2012)
+	*Changed MysticRPG's link to reflect the new maintainer of the mod's thread.
+	+Added Single Player Commands
+	+Added Gulliver the Resizing Mod
+	+Added LittleBlocks
+	+Added S.T.F.U
+
+(December/01/2012)
+	+Added Thaumcraft 3
+	+Added Ellian's MaterialDetector
+	+Added Universal Electricity
+	+Added Assembly Line
+	+Added Hawk's Machinery
+	+Added Mekanism
+	+Added Electric Expansion
+	+Added PowerTools
+
+(November/30/2012)
+	+Added Paintball
+	+Added Meat+
+	+Added rbdyck's Mods
+	+Added Mo' Minecraft Mod
+	+Added You are the Wither Mod
+	+Added Xie's Mods
+
+(November/29/2012)
+	+Added Custom NPCs
+	+Added Commander Mod
+	+Added Durability101
+	+Added Enhanced Portals
+	+Added FactoryCraft
+	+Added Grey Goo Mod
+	+Added Herobrine Mod
+	+Added Humans+
+	+Added Ice Cream Sandwich Creeper Mod
+	+Added MCDitty
+	+Added Minecraft Capes
+	+Added More Swords Mod
+	+Added Mouse Tweaks
+	+Added Pacman Arcade
+	+Added Pixelmon
+	+Added PizzaCraft
+	+Added Slander Man
+	+Added Super Heroes in Minecraft
+	+Added TabbyChat
+	+Added The RC Mod
+	+Added Ultimate Tools
+	+Added World Downloader
+	+Added Zaedes' Steamworks
+	+Added BuddyCam
+	+Added Custom Mob Spawner
+	+Added Condensed Blocks Mod
+
+(November/28/2012)
+	*Changed many "Forge Compatible" labels to "Forge Required".
+	+Added InfiCraft
+	+Added KeepCalm's Mods
+	+Added Ore Dictionary Converter
+	+Added GuiAPI
+	+Added ID Resolver
+	+Added Jammy Furniture Mod (Beta)
+	+Added Glass Tools Mod
+	+Added ICBM - Missiles and Military Tech
+	+Added Eastonium147's Mods
+	+Added Equivalent Exchange 3 (Prerelease)
+	+Added Atomic Science
+	+Added Reactioncraft Mobs Mod
+	+Added BlockPysics Mod
+	+Added Blubbeltasche's Mods
+	+Added Smart Moving
+	+Added StrongerPistons
+	+Added Dynmap
+	+Added 3D Items
+	+Added AssassinCraft
+	+Added Marcopolo's Mods
+	+Added BetterFonts
+	+Added LibShapeDraw
+	+Added BuildRegion
+	+Added Camera Studio
+
+(November/26/2012)
+	+Added Back Tools
+	+Added Mob Amputation
+	+Added Mob Dismemberment
+	+Added Pig Grinder
+	+Added Slender - Reimagined
+	+Added Not in Minecraft Mod
+
+(November/25/2012)
+	*Changed "Elder Scrolls: Skyrim Mod" to "The Elder Scrolls: Skyrim Mod"
+	-Removed The Car Mod
+	+Added Timber!
+	+Added Balkon's WeaponMod
+	+Added The Mineya Mod
+	+Added Obsidia: The power of Obsidian
+	+Added Subaraki's Secondary Mod
+	+Added The Death Scythe Mod
+	+Added Kirwi's Clay Golem Mod
+	+Added Better Breeding Mod
+	+Added Teleportation Stones
+
+(November/24/2012)
+	/Restored Full 1.3.2 List
+	/Moved Lists 1.3.2 and 1.4.2 to the post below the ChangeLog
+	+Added TukMC
+	+Added Layman Mod Maker
+	+Added Vazkii's Mods
+	+Added Ivorius' Mods
+	+Added Witches and More
+	+Added Reactioncraft Better Bookcases
+	+Added Wolves+ Mod
+	+Added FlintCraft
+	+Added Glowstone Wire
+	+Added Torojima's Chococraft
+	+Added Mo' Creatures
+	+Added Mine & Blade: Commander
+	+Added UseCount 2
+	+Added BlockPhysics Mod
+	+Added Twilight Forest
+	+Added Forgotten Nature
+	+Added Assassin's Creed Gun/Weapon Mod
+
+(November/23/2012)
+	+Added Multi Crafting Table
+	+Added Poop Mod
+	*Changed Buildcraft's link to an official release
+	+Added IndustrialCraft 2 (Beta)
+	+Added Insta House Mod
+	+Added Camo Lights Mod
+	+Added Desired Blocks
+	+Added Easy Dyes Mod
+	+Added Precious Gems
+	+Added Mining Enhancements
+	+Added Desperation Food
+	+Added Soda Craft
+	+Added Your Ore
+	+Added Moustaches and More
+	+Added Falling Meteors Mod
+	+Added IronChests
+	+Added Thermal Expansion
+	+Added New Section for Tools & Utilities
+	+Added WorldPainter (Tool/Utility)
+	+Added Inventory Tweaks
+	+Added EssentialCraft
+	+Added The Infection
+	+Added MysticRPG
+	+Added Additional Buildcraft Objects
+	+Added Additional Pipes (Unofficial)
+	*Updated ChickenBones Mods (+Added Wireless Redstone CBE)
+	+Added Gravity Gun
+	+Added Greg's Lighting
+	+Added XyCraft
+	+Added Forestry
+	+Added Factorization
+	+Added Advanced Machines
+
+(November/20/2012)
+	*Changed 1.4.4 list to 1.4.4/1.4.5
+	+Added Epicarno Mod
+	+Added Dragon Mounts
+	+Added Wireless Redstone
+
+(November/19/2012)
+	+Added WiNeTel's BetterWorld Mods
+	+Added Familiars
+	+Added Millenaire
+	+Added Animal Packer
+	+Added Rotten Flesh to Leather
+	+Added ChickenBones mods
+	+Added Fearitude's Mods
+	+Added HD Skins and Cloaks
+	+Added DivineRPG
+	+Added Pam's Mods
+	+Added PlayerAPI
+	+Added Railcraft
+	+Added TheBombzen's Mods
+
+(November/18/2012)
+	+Added Lion King Mod
+	+Added Tale of Kingdoms
+	+Added Clean UI
+
+(November/17/2102)
+	+Added Mutant Creatures
+	+Added ControlPack
+	+Added Better Sprinting
+	+Added Backpacks
+	+Added Damage Indicators
+	+Added Better Than Wolves Mod
+	+Added Wasteland mod
+
+(November/16/2102)
+	+Added TooManyItems
+	+Added SecretRooms Mod
+	+Added MAtmos
+	+Added CraftGuide
+
+(November/15/2012)
+	+Added AtomicStryker's Mods
+	+Added Usefulfood
+	+Added Portal Gun - Reconstructed
+	+Added Rei's Minimap
+	+Added DaftPVF's Mods
+	+Added Risugami's Mods
+	+Added DayZ Mod
+	+Added Clay Soldiers Mod
+	+Added LOLCaatz's Clientside Tweaks
+	+Added More explosives
+	+Added Macro/Keybind Mod and LiteLoader
+	+Added MineLittlePony
+	+Added CapeCraft
+	+Added ComputerCraft
+	+Added DayZ Mod
+	+Added Crudedragos's Mods
+	+Added X-Ray Mod
+	+Added PaintGun Mod
+	+Added Elder Scrolls: Skyrim Mod
+	+Added Lighting Fix
+	+Added Dynamic Mazes
+	+Added CocoaCraft
+	+Added ModOptionsAPI
+	+Added Minecraft My Way mod
+	+Added Better World Generation 3
+	+Added Steve's Carts 2
+	+Added JSOne Studios' Mods
+	+Added Davidee's Mods
+	+Added Legendary Beasts (a)
+	+Added In-game NBTEdit
+	+Added Mob Spawn Controls
+	+Added MorpheusZero's Mods
+	+Added Buildcraft
+	+Added ExtraBiomesXL
+	+Added Mods by Kinyoshi
+	+Added Forge
+	+Added Optifine

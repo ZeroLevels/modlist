@@ -1,0 +1,153 @@
+(July/16/2013)
+	*Updated "Biomes O' Plenty" info: Added source
+
+(July/05/2013)
+	*Updated "Optifine" description
+	+Added "Gammabright"
+	+Added "MumbleLink"
+
+(July/04/2013)
+	+Added "Legendary Beasts"
+
+(July/03/2013)
+	+Added "Water & Sun Proof Endermen Mod"
+
+(November/23/2012)
+	+Added Coloured Beds Mod
+
+(October/24/2012)
+	+Added Mo' Creatures
+	+Added Custom Mob Spawner
+
+(October/21/2012)
+	+Added Capsuels Mod
+	+Added HippoMaster's Mods
+	+Added Doom Diamonds Mod
+	+Added UgoCraft
+
+(October/20/2012)
+	+Added Familiars
+	+Added Tropicraft
+	+Added TLUL's X-Ray Mod
+	+Added X-Ray
+
+(October/19/2012)
+	+Added Aliens Vs Predator
+	+Added Poop Mod
+	+Added Pre-Historic Mod
+	+Added SkypeToMC
+	+Added WThieves's Mods
+
+(October/16/2012)
+	+Added Hostile Drops
+	+Added Kirwii's Clay Golem Mod
+	+Added Ocarina Mod
+	+Added Pet Penguin Mod
+	+Added Craftable Cobwebs
+	+Added BuildRegion
+	+Added Dishonored Mod
+	+Added InstaArmor
+	+Added Mutant Creatures
+
+(October/15/2012)
+	+Added CreepersNoCreeping
+	+Added Mods By Kinyoshi
+	+Added BattleMobs
+	+Added Spiderman Mod
+	+Added Better Collisions
+	+Added Wild Terrain
+	+Added Flat Bedrock Layer
+	+Added Teleportation Stones
+	+Added SimplictyOresMod
+	+Added EnderSpace
+
+(October/12/2012)
+	+Added Subaraki's Secondary Mods
+	+Added Utility Chests Mod
+	+Added MamiyaOtaru's Mods
+	+Added MAtmos
+
+(October/09/2012)
+	+Added Back Tools
+	+Added more to Duke's Mini Mods
+	+Added Craftable Animals
+
+(October/07/2012)
+	+Added Layman Mod Maker
+	+Added Sim-U-Kraft
+
+(October/06/2012)
+	+Added UsefulFood
+	+Added Lion King Mod
+	+Added vonDoomCraft HD Skins
+	+Added Mr. Dirtman
+
+(October/05/2012)
+	*Updated ApachePilotMPE's Mods: *+(added Helpfulcraft)
+	+Added Yamanta's Mods
+	+Added Rotten Flesh to Leather
+	+Added Mini Creeper Pet
+	+Added Hanabi (Fireworks Mod)
+
+(October/02/2012)
+	+Added Joypad Mod
+	+Added Transpericus
+	+Added Better Hungergames Mod
+
+(October/01/2012)
+	+Added ApachePilotMPE's Mods
+	+Added Father Toast's Mods
+
+(September/30/2012)
+	/Shortened links where applicable
+	+Added More Fences Mod
+	+Added More Pressure Plates Mod
+	+Added Better Wilderness
+	+Added To Do List
+	+Added Dragon Mounts
+	+Added XploCraft
+	+Added Mod Tools
+
+(September/27/2012)
+	+Added Balkon's WeaponMod
+	+Added Backpacks
+	+Added Ancient Warfare
+	+Added Biomes 'O Plenty
+	+Added Custom NPCS
+	+Added Eternal Frost
+	+Added Mace
+	+Added Beeper's Vampires
+	+Added a few forge compatibility labels
+	+Added Poker Cards
+	+Added Rave Mod
+	+Added Sky House
+	+Added Stack++
+	+Added Starshades Mods
+	+Added Super Heroes Iron Man Mod
+	+Added Wireless Redstone
+	+Added WorldEdit
+	+Added WorldEditCUI
+	+Added XtraBlocks Extreme Edition
+
+(September/26/2012)
+	*Fixed Sound Packs link
+
+(September/24/2012)
+	+Added Portal Gun
+	+Added SMP Commands Mod
+	+Added Computercraft
+
+(September/22/2012)
+	+Added BossCraft to the list
+	+Added Duke605's Mini Mods to the list
+	+Added a poll
+	+Added the Fossil/Archeology mod to the list
+	+Added AdventureCraft to the list
+	+Added TerraFirmaCraft to the list
+
+(September/21/2012)
+	+Added Sound Packs mod to the list
+	+Added more Forge Compatiblity labels
+	+Added All Wuppy's Mods to the list
+	+Added MBM mod to the list
+	+Added Jackfirecracker's Mods to the list

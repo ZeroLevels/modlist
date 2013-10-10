@@ -1,0 +1,808 @@
+(October/09/2013)
+	+Added "FpsPlus"
+	+Added "Gliby's Voice Chat Mod"
+	+Added "Mineshot"
+	+Added "Minestrappolation"
+	+Added "Pokecube"
+
+(October/08/2013)
+	+Added 3 mods by crackedEgg (Which are the following)
+		+Added "Parachute Mod"
+		+Added "Reptile Mod"
+		+Added "Walking Dead Mod"
+	+Added "[Not Enough Items] NEI Plugins"
+
+(October/07/2013)
+	+Added 2 mods by spacechase0 (Which are the following)
+		+Added "Auto-Fisher"
+		+Added "Toxic Rain"
+
+(October/06/2013)
+	+Added "[Forestry] Extra Bees"
+	+Added "Custom Recipes"
+
+(October/05/2013)
+	+Added "Balanced Exchange"
+	+Added "Lanterns Mod"
+
+(October/03/2013)
+	+Added 4 mods by Corosus (Which are the following)
+		+Added "Auto Farmer"
+		+Added "Hostile Worlds"
+		+Added "Move Plus"
+		+Added "Particle Man"
+	+Added 3 mods by MineMaarten (Which are the following)
+		+Added "Minesweeper Mod"
+		+Added "PneumaticCraft"
+		+Added "Sokoban Mod"
+	+Added "Backpacks (Brad16840)"
+	+Added "Better Signs Mod"
+	+Added "FreezeCam"
+	+Added "Good Night's Sleep"
+	+Added "Minegicka II"
+	+Added "NumiRP"
+	+Added "PneumaticCraft"
+	+Added "Power Tools"
+	+Added "Soft Hardcore"
+	+Added "The Ether Mod"
+	+Added "The Farlanders"
+
+(September/29/2013)
+	+Added 3 mods by agaricusb (Which are the following)
+		+Added "HighlightTips"
+		+Added "Jarmod2Coremod"
+		+Added "[IndustrialCraft 2] OreDupeFix"
+	+Added "OpenBlocks"
+
+(September/25/2013)
+	+Added "ExtraButtons"
+	+Added "Sim-U-Kraft"
+	+Added "Thirst Mod"
+
+(September/24/2013)
+	*Updated "BetterSnow" info: Added source, Now "Universal"
+	*Updated "InGame Info XML" info: Added source
+	+Added "Enhanced Visuals"
+	+Added "ForgeMultipart"
+	+Added "MineChess"
+	+Added "MineTunes"
+
+(September/14/2013)
+	*Updated "Traincraft" description
+	+Added "Camera Studio"
+	+Added "PowerCraft"
+
+(September/10/2013)
+	*Updated "Doggy Talents Mod" description
+	*Updated "Dragon Mounts" info: Now "Modloader Compatible"
+	*Updated "Player API" description
+	+Added "Aether II"
+	+Added "Mine & Blade: Battlegear 2"
+
+(September/07/2013)
+	*Updated 9 mods by wuppy21 (Which are the following)
+		*Updated "Goblins and Giants" info: Added source
+		*Updated "Harder Peaceful" info: Added source
+		*Updated "Improved Mob Spawn" info: Added source
+		*Updated "Jelly Cubes" info: Added source
+		*Updated "Magical Experience" info: Added source
+		*Updated "Nether Eye" info: Added source
+		*Updated "Pumpkin-less Snow Golem" info: Added source
+		*Updated "Slime Dungeons" info: Added source
+		*Updated "The Peacefulpack" info: Added source
+	+Added "COFL's Simple Arrowblur"
+	+Added "GLSL Shaders Mod"
+	+Added "Obsidian Pressure Plates"
+	+Added "Rotten Flesh to Leather"
+	+Added "Traincraft"
+
+(August/28/2013)
+	+Added "Highlands"
+	+Added "Light Bridges Mod"
+	+Added "[Tinkers' Construct] Iguana Tweaks"
+
+(August/27/2013)
+	+Added "Prayers"
+	+Added "Magic Carpet Mod"
+
+(August/25/2013)
+	+Added "AdventureTime Mod"
+
+(August/09/2013)
+	+Added "OreSpawn"
+
+(August/05/2013)
+	+Added 5 mods by Phobophobe (Which are the following)
+		+Added "Desperation Food"
+		+Added "Easy Items"
+		+Added "Insta House Mod"
+		+Added "Mining Enhancements"
+		+Added "Soda Craft"
+	+Added "Minecraft Lighting Fix"
+
+(August/04/2013)
+	*Updated "Elemental Orbs" author: Removed "ferrettomato"
+	*Updated "Immibis's Microblocks" description
+	+Added 9 mods by immibis (Which are the following)
+		+Added "[ComputerCraft] Immibis's Peripherals"
+		+Added "Dimensional Anchors"
+		+Added "Immibis Core"
+		+Added "Immibis's Microblocks"
+		+Added "[IndustrialCraft 2] Advanced Repulsion Systems"
+		+Added "InfiniTubes"
+		+Added "Liquid XP"
+		+Added "RedLogic"
+		+Added "TubeStuff"
+	+Added 2 mods by Phobophobe (Which are the following)
+		+Added "Camo Lights Mod"
+		+Added "Desired Blocks"
+	+Added "[Applied Energistics] ExtraCells"
+	+Added "[IndustrialCraft 2] GregTech-Addon"
+	+Added "PaleoCraft"
+
+(August/02/2013)
+	*Updated 2 mods by Grom_PE (Which are the following)
+		*Updated "More Fuel, Tweaks, and Everything" author: Now "Grom PE"
+		*Updated "Underground Biomes" author: Now "Grom PE"
+	+Added "BTWTweak"
+
+(July/28/2013)
+	*Updated "Enhanced Portals 2" info: Added source
+	+Added "Minema"
+
+(July/26/2013)
+	*Updated "CodeChickenCore" info: Added source
+	*Updated "Logical Armory Mod" info: Now "Universal"
+	+Added "Better Breeding Mod"
+	+Added "ControlPack"
+	+Added "Factorization"
+	+Added "Slender Man"
+	+Added "The Walking Dead"
+
+(July/25/2013)
+	*Updated "CJB Mod (Continued)" info: Now requires "Player API"
+	*Updated "Elemental Orbs (iN3rd's)" name: Now "Elemental Orbs"
+	*Updated "End of the Rainbow Mod" info and description: Now "Forge Required" and "Universal"
+	*Updated "MapWriter Minimap Mod" info: Added source
+	*Updated "Ore Dimension's Mod" info: Now "Universal"
+	*Updated "Single Player Commands" info: Added source
+	*Updated "Village Info" info: Now "Forge Compatible" and "Universal"
+	+Added 2 mods by "andykuo1" (Which are the following)
+		+Added "MC+ Blowpipe Mod"
+		+Added "MC+ Satchel Mod"
+	+Added 3 mods by "Clashsoft" (Which are the following)
+		+Added "More Minerals Mod"
+		+Added "More Potions Mod"
+		+Added "More Tools Mod"
+	+Added 3 mods by "Duckstepper" (Which are the following)
+		+Added "Amethyst Tools"
+		+Added "Craftable End Portal"
+		+Added "Emerald Tools/Armor"
+	+Added "Doggy Talents Mod"
+	+Added "FoodEx"
+	+Added "Minecraft Tweaks"
+	+Added "Rediscovered Mod"
+	+Added "Smiley Gem Mod"
+
+(July/22/2013)
+	*Updated "Glowstone Wire" info: Now "Forge Required"
+	+Added 3 mods by Alexiy_Ov (Which are the following)
+		+Added "Extended Item Information"
+		+Added "Light Placer"
+		+Added "Remote Access"
+	+Added "Music Timer Mod"
+	+Added "The Saturation Mod"
+
+(July/19/2013)
+	+Added "EditableSigns"
+	+Added "Holy Dragonfly Mod"
+	+Added "SimCraft"
+	+Added "SkyZone World Generator"
+
+(July/17/2013)
+	*Updated "Glowstone Wire" info: Added source
+	*Updated "LiteLoader" info and link: Added source
+	*Updated "MumbleLink" info: Added source
+	*Updated "The Camping Mod" author: Now "RikMuld"
+	*Updated "Underground Biomes" info: Added source
+	*Updated "X-Ray Mod (julialy)" name, info and desc: Added source, Now "!X-RAY MOD (julialy)"
+	+Added "BetterSnow"
+	+Added "Temperate Plants"
+	+Added "MoreOresOrite"
+
+(July/16/2013)
+	*Updated "Biomes O' Plenty" info: Added source
+	+Added "SuperCraftingFrame"
+
+(July/13/2013)
+	+Added 5 mods by CubeX2 (Which are the following)
+		+Added "Chest Transporter"
+		+Added "Custom Stuff 2"
+		+Added "More Furnaces"
+		+Added "Multi Page Chest"
+		+Added "Whole Tree Axe"
+	+Added "Easy Crafting"
+	+Added "[Equivalent Exchange 3] Equivalency"
+	+Added "DarkLords RPG"
+	+Added "Greg's Lighting"
+	+Added "UgoCraft"
+
+(July/09/2013)
+	+Added "Decraft Mod"
+	+Added "Ultimate Tools"
+
+(July/06/2013)
+	*Updated info for 2 mods by mDiyo: Added source
+	*Updated "Additional Crafting" info: Added source
+	*Updated "Atum: Journey Into The Sands" info: Added source
+	*Updated "BetterStorage" info: Added source
+	*Updated "Boxes" info: Added source
+	*Updated "Buildcraft" info: Added source
+	*Updated "[Buildcraft] Additional Buildcraft Objects" info: Added source
+	*Updated "[Buildcraft] Compact Mobs" info: Added source
+	*Updated "Crafting Creation" info: Added source
+	*Updated "CraftGuide" info: Added source
+	*Updated "Easy Crafting" info: Added source
+	*Updated "[IndustrialCraft 2] Compact Solars" info: Added source
+	*Updated "[Universal Electricity] Biotech" info: Added source
+	+Added "Crafting Creation"
+	+Added "[IndustrialCraft 2] Compact Solars"
+
+(July/05/2013)
+	*Updated "Optifine" description
+	+Added "Gammabright"
+	+Added "Marble XL"
+	+Added "MumbleLink"
+
+(July/04/2013)
+	*Updated "Village-up" info: Now "Forge Compatible" and "Modloader Compatible"
+	+Added "ComicRetrolution's Craftory Mods"
+	+Added "Deconstruction Table"
+	+Added "Legendary Beasts"
+	+Added "MCPatcher"
+	+Added "Metallurgy 2"
+	+Added "Nexion"
+
+(July/03/2013)
+	+Added "[BuildCraft] QuarryPlus"
+	+Added "Logitech LCD Application for Minecraft"
+	+Added "Minecraft Capes"
+	+Added "Revamp Enhanced Villager and Mob Performance"
+	+Added "[Universal Electricity] Modular Powersuits"
+	+Added "Water & Sun Proof Endermen Mod"
+
+(July/02/2013)
+	*Updated "X-Ray Mod (craftminer502)" info: Now "Clientside"
+	+Added 2 mods by fuj1n (Which are the following)
+		+Added "Awesome Mod"
+		+Added "Feather Stuff Mod"
+	+Added "Auto-shutdown"
+	+Added "Ore Dimension's Mod"
+
+(July/01/2013)
+	+Added "Better Biomes"
+	+Added "Better Wood Mod"
+	+Added "Elemental Orbs"
+	+Added "Enhanced Portals 2"
+	+Added "Mob Spawn Controls"
+	+Added "More Pressure Mod"
+
+(June/30/2013)
+	+Added "Star Wars Mod"
+
+(June/29/2013)
+	+Added "Advanced HUD Continuation"
+	+Added "Alice's Dolls (Touhou)"
+	+Added "Craftable Spawners"
+	+Added "EdziuCraft"
+	+Added "Extended Workbench"
+	+Added "Redstone Clock"
+	+Added "The Uncrafting Mod"
+
+(June/27/2013)
+	*Updated "GrowthCraft" info: Now "Universal" and "Forge Required"
+	*Updated "Unlit Torches" name and description: Now "Unlit Torches and Lanterns"
+	+Added "Coloured Diamonds Mod"
+	+Added "Genetic Modification Mod"
+	+Added "Saffara"
+	+Added "SimplicityOresMod"
+
+(June/26/2013)
+	+Added 4 mods by Duke605 (Which are the following)
+		+Added "Arcane Scrolls"
+		+Added "DukeCore"
+		+Added "ExchangeCraft"
+		+Added "Mini"
+	+Added "Cartographer"
+	+Added "Condensed Blocks Mod"
+	+Added "Fishing Craft"
+	+Added "Hunger Overhaul"
+	+Added "More difficulties"
+	+Added "Panicle Craft"
+	+Added "Redstone in Motion"
+	+Added "SkyrimCraft"
+
+(June/25/2013)
+	+Added 2 mods by denoflions (Which are the following)
+		+Added "[Buildcraft] Den Pipes"
+		+Added "[Buildcraft] Gate Copy"
+		+Added "Creeper Collateral"
+		+Added "[Forestry] Plugins for Forestry 2"
+		+Added "HD Skins and Cloaks"
+	+Added "Aquaculture"
+	+Added "Artifice"
+	+Added "Big Reactors"
+	+Added "[Buildcraft] Additional Buildcraft Objects"
+	+Added "Carpenter's Blocks"
+	+Added "[IndustrialCraft 2] Advanced Power Management"
+	+Added "Lemon Land"
+	+Added "Mutant Creatures"
+	+Added "Truss Mod"
+
+(June/24/2013)
+	+Added 2 mods by B0bGary (Which are the following)
+		+Added "Coal Tools"
+		+Added "Redstone Tools"
+	+Added "BetterCraft"
+	+Added "Cobblestone And Stone Armour"
+	+Added "Command Block GUI 2"
+	+Added "DivineOres"
+	+Added "Enjoy your meal!"
+	+Added "Flann Mod"
+	+Added "Katana Forge MMO"
+	+Added "littleMaidMob"
+	+Added "More Spawner Eggs"
+	+Added "SkyInfinity"
+
+(June/22/2013)
+	+Added 4 mods by B0bGary (Which are the following)
+		+Added "BobGary's Minimods"
+		+Added "Furnace Fuels"
+		+Added "Growable Ores"
+		+Added "Uses For Lapis"
+	+Added "AlgaeCraft"
+	+Added "Arrow Golems"
+	+Added "Atum: Journey Into The Sands"
+	+Added "B&I"
+	+Added "Better Than Wolves Mod"
+	+Added "Cheat Pack 2"
+	+Added "[ComputerCraft] MiscPeripherals"
+	+Added "[ComputerCraft] OpenPeripheral"
+	+Added "Cow Revolution"
+	+Added "CraftGuide"
+	+Added "CraftMore"
+	+Added "Custom NPCs"
+	+Added "Dimensional Doors"
+	+Added "Drinks Mod"
+	+Added "Emerald Tools and Armor"
+	+Added "EnderStuff+"
+	+Added "Famous 2"
+	+Added "Fossils and Archeology Revival"
+	+Added "Gizmos"
+	+Added "Grimoire of Gaia"
+	+Added "GuiAPI"
+	+Added "Harder Zombies"
+	+Added "Higher Trees and Other Stuff"
+	+Added "[IndustrialCraft 2] ChargePads"
+	+Added "Katana Forge MMO"
+	+Added "Logical Armory Mod"
+	+Added "Macro/Keybind Mod"
+	+Added "MapWriter Minimap Mod"
+	+Added "Mine & Blade: Battlegear 2"
+	+Added "Minegicka 2"
+	+Added "More Health Enhanced"
+	+Added "Mystcraft"
+	+Added "NotOnlyMoreOres Mod"
+	+Added "[ComputerCraft] OpenCCSensors"
+	+Added "OpenXP"
+	+Added "Pressure Point Blocks"
+	+Added "Project Bench"
+	+Added "Random Things"
+	+Added "Resource Engineering"
+	+Added "RPG Inventory Mod"
+	+Added "Show Durability 2"
+	+Added "Soul Shards"
+	+Added "Stuff Worth Throwing"
+	+Added "The Breakfast Mod"
+	+Added "ThrowCraft Reloaded"
+	+Added "Traincraft"
+	+Added "Unique Animals Mod"
+
+(May/31/2013)
+	*Fixed a lot of information for most of Kinyoshi's mods at his request.
+	+Added 2 mods by Sopwith (Which are the following)
+		+Added "AllSnow Mod"
+		+Added "NoSnow Mod"
+	+Added "Bucket of Jam Mod"
+	+Added "Civil War"
+	+Added "DartCraft"
+	+Added "GrowthCraft"
+	+Added "HUDini"
+	+Added "Magical Crops"
+	+Added "Nerd Weapons Mod"
+	+Added "Pastries Mod"
+	+Added "Player API"
+	+Added "Render Player API"
+	+Added "Scenter"
+	+Added "Smart Moving"
+	+Added "Sonic the Hedgehog Mod"
+	+Added "[Forestry] ThaumicBees"
+	+Added "The Resident Evil Mod"
+	+Added "Timber!"
+	+Added "Too Much TNT"
+
+(May/28/2013)
+	+Added 11 mods by iChun (Which are the following)
+		+Added "Back Tools"
+		+Added "Death Counter"
+		+Added "Gravity Gun"
+		+Added "Hats"
+		+Added "[Hats] Hat Stand"
+		+Added "iChun Util"
+		+Added "Mob Amputation"
+		+Added "Mob Dismemberment"
+		+Added "PortalGun"
+		+Added "Torched"
+		+Added "Trail Mix"
+	+Added 4 mods by Ivorius (Which are the following)
+		+Added "Invincible Hamster"
+		+Added "Middleage Mod"
+		+Added "Pandora's Box"
+		+Added "Psychedelicraft" (Adults Only)
+	+Added 4 mods by Lunatrius (Which are the following)
+		+Added "InGame Info XML"
+		+Added "Monster Spawn Highlighter"
+		+Added "Schematica"
+		+Added "Stackie"
+	+Added 2 mods by PerryFS (Which are the following)
+		+Added "ColorCraft"
+		+Added "CoolFood"
+	+Added "Additional Crafting"
+	+Added "Animated Player Mod"
+	+Added "Ars Magica"
+	+Added "Better Dungeons"
+	+Added "Butterfly Mania"
+	+Added "Chainz: The -Missing- Iron Link"
+	+Added "Chisel"
+	+Added "Complication Craft"
+	+Added "Dungeon Mobs"
+	+Added "EBM"
+	+Added "Enchanting Plus"
+	+Added "ExpandedWeaponry"
+	+Added "Extra Diamonds Mod"
+	+Added "Extra Utilities"
+	+Added "Food Plus"
+	+Added "Jammy Furniture Mod"
+	+Added "InstantBlocks"
+	+Added "Obsidian+"
+	+Added "Legend of Zelda Mod"
+	+Added "MineForever"
+	+Added "Mo' Zombies"
+	+Added "Moar Metals and Minerals"
+	+Added "More Blocks"
+	+Added "More Fuel, Tweaks, and Everything"
+	+Added "Motion Blur Mod"
+	+Added "MusicCraft"
+	+Added "Palaria"
+	+Added "Pixelmon"
+	+Added "SuperGlass"
+	+Added "Super Heroes in Minecraft"
+	+Added "Superheroes Unlimited"
+	+Added "RotaryCraft"
+	+Added "The Barrels Mod"
+	+Added "The Lord of the Rings"
+	+Added "Universal Electricity"
+	+Added "[Universal Electricity] Assembly Line"
+	+Added "[Universal Electricity] Atomic Science"
+	+Added "[Universal Electricity] Biotech"
+	+Added "[Universal Electricity] Electric Expansion"
+	+Added "[Universal Electricity] Fluid Mechanics"
+	+Added "[Universal Electricity] ICBM - Missiles and Military Tech"
+	+Added "[Universal Electricity] Mekanism"
+	+Added "[Universal Electricity] MineChem"
+	+Added "Unlit Torches"
+	+Added "Village Marker"
+	+Added "Wall Jump"
+	+Added "Weather & Tornadoes"
+	+Added "WiNeTel's BetterWorld Mods"
+	+Added "Wither Bow"
+	+Added "XCommands"
+
+(May/19/2013)
+	+Added 13 mods by AtomicStryker (Which are the following)
+		+Added "BattleTowers"
+		+Added "Dynamic Lights"
+		+Added "Finder Compass"
+		+Added "Infernal Mobs"
+		+Added "KenshiroMod"
+		+Added "Magic Yarn"
+		+Added "Minions"
+		+Added "Multi Mine"
+		+Added "Pet Bat"
+		+Added "Ropes+"
+		+Added "Ruins"
+		+Added "Simply Hax"
+		+Added "Stalker Creepers"
+	+Added "[Buildcraft] Logistics Pipes"
+	+Added "Dynmap"
+	+Added "FriendColour"
+	+Added "Gems+"
+	+Added "[IndustrialCraft 2] NetworkAnchor"
+	+Added "[IndustrialCraft 2] QuantumPack"
+	+Added "[Thaumcraft 3] Thaumic Tinkerer"
+
+(May/16/2013)
+	*Updated "CodeChickenCore" description
+	+Added 2 mods by aginsun (Which are the following)
+		+Added "Tale of Kingdoms"
+		+Added "Tale of Kingdoms 2"
+	+Added 5 mods by power crystals (Which are the following)
+		+Added "Flat Bedrock"
+		+Added "MineFactory Reloaded"
+		+Added "Nether Ores"
+		+Added "Power Converters"
+		+Added "PowerCrystals Core"
+	+Added "AlphabetBlocks Mod"
+	+Added "Ariadne's Thread"
+	+Added "Backpacks"
+	+Added "Better Bows Mod"
+	+Added "Ferullo's Gun Mod"
+	+Added "Herobrine Mod"
+	+Added "Household Gods"
+	+Added "[IndustrialCraft 2] Advanced Machines"
+	+Added "Invasion Mod"
+	+Added "Mine Little Pony"
+	+Added "Mr_Crayfish's Furniture Mod"
+	+Added "Naruto C"
+	+Added "Minecraft Comes Alive"
+	+Added "Secret Rooms Mod"
+	+Added "The Eternal Frost"
+	+Added "Throwable Bricks Mod"
+	+Added "Translocator"
+	+Added "Upgrade Pickaxe Mod"
+
+(May/13/2013)
+	*Updated "Gravestone Mod" info: Now "Universal"
+	*Fixed "Redstone Jukebox" link
+	+Added 2 mods by Hurricaaane (Which are the following)
+		+Added "Audiotori"
+		+Added "MAtmos"
+	+Added 9 mods by MatrexsVigil (Which are the following)
+		+Added "Clay Spawn"
+		+Added "Desert Craft"
+		+Added "Get all the Seeds!"
+		+Added "HarvestCraft"
+		+Added "Huge Mushroom Spawn"
+		+Added "Melon Spawn"
+		+Added "Pam Hates Snow"
+		+Added "Simple Recipes"
+		+Added "Weee! Flowers"
+	+Added "BiblioCraft"
+	+Added "Dragon Mounts"
+	+Added "Inventory Tweaks"
+	+Added "MineFantasy"
+	+Added "RadarBro"
+	+Added "Rival Rebels"
+	+Added "Single Player Commands"
+	+Added "Thaumcraft 3"
+	+Added "The Seasons Mod"
+	+Added "TooManyItems"
+	+Added "tukmc"
+	+Added "Unlit Torches"
+	+Added "Village-up"
+	+Added "Wood Converter"
+
+(May/12/2013)
+	+Added 8 mods by FatherToast (Which are the following)
+		+Added "Deadly World"
+		+Added "Dungeon Crawler"
+		+Added "Health Bars"
+		+Added "Lava Monsters"
+		+Added "Lost Books"
+		+Added "Player Heads"
+		+Added "Special Mobs"
+		+Added "Utility Mobs"
+	+Added "Balkon's WeaponMod"
+	+Added "ExtraBiomesXL"
+	+Added "Galacticraft"
+	+Added "Gulliver the Resizing Mod"
+	+Added "Natura"
+	+Added "Ores Extended"
+	+Added "Random Additions"
+	+Added "Uncle Steve's Mods"
+	+Added "VanillaPlus"
+
+(May/11/2013)
+	*Updated "X-Ray Mod (julialy)" info: Now "Forge Compatible"
+	+Added 3 mods by DerBaM (Which are the following)
+		+Added "Doubledoor"
+		+Added "Flat Bedrock Layer"
+		+Added "Grave"
+	+Added 3 mods by Koopinator (Which are the following)
+		+Added "Fancy Fences"
+		+Added "Useful Storage"
+		+Added "Metal Rods"
+	+Added "Animal Bikes"
+	+Added "Aroma1997s Dimensional World"
+	+Added "[Chert Craft] Gravel Replacement 2"
+	+Added "Colorful Armor"
+	+Added "Derpy Squid"
+	+Added "Easier Skeletons Mod"
+	+Added "Flintlock Guns Mod"
+	+Added "Forestry"
+	+Added "Gravestone Mod"
+	+Added "Greg's SG Craft"
+	+Added "[IndustrialCraft 2] CompactWindmills"
+	+Added "More Pistons Mod"
+	+Added "More Pressure Plates Mod"
+	+Added "More XP Mod"
+	+Added "No Fire Spread"
+	+Added "No Ice Melt"
+	+Added "Power of the Elements"
+	+Added "Price of Progress"
+	+Added "Recipe Remover"
+	+Added "Rei's Minimap"
+	+Added "Redstone Energy Field"
+	+Added "TabbyChat"
+	+Added "Team Fortress 2 Mods"
+	+Added "The Ultimate Nether Mod"
+	+Added "Tinted Lamps"
+	+Added "TreeCapitator"
+	+Added "Usefulfood"
+	+Added "X-Ray Mod (julialy)"
+	
+(May/10/2013)
+	*Updated "BigTrees" info: Now "Forge Compatible"
+	*Updated "Xnet's Paxel Mod" info: Now "Universal"
+	+Added "Chocolate Mod"
+	+Added "CJB Mod"
+	+Added "Clay Soldiers Mod"
+	+Added "Consistent Glowstone Drops"
+	+Added "Damage Indicators"
+	+Added "Emoticons"
+	+Added "Equivalent Exchange 3"
+	+Added "Fallout Mod"
+	+Added "FlintCraft"
+	+Added "IndustrialCraft 2"
+	+Added "[IndustrialCraft 2] Advanced Solar Panels"
+	+Added "Metallurgy 3"
+	+Added "Millenaire"
+	+Added "Mine Little Pony"
+	+Added "More Records Mod"
+	+Added "No Regeneration Mod"
+	+Added "Optifine"
+	+Added "Redstone Jukebox"
+	+Added "Useful Redstone Mod"
+	+Added "Wireless Redstone"
+
+(May/08/2013)
+	+Added 7 mods by MamiyaOtaru (Which are the following)
+		+Added "Automatic Wheat Farmer"
+		+Added "Chat Bubbles"
+		+Added "No Slimes in Superflat"
+		+Added "No Voidfog"
+		+Added "Old North / Retro Sun Direction"
+		+Added "Retro Fences"
+		+Added "VoxelMap"
+	+Added 4 mods by chicken_bones (Which are the following)
+		+Added "ChickenChunks"
+		+Added "CodeChickenCore"
+		+Added "Ender Storage"
+		+Added "Not Enough Items (NEI)"
+	+Added 2 mods by Enosphorous (Which are the following)
+		+Added "Botany Mod"
+		+Added "Stonemason Mod"
+	+Added "All-U-Want Inventory Editor"
+	+Added "AlmostPeaceful"
+	+Added "BigTrees"
+	+Added "Buildcraft"
+	+Added "Cyan Warrior Swords Mod"
+	+Added "Dragon Block C"
+	+Added "Duel Tool Mod"
+	+Added "Extra-Blocks mod"
+	+Added "In-game NBTEdit"
+	+Added "IronChests 2"
+	+Added "KBI Enriched Gravel"
+	+Added "More Notches"
+	+Added "Sorcery"
+	+Added "The Camping Mod"
+	+Added "Turret Mod"
+	+Added "Twilight Forest"
+	+Added "Zenotek"
+
+(May/07/2013)
+	+Added "Green Thumb Mod"
+	+Added "NoSlowDown"
+	+Added "Soul Eater Mod"
+
+(May/06/2013)
+	+Added 10 mods by bspkrs (Which are the following)
+		+Added "ArmorStatusHUD"
+		+Added "BlockBreaker / ConnectedDestruction"
+		+Added "bspkrsCore"
+		+Added "CrystalWing"
+		+Added "DirectionHUD"
+		+Added "FloatingRuins"
+		+Added "IngameInfo"
+		+Added "StartingInventory"
+		+Added "StatusEffectHUD"
+		+Added "WorldStateCheckpoints"
+	+Added 3 mods by rbdyck (Which are the following)
+		+Added "Booze"
+		+Added "Kitchens"
+		+Added "Mithril"
+	+Added "HybridCraft"
+	+Added "Mo' Foods+"
+	+Added "SaplingSpawn"
+	+Added "The Ocarina Mod"
+
+(May/05/2013)
+	+Added "More Swords Mod"
+	+Added "Rancraft Penguins"
+
+(May/04/2013)
+	*Changed description for "FlowerCraft"
+	+Added 2 mods by Kinyoshi (Which are the following)
+		+Added "Dead Bush Dos Mod"
+		+Added "Item Soup Dos"
+	+Added 10 mods by wuppy21 (Which are the following)
+		+Added "Goblins and Giants"
+		+Added "Harder Peaceful"
+		+Added "Improved Mob Spawn"
+		+Added "Jelly Cubes"
+		+Added "Koi"
+		+Added "Magical Experience"
+		+Added "Nether Eye"
+		+Added "Pumpkin-less Snow Golem"
+		+Added "Slime Dungeons"
+		+Added "The Peacefulpack"
+	+Added 4 mods by Blubbeltasche (Which are the following)
+		+Added "Flowercraft"
+		+Added "Haycraft"
+		+Added "Slabcraft"
+		+Added "Staircraft"
+	+Added "Applied Energistics"
+	+Added "Bleach Mod"
+	+Added "CustomVolume"
+	+Added "Glowstone Wire"
+	+Added "Liteloader"
+	+Added "M-Ore Mod"
+	+Added "Magic Paintbrush"
+	+Added "SpecialTools"
+	+Added "X-ray Mod (julialy)"
+
+(May/03/2013)
+	+Added 17 mods by Kinyoshi (Which are the following)
+		+Added "Ancient Tree Root Mod"
+		+Added "Bone Ore Mod"
+		+Added "Chert Craft"
+		+Added "[Chert Craft] Gravel Replacement"
+		+Added "Corn Nuts"
+		+Added "Craft Gunpowder Mod"
+		+Added "Dead Bush Replacement"
+		+Added "Desert Cotton Plant"
+		+Added "Desert Grund Plant"
+		+Added "Desert Petrified Wood Mod"
+		+Added "I Don't Like Villages Mod"
+		+Added "Item Soup Replacement"
+		+Added "Mushroom Torch"
+		+Added "Smeltable Gravel Mod"
+		+Added "Stick To Plank Mod"
+		+Added "Stone Basin Biome"
+		+Added "Wool To String Mod"
+	+Added 12 mods by Risugami (Which are the following)
+		+Added "Armor Stand"
+		+Added "AudioMod"
+		+Added "Biosphere"
+		+Added "Death Chest"
+		+Added "Elemental Arrows"
+		+Added "Griefer Creepers"
+		+Added "ModLoader"
+		+Added "More Stackables"
+		+Added "Recipe Book"
+		+Added "Sign Tags"
+		+Added "Spawner GUI"
+		+Added "Shelf"
+	+Added "Forge"
+	+Added "Note Block Display"
+	+Added "Torojima's Chococraft"

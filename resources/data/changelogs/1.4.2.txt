@@ -1,0 +1,131 @@
+(July/16/2013)
+	*Updated "Biomes O' Plenty" info: Added source
+
+(July/05/2013)
+	*Updated "Optifine" description
+	+Added "Gammabright"
+	+Added "MumbleLink"
+
+(July/03/2013)
+	*Updated "Minecraft Capes" name, description and info: Now "Minecraft Capes (MCCapes)" and "Clientside"
+	+Added "Logitech LCD Application for Minecraft"
+	+Added "Water & Sun Proof Endermen Mod"
+	-Removed "Risugami's Mods"
+
+(July/02/2013)
+	*Updated "X-Ray Mod (craftminer502)" info: Now "Clientside"
+
+(July/01/2013)
+	+Added "Mob Spawn Controls"
+
+(June/28/2013)
+	+Added "Single Player Commands"
+
+(November/23/2012)
+	+Added DessertCraft
+	+Added Coloured Beds Mod
+
+(November/20/2012)
+	+Added Wireless Redstone
+
+(November/17/2102)
+	+Added PizzaCraft
+	+Added Invasion Mod
+
+(November/08/2012)
+	+Added Back Tools
+	+Added Moar Achievements 
+	+Added Better than Wolves
+	Fixed Link(s)
+	+Added Seasons Mod
+	+Added Ice Cream Sandwich Creeper Mod
+
+(November/06/2012)
+	+Added Mo' Creatures
+	+Added Movement State Display
+	+Added S.T.F.U.
+
+(November/05/2012)
+	+Added Risugami's Mods
+	+Added Flintcraft
+	+Added PlayerAPI
+	+Added Smart Moving
+	+Added Industrialcraft 2 Beta
+
+(October/31/2012)
+	+Added Forgotten Nature
+	+Added Ultimate Tools
+	+Added Herobrine
+	+Added Durability101
+	+Added DivineRPG
+	+Added Mining Mod
+	+Added Death Scythe
+	*Fixed Links
+	+Added AntiSteve
+	+Added BigTrees
+	+Added Backpacks
+	+Added MoreCrafting
+	+Added Mo' Spawners
+	+Added Crafting ++
+	+Added Command Block Needs
+	+Added Tropicraft
+	+Added Witches and More
+
+(October/30/2012)
+	/Internal: Changed all links to short-hand versions in 1.4.2 list.
+	*Renamed "Pop Off Damage Indicators" to "Damage Indicators" and re-alphabetized.
+	-Removed "AutoSwitch" in favor of "TheBombzen's Mods"
+	+Added TheBombzen's Mods
+	+Added Jetpack, Parachute, Teleporter
+	+Added Bacon Mod
+	+Added Craftable Command Block
+	+Added Team Fortress 2 Mods
+	+Added Nether Fortress Bounding Box Outline
+	+Added SimpleOres
+
+(October/28/2012)
+	+Added Portal Gun
+	+Added TreeFeller
+	+Added Millenaire
+	*Updated MakeOke's link
+	+Added Legendary Beasts
+	+Added Animal Bikes
+
+(October/26/2012)
+	*Fixed some errors
+	+Added Twilight Forest
+	+Added MCDitty
+	+Added AutoSwitch
+	*Fixed some errors
+	+Added DaftPVF's Mods
+	+Added MineChem Mod
+
+(October/25/2012)
+	+Added Enchanting Plus
+	+Added Metallurgy 2
+	+Added Minecraft Capes
+	+Added Enhanced Portals 
+	+Added Paint Mod
+	+Added ReactionCraft Better Bookcases
+	+Added Kinyoshi Mods
+	+Added Custom NPCs
+	+Added TooManyItems
+	+Added CraftGuide
+	+Added Glowstone Wire
+	+Added Railcraft
+	+Added ExtraBiomesXL
+	+Added Rei's Minimap
+	+Added Optifine
+	+Added Tale of Kindoms
+	+Added Pop Off Damage Indicators
+	+Added Chickenbones Mods (Not Enough Items)
+	+Added Pam's Mods
+	+Added EddieV's Chococraft
+
+(October/22/2012)
+	+Added ICBM
+	+Added CreepersNoCreeping
+	+All launchers added to 1.4 list
+	+Added Forge
+	+Added Pre-Historic Mod
+	+Added Better Sprinting
