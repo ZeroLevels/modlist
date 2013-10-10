@@ -5,7 +5,7 @@ include('panel/magic.php');
 
 function readJSON() {
 	if(!isset($GLOBALS['mods'])) {
-		$JSONfile = recode(file_get_contents('list/modlist.json'));
+		$JSONfile = recode(file_get_contents('resources/data/modlist.json'));
 		$GLOBALS['mods'] = sortAlpha(json_decode($JSONfile));
 	}
 	return $GLOBALS['mods'];
@@ -81,7 +81,7 @@ function outputVersion($versions) {
 			if(multimatch($versions,$mod->versions))
 				$newjson[] = $mod;
 		}
-		return str_replace('\\/','/',json_encode($newjson));
+		return json_encode($newjson,JSON_UNESCAPED_SLASHES);
 	} else
 		return outputVersionSingle($versions);
 }
@@ -104,9 +104,9 @@ function outputVersionSingle($version) {
 			if(in_array($version,$mod->versions))
 				$newjson[] = $mod;
 		}
-		return str_replace('\\/','/',json_encode($newjson));
+		return json_encode($newjson,JSON_UNESCAPED_SLASHES);
 	}
-	return str_replace('\\/','/',json_encode($json));
+	return json_encode($json,JSON_UNESCAPED_SLASHES);
 }
 
 function recode($strIn) {
