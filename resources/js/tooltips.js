@@ -129,7 +129,6 @@ $('#name').typeahead([
 	}
 ]);
 function loadMod(name, author) {
-	console.log("Loading mod '" + name + "' by '" + author + "'...");
 	$('#name').popover({
 		html: true,
 		placement: 'top',
@@ -187,6 +186,8 @@ function completeLoadMod(data) {
 	$("#versions input").prop("checked", false);
 	$.each(data['versions'], function() {
 		$("input[value='"+this+"']").prop("checked", true);
+		if(this == "1.5.0")
+			$("input[value='1.5']").prop("checked", true);
 	})
 	$('#old').click();
 	$('#name').popover('hide');
