@@ -34,11 +34,19 @@ $page->startBody();
 	</div>
 </div>
 <div class="panel panel-info">
-	<div class="panel-heading">Current Site</div>
+	<div class="panel-heading">Redesign</div>
 	<div class="panel-body">
 		Still, the site felt outdated. At this point ZeroLevels has been busy with life, so GrygrFlzr was doing a lot of the work by himself.<br />
 		Some of the workload had been reduced during the Back-end Changes, but the efficiency of the submission form increased the rate of the mods that were submitted.<br />
-		One of GrygrFlzr's friends told him about a CSS Framework and this site was then quickly made.
+		One of GrygrFlzr's friends told him about a CSS Framework and this site was made within the span of 2 months.
+	</div>
+</div>
+<div class="panel panel-info">
+	<div class="panel-heading">Recent Updates</div>
+	<div class="panel-body">
+		ZeroLevels is finally able to find free time and actively add mod submissions on to the list.<br />
+		He has retired from being an MCF Moderator, and the modlist thread ownership has been passed on to him.<br />
+		Some more table designs are tested and applied to the site.
 	</div>
 </div>
 <?php

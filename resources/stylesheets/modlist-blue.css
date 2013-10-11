@@ -68,7 +68,7 @@ body {
 .depends:hover, .depends:focus {
 	text-decoration: none;
 }
-.label {
+.label, .tooltip {
 	font-weight: normal;
 }
 .twitter-typeahead .tt-query,
@@ -127,4 +127,10 @@ body {
 
 #modlist thead {
 	background-color: #FFFFFF;
+}
+.modlist-table p {
+	margin: 0;
+}
+.modlist-table a {
+	font-weight: bold;
 }

@@ -71,6 +71,99 @@ function tableGenerate($version) {
 	echo '<span class="input-group-addon"><i class="icon-search"></i><span class="sr-only">Search</span></span>' . "\n";
 	echo '<input type="text" id="search" class="form-control" placeholder="Type to search" autofocus />' . "\n";
 	echo '</div>' . "\n";
+	echo '<table id="modlist" class="table table-hover modlist-table">';
+	echo '<thead>
+		<tr>
+			<th>Mod Name <span class="pull-right">Author</span></th>
+		</tr>
+	</thead>
+	<tbody>';
+	$forge = Array('Forge Required','Forge Compatible', 'Not Forge Compatible');
+	foreach($modlist as &$mod) {
+		if(in_array($version,$mod->versions)) {
+			echo '<tr id="'.filtersort(strtolower($mod->name)).'">' . "\n";
+			echo '<td><p><a href="' . $mod->link . '">';
+			echo $mod->name;
+			echo '</a>';
+			if(isset($mod->other))
+				echo ' ' . $mod->other;
+			echo ' <b><i class="pull-right">' . authorParse($mod->author) . '</i></b></p>';
+			//echo '</td>' . "\n";
+			//echo '<td class="hidden-xs">' . authorParse($mod->author) . '</td>' . "\n";
+			//echo '<td>' . "\n";
+			if(isset($mod->desc) && $mod->desc != "") {
+				echo '<p>'.$mod->desc.'</p>';
+				//echo '<br />' . "\n";
+			}
+			echo '<p>';
+			if(isset($mod->source)) {
+				if($mod->source != "") {
+					echo '<a href="' . $mod->source . '">' . "\n";
+					echo '<i class="icon-globe pull-right opensource"></i><span class="sr-only">Open Source</span>';
+					//echo '<span class="badge pull-right opensource hidden-xs">Open Source</span>' . "\n";
+					echo '</a>' . "\n";
+				} else
+					//echo '<span class="badge pull-right opensource-contained hidden-xs">Open Source</span>' . "\n";
+					echo '<i class="icon-globe pull-right opensource-contained"></i><span class="sr-only">Open Source</span>';
+			}
+			foreach($mod->type as &$type) {
+				switch($type) {
+					case "Universal":
+						echo '<span class="label label-default universal">Universal</span>' . "\n";
+						break;
+					case "Client":
+						echo '<span class="label label-default client">Clientside</span>' . "\n";
+						break;
+					case "Server":
+						echo '<span class="label label-default server">Serverside</span>' . "\n";
+						break;
+					case "SSP":
+						echo '<span class="label label-default ssp">SSP</span>' . "\n";
+						break;
+					case "SMP":
+						echo '<span class="label label-default smp">SMP</span>' . "\n";
+						break;
+					case "LAN":
+						echo '<span class="label label-default lan">LAN</span>' . "\n";
+						break;
+				}
+			}
+			if(in_array('Forge Required',$mod->dependencies))
+				echo '<a href="#forge" class="depends"><span class="label label-success dependency forge-required">Forge Required</span></a>' . "\n";
+			if(in_array('Forge Compatible',$mod->dependencies))
+				echo '<a href="#forge" class="depends"><span class="label label-primary dependency forge-compatible">Forge Compatible</span></a>' . "\n";
+			if(in_array('Not Forge Compatible',$mod->dependencies))
+				echo '<a href="#forge" class="depends"><span class="label label-danger dependency not-forge-compatible">Not Forge Compatible</span></a>' . "\n";
+			if(count($mod->dependencies) > 1) {
+				foreach($mod->dependencies as &$dependency) {
+					if(!in_array($dependency,$forge))
+						echo '<a href="#' . dependTag($dependency) . '" class="depends"><span class="label label-warning dependency">' . $dependency . '</span></a>' . "\n";
+				}
+			}
+			echo '</p></td>' . "\n";
+			echo '</tr>' . "\n";
+		}
+	}
+	echo '</tbody></table>' . "\n";
+}
+
+function oldTableGenerate($version) {
+	$supported = array('1.6.4','1.6.2','1.6.1','1.5.2');
+	$modlist = readJSON();
+	$displayversion = $version;
+	if($displayversion == '1.5.0')
+		$displayversion = '1.5';
+	echo '<div class="page-header">';
+	echo '<h1>' . $displayversion . '<br /><small>Tracking ' . countList($version) . ' mods for this version</small></h1>';
+	echo '</div>';
+	
+	if(!in_array($version,$supported))
+		echo '<div class="alert alert-warning alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button><strong>Warning:</strong> This version is no longer supported and will no longer recieve updates.</div>';
+	
+	echo '<div class="input-group hidden-print">' . "\n";
+	echo '<span class="input-group-addon"><i class="icon-search"></i><span class="sr-only">Search</span></span>' . "\n";
+	echo '<input type="text" id="search" class="form-control" placeholder="Type to search" autofocus />' . "\n";
+	echo '</div>' . "\n";
 	echo '<table id="modlist" class="table table-hover">';
 	echo '<thead>
 		<tr>

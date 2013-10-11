@@ -48,13 +48,6 @@ $page->startBody();
 		You can also look for <em>Open Source</em> using the search bar.
 	</div>
 </div>
-<div class="panel panel-info">
-	<div class="panel-heading">Why can't I see Author names on my mobile phone?</div>
-	<div class="panel-body">
-		The site design is now responsive and because small screen sizes cannot fit too much information as a larger screen, we have hidden both the Author Name.<br />
-		We are looking for ways around this that do not mess with semantics. You are still able to search for author names, they are simply not visible on a small screen.
-	</div>
-</div>
 <?php
 $page->endBody();
 echo $page->render('resources/templates/modlist-template.php');
