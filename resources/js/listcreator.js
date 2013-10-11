@@ -1,6 +1,7 @@
 /* List Creator Javascript
  */
-var sessionVar = Math.random();
+var d = new Date();
+var sessionVar = d.getDate() * d.getHours();
 var skipVersions = false;
 var lastName = '';
 
@@ -238,7 +239,7 @@ function reset() {
 function checkExist() {
 	if($('#name').val != window.lastName) {
 		$('#nametext').html('Matching existing mods...');
-		$.getJSON("../list/modlist.json?" + window.sessionVar, function(data) {
+		$.getJSON("../resources/data/modlist.json?" + window.sessionVar, function(data) {
 			var match = false;
 			for(var i = 0; i < Object.keys(data).length; i++) {
 				if(data[i].name.toUpperCase() == $.trim($('#name').val().toUpperCase())) {
@@ -309,7 +310,7 @@ function checkExist() {
 
 function checkOtherMods() {
 	$('#authortext').html('Matching existing authors...');
-	$.getJSON("../list/modlist.json?" + window.sessionVar, function(data) {
+	$.getJSON("../resources/data/modlist.json?" + window.sessionVar, function(data) {
 		var match = false;
 		var modcount = 0;
 		for(var i = 0; i < Object.keys(data).length; i++) {

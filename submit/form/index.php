@@ -4,6 +4,7 @@ require_once('resources/scripts/engine.php');
 $page = new Page;
 $page->addJavascript('//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js');
 $page->addJavascript('//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js');
+$page->addLastJavascript('/resources/js/submission.js');
 $page->setTitle('Submission Form');
 $page->startBody();
 ?>
