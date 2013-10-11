@@ -22,7 +22,7 @@ foreach($_POST['versions'] as $version) {
 }
 $submission['other'] = $_POST['other'];
 
-if($_POST['request-type']) {
+if($_POST['request-type'] == 'new') {
 	$submission['mode'] = 'New Mod';
 	$submission['link'] = $_POST['link'];
 	$submission['desc'] = $_POST['desc'];

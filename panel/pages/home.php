@@ -12,7 +12,7 @@ function recode($strIn) {
 }
 
 $changelogfile = '../resources/images/changelog.png';
-$modlistfile = '../list/modlist.json';
+$modlistfile = '../resources/data/modlist.json';
 $submissions = readJSON('secrets/submissions.json');
 $finalmods = readJSON($modlistfile);
 
