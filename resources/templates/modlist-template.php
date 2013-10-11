@@ -62,7 +62,7 @@
       <li class="dropdown">
         <a href="/other" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-external-link"></i> More <b class="caret"></b></a>
         <ul class="dropdown-menu">
-			<li><a href="/banners/">Changelog</a></li>
+			<li><a href="/changelog/">Changelog</a></li>
 			<li><a href="/banners/">Banners</a></li>
 			<li><a href="/igml/">Ingame Modlist</a></li>
 			<li><a href="/history/">History</a></li>
