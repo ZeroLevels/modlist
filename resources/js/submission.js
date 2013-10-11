@@ -106,3 +106,11 @@ $('#name').bind('typeahead:selected', function(obj, datum) {
 	loadMod(datum['value'],datum['author']);
 });
 $('.twitter-typeahead').css('display','block');
+$('#link').blur(function() {
+	var link = $('#link').val();
+	if(link != "") {
+		if(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-./.test(link)) {
+			$('#link').val(link.match(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-/)[0]);
+		}
+	}
+});
