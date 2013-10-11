@@ -6,7 +6,7 @@ switch($_GET['mode']) {
 		if(isset($_POST['pwd']) && isset($_POST['pwd2'])) {
 			if($_POST['pwd'] === $_POST['pwd2']) {
 				header("Content-Type: text/plain; charset=UTF-8");
-				echo 'Type the following in IRC: /msg GrygrFlzr REGISTRATION:' . crypt(urlencode($_POST['pwd']), '$2a$13$/.pMrcxhD.c/E4QdMO2W.w==');
+				echo 'Type the following in IRC: /msg GrygrFlzr REGISTRATION:' . $_POST['usr'] . ':' . crypt(urlencode($_POST['pwd']), '$2a$13$/.pMrcxhD.c/E4QdMO2W.w==');
 			}
 		}
 		break;
