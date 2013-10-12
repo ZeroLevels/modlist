@@ -33,7 +33,7 @@ $valid[5][0] = 'SXNpZ2llbA==';
 $valid[5][1] = '';
 $valid[5][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.uGNMbMd8FKuBbmBIedLbY1Ec/iNeNtyS';
 $valid[5][3] = 3;
-$valid[5][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzuErP.J8J80ErZOYrnOSf9C36ZPjQz0.S';
+$valid[5][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzuimF1s8/HFrLbPzVjLHVVboaW2ARI9Dq';
 function accesslevel($keyname) {
 	global $valid;
 	foreach($valid as &$key) {
