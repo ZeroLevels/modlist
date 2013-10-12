@@ -29,6 +29,11 @@ $valid[5][1] = '';
 $valid[5][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.urKbdPMVvuDvkWV0jlRFKYE5J71sAAzS';
 $valid[5][3] = 3;
 $valid[5][4] = '$2a$13$Ilvd3cy/SKPyJfpKFnqqzuygTjXBNyqXHMRH91QErpvrNySiUOehS';
+$valid[5][0] = 'SXNpZ2llbA==';
+$valid[5][1] = '';
+$valid[5][2] = '$2a$13$/.pMrcxhD.c/E4QdMO2W.uGNMbMd8FKuBbmBIedLbY1Ec/iNeNtyS';
+$valid[5][3] = 3;
+$valid[5][4] = '';
 function accesslevel($keyname) {
 	global $valid;
 	foreach($valid as &$key) {
