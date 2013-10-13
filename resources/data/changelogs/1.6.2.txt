@@ -1,3 +1,14 @@
+(October/13/2013)
+	+Added 3 mods by Jannis234 (Which are the following)
+		+Added "PlayerTrans"
+		+Added "Suntorch"
+		+Added "Uncrafter"
+	+Added "Decorative Marble and Chimneys"
+	+Added "More Player Models 2"
+	+Added "Ore Dictionary Converter"
+	+Added "SmoothBedrock"
+	+Added "Torojima's BuildHelper"
+
 (October/09/2013)
 	+Added "Atlanticraft"
 	+Added "FpsPlus"
