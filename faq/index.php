@@ -38,7 +38,8 @@ $page->startBody();
 	<div class="panel-heading">Why is there only one search bar? The old list had separate search bars and dropdowns...</div>
 	<div class="panel-body">
 		While the redesign was in progress, it was obvious that granular search was not needed - simple search was more powerful, could look through description, author, names, tags and was much faster than the old script.<br />
-		It is also more aesthetically pleasing than several textboxes and dropdowns crammed under table headers.
+		It is also more aesthetically pleasing than several textboxes and dropdowns crammed under table headers.<br />
+		However, a new advanced search option is available for those who want it. Simply change the <i>Search Mode</i> to <i>Advanced Search</i> to enable separate field searching.
 	</div>
 </div>
 <div class="panel panel-info">

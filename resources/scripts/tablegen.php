@@ -48,7 +48,7 @@ function countList($version) {
 	$modlist = readJSON();
 	$modcount = 0;
 	foreach($modlist as &$mod) {
-		if(in_array($version,$mod->versions))
+		if($version == 'all' || in_array($version,$mod->versions))
 			$modcount++;
 	}
 	return $modcount;
@@ -70,6 +70,25 @@ function tableGenerate($version) {
 	echo '<div class="input-group hidden-print">' . "\n";
 	echo '<span class="input-group-addon"><i class="icon-search"></i><span class="sr-only">Search</span></span>' . "\n";
 	echo '<input type="text" id="search" class="form-control" placeholder="Type to search" autofocus />' . "\n";
+	echo '<span class="input-group-btn">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Mode <span class="caret"></span></button>
+        <ul class="dropdown-menu pull-right">
+          <li><a id="search-simple">Simple Search</a></li>
+          <li><a id="search-advanced">Advanced Search</a></li>
+          <li class="divider"></li>
+          <li><a id="search-reset">Reset Search Fields</a></li>
+        </ul>
+      </span>';
+	echo '</div>' . "\n";
+	echo '<div class="input-group hidden-print advanced-search hidden-search">' . "\n";
+	echo '<span class="input-group-addon"><i class="icon-credit-card"></i><span class="sr-only">Name Search</span></span>' . "\n";
+	echo '<input type="text" id="search-name" class="form-control" placeholder="Mod Name" />' . "\n";
+	echo '<span class="input-group-addon"><i class="icon-group"></i><span class="sr-only">Author Search</span></span>' . "\n";
+	echo '<input type="text" id="search-author" class="form-control" placeholder="Author" />' . "\n";
+	echo '<span class="input-group-addon"><i class="icon-book"></i><span class="sr-only">Description Search</span></span>' . "\n";
+	echo '<input type="text" id="search-desc" class="form-control" placeholder="Description" />' . "\n";
+	echo '<span class="input-group-addon"><i class="icon-tags"></i><span class="sr-only">Tag Search</span></span>' . "\n";
+	echo '<input type="text" id="search-tag" class="form-control" placeholder="Tags" />' . "\n";
 	echo '</div>' . "\n";
 	echo '<table id="modlist" class="table table-hover modlist-table">';
 	echo '<thead>
@@ -80,14 +99,14 @@ function tableGenerate($version) {
 	<tbody>';
 	$forge = Array('Forge Required','Forge Compatible', 'Not Forge Compatible');
 	foreach($modlist as &$mod) {
-		if(in_array($version,$mod->versions)) {
+		if($version == 'all' || in_array($version,$mod->versions)) {
 			echo '<tr id="'.filtersort(strtolower($mod->name)).'">' . "\n";
-			echo '<td><p><a href="' . $mod->link . '">';
+			echo '<td><p><span><a href="' . $mod->link . '">';
 			echo $mod->name;
 			echo '</a>';
 			if(isset($mod->other))
 				echo ' ' . $mod->other;
-			echo ' <b><i class="pull-right">' . authorParse($mod->author) . '</i></b></p>';
+			echo '</span> <b><i class="pull-right">' . authorParse($mod->author) . '</i></b> </p>';
 			//echo '</td>' . "\n";
 			//echo '<td class="hidden-xs">' . authorParse($mod->author) . '</td>' . "\n";
 			//echo '<td>' . "\n";
