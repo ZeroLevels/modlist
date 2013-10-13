@@ -3773,6 +3773,16 @@
 
 },{
 
+"name":"Decorative Marble and Chimneys",
+"link":"http://bit.ly/17iVTA4",
+"desc":"Two simple decorative mods that incorporate new base blocks, Chimneys, Fireplaces, and Mantels. They add several things including a stack of fire wood that can be ignited using flint and steal, Several new marble based blocks, Five mantel segments that can be connected in many different combinations, Chimney blocks that react to several other types of blocks, and finally the Chimney Top decorations used to finish off the top of your chimney.",
+"author":["Starsetter"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
+
+},{
+
 "name":"Decorative Stuff",
 "link":"http://bit.ly/GIlaNK",
 "desc":"Adds armor stands and plates that you can place food on, giving some their own unique model, such as pumpkin pie, chicken, and apples. More is planned.",
@@ -3955,12 +3965,13 @@
 },{
 
 "name":"DivineRPG",
+"other":"(Beta)",
 "link":"http://bit.ly/RBORmX",
 "desc":"Adds new dimensions, mobs and items.",
 "author":["Xolova"],
-"type":["Universal"],
+"type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.6.2","1.6.4"]
 
 },{
 
@@ -4040,9 +4051,9 @@
 "link":"http://bit.ly/Shmlc3",
 "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
 "author":["BarracudaATA"],
-"type":["SSP","LAN"],
+"type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6545,7 +6556,7 @@
 "source":"https://github.com/Kobata/inventory-tweaks",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6626,7 +6637,7 @@
 "author":["monnef"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -6952,6 +6963,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.4","1.4.5"]
+
+},{
+
+"name":"LightCraft",
+"link":"http://bit.ly/16UBqHQ",
+"desc":"LightCraft is a mod that adds the light as a component to Minecraft. It adds many blocks and items that helps with the journey of survival, like the Light Blocks.",
+"author":["anonimo182"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -8376,11 +8397,21 @@
 
 "name":"More Player Models",
 "link":"http://bit.ly/W9GqQD",
-"desc":"",
+"desc":"Allows you to play as other models.",
 "author":["Noppes"],
-"type":["SSP","SMP","LAN"],
+"type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2"]
+
+},{
+
+"name":"More Player Models 2",
+"link":"http://bit.ly/W9GqQD",
+"desc":"Allows the user to customize their in-game player model by changing the scale and shape of each main bodypart, as well as adding other features like chat bubbles, rendering the first tool on your hotbar on your back, and animations such as sitting, dancing, and crawling.",
+"author":["Noppes"],
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -8836,7 +8867,7 @@
 "source":"https://github.com/mDiyo/Natura",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9218,6 +9249,17 @@
 
 },{
 
+"name":"Ore Dictionary Converter",
+"link":"http://bit.ly/ZwGpZN",
+"desc":"Adds blocks and items that convert between different versions of the same ore using the Forge ore dictionary.",
+"author":["EXTER"],
+"source":"https://github.com/EXTER7/OreDictionaryConverter",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Ore Dimension's Mod",
 "link":"http://bit.ly/12i3UD8",
 "desc":"Adds 5 new dimensions based on Minecraft ores.",
@@ -9569,6 +9611,16 @@
 "type":["Server"],
 "dependencies":["Forge Required"],
 "versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+
+},{
+
+"name":"PlayerTrans",
+"link":"http://bit.ly/16ECNI5",
+"desc":"Adds blocks for teleporting players around the world.",
+"author":["Jannis234"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10097,7 +10149,7 @@
 "source":"https://github.com/SDXC/Reciper",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -10922,6 +10974,16 @@
 
 },{
 
+"name":"SmoothBedrock",
+"link":"http://bit.ly/1ailXMG",
+"desc":"Flattens the bedrock to be a single layer.",
+"author":["samtrion"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Snow Mod",
 "link":"http://bit.ly/18CdPZD",
 "desc":"Adds a custom snow block that, when snowing, will grow. On new World/chunk generation it replaces all vanilla snow with the exception of on leaves and wood with the new snow.",
@@ -11339,7 +11401,7 @@
 "author":["senpaisubaraki"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7"]
+"versions":["1.4.6","1.4.7","1.5.2","1.6.4"]
 
 },{
 
@@ -11350,6 +11412,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7"]
+
+},{
+
+"name":"Suntorch",
+"link":"http://bit.ly/16ECNI5",
+"desc":"Adds 3 new torches that all have the ability to light mobs on fire, each tier bringing something extra.",
+"author":["Jannis234"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11387,7 +11459,7 @@
 "link":"http://bit.ly/11KenLp",
 "desc":"Adds the ability to become several Marvel superheroes.",
 "author":["colossali"],
-"type":["universal"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.2","1.6.2"]
 
@@ -11415,11 +11487,11 @@
 
 "name":"Superheroes Unlimited",
 "link":"http://bit.ly/17b4RkE",
-"desc":"Lets you become superheroes in minecraft!",
+"desc":"Lets you become superheroes as well as adds such things as thugs, cooks, and super villains!",
 "author":["Tihyo"],
-"type":["SSP","LAN"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -12268,7 +12340,7 @@
 "source":"https://github.com/mDiyo/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12370,6 +12442,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Torojima's BuildHelper",
+"link":"http://bit.ly/17iVxK1",
+"desc":"Adds wands which can be used for convenient and fast building of walls, filling of bodies of water of ditches and valleys, creating of islands and digging of shafts or removing of mountains.",
+"author":["Torojima"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -12613,6 +12695,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.5.2"]
+
+},{
+
+"name":"Uncrafter",
+"link":"http://bit.ly/16ECNI5",
+"desc":"Adds a block like the crafting table that does the reverse operation.  Works for mod block/items as well.",
+"author":["Jannis234"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
