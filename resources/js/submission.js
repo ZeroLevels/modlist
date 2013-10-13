@@ -3,7 +3,7 @@ $('#name').typeahead([
 		name: 'mods',
 		remote: '/resources/scripts/typeahead.php?q=%QUERY',
 		template: [
-			'<p><strong>{{value}}</strong> <i class="pull-right">{{author}}</i></p>',
+			'<p><strong>{{value}}</strong> {{other}} <i class="pull-right">{{author}}</i></p>',
 			'<p>{{desc}}</p>'
 		].join(''),
 		engine: Hogan

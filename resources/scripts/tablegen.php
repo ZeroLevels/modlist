@@ -306,16 +306,17 @@ function listAllMods($query) {
 	$mods = readJSON();
 	$newlist = array();
 	foreach ($mods as &$mod) {
-		if(stristr($mod->name, $query) !== false) {
+		if(stristr($mod->name, $query) !== false || (isset($mod->other) && stristr($mod->other, $query) !== false)) {
 			$entry['author'] = authorParse($mod->author);
 			$entry['desc'] = $mod->desc;
 			$entry['value'] = $mod->name;
-			if(isset($mod->other))
+			if(isset($mod->other)) {
+				$entry['other'] = $mod->other;
 				$entry['tokens'] = array_merge(
 					explode(' ',filtersortspace($mod->name)),
 					explode(' ',filtersortspace($mod->other))
 				);
-			else
+			} else
 				$entry['tokens'] = explode(' ',filtersortspace($mod->name));
 			$notfound = true;
 			foreach($newlist as $previous) {
