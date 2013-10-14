@@ -88,6 +88,7 @@ function convertChangelog($mods, $version) {
 	$result = '';
 	
 	if(count($updated) > 3) {
+		$updated = shuffle($updated);
 		$result .= 'Updated ' . formatMod($updated[0],$version) . ', ' . formatMod($updated[1],$version) . ', and ' . (string)(count($updated)-2) . ' other mods... ';
 	} elseif(count($updated) > 1) {
 		$last = array_pop($updated);
@@ -100,6 +101,7 @@ function convertChangelog($mods, $version) {
 	}
 	
 	if(count($added) > 3) {
+		$updated = shuffle($added);
 		$result .= 'Added ' . formatMod($added[0],$version) . ', ' . formatMod($added[1],$version) . ', and ' . (string)(count($added)-2) . ' other mods... ';
 	} elseif(count($added) > 1) {
 		$last = array_pop($added);
@@ -112,6 +114,7 @@ function convertChangelog($mods, $version) {
 	}
 	
 	if(count($removed) > 3) {
+		$updated = shuffle($removed);
 		$result .= 'Removed ' . formatMod($removed[0],$version) . ', ' . formatMod($removed[1],$version) . ', and ' . (string)(count($removed)-2) . ' other mods... ';
 	} elseif(count($removed) > 1) {
 		$last = array_pop($removed);
