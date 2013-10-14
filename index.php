@@ -45,7 +45,8 @@ $klein->respond(function ($request, $response, $service, $app) {
         
         $data = array(
             "versions" => $versions,
-            "versions_grouped" => $versions_grouped
+            "versions_grouped" => $versions_grouped,
+            "versions_count" => $versions_count,
         );
         
         $encoded_data = json_encode($data, JSON_PRETTY_PRINT);
@@ -56,6 +57,7 @@ $klein->respond(function ($request, $response, $service, $app) {
     
     $service->versions = array_reverse($data['versions']);
     $service->versions_grouped = array_reverse($data['versions_grouped']);
+    $service->versions_count = $data['versions_count'];
     $service->layout('html/layouts/modlist.phtml');
 });
 
@@ -96,7 +98,41 @@ $klein->respond('GET', '/[version|changelog:option]/latest', function ($request,
  * @return page
  */
 $klein->respond('GET', '/version/[*:version]', function ($request, $response, $service, $app) {
-    $service->render('html/version/list.phtml', array('version' => $request->param('version')));
+    $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
+    
+    $forge = array(
+        'forge-required' => 'success',
+        'forge-compatible' => 'primary',
+        'not-forge-compatible' => 'danger'
+    );
+
+    $type = array(
+        'Universal' => 'Universal',
+        'Client' => 'Clientside',
+        'Server' => 'Serverside',
+        'SSP' => 'SSP',
+        'SMP' => 'SMP',
+        'LAN' => 'LAN'
+    );
+    
+    $mods = array();
+    foreach ($mod_list as $key => $mod) {
+        foreach($mod['versions'] as $version) {
+            if($version == $request->param('version')) {
+                $mod_key = array_push($mods, $mod);
+                $mod_names[$mod_key] = preg_replace("/[^A-Za-z0-9 ]/", '', $mod['name']);
+            }
+        }
+    }
+    
+    asort($mod_names);
+    
+    $sorted_mods = array();
+    foreach ($mod_names as $key => $mod_name) {
+        $sorted_mods[] = $mods[$key - 1];
+    }
+    
+    $service->render('html/version/list.phtml', array('version' => $request->param('version'), 'mods' => $sorted_mods, 'type' => $type, 'forge' => $forge));
 });
 
 /*
@@ -158,7 +194,7 @@ $klein->respond('GET', '/old', function ($request, $response, $service, $app) {
  * @return page
  */
 $klein->respond('404', function ($request, $response, $service, $app) {
-    echo '404';
+    $service->render('html/404.html');
 });
 
 $klein->dispatch();

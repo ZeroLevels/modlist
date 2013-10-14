@@ -1,1 +1,88 @@
-<?php echo tableGenerate($this->version); ?>
+<div class="page-header">
+    <h1><?php echo $this->version; ?><br/>
+        <small>Tracking <?php echo $this->versions_count[$this->version]; ?> mods for this version - <a href="/changelog/<?php echo $this->version; ?>">View Changelog</a></small>
+    </h1>
+</div>
+<!-- 
+TODO: supported?
+<div class="alert alert-warning alert-dismissable">
+    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+    <strong>Warning:</strong> This version is no longer supported and will no longer recieve updates.
+</div>
+-->
+<div class="input-group hidden-print">
+    <span class="input-group-addon"><i class="icon-search"></i><span class="sr-only">Search</span></span>
+    <input type="text" id="search" class="form-control" placeholder="Type to search" autofocus />
+    <span class="input-group-btn">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Mode <span class="caret"></span></button>
+        <ul class="dropdown-menu pull-right">
+            <li><a id="search-simple">Simple Search</a></li>
+            <li><a id="search-advanced">Advanced Search</a></li>
+            <li class="divider"></li>
+            <li><a id="search-reset">Reset Search Fields</a></li>
+        </ul>
+    </span>
+</div>
+<div class="input-group hidden-print advanced-search hidden-search">
+    <span class="input-group-addon"><i class="icon-credit-card"></i><span class="sr-only">Name Search</span></span>
+    <input type="text" id="search-name" class="form-control" placeholder="Mod Name" />
+    <span class="input-group-addon"><i class="icon-group"></i><span class="sr-only">Author Search</span></span>
+    <input type="text" id="search-author" class="form-control" placeholder="Author" />
+    <span class="input-group-addon"><i class="icon-book"></i><span class="sr-only">Description Search</span></span>
+    <input type="text" id="search-desc" class="form-control" placeholder="Description" />
+    <span class="input-group-addon"><i class="icon-tags"></i><span class="sr-only">Tag Search</span></span>
+    <input type="text" id="search-tag" class="form-control" placeholder="Tags" />
+</div>
+<table id="modlist" class="table table-hover modlist-table">
+    <thead>
+        <tr>
+            <th>Mod Name <span class="pull-right">Author</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php foreach ($this->mods as $mod) { ?>
+        <tr id="<?php echo filtersort(strtolower($mod['name'])); ?>">
+            <td>
+                <p>
+                    <span>
+                        <a href="<?php echo $mod['link']; ?>"><?php echo $mod['name']; ?></a>
+                        <?php
+                        if (isset($mod['other'])) { echo $mod['other']; }
+                        ?>
+                    </span>
+                    <strong>
+                        <i class="pull-right"><?php echo authorParse($mod['author']); ?></i>
+                    </strong>
+                </p>
+            <?php if (isset($mod['desc']) && $mod['desc'] != "") { ?>
+                <p><?php echo $mod['desc']; ?></p>
+            <?php } ?>
+                <p>
+            <?php if (isset($mod['source'])) { ?>
+                <?php if ($mod['source'] != "") { ?>
+                    <a href="<?php echo $mod['source']; ?>"><i class="icon-globe pull-right opensource"></i><span class="sr-only">Open Source</span></a>
+                <?php } else { ?>
+                    <i class="icon-globe pull-right opensource-contained"></i>
+                    <span class="sr-only">Open Source</span>
+                <?php } ?>
+            <?php } ?>
+            <?php foreach ($mod['type'] as $type) { ?>
+                <span class="label label-default <?php echo strtolower($type); ?>"><?php echo $this->type[$type]; ?></span>
+            <?php } ?>
+            <?php foreach ($mod['dependencies'] as $dependency) { $forge_type = strtolower(str_replace(' ', '-', $dependency)); ?>
+                <?php if (isset($this->forge[$forge_type])) { ?>
+                    <a href="#forge" class="depends">
+                        <span class="label label-<?php echo $this->forge[$forge_type]; ?> dependency <?php echo $forge_type; ?>"><?php echo $dependency; ?></span>
+                    </a>
+                <?php } else { ?>
+                    <a href="#<?php echo dependTag($dependency); ?>" class="depends">
+                        <span class="label label-warning dependency"><?php echo $dependency; ?></span>
+                    </a>
+                <?php } ?>
+            <?php } ?>
+                </p>
+            </td>
+        </tr>
+        <?php } ?>
+    </tbody>
+</table>
