@@ -41,7 +41,7 @@ TODO: supported?
     </thead>
     <tbody>
         <?php foreach ($this->mods as $mod) { ?>
-        <tr id="<?php echo filtersort(strtolower($mod['name'])); ?>">
+        <tr id="<?php echo preg_replace("/[^0-9a-zA-Z]/i", '', strtolower($mod['name'])); ?>">
             <td>
                 <p>
                     <span>
