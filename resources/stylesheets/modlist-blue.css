@@ -146,3 +146,6 @@ body {
 .input-group .input-group-addon:not(:first-child):not(:last-child), .input-group .form-control:not(:first-child):not(:last-child) {
 	border-right-width: 0;
 }
+.home-changelog div p:nth-of-type(2) {
+	min-height: 40px;
+}

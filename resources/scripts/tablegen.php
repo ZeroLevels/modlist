@@ -61,7 +61,7 @@ function tableGenerate($version) {
 	if($displayversion == '1.5.0')
 		$displayversion = '1.5';
 	echo '<div class="page-header">';
-	echo '<h1>' . $displayversion . '<br /><small>Tracking ' . countList($version) . ' mods for this version</small></h1>';
+	echo '<h1>' . $displayversion . '<br /><small>Tracking ' . countList($version) . ' mods for this version - <a href="/changelog/'.$displayversion.'">View Changelog</a></small></h1>';
 	echo '</div>';
 	
 	if(!in_array($version,$supported))

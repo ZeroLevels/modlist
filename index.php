@@ -14,7 +14,7 @@ $page->startBody();
 		<a href="/history" class="btn btn-default btn-lg">What happened to the site?</a>
 	</p>
 </div>
-<div class="row">
+<div class="row home-changelog">
 	<div class="col-sm-6 col-lg-3">
 		<h2>1.6.4</h2>
 		<p><i>Last Updated <?php echo changelogDate('1.6.4') ?></i></p>
