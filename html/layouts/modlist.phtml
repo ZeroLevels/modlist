@@ -20,7 +20,7 @@
             "//bit.ly/",
             "//www.minecraftforum.net/",
         );
-        $scripts = array(
+        $javascripts = array(
             "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
             "//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js",
             "/resources/js/jquery.stickytableheaders.min.js",
@@ -55,23 +55,14 @@
                     <li class="dropdown">
                         <a href="/version" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-list"></i> List <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li class="dropdown-header hidden-xs">1.6</li>
-                            <li class="version-link"><a href="/version/1.6.4"><span class="badge pull-right"><?php echo countList('1.6.4'); ?></span>1.6.4</a></li>
-                            <li class="version-link"><a href="/version/1.6.2"><span class="badge pull-right"><?php echo countList('1.6.2'); ?></span>1.6.2</a></li>
-                            <li class="version-link"><a href="/version/1.6.1"><span class="badge pull-right"><?php echo countList('1.6.1'); ?></span>1.6.1</a></li>
-                            <li class="divider"></li>
-                            <li class="dropdown-header hidden-xs">1.5</li>
-                            <li class="version-link"><a href="/version/1.5.2"><span class="badge pull-right"><?php echo countList('1.5.2'); ?></span>1.5.2</a></li>
-                            <li class="version-link"><a href="/version/1.5.1"><span class="badge pull-right"><?php echo countList('1.5.1'); ?></span>1.5.1</a></li>
-                            <li class="version-link"><a href="/version/1.5"><span class="badge pull-right"><?php echo countList('1.5.0'); ?></span>1.5</a></li>
-                            <li class="divider"></li>
-                            <li class="dropdown-header hidden-xs">1.4</li>
-                            <li class="version-link"><a href="/version/1.4.7"><span class="badge pull-right"><?php echo countList('1.4.7'); ?></span>1.4.6/1.4.7</a></li>
-                            <li class="version-link"><a href="/version/1.4.5"><span class="badge pull-right"><?php echo countList('1.4.5'); ?></span>1.4.4/1.4.5</a></li>
-                            <li class="version-link"><a href="/version/1.4.2"><span class="badge pull-right"><?php echo countList('1.4.2'); ?></span>1.4.2</a></li>
-                            <li class="divider"></li>
-                            <li class="dropdown-header hidden-xs">1.3</li>
-                            <li class="version-link"><a href="/version/1.3.2"><span class="badge pull-right"><?php echo countList('1.3.2'); ?></span>1.3.2</a></li>
+                        <?php $divider = 1; ?>
+                        <?php foreach ($this->versions_grouped as $group => $versions) { ?>
+                            <li class="dropdown-header hidden-xs"><?php echo $group; ?></li>
+                            <?php foreach ($versions as $version => $count) { ?>
+                                <li class="version-link"><a href="/version/<?php echo $version; ?>"><span class="badge pull-right"><?php echo $count ?></span><?php echo $version; ?></a></li>
+                            <?php } ?>
+                            <?php if($divider < count($this->versions_grouped)) { ?><li class="divider"></li><?php } ?>
+                            <?php $divider++; } ?>
                         </ul>
                     </li>
                     <li><a href="/submit/"><i class="icon-edit"></i> Submit Mods</a></li>
@@ -87,7 +78,7 @@
                         </ul>
                     </li>
                 </ul>
-            </div><!-- /.navbar-collapse -->
+            </div>
         </div>
     </nav>
     <div class="container">
@@ -96,8 +87,6 @@
         </ul>
         <?php echo $this->body; ?>
     </div>
-
-    <!-- Modal -->
     <div class="modal fade" id="alert" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -114,14 +103,9 @@
             </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
-    <?php
-    foreach ($this->javascripts as $javascript) {
-        echo '<script src="' . $javascript . '"></script>' . "\n";
-    }
-    foreach ($this->lastjavascripts as $javascript) {
-        echo '<script src="' . $javascript . '"></script>' . "\n";
-    }
-    ?>
+    <?php foreach ($javascripts as $javascript) { ?>
+    <script type="text/javascript" src="<?php echo $javascript; ?>"></script>
+    <?php } ?>
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.min.js"></script>
     <![endif]-->

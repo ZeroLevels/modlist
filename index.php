@@ -46,8 +46,8 @@ $klein->respond(function ($request, $response, $service, $app) {
         $data = json_decode(file_get_contents($modlist_cache), true);
     }
     
-    $app->versions = array_reverse($data['versions']);
-    $app->versions_grouped = array_reverse($data['versions_grouped']);
+    $service->versions = array_reverse($data['versions']);
+    $service->versions_grouped = array_reverse($data['versions_grouped']);
     $service->layout('html/layouts/modlist.phtml');
 });
 
