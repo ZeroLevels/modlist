@@ -96,13 +96,7 @@ $klein->respond('GET', '/[version|changelog:option]/latest', function ($request,
  * @return page
  */
 $klein->respond('GET', '/version/[*:version]', function ($request, $response, $service, $app) {
-    $mod_list = json_decode(file_get_contents('data/modlist.json'), 1);
-    foreach ($mod_list as $mod) {
-        if(in_array($request->param('version'), $mod['versions'])) {
-            $mods[] = $mod;
-        }
-    }
-    $service->render('html/version/list.phtml', array('mods' => $mods));
+    $service->render('html/version/list.phtml', array('version' => $request->param('version')));
 });
 
 /*
