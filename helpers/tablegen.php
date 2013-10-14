@@ -2,14 +2,13 @@
 /* Table generation code
  * Written by GrygrFlzr
  */
-set_include_path($_SERVER['DOCUMENT_ROOT']);
-function recode($strIn) {
-	return mb_convert_encoding($strIn, 'UTF-8', 'auto');
+function g_recode($strIn) {
+        return mb_convert_encoding($strIn, 'UTF-8', 'auto');
 }
 
 function readJSON() {
 	if(!isset($GLOBALS['mods'])) {
-		$JSONfile = recode(file_get_contents('resources/data/modlist.json',true));
+		$JSONfile = g_recode(file_get_contents('data/modlist.json',true));
 		$GLOBALS['mods'] = sortAlpha(json_decode($JSONfile));
 	}
 	return $GLOBALS['mods'];

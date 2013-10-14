@@ -1,1 +1,0 @@
-<p class="padded" style="font-size:2em">This list (<?php echo str_replace('_','/',$version); ?>) will no longer be updated. More recent lists are the priority. <a href="/latest/" class="ns">Click here</a> to the see the latest list.</p>

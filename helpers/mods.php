@@ -1,51 +1,7 @@
 <?php
-set_include_path($_SERVER['DOCUMENT_ROOT']);
-require_once('resources/scripts/engine.php');
-date_default_timezone_set('UTC');
-$page = new Page;
-$page->setTitle('Home');
-$page->startBody();
-?>
-<div class="jumbotron">
-	<h1>MCF Modlist</h1>
-	<p>A list of Minecraft mods compiled by the community</p>
-	<p>
-		<a href="/version/latest" class="btn btn-primary btn-lg">Check out the latest mod list!</a>
-		<a href="/history" class="btn btn-default btn-lg">What happened to the site?</a>
-	</p>
-</div>
-<div class="row home-changelog">
-	<div class="col-sm-6 col-lg-3">
-		<h2>1.6.4</h2>
-		<p><i>Last Updated <?php echo changelogDate('1.6.4') ?></i></p>
-		<p><?php echo changelogParse('1.6.4') ?></p>
-		<p><a class="btn btn-primary" href="/version/1.6.4">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.6.4">View all changes &raquo;</a></p>
-	</div>
-	<div class="col-sm-6 col-lg-3">
-		<h2>1.6.2</h2>
-		<p><i>Last Updated <?php echo changelogDate('1.6.2') ?></i></p>
-		<p><?php echo changelogParse('1.6.2') ?></p>
-		<p><a class="btn btn-primary" href="/version/1.6.2">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.6.2">View all changes &raquo;</a></p>
-	</div>
-	<div class="col-sm-6 col-lg-3">
-		<h2>1.6.1</h2>
-		<p><i>Last Updated <?php echo changelogDate('1.6.1') ?></i></p>
-		<p><?php echo changelogParse('1.6.1') ?></p>
-		<p><a class="btn btn-primary" href="/version/1.6.1">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.6.1">View all changes &raquo;</a></p>
-	</div>
-	<div class="col-sm-6 col-lg-3">
-		<h2>1.5.2</h2>
-		<p><i>Last Updated <?php echo changelogDate('1.5.2') ?></i></p>
-		<p><?php echo changelogParse('1.5.2') ?></p>
-		<p><a class="btn btn-primary" href="/version/1.5.2">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.5.2">View all changes &raquo;</a></p>
-	</div>
-</div>
-<?php
-$page->endBody();
-echo $page->render('resources/templates/modlist-template.php');
 
 function changelogDate($version) {
-	$file = file('resources/data/changelogs/'.$version.'.txt');
+	$file = file('data/changelogs/'.$version.'.txt');
 	$date = substr(trim($file[0]),1,-1);
 	$date = parseDate($date);
 	return date('jS F, Y',$date);
@@ -57,7 +13,7 @@ function parseDate($date) {
 }
 
 function changelogParse($version) {
-	$file = file('resources/data/changelogs/'.$version.'.txt');
+	$file = file('data/changelogs/'.$version.'.txt');
 	$latestchanges = array();
 	for($i=1;$i<count($file);$i++) {
 		if($file[$i] == "\r\n" || $file[$i] == "\n")

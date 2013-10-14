@@ -48,7 +48,6 @@
                 </button>
                 <a class="navbar-brand" href="/">MCF Modlist</a>
             </div>
-
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="/"><i class="icon-home"></i> Home</a></li>
@@ -85,7 +84,7 @@
         <ul class="breadcrumb hidden-print">
             <?php echo breadcrumbs(); ?>
         </ul>
-        <?php echo $this->body; ?>
+        <?php echo $this->yieldView(); ?>
     </div>
     <div class="modal fade" id="alert" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -100,9 +99,9 @@
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                 </div>
-            </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
+            </div>
+        </div>
+    </div>
     <?php foreach ($javascripts as $javascript) { ?>
     <script type="text/javascript" src="<?php echo $javascript; ?>"></script>
     <?php } ?>

@@ -1,0 +1,16 @@
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Changelog Version</th>
+            <th>Mods listed</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php foreach ($this->changelogs as $version) { ?>
+        <tr>
+            <td><a href="/changelog/<?php echo $version; ?>"><?php echo $version; ?></a></td>
+            <td><?php countList($version); ?></td>
+        </tr>
+        <?php } ?>
+    </tbody>
+</table>

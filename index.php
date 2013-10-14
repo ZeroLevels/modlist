@@ -1,6 +1,10 @@
 <?php
 
+date_default_timezone_set('UTC');
+
 require_once 'vendor/autoload.php';
+require_once 'helpers/mods.php';
+require_once 'helpers/tablegen.php';
 
 $klein = new \Klein\Klein();
 
@@ -9,10 +13,10 @@ $klein = new \Klein\Klein();
  * TODO: incl. manual settings for no longer supported
  */
 $klein->respond(function ($request, $response, $service, $app) {
-    $modlist_hash = md5_file('resources/data/modlist.json');
-    $modlist_cache = 'resources/data/cache/' . $modlist_hash . '.json';
+    $modlist_hash = md5_file('data/modlist.json');
+    $modlist_cache = 'data/cache/' . $modlist_hash . '.json';
     if(file_exists($modlist_cache) && time() - filemtime($modlist_cache) >= 600 || !file_exists($modlist_cache)) {
-        $mod_list = json_decode(file_get_contents('resources/data/modlist.json'), 1);
+        $mod_list = json_decode(file_get_contents('data/modlist.json'), 1);
         $versions = array();
         $versions_count = array();
         foreach ($mod_list as $mod) {
@@ -33,6 +37,10 @@ $klein->respond(function ($request, $response, $service, $app) {
             $point = explode(".", $version);
             $major = $point[0] . '.' . $point[1];
             $versions_grouped[$major][$version] = $versions_count[$version];
+        }
+        
+        foreach ($versions_grouped as $major => $verss) {
+            $versions_grouped[$major] = array_reverse($verss);
         }
         
         $data = array(
@@ -57,7 +65,7 @@ $klein->respond(function ($request, $response, $service, $app) {
  * @return page
  */
 $klein->respond('GET', '/', function ($request, $response, $service, $app) {
-   echo 'index!!!';
+   $service->render('html/home/index.phtml');
 });
 
 /*
@@ -67,7 +75,8 @@ $klein->respond('GET', '/', function ($request, $response, $service, $app) {
  * @return redirect
  */
 $klein->respond('GET', '/latest/[version|changelog:option]', function ($request, $response, $service, $app) {
-    $response->redirect('/' . $request->param('option') . '/' . $app->versions[0]);
+    $response->redirect('/' . $request->param('option') . '/' . $service->versions[0]);
+    $response->send();
 });
 
 /*
@@ -75,8 +84,9 @@ $klein->respond('GET', '/latest/[version|changelog:option]', function ($request,
  * Redirects to the correct latest page for version or changelog
  * @return redirect
  */
-$klein->respond('GET', '/[version|changelog:option]/latest', function ($request, $response, $service, $app) {
+$klein->respond('GET', '/[version|changelog:option]/latest', function ($request, $response, $service, $app, $klein) {
     $response->redirect('/latest/' . $request->param('option'));
+    $response->send();
 });
 
 /*
@@ -86,7 +96,7 @@ $klein->respond('GET', '/[version|changelog:option]/latest', function ($request,
  * @return page
  */
 $klein->respond('GET', '/version/[*:version]', function ($request, $response, $service, $app) {
-    $mod_list = json_decode(file_get_contents('resources/data/modlist.json'), 1);
+    $mod_list = json_decode(file_get_contents('data/modlist.json'), 1);
     foreach ($mod_list as $mod) {
         if(in_array($request->param('version'), $mod['versions'])) {
             $mods[] = $mod;
@@ -102,6 +112,20 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
  */
 $klein->respond('GET', '/list/[*:version]', function ($request, $response, $service, $app) {
     $response->redirect('/version/' . $request->param('version'));
+    $response->send();
+});
+
+/*
+ * changelog
+ * List all available changelogs
+ * @return page
+ */
+$klein->respond('GET', '/changelog', function ($request, $response, $service, $app) {
+    $logs = scandir('data/changelogs', 1);
+    foreach ($logs as $log) {
+        $changelogs[] = substr($log, 0, -4);
+    }
+    $service->render('html/changelog/index.phtml', array('changelogs' => $changelogs));
 });
 
 /*
@@ -111,7 +135,7 @@ $klein->respond('GET', '/list/[*:version]', function ($request, $response, $serv
  * @return page
  */
 $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, $service, $app) {
-    $changelog = file_get_contents('resources/data/changelogs/' . $request->param('version') . '.txt');
+    $changelog = file_get_contents('data/changelogs/' . $request->param('version') . '.txt');
     $service->render('html/changelog/log.phtml', array('changelog' => $changelog));
 });
 
@@ -122,6 +146,16 @@ $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, 
  */
 $klein->respond('GET', '/[banners|credits|faq|history|igml|api_docs:page]', function ($request, $response, $service, $app) {
     $service->render('html/content/' . $request->param('page') . '.phtml');
+});
+
+/*
+ * old
+ * Redirect /old to old.modlist.mcf.li for ZeroLevels's history :-)
+ * @return page
+ */
+$klein->respond('GET', '/old', function ($request, $response, $service, $app) {
+    $response->redirect('http://old.modlist.mcf.li/');
+    $response->send();
 });
 
 /*
