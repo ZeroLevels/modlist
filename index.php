@@ -132,7 +132,7 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
         $sorted_mods[] = $mods[$key - 1];
     }
     
-    $service->render('html/version/list.phtml', array('version' => $request->param('version'), 'mods' => $sorted_mods, 'type' => $type, 'forge' => $forge));
+    $service->render('html/mods/list.phtml', array('version' => $request->param('version'), 'mods' => $sorted_mods, 'type' => $type, 'forge' => $forge));
 });
 
 /*
