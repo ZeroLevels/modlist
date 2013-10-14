@@ -4,7 +4,6 @@ date_default_timezone_set('UTC');
 
 require_once 'vendor/autoload.php';
 require_once 'helpers/mods.php';
-require_once 'helpers/tablegen.php';
 
 $klein = new \Klein\Klein();
 

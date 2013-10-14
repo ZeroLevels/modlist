@@ -51,7 +51,7 @@ TODO: supported?
                         ?>
                     </span>
                     <strong>
-                        <i class="pull-right"><?php echo authorParse($mod['author']); ?></i>
+                        <i class="pull-right"><?php if(count($mod['author']) == 1) { echo $mod['author'][0]; } else { echo implode(", ", $mod['author']); } ?></i>
                     </strong>
                 </p>
             <?php if (isset($mod['desc']) && $mod['desc'] != "") { ?>
@@ -75,7 +75,7 @@ TODO: supported?
                         <span class="label label-<?php echo $this->forge[$forge_type]; ?> dependency <?php echo $forge_type; ?>"><?php echo $dependency; ?></span>
                     </a>
                 <?php } else { ?>
-                    <a href="#<?php echo dependTag($dependency); ?>" class="depends">
+                    <a href="#<?php echo strtolower(preg_replace("/[^0-9a-zA-Z]/i", '', str_replace(array(" Compatible", " Required"), "", $dependency))); ?>" class="depends">
                         <span class="label label-warning dependency"><?php echo $dependency; ?></span>
                     </a>
                 <?php } ?>

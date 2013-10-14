@@ -1,5 +1,11 @@
 <?php
 
+if(!function_exists('filter_sort')) {
+    function filtersort($data) {
+        return PREG_REPLACE("/[^0-9a-zA-Z]/i", '', $data);
+    }
+}
+
 if(!function_exists('changelogDate')) {
     function changelogDate($version) { //
             $file = file('data/changelogs/'.$version.'.txt');
