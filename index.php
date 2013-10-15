@@ -193,7 +193,7 @@ $klein->respond('GET', '/submit/form', function ($request, $response, $service, 
             "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
             "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
             "/resources/js/submission.js"
-        )));
+        )), array('versions' => $service->versions));
 });
 
 /*
