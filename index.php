@@ -14,7 +14,7 @@ $klein = new \Klein\Klein();
 $klein->respond(function ($request, $response, $service, $app) {
     $modlist_hash = md5_file('data/modlist.json');
     $modlist_cache = 'data/cache/' . $modlist_hash . '.json';
-    if(file_exists($modlist_cache) && time() - filemtime($modlist_cache) >= 600 || !file_exists($modlist_cache)) {
+    if(file_exists($modlist_cache) || !file_exists($modlist_cache)) {
         $mod_list = json_decode(file_get_contents('data/modlist.json'), 1);
         $versions = array();
         $versions_count = array();
@@ -120,7 +120,8 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
         'Server' => 'Serverside',
         'SSP' => 'SSP',
         'SMP' => 'SMP',
-        'LAN' => 'LAN'
+        'LAN' => 'LAN',
+        'N/A' => 'N/A'
     );
     
     $mods = array();
@@ -178,6 +179,17 @@ $klein->respond('GET', '/changelog', function ($request, $response, $service, $a
 $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, $service, $app) {
     $changelog = file_get_contents('data/changelogs/' . $request->param('version') . '.txt');
     $service->render('html/changelog/log.phtml', array('changelog' => $changelog));
+});
+
+/*
+ * submit/form
+ */
+$klein->respond('GET', '/submit/form', function ($request, $response, $service, $app) {
+    $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
+            "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
+            "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
+            "/resources/js/submission.js"
+        )));
 });
 
 /*

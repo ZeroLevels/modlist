@@ -14,12 +14,12 @@
         <?php if(isset($this->changelogs)) foreach ($this->changelogs as $version) { ?>
         <tr>
             <td><a href="/changelog/<?php echo $version; ?>"><?php echo $version; ?></a></td>
-            <td><?php echo $this->versions_count[$version] ?></td>
+            <td><?php echo $this->versions_count[$version]; ?></td>
         </tr>
         <?php } else foreach ($this->versions as $version) { ?>
         <tr>
             <td><a href="/version/<?php echo $version; ?>"><?php echo $version; ?></a></td>
-            <td><?php echo $this->versions_count[$version] ?></td>
+            <td><?php echo $this->versions_count[$version]; ?></td>
         </tr>
         <?php } ?>
     </tbody>

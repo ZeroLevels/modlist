@@ -102,7 +102,9 @@
             </div>
         </div>
     </div>
-    <?php foreach ($javascripts as $javascript) { ?>
+    <?php if(isset($this->specialjavascripts))
+        $javascripts = array_merge($javascripts, $this->specialjavascripts);
+    foreach ($javascripts as $javascript) { ?>
     <script type="text/javascript" src="<?php echo $javascript; ?>"></script>
     <?php } ?>
     <!--[if lt IE 9]>

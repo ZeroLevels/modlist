@@ -5735,7 +5735,7 @@
 "desc":"",
 "author":["gcewing"],
 "source":"http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/#mozTocId598776",
-"type":["universal"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7","1.5.1","1.5.2"]
 
