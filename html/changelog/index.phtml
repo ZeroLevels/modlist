@@ -1,14 +1,24 @@
 <table class="table table-hover">
     <thead>
         <tr>
-            <th>Changelog Version</th>
+            <th><?php 
+                if(isset($this->changelogs))
+                    echo 'Changelog Version';
+                else
+                    echo 'Version';
+            ?></th>
             <th>Mods listed</th>
         </tr>
     </thead>
     <tbody>
-        <?php foreach ($this->changelogs as $version) { ?>
+        <?php if(isset($this->changelogs)) foreach ($this->changelogs as $version) { ?>
         <tr>
             <td><a href="/changelog/<?php echo $version; ?>"><?php echo $version; ?></a></td>
+            <td><?php echo $this->versions_count[$version] ?></td>
+        </tr>
+        <?php } else foreach ($this->versions as $version) { ?>
+        <tr>
+            <td><a href="/version/<?php echo $version; ?>"><?php echo $version; ?></a></td>
             <td><?php echo $this->versions_count[$version] ?></td>
         </tr>
         <?php } ?>

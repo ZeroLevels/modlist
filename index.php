@@ -96,11 +96,7 @@ $klein->respond('GET', '/[version|changelog:option]/latest', function ($request,
  * @return page
  */
 $klein->respond('GET', '/version', function ($request, $response, $service, $app) {
-    $logs = scandir('data/changelogs', 1);
-    foreach ($logs as $log) {
-        $changelogs[] = substr($log, 0, -4);
-    }
-    $service->render('html/version/index.phtml', array('title' => 'Version List','versions' => $changelogs));
+    $service->render('html/changelog/index.phtml', array('title' => 'Version List'));
 });
 
 /*
@@ -153,7 +149,7 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
  * @return redirect
  */
 $klein->respond('GET', '/list/[*]?/[*:version]', function ($request, $response, $service, $app) {
-    if(substr($request->param('version'), -4) == '.php')
+    if(substr($request->param('version'), -4, 4) == '.php')
         $response->redirect('/version/' . substr($request->param('version'), 0, -4));
     else
         $response->redirect('/version/' . $request->param('version'));
@@ -170,7 +166,7 @@ $klein->respond('GET', '/changelog', function ($request, $response, $service, $a
     foreach ($logs as $log) {
         $changelogs[] = substr($log, 0, -4);
     }
-    $service->render('html/changelog/index.phtml', array('changelogs' => $changelogs));
+    $service->render('html/changelog/index.phtml', array('title' => 'Changelog Version List','changelogs' => $changelogs));
 });
 
 /*
