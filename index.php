@@ -7,6 +7,8 @@ require_once 'helpers/mods.php';
 
 $klein = new \Klein\Klein();
 
+$klein->with('/typeahead', 'routes/submission.php');
+
 /*
  * Attach the layout to the site and generate/check for cached mod list data.
  * TODO: incl. manual settings for no longer supported
@@ -145,7 +147,7 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
 });
 
 /*
- * list/1.6.4
+ * list/1.6/1.6.4.php
  * Redirects to the version page
  * @return redirect
  */
@@ -183,6 +185,8 @@ $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, 
 
 /*
  * submit/form
+ * Submission Form
+ * @return page
  */
 $klein->respond('GET', '/submit/form', function ($request, $response, $service, $app) {
     $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
