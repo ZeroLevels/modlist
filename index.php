@@ -91,6 +91,19 @@ $klein->respond('GET', '/[version|changelog:option]/latest', function ($request,
 });
 
 /*
+ * version
+ * List all available versions
+ * @return page
+ */
+$klein->respond('GET', '/version', function ($request, $response, $service, $app) {
+    $logs = scandir('data/changelogs', 1);
+    foreach ($logs as $log) {
+        $changelogs[] = substr($log, 0, -4);
+    }
+    $service->render('html/version/index.phtml', array('title' => 'Version List','versions' => $changelogs));
+});
+
+/*
  * version/1.6.4
  * Renders the modlist for the specified version. 
  * TODO: 404 if no mods exist in version
@@ -139,8 +152,11 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
  * Redirects to the version page
  * @return redirect
  */
-$klein->respond('GET', '/list/[*:version]', function ($request, $response, $service, $app) {
-    $response->redirect('/version/' . $request->param('version'));
+$klein->respond('GET', '/list/[*]?/[*:version]', function ($request, $response, $service, $app) {
+    if(substr($request->param('version'), -4) == '.php')
+        $response->redirect('/version/' . substr($request->param('version'), 0, -4));
+    else
+        $response->redirect('/version/' . $request->param('version'));
     $response->send();
 });
 

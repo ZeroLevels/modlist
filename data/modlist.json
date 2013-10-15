@@ -178,7 +178,7 @@
 "author":["yogpstop"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -218,7 +218,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -823,7 +823,7 @@
 "source":"https://github.com/chibill/AdditionalCrafting",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -987,7 +987,7 @@
 "author":["Ri5ux"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -997,7 +997,7 @@
 "author":["Sopwith"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -1027,7 +1027,7 @@
 "author":["roby7338"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6", "1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -1187,7 +1187,7 @@
 "author":["Iron_Pike"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -1197,7 +1197,7 @@
 "author":["Crudedragos"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -1217,7 +1217,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -1228,7 +1228,7 @@
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1359,7 +1359,7 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.5.0"]
+"versions":["1.4.4","1.4.5","1.5"]
 
 },{
 
@@ -1401,7 +1401,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -1411,7 +1411,7 @@
 "author":["Hurricaaane"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -1431,7 +1431,7 @@
 "author":["Corosus"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -1461,7 +1461,7 @@
 "author":["thebombzen"],
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader Compatible","ThebombzenAPI"],
-"versions":["1.5.0","1.6.2"]
+"versions":["1.5","1.6.2"]
 
 },{
 
@@ -1471,7 +1471,7 @@
 "author":["monnef"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -1491,7 +1491,7 @@
 "author":["Megabitus98"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -1551,7 +1551,7 @@
 "author":["Eydamos"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1622,7 +1622,7 @@
 "author":["MorpheusZero"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.6.1"]
+"versions":["1.5","1.5.1","1.6.1"]
 
 },{
 
@@ -1642,7 +1642,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.3.2","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1712,7 +1712,7 @@
 "author":["SMEZ1234"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -1832,7 +1832,7 @@
 "author":["chylex"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1892,7 +1892,7 @@
 "author":["ted80"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.5","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1902,7 +1902,7 @@
 "author":["The_MiningCrafter"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5"]
 
 },{
 
@@ -1975,7 +1975,7 @@
 "author":["Nuchaz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2037,7 +2037,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.6.2"]
 
 },{
 
@@ -2047,7 +2047,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -2098,7 +2098,7 @@
 "source":"https://github.com/bspkrs/BlockBreaker",
 "type":["Universal"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -2221,7 +2221,7 @@
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -2272,7 +2272,7 @@
 "author":["Crudedragos"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -2425,7 +2425,7 @@
 "author":["WyrdOne"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5","1.5.1"]
 
 },{
 
@@ -2599,7 +2599,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2609,7 +2609,7 @@
 "author":["Vazkii"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -2723,7 +2723,7 @@
 "author":["CJB"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -2826,7 +2826,7 @@
 "source":"https://github.com/Chicken-Bones/CodeChickenLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2916,7 +2916,7 @@
 "author":["ocomobock"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5","1.5.1"]
 
 },{
 
@@ -3028,7 +3028,7 @@
 "author":["dan200"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -3048,7 +3048,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.6.2"]
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.6.2"]
 
 },{
 
@@ -3261,7 +3261,7 @@
 "source":"https://github.com/Uristqwerty/CraftGuide",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -3395,7 +3395,7 @@
 "author":["Guff"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -3416,7 +3416,7 @@
 "author":["MorpheusZero"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.5.0","1.5.1"]
+"versions":["1.3.2","1.4.2","1.5","1.5.1"]
 
 },{
 
@@ -3446,7 +3446,7 @@
 "author":["ryan44851111"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -3487,7 +3487,7 @@
 "source":"https://github.com/bspkrs/CrystalWing",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -3568,7 +3568,7 @@
 "author":["Noppes"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -3649,7 +3649,7 @@
 "author":["rich1051414"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3739,7 +3739,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -3749,7 +3749,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -3809,7 +3809,7 @@
 "author":["sheenrox82"],
 "type":["Universal"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -3819,7 +3819,7 @@
 "author":["AwesomestM"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -3909,7 +3909,7 @@
 "author":["thorgot"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -3929,7 +3929,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -3950,7 +3950,7 @@
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4104,7 +4104,7 @@
 "author":["GnomeWorks"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -4114,7 +4114,7 @@
 "author":["Stuuupiiid"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.6.1","1.6.2"]
 
 },{
 
@@ -4124,7 +4124,7 @@
 "author":["Cannash54"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -4134,7 +4134,7 @@
 "author":["RedBanHammer"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -4144,7 +4144,7 @@
 "author":["AtomicStryker"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4164,7 +4164,7 @@
 "author":["mikeprimm"],
 "type":["SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -4307,7 +4307,7 @@
 "source":"https://github.com/Flow86/Edit-Sign-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -4337,7 +4337,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -4358,7 +4358,7 @@
 "author":["xSmallDeadGuyx"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0"]
+"versions":["1.4.6","1.4.7","1.5"]
 
 },{
 
@@ -4398,7 +4398,7 @@
 "author":["Vazkii"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -4408,7 +4408,7 @@
 "author":["Ellian"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.2","1.6.2"]
 
 },{
 
@@ -4458,7 +4458,7 @@
 "author":["Mudbill"],
 "type":["SMP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6", "1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -4478,7 +4478,7 @@
 "author":["mssodin28"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4538,7 +4538,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4568,7 +4568,7 @@
 "author":["SanAndreasP"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -4618,7 +4618,7 @@
 "author":["Alz454"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -4669,7 +4669,7 @@
 "author":["Qwertygiy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -4741,7 +4741,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.6.2"]
 
 },{
 
@@ -4822,7 +4822,7 @@
 "author":["Naruto1310"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4914,7 +4914,7 @@
 "author":["Servovicis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0"]
+"versions":["1.4.6","1.4.7","1.5"]
 
 },{
 
@@ -4954,7 +4954,7 @@
 "author":["Blfngl"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4", "1.4.5", "1.4.6", "1.4.7", "1.5.0", "1.5.1", "1.5.2"]
+"versions":["1.4.4", "1.4.5", "1.4.6", "1.4.7", "1.5", "1.5.1", "1.5.2"]
 
 },{
 
@@ -4975,7 +4975,7 @@
 "author":["pitman-87"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5","1.5.1"]
 
 },{
 
@@ -4995,7 +4995,7 @@
 "author":["Koopinator"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -5005,7 +5005,7 @@
 "author":["Darkmainiac"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -5055,7 +5055,7 @@
 "author":["iPixeli"],
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -5115,7 +5115,7 @@
 "author":["ngphoenix"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -5135,7 +5135,7 @@
 "author":["jamioflan"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5166,7 +5166,7 @@
 "author":["DerBaM"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -5216,7 +5216,7 @@
 "author":["WillDaBeast509"],
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -5227,7 +5227,7 @@
 "source":"https://github.com/bspkrs/FloatingRuins",
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5237,7 +5237,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -5257,7 +5257,7 @@
 "author":["DarkGuardsman"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -5317,7 +5317,7 @@
 "author":["SirSengir"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.4","1.4.5","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5340,7 +5340,7 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5402,7 +5402,7 @@
 "author":["cafaxo"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -5442,7 +5442,7 @@
 "author":["Luke"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -5483,7 +5483,7 @@
 "source":"https://github.com/micdoodle8/Galacticraft",
 "type":["Universal"],
 "dependencies":["Forge Required","Micdoodle Core"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5493,7 +5493,7 @@
 "author":["kymaster"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -5523,7 +5523,7 @@
 "author":["Torquebolt"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -5533,7 +5533,7 @@
 "author":["RobZ51"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -5593,7 +5593,7 @@
 "author":["fisherman77"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5624,7 +5624,7 @@
 "source":"https://github.com/GrygrFlzr/GlowstoneWire",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5696,7 +5696,7 @@
 "author":["NightKosh"],
 "type":["Universal"],
 "dependencies":["Forge Required","Modloader","Player API"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -5706,7 +5706,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5777,7 +5777,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -5817,7 +5817,7 @@
 "author":["ShaRose"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -5990,7 +5990,7 @@
 "author":["lasa11"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -6264,7 +6264,7 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.5.0"]
+"versions":["1.4.4","1.4.5","1.5"]
 
 },{
 
@@ -6285,7 +6285,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6295,7 +6295,7 @@
 "author":["ShaRose"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -6317,7 +6317,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6328,7 +6328,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6411,7 +6411,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6431,7 +6431,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6453,7 +6453,7 @@
 "source":"https://github.com/Lunatrius/InGame-Info-XML",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6485,7 +6485,7 @@
 "source":"https://github.com/bspkrs/IngameInfo",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6556,7 +6556,7 @@
 "source":"https://github.com/Kobata/inventory-tweaks",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6587,7 +6587,7 @@
 "source":"https://github.com/cpw/ironchest/tree/master/IronChests2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6597,7 +6597,7 @@
 "author":["chrisk123999"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -6689,7 +6689,7 @@
 "author":["SCMowns"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -6739,7 +6739,7 @@
 "author":["Naruto1310"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5","1.5.1"]
 
 },{
 
@@ -6760,7 +6760,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6780,7 +6780,7 @@
 "author":["duke_Fr4ns"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -6882,7 +6882,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -6932,7 +6932,7 @@
 "author":["Davidee"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -6993,7 +6993,7 @@
 "source":"https://github.com/4poc/lloverlay",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7033,7 +7033,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7096,7 +7096,7 @@
 "author":["Schravendeel"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1"]
 
 },{
 
@@ -7128,7 +7128,7 @@
 "source":"https://github.com/Lomeli12/LomLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -7199,7 +7199,7 @@
 "author":["Kuuu"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -7280,7 +7280,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7352,7 +7352,7 @@
 "author":["Hurricaaane"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -7472,7 +7472,7 @@
 "author":["Slayerlord8"],
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -7492,7 +7492,7 @@
 "author":["Koopinator"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -7544,7 +7544,7 @@
 "author":["Kinniken"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7606,7 +7606,7 @@
 "source":"https://github.com/MineMaarten/MineChess",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7617,7 +7617,7 @@
 "author":["cjz__"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7648,7 +7648,7 @@
 "author":["silverwind213"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.2","1.6.2"]
 
 },{
 
@@ -7658,7 +7658,7 @@
 "author":["WyrdOne"],
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader","ModOptionsAPI"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5","1.5.1"]
 
 },{
 
@@ -7779,7 +7779,7 @@
 "author":["BarracudaATA"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7789,7 +7789,7 @@
 "author":["BarracudaATA"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7811,7 +7811,7 @@
 "source":"https://github.com/MineMaarten/MinesweeperMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7821,7 +7821,7 @@
 "author":["fenceFoil"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -7881,7 +7881,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7891,7 +7891,7 @@
 "author":["Guff"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -7921,7 +7921,7 @@
 "author":["Andy3285"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0"]
+"versions":["1.4.6","1.4.7","1.5"]
 
 },{
 
@@ -7941,7 +7941,7 @@
 "author":["BentSpoonStudios"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8031,7 +8031,7 @@
 "author":["CJB"],
 "type":["SSP"],
 "dependencies":["Forge Required","CJB API"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -8051,7 +8051,7 @@
 "author":["Davidee"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8093,7 +8093,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
   },
   
   {
@@ -8103,7 +8103,7 @@
 "author":["WyrdOne"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.4","1.4.5","1.5.0","1.5.1"]
+"versions":["1.4.4","1.4.5","1.5","1.5.1"]
 
 },{
 
@@ -8145,7 +8145,7 @@
 "source":"https://github.com/Lunatrius/Monster-Spawn-Highlighter",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8226,7 +8226,7 @@
 "author":["NikolaiTheEpicGenius"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.1","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.1","1.6.2"]
 
 },{
 
@@ -8257,7 +8257,7 @@
 "source":"https://github.com/grompe/moreeverything",
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -8277,7 +8277,7 @@
 "author":["0012saab"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5","1.5.1"]
 
 },{
 
@@ -8307,7 +8307,7 @@
 "author":["CJB"],
 "type":["Client"],
 "dependencies":["Forge Required","CJB API"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -8370,7 +8370,7 @@
 "author":["smeagolworms4"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -8391,7 +8391,7 @@
 "source":"https://github.com/Clashsoft/More-Potions-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -8441,7 +8441,7 @@
 "author":["DarkHax"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1"]
 
 },{
 
@@ -8471,7 +8471,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -8492,7 +8492,7 @@
 "source":"https://github.com/darkhax/MoreSwordsMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8503,7 +8503,7 @@
 "source":"https://github.com/Clashsoft/More-Tools-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -8513,7 +8513,7 @@
 "author":["shortwind"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -8543,7 +8543,7 @@
 "author":["dr_frost_dk"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -8624,7 +8624,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -8634,7 +8634,7 @@
 "author":["RedBanHammer"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.2","1.5.0"]
+"versions":["1.4.2","1.5"]
 
 },{
 
@@ -8644,7 +8644,7 @@
 "author":["Mr_Crayfish"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8674,7 +8674,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8695,7 +8695,7 @@
 "source":"https://sourceforge.net/projects/modmumblelink/",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -8726,7 +8726,7 @@
 "author":["Cycloneblaze"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -8806,7 +8806,7 @@
 "author":["oitsjustjose"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.6.1","1.5.2"]
 
 },{
 
@@ -8970,7 +8970,7 @@
 "author":["soccerguy3"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.4"]
 
 },{
 
@@ -8980,7 +8980,7 @@
 "author":["soccerguy3"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.4"]
 
 },{
 
@@ -9020,7 +9020,7 @@
 "author":["MamiyaOtaru"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -9030,7 +9030,7 @@
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -9050,7 +9050,7 @@
 "author":["Sopwith"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -9061,7 +9061,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9112,7 +9112,7 @@
 "source":"https://github.com/numerios/NumiRP",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -9122,7 +9122,7 @@
 "author":["nZuR"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -9132,7 +9132,7 @@
 "author":["Oblyvian"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -9182,7 +9182,7 @@
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -9235,7 +9235,7 @@
 "author":["sp614x"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -9487,7 +9487,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9600,7 +9600,7 @@
 "author":["Divisor"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9610,7 +9610,7 @@
 "author":["FatherToast"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -9681,7 +9681,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9834,7 +9834,7 @@
 "author":["LastJudge"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -9844,7 +9844,7 @@
 "author":["Daveyx0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0"]
+"versions":["1.4.6","1.4.7","1.5"]
 
 },{
 
@@ -9875,7 +9875,7 @@
 "author":["_bau5"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6", "1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -9885,7 +9885,7 @@
 "author":["Crudedragos"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -9905,7 +9905,7 @@
 "author":["Guff"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -9937,7 +9937,7 @@
 "author":["CJB"],
 "type":["Universal"],
 "dependencies":["Forge Required","CJB API"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -9987,7 +9987,7 @@
 "author":["AmazedStream"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -9997,7 +9997,7 @@
 "author":["immediately"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10017,7 +10017,7 @@
 "author":["lumien"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10118,7 +10118,7 @@
 "author":["TheMaineDragon"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5","1.5.1"]
 
 },{
 
@@ -10128,7 +10128,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -10230,7 +10230,7 @@
 "author":["Jakj"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -10270,7 +10270,7 @@
 "author":["ReiFNSK"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -10300,7 +10300,7 @@
 "author":["Divisor"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -10341,7 +10341,7 @@
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -10351,7 +10351,7 @@
 "author":["rivvest"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -10381,7 +10381,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10431,7 +10431,7 @@
 "author":["senpaisubaraki"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -10441,7 +10441,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10502,7 +10502,7 @@
 "source":"https://github.com/Lunatrius/Schematica",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10512,7 +10512,7 @@
 "author":["ocomobock"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible","Modloader"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -10602,7 +10602,7 @@
 "author":["NemockZans"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0"]
+"versions":["1.4.6","1.4.7","1.5"]
 
 },{
 
@@ -10652,7 +10652,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -10683,7 +10683,7 @@
 "author":["Satscape"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10754,7 +10754,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10775,7 +10775,7 @@
 "source":"https://github.com/simo415/spc",
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -10785,7 +10785,7 @@
 "author":["q3hardcore"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0"]
+"versions":["1.4.6","1.4.7","1.5"]
 
 },{
 
@@ -10940,7 +10940,7 @@
 "author":["Divisor"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible","Modloader Compatible","Player API Required","Render Player API Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -10950,7 +10950,7 @@
 "author":["HeshamMeneisi"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -10990,7 +10990,7 @@
 "author":["Crudedragos"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -11030,7 +11030,7 @@
 "author":["tk911"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -11041,7 +11041,7 @@
 "source":"https://github.com/MineMaarten/Sokoban-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11114,7 +11114,7 @@
 "source":"http://www.senitiel.net/index.php?name=Commented_source_code",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11155,7 +11155,7 @@
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -11165,7 +11165,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -11226,7 +11226,7 @@
 "author":["sealab865"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1"]
+"versions":["1.5","1.5.1"]
 
 },{
 
@@ -11246,7 +11246,7 @@
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11289,7 +11289,7 @@
 "source":"https://github.com/bspkrs/StartingInventory",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -11310,7 +11310,7 @@
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -11320,7 +11320,7 @@
 "author":["Vswe"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -11511,7 +11511,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11521,7 +11521,7 @@
 "author":["MrTheJackFlames"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -11531,7 +11531,7 @@
 "author":["RocketMan10404"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11572,7 +11572,7 @@
 "author":["pitman-87"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -11643,7 +11643,7 @@
 "author":["bmanrules"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -11715,7 +11715,7 @@
 "author":["Need4Poop402"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -11916,7 +11916,7 @@
 "author":["Ghetsis"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -12017,7 +12017,7 @@
 "author":["sheenrox82"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -12047,7 +12047,7 @@
 "author":["Boba_Fett_Link"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -12088,7 +12088,7 @@
 "author":["billythegoat101"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5"]
 
 },{
 
@@ -12108,7 +12108,7 @@
 "author":["The_WeatherPony"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -12188,7 +12188,7 @@
 "author":["resinresin"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -12259,7 +12259,7 @@
 "author":["tarun1998"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
+"versions":["1.3.2","1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -12319,7 +12319,7 @@
 "author":["TehKrush"],
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -12340,7 +12340,7 @@
 "source":"https://github.com/mDiyo/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12401,7 +12401,7 @@
 "author":["Marglyph"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -12421,7 +12421,7 @@
 "author":["HitchH1k3r"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.6.2"]
 
 },{
 
@@ -12441,7 +12441,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12451,7 +12451,7 @@
 "author":["Torojima"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -12461,7 +12461,7 @@
 "author":["Torojima"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12501,7 +12501,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12551,7 +12551,7 @@
 "author":["The_cLyde"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -12562,7 +12562,7 @@
 "source":"https://github.com/bspkrs/TreeCapitator",
 "type":["Universal"],
 "dependencies":["Forge Compatible","Modloader Compatible","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -12613,7 +12613,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12624,7 +12624,7 @@
 "source":"https://github.com/maxpowa/tukmc",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12644,7 +12644,7 @@
 "author":["Benimatic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12654,7 +12654,7 @@
 "author":["xIGBClutchIx"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.6.2"]
 
 },{
 
@@ -12684,7 +12684,7 @@
 "author":["Umbrosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -12765,7 +12765,7 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12865,7 +12865,7 @@
 "author":["Koopinator"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -12906,7 +12906,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -12987,7 +12987,7 @@
 "author":["trunkz"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -13007,7 +13007,7 @@
 "author":["clovis83"],
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.2"]
+"versions":["1.4.6","1.4.7","1.5","1.5.2"]
 
 },{
 
@@ -13018,7 +13018,7 @@
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -13089,7 +13089,7 @@
 "author":["Jeffrey6978"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+"versions":["1.4.2","1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1"]
 
 },{
 
@@ -13109,7 +13109,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -13159,7 +13159,7 @@
 "author":["MorpheusZero"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.0"]
+"versions":["1.5"]
 
 },{
 
@@ -13260,7 +13260,7 @@
 "author":["Minecrafter1912"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.6", "1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.6", "1.4.7","1.5","1.5.1","1.5.2"]
 
 },{
 
@@ -13321,7 +13321,7 @@
 "source":"https://github.com/bspkrs/WorldStateCheckpoints",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -13342,7 +13342,7 @@
 "author":["CJB"],
 "type":["Client"],
 "dependencies":["Forge Required","CJB API"],
-"versions":["1.4.6","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.6","1.4.7","1.5","1.5.1"]
 
 },{
 
@@ -13353,7 +13353,7 @@
 "author":["craftminer502"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
+"versions":["1.4.4","1.4.5","1.4.6","1.4.7","1.5","1.5.1","1.5.2","1.6.1"]
 
 },{
 
@@ -13555,7 +13555,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -13566,7 +13566,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
+"versions":["1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 

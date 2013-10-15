@@ -1,14 +1,14 @@
 <table class="table table-hover">
     <thead>
         <tr>
-            <th>Changelog Version</th>
+            <th>Version List</th>
             <th>Mods listed</th>
         </tr>
     </thead>
     <tbody>
-        <?php foreach ($this->changelogs as $version) { ?>
+        <?php foreach ($this->versions as $version) { ?>
         <tr>
-            <td><a href="/changelog/<?php echo $version; ?>"><?php echo $version; ?></a></td>
+            <td><a href="/version/<?php echo $version; ?>"><?php echo $version; ?></a></td>
             <td><?php echo $this->versions_count[$version] ?></td>
         </tr>
         <?php } ?>
