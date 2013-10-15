@@ -69,7 +69,7 @@ $('.dependency').click(function(e) {
 				$(selected).removeClass('fade-success');
 			},2000);
 		} else {
-			if(selected == "#modloader")
+			if(selected === "#modloader")
 				createAlert('Missing Dependency','Modloader is not available for this version. However, Forge should be able to load this mod.');
 			else
 				createAlert('Missing Dependency','That dependency is not yet listed for this version.');
@@ -96,7 +96,7 @@ function anchorControl() {
 				},2000);
 			},0);
 		} else {
-			if(selected == "#modloader")
+			if(selected === "#modloader")
 				createAlert('Missing Mod','Modloader is not available for this version. However, Forge should be able to load ModLoader mods.');
 			else
 				createAlert('Missing Mod','That mod is not available for this version.');
@@ -114,7 +114,7 @@ var modFilter = /\s+/g;
 $('#search').bind("change keyup input",function() {
 	var val = $.trim($(this).val()).replace(searchFilter, ' ').toLowerCase();
 	
-	if(val == '')
+	if(val === '')
 		$rows.show();
 	else
 		var match = RegExp('\\b'+val+'|'+val+'\\b');
@@ -131,12 +131,12 @@ $('.advanced-search input').bind("change keyup input",function() {
 	var desc = $.trim($('#search-desc').val()).replace(searchFilter, ' ').toLowerCase();
 	var tag = $.trim($('#search-tag').val()).replace(searchFilter, ' ').toLowerCase();
 	
-	if(name == '' && author == '' && desc == '' && tag == '')
+	if(name === '' && author === '' && desc === '' && tag === '')
 		$rows.show();
 	else
 		$rows.show().filter(function() {
 			var modname = $(this).find('span').first().text().toLowerCase();
-			var modauthor = $(this).find('b>i').first().text().toLowerCase();
+			var modauthor = $(this).find('i').first().text().toLowerCase();
 			var moddesc = '';
 			if ($(this).find('p').length > 2)
 				moddesc = $(this).find('p:nth-child(2)').text().replace(modFilter, ' ').toLowerCase();
