@@ -1,0 +1,49 @@
+<div class="page-header">
+  <h1>Mod submissions<br /><small>Submitted mods in queue</small></h1>
+  <a class="btn btn-primary" href="submit/form">Submit a mod</a>
+</div>
+<div class="progress">
+    <div class="progress-bar" style="width: 20%" data-title=" mod updates completed"></div>
+    <div class="progress-bar progress-bar-info" style="width: 20%" data-title=" new mods completed"></div>
+</div>
+<div class="input-group hidden-print">
+    <span class="input-group-addon"><i class="icon-search"></i><span class="sr-only">Search</span></span>
+    <input type="text" id="search" class="form-control" placeholder="Type to search queue" autofocus />
+</div>
+<table id="modlist" class="table table-hover modlist-table">
+    <thead>
+        <tr>
+            <th>Mod Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php foreach($this->submissions as $submission) { ?>
+        <tr>
+            <td>
+                <p>
+                    <?php if(isset($submission['link'])) { ?>
+                    <span><a href="<?php echo htmlspecialchars($submission['link'],ENT_QUOTES); ?>"><?php echo htmlspecialchars($submission['name'],ENT_QUOTES); ?></a></span>
+                    <?php } else { ?>
+                    <span><?php echo htmlspecialchars($submission['name'],ENT_QUOTES); ?></span>
+                    <?php } ?>
+                </p>
+                <?php if(isset($submission['desc'])) { ?>
+                <p>
+                    <?php echo htmlspecialchars($submission['desc'],ENT_QUOTES); ?>
+                </p>
+                <?php } ?>
+                <p>
+                    <?php if($submission['mode'] == 'Update Request') { ?>
+                    <span class="label label-primary">Update Request</span>
+                    <?php } else { ?>
+                    <span class="label label-info">New Mod</span>
+                    <?php } ?>
+                    <?php foreach($submission['versions'] as $version) { ?>
+                    <span class="label label-default"><?php echo $version; ?></span>
+                    <?php } ?>
+                </p>
+            </td>
+        </tr>
+        <?php }?>
+    </tbody>
+</table>

@@ -177,6 +177,23 @@ $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, 
 });
 
 /*
+ * submit
+ * Submission List
+ * @return page
+ */
+$klein->respond('GET', '/submit', function ($request, $response, $service, $app) {
+    $submission_list = json_decode(file_get_contents('panel/secrets/submissions.json'), true);
+    $submissions = array();
+    foreach($submission_list as $submission) {
+        if(!isset($submission['complete'])) {
+            array_push($submissions, $submission);
+        }
+    }
+    array_reverse($submissions);
+    $service->render('html/submit/index.phtml', array('versions' => $service->versions, 'submissions' => $submissions));
+});
+
+/*
  * submit/form
  * Submission Form
  * @return page
