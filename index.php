@@ -127,23 +127,16 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
     );
     
     $mods = array();
-    foreach ($mod_list as $key => $mod) {
-        foreach($mod['versions'] as $version) {
-            if($version == $request->param('version')) {
-                $mod_key = array_push($mods, $mod);
-                $mod_names[$mod_key] = preg_replace("/[^A-Za-z0-9 ]/", '', $mod['name']);
-            }
+    $mod_names = array();
+    foreach ($mod_list as $mod) {
+        if(in_array($request->param('version'),$mod['versions'])) {
+            array_push($mods, $mod);
+            array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
         }
     }
+    array_multisort($mod_names, SORT_ASC, $mods);
     
-    asort($mod_names);
-    
-    $sorted_mods = array();
-    foreach ($mod_names as $key => $mod_name) {
-        $sorted_mods[] = $mods[$key - 1];
-    }
-    
-    $service->render('html/mods/list.phtml', array('version' => $request->param('version'), 'mods' => $sorted_mods, 'type' => $type, 'forge' => $forge));
+    $service->render('html/mods/list.phtml', array('version' => $request->param('version'), 'mods' => $mods, 'type' => $type, 'forge' => $forge));
 });
 
 /*
