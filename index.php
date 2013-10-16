@@ -184,12 +184,21 @@ $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, 
 $klein->respond('GET', '/submit', function ($request, $response, $service, $app) {
     $submission_list = json_decode(file_get_contents('panel/secrets/submissions.json'), true);
     $submissions = array();
+    $amount['update'] = 0;
+    $amount['new'] = 0;
+    $amount['total'] = count($submission_list);
     foreach($submission_list as $submission) {
         if(!isset($submission['complete'])) {
             array_push($submissions, $submission);
+        } else {
+            if($submission['mode'] == 'Update Request') {
+                $amount['update'] += 1;
+            } else {
+                $amount['new'] += 1;
+            }
         }
     }
-    $service->render('html/submit/index.phtml', array('versions' => $service->versions, 'submissions' => array_reverse($submissions)));
+    $service->render('html/submit/index.phtml', array('versions' => $service->versions, 'submissions' => array_reverse($submissions), 'amount' => $amount));
 });
 
 /*

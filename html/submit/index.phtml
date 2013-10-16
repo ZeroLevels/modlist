@@ -3,8 +3,8 @@
   <a class="btn btn-primary" href="submit/form">Submit a mod</a>
 </div>
 <div class="progress">
-    <div class="progress-bar" style="width: 20%" data-title=" mod updates completed"></div>
-    <div class="progress-bar progress-bar-info" style="width: 20%" data-title=" new mods completed"></div>
+    <div class="progress-bar" style="width: <?php echo $this->amount['update']/$this->amount['total']*100; ?>%" data-title="<?php echo $this->amount['update']; ?> mod updates completed"></div>
+    <div class="progress-bar progress-bar-info" style="width: <?php echo $this->amount['new']/$this->amount['total']*100; ?>%" data-title="<?php echo $this->amount['new']; ?> new mods completed"></div>
 </div>
 <div class="input-group hidden-print">
     <span class="input-group-addon"><i class="icon-search"></i><span class="sr-only">Search</span></span>
