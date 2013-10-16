@@ -38,7 +38,7 @@
                     <?php } else { ?>
                     <span class="label label-info">New Mod</span>
                     <?php } ?>
-                    <?php foreach($submission['versions'] as $version) { ?>
+                    <?php if(isset($submission['versions'])) foreach($submission['versions'] as $version) { ?>
                     <span class="label label-default"><?php echo $version; ?></span>
                     <?php } ?>
                 </p>

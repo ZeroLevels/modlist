@@ -189,8 +189,7 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
             array_push($submissions, $submission);
         }
     }
-    array_reverse($submissions);
-    $service->render('html/submit/index.phtml', array('versions' => $service->versions, 'submissions' => $submissions));
+    $service->render('html/submit/index.phtml', array('versions' => $service->versions, 'submissions' => array_reverse($submissions)));
 });
 
 /*
