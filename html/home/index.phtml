@@ -10,10 +10,10 @@
     <?php $latest_versions = array_slice($this->versions, 0, 4); ?>
     <?php foreach($latest_versions as $latest) { ?>
     <div class="col-sm-6 col-lg-3">
-        <h2>1.6.4</h2>
-        <p><i>Last Updated <?php echo changelogDate('1.6.4') ?></i></p>
-        <p><?php echo changelogParse('1.6.4') ?></p>
-        <p><a class="btn btn-primary" href="/version/1.6.4">View list &raquo;</a> <a class="btn btn-default" href="/changelog/1.6.4">View all changes &raquo;</a></p>
+        <h2><?php echo $latest; ?></h2>
+        <p><i>Last Updated <?php echo changelogDate($latest) ?></i></p>
+        <p><?php echo changelogParse($latest) ?></p>
+        <p><a class="btn btn-primary" href="/version/<?php echo $latest; ?>">View list &raquo;</a> <a class="btn btn-default" href="/changelog/<?php echo $latest; ?>">View all changes &raquo;</a></p>
     </div>
     <?php } ?>
 </div>
