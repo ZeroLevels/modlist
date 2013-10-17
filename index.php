@@ -229,7 +229,19 @@ $klein->respond('GET', '/submit/form', function ($request, $response, $service, 
  */
 
 $klein->respond('POST', '/submit/complete', function ($request, $response, $service, $app) {    
+    $service->validateParam('request-type')->notNull();
     $service->validateParam('name')->notNull();
+    $service->validateParam('versions')->notNull();
+    $service->validateParam('source')->isUrl();
+    
+    if($request->param('request-type') === 'new') {
+        $service->validateParam('link')->notNull()->isUrl();
+        $service->validateParam('desc')->notNull();
+        $service->validateParam('authors')->notNull();
+        $service->validateParam('forge')->notNull();
+        $service->validateParam('availability')->notNull();
+    }
+    $response->dump($_POST);
 });
 
 /*
