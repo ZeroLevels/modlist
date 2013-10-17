@@ -13,7 +13,12 @@ $klein->with('/typeahead', 'routes/submission.php');
  * Attach the layout to the site and generate/check for cached mod list data.
  * TODO: incl. manual settings for no longer supported
  */
-$klein->respond(function ($request, $response, $service, $app) {
+$klein->respond(function ($request, $response, $service, $app) use ($klein) {
+    $klein->onError(function ($klein, $err_msg) {
+        $klein->service()->flash($err_msg);
+        $klein->service()->back();
+    });
+    
     $modlist_hash = md5_file('data/modlist.json');
     $modlist_cache = 'data/cache/' . $modlist_hash . '.json';
     if(file_exists($modlist_cache) || !file_exists($modlist_cache)) {
@@ -98,7 +103,8 @@ $klein->respond('GET', '/[version|changelog:option]/latest', function ($request,
  * @return page
  */
 $klein->respond('GET', '/version', function ($request, $response, $service, $app) {
-    $service->render('html/changelog/index.phtml', array('title' => 'Version List'));
+    $service->title = 'Version List';
+    $service->render('html/changelog/index.phtml');
 });
 
 /*
@@ -162,7 +168,8 @@ $klein->respond('GET', '/changelog', function ($request, $response, $service, $a
     foreach ($logs as $log) {
         $changelogs[] = substr($log, 0, -4);
     }
-    $service->render('html/changelog/index.phtml', array('title' => 'Changelog Version List','changelogs' => $changelogs));
+    $service->title = 'Changelog Version List';
+    $service->render('html/changelog/index.phtml', array('changelogs' => $changelogs));
 });
 
 /*
@@ -212,6 +219,17 @@ $klein->respond('GET', '/submit/form', function ($request, $response, $service, 
             "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
             "/resources/js/submission.js"
         )), array('versions' => $service->versions));
+});
+
+/*
+ * TODO: Process submission
+ * submit/complete
+ * Complete submission
+ * @return redirect
+ */
+
+$klein->respond('POST', '/submit/complete', function ($request, $response, $service, $app) {    
+    $service->validateParam('name')->notNull();
 });
 
 /*
