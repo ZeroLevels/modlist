@@ -26,7 +26,7 @@ $klein->respond(function ($request, $response, $service, $app) {
                     $versions_count[$version] = 0;
                 }
                 $versions_count[$version] += 1;
-                if (!in_array($version, $versions)) {
+                if (!in_array($version, $versions, true)) {
                     array_push($versions, $version);
                 }
             }
@@ -129,7 +129,7 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
     $mods = array();
     $mod_names = array();
     foreach ($mod_list as $mod) {
-        if(in_array($request->param('version'),$mod['versions'])) {
+        if(in_array($request->param('version'),$mod['versions'],true)) {
             array_push($mods, $mod);
             array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
         }
