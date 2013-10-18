@@ -1,3 +1,41 @@
+(October/18/2013)
+	*Updated "Jaffas and More" info: Now "Jaffas and More!", Added source
+	+Added 4 mods by AUTOMATIC_MAIDEN (Which are the following)
+		+Added "Chisel"
+		+Added "IDfix"
+		+Added "True Randomite"
+		+Added "Vending Block"
+	+Added 4 mods by Blubbeltasche (Which are the following)
+		+Added "Flowercraft"
+		+Added "Haycraft"
+		+Added "Slabcraft"
+		+Added "Staircraft"
+	+Added 7 mods by Reika (Which are the following)
+		+Added "DragonAPI"
+		+Added "DyeTrees"
+		+Added "ExpandedRedstone"
+		+Added "GeoStrata"
+		+Added "ReactorCraft"
+		+Added "RotaryCraft"
+		+Added "UsefulTNT"
+	+Added "Ancient Warfare"
+	+Added "Better Breeding Mod"
+	+Added "BetterStorage"
+	+Added "Blue Magic Mod"
+	+Added "ComputerCraft"
+	+Added "DartCraft"
+	+Added "Extended Enchants"
+	+Added "Highlands"
+	+Added "[IndustrialCraft 2] Advanced Power Management"
+	+Added "[IndustrialCraft 2] Backpack HUD"
+	+Added "Modular Furnaces"
+	+Added "Mouse Tweaks"
+	+Added "NetherStuffs"
+	+Added "Paintball"
+	+Added "Soul Shards"
+	+Added "Rotten Flesh to Leather"
+	+Added "VoxelCam"
+
 (October/13/2013)
 	+Added 3 mods by Jannis234 (Which are the following)
 		+Added "PlayerTrans"
