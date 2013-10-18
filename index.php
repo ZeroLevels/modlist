@@ -151,7 +151,7 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
  * @return redirect
  */
 $klein->respond('GET', '/list/[*]?/[*:version]', function ($request, $response, $service, $app) {
-    if(substr($request->param('version'), -4, 4) == '.php')
+    if(substr($request->param('version'), -4, 4) === '.php')
         $response->redirect('/version/' . substr($request->param('version'), 0, -4));
     else
         $response->redirect('/version/' . $request->param('version'));
@@ -198,7 +198,7 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
         if(!isset($submission['complete'])) {
             array_push($submissions, $submission);
         } else {
-            if($submission['mode'] == 'Update Request') {
+            if($submission['mode'] === 'Update Request') {
                 $amount['update'] += 1;
             } else {
                 $amount['new'] += 1;
@@ -242,6 +242,25 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
         $service->validateParam('availability')->notNull();
     }
     $response->dump($_POST);
+    
+    $mail = new PHPMailer();
+    $mail->IsSMTP();
+    $mail->Host         = 'smtp.gmail.com';
+    $mail->Port         = 587;
+    $mail->SMTPSecure   = 'tls';
+    $mail->SMTPAuth     = true;
+    $mail->Username     = '';
+    $mail->Password     = '';
+    $mail->SetFrom('', 'MCF Modlist');
+    $mail->AddReplyTo('', 'MCF Modlist');
+    $mail->AddAddress('', '');
+    $mail->AddAddress('', '');
+    
+    if($request->param('request-type') === 'new') {
+        $mail->Subject  = 'New Mod - ' . $request->param('name');
+    } else {
+        $mail->Subject  = 'Update Request - ' . $request->param('name');
+    }
 });
 
 /*
