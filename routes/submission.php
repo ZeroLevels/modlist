@@ -1,12 +1,12 @@
 <?php
 
 /*
- * typeahead/name/query
+ * typeahead/search/query
  * Typeahead query for submission form
  * @return page
  */
 
-$this->respond('GET', '/name/[*:query]', function ($request, $response, $service, $app) {
+$this->respond('GET', '/search/[*:query]', function ($request, $response, $service, $app) {
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     
     $mods = array();
@@ -41,12 +41,12 @@ $this->respond('GET', '/name/[*:query]', function ($request, $response, $service
 });
 
 /*
- * typeahead/mod/name/author
+ * typeahead/load/name/author
  * Typeahead mod info load for submission form
  * @return page
  */
 
-$this->respond('GET', '/mod/[*:name]/[*:author]', function ($request, $response, $service, $app) {
+$this->respond('GET', '/load/[*:name]/[*:author]', function ($request, $response, $service, $app) {
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     
     $result = array();

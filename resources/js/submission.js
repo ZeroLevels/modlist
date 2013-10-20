@@ -1,7 +1,7 @@
 $('#name').typeahead([
 	{
 		name: 'mods',
-		remote: '/typeahead/name/%QUERY',
+		remote: '/typeahead/search/%QUERY',
 		template: [
 			'<p><strong>{{value}}</strong> {{other}} <i class="pull-right">{{author}}</i></p>',
 			'<p>{{desc}}</p>'
@@ -18,7 +18,7 @@ function loadMod(name, author) {
 	});
 	$('#name').popover('show');
 	$.ajax({
-		url: '/typeahead/mod/'+encodeURIComponent(name)+'/'+encodeURIComponent(author)+'/',
+		url: '/typeahead/load/'+encodeURIComponent(name)+'/'+encodeURIComponent(author)+'/',
 		type: 'get',
 		dataType: 'json',
 		cache: false,
