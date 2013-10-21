@@ -152,16 +152,27 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
 });
 
 /*
+ * list/submit
+ * Redirects to the submission page
+ * @return redirect
+ */
+$klein->respond('GET', '/list/submit/[list.php]?', function($request, $response, $service, $app) {
+    $response->redirect('/submit/', $code = 301);
+});
+
+/*
  * list/1.6/1.6.4.php
  * Redirects to the version page
  * @return redirect
  */
-$klein->respond('GET', '/list/[*]?/[*:version]', function ($request, $response, $service, $app) {
-    if(substr($request->param('version'), -4, 4) === '.php')
-        $response->redirect('/version/' . substr($request->param('version'), 0, -4));
-    else
-        $response->redirect('/version/' . $request->param('version'));
-    $response->send();
+$klein->respond('GET', '/list/[*:major]?/[*:version]', function ($request, $response, $service, $app) {
+    if($request->param('major') !== 'submit' || $request->param('version') !== 'submit') {
+        if(substr($request->param('version'), -4, 4) === '.php')
+            $response->redirect('/version/' . substr($request->param('version'), 0, -4), $code = 301);
+        else
+            $response->redirect('/version/' . $request->param('version'), $code = 301);
+        $response->send();
+    }
 });
 
 /*
