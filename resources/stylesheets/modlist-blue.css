@@ -190,3 +190,7 @@ body {
 .home-changelog div p:nth-of-type(2) {
 	min-height: 60px;
 }
+#nothuman {
+    display: none;
+    visibility: hidden;
+}

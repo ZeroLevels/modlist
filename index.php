@@ -16,6 +16,9 @@ $klein->with('/typeahead', 'routes/submission.php');
 $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     $klein->onError(function ($klein, $err_msg) {
         $klein->service()->flash($err_msg);
+        if($err_msg === 'robot') {
+            //TODO: Log and blacklist spambot IPs
+        }
         $klein->service()->back();
     });
     
@@ -114,6 +117,8 @@ $klein->respond('GET', '/version', function ($request, $response, $service, $app
  * @return page
  */
 $klein->respond('GET', '/version/[*:version]', function ($request, $response, $service, $app) {
+    if($request->param('version') === 'latest')
+        return;
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     
     $forge = array(
@@ -233,6 +238,7 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
     $service->validateParam('name')->notNull();
     $service->validateParam('versions')->notNull();
     $service->validateParam('source')->isUrl();
+    $service->validateParam('nothuman','robot')->null();
     
     if($request->param('request-type') === 'new') {
         $service->validateParam('link')->notNull()->isUrl();
