@@ -8,6 +8,7 @@ require_once 'helpers/mods.php';
 $klein = new \Klein\Klein();
 
 $klein->with('/typeahead', 'routes/submission.php');
+$klein->with('/panel', 'routes/panel.php');
 
 /*
  * Attach the layout to the site and generate/check for cached mod list data.
