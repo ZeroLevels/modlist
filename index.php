@@ -7,10 +7,6 @@ require_once 'helpers/mods.php';
 
 $klein = new \Klein\Klein();
 
-$klein->with('/typeahead', 'routes/submission.php');
-$klein->with('/panel', 'routes/panel.php');
-$klein->with('/api/v3', 'routes/apiv3.php');
-
 /*
  * Attach the layout to the site and generate/check for cached mod list data.
  * TODO: incl. manual settings for no longer supported
@@ -71,6 +67,10 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     $service->versions_count = $data['versions_count'];
     $service->layout('html/layouts/modlist.phtml');
 });
+
+$klein->with('/typeahead', 'routes/submission.php');
+$klein->with('/panel', 'routes/panel.php');
+$klein->with('/api/v3', 'routes/apiv3.php');
 
 /*
  * /
