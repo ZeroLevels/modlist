@@ -26,7 +26,7 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     
     $modlist_hash = md5_file('data/modlist.json');
     $modlist_cache = 'data/cache/' . $modlist_hash . '.json';
-    if(file_exists($modlist_cache) || !file_exists($modlist_cache)) {
+    if(!file_exists($modlist_cache)) {
         $mod_list = json_decode(file_get_contents('data/modlist.json'), 1);
         $versions = array();
         $versions_count = array();
