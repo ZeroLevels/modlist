@@ -9,6 +9,7 @@ $klein = new \Klein\Klein();
 
 $klein->with('/typeahead', 'routes/submission.php');
 $klein->with('/panel', 'routes/panel.php');
+$klein->with('/api/v3', 'routes/apiv3.php');
 
 /*
  * Attach the layout to the site and generate/check for cached mod list data.
