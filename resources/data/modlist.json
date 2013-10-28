@@ -244,7 +244,7 @@
 
 "name":"[ComputerCraft] OpenPeripheral",
 "link":"http://bit.ly/17cdajX",
-"desc":"Adds the ability to turn most blocks in the game into ComputerCraft peripherals, so you can just drop a computer next to a block and instantly have access to start calling lua functions on it. Also adds ''Terminal Glasses''. Think ''Google Glasses'', but for minecraft. If you know what you're doing, can be used for such things as telling you when you have a new tweet from twitter!",
+"desc":"Adds the ability to turn most blocks in the game into ComputerCraft peripherals, so you can just drop a computer next to a block and instantly have access to start calling lua functions on it. Also adds \"Terminal Glasses\". Think \"Google Glasses\", but for minecraft. If you know what you're doing, can be used for such things as telling you when you have a new tweet from twitter!",
 "author":["mikeemoo"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -1054,7 +1054,7 @@
 
 "name":"Ancient Tree Root Mod",
 "link":"http://bit.ly/151I1gK",
-"desc":"Do you play with large biomes, or spawned/traveled to a new world on an island without any trees and no islands anywhere near? Do you ever wonder ''Now how the hell am I supposed to survive without any possible way to obtain wood or sticks??'' Then this mod is for you!<br/><br/>Spawns a new ore block in stone, dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal. You can also use a wooden axe to get seeds instead of the normal drop.",
+"desc":"Do you play with large biomes, or spawned/traveled to a new world on an island without any trees and no islands anywhere near? Do you ever wonder \"Now how the hell am I supposed to survive without any possible way to obtain wood or sticks??\" Then this mod is for you!<br/><br/>Spawns a new ore block in stone, dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal. You can also use a wooden axe to get seeds instead of the normal drop.",
 "author":["Kinyoshi"],
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader"],
@@ -1246,7 +1246,7 @@
 
 "name":"Arrow Golems",
 "link":"http://bit.ly/1a39Zet",
-"desc":"Adds a new mob called the ''Arrow Golem'' which can spawn with a Spawn Egg in creative mode, or just create the statue needed to spawn it. It does not spawn by itself. It will shoot arrows at any monster except for Creepers and Ghasts.",
+"desc":"Adds a new mob called the \"Arrow Golem\" which can spawn with a Spawn Egg in creative mode, or just create the statue needed to spawn it. It does not spawn by itself. It will shoot arrows at any monster except for Creepers and Ghasts.",
 "author":["sed11"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
@@ -3587,7 +3587,7 @@
 
 "name":"Custom Ore Generation",
 "link":"http://bit.ly/VK0oyF",
-"desc":"Allows the player to decide what ores are generated in their worlds and how they are distributed.  In addition to the vanilla ''cluster'' distribution it offers custom-written ''vein'' and ''cloud'' distributions.",
+"desc":"Allows the player to decide what ores are generated in their worlds and how they are distributed.  In addition to the vanilla \"cluster\" distribution it offers custom-written \"vein\" and \"cloud\" distributions.",
 "author":["JRoush"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
@@ -3848,7 +3848,7 @@
 
 "name":"Desert Cotton Mod",
 "link":"http://bit.ly/XvcK11",
-"desc":"SDo you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you ever wonder ''Now how the heck am I going to make that bed with no sheep to get wool from???'' Then this mod is for you!<br/><br/>Cotton plants now grow in the desert. Use it in the furnace, craft it into wool or replant it to make more.",
+"desc":"SDo you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you ever wonder \"Now how the heck am I going to make that bed with no sheep to get wool from???\" Then this mod is for you!<br/><br/>Cotton plants now grow in the desert. Use it in the furnace, craft it into wool or replant it to make more.",
 "author":["Kinyoshi"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
@@ -3868,7 +3868,7 @@
 
 "name":"Desert Grund Mod",
 "link":"http://bit.ly/YRCXnp",
-"desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you ever wonder ''Now how the hell am I going to get or plant seeds without having dirt to make soil???'' Then this mod is for you!<br/><br/>Grund (Dirt) plants now grow in the desert. Use your fist to get dirt, use a wooden shovel so you can replant it somewhere else. You can also use a wooden hoe on the grassy top to guarantee the seed drops.",
+"desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, like to play with desert only maps or play in hardcore mode? Do you ever wonder \"Now how the hell am I going to get or plant seeds without having dirt to make soil???\" Then this mod is for you!<br/><br/>Grund (Dirt) plants now grow in the desert. Use your fist to get dirt, use a wooden shovel so you can replant it somewhere else. You can also use a wooden hoe on the grassy top to guarantee the seed drops.",
 "author":["Kinyoshi"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
@@ -11935,7 +11935,7 @@
 
 "name":"The Breakfast Mod",
 "link":"http://bit.ly/13aa0ZN",
-"desc":"Adds new reasons to explore! Strawberry and Blueberry seeds! They can only be found in dungeons, plant them on some farmland to grow yourself some fruit! You don't want to let that farm land dry out, do you? Then put a bottle of Orange Juice on-top of a empty bucket and hydrate those fields with some Orange Juice! Oranges can also be found in dungeons as an alternative to ''crafting'' them.",
+"desc":"Adds new reasons to explore! Strawberry and Blueberry seeds! They can only be found in dungeons, plant them on some farmland to grow yourself some fruit! You don't want to let that farm land dry out, do you? Then put a bottle of Orange Juice on-top of a empty bucket and hydrate those fields with some Orange Juice! Oranges can also be found in dungeons as an alternative to \"crafting\" them.",
 "author":["Tenyar"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -12036,7 +12036,7 @@
 
 "name":"The Erebus",
 "link":"http://bit.ly/WXtIlL",
-"desc":"In the vast caverns that were hidden below the bedrock in Minecraftia, nothing could live. At least, that was what people thought. But the roots of life planted their seeds in this place too, growing a huge vibrant world, with nothing in it, animal-wise.Explorers of the ancient ancestors of both Steve and the Villagers, entered this wonderful world, by using the most advanced spells they had. They did it before with the Nether and the End, so why not this new realm?Not only the humans entered this new world, which was called the Erebus, ''the Underground''. Various bugs traveled with them, hidden in their skin and inventory.The explorers build beautiful buildings, from small villages to huge pyramids. But the bugs... the overdose of oxygen, caused by the plants producing so much air that couldn't go anywhere else, caused them to mutate into much larger forms.Unfortunatly, this meant the end for these explorers. The ones that weren't eaten by the arthropods traveled back to the Overworld, leaving behind the temples they created to access the Erebus.Now, there is a world with dangerous arthropods, long abandonded by any form of vertebrate life, ready to be explored.",
+"desc":"In the vast caverns that were hidden below the bedrock in Minecraftia, nothing could live. At least, that was what people thought. But the roots of life planted their seeds in this place too, growing a huge vibrant world, with nothing in it, animal-wise.Explorers of the ancient ancestors of both Steve and the Villagers, entered this wonderful world, by using the most advanced spells they had. They did it before with the Nether and the End, so why not this new realm?Not only the humans entered this new world, which was called the Erebus, \"the Underground\". Various bugs traveled with them, hidden in their skin and inventory.The explorers build beautiful buildings, from small villages to huge pyramids. But the bugs... the overdose of oxygen, caused by the plants producing so much air that couldn't go anywhere else, caused them to mutate into much larger forms.Unfortunatly, this meant the end for these explorers. The ones that weren't eaten by the arthropods traveled back to the Overworld, leaving behind the temples they created to access the Erebus.Now, there is a world with dangerous arthropods, long abandonded by any form of vertebrate life, ready to be explored.",
 "author":["Dylan4ever"],
 "type":["N/A"],
 "dependencies":["Forge Required"],
