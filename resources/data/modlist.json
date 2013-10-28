@@ -489,7 +489,7 @@
 "author":["Myrathi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2"]
+"versions":["1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -895,7 +895,7 @@
 "author":["nerdboy64"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.4.7","1.5.2"]
 
 },{
 
@@ -1473,7 +1473,7 @@
 "author":["monnef"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -4139,7 +4139,7 @@
 "author":["Stuuupiiid"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.0","1.5.1","1.6.1","1.6.2"]
+"versions":["1.4.7","1.5.0","1.5.1","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -4732,11 +4732,11 @@
 "name":"Equivalent Exchange 3",
 "other":"(Prerelease)",
 "link":"http://bit.ly/VFB7Ip",
-"desc":"Allows you to transmute tons of materials into other materials.",
+"desc":"(1.6.4 builds <a href=\"https://github.com/lluixhi/EE3-Builds/tree/master/1.6.4\">here</a>.)</br>Allows you to transmute tons of materials into other materials.",
 "author":["Pahimer"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5","1.5.1","1.5.2"]
+"versions":["1.4.7","1.4.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -4909,7 +4909,7 @@
 "author":["RWTema"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5156,6 +5156,16 @@
 
 },{
 
+"name":"FinndusFillies",
+"link":"http://bit.ly/1gUE04p",
+"desc":"Makes horses provide meat (yum!) and a renewable source of glue (slimeballs).",
+"author":["Myrathi"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Fireplace Mod",
 "link":"http://bit.ly/ZRCnYI",
 "desc":"There are times when a 3 block long fireplace fits a house and times when a single block looks better or saves room. Regular fires can also be a hazard for wooden houses. The fireplace block has the fire, logs, sides, and smoke compressed into a one block space. Add a few chimney blocks and watch the smoke puff out. Firepits and firerings can be used as an outdoor alternative. Create grills and prepare cooked food. Swipe your flint and steel at your favorite block and enjoy the fire!",
@@ -5214,6 +5224,16 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.5.0","1.5.1","1.5.2"]
+
+},{
+
+"name":"FlatSigns",
+"link":"http://bit.ly/1gUE04p",
+"desc":"Allows for signs to be placed flatly on the floor and ceilings, muck like you would place a sign on a wall.  Simply hold sneak (shift by default) while placing it to allow such placement.",
+"author":["Myrathi"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5685,7 +5705,7 @@
 
 },{
 
-"name":"Glowstone Wire", 
+"name":"Glowstone Wire",
 "link":"http://bit.ly/13BkZcS",
 "desc":"Allows you to place glowstone dust! Not only they're great for trails, they actually give out light!",
 "author":["GrygrFlzr"],
@@ -5764,7 +5784,7 @@
 "author":["NightKosh"],
 "type":["Universal"],
 "dependencies":["Forge Required","Modloader","Player API"],
-"versions":["1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5886,6 +5906,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7","1.5.0","1.5.1","1.5.2"]
+
+},{
+
+"name":"GuiLib",
+"link":"http://bit.ly/1hmEr5f",
+"desc":"A library that allows modders to create more advanced GUIs through the use of Containers.  While it is not as powerful as <a href=\"http://bit.ly/TGlcZA\">GuiAPI</a>, creating a GUI is done in a vanilla-style way and thus is very easy to do.",
+"author":["Davidee"],
+"source":"https://github.com/DavidGoldman/GuiLib",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6039,6 +6070,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.5.2"]
+
+},{
+
+"name":"Health Charms",
+"link":"http://bit.ly/1dhFeli",
+"desc":"Health Charms are small ornaments carried by the player for its magical benefit, written words that are believed to have healing properties.",
+"author":["senpaisubaraki"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6458,7 +6499,7 @@
 "author":["Davidee"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6500,6 +6541,16 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7"]
+
+},{
+
+"name":"InfiniBows",
+"link":"http://bit.ly/1gUE04p",
+"desc":"Removes the need for a single arrow in the inventory when using an \"Infinity I\" enchanted bow. Now it really is magically infinite!",
+"author":["Myrathi"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7006,12 +7057,13 @@
 },{
 
 "name":"Legendary Beasts",
+"other":"(Alpha)",
 "link":"http://bit.ly/RBR2ai",
 "desc":"Adds new boss mobs into the game.",
 "author":["Davidee"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.3.2","1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -8130,7 +8182,17 @@
 "author":["Davidee"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Mob Spawn Controls 2",
+"link":"http://bit.ly/ZwUyGv",
+"desc":"Allows you to control where mobs can spawn.",
+"author":["Davidee"],
+"type":["Universal"],
+"dependencies":["Forge Required","GuiLib"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8876,7 +8938,7 @@
 "author":["XCompWiz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9246,13 +9308,13 @@
 
 },{
 
-"name":"Obsidian Pressure Plates",
-"link":"http://bit.ly/11K9MsD",
+"name":"ObsidiPlates",
+"link":"http://bit.ly/1gUE04p",
 "desc":"Adds obsidian and mossy cobblestone pressure plates that output a signal when stood on by a player or an NPC respectively. Includes silent versions of the pressure plates.",
 "author":["Myrathi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9656,12 +9718,12 @@
 
 "name":"Pixelmon",
 "link":"http://bit.ly/VNVgsL",
-"desc":"Adds 172 Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.",
+"desc":"Adds 204 Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.",
 "author":["epicSplashBattle"],
 "source":"https://github.com/MrMasochism/Pixelmon",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9793,6 +9855,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.5.1","1.5.2"]
+
+},{
+
+"name":"Power Converters",
+"link":"http://bit.ly/1gUxBqb",
+"desc":"A way to wrangle all those power systems into one central location. PowerConverters understands IC2, BuildCraft, and Railcraft steam.  These builds maintained by samrg472 while power crystals is on hiatus.",
+"author":["samrg472"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10805,7 +10877,7 @@
 "author":["nerdboy64"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.4.7","1.5.2"]
 
 },{
 
@@ -11183,7 +11255,7 @@
 "author":["ShadwDrgn"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11497,6 +11569,16 @@
 
 },{
 
+"name":"Subaraki's Gravestone Mod",
+"link":"http://bit.ly/1dhz4BX",
+"desc":"When a player dies, a grave will pop up, containing a small honor message, your name and the items you have lost on death.",
+"author":["senpaisubaraki"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"Subaraki's Paintings ++",
 "link":"http://bit.ly/12NKHPd",
 "desc":"Adds more paintings to the game.",
@@ -11624,6 +11706,16 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
 "versions":["1.5.0"]
+
+},{
+
+"name":"Switches",
+"link":"http://bit.ly/1gUE04p",
+"desc":"Inspired by SethBling's Bite-Sized Minecraft episodes, Switches are placed and respond just like vanilla levers. Piston extensions click switches face-on and flip levers away (or pull levers back, if a sticky piston retracts)",
+"author":["Myrathi"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 

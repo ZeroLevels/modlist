@@ -1,3 +1,17 @@
+(October/28/2013)
+	+Added 2 mods by Davidee (Which are the following)
+		+Added "GuiLib"
+		+Added "Mob Spawn Controls 2"
+	+Added 4 mods by Myrathi (Which are the following)
+		+Added "FinndusFillies"
+		+Added "FlatSigns"
+		+Added "InfiniBows"
+		+Added "Switches"
+	+Added 2 mods by nerdboy64 (Which are the following)
+		+Added "Adventure Kit"
+		+Added "SimpleGuns"
+	+Added "Subaraki's Gravestone Mod"
+
 (October/18/2013)
 	+Added 3 mods by AUTOMATIC_MAIDEN (Which are the following)
 		+Added "IDfix"

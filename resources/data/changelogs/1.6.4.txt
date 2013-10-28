@@ -1,3 +1,29 @@
+(October/28/2013)
+	+Added 5 mods by Davidee (Which are the following)
+		+Added "GuiLib"
+		+Added "In-game NBTEdit"
+		+Added "Legendary Beasts"
+		+Added "Mob Spawn Controls"
+		+Added "Mob Spawn Controls 2"
+	+Added 5 mods by Myrathi (Which are the following)
+		+Added "FinndusFillies"
+		+Added "FlatSigns"
+		+Added "InfiniBows"
+		+Added "ObsidiPlates"
+		+Added "Switches"
+	+Added 2 mods by senpaisubaraki (Which are the following)
+		+Added "Subaraki's Gravestone Mod"
+		+Added "Health Charms"
+	+Added "Auto-shutdown"
+	+Added "DungeonPack"
+	+Added "Equivalent Exchange 3"
+	+Added "Extra Utilities"
+	+Added "Gravestone Mod"
+	+Added "Mystcraft"
+	+Added "Pixelmon"
+	+Added "Power Converters"
+	+Added "Soul Shards"
+
 (October/18/2013)
 	*Updated "Jaffas and More" info: Now "Jaffas and More!", Added source
 	+Added 4 mods by AUTOMATIC_MAIDEN (Which are the following)

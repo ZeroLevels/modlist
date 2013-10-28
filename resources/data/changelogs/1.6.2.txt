@@ -1,3 +1,18 @@
+(October/28/2013)
+	+Added 2 mods by Davidee (Which are the following)
+		+Added "GuiLib"
+		+Added "Mob Spawn Controls 2"
+	+Added 5 mods by Myrathi (Which are the following)
+		+Added "FinndusFillies"
+		+Added "FlatSigns"
+		+Added "[IndustrialCraft 2] ChargePads"
+		+Added "InfiniBows"
+		+Added "Switches"
+	+Added 2 mods by senpaisubaraki (Which are the following)
+		+Added "Subaraki's Gravestone Mod"
+		+Added "Health Charms"
+	+Added "Gravestone Mod"
+
 (October/18/2013)
 	+Added 4 mods by AUTOMATIC_MAIDEN (Which are the following)
 		+Added "IDfix"
