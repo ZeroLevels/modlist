@@ -1,3 +1,7 @@
+(November/08/2013)
+	+Added "Custom Lan Port Mod"
+	+Added "SimpleOres"
+
 (October/28/2013)
 	+Added 2 mods by Davidee (Which are the following)
 		+Added "GuiLib"

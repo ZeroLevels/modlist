@@ -17,7 +17,7 @@
 "source":"https://github.com/Flow86/Additional-Buildcraft-Objects-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.2"]
+"versions":["1.4.5","1.4.7","1.5.2","1.6.4"]
 
 },{
 
@@ -103,12 +103,12 @@
 },{
 
 "name":"[Buildcraft] Logistics Pipes",
-"link":"http://bit.ly/Wmu2J1",
+"link":"http://bit.ly/12p1tyZ",
 "desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
 "author":["thezorro266"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2"]
+"versions":["1.4.7","1.5.2","1.6.4"]
 
 },{
 
@@ -332,6 +332,16 @@
 
 },{
 
+"name":"[Forestry] Magic Bees",
+"link":"http://bit.ly/UAenLP",
+"desc":"Previously known as ThaumicBees. Adds several new bee species to Forestry that will assist in producing useful items for Thaumcraft. If you love Thaumcraft and Beekeeping, these new species will provide extra resources and benefits to those clever enough to obtain them.",
+"author":["MysteriousAges"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"[Forestry] Plugins for Forestry 2",
 "link":"http://bit.ly/VFC2bC",
 "desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
@@ -354,11 +364,11 @@
 
 "name":"[Forestry] ThaumicBees",
 "link":"http://bit.ly/UAenLP",
-"desc":"Adds several new bee species to Forestry that will assist in producing useful items for Thaumcraft. If you love Thaumcraft and Beekeeping, these new species will provide extra resources and benefits to those clever enough to obtain them.",
+"desc":"Now known as ThaumicBees.  This entry will be removed e week from now.  Please see the \"Magic Bees\" entry for more info.",
 "author":["MysteriousAges"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -510,7 +520,7 @@
 "source":"https://github.com/cpw/compactsolars",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1593,7 +1603,7 @@
 "author":["BalkondeurAlpha"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -1987,8 +1997,8 @@
 "desc":"The purpose of the mod is to create immersive forest environments, inspired by forests Karob has been to, yet modeled to suit the Minecraft universe.",
 "author":["Karob"],
 "type":["Universal"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.4.7","1.5.1","1.5.2","1.6.2"]
+"dependencies":["Forge Required"],
+"versions":["1.3.2","1.4.2","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2366,7 +2376,7 @@
 "author":["Sushen"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2752,12 +2762,13 @@
 },{
 
 "name":"Clay Soldiers Mod",
+"other":"(Alpha)",
 "link":"http://bit.ly/13dqmPA",
 "desc":"So you're probably wondering to yourself A mod involving clay? No Way! I need all the grey goop I can get for my brick castle! Well put those tried, burnt hands to rest for a second and think about this: What if you could create your own miniature army out of clay and stage the most epic battles imaginable in a space small enough to be your backyard? Now before you accuse us of being a madman, take a look at this mod. Read ahead through the thread, and you'll see just what kind of violent mayhem you can cause with just a few simple materials plucked right from the ground.",
 "author":["SanAndreasP"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.5","1.4.7","1.5.1","1.5.2"]
+"versions":["1.3.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -2817,7 +2828,7 @@
 "author":["I_Iz_Shahid"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -3546,11 +3557,11 @@
 
 "name":"Custom Lan Port Mod",
 "link":"http://bit.ly/TGjnfh",
-"desc":"",
+"desc":"Allows for you to enter a custom port, IP, and MOTD for LAN!",
 "author":["CptHunter"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.7"]
+"versions":["1.4.7","1.5.2"]
 
 },{
 
@@ -5036,6 +5047,17 @@
 
 },{
 
+"name":"FanAPI",
+"link":"http://bit.ly/18cVGit",
+"desc":"Extensively changes the game into a new world based on the MOBA games LoL, DotA, DotA 2 and Smite. Adds tons of new items as well as spells and the like, giving you additional power like more HP, Mana, Attack Damage, Armor, etc.. Its also made as an API so creating custom Items is possible even without much java knowledge. Note that this mod is subject to large scale changes and improvements, as it is currently still in alpha stage.",
+"author":["Stuuupiiid"],
+"source":"https://github.com/Stuuupiiid/fanapi",
+"type":["Universal"],
+"dependencies":["Required"],
+"versions":["1.6.2","1.6.4"]
+
+},{
+
 "name":"Fancy Fences",
 "link":"http://bit.ly/TGtVeq",
 "desc":"Fences, walls, and panes better interact with each other - plus stack-able walls, new wall-types, and more!",
@@ -5885,7 +5907,7 @@
 "author":["B0bGary"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5927,6 +5949,16 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.5","1.4.7","1.5.1","1.5.2"]
+
+},{
+
+"name":"Gun Customization",
+"link":"http://bit.ly/13dC114",
+"desc":"Adds extremely customizable guns, allowing you to add such things as scopes, barrels, attachments, etc. to them. Also gives you the ability to create custom content packs using easy config files.",
+"author":["Stuuupiiid"],
+"type":["Universal"],
+"dependencies":["Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6313,7 +6345,7 @@
 "author":["iguana_man"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6398,7 +6430,7 @@
 
 },{
 
-"name":"IDfix",
+"name":"Idfix",
 "link":"http://bit.ly/19Ob9oD",
 "desc":"Automatically resolves ID conflicts for blocks, items, and enchantments.",
 "author":["AUTOMATIC_MAIDEN"],
@@ -6425,7 +6457,7 @@
 "source":"https://www.dropbox.com/sh/gl9sxgfbgt7tc0r/H4G3rPDfKF",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6820,6 +6852,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.0"]
+
+},{
+
+"name":"Journey of Legends",
+"other":"(Alpha)",
+"link":"http://bit.ly/ZkuLi0",
+"desc":"A continuation of the Tale of Kingdoms mod's story and functionality, plus many new features, including multiplayer support!",
+"author":["aginsun"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.4.7","1.5.2","1.6.2"]
 
 },{
 
@@ -8439,7 +8482,7 @@
 "author":["nohero"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10444,7 +10487,7 @@
 "author":["ReiFNSK"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -10887,7 +10930,7 @@
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.1"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11494,7 +11537,7 @@
 "author":["Vswe"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -11745,18 +11788,7 @@
 "author":["aginsun"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.1","1.5.2"]
-
-},{
-
-"name":"Tale of Kingdoms 2",
-"other":"(Alpha)",
-"link":"http://bit.ly/ZkuLi0",
-"desc":"A continuation of the Tale of Kingdoms mod's story and functionality, plus many new features, including multiplayer support!",
-"author":["aginsun"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12302,7 +12334,7 @@
 "author":["The_WeatherPony"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.2","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -13080,7 +13112,7 @@
 "author":["B0bGary"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -13691,6 +13723,18 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7"]
+
+},{
+
+"name":"Yet Another Leather Smelting Mod",
+"other":"YALSM",
+"link":"http://bit.ly/16N0vBP",
+"desc":"Adds recipes to smelt rotten flesh into leather. Conversion ratio is 5x Rotten Flesh = 1x Leather.",
+"author":["airbreather","skidznet"],
+"source":"https://github.com/airbreather/YALSM",
+"type":["Universal"],
+"dependencies":["Required"],
+"versions":["1.6.4"]
 
 },{
 

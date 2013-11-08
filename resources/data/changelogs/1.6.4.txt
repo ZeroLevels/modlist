@@ -1,3 +1,30 @@
+(November/08/2013)
+	+Added 2 mods by aginsun (Which are the following)
+		+Added "Journey of Legends"
+		+Added "Tale of Kingdoms"
+	+Added 2 mods by B0bGary (Which are the following)
+		+Added "Uses For Lapis"
+		+Added "Growable Ores"
+	+Added 3 mods by iguana_man (Which are the following)
+		+Added "Hunger Overhaul"
+		+Added "Iguana Tweaks"
+		+Added "[Tinkers' Construct] Iguana Tweaks"
+	+Added 2 mods by Stuuupiiid (Which are the following)
+		+Added "FanAPI"
+		+Added "Gun Customization"
+	+Added "Balkon's WeaponMod"
+	+Added "BigTrees"
+	+Added "[Buildcraft] Additional Buildcraft Objects"
+	+Added "[Buildcraft] Logistics Pipes"
+	+Added "Camera Studio"
+	+Added "[IndustrialCraft 2] Compact Solars"
+	+Added "More Health Enhanced"
+	+Added "Rei's Minimap"
+	+Added "SimpleOres"
+	+Added "Steve's Carts 2"
+	+Added "The Seasons Mod"
+	+Added "Yet Another Leather Smelting Mod"
+
 (October/28/2013)
 	+Added 5 mods by Davidee (Which are the following)
 		+Added "GuiLib"
