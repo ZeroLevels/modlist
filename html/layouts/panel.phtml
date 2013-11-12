@@ -10,8 +10,7 @@
         $stylesheets = array(
             "//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css",
             "//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css",
-            "/resources/stylesheets/modlist-blue.css",
-            "/resources/stylesheets/panel.css"
+            "/resources/stylesheets/modlist-blue.css"
         );
         $prefetches = array(
             "//www.google-analytics.com",
@@ -82,21 +81,7 @@
     <script type="text/javascript" src="<?php echo $javascript; ?>"></script>
     <?php } ?>
     <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
     <![endif]-->
-    <!--Google Analytics-->
-    <script type="text/javascript">
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-39433845-1']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-    </script>
 </body>
 </html>

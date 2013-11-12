@@ -48,33 +48,10 @@
                 </button>
                 <a class="navbar-brand" href="/">MCF Modlist</a>
             </div>
-            <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav">
-                    <li><a href="/"><i class=""></i> Home</a></li>
-                    <li><a href="/"><i class=""></i> Submit Mods</a></li>
-                    <li><a href="/"><i class=""></i> FAQ</a></li>
-                </ul>
-            </div>
         </div>
     </nav>
     <div class="container">
         <?php echo $this->yieldView(); ?>
-    </div>
-    <div class="modal fade" id="alert" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title">Modal title</h4>
-                </div>
-                <div class="modal-body">
-                    ...
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
     </div>
     <?php if(isset($this->specialjavascripts))
         $javascripts = array_merge($javascripts, $this->specialjavascripts);
@@ -82,21 +59,7 @@
     <script type="text/javascript" src="<?php echo $javascript; ?>"></script>
     <?php } ?>
     <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
     <![endif]-->
-    <!--Google Analytics-->
-    <script type="text/javascript">
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-39433845-1']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-    </script>
 </body>
 </html>
