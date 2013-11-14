@@ -37,22 +37,7 @@
 	<link rel="canonical" href="." />
 </head>
 <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top ml-nav-blue" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="/">MCF Modlist</a>
-            </div>
-        </div>
-    </nav>
-    <div class="container">
-        <?php echo $this->yieldView(); ?>
-    </div>
+    <?php echo $this->yieldView(); ?>
     <?php if(isset($this->specialjavascripts))
         $javascripts = array_merge($javascripts, $this->specialjavascripts);
     foreach ($javascripts as $javascript) { ?>
