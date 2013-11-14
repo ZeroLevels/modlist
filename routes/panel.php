@@ -1,7 +1,5 @@
 <?php
 session_start();
-//$_SESSION['user'] = 'test';
-//unset($_SESSION['user']);
 
 /*
  * Attach layout
