@@ -64,7 +64,7 @@ $this->respond('GET', '/login/start', function ($request, $response, $service, $
                 http_build_query(array(
                     'client_id'    => GITHUB_OAUTH_ID,
                     'redirect_uri' => GITHUB_CALLBACK_URL,
-                    'scope'        => 'user',
+                    'scope'        => 'user:email',
                     'state'        => $_SESSION['state']
                 )));
     } else {
