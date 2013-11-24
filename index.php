@@ -21,8 +21,8 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
         $klein->service()->back();
     });
     
-    $modlist_hash = filemtime('data/modlist.json');
-    $modlist_cache = 'data/cache/' . $modlist_hash . '.json';
+    $modlist_mtime = filemtime('data/modlist.json');
+    $modlist_cache = 'data/cache/' . $modlist_mtime . '.json';
     if(!file_exists($modlist_cache)) {
         $mod_list = json_decode(file_get_contents('data/modlist.json'), 1);
         $versions = array();
