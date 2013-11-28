@@ -93,7 +93,8 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
         ));
         $context = stream_context_create(array('http' => array(
             'method' => 'POST',
-            'header' => 'Content-Type: application/x-www-form-urlencoded' . "\r\n" .
+            'header' => 'User-Agent: MCF Modlist' . "\r\n" .
+                        'Content-Type: application/x-www-form-urlencoded' . "\r\n" .
                         'Content-Length: ' . strlen($post) . "\r\n" . 
                         'Accept: application/json',
             'content' => $post
@@ -103,8 +104,14 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
         $token_data = json_decode(file_get_contents('https://github.com/login/oauth/access_token', false, $context), true);
         $_SESSION['access_token'] = $token_data['access_token'];
         
+        $context = stream_context_create(array('http' => array(
+            'method' => 'GET',
+            'header' => 'User-Agent: MCF Modlist' . "\r\n" .
+                        'Accept: application/json'
+        )));
+        
         //Request basic user information
-        $user_data = json_decode(file_get_contents('https://api.github.com/user?access_token=' . $_SESSION['access_token']), true);
+        $user_data = json_decode(file_get_contents('https://api.github.com/user?access_token=' . $_SESSION['access_token'], false, $context), true);
         $_SESSION['id']     = $user_data['id'];
         $_SESSION['user']   = $user_data['login'];
         $_SESSION['avatar'] = $user_data['avatar_url'];
@@ -125,9 +132,5 @@ $this->respond('GET', '/logout', function ($request, $response, $service, $app) 
 });
 
 $this->respond('GET', '/home', function ($request, $response, $service, $app) {
-    $response->body(
-            '<strong>'.$_SESSION['user'].'</strong><br />'.
-            '<img src="'.$_SESSION['avatar'].'" alt="Avatar of '.$_SESSION['user'].'" /><br />' .
-            'User #'.$_SESSION['id']
-            );
+    $service->render('html/panel/home.phtml');
 });
