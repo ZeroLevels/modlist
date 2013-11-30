@@ -208,7 +208,7 @@ $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, 
  * @return page
  */
 $klein->respond('GET', '/submit', function ($request, $response, $service, $app) {
-    $submission_list = json_decode(file_get_contents('panel/secrets/submissions.json'), true);
+    $submission_list = json_decode(file_get_contents('data/submissions.json'), true);
     $submissions = array();
     $amount['update'] = 0;
     $amount['new'] = 0;
