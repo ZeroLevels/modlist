@@ -104,6 +104,7 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
         $token_data = json_decode(file_get_contents('https://github.com/login/oauth/access_token', false, $context), true);
         $_SESSION['access_token'] = $token_data['access_token'];
         
+        //Build request again
         $context = stream_context_create(array('http' => array(
             'method' => 'GET',
             'header' => 'User-Agent: MCF Modlist' . "\r\n" .
@@ -133,4 +134,46 @@ $this->respond('GET', '/logout', function ($request, $response, $service, $app) 
 
 $this->respond('GET', '/home', function ($request, $response, $service, $app) {
     $service->render('html/panel/home.phtml');
+});
+
+/*
+ * panel/submission
+ * Submission list
+ * @return page
+ */
+
+$this->respond('GET', '/submission', function ($request, $response, $service, $app) {
+    $sub_list = json_decode(file_get_contents('data/submissions.json'), true);
+    
+    $mode = array(
+        'New Mod' => 'info',
+        'Update Request' => 'primary'
+    );
+    
+    $forge = array(
+        'required' => 'Forge Required',
+        'compatible' => 'Forge Compatible',
+        'notcompatible' => 'Not Forge Compatible'
+    );
+    
+    $forgecolor = array(
+        'required' => 'success',
+        'compatible' => 'primary',
+        'notcompatible' => 'danger'
+    );
+    
+    $final_list = array();
+    foreach($sub_list as $sub) {
+        if(!isset($sub['complete'])) {
+            array_push($final_list, $sub);
+        }
+    }
+    $final_list = array_reverse($final_list);
+    
+    $service->render('html/panel/submission_list.phtml', array(
+        'submissions' => $final_list,
+        'mode'       => $mode,
+        'forge'       => $forge,
+        'forgecolor'  => $forgecolor
+    ));
 });

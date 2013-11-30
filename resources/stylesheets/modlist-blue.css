@@ -21,7 +21,7 @@ td a:hover {
 .ml-nav-blue .navbar-brand {
 	color: #fff;
 }
-.ml-nav-blue .navbar-nav > li > a {
+.ml-nav-blue .navbar-nav > li > a, .ml-nav-blue .navbar-nav > li > p {
 	color: #E4E8FF;
 }
 .ml-nav-blue .navbar-nav > .dropdown > a .caret {
