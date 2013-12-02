@@ -6,7 +6,6 @@
 	+Added 2 mods by B0bGary (Which are the following)
 		+Added "Uses For Lapis"
 		+Added "Growable Ores"
-	+Added "Advanced Genetics"
 	+Added "Clay Soldiers Mod"
 	+Added "[IndustrialCraft 2] Compact Solars"
 	+Added "More Health Enhanced"
