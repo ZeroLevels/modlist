@@ -1,3 +1,24 @@
+(December/01/2013)
+	+Added 2 mods by B0bGary (Which are the following)
+		+Added "Coal Tools"
+		+Added "Redstone Tools"
+	+Added "AllSnow Mod"
+	+Added "Batman Mod"
+	+Added "Better Furnaces"
+	+Added "Butterfly Mania"
+	+Added "ChristmasCraft"
+	+Added "Enhanced Portals"
+	+Added "Factorization"
+	+Added "GLSL Shaders Mod"
+	+Added "Herobrine Mod"
+	+Added "Painted Stone"
+	+Added "Secret Rooms Mod"
+	+Added "SimCraft"
+	+Added "Super Heroes in Minecraft"
+	+Added "The Ocarina Mod"
+	+Added "Thermal Expansion"
+	+Added "Throwable Bricks Mod"
+
 (November/08/2013)
 	+Added 2 mods by aginsun (Which are the following)
 		+Added "Journey of Legends"

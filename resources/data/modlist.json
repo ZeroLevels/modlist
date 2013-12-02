@@ -864,7 +864,7 @@
 "author":["ObsiLP"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -1008,7 +1008,7 @@
 "author":["Sopwith"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -1621,10 +1621,10 @@
 "other":"(WIP)",
 "link":"http://bit.ly/13LqcRi",
 "desc":"Ever wanted to be Batman? This mod allows you to do so!",
-"author":["colossali"],
+"author":["Dudzie"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -1784,7 +1784,7 @@
 "author":["TheFrogMC"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2356,7 +2356,7 @@
 "author":["TyronX"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":[ "1.4.7","1.5.1","1.5.2"]
+"versions":[ "1.4.7","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -2642,7 +2642,7 @@
 "author":["AUTOMATIC_MAIDEN"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -2711,11 +2711,11 @@
 
 "name":"ChristmasCraft",
 "link":"http://bit.ly/117HoQC",
-"desc":"",
+"desc":"Adds Christmas related content to the game, such as colder biomes, friendly mobs, presents, trees, and decorations!",
 "author":["Newt_Head"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7"]
+"versions":["1.4.5","1.4.7","1.6.4"]
 
 },{
 
@@ -2818,7 +2818,7 @@
 "author":["B0bGary"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4660,12 +4660,12 @@
 },{
 
 "name":"Enhanced Portals",
-"link":"http://bit.ly/TGk9sM",
+"link":"http://bit.ly/18fYuMe",
 "desc":"Allows you to create any size or shape nether portal that you want. Unlike other mods, this mod has no limit on the size of the portal you want to create - as long as it's a valid portal (a frame of obsidian with nothing else in the way) - you're good to go.",
 "author":["Alz454"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -4982,7 +4982,7 @@
 "author":["neptunepink"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5743,8 +5743,8 @@
 "desc":"Adds shaders that can be swapped in-game. Allows use of Depth of Field, Parallax Occlusion and other advanced shading. Continuation of daxnitro's GLSL Shaders.",
 "author":["karyonix"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.5.2","1.6.1","1.6.2"]
+"dependencies":["Forge Required"],
+"versions":["1.4.7","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -6161,9 +6161,9 @@
 "link":"http://bit.ly/VFDivm",
 "desc":"Adds Herobrine to your game.",
 "author":["burnner_"],
-"type":["SSP"],
+"type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -8950,7 +8950,7 @@
 "desc":"Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!",
 "author":["thehippomaster21"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","AnimationAPI"],
 "versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
@@ -9553,6 +9553,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7","1.5.1","1.6.4"]
+
+},{
+
+"name":"Painted Stone",
+"link":"http://www.minecraftforum.net/topic/2118351-",
+"desc":"Adds colored versions of Stone blocks.  Works well with \"Carpenter's Blocks\" mod!",
+"author":["mDiyo"],
+"source":"https://github.com/mDiyo/PaintedStone",
+"type":["Universal"],
+"dependencies":["Required"],
+"versions":["1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -10173,7 +10184,7 @@
 "author":["Cali Alec"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -10477,7 +10488,7 @@
 "author":["B0bGary"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -10759,7 +10770,7 @@
 "author":["AbrarSyed"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2"]
+"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -10890,7 +10901,7 @@
 "author":["Conraad","Mikerman50"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2"]
+"versions":["1.4.7","1.5.2","1.6.4"]
 
 },{
 
@@ -11688,7 +11699,7 @@
 "author":["colossali"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12273,7 +12284,7 @@
 "author":["Boba_Fett_Link"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12470,12 +12481,12 @@
 
 "name":"Thermal Expansion",
 "other":"(Beta)",
-"link":"http://bit.ly/UxhiF3",
+"link":"http://bit.ly/18fYVG4",
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Formerly dependent on BuildCraft, this mod is now stand-alone, but uses the same power system as BuildCraft.",
 "author":["Team CoFH"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -12495,7 +12506,7 @@
 "author":["StrangeOne101"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -13253,7 +13264,7 @@
 "desc":"Integration with vanilla screenshots, allowing you to take screenshots normally with F2.  In-game screenshot manager with GUI, and the ability to take HUGE screenshots like back in early Beta.",
 "author":["Thatapplefreak"],
 "type":["Client"],
-"dependencies":["LiteLoader Required"],
+"dependencies":["LiteLoader","Forge Compatible"],
 "versions":["1.6.4"]
 
 },{
@@ -13601,18 +13612,6 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1"]
-
-},{
-
-"name":"!X-RAY MOD",
-"other":"(julialy)",
-"link":"http://bit.ly/W2hmul",
-"desc":"This mod will let you see through any block or entity and has simple controls.",
-"author":["julialy"],
-"source":"https://github.com/uyjulian/MinecraftX-RAY",
-"type":["Client"],
-"dependencies":["Forge Compatible","Liteloader"],
-"versions":["1.4.7","1.5.2","1.6.1","1.6.2"]
 
 },{
 
