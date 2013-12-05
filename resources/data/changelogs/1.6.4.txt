@@ -1,3 +1,39 @@
+(December/05/2013)
+	+Added 7 mods by spacechase0 (Which are the following)
+		+Added "Biome Wand"
+		+Added "Component Equipment"
+		+Added "Decorative Stuff"
+		+Added "Everlasting Tools"
+		+Added "Survival Wings"
+		+Added "Toxic Rain"
+		+Added "Useful Pets"
+	+Added "Ferullo's Gun Mod"
+	+Added "Optifine"
+	+Added "Upgrade Pickaxe Mod"
+
+(December/04/2013)
+	+Added 4 mods by MorpheusZero (Which are the following)
+		+Added "BatsDropLeather"
+		+Added "CreepersNoCreeping"
+		+Added "HorseAccessories"
+		+Added "MorphCore"
+	+Added "AngryMobs"
+	+Added "Blue Sky Mod"
+	+Added "Blue Vanilla"
+	+Added "CleanStartScreen"
+	+Added "DrZhark's MagicCarpet Mod"
+	+Added "Dungeon Mobs"
+	+Added "Gizmos"
+	+Added "Hamsterrific Mod"
+	+Added "Igneous Mod"
+	+Added "Leafcutter"
+	+Added "LotsOMobs"
+	+Added "Metallurgy 3"
+	+Added "Shatter"
+	+Added "Statues"
+	+Added "Stop Gap"
+	+Added "The Mists of RioV"
+
 (December/01/2013)
 	+Added 2 mods by B0bGary (Which are the following)
 		+Added "Coal Tools"
@@ -16,7 +52,7 @@
 	+Added "SimCraft"
 	+Added "Super Heroes in Minecraft"
 	+Added "The Ocarina Mod"
-	+Added "Thermal Expansion"
+	+Added "Thermal Expansion 3"
 	+Added "Throwable Bricks Mod"
 
 (November/08/2013)

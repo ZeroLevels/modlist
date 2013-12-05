@@ -1083,6 +1083,17 @@
 
 },{
 
+"name":"AngryMobs",
+"link":"http://bit.ly/18jMpsq",
+"desc":"Adds Angry (hostile) variants of the friendly Overworld mobs at night that will attack you and other animals of the respective type.",
+"author":["TheKomputerKing"],
+"source":"https://bitbucket.org/TheKomputerKing/angrymobs",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Animal Bikes",
 "link":"http://bit.ly/WmrV81",
 "desc":"A multiplayer mod which allows you to ride animals.",
@@ -1170,6 +1181,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7"]
+
+},{
+
+"name":"Arcane Crafter 2",
+"link":"http://bit.ly/1bikzy2",
+"desc":"Adds a chance of getting attributes and enchantments on crafting items depending on one's current experience level.",
+"author":["Max_FFF"],
+"type":["SSP","LAN"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.6.2"]
 
 },{
 
@@ -1633,18 +1654,8 @@
 "desc":"When you kill a bat it has a chance of dropping 0 - 3 pieces of leather during the daytime. If you kill a bat during the night it's yield may improve since bats are nocturnal creatures. Sometimes they may even drop other kinds of seeds! You can also feed them seeds to breed them. I felt like bats were kind of useless at this point as they don't drop anything or give you XP so I added this in.",
 "author":["MorpheusZero"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.0","1.5.1","1.6.1"]
-
-},{
-
-"name":"BatsDropLeather",
-"link":"http://bit.ly/117U1v2",
-"desc":"When you kill a bat it has a chance of dropping 0 - 3 pieces of leather during the daytime. If you kill a bat during the night it's yield may improve since bats are nocturnal creatures. Sometimes they may even drop other kinds of seeds! You can also feed them seeds to breed them. I felt like bats were kind of useless at this point as they don't drop anything or give you XP so I added this in.",
-"author":["MorpheusZero"],
-"type":["Universal"],
-"dependencies":["Forge Compatible","MorphCore"],
-"versions":["1.6.2"]
+"dependencies":["Forge Required","MorphCore"],
+"versions":["1.5.0","1.5.1","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -2050,7 +2061,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.4.7","1.5.0","1.6.2"]
+"versions":["1.4.7","1.5.0","1.6.2","1.6.4"]
 
 },{
 
@@ -2160,8 +2171,28 @@
 "desc":"Adds new items, tools, and  magic to the game. Even a wand that throws things into the air! It is all based around a blue ore.",
 "author":["LTLightning"],
 "type":["SSP","LAN"],
-"dependencies":["required"],
+"dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Blue Sky Mod",
+"link":"http://bit.ly/1cnbkNc",
+"desc":"Adds dimensions, many items,  and many blocks.",
+"author":["115kino"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Blue Vanilla",
+"link":"http://bit.ly/18jJ10C",
+"desc":"Adds the ability to interpret xml/txt files to allow users to code and add new mobs, structures, music discs and books to your minecraft world. Instead of discovering yet another Desert or Jungle temple, you can make an assets folder with dozens or hundreds of new places to find and explore. Comes with default assets that include hundreds of structures, and dozens of new mobs, music discs and books to bring back the thrill of exploration to the game.",
+"author":["SRJ 26","danieljohnson2"],
+"type":["Universal"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.5.2","1.6.1","1.6.4"]
 
 },{
 
@@ -2802,6 +2833,17 @@
 
 },{
 
+"name":"CleanStartScreen",
+"link":"http://bit.ly/1eRBcAx",
+"desc":"Adds several different Main Menu screen set-ups including a cleaner Forge one, classic, and left-aligned.",
+"author":["iLexiconn"],
+"source":"https://github.com/iLexiconn/CleanStartScreen",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Click Mining Fix Fix",
 "link":"http://bit.ly/Xe7BZa",
 "desc":"Re-implements click mining. A bug back before 1.3 beta, that lets you start mining the next block faster.",
@@ -3032,7 +3074,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -3439,28 +3481,8 @@
 "desc":"Creepers will burn in the sunlight and flee in the sun to find shade when burning. They are also afraid of water because they cannot swim and will explode if they touch water. They also make a sound when wandering around.",
 "author":["MorpheusZero"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.3.2","1.4.2","1.5.0","1.5.1"]
-
-},{
-
-"name":"CreepersNoCreeping",
-"link":"http://bit.ly/117U1v2",
-"desc":"Creepers will burn in the sunlight and flee in the sun to find shade when burning. They are also afraid of water because they cannot swim and will explode if they touch water. They also make a sound when wandering around.",
-"author":["MorpheusZero"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.1"]
-
-},{
-
-"name":"CreepersNoCreeping",
-"link":"http://bit.ly/117U1v2",
-"desc":"Creepers will burn in the sunlight and flee in the sun to find shade when burning. They are also afraid of water because they cannot swim and will explode if they touch water. They also make a sound when wandering around.",
-"author":["MorpheusZero"],
-"type":["Universal"],
 "dependencies":["Forge Required","MorphCore"],
-"versions":["1.6.2"]
+"versions":["1.3.2","1.4.2","1.5.0","1.5.1","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3813,7 +3835,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.6.2"]
+"versions":["1.5.1","1.6.2","1.6.4"]
 
 },{
 
@@ -4103,6 +4125,16 @@
 
 },{
 
+"name":"DrZhark's MagicCarpet Mod",
+"link":"http://bit.ly/1ccyDI8",
+"desc":"Adds in Magic Carpets that allow you to fly.  Also works on 1.6.4.",
+"author":["DrZhark"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
 "name":"Duel Tool Mod",
 "link":"http://bit.ly/15Je7Py",
 "desc":"Allows the player to mix tools to get new tools with both abilities",
@@ -4140,7 +4172,7 @@
 "author":["GnomeWorks"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -4788,7 +4820,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.4.5","1.4.7","1.5.0","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.0","1.6.2","1.6.4"]
 
 },{
 
@@ -5053,7 +5085,7 @@
 "author":["Stuuupiiid"],
 "source":"https://github.com/Stuuupiiid/fanapi",
 "type":["Universal"],
-"dependencies":["Required"],
+"dependencies":["Forge Required"],
 "versions":["1.6.2","1.6.4"]
 
 },{
@@ -5144,7 +5176,7 @@
 "author":["f3rullo14"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5683,7 +5715,7 @@
 "author":["Planetguy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5957,8 +5989,19 @@
 "desc":"Adds extremely customizable guns, allowing you to add such things as scopes, barrels, attachments, etc. to them. Also gives you the ability to create custom content packs using easy config files.",
 "author":["Stuuupiiid"],
 "type":["Universal"],
-"dependencies":["Required"],
+"dependencies":["Forge Required"],
 "versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Hamsterrific Mod",
+"link":"http://bit.ly/18jI6gG",
+"desc":"Adds hamsters. In order to tame the hamsters (which are randomly spawned in your minecraft world) you right click them (or feed them) with seeds. You can also put them on your head by right clicking them with paper and take them along with you in your minecraft journeys!",
+"author":["RazzleberryFox","Modochu","and P-there is"],
+"source":"http://www.kodevelopment.nl/razzleberry/hamsterrific",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -6265,7 +6308,7 @@
 "author":["MorpheusZero"],
 "type":["Universal"],
 "dependencies":["Forge Required","MorphCore"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -6447,6 +6490,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7","1.5.0","1.5.1"]
+
+},{
+
+"name":"Igneous Mod",
+"link":"http://bit.ly/18jE5sI",
+"desc":"Introduces new lava and water blocks; when put in a standard cobble-stone generator, they allow blocks other than stone to be produced. Perfect for skyblock worlds if you still want access to unlimited resources.",
+"author":["PlayingwithBlocks","Poersch"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -7079,6 +7132,16 @@
 
 },{
 
+"name":"Leafcutter",
+"link":"http://bit.ly/1gGbQGX",
+"desc":"Adds an item, called a leafcutter. Cuts leaves quickly without dropping anything but what's usually dropped when broken by hand.",
+"author":["Domochevsky"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Left-Handed",
 "link":"http://bit.ly/14adThD",
 "desc":"Places items in your left hand, swaps panorama direction, and makes actions with left hand instead. Edits the jar.",
@@ -7323,6 +7386,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.5.2","1.6.2"]
+
+},{
+
+"name":"LotsOMobs",
+"link":"http://bit.ly/1cn9ETW",
+"desc":"Adds more of a variety of creatures to the game.",
+"author":["TheLarsinator"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7687,7 +7760,7 @@
 "source":"https://github.com/RebelKeithy/Metallurgy3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -8769,7 +8842,7 @@
 "author":["MorpheusZero"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -9430,7 +9503,7 @@
 "author":["sp614x"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -9562,7 +9635,7 @@
 "author":["mDiyo"],
 "source":"https://github.com/mDiyo/PaintedStone",
 "type":["Universal"],
-"dependencies":["Required"],
+"dependencies":["Forge Required"],
 "versions":["1.6.1","1.6.2","1.6.4"]
 
 },{
@@ -10814,6 +10887,16 @@
 
 },{
 
+"name":"Shatter",
+"link":"http://bit.ly/1gGcOmu",
+"desc":"When you kill a mob the mob shatters.",
+"author":["iChun"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Shelf",
 "link":"http://bit.ly/WnSwBj",
 "desc":"Ever wanted to store your items in a way you can see them? Here you go. This block allows you to add up to 9 items to it and the items you put in are shown in the world.",
@@ -11522,12 +11605,22 @@
 },{
 
 "name":"Statues",
+"link":"http://bit.ly/1eRE40j",
+"desc":"Sculpt statues out of various blocks, craft a showcase to show off your valuables. Originally by dolfinsbizou.",
+"author":["AUTOMATIC_MAIDEN"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Statues",
 "link":"http://bit.ly/XYb5z9",
 "desc":"Adds statue versions of mobs to the game.",
 "author":["TheOneAndOnly717"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.7"]
+"versions":["1.4.7","1.5.1"]
 
 },{
 
@@ -11590,6 +11683,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Stop Gap",
+"link":"http://bit.ly/18jFY8E",
+"desc":"Adds a couple of recipes and items for alternative methods of acquiring redstone/glowstone dust.",
+"author":["Othlon"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -11749,7 +11852,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.3.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.3.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12254,7 +12357,7 @@
 "author":["sheenrox82"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -12479,7 +12582,7 @@
 
 },{
 
-"name":"Thermal Expansion",
+"name":"Thermal Expansion 3",
 "other":"(Beta)",
 "link":"http://bit.ly/18fYVG4",
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Formerly dependent on BuildCraft, this mod is now stand-alone, but uses the same power system as BuildCraft.",
@@ -12728,7 +12831,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -13018,11 +13121,11 @@
 
 "name":"Upgrade Pickaxe Mod",
 "link":"http://bit.ly/10Hy0Ps",
-"desc":"Adds upgraded versions of each type of pickaxe, chich are 2x as fast and durable.",
+"desc":"Adds upgraded versions of each type of pickaxe, which are 2x as fast and durable.",
 "author":["0012saab"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -13062,7 +13165,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2"]
+"versions":["1.6.2","1.6.4"]
 
 },{
 
@@ -13732,7 +13835,7 @@
 "author":["airbreather","skidznet"],
 "source":"https://github.com/airbreather/YALSM",
 "type":["Universal"],
-"dependencies":["Required"],
+"dependencies":["Forge Required"],
 "versions":["1.6.4"]
 
 },{

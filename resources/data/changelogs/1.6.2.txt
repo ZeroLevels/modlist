@@ -1,3 +1,9 @@
+(December/04/2013)
+	+Added "Arcane Crafter 2"
+	+Added "Hamsterrific Mod"
+	+Added "Igneous Mod"
+	+Added "LotsOMobs"
+
 (December/01/2013)
 	+Added "Advanced Genetics"
 	+Added "RadarBro"

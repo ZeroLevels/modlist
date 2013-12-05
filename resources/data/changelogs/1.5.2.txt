@@ -1,3 +1,7 @@
+(December/04/2013)
+	+Added "Blue Vanilla"
+	+Added "LotsOMobs"
+
 (November/08/2013)
 	+Added "Custom Lan Port Mod"
 	+Added "SimpleOres"
