@@ -1,3 +1,17 @@
+(December/06/2013)
+	+Added 2 mods by Flenix (Which are the following)
+		+Added "FlenixCities"
+		+Added "FlenixRoads"
+	+Added 2 mods by MatrexsVigil (Which are the following)
+		+Added "Get all the Seeds!"
+		+Added "Huge Mushroom Spawn"
+	+Added "FoodEx"
+	+Added "Food Plus"
+	+Added "ForgeIRC"
+	+Added "Gamma bright"
+	+Added "HD Skins and Cloaks"
+	+Added "Hopper Ducts"
+
 (December/05/2013)
 	+Added 7 mods by spacechase0 (Which are the following)
 		+Added "Biome Wand"

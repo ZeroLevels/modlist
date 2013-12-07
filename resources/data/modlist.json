@@ -5297,7 +5297,7 @@
 "author":["Flenix"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5408,7 +5408,7 @@
 "author":["T_DoggG"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5418,7 +5418,7 @@
 "author":["JoseTheCrafter"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5466,12 +5466,12 @@
 },{
 
 "name":"ForgeIRC",
-"link":"http://bit.ly/17vAbJk",
+"link":"http://bit.ly/117XoSV",
 "desc":"Easily connect your entire server or just your client to an IRC channel",
 "author":["ShadwDrgn"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -5624,7 +5624,7 @@
 "author":["kymaster"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5705,7 +5705,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":[ "1.4.7","1.5.2","1.6.2"]
+"versions":[ "1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6124,7 +6124,7 @@
 "source":"https://github.com/denoflionsx/HDSAC",
 "type":["Universal"],
 "dependencies":["Forge Compatible","denLib Required"],
-"versions":["1.4.5","1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6298,7 +6298,7 @@
 "author":["FyberOptic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6358,7 +6358,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":[ "1.4.7","1.5.2","1.6.2"]
+"versions":[ "1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
