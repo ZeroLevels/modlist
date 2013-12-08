@@ -3256,7 +3256,7 @@
 "source":"https://github.com/Lomeli12/CraftCards",
 "type":["Universal"],
 "dependencies":["Forge Required","Lomlib Required"],
-"versions":["1.6.1","1.6.2"]
+"versions":["1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -3775,7 +3775,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -4162,7 +4162,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2"]
+"versions":["1.4.7","1.5.2","1.6.4"]
 
 },{
 
@@ -4790,7 +4790,7 @@
 "source":"https://github.com/Lomeli12/Equivalency",
 "type":["Universal"],
 "dependencies":["Forge Required","LomLib Required"],
-"versions":["1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -5307,7 +5307,7 @@
 "author":["Flenix"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -6688,7 +6688,7 @@
 "author":["Duke605"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.1","1.6.2"]
+"versions":["1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7108,7 +7108,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -7148,7 +7148,7 @@
 "author":["GreensMC"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.6.1","1.6.2"]
+"versions":["1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7158,7 +7158,7 @@
 "author":["dude22072"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.2"]
+"versions":["1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7189,7 +7189,7 @@
 "author":["TwistedCarny"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7214,12 +7214,12 @@
 },{
 
 "name":"Light Bridges Mod",
-"link":"http://bit.ly/1doMnni",
-"desc":"A mod that adds light bridges and light doors and also light rails to minecraft just like the halo games :)",
+"link":"http://bit.ly/IUXdn9",
+"desc":"Adds light bridges, light doors, and light rails based on the ones from the Halo series.",
 "author":["kris91268"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7290,9 +7290,9 @@
 "link":"http://bit.ly/UR3eUm",
 "desc":"Allows you to polish up your creativity and optimize your redstone systems. Indeed, the size of blocks placed in a little blocks is divided by eight compared to its original size, so you can place 512 blocks instead of one. Be careful though with the size of your creations because the resources (memory, gpu / cpu ...) increases proportionally with it.",
 "author":["VengeurK"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.5","1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7365,7 +7365,7 @@
 "source":"https://github.com/Lomeli12/LomLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2"]
+"versions":["1.5.0","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -7375,7 +7375,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7385,7 +7385,7 @@
 "author":["pifou92000"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2","1.6.2"]
+"versions":["1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7657,9 +7657,9 @@
 "link":"http://bit.ly/Wo8GLo",
 "desc":"Enhanced colors, animations, mipmapping, textures and font support. Includes Connected Textures and RandomMobs.",
 "author":["Kahr"],
-"type":["SSP"],
-"dependencies":["Not Forge Compatible","Modloader Compatible"],
-"versions":["1.4.7","1.5.2","1.6.1"]
+"type":["Client"],
+"dependencies":["Forge Compatible","Modloader Compatible"],
+"versions":["1.4.7","1.5.2","1.6.1","1.6.4"]
 
 },{
 
@@ -7729,7 +7729,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":[ "1.4.7","1.5.2","1.6.2"]
+"versions":[ "1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -7842,7 +7842,7 @@
 "author":["Verdana"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader Required"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
+"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -9890,7 +9890,7 @@
 "author":["FatherToast"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -11476,7 +11476,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -13257,7 +13257,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.0","1.5.1","1.5.2"]
+"versions":["1.4.7","1.5.0","1.5.1","1.5.2","1.6.4"]
 
 },{
 

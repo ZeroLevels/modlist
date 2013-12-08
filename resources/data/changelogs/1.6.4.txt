@@ -1,4 +1,28 @@
 (December/06/2013)
+	+Added 2 mods by FatherToast (Which are the following)
+		+Added "Deadly World"
+		+Added "Dungeon Crawler"
+		+Added "Lava Monsters"
+		+Added "Lost Books"
+		+Added "Player Heads"
+		+Added "Special Mobs"
+		+Added "Utility Mobs"
+	+Added 2 mods by Lomeli12 (Which are the following)
+		+Added "Craft Cards"
+		+Added "LomLib"
+	+Added "Ingame Mod List 3"
+	+Added "[Equivalent Exchange 3] Equivalency"
+	+Added "Left-Handed"
+	+Added "Legend of Zelda Mod"
+	+Added "Lemon Land"
+	+Added "Light Bridges Mod"
+	+Added "LittleBlocks"
+	+Added "Lots of Food"
+	+Added "MCPatcher"
+	+Added "Melon Spawn"
+	+Added "Mine Little Pony"
+
+(December/06/2013)
 	+Added 2 mods by Flenix (Which are the following)
 		+Added "FlenixCities"
 		+Added "FlenixRoads"
