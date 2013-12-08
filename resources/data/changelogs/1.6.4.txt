@@ -1,5 +1,5 @@
-(December/06/2013)
-	+Added 2 mods by FatherToast (Which are the following)
+(December/08/2013)
+	+Added 7 mods by FatherToast (Which are the following)
 		+Added "Deadly World"
 		+Added "Dungeon Crawler"
 		+Added "Lava Monsters"
