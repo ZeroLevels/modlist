@@ -1,3 +1,27 @@
+(December/10/2013)
+	+Added 2 mods by Clashsoft (Which are the following)
+		+Added "More Minerals Mod"
+		+Added "More Potions Mod"
+		+Added "More Tools Mod"
+	+Added 2 mods by SoBiohazardous & Delocuro (Which are the following)
+		+Added "Extrapolated Decor"
+		+Added "Extrapolated Ores"
+	+Added "Death Counter"
+	+Added "Desert Craft"
+	+Added "Doggy Talents Mod"
+	+Added "Dragon Block C"
+	+Added "Dynmap"
+	+Added "Extrapolated Decor"
+	+Added "Ellian's MaterialDetector"
+	+Added "Emerald Tools/Armor"
+	+Added "Minecraft Lighting Fix Mod"
+	+Added "MoreOresOrite"
+	+Added "More Swords Mod"
+	+Added "MumbleLink"
+	+Added "Music Timer Mod"
+	+Added "Nexion"
+	+Added "NoSnow Mod"
+
 (December/08/2013)
 	+Added 7 mods by FatherToast (Which are the following)
 		+Added "Deadly World"
