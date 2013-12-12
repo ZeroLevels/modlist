@@ -295,7 +295,7 @@ $klein->respond('GET', '/[banners|credits|faq|history|igml|api_docs:page]', func
 /*
  * old
  * Redirect /old to old.modlist.mcf.li for ZeroLevels's history :-)
- * @return page
+ * @return redirect
  */
 $klein->respond('GET', '/old', function ($request, $response, $service, $app) {
     $response->redirect('http://old.modlist.mcf.li/');
