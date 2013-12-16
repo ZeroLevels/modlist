@@ -22,14 +22,14 @@
             <td>
                 <p>
                     <?php if(isset($submission['link'])) { ?>
-                    <span><a href="<?php echo htmlspecialchars($submission['link'],ENT_QUOTES); ?>"><?php echo htmlspecialchars($submission['name'],ENT_QUOTES); ?></a></span>
+                    <span><a href="<?php echo safehtml($submission['link']); ?>"><?php echo safehtml($submission['name']); ?></a></span>
                     <?php } else { ?>
-                    <span><?php echo htmlspecialchars($submission['name'],ENT_QUOTES); ?></span>
+                    <span><?php echo safehtml($submission['name']); ?></span>
                     <?php } ?>
                 </p>
                 <?php if(isset($submission['desc'])) { ?>
                 <p>
-                    <?php echo htmlspecialchars($submission['desc'],ENT_QUOTES); ?>
+                    <?php echo safehtml($submission['desc']); ?>
                 </p>
                 <?php } ?>
                 <p>

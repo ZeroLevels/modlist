@@ -1,5 +1,16 @@
 <?php
 
+if(!function_exists('safehtml')) {
+    /**
+     * Filters a string for safe use in HTML outputs
+     * @param string $string The unsafe string
+     * @return string
+     */
+    function safehtml($string) {
+        return htmlspecialchars($string,ENT_QUOTES);
+    }
+}
+
 if(!function_exists('filter_sort')) {
     function filtersort($data) {
         return PREG_REPLACE("/[^0-9a-zA-Z]/i", '', $data);
