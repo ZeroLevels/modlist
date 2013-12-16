@@ -2,9 +2,32 @@
 session_start();
 
 /*
- * Attach layout
+ * Attach layout and load submissions for usage
  */
 $this->respond(function ($request, $response, $service, $app) {
+    $submissions = json_decode(file_get_contents('data/submissions.json'), true);
+    
+    $mode = array(
+        'New Mod' => 'info',
+        'Update Request' => 'primary'
+    );
+    
+    $forge = array(
+        'required' => 'Forge Required',
+        'compatible' => 'Forge Compatible',
+        'notcompatible' => 'Not Forge Compatible'
+    );
+    
+    $forgecolor = array(
+        'required' => 'success',
+        'compatible' => 'primary',
+        'notcompatible' => 'danger'
+    );
+    
+    $service->submissions = $submissions;
+    $service->mode        = $mode;
+    $service->forge       = $forge;
+    $service->forgecolor  = $forgecolor;
     $service->layout('html/layouts/panel.phtml');
 });
 
@@ -143,27 +166,8 @@ $this->respond('GET', '/home', function ($request, $response, $service, $app) {
  */
 
 $this->respond('GET', '/submission', function ($request, $response, $service, $app) {
-    $sub_list = json_decode(file_get_contents('data/submissions.json'), true);
-    
-    $mode = array(
-        'New Mod' => 'info',
-        'Update Request' => 'primary'
-    );
-    
-    $forge = array(
-        'required' => 'Forge Required',
-        'compatible' => 'Forge Compatible',
-        'notcompatible' => 'Not Forge Compatible'
-    );
-    
-    $forgecolor = array(
-        'required' => 'success',
-        'compatible' => 'primary',
-        'notcompatible' => 'danger'
-    );
-    
     $final_list = array();
-    foreach($sub_list as $sub) {
+    foreach($service->submissions as $sub) {
         if(!isset($sub['complete'])) {
             array_push($final_list, $sub);
         }
@@ -172,8 +176,8 @@ $this->respond('GET', '/submission', function ($request, $response, $service, $a
     
     $service->render('html/panel/submission_list.phtml', array(
         'submissions' => $final_list,
-        'mode'       => $mode,
-        'forge'       => $forge,
-        'forgecolor'  => $forgecolor
+        'mode'        => $service->mode,
+        'forge'       => $service->forge,
+        'forgecolor'  => $service->forgecolor
     ));
 });
