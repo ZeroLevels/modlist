@@ -218,8 +218,19 @@ $this->respond('GET', '/submission/[*:id]', function ($request, $response, $serv
         }
     }
     
+    $duplicates = array();
+    
+    foreach($service->submissions as $sub) {
+        if(!isset($sub['complete']) && $sub['id'] !== $submission['id']) {
+            if(strtolower($sub['name']) === strtolower($submission['name'])) {
+                array_push($duplicates, $sub);
+            }
+        }
+    }
+    
     $service->render('html/panel/submission.phtml', array(
         'submission'  => $submission,
+        'duplicates'  => $duplicates,
         'mode'        => $service->mode,
         'forge'       => $service->forge,
         'forgecolor'  => $service->forgecolor

@@ -111,6 +111,21 @@
             </div>
         </div>
     </div>
+    <?php if(!empty($this->duplicates)) { ?>
+    <div class="col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Possible Duplicates</h3>
+            </div>
+            <div class="panel-body">
+                This may be a duplicate of issue
+                <?php foreach($this->duplicates as $duplicate) { ?>
+                <a href="/panel/submission/<?php echo $duplicate['id']; ?>">#<?php echo $duplicate['id']; ?></a>
+                <?php } ?>
+            </div>
+        </div>
+    </div>
+    <?php } ?>
     <?php if(!empty($this->submission['other'])) { ?>
     <div class="col-sm-6">
         <div class="panel panel-default">
@@ -160,7 +175,7 @@
                 <strong>Supported Versions</strong>
                 <p>
                     <?php foreach($this->submission['versions'] as $version) { ?>
-                    <span class="label label-<?php echo in_array($version, $this->submission['oldversions'], true) ? 'default' : 'primary'; ?>"><?php echo $version; ?></span>
+                    <span class="label label-<?php echo isset($this->submission['oldversions']) && in_array($version, $this->submission['oldversions'], true) ? 'default' : 'primary'; ?>"><?php echo $version; ?></span>
                     <?php } ?>
                 </p>
                 <strong>Forge Compatibility</strong>
