@@ -1,0 +1,192 @@
+<div class="media">
+    <div class="media-body">
+        <h4 class="media-heading">
+            #<?php echo $this->submission['id']; ?>:
+            <?php echo safehtml($this->submission['name']); ?>
+        </h4>
+        <p class="text-muted">
+            Submitted on <?php echo date('jS F, Y',$this->submission['timestamp']); ?>
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Final submission</h3>
+            </div>
+            <div class="panel-body">
+                <div class="form-group">
+                    <div class="btn-group" id="request-type-group">
+                        <label<?php if($this->submission['mode'] === 'New Mod') { echo ' class="active"'; } ?>>
+                            <input type="radio" name="request-type" id="new" value="new"<?php if($this->submission['mode'] === 'New Mod') { echo ' checked'; } ?>> New Mod
+                        </label>
+                        <label<?php if($this->submission['mode'] === 'Update Request') { echo ' class="active"'; } ?>>
+                            <input type="radio" name="request-type" id="old" value="old"<?php if($this->submission['mode'] === 'Update Request') { echo ' checked'; } ?>> Update Request
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="name">Mod Name</label>
+                    <input type="text" class="form-control typeahead" name="name" id="name" placeholder="Name of the mod" required autofocus>
+                </div>
+                <div class="form-group">
+                    <label for="link">Link</label>
+                    <a>
+                        <button type="button" class="btn btn-default btn-xs pull-right">
+                            bit.ly this link &raquo;
+                        </button>
+                    </a>
+                    <input type="url" class="form-control" name="link" id="link" placeholder="Link to the site, page or thread of the mod">
+                </div>
+                <div class="form-group">
+                    <label for="desc">Description</label>
+                    <textarea class="form-control" rows="3" name="desc" id="desc" placeholder="What does the mod do? Be as clear and concise as possible."></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="authors">Mod Authors</label>
+                    <input type="text" class="form-control" name="authors" id="authors" placeholder="Enter the author(s) of the mod, comma separated">
+                </div>
+                <div class="form-group">
+                    <label for="source">Source</label>
+                    <input type="url" class="form-control" name="source" id="source" placeholder="Link to site or page of the mod source code">
+                </div>
+                <div class="form-group" id="dependencies">
+                    <label for="dependencies">Forge Compatibility</label>
+                    <input type="text" class="form-control" name="dependencies" id="dependencies" placeholder="Enter the mod dependencies, comma separated">
+                </div>
+                <div class="form-group" id="availability">
+                    <label for="availability">Availability</label>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" value="universal" name="availability[]">
+                            <strong>Universal</strong> - The mod has one file that can run on both Singleplayer and Multiplayer.
+                        </label>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" value="client" name="availability[]">
+                            <strong>Clientside</strong> - The mod only needs to run on the client. Example: Minimaps
+                        </label>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" value="server" name="availability[]">
+                            <strong>Serverside</strong> - The mod only needs to run on the server. Example: Extra Commands
+                        </label>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" value="SSP" name="availability[]">
+                            <strong>SSP</strong> - The mod works in Singleplayer, and does not have a universal mod file.
+                        </label>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" value="SMP" name="availability[]">
+                            <strong>SMP</strong> - The mod works in Multiplayer, and does not have a universal mod file.
+                        </label>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" value="LAN" name="availability[]">
+                            <strong>LAN</strong> - The mod works in LAN, and does not have a universal mod file.
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group" id="versions">
+                    <label for="versions">Versions</label>
+                    <?php foreach($this->versions as $version) { ?>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" value="<?php echo $version; ?>" name="versions[]">
+                            <?php echo $version; ?>
+                        </label>
+                    </div>
+                    <?php } ?>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php if(!empty($this->submission['other'])) { ?>
+    <div class="col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Submitter Notes</h3>
+            </div>
+            <div class="panel-body">
+                <?php echo safehtml($this->submission['other']); ?>
+            </div>
+        </div>
+    </div>
+    <?php } ?>
+    <div class="col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Original Submission</h3>
+            </div>
+            <div class="panel-body">
+                <p>
+                    <span class="label label-<?php echo $this->mode[$this->submission['mode']]; ?>"><?php echo $this->submission['mode']; ?></span>
+                </p>
+                <strong>Name</strong>
+                <p><?php echo safehtml($this->submission['name']); ?></p>
+                <strong>Author(s)</strong>
+                <?php if($this->submission['mode'] === 'Update Request') { ?>
+                    <i class="fa fa-check pull-right"></i>
+                <?php } ?>
+                <p><?php echo safehtml($this->submission['author']); ?></p>
+                <strong>Link</strong>
+                <?php if($this->submission['mode'] === 'Update Request') { ?>
+                    <i class="fa fa-check pull-right"></i>
+                <?php } ?>
+                <p>
+                    <a target="_blank" href="<?php echo safehtml($this->submission['link']); ?>"><?php echo safehtml($this->submission['link']); ?></a><br>
+                </p>
+                <?php if(!empty($this->submission['source'])) { ?>
+                <span>This mod is <strong>Open Source</strong>.</span>
+                <p>
+                    <a target="_blank" href="<?php echo safehtml($this->submission['source']); ?>"><?php echo safehtml($this->submission['source']); ?></a><br>
+                </p>
+                <?php } ?>
+                <strong>Description</strong>
+                <?php if($this->submission['mode'] === 'Update Request') { ?>
+                    <i class="fa fa-check pull-right"></i>
+                <?php } ?>
+                <p><?php echo safehtml($this->submission['desc']); ?></p>
+                <strong>Supported Versions</strong>
+                <p>
+                    <?php foreach($this->submission['versions'] as $version) { ?>
+                    <span class="label label-<?php echo in_array($version, $this->submission['oldversions'], true) ? 'default' : 'primary'; ?>"><?php echo $version; ?></span>
+                    <?php } ?>
+                </p>
+                <strong>Forge Compatibility</strong>
+                <?php if($this->submission['mode'] === 'Update Request') { ?>
+                    <i class="fa fa-check pull-right"></i>
+                <?php } ?>
+                <p>
+                    <span class="label label-<?php echo $this->forgecolor[$this->submission['compatibility']];?>">
+                        <?php echo $this->forge[$this->submission['compatibility']]; ?>
+                    </span>
+                </p>
+                <strong>Availability</strong>
+                <?php if($this->submission['mode'] === 'Update Request') { ?>
+                    <i class="fa fa-check pull-right"></i>
+                <?php } ?>
+                <p>
+                    <?php echo implode(', ', $this->submission['availability']); ?>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Raw Submission</h3>
+            </div>
+            <div class="panel-body">
+                <pre><?php var_dump($this->submission); ?></pre>
+            </div>
+        </div>
+    </div>
+</div>

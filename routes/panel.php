@@ -12,16 +12,23 @@ $this->respond(function ($request, $response, $service, $app) {
         'Update Request' => 'primary'
     );
     
+    //TODO: Make submissions.json consistent
     $forge = array(
         'required' => 'Forge Required',
+        'Forge Required' => 'Forge Required',
         'compatible' => 'Forge Compatible',
-        'notcompatible' => 'Not Forge Compatible'
+        'Forge Compatible' => 'Forge Compatible',
+        'notcompatible' => 'Not Forge Compatible',
+        'Not Forge Compatible' => 'Not Forge Compatible'
     );
     
     $forgecolor = array(
         'required' => 'success',
+        'Forge Required' => 'success',
         'compatible' => 'primary',
-        'notcompatible' => 'danger'
+        'Forge Compatible' => 'primary',
+        'notcompatible' => 'danger',
+        'Not Forge Compatible' => 'danger'
     );
     
     $service->submissions = $submissions;
@@ -176,6 +183,43 @@ $this->respond('GET', '/submission', function ($request, $response, $service, $a
     
     $service->render('html/panel/submission_list.phtml', array(
         'submissions' => $final_list,
+        'mode'        => $service->mode,
+        'forge'       => $service->forge,
+        'forgecolor'  => $service->forgecolor
+    ));
+});
+
+/*
+ * panel/submission/1234
+ * Submission page for specific request
+ * @return page
+ */
+
+$this->respond('GET', '/submission/[*:id]', function ($request, $response, $service, $app) {
+    //TODO: Restructure submissions.json?
+    $submission = $service->submissions[$request->param('id')];
+    
+    if($submission['mode'] === 'Update Request') {
+        $mods = json_decode(file_get_contents('data/modlist.json'), true);
+        foreach($mods as $mod) {
+            if(strtolower($mod['name']) === strtolower($submission['name'])) {
+                $submission['author'] = implode(', ', $mod['author']);
+                $submission['link'] = $mod['link'];
+                $submission['desc'] = $mod['desc'];
+                $submission['availability'] = $mod['type'];
+                
+                //TODO: Fix workaround code - relies on first of array being Forge
+                $submission['compatibility'] = array_shift($mod['dependencies']);
+                
+                $submission['oldversions'] = $mod['versions'];
+                
+                break;
+            }
+        }
+    }
+    
+    $service->render('html/panel/submission.phtml', array(
+        'submission'  => $submission,
         'mode'        => $service->mode,
         'forge'       => $service->forge,
         'forgecolor'  => $service->forgecolor
