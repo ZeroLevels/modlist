@@ -176,6 +176,17 @@ $this->respond('GET', '/submission', function ($request, $response, $service, $a
     $final_list = array();
     foreach($service->submissions as $sub) {
         if(!isset($sub['complete'])) {
+            if(
+                !isset($sub['versions']) ||
+                $sub['mode'] === 'New Mod' && (
+                    empty($sub['link']) ||
+                    empty($sub['desc']) ||
+                    empty($sub['author']) ||
+                    empty($sub['name'])
+                )
+            ) {
+                $sub['incomplete'] = true;
+            }
             array_push($final_list, $sub);
         }
     }
