@@ -132,20 +132,51 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
         
         //Request access token
         $token_data = json_decode(file_get_contents('https://github.com/login/oauth/access_token', false, $context), true);
-        $_SESSION['access_token'] = $token_data['access_token'];
+        $access_token             = $token_data['access_token'];
+        $_SESSION['access_token'] = $access_token;
         
-        //Build request again
-        $context = stream_context_create(array('http' => array(
-            'method' => 'GET',
-            'header' => 'User-Agent: MCF Modlist' . "\r\n" .
-                        'Accept: application/json'
-        )));
+        $users = array();
         
-        //Request basic user information
-        $user_data = json_decode(file_get_contents('https://api.github.com/user?access_token=' . $_SESSION['access_token'], false, $context), true);
-        $_SESSION['id']     = $user_data['id'];
-        $_SESSION['user']   = $user_data['login'];
-        $_SESSION['avatar'] = $user_data['avatar_url'];
+        $users_cache = 'data/cache/users.json';
+        
+        if(file_exists($users_cache)) {
+            $users = json_decode(file_get_contents($users_cache), 1);
+        }
+        
+        if(!isset($users[$access_token])) { //New user
+            //Build request again
+            $context = stream_context_create(array('http' => array(
+                'method' => 'GET',
+                'header' => 'User-Agent: MCF Modlist' . "\r\n" .
+                            'Accept: application/json'
+            )));
+
+            //Request basic user information
+            $user_data = json_decode(file_get_contents('https://api.github.com/user?access_token=' . $_SESSION['access_token'], false, $context), true);
+            $_SESSION['id']     = $user_data['id'];
+            $_SESSION['user']   = $user_data['login'];
+            $_SESSION['avatar'] = $user_data['avatar_url'];
+            
+            //Build request again
+            $context = stream_context_create(array('http' => array(
+                'method' => 'GET',
+                'header' => 'User-Agent: MCF Modlist' . "\r\n" .
+                            'Accept: application/vnd.github.v3+json'
+            )));
+            
+            //Request email
+            $emails = json_decode(file_get_contents('https://api.github.com/user/emails?access_token=' . $_SESSION['access_token'], false, $context), true);
+            $_SESSION['email'] = $emails[0]['email'];
+            $_SESSION['access_level'] = 'user';
+            
+            //Save data
+            $users[$access_token] = $_SESSION;
+            $encoded_data = json_encode($users, JSON_PRETTY_PRINT);
+            file_put_contents($users_cache, $encoded_data);
+        } else { //Load from cache - don't request to GitHub
+            $_SESSION          = $users[$access_token];
+            $_SESSION['state'] = $request->param('state');
+        }
         
         //Redirect to home page
         $response->redirect('/panel/home');
