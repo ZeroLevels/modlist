@@ -48,6 +48,9 @@ $('.dependency').tooltip({
 $('.progress-bar').tooltip({
     placement: "auto"
 });
+$('.panel-new-version').tooltip({
+    title: "This is a new version added by the submitter"
+});
 $('#request-type-group').attr('data-toggle','buttons');
 $('#request-type-group>label').addClass("btn btn-primary");
 $('.dependency').click(function(e) {
