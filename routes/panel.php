@@ -168,6 +168,7 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             $emails = json_decode(file_get_contents('https://api.github.com/user/emails?access_token=' . $_SESSION['access_token'], false, $context), true);
             $_SESSION['email'] = $emails[0]['email'];
             $_SESSION['access_level'] = 'user';
+            $_SESSION['send_email'] = false;
             
             //Save data
             $users[$access_token] = $_SESSION;
