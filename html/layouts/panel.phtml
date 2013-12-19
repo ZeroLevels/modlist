@@ -1,40 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <meta charset="utf-8">
-        <title>MCF Mod List Panel - <?php echo $this->title; ?></title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Minecraft Forum Mod List - A list of Minecraft mods compiled by the community" />
-        <?php
-        // TODO: make this more efficient
-        $stylesheets = array(
-            "//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css",
-            "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css",
-            "/resources/stylesheets/modlist-blue.css",
-            "/resources/stylesheets/panel.css"
-        );
-        $prefetches = array(
-            "//www.google-analytics.com",
-            "//ajax.googleapis.com/",
-            "//cdnjs.cloudflare.com/",
-            "//bit.ly/",
-            "//www.minecraftforum.net/",
-        );
-        $javascripts = array(
-            "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
-            "//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js",
-            "/resources/js/jquery.stickytableheaders.min.js",
-            "/resources/js/tooltips.js",
-        );
-        ?>
-        <?php foreach ($stylesheets as $stylesheet) { ?>
-        <link rel="stylesheet" href="<?php echo $stylesheet; ?>"/>
-        <?php } ?>
-        <?php foreach ($prefetches as $prefetch) { ?>
-        <link rel="dns-prefetch" href="<?php echo $prefetch; ?>"/>
-        <?php } ?>
-        <link rel="shortcut icon" href="/resources/images/favicon32x32.png">
-        <link rel="canonical" href="." />
+    <meta charset="utf-8">
+    <title>MCF Mod List Panel - <?php echo $this->title; ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Minecraft Forum Mod List - A list of Minecraft mods compiled by the community" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="/resources/stylesheets/modlist-blue.css"/>
+    <link rel="dns-prefetch" href="//www.google-analytics.com"/>
+    <link rel="dns-prefetch" href="//ajax.googleapis.com/"/>
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com/"/>
+    <link rel="dns-prefetch" href="//bit.ly/"/>
+    <link rel="dns-prefetch" href="//www.minecraftforum.net/"/>
+    <link rel="shortcut icon" href="/resources/images/favicon32x32.png">
+    <link rel="canonical" href="." />
 </head>
 <body>
     <nav class="navbar navbar-inverse navbar-fixed-top ml-nav-blue" role="navigation">
@@ -83,11 +63,14 @@
             </div>
         </div>
     </div>
-    <?php if(isset($this->specialjavascripts))
-        $javascripts = array_merge($javascripts, $this->specialjavascripts);
-    foreach ($javascripts as $javascript) { ?>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/resources/js/jquery.stickytableheaders.min.js"></script>
+    <script type="text/javascript" src="/resources/js/tooltips.js"></script>
+    <?php if(isset($this->specialjavascripts)) {
+        foreach ($this->specialjavascripts as $javascript) { ?>
     <script type="text/javascript" src="<?php echo $javascript; ?>"></script>
-    <?php } ?>
+    <?php }} ?>
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
     <![endif]-->
