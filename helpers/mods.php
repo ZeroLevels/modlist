@@ -1,6 +1,12 @@
 <?php
 
 if(!function_exists('time_ago')) {
+    /**
+     * Converts Unix timestamp into time ago
+     * @param int $tm Past Unix timestamp
+     * @param type $rcs How many units are appended to the result
+     * @return string
+     */
     function time_ago($tm,$rcs = 0) {
         $cur_tm = time(); $dif = $cur_tm-$tm;
         $pds = array('second','minute','hour','day','week','month','year','decade');
