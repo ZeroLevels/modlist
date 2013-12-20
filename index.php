@@ -224,7 +224,7 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
             }
         }
     }
-    $service->render('html/submit/index.phtml', array('versions' => $service->versions, 'submissions' => array_reverse($submissions), 'amount' => $amount));
+    $service->render('html/submit/index.phtml', array('submissions' => array_reverse($submissions), 'amount' => $amount));
 });
 
 /*
@@ -232,12 +232,12 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
  * Submission Form
  * @return page
  */
-$klein->respond('GET', '/submit/form', function ($request, $response, $service, $app) {
+$klein->respond('GET', '/submit/[form|failed|success:state]', function ($request, $response, $service, $app) {
     $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
             "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
             "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
             "/resources/js/submission.js"
-        )), array('versions' => $service->versions));
+        ), 'state' => $request->param('state')));
 });
 
 /*
@@ -247,7 +247,8 @@ $klein->respond('GET', '/submit/form', function ($request, $response, $service, 
  * @return redirect
  */
 
-$klein->respond('POST', '/submit/complete', function ($request, $response, $service, $app) {    
+$klein->respond('POST', '/submit/complete', function ($request, $response, $service, $app) use ($klein) {    
+    //Validate submission
     $service->validateParam('request-type')->notNull();
     $service->validateParam('name')->notNull();
     $service->validateParam('versions')->notNull();
@@ -261,26 +262,79 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
         $service->validateParam('forge')->notNull();
         $service->validateParam('availability')->notNull();
     }
-    $response->dump($_POST);
     
+    //Read existing submissions and add new one
+    $submissions = 'data/submissions.json';
+    $submissions_data = json_decode(file_get_contents($submissions), true);
+    $last_submission = end($submissions_data);
+    
+    $mod = array(
+        'id'            => $last_submission['id'] + 1,
+        'timestamp'     => time(),
+        'mode'          => $request->param('request-type') === 'new' ? 'New Mod' : 'Update Request',
+        'name'          => $request->param('name'),
+        'link'          => $request->param('link',null),
+        'desc'          => $request->param('desc',null),
+        'authors'       => $request->param('authors',null),
+        'source'        => $request->param('source'),
+        'compatibility' => $request->param('forge',null),
+        'availability'  => $request->param('availability',null),
+        'versions'      => $request->param('versions'),
+        'other'         => $request->param('other'),
+        'origin'        => $request->ip()
+    );
+    
+    array_push($submissions_data, $mod);
+    
+    //Save submissions
+    $encoded_data = json_encode($submissions_data, JSON_PRETTY_PRINT);
+    file_put_contents($submissions, $encoded_data);
+    
+    //Create new PHPMailer instance
     $mail = new PHPMailer();
-    $mail->IsSMTP();
+    $mail->isSMTP();
+    $mail->SMTPDebug    = 0;
     $mail->Host         = 'smtp.gmail.com';
     $mail->Port         = 587;
     $mail->SMTPSecure   = 'tls';
     $mail->SMTPAuth     = true;
-    $mail->Username     = '';
-    $mail->Password     = '';
-    $mail->SetFrom('', 'MCF Modlist');
-    $mail->AddReplyTo('', 'MCF Modlist');
-    $mail->AddAddress('', '');
-    $mail->AddAddress('', '');
+    $mail->Username     = GMAIL_USER;
+    $mail->Password     = GMAIL_PASS;
+    $mail->setFrom(GMAIL_USER, GMAIL_NAME);
+    $mail->addReplyTo(GMAIL_USER, GMAIL_NAME);
     
+    //Load e-mails to send to
+    $users_cache = 'data/cache/users.json';
+    if(file_exists($users_cache)) {
+        $users = json_decode(file_get_contents($users_cache), 1);
+        foreach($users as $user) {
+            if($user['send_email'] === true) {
+                $mail->addAddress($user['email'], $user['user']);
+            }
+        }
+    }
+    
+    //Select type of Subject
     if($request->param('request-type') === 'new') {
         $mail->Subject  = 'New Mod - ' . $request->param('name');
     } else {
         $mail->Subject  = 'Update Request - ' . $request->param('name');
     }
+    
+    //Use Klein to render partial and extract render
+    $service->partial('html/layouts/mail.phtml',array('mod' => $mod));
+    $mail->msgHTML(ob_get_clean());
+    
+    $service->partial('html/layouts/mail_alt.phtml',array('mod' => $mod));
+    $mail->AltBody = ob_get_clean();
+    
+    if(!$mail->Send()) {
+        $response->redirect('/submit/failed');
+    } else {
+        $response->redirect('/submit/success');
+    }
+    $response->send();
+    exit();
 });
 
 /*

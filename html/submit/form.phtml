@@ -3,19 +3,22 @@
 </div>
 <!-- 
 TODO: alerts
-<div class="alert alert-warning alert-dismissable">
+<div class="alert alert-dismissable alert-warning">
     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-    <strong>Warning:</strong> This version is no longer supported and will no longer recieve updates.
+    <strong>Warning:</strong> This version is no longer supported and will no longer receive updates.
 </div>
+-->
+<?php if('success' === $this->state) { ?>
 <div class="alert alert-dismissable alert-success">
     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
     <strong>Well done!</strong> You successfully submitted the mod.
 </div>
+<?php } elseif('failed' === $this->state) { ?>
 <div class="alert alert-dismissable alert-danger">
     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
     <strong>Uh oh!</strong> Something went wrong on our side. Please notify us about this problem.
 </div>
--->
+<?php } ?>
 <form role="form" method="POST" action="complete">
     <div class="form-group">
         <div class="btn-group" id="request-type-group">
