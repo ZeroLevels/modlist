@@ -143,8 +143,8 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             $users = json_decode(file_get_contents($users_cache), 1);
         }
         
-        if(!isset($users[$access_token])) { //New user
-            //Build request again
+        if(!isset($users[$access_token])) {
+            //New user - build request again
             $context = stream_context_create(array('http' => array(
                 'method' => 'GET',
                 'header' => 'User-Agent: MCF Modlist' . "\r\n" .
@@ -169,14 +169,22 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             $_SESSION['email'] = $emails[0]['email'];
             $_SESSION['access_level'] = 'user';
             $_SESSION['send_email'] = false;
+            $_SESSION['registered'] = time();
+            $_SESSION['last_login'] = time();
             
             //Save data
             $users[$access_token] = $_SESSION;
             $encoded_data = json_encode($users, JSON_PRETTY_PRINT);
             file_put_contents($users_cache, $encoded_data);
-        } else { //Load from cache - don't request to GitHub
+        } else {
+            //Load from cache - don't request to GitHub
             $_SESSION          = $users[$access_token];
             $_SESSION['state'] = $request->param('state');
+            
+            //Change last login time and save data
+            $users[$access_token]['last_login'] = time();
+            $encoded_data = json_encode($users, JSON_PRETTY_PRINT);
+            file_put_contents($users_cache, $encoded_data);
         }
         
         //Redirect to home page
