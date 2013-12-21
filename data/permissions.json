@@ -1,0 +1,23 @@
+{
+    "user":{
+        "display_name":"User",
+        "permissions":[
+            "panel.submission.view"
+        ]
+    },
+    "mod":{
+        "display_name":"Moderator",
+        "inherit":"user",
+        "permissions":[
+            "panel.submission.edit",
+            "panel.userlist.view",
+            "panel.self.settings"
+        ]
+    },
+    "admin":{
+        "display_name":"Administrator",
+        "permissions":[
+            "*"
+        ]
+    }
+}
