@@ -1,6 +1,8 @@
 <?php
 session_start();
 
+require_once 'helpers/permissions.php';
+
 /*
  * Attach layout and load submissions for usage
  */
@@ -35,6 +37,9 @@ $this->respond(function ($request, $response, $service, $app) {
     $service->mode        = $mode;
     $service->forge       = $forge;
     $service->forgecolor  = $forgecolor;
+    
+    $service->permissions = new Modlist\Permissions();
+    
     $service->layout('html/layouts/panel.phtml');
 });
 
@@ -181,6 +186,9 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             $_SESSION          = $users[$access_token];
             $_SESSION['state'] = $request->param('state');
             
+            //Set user access level
+            $service->permissions->setAccessLevel($_SESSION['access_level']);
+            
             //Change last login time and save data
             $users[$access_token]['last_login'] = time();
             $encoded_data = json_encode($users, JSON_PRETTY_PRINT);
@@ -247,6 +255,11 @@ $this->respond('GET', '/submission', function ($request, $response, $service, $a
  */
 
 $this->respond('GET', '/submission/[*:id]', function ($request, $response, $service, $app) {
+    if(!$service->permissions->canAccess('panel.submission.view')) {
+        $service->render('html/panel/forbidden.phtml');
+        return;
+    }
+    
     //TODO: Restructure submissions.json?
     $submission = $service->submissions[$request->param('id')];
     
