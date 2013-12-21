@@ -39,6 +39,9 @@ $this->respond(function ($request, $response, $service, $app) {
     $service->forgecolor  = $forgecolor;
     
     $service->permissions = new Modlist\Permissions();
+    if(isset($_SESSION['access_level'])) {
+        $service->permissions->setAccessLevel($_SESSION['access_level']);
+    }
     
     $service->layout('html/layouts/panel.phtml');
 });
@@ -185,9 +188,6 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             //Load from cache - don't request to GitHub
             $_SESSION          = $users[$access_token];
             $_SESSION['state'] = $request->param('state');
-            
-            //Set user access level
-            $service->permissions->setAccessLevel($_SESSION['access_level']);
             
             //Change last login time and save data
             $users[$access_token]['last_login'] = time();
