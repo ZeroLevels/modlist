@@ -287,7 +287,7 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
     array_push($submissions_data, $mod);
     
     //Save submissions
-    $encoded_data = json_encode($submissions_data, JSON_PRETTY_PRINT);
+    $encoded_data = json_encode($submissions_data, JSON_UNESCAPED_SLASHES);
     file_put_contents($submissions, $encoded_data);
     
     //Create new PHPMailer instance
