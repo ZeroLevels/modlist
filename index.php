@@ -18,7 +18,9 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
         if($err_msg === 'robot') {
             //TODO: Log and blacklist spambot IPs
         }
-        $klein->service()->back();
+        if($err_msg !== 'api') {
+            $klein->service()->back();
+        }
     });
     
     $modlist_mtime = filemtime('data/modlist.json');
@@ -335,6 +337,48 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
     }
     $response->send();
     exit();
+});
+
+/*
+ * apiv2.php
+ * Legacy APIv2 - removed key requirement
+ * TODO: remove on next version
+ * @deprecated
+ * @return page
+ */
+$klein->respond('GET', '/apiv2.php', function ($request, $response, $service, $app) {
+    $service->validateParam('request','api')->notNull()->isAlpha();
+    $service->validateParam('version','api')->notNull();
+    
+    $modlist = json_decode(file_get_contents('data/modlist.json'), true);
+    $newlist = array();
+    $mod_names = array();
+    
+    if($request->param('version') === 'all') {
+        $newlist = $modlist;
+        foreach($modlist as $mod) {
+            array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
+        }
+    } else {
+        foreach($modlist as $mod) {
+            if(in_array($request->param('version'),$mod['versions'],true)) {
+                array_push($newlist, $mod);
+                array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
+            }
+        }
+    }
+    array_multisort($mod_names, SORT_ASC, $newlist);
+    
+    $response->noCache();
+    if($request->param('request') === 'json') {
+        $response->header('Content-Type', 'application/json');
+        $response->body(json_encode($newlist, JSON_UNESCAPED_SLASHES));
+    }
+    if($request->param('request') === 'hash') {
+        $response->header('Content-Type', 'text/plain');
+        $response->body(md5(json_encode($newlist, JSON_UNESCAPED_SLASHES)));
+    }
+    
 });
 
 /*
