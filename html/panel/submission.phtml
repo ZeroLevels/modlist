@@ -35,11 +35,13 @@
                     <a href="<?php echo safehtml($this->submission['link']); ?>">
                         <i class="fa fa-external-link"></i>
                     </a>
+                    <?php if($this->permissions->canAccess('panel.submission.bitly.shorten')) { ?>
                     <a>
                         <button type="button" class="btn btn-default btn-xs pull-right">
                             bit.ly this link &raquo;
                         </button>
                     </a>
+                    <?php } ?>
                     <input type="url" class="form-control" name="link" id="link" placeholder="Link to the site, page or thread of the mod">
                 </div>
                 <div class="form-group">

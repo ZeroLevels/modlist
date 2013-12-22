@@ -211,7 +211,19 @@ $this->respond('GET', '/logout', function ($request, $response, $service, $app) 
 });
 
 $this->respond('GET', '/home', function ($request, $response, $service, $app) {
-    $service->render('html/panel/home.phtml');
+    $recent_list = array();
+    foreach(array_reverse($service->submissions) as $sub) {
+        if(!isset($sub['complete'])) {
+            array_push($recent_list, $sub);
+            if(count($recent_list) === 10) {
+                break;
+            }
+        }
+    }
+    
+    $service->render('html/panel/home.phtml', array(
+        'recent' => $recent_list
+    ));
 });
 
 /*
