@@ -25,13 +25,12 @@ $this->respond('GET', '/[*:version].[json|md5:filetype]', function ($request, $r
             }
         }
         
+        $response->noCache();
         if($request->param('filetype') === 'json') {
-            $response->noCache();
             $response->header('Content-Type', 'application/json');
             $response->body(json_encode($newlist, JSON_UNESCAPED_SLASHES));
         }
         if($request->param('filetype') === 'md5') {
-            $response->noCache();
             $response->header('Content-Type', 'text/plain');
             $response->body(md5(json_encode($newlist, JSON_UNESCAPED_SLASHES)));
         }
