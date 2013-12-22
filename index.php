@@ -311,7 +311,11 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
         $users = json_decode(file_get_contents($users_cache), 1);
         foreach($users as $user) {
             if($user['send_email'] === true) {
-                $mail->addAddress($user['email'], $user['user']);
+                if(isset($user['alt_email'])) {
+                    $mail->addAddress($user['alt_email'], $user['user']);
+                } else {
+                    $mail->addAddress($user['email'], $user['user']);
+                }
             }
         }
     }
