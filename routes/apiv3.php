@@ -14,16 +14,22 @@ $this->respond('GET', '/[*:version].[json|md5:filetype]', function ($request, $r
     if($request->param('version') !== '') {
         $modlist = json_decode(file_get_contents('data/modlist.json'), 1);
         $newlist = array();
+        $mod_names = array();
         
         if($request->param('version') === 'all') {
             $newlist = $modlist;
+            foreach($modlist as $mod) {
+                array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
+            }
         } else {
-            foreach($modlist as &$mod) {
+            foreach($modlist as $mod) {
                 if(in_array($request->param('version'),$mod['versions'],true)) {
                     array_push($newlist, $mod);
+                    array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
                 }
             }
         }
+        array_multisort($mod_names, SORT_ASC, $newlist);
         
         $response->noCache();
         if($request->param('filetype') === 'json') {
