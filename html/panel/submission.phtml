@@ -16,100 +16,110 @@
                 <h3 class="panel-title">Final submission</h3>
             </div>
             <div class="panel-body">
-                <div class="form-group">
-                    <div class="btn-group" id="request-type-group">
-                        <label<?php if($this->submission['mode'] === 'New Mod') { echo ' class="active"'; } ?>>
-                            <input type="radio" name="request-type" id="new" value="new"<?php if($this->submission['mode'] === 'New Mod') { echo ' checked'; } ?>> New Mod
-                        </label>
-                        <label<?php if($this->submission['mode'] === 'Update Request') { echo ' class="active"'; } ?>>
-                            <input type="radio" name="request-type" id="old" value="old"<?php if($this->submission['mode'] === 'Update Request') { echo ' checked'; } ?>> Update Request
-                        </label>
+                <form role="form" method="POST" action="<?php echo $this->submission['id']; ?>/save">
+                    <div class="form-group">
+                        <div class="btn-group" id="request-type-group">
+                            <label<?php if($this->submission['mode'] === 'New Mod') { echo ' class="active"'; } ?>>
+                                <input type="radio" name="request-type" id="new" value="new"<?php if($this->submission['mode'] === 'New Mod') { echo ' checked'; } ?>> New Mod
+                            </label>
+                            <label<?php if($this->submission['mode'] === 'Update Request') { echo ' class="active"'; } ?>>
+                                <input type="radio" name="request-type" id="old" value="old"<?php if($this->submission['mode'] === 'Update Request') { echo ' checked'; } ?>> Update Request
+                            </label>
+                        </div>
+                        <?php if($this->permissions->canAccess('panel.submission.edit')) { ?>
+                        <button type="submit" class="btn btn-default pull-right">Save progress</button>
+                        <?php } ?>
                     </div>
-                </div>
-                <div class="form-group">
-                    <label for="name">Mod Name</label>
-                    <input type="text" class="form-control typeahead" name="name" id="name" placeholder="Name of the mod">
-                </div>
-                <div class="form-group">
-                    <label for="link">Link</label>
-                    <a href="<?php echo safehtml($this->submission['link']); ?>">
-                        <i class="fa fa-external-link"></i>
-                    </a>
-                    <?php if($this->permissions->canAccess('panel.submission.bitly.shorten')) { ?>
-                    <a>
-                        <button type="button" class="btn btn-default btn-xs pull-right">
-                            bit.ly this link &raquo;
-                        </button>
-                    </a>
-                    <?php } ?>
-                    <input type="url" class="form-control" name="link" id="link" placeholder="Link to the site, page or thread of the mod">
-                </div>
-                <div class="form-group">
-                    <label for="desc">Description</label>
-                    <textarea class="form-control" rows="3" name="desc" id="desc" placeholder="What does the mod do? Be as clear and concise as possible."></textarea>
-                </div>
-                <div class="form-group">
-                    <label for="authors">Mod Authors</label>
-                    <input type="text" class="form-control" name="authors" id="authors" placeholder="Enter the author(s) of the mod, comma separated">
-                </div>
-                <div class="form-group">
-                    <label for="source">Source</label>
-                    <input type="url" class="form-control" name="source" id="source" placeholder="Link to site or page of the mod source code">
-                </div>
-                <div class="form-group" id="dependencies">
-                    <label for="dependencies">Dependencies</label>
-                    <input type="text" class="form-control" name="dependencies" id="dependencies" placeholder="Enter the mod dependencies, comma separated">
-                </div>
-                <div class="form-group" id="availability">
-                    <label for="availability">Availability</label>
-                    <div class="checkbox">
-                        <label>
-                            <input type="checkbox" value="universal" name="availability[]">
-                            <strong>Universal</strong> - The mod has one file that can run on both Singleplayer and Multiplayer.
-                        </label>
+                    <div class="form-group">
+                        <label for="name">Mod Name</label>
+                        <input type="text" class="form-control" name="name" id="name" placeholder="Name of the mod" value="<?php echo safehtml($this->submission['edit_data']['name']); ?>">
                     </div>
-                    <div class="checkbox">
-                        <label>
-                            <input type="checkbox" value="client" name="availability[]">
-                            <strong>Clientside</strong> - The mod only needs to run on the client. Example: Minimaps
-                        </label>
+                    <div class="form-group">
+                        <label for="other">Name tags</label>
+                        <input type="text" class="form-control" name="other" id="other" placeholder="Optional name tags for the mod" value="<?php echo safehtml($this->submission['edit_data']['other']); ?>">
                     </div>
-                    <div class="checkbox">
-                        <label>
-                            <input type="checkbox" value="server" name="availability[]">
-                            <strong>Serverside</strong> - The mod only needs to run on the server. Example: Extra Commands
-                        </label>
+                    <div class="form-group">
+                        <label for="link">Link</label>
+                        <a href="<?php echo safehtml($this->submission['edit_data']['link']); ?>">
+                            <i class="fa fa-external-link"></i>
+                        </a>
+                        <?php if($this->permissions->canAccess('panel.submission.bitly.shorten')) { ?>
+                        <a>
+                            <button type="button" class="btn btn-default btn-xs pull-right">
+                                bit.ly this link &raquo;
+                            </button>
+                        </a>
+                        <?php } ?>
+                        <input type="url" class="form-control" name="link" id="link" placeholder="Link to the site, page or thread of the mod" value="<?php echo safehtml($this->submission['edit_data']['link']); ?>">
                     </div>
-                    <div class="checkbox">
-                        <label>
-                            <input type="checkbox" value="SSP" name="availability[]">
-                            <strong>SSP</strong> - The mod works in Singleplayer, and does not have a universal mod file.
-                        </label>
+                    <div class="form-group">
+                        <label for="desc">Description</label>
+                        <textarea class="form-control" rows="3" name="desc" id="desc" placeholder="What does the mod do? Be as clear and concise as possible."><?php echo safehtml($this->submission['edit_data']['desc']); ?></textarea>
                     </div>
-                    <div class="checkbox">
-                        <label>
-                            <input type="checkbox" value="SMP" name="availability[]">
-                            <strong>SMP</strong> - The mod works in Multiplayer, and does not have a universal mod file.
-                        </label>
+                    <div class="form-group">
+                        <label for="authors">Mod Authors</label>
+                        <input type="text" class="form-control" name="authors" id="authors" placeholder="Enter the author(s) of the mod, comma separated" value="<?php echo safehtml($this->submission['edit_data']['authors']); ?>">
                     </div>
-                    <div class="checkbox">
-                        <label>
-                            <input type="checkbox" value="LAN" name="availability[]">
-                            <strong>LAN</strong> - The mod works in LAN, and does not have a universal mod file.
-                        </label>
+                    <div class="form-group">
+                        <label for="source">Source</label>
+                        <input type="url" class="form-control" name="source" id="source" placeholder="Link to site or page of the mod source code" value="<?php echo safehtml($this->submission['edit_data']['source']); ?>">
                     </div>
-                </div>
-                <div class="form-group" id="versions">
-                    <label for="versions">Versions</label>
-                    <?php foreach($this->versions as $version) { ?>
-                    <div class="checkbox">
-                        <label>
-                            <input type="checkbox" value="<?php echo $version; ?>" name="versions[]">
-                            <?php echo $version; ?>
-                        </label>
+                    <div class="form-group" id="dependencies">
+                        <label for="dependencies">Dependencies</label>
+                        <input type="text" class="form-control" name="dependencies" id="dependencies" placeholder="Enter the mod dependencies, comma separated" value="<?php echo safehtml($this->submission['edit_data']['dependencies']); ?>">
                     </div>
-                    <?php } ?>
-                </div>
+                    <div class="form-group" id="availability">
+                        <label for="availability">Availability</label>
+                        <?php $type = $this->submission['edit_data']['availability']; ?>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" value="Universal" name="availability[]" <?php if(in_array('Universal',$type,true)) { echo 'checked'; } ?>>
+                                <strong>Universal</strong> - The mod has one file that can run on both Singleplayer and Multiplayer.
+                            </label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" value="Client" name="availability[]" <?php if(in_array('Client',$type,true)) { echo 'checked'; } ?>>
+                                <strong>Clientside</strong> - The mod only needs to run on the client. Example: Minimaps
+                            </label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" value="Server" name="availability[]" <?php if(in_array('Server',$type,true)) { echo 'checked'; } ?>>
+                                <strong>Serverside</strong> - The mod only needs to run on the server. Example: Extra Commands
+                            </label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" value="SSP" name="availability[]" <?php if(in_array('SSP',$type,true)) { echo 'checked'; } ?>>
+                                <strong>SSP</strong> - The mod works in Singleplayer, and does not have a universal mod file.
+                            </label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" value="SMP" name="availability[]" <?php if(in_array('SMP',$type,true)) { echo 'checked'; } ?>>
+                                <strong>SMP</strong> - The mod works in Multiplayer, and does not have a universal mod file.
+                            </label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" value="LAN" name="availability[]" <?php if(in_array('LAN',$type,true)) { echo 'checked'; } ?>>
+                                <strong>LAN</strong> - The mod works in LAN, and does not have a universal mod file.
+                            </label>
+                        </div>
+                    </div>
+                    <div class="form-group" id="versions">
+                        <label for="versions">Versions</label>
+                        <?php foreach($this->versions as $version) { ?>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" value="<?php echo $version; ?>" name="versions[]" <?php if(in_array($version,$this->submission['edit_data']['versions'],true)) { echo 'checked'; } ?>>
+                                <?php echo $version; ?>
+                            </label>
+                        </div>
+                        <?php } ?>
+                    </div>
+                </form>
             </div>
         </div>
     </div>

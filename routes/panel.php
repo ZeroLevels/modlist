@@ -294,6 +294,11 @@ $this->respond('GET', '/submission/[*:id]', function ($request, $response, $serv
         }
     }
     
+    if(!isset($submission['edit_data'])) {
+        $submission['edit_data'] = $submission;
+        unset($submission['edit_data']['other']);
+    }
+    
     $duplicates = array();
     
     foreach($service->submissions as $sub) {
@@ -311,6 +316,43 @@ $this->respond('GET', '/submission/[*:id]', function ($request, $response, $serv
         'forge'       => $service->forge,
         'forgecolor'  => $service->forgecolor
     ));
+});
+
+/*
+ * panel/submission/1234/save
+ * Save submission for later
+ * @return redirect|page
+ */
+
+$this->respond('POST', '/submission/[*:id]/save', function ($request, $response, $service, $app) {
+    if(!$service->permissions->canAccess('panel.submission.edit')) {
+        $service->render('html/panel/forbidden.phtml');
+        return;
+    }
+    
+    $submission_list = $service->submissions;
+    $submission = $submission_list[$request->param('id')];
+    
+    $edit_data = array(
+        'mode'         => $request->param('request-type') === 'new' ? 'New Mod' : 'Update Request',
+        'name'         => $request->param('name'),
+        'other'        => $request->param('other'),
+        'link'         => $request->param('link',null),
+        'desc'         => $request->param('desc',null),
+        'authors'      => $request->param('authors',null),
+        'source'       => $request->param('source'),
+        'dependencies' => $request->param('dependencies',null),
+        'availability' => $request->param('availability',null),
+        'versions'     => $request->param('versions')
+    );
+    $submission['edit_data'] = $edit_data;
+    $submission_list[$request->param('id')] = $submission;
+    
+    $encoded_data = json_encode($submission_list, JSON_UNESCAPED_SLASHES);
+    file_put_contents('data/submissions.json', $encoded_data);
+    
+    $response->redirect('/panel/submission');
+    $response->send();
 });
 
 /*
