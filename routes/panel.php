@@ -362,8 +362,11 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
  */
 
 $this->respond('GET', '/bitly/save/[*:link]', function ($request, $response, $service, $app) {
+    $response->noCache();
+    $response->header('Content-Type', 'application/json');
+    
     if(!$service->permissions->canAccess('panel.submission.bitly.shorten')) {
-        $service->render('html/panel/forbidden.phtml');
+        $response->body('');
         return;
     }
 
@@ -376,8 +379,6 @@ $this->respond('GET', '/bitly/save/[*:link]', function ($request, $response, $se
     $output['link'] = $json_data['data']['url'];
     
     //Show data
-    $response->noCache();
-    $response->header('Content-Type', 'application/json');
     $response->body(json_encode($output, JSON_UNESCAPED_SLASHES));
 });
 
@@ -388,8 +389,11 @@ $this->respond('GET', '/bitly/save/[*:link]', function ($request, $response, $se
  */
 
 $this->respond('GET', '/bitly/info/[*:link]', function ($request, $response, $service, $app) {
+    $response->noCache();
+    $response->header('Content-Type', 'application/json');
+    
     if(!$service->permissions->canAccess('panel.submission.bitly.expand')) {
-        $service->render('html/panel/forbidden.phtml');
+        $response->body('');
         return;
     }
 
@@ -410,7 +414,5 @@ $this->respond('GET', '/bitly/info/[*:link]', function ($request, $response, $se
     $output['link'] = $expand['data']['expand'][0]['long_url'];
     
     //Show data
-    $response->noCache();
-    $response->header('Content-Type', 'application/json');
     $response->body(json_encode($output, JSON_UNESCAPED_SLASHES));
 });
