@@ -44,7 +44,7 @@
                             <i class="fa fa-external-link"></i>
                         </a>
                         <?php if($this->permissions->canAccess('panel.submission.bitly.shorten')) { ?>
-                        <a>
+                        <a id="bitly-link">
                             <button type="button" class="btn btn-default btn-xs pull-right">
                                 bit.ly this link &raquo;
                             </button>
@@ -140,7 +140,7 @@
     <?php } ?>
     <?php if(!empty($this->submission['other'])) { ?>
     <div class="col-sm-6">
-        <div class="panel panel-default">
+        <div class="panel panel-info">
             <div class="panel-heading">
                 <h3 class="panel-title">Submitter Notes</h3>
             </div>

@@ -50,4 +50,12 @@ $('#search-reset').click(function() {
     $rows.show();
 });
 
+$('#bitly-link').click(function() {
+    $.getJSON("/panel/bitly/save?link=" + $('#link').val(), function(data) {
+        if(data !== '' && data['link'] !== null) {
+            $('#link').val(data['link']);
+        }
+    });
+});
+
 $('#modlist').stickyTableHeaders({fixedOffset: $('.navbar')});
