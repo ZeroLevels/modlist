@@ -27,7 +27,10 @@
                             </label>
                         </div>
                         <?php if($this->permissions->canAccess('panel.submission.edit')) { ?>
-                        <button type="submit" class="btn btn-default pull-right">Save progress</button>
+                        <div class="btn-group pull-right">
+                            <button type="submit" name="save" class="btn btn-default">Save progress</button>
+                            <button type="submit" name="queue" class="btn btn-default">Add to queue</button>
+                        </div>
                         <?php } ?>
                     </div>
                     <div class="form-group">

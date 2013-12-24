@@ -321,7 +321,7 @@ $this->respond('GET', '/submission/[*:id]', function ($request, $response, $serv
 
 /*
  * panel/submission/1234/save
- * Save submission for later
+ * Save submission for later or add to queue
  * @return redirect|page
  */
 
@@ -347,6 +347,9 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
         'versions'     => $request->param('versions')
     );
     $submission['edit_data'] = $edit_data;
+    if($request->param('queue') !== null) {
+        $submission['queued'] = time();
+    }
     $submission_list[$request->param('id')] = $submission;
     
     $encoded_data = json_encode($submission_list, JSON_UNESCAPED_SLASHES);

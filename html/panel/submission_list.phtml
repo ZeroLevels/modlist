@@ -48,6 +48,9 @@
                     <?php if(isset($mod['incomplete'])) { ?>
                     <span class="label label-danger">Missing Information</span>
                     <?php } ?>
+                    <?php if(isset($mod['queued'])) { ?>
+                    <span class="label label-info">Queued</span>
+                    <?php } ?>
                     <a href="submission/<?php echo $mod['id']; ?>">
                         <button type="button" class="btn btn-default btn-xs pull-right">
                             View Issue &raquo;
