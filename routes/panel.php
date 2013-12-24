@@ -296,6 +296,7 @@ $this->respond('GET', '/submission/[*:id]', function ($request, $response, $serv
     
     if(!isset($submission['edit_data'])) {
         $submission['edit_data'] = $submission;
+        $submission['edit_data']['dependencies'] = $submission['compatibility'];
         unset($submission['edit_data']['other']);
     }
     
@@ -356,12 +357,12 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
 });
 
 /*
- * panel/bitly/save/
+ * panel/bitly/save
  * Save a new bit.ly link
  * @return page
  */
 
-$this->respond('GET', '/bitly/save/[*:link]', function ($request, $response, $service, $app) {
+$this->respond('GET', '/bitly/save', function ($request, $response, $service, $app) {
     $response->noCache();
     $response->header('Content-Type', 'application/json');
     
@@ -383,12 +384,12 @@ $this->respond('GET', '/bitly/save/[*:link]', function ($request, $response, $se
 });
 
 /*
- * panel/bitly/info/
+ * panel/bitly/info
  * Get the info of the bit.ly link
  * @return page
  */
 
-$this->respond('GET', '/bitly/info/[*:link]', function ($request, $response, $service, $app) {
+$this->respond('GET', '/bitly/info', function ($request, $response, $service, $app) {
     $response->noCache();
     $response->header('Content-Type', 'application/json');
     
