@@ -371,6 +371,10 @@ $this->respond('GET', '/queue', function ($request, $response, $service, $app) {
     $final_list = array();
     foreach(array_reverse($service->submissions) as $sub) {
         if(!isset($sub['complete']) && isset($sub['queued'])) {
+            if($sub['edit_data']['source'] === '') {
+                //TODO: Open source mods that don't have links
+                unset($sub['edit_data']['source']);
+            }
             array_push($final_list, $sub['edit_data']);
         }
     }
