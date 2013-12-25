@@ -362,6 +362,39 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
 });
 
 /*
+ * panel/queue
+ * Queued list
+ * @return page
+ */
+
+$this->respond('GET', '/queue', function ($request, $response, $service, $app) {
+    $final_list = array();
+    foreach(array_reverse($service->submissions) as $sub) {
+        if(!isset($sub['complete']) && isset($sub['queued'])) {
+            array_push($final_list, $sub['edit_data']);
+        }
+    }
+    
+    $type = array(
+        'Universal' => 'Universal',
+        'Client' => 'Clientside',
+        'Server' => 'Serverside',
+        'SSP' => 'SSP',
+        'SMP' => 'SMP',
+        'LAN' => 'LAN',
+        'N/A' => 'N/A'
+    );
+    
+    $service->render('html/panel/queue_list.phtml', array(
+        'mods'       => $final_list,
+        'mode'       => $service->mode,
+        'type'       => $type,
+        'forge'      => $service->forge,
+        'forgecolor' => $service->forgecolor
+    ));
+});
+
+/*
  * panel/bitly/save
  * Save a new bit.ly link
  * @return page
