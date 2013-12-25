@@ -61,7 +61,7 @@
                     </div>
                     <div class="form-group">
                         <label for="authors">Mod Authors</label>
-                        <input type="text" class="form-control" name="authors" id="authors" placeholder="Enter the author(s) of the mod, comma separated" value="<?php echo safehtml($this->submission['edit_data']['authors']); ?>">
+                        <input type="text" class="form-control" name="authors" id="authors" placeholder="Enter the author(s) of the mod, comma separated" value="<?php echo safehtml(implode(', ',$this->submission['edit_data']['author'])); ?>">
                     </div>
                     <div class="form-group">
                         <label for="source">Source</label>
@@ -69,11 +69,11 @@
                     </div>
                     <div class="form-group" id="dependencies">
                         <label for="dependencies">Dependencies</label>
-                        <input type="text" class="form-control" name="dependencies" id="dependencies" placeholder="Enter the mod dependencies, comma separated" value="<?php echo safehtml($this->submission['edit_data']['dependencies']); ?>">
+                        <input type="text" class="form-control" name="dependencies" id="dependencies" placeholder="Enter the mod dependencies, comma separated" value="<?php echo safehtml(implode(', ',$this->submission['edit_data']['dependencies'])); ?>">
                     </div>
                     <div class="form-group" id="availability">
-                        <label for="availability">Availability</label>
-                        <?php $type = $this->submission['edit_data']['availability']; ?>
+                        <label for="availability">Type</label>
+                        <?php $type = $this->submission['edit_data']['type']; ?>
                         <div class="checkbox">
                             <label>
                                 <input type="checkbox" value="Universal" name="availability[]" <?php if(in_array('Universal',$type,true)) { echo 'checked'; } ?>>

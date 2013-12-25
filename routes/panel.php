@@ -295,9 +295,11 @@ $this->respond('GET', '/submission/[*:id]', function ($request, $response, $serv
     }
     
     if(!isset($submission['edit_data'])) {
-        $submission['edit_data'] = $submission;
-        $submission['edit_data']['dependencies'] = $submission['compatibility'];
-        unset($submission['edit_data']['other']);
+        $submission['edit_data']                 = $submission;
+        $submission['edit_data']['author']       = array_map('trim', explode(',', $submission['author'],null));
+        $submission['edit_data']['dependencies'] = array($service->forge[$submission['compatibility']]);
+        $submission['edit_data']['type']         = $submission['availability'];
+        $submission['edit_data']['other']        = '';
     }
     
     $duplicates = array();
@@ -340,10 +342,10 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
         'other'        => $request->param('other'),
         'link'         => $request->param('link',null),
         'desc'         => $request->param('desc',null),
-        'authors'      => $request->param('authors',null),
+        'author'       => array_map('trim', explode(',', $request->param('authors',null))),
+        'type'         => $request->param('availability',array()),
         'source'       => $request->param('source'),
-        'dependencies' => $request->param('dependencies',null),
-        'availability' => $request->param('availability',null),
+        'dependencies' => array($request->param('dependencies',null)),
         'versions'     => $request->param('versions')
     );
     $submission['edit_data'] = $edit_data;
