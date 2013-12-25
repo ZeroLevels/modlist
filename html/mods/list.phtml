@@ -74,6 +74,10 @@ TODO: supported?
                     <a href="#forge" class="depends">
                         <span class="label label-<?php echo $this->forge[$forge_type]; ?> dependency <?php echo $forge_type; ?>"><?php echo $dependency; ?></span>
                     </a>
+                <?php } elseif ($forge_type === 'base-edit') { ?>
+                    <a href="/faq#base-edit" class="depends">
+                        <span class="label label-danger base-edit">Base Edit</span>
+                    </a>
                 <?php } else { ?>
                     <a href="#<?php echo strtolower(preg_replace("/[^0-9a-zA-Z]/i", '', str_replace(array(" Compatible", " Required"), "", $dependency))); ?>" class="depends">
                         <span class="label label-warning dependency"><?php echo $dependency; ?></span>

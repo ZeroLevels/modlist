@@ -26,6 +26,10 @@ $('.opensource').tooltip({
     placement: "auto",
     title: "Open Source Mod"
 });
+$('.base-edit').tooltip({
+    placement: "auto",
+    title: "This mod changes internal Minecraft files and are likely incompatible with other mods"
+});
 $('.opensource-contained').tooltip({
     placement: "auto",
     title: "This mod is open source, but the source code is obtained via PM or contained within the main download."
