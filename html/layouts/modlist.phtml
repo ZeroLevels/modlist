@@ -38,7 +38,7 @@
                         <?php foreach ($this->versions_grouped as $group => $versions) { ?>
                             <li class="dropdown-header hidden-xs"><?php echo $group; ?></li>
                             <?php foreach ($versions as $version => $count) { ?>
-                                <li class="version-link"><a href="/version/<?php echo $version; ?>"><span class="badge pull-right"><?php echo $count ?></span><?php echo $version; ?></a></li>
+                                <li class="version-link"><a href="/version/<?php echo $version; ?>"><span class="badge pull-right"><?php echo $count ?></span><span class="sr-only"> mods listed on </span><?php echo $version; ?></a></li>
                             <?php } ?>
                             <?php if($divider < count($this->versions_grouped)) { ?><li class="divider"></li><?php } ?>
                             <?php $divider++; } ?>
