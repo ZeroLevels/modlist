@@ -11,7 +11,7 @@ TODO: supported?
 </div>
 -->
 <div class="input-group hidden-print">
-    <span class="input-group-addon"><i class="icon-search"></i><span class="sr-only">Search</span></span>
+    <span class="input-group-addon"><i class="fa fa-search"></i><span class="sr-only">Search</span></span>
     <input type="text" id="search" class="form-control" placeholder="Type to search" autofocus />
     <span class="input-group-btn">
         <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Mode <span class="caret"></span></button>
@@ -24,13 +24,13 @@ TODO: supported?
     </span>
 </div>
 <div class="input-group hidden-print advanced-search hidden-search">
-    <span class="input-group-addon"><i class="icon-credit-card"></i><span class="sr-only">Name Search</span></span>
+    <span class="input-group-addon"><i class="fa fa-credit-card"></i><span class="sr-only">Name Search</span></span>
     <input type="text" id="search-name" class="form-control" placeholder="Mod Name" />
-    <span class="input-group-addon"><i class="icon-group"></i><span class="sr-only">Author Search</span></span>
+    <span class="input-group-addon"><i class="fa fa-group"></i><span class="sr-only">Author Search</span></span>
     <input type="text" id="search-author" class="form-control" placeholder="Author" />
-    <span class="input-group-addon"><i class="icon-book"></i><span class="sr-only">Description Search</span></span>
+    <span class="input-group-addon"><i class="fa fa-book"></i><span class="sr-only">Description Search</span></span>
     <input type="text" id="search-desc" class="form-control" placeholder="Description" />
-    <span class="input-group-addon"><i class="icon-tags"></i><span class="sr-only">Tag Search</span></span>
+    <span class="input-group-addon"><i class="fa fa-tags"></i><span class="sr-only">Tag Search</span></span>
     <input type="text" id="search-tag" class="form-control" placeholder="Tags" />
 </div>
 <table id="modlist" class="table table-hover modlist-table">
@@ -60,9 +60,9 @@ TODO: supported?
                 <p>
             <?php if (isset($mod['source'])) { ?>
                 <?php if ($mod['source'] != "") { ?>
-                    <a href="<?php echo $mod['source']; ?>"><i class="icon-globe pull-right opensource"></i><span class="sr-only">Open Source</span></a>
+                    <a href="<?php echo $mod['source']; ?>"><i class="fa fa-globe pull-right opensource"></i><span class="sr-only">Open Source</span></a>
                 <?php } else { ?>
-                    <i class="icon-globe pull-right opensource-contained"></i>
+                    <i class="fa fa-globe pull-right opensource-contained"></i>
                     <span class="sr-only">Open Source</span>
                 <?php } ?>
             <?php } ?>

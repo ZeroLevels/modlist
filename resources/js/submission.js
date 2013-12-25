@@ -14,7 +14,7 @@ function loadMod(name, author) {
 		html: true,
 		placement: 'top',
 		trigger: 'manual',
-		content: '<i class="icon-refresh icon-spin"></i> Loading Mod Information...'
+		content: '<i class="fa fa-refresh icon-spin"></i> Loading Mod Information...'
 	});
 	$('#name').popover('show');
 	$.ajax({
