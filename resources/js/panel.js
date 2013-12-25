@@ -59,3 +59,20 @@ $('#bitly-link').click(function() {
 });
 
 $('#modlist').stickyTableHeaders({fixedOffset: $('.navbar')});
+
+$('#panel-save').tooltip({
+    placement: "auto",
+    title: "Save the current progress"
+});
+$('#panel-queue').tooltip({
+    placement: "auto",
+    title: "Save and add to queue"
+});
+$('#panel-delay').tooltip({
+    placement: "auto",
+    title: "Set aside for later"
+});
+$('#panel-invalid').tooltip({
+    placement: "auto",
+    title: "Mark as invalid"
+});

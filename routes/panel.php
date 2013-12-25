@@ -352,6 +352,14 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
     if($request->param('queue') !== null) {
         $submission['queued'] = time();
     }
+    if($request->param('delay') !== null) {
+        $submission['delayed'] = time();
+    } else {
+        unset($submission['delayed']);
+    }
+    if($request->param('invalid') !== null) {
+        $submission['complete'] = time();
+    }
     $submission_list[$request->param('id')] = $submission;
     
     $encoded_data = json_encode($submission_list, JSON_UNESCAPED_SLASHES);

@@ -54,6 +54,9 @@
                     <?php if(isset($mod['queued'])) { ?>
                     <span class="label label-success">Queued</span>
                     <?php } ?>
+                    <?php if(isset($mod['delayed'])) { ?>
+                    <span class="label label-warning">Flagged for later</span>
+                    <?php } ?>
                     <a href="submission/<?php echo $mod['id']; ?>">
                         <button type="button" class="btn btn-default btn-xs pull-right">
                             View Issue &raquo;

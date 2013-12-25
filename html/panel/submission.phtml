@@ -28,8 +28,10 @@
                         </div>
                         <?php if($this->permissions->canAccess('panel.submission.edit')) { ?>
                         <div class="btn-group pull-right">
-                            <button type="submit" name="save" class="btn btn-default">Save progress</button>
-                            <button type="submit" name="queue" class="btn btn-default">Add to queue</button>
+                            <button type="submit" name="save" class="btn btn-default" id="panel-save"><i class="fa fa-floppy-o"></i><span class="sr-only">Save progress</span></button>
+                            <button type="submit" name="queue" class="btn btn-default" id="panel-queue"><i class="fa fa-check"></i><span class="sr-only">Add to queue</span></button>
+                            <button type="submit" name="delay" class="btn btn-default" id="panel-delay"><i class="fa fa-flag"></i><span class="sr-only">Set aside for later</span></button>
+                            <button type="submit" name="invalid" class="btn btn-default" id="panel-invalid"><i class="fa fa-lock"></i><span class="sr-only">Mark as invalid</span></button>
                         </div>
                         <?php } ?>
                     </div>
