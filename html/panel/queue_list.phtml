@@ -2,6 +2,13 @@
     <h1>Review Queue<br/>
         <small><?php echo count($this->mods); ?> mods in queue</small>
     </h1>
+    <?php if($this->permissions->canAccess('panel.queue.edit')) { ?>
+    <p>
+        <a href="queue/download"><button type="button" class="btn btn-default"><i class="fa fa-download"></i> Download JSON</button></a>
+        <!--<a href="queue/changelog"><button type="button" class="btn btn-default"><i class="fa fa-keyboard-o"></i> Generate Changelog</button></a>-->
+        <a href="queue/complete"><button type="button" class="btn btn-default"><i class="fa fa-check"></i> Mark queue as complete</button></a>
+    </p>
+    <?php } ?>
 </div>
 <!-- 
 TODO: supported?

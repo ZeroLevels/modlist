@@ -407,6 +407,77 @@ $this->respond('GET', '/queue', function ($request, $response, $service, $app) {
 });
 
 /*
+ * panel/queue/download
+ * Download modlist.json
+ * @return page
+ */
+
+$this->respond('GET', '/queue/download', function ($request, $response, $service, $app) {
+    $updated = array();
+    $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
+    foreach(array_reverse($service->submissions) as $sub) {
+        if(!isset($sub['complete']) && isset($sub['queued'])) {
+            if($sub['edit_data']['source'] === '') {
+                //TODO: Open source mods that don't have links
+                unset($sub['edit_data']['source']);
+            }
+            if($sub['edit_data']['mode'] === 'New Mod') {
+                array_push($mod_list, $sub['edit_data']);
+            } else {
+                $updated[$sub['edit_data']['name']] = $sub['edit_data'];
+            }
+        }
+    }
+    
+    $mod_names = array();
+    foreach ($mod_list as &$mod) {
+        if(isset($updated[$mod['name']])) {
+            $new_data = $updated[$mod['name']];
+            if($mod['author'] === $new_data['author']) {
+                $mod['link'] = $new_data['link'];
+                $mod['desc'] = $new_data['desc'];
+                $mod['type'] = $new_data['type'];
+                $mod['dependencies'] = $new_data['dependencies'];
+                $mod['versions'] = $new_data['versions'];
+                if(isset($new_data['source'])) {
+                    $mod['source'] = $new_data['source'];
+                }
+            }
+        }
+        array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
+    }
+    array_multisort($mod_names, SORT_ASC, $mod_list);
+    
+    $service->partial('html/panel/download.phtml', array('mods' => $mod_list, 'last' => end($mod_list)));
+    $response->noCache();
+    $response->header('Content-Type', 'application/json');
+    $response->header('Content-Disposition', 'attachment; filename="modlist.json"');
+    $response->body(ob_get_clean());
+});
+
+/*
+ * panel/queue/complete
+ * Mark queue as complete
+ * @return redirect
+ */
+
+$this->respond('GET', '/queue/complete', function ($request, $response, $service, $app) {
+    $sub_list = $service->submissions;
+    foreach($sub_list as &$sub) {
+        if(!isset($sub['complete']) && isset($sub['queued'])) {
+            $sub['complete'] = time();
+        }
+        //TODO: Archive completed to separate file
+    }
+    $encoded_data = json_encode($sub_list, JSON_UNESCAPED_SLASHES);
+    file_put_contents('data/submissions.json', $encoded_data);
+    
+    //TODO: Page showing simple statistics
+    $response->redirect('/panel/queue');
+    $response->send();
+});
+
+/*
  * panel/bitly/save
  * Save a new bit.ly link
  * @return page

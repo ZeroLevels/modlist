@@ -1,0 +1,16 @@
+[<?php foreach($this->mods as $mod) { ?>
+{
+
+"name":<?= json_encode($mod['name'],JSON_UNESCAPED_SLASHES) ?>,
+"link":<?= json_encode($mod['link'],JSON_UNESCAPED_SLASHES) ?>,
+"desc":<?= json_encode($mod['desc'],JSON_UNESCAPED_SLASHES) ?>,
+"author":<?= json_encode($mod['author'],JSON_UNESCAPED_SLASHES) ?>,
+<?php if(isset($mod['source'])) { ?>
+"source":<?= json_encode($mod['source'],JSON_UNESCAPED_SLASHES) ?>,
+<?php } ?>
+"type":<?= json_encode($mod['type'],JSON_UNESCAPED_SLASHES) ?>,
+"dependencies":["<?= implode('", "',$mod['dependencies']); ?>"],
+"versions":["<?= implode('", "',$mod['versions']); ?>"]
+
+}<?php if($mod !== $this->last) { echo ','; } ?>
+<?php } ?>]
