@@ -1,0 +1,35 @@
+<div class="media">
+    <img class="media-object img-rounded pull-left avatar-home"
+         alt="<?php echo $_SESSION['user']; ?>'s avatar"
+         src="<?php echo $_SESSION['avatar']; ?>&s=96" />
+    <div class="media-body">
+        <h4 class="media-heading">
+            <?php echo $_SESSION['user']; ?> - <?php echo $this->permissions->getDisplayName(); ?>
+        </h4>
+        <p class="text-muted">
+            Last logged in
+            <time datetime="<?php echo date('c',$_SESSION['last_login']); ?>"
+                  title="<?php echo date('M j, Y g:i A',$_SESSION['last_login']); ?>">
+                <?php echo time_ago($_SESSION['last_login']); ?> ago
+            </time>
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-6 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Recent Submissions</h3>
+            </div>
+            <div class="panel-body">
+                <?php foreach($this->recent as $mod) { ?>
+                <a href="/panel/submission/<?php echo $mod['id']; ?>"><?php echo safehtml($mod['name']); ?></a>
+                <time datetime="<?php echo date('c',$mod['timestamp']); ?>"
+                      title="<?php echo date('M j, Y g:i A',$mod['timestamp']); ?>"
+                      class="pull-right"><?php echo time_ago($mod['timestamp']); ?> ago</time>
+                <br>
+                <?php } ?>
+            </div>
+        </div>
+    </div>
+</div>

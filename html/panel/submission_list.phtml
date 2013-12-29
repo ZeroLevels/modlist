@@ -1,0 +1,70 @@
+<div class="input-group hidden-print">
+    <span class="input-group-addon"><i class="fa fa-search"></i><span class="sr-only">Search</span></span>
+    <input type="text" id="search" class="form-control" placeholder="Type to search" autofocus />
+    <span class="input-group-btn">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Mode <span class="caret"></span></button>
+        <ul class="dropdown-menu pull-right">
+            <li><a id="search-simple">Simple Search</a></li>
+            <li><a id="search-advanced">Advanced Search</a></li>
+            <li class="divider"></li>
+            <li><a id="search-reset">Reset Search Fields</a></li>
+        </ul>
+    </span>
+</div>
+<div class="input-group hidden-print advanced-search advanced-search-panel hidden-search">
+    <span class="input-group-addon"><i class="fa fa-credit-card"></i><span class="sr-only">Name Search</span></span>
+    <input type="text" id="search-name" class="form-control" placeholder="Mod Name" />
+    <span class="input-group-addon"><i class="fa fa-clock-o"></i><span class="sr-only">Submitted Time</span></span>
+    <input type="text" id="search-time" class="form-control" placeholder="Submitted Time" />
+    <span class="input-group-addon"><i class="fa fa-tags"></i><span class="sr-only">Tag Search</span></span>
+    <input type="text" id="search-tag" class="form-control" placeholder="Tags" />
+</div>
+<table id="modlist" class="table table-hover modlist-table">
+    <thead>
+        <tr>
+            <th>Request</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php foreach ($this->submissions as $mod) { ?>
+        <tr id="<?php echo $mod['id']; ?>">
+            <td>
+                <p>
+                    <span>
+                        <a href="submission/<?php echo $mod['id']; ?>"><?php echo safehtml($mod['name']); ?></a>
+                        <strong><i class="pull-right"><?php echo date('j M Y',$mod['timestamp']); ?></i></strong>
+                    </span>
+                </p>
+                <p>
+                    <span class="label label-<?php echo $this->mode[$mod['mode']]; ?>"><?php echo $mod['mode']; ?></span>
+                    <?php if(isset($mod['compatibility'])) { ?>
+                    <span class="label label-<?php echo $this->forgecolor[$mod['compatibility']];?>"><?php echo $this->forge[$mod['compatibility']]; ?></span>
+                    <?php } ?>
+                    <?php if(isset($mod['versions'])) { ?>
+                    <?php foreach($mod['versions'] as $version) { ?>
+                    <span class="label label-default"><?php echo $version; ?></span>
+                    <?php } ?>
+                    <?php } ?>
+                    <?php if(isset($mod['incomplete'])) { ?>
+                    <span class="label label-danger">Missing Information</span>
+                    <?php } ?>
+                    <?php if(isset($mod['edit_data'])) { ?>
+                    <span class="label label-info">Modified</span>
+                    <?php } ?>
+                    <?php if(isset($mod['queued'])) { ?>
+                    <span class="label label-success">Queued</span>
+                    <?php } ?>
+                    <?php if(isset($mod['delayed'])) { ?>
+                    <span class="label label-warning">Flagged for later</span>
+                    <?php } ?>
+                    <a href="submission/<?php echo $mod['id']; ?>">
+                        <button type="button" class="btn btn-default btn-xs pull-right">
+                            View Issue &raquo;
+                        </button>
+                    </a>
+                </p>
+            </td>
+        </tr>
+        <?php } ?>
+    </tbody>
+</table>

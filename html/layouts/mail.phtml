@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Mod Submission</title>
+</head>
+<body>
+    <h1>Mod Submission</h1>
+    Request ID #<?php echo safehtml($this->mod['id']); ?><br>
+    Click
+    <a href="http://modlist.mcf.li/panel/submission/<?php echo safehtml($this->mod['id']); ?>">here</a>
+    to work on this submission.<br>
+    <strong>Submission Mode:</strong> <?php echo safehtml($this->mod['mode']); ?><br>
+    <br>
+    <strong>Name:</strong> <?php echo safehtml($this->mod['name']); ?><br>
+    <strong>Source:</strong> <a href="<?php echo safehtml($this->mod['source']); ?>"><?php echo safehtml($this->mod['source']); ?></a><br>
+    <?php if($this->mod['mode'] === 'New Mod') { ?>
+    <strong>Author(s):</strong> <?php echo safehtml($this->mod['authors']); ?><br>
+    <strong>Link:</strong> <a href="<?php echo safehtml($this->mod['link']); ?>"><?php echo safehtml($this->mod['link']); ?></a><br>
+    <strong>Availability:</strong> <?php echo safehtml(implode('', $this->mod['availability'])); ?><br>
+    <strong>Compatibility:</strong> <?php echo safehtml($this->mod['compatibility']); ?><br>
+    <strong>Description:</strong> <?php echo safehtml($this->mod['desc']); ?><br>
+    <?php } ?>
+    <strong>Versions:</strong> <?php echo safehtml(implode(', ',$this->mod['versions'])); ?><br>
+    <strong>Other Info:</strong> <?php echo safehtml($this->mod['other']); ?><br>
+    <i style="color: #888888">Request sent by <?php echo safehtml($this->mod['origin']); ?></i><br>
+</body>
+</html>

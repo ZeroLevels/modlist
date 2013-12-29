@@ -1,0 +1,25 @@
+{
+    "user":{
+        "display_name":"User",
+        "permissions":[
+            "panel.submission.view"
+        ]
+    },
+    "mod":{
+        "display_name":"Moderator",
+        "inherit":"user",
+        "permissions":[
+            "panel.submission.edit",
+            "panel.submission.bitly.shorten",
+            "panel.submission.bitly.expand",
+            "panel.userlist.view",
+            "panel.self.settings"
+        ]
+    },
+    "admin":{
+        "display_name":"Administrator",
+        "permissions":[
+            "*"
+        ]
+    }
+}

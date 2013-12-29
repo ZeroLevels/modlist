@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>MCF Mod List - <?php echo $this->title; ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Minecraft Forum Mod List - A list of Minecraft mods compiled by the community" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="/resources/stylesheets/modlist-blue.css"/>
+    <link rel="dns-prefetch" href="//www.google-analytics.com"/>
+    <link rel="dns-prefetch" href="//ajax.googleapis.com/"/>
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com/"/>
+    <link rel="dns-prefetch" href="//bit.ly/"/>
+    <link rel="dns-prefetch" href="//www.minecraftforum.net/"/>
+    <link rel="shortcut icon" href="/resources/images/favicon32x32.png">
+    <link rel="canonical" href="." />
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top ml-nav-blue" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">MCF Modlist</a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/"><i class="fa fa-home"></i> Home</a></li>
+                    <li class="dropdown">
+                        <a href="/version" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-list"></i> List <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                        <?php $divider = 1; ?>
+                        <?php foreach ($this->versions_grouped as $group => $versions) { ?>
+                            <li class="dropdown-header hidden-xs"><?php echo $group; ?></li>
+                            <?php foreach ($versions as $version => $count) { ?>
+                                <li class="version-link"><a href="/version/<?php echo $version; ?>"><span class="badge pull-right"><?php echo $count ?></span><span class="sr-only"> mods listed on </span><?php echo $version; ?></a></li>
+                            <?php } ?>
+                            <?php if($divider < count($this->versions_grouped)) { ?><li class="divider"></li><?php } ?>
+                            <?php $divider++; } ?>
+                        </ul>
+                    </li>
+                    <li><a href="/submit/"><i class="fa fa-edit"></i> Submit Mods</a></li>
+                    <li><a href="/faq/"><i class="fa fa-question-sign"></i> FAQ</a></li>
+                    <li class="dropdown">
+                        <a href="/other" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-external-link"></i> More <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/changelog/">Changelog</a></li>
+                            <li><a href="/banners/">Banners</a></li>
+                            <li><a href="/igml/">Ingame Modlist</a></li>
+                            <li><a href="/history/">History</a></li>
+                            <li><a href="/credits/">Credits</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <ul class="breadcrumb hidden-print">
+            <?php echo breadcrumbs(); ?>
+        </ul>
+        <?php echo $this->yieldView(); ?>
+    </div>
+    <div class="modal fade" id="alert" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Modal title</h4>
+                </div>
+                <div class="modal-body">
+                    ...
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/resources/js/jquery.stickytableheaders.min.js"></script>
+    <script type="text/javascript" src="/resources/js/tooltips.js"></script>
+    <script type="text/javascript" src="/resources/js/search.js"></script>
+    <?php if(isset($this->specialjavascripts)) {
+        foreach ($this->specialjavascripts as $javascript) { ?>
+    <script type="text/javascript" src="<?php echo $javascript; ?>"></script>
+    <?php }} ?>
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <!--Google Analytics-->
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39433845-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+</body>
+</html>
+<?php
+//TODO: Refactor and cleanup breadcrumbs code
+function breadcrumbs($separator = "</li>\n<li>", $home = 'Home') {
+    $path = array_filter(explode('/', parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH)));
+    $base = '/';
+    $breadcrumbs = Array("<a href=\"$base\">$home</a>");
+    $last = end(array_keys($path));
+
+    foreach ($path AS $x => $crumb) {
+        $title = ucwords(str_replace(Array('.php', '_'), Array('', ' '), $crumb));
+
+        if ($title === "Faq")
+            $title = "FAQ";
+        if ($title === "Igml")
+            $title = "IGML";
+
+        if ($x !== $last)
+            $breadcrumbs[] = "<a href=\"$base$crumb\">$title</a>";
+    }
+
+    if (isset($title))
+        return '<li>' . implode($separator, $breadcrumbs) . '</li>' . "\n" . '<li class="active">' . $title . '</li>';
+    else
+        return '<li class="active">Home</li>';
+}
+?>

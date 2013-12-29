@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /
-Allow: /index.php
-Allow: /$
+Disallow: /panel
+Disallow: /panel/

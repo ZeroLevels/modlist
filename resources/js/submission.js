@@ -1,7 +1,7 @@
 $('#name').typeahead([
 	{
 		name: 'mods',
-		remote: '/resources/scripts/typeahead.php?q=%QUERY',
+		remote: '/typeahead/search/%QUERY',
 		template: [
 			'<p><strong>{{value}}</strong> {{other}} <i class="pull-right">{{author}}</i></p>',
 			'<p>{{desc}}</p>'
@@ -14,11 +14,11 @@ function loadMod(name, author) {
 		html: true,
 		placement: 'top',
 		trigger: 'manual',
-		content: '<i class="icon-refresh icon-spin"></i> Loading Mod Information...'
+		content: '<i class="fa fa-refresh icon-spin"></i> Loading Mod Information...'
 	});
 	$('#name').popover('show');
 	$.ajax({
-		url: '/resources/scripts/loadmod.php?name='+encodeURIComponent(name)+'&author='+encodeURIComponent(author),
+		url: '/typeahead/load/'+encodeURIComponent(name)+'/'+encodeURIComponent(author)+'/',
 		type: 'get',
 		dataType: 'json',
 		cache: false,
@@ -30,46 +30,44 @@ function completeLoadMod(data) {
 	$('#link').val(data['link']);
 	$('#desc').val(data['desc']);
 	$('#authors').val(data['parsedauthors']);
-	if(data['source'] != null)
+	if(data['source'] !== null)
 		$('#source').val(data['source']);
 	
-	if($.inArray("Forge Required",data['dependencies']) != -1)
+	if($.inArray("Forge Required",data['dependencies']) !== -1)
 		$('#required').prop("checked", true);
-	if($.inArray("Forge Compatible",data['dependencies']) != -1)
+	if($.inArray("Forge Compatible",data['dependencies']) !== -1)
 		$('#compatible').prop("checked", true);
-	if($.inArray("Not Forge Compatible",data['dependencies']) != -1)
+	if($.inArray("Not Forge Compatible",data['dependencies']) !== -1)
 		$('#notcompatible').prop("checked", true);
 	
-	if($.inArray("Universal",data['type']) != -1)
+	if($.inArray("Universal",data['type']) !== -1)
 		$("input[value='universal']").prop("checked", true);
 	else
 		$("input[value='universal']").prop("checked", false);
-	if($.inArray("Client",data['type']) != -1)
+	if($.inArray("Client",data['type']) !== -1)
 		$("input[value='client']").prop("checked", true);
 	else
 		$("input[value='client']").prop("checked", false);
-	if($.inArray("Server",data['type']) != -1)
+	if($.inArray("Server",data['type']) !== -1)
 		$("input[value='server']").prop("checked", true);
 	else
 		$("input[value='server']").prop("checked", false);
-	if($.inArray("SSP",data['type']) != -1)
+	if($.inArray("SSP",data['type']) !== -1)
 		$("input[value='SSP']").prop("checked", true);
 	else
 		$("input[value='SSP']").prop("checked", false);
-	if($.inArray("SMP",data['type']) != -1)
+	if($.inArray("SMP",data['type']) !== -1)
 		$("input[value='SMP']").prop("checked", true);
 	else
 		$("input[value='SMP']").prop("checked", false);
-	if($.inArray("LAN",data['type']) != -1)
+	if($.inArray("LAN",data['type']) !== -1)
 		$("input[value='LAN']").prop("checked", true);
 	else
 		$("input[value='LAN']").prop("checked", false);
 	$("#versions input").prop("checked", false);
 	$.each(data['versions'], function() {
 		$("input[value='"+this+"']").prop("checked", true);
-		if(this == "1.5.0")
-			$("input[value='1.5']").prop("checked", true);
-	})
+	});
 	$('#old').click();
 	$('#name').popover('hide');
 }
@@ -108,7 +106,7 @@ $('#name').bind('typeahead:selected', function(obj, datum) {
 $('.twitter-typeahead').css('display','block');
 $('#link').blur(function() {
 	var link = $('#link').val();
-	if(link != "") {
+	if(link !== "") {
 		if(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-./.test(link)) {
 			$('#link').val(link.match(/(http:\/\/)*(www.)*minecraftforum.net\/topic\/\d+-/)[0]);
 		}

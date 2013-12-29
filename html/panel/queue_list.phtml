@@ -1,0 +1,96 @@
+<div class="page-header">
+    <h1>Review Queue<br/>
+        <small><?php echo count($this->mods); ?> mods in queue</small>
+    </h1>
+    <?php if($this->permissions->canAccess('panel.queue.edit')) { ?>
+    <p>
+        <a href="queue/download"><button type="button" class="btn btn-default"><i class="fa fa-download"></i> Download JSON</button></a>
+        <!--<a href="queue/changelog"><button type="button" class="btn btn-default"><i class="fa fa-keyboard-o"></i> Generate Changelog</button></a>-->
+        <a href="queue/complete"><button type="button" class="btn btn-default"><i class="fa fa-check"></i> Mark queue as complete</button></a>
+    </p>
+    <?php } ?>
+</div>
+<!-- 
+TODO: supported?
+<div class="alert alert-warning alert-dismissable">
+    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+    <strong>Warning:</strong> This version is no longer supported and will no longer recieve updates.
+</div>
+-->
+<div class="input-group hidden-print">
+    <span class="input-group-addon"><i class="fa fa-search"></i><span class="sr-only">Search</span></span>
+    <input type="text" id="search" class="form-control" placeholder="Type to search" autofocus />
+    <span class="input-group-btn">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Mode <span class="caret"></span></button>
+        <ul class="dropdown-menu pull-right">
+            <li><a id="search-simple">Simple Search</a></li>
+            <li><a id="search-advanced">Advanced Search</a></li>
+            <li class="divider"></li>
+            <li><a id="search-reset">Reset Search Fields</a></li>
+        </ul>
+    </span>
+</div>
+<div class="input-group hidden-print advanced-search hidden-search">
+    <span class="input-group-addon"><i class="fa fa-credit-card"></i><span class="sr-only">Name Search</span></span>
+    <input type="text" id="search-name" class="form-control" placeholder="Mod Name" />
+    <span class="input-group-addon"><i class="fa fa-group"></i><span class="sr-only">Author Search</span></span>
+    <input type="text" id="search-author" class="form-control" placeholder="Author" />
+    <span class="input-group-addon"><i class="fa fa-book"></i><span class="sr-only">Description Search</span></span>
+    <input type="text" id="search-desc" class="form-control" placeholder="Description" />
+    <span class="input-group-addon"><i class="fa fa-tags"></i><span class="sr-only">Tag Search</span></span>
+    <input type="text" id="search-tag" class="form-control" placeholder="Tags" />
+</div>
+<table id="modlist" class="table table-hover modlist-table">
+    <thead>
+        <tr>
+            <th>Mod Name <span class="pull-right">Author</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php foreach ($this->mods as $mod) { ?>
+        <tr id="<?php echo preg_replace("/[^0-9a-zA-Z]/i", '', strtolower($mod['name'])); ?>">
+            <td>
+                <p>
+                    <span>
+                        <a href="<?php echo $mod['link']; ?>"><?php echo $mod['name']; ?></a>
+                        <?php if (isset($mod['other'])) { echo $mod['other']; } ?>
+                        <?php if (strpos($mod['link'],'bit.ly') === false) { ?>
+                        <span class="text-danger"><strong>NOT</strong> a bit.ly link</span>
+                        <?php } ?>
+                    </span>
+                    <strong>
+                        <i class="pull-right"><?php if(count($mod['author']) == 1) { echo $mod['author'][0]; } else { echo implode(", ", $mod['author']); } ?></i>
+                    </strong>
+                </p>
+            <?php if (isset($mod['desc']) && $mod['desc'] != "") { ?>
+                <p><?php echo $mod['desc']; ?></p>
+            <?php } ?>
+                <p>
+            <?php if (isset($mod['source'])) { ?>
+                <?php if ($mod['source'] != "") { ?>
+                    <a href="<?php echo $mod['source']; ?>"><i class="fa fa-globe pull-right opensource"></i><span class="sr-only">Open Source</span></a>
+                <?php } else { ?>
+                    <i class="fa fa-globe pull-right opensource-contained"></i>
+                    <span class="sr-only">Open Source</span>
+                <?php } ?>
+            <?php } ?>
+            <?php foreach ($mod['type'] as $type) { ?>
+                <span class="label label-default <?php echo strtolower($type); ?>"><?php echo $this->type[$type]; ?></span>
+            <?php } ?>
+            <?php foreach ($mod['dependencies'] as $dependency) { $forge_type = strtolower(str_replace(' ', '-', $dependency)); ?>
+                <?php if (isset($this->forge[$forge_type])) { ?>
+                    <a href="#forge" class="depends">
+                        <span class="label label-<?php echo $this->forge[$forge_type]; ?> dependency <?php echo $forge_type; ?>"><?php echo $dependency; ?></span>
+                    </a>
+                <?php } else { ?>
+                    <a href="#<?php echo strtolower(preg_replace("/[^0-9a-zA-Z]/i", '', str_replace(array(" Compatible", " Required"), "", $dependency))); ?>" class="depends">
+                        <span class="label label-warning dependency"><?php echo $dependency; ?></span>
+                    </a>
+                <?php } ?>
+            <?php } ?>
+                </p>
+            </td>
+        </tr>
+        <?php } ?>
+    </tbody>
+</table>

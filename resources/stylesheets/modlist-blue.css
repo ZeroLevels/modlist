@@ -21,7 +21,7 @@ td a:hover {
 .ml-nav-blue .navbar-brand {
 	color: #fff;
 }
-.ml-nav-blue .navbar-nav > li > a {
+.ml-nav-blue .navbar-nav > li > a, .ml-nav-blue .navbar-nav > li > p {
 	color: #E4E8FF;
 }
 .ml-nav-blue .navbar-nav > .dropdown > a .caret {
@@ -47,6 +47,47 @@ td a:hover {
 		color: #fff;
 	}
 }
+
+.ml-nav-black {
+	background-color: #2D2D2D;
+	border-color: #000;
+}
+.ml-nav-black .navbar-header {
+	text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+}
+.ml-nav-black .navbar-collapse, .ml-nav-black .navbar-form {
+	border-color: #000;
+}
+.ml-nav-black .navbar-brand {
+	color: #fff;
+}
+.ml-nav-black .navbar-nav > li > a {
+	color: #bbb;
+}
+.ml-nav-black .navbar-nav > .dropdown > a .caret {
+	border-top-color: #bbb;
+	border-bottom-color: #bbb;
+}
+.ml-nav-black .navbar-toggle {
+	border-color: #2D2D2D;
+}
+.ml-nav-black .navbar-toggle:hover, .ml-nav-black .navbar-toggle:focus {
+	background-color: #000;
+	border-color: #000;
+}
+.ml-nav-black .navbar-nav>.open>a, .ml-nav-black .navbar-nav>.open>a:hover, .ml-nav-black .navbar-nav>.open>a:focus {
+	color: #fff;
+	background-color: #000;
+}
+@media (max-width: 767px) { /*less than @screen-sm*/
+	.ml-nav-black .navbar-nav .open .dropdown-menu>li>a {
+		color: #E4E8FF;
+	}
+	.ml-nav-black .navbar-nav .open .dropdown-menu>li>a:hover {
+		color: #fff;
+	}
+}
+
 body {
 	padding-top: 70px;
 }
@@ -148,4 +189,8 @@ body {
 }
 .home-changelog div p:nth-of-type(2) {
 	min-height: 60px;
+}
+#nothuman {
+    display: none;
+    visibility: hidden;
 }

@@ -1,0 +1,29 @@
+Mod Submission
+
+Request ID #<?php echo $this->mod['id']; ?>
+
+Go to http://modlist.mcf.li/panel/submission/<?php echo $this->mod['id']; ?>
+ to work on this submission.
+Submission Mode: <?php echo $this->mod['mode']; ?>
+
+Name: <?php echo $this->mod['name']; ?>
+
+Source: <?php echo $this->mod['source']; ?>
+
+<?php if($this->mod['mode'] === 'New Mod') { ?>
+Author(s): <?php echo $this->mod['authors']; ?>
+
+Link: <?php echo $this->mod['link']; ?>
+
+Availability: <?php echo implode('', $this->mod['availability']); ?>
+
+Compatibility: <?php echo $this->mod['compatibility']; ?>
+
+Description: <?php echo $this->mod['desc']; ?>
+
+<?php } ?>
+Versions: <?php echo implode(', ',$this->mod['versions']); ?>
+
+Other Info: <?php echo $this->mod['other']; ?>
+
+Request sent by <?php echo $this->mod['origin']; ?>
