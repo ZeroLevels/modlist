@@ -9,8 +9,8 @@
 "source":<?= json_encode($mod['source'],JSON_UNESCAPED_SLASHES) ?>,
 <?php } ?>
 "type":<?= json_encode($mod['type'],JSON_UNESCAPED_SLASHES) ?>,
-"dependencies":["<?= implode('", "',$mod['dependencies']); ?>"],
-"versions":["<?= implode('", "',$mod['versions']); ?>"]
+"dependencies":<?= json_encode($mod['dependencies'],JSON_UNESCAPED_SLASHES) ?>,
+"versions":<?= json_encode($mod['versions'],JSON_UNESCAPED_SLASHES) ?>
 
 }<?php if($mod !== $this->last) { echo ','; } ?>
 <?php } ?>]
