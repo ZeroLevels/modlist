@@ -131,7 +131,7 @@ if(!function_exists('convertChangelog')) {
 
 if(!function_exists('formatMod')) {
     function formatMod($mod,$version) {
-            return '<a href="/version/'.$version.'/#'.tagformat($mod).'">'.$mod.'</a>';
+            return '<a href="/version/'.$version.'#'.tagformat($mod).'">'.$mod.'</a>';
     }
 }
 
