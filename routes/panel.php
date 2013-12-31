@@ -191,7 +191,7 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             
             //Change last login time and save data
             $users[$access_token]['last_login'] = time();
-            $encoded_data = json_encode($users, JSON_PRETTY_PRINT);
+            $encoded_data = json_encode($users, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
             file_put_contents($users_cache, $encoded_data);
         }
         
@@ -232,10 +232,11 @@ $this->respond('GET', '/home', function ($request, $response, $service, $app) {
  * @return page
  */
 
-$this->respond('GET', '/submission', function ($request, $response, $service, $app) {
+$this->respond('GET', '/[submission|submission-all:hidden]', function ($request, $response, $service, $app) {
+    $hidden = $request->param('hidden') === 'submission' ? true : false;
     $final_list = array();
     foreach($service->submissions as $sub) {
-        if(!isset($sub['complete'])) {
+        if(!$hidden || !isset($sub['complete'])) {
             if(
                 !isset($sub['versions']) ||
                 $sub['mode'] === 'New Mod' && (
