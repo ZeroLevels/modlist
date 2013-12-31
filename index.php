@@ -250,7 +250,8 @@ $klein->respond('GET', '/submit/[form|failed|success:state]', function ($request
  */
 
 $klein->respond('POST', '/submit/complete', function ($request, $response, $service, $app) use ($klein) {    
-    //Validate submission
+    //TODO: Fix Validate submission
+    /*
     $service->validateParam('request-type')->notNull();
     $service->validateParam('name')->notNull();
     $service->validateParam('versions')->notNull();
@@ -264,6 +265,7 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
         $service->validateParam('forge')->notNull();
         $service->validateParam('availability')->notNull();
     }
+    */
     
     //Read existing submissions and add new one
     $submissions = 'data/submissions.json';
