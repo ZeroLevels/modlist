@@ -85,23 +85,33 @@ $klein->respond('GET', '/', function ($request, $response, $service, $app) {
 });
 
 /*
+ * latest/
+ * Redirects to version/latest
+ * @return redirect
+ */
+$klein->respond('GET', '/latest', function ($request, $response, $service, $app) {
+    $response->redirect('/version/latest', 301);
+    $response->send();
+});
+
+/*
  * latest/version or latest/changelog
- * Redirects to the latest version or changelog. 
+ * Redirects to the correct latest page for version or changelog
  * TODO: caching as this is super inefficient (maybe generate a rendered list on new submission?)
  * @return redirect
  */
 $klein->respond('GET', '/latest/[version|changelog:option]', function ($request, $response, $service, $app) {
-    $response->redirect('/' . $request->param('option') . '/' . $service->versions[0]);
+    $response->redirect('/' . $request->param('option') . '/latest');
     $response->send();
 });
 
 /*
  * version/latest or changelog/latest
- * Redirects to the correct latest page for version or changelog
+ * Redirects to the latest version or changelog
  * @return redirect
  */
 $klein->respond('GET', '/[version|changelog:option]/latest', function ($request, $response, $service, $app, $klein) {
-    $response->redirect('/latest/' . $request->param('option'));
+    $response->redirect('/' . $request->param('option') . '/' . $service->versions[0]);
     $response->send();
 });
 
@@ -161,7 +171,7 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
  * @return redirect
  */
 $klein->respond('GET', '/list/submit/[list.php]?', function($request, $response, $service, $app) {
-    $response->redirect('/submit/', $code = 301);
+    $response->redirect('/submit/', 301);
 });
 
 /*
