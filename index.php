@@ -425,7 +425,8 @@ $klein->respond('404', function ($request, $response, $service, $app) {
     $logfile = 'data/404.json';
     $logs = file_exists($logfile) ? json_decode(file_get_contents($logfile), true) : array();
     
-    $logs[$request->uri()] = isset($logs[$request->uri()]) ? ++$logs[$request->uri()] : 1;
+    $uri = $request->uri();
+    $logs[$uri] = isset($logs[$uri]) ? ++$logs[$uri] : 1;
     
     $encoded_data = json_encode($logs, JSON_UNESCAPED_SLASHES);
     file_put_contents($logfile, $encoded_data);
