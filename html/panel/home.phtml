@@ -32,4 +32,20 @@
             </div>
         </div>
     </div>
+    <?php if($this->permissions->canAccess('panel.home.404')) { ?>
+    <div class="col-sm-6 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Common 404s</h3>
+            </div>
+            <div class="panel-body">
+                <?php foreach($this->missing as $uri => $log) { ?>
+                <span class="badge pull-right"><?=$log?></span>
+                <span class="sr-only">hits for</span>
+                <span class="truncate"><?=urldecode($uri)?></span>
+                <?php } ?>
+            </div>
+        </div>
+    </div>
+    <?php } ?>
 </div>
