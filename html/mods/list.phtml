@@ -51,7 +51,7 @@ TODO: supported?
                         ?>
                     </span>
                     <strong>
-                        <i class="pull-right"><?php if(count($mod['author']) == 1) { echo $mod['author'][0]; } else { echo implode(", ", $mod['author']); } ?></i>
+                        <i class="pull-right"><?php echo implode(", ", $mod['author']); ?></i>
                     </strong>
                 </p>
             <?php if (isset($mod['desc']) && $mod['desc'] != "") { ?>
