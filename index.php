@@ -224,7 +224,9 @@ $klein->respond('GET', '/list/[*:major]?/[*:version]', function ($request, $resp
 $klein->respond('GET', '/changelog', function ($request, $response, $service, $app) {
     $logs = scandir('data/changelogs', 1);
     foreach ($logs as $log) {
-        $changelogs[] = substr($log, 0, -4);
+        if($log !== '..' && $log !== '.') {
+            $changelogs[] = substr($log, 0, -4);
+        }
     }
     $service->title = 'Changelog Version List';
     $service->render('html/changelog/index.phtml', array('changelogs' => $changelogs));
