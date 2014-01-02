@@ -180,6 +180,19 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             $_SESSION['registered'] = time();
             $_SESSION['last_login'] = time();
             
+            //Check if user owns any open source mods
+            $repo = 'https://github.com/' . $_SESSION['user'];
+            $modlist = json_decode(file_get_contents('data/modlist.json'), true);
+            foreach($modlist as $mod) {
+                if(isset($mod['source'])) {
+                    if(substr($mod['source'],0,strlen($repo)) === $repo) {
+                        //Elevate to modder status automatically
+                        $_SESSION['access_level'] = 'creator';
+                        break;
+                    }
+                }
+            }
+            
             //Save data
             $users[$access_token] = $_SESSION;
             $encoded_data = json_encode($users, JSON_PRETTY_PRINT);
