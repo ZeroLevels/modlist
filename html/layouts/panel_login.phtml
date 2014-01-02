@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>MCF Mod List - <?php echo $this->title; ?></title>
+    <title>MCF Mod List<?php if(isset($this->title)) { echo ' - ' . $this->title; } ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Minecraft Forum Mod List - A list of Minecraft mods compiled by the community" />
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"/>
