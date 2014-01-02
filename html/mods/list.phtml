@@ -45,13 +45,13 @@ TODO: supported?
             <td>
                 <p>
                     <span>
-                        <a href="<?php echo $mod['link']; ?>"><?php echo $mod['name']; ?></a>
+                        <a href="<?php echo $mod['link']; ?>" target="_blank"><?php echo $mod['name']; ?></a>
                         <?php
                         if (isset($mod['other'])) { echo $mod['other']; }
                         ?>
                     </span>
                     <strong>
-                        <i class="pull-right"><?php if(count($mod['author']) == 1) { echo $mod['author'][0]; } else { echo implode(", ", $mod['author']); } ?></i>
+                        <i class="pull-right"><?php echo implode(", ", $mod['author']); ?></i>
                     </strong>
                 </p>
             <?php if (isset($mod['desc']) && $mod['desc'] != "") { ?>

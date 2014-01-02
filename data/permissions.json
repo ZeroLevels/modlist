@@ -1,8 +1,15 @@
 {
     "user":{
-        "display_name":"User",
+        "display_name":"Guest",
         "permissions":[
             "panel.submission.view"
+        ]
+    },
+    "creator":{
+        "display_name":"Mod Creator",
+        "inherit":"user",
+        "permissions":[
+            "panel.self.mod"
         ]
     },
     "mod":{
