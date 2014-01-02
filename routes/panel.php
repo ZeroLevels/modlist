@@ -221,8 +221,12 @@ $this->respond('GET', '/home', function ($request, $response, $service, $app) {
         }
     }
     
+    $missing = json_decode(file_get_contents('data/404.json'), true);
+    arsort($missing);
+    
     $service->render('html/panel/home.phtml', array(
-        'recent' => $recent_list
+        'recent'  => $recent_list,
+        'missing' => array_slice($missing,0,10,true)
     ));
 });
 
