@@ -76,6 +76,21 @@ $klein->with('/panel', 'routes/panel.php');
 $klein->with('/api/v3', 'routes/apiv3.php');
 
 /*
+ * Variable to allow programmatic 404 calls
+ */
+$notfound = function ($request, $response, $service, $app) {
+   $logfile = 'data/404.json';
+    $logs = file_exists($logfile) ? json_decode(file_get_contents($logfile), true) : array();
+    
+    $uri = $request->uri();
+    $logs[$uri] = isset($logs[$uri]) ? ++$logs[$uri] : 1;
+    
+    $encoded_data = json_encode($logs, JSON_UNESCAPED_SLASHES);
+    file_put_contents($logfile, $encoded_data);
+    $service->render('html/404.html');
+};
+
+/*
  * /
  * homepage
  * @return page
@@ -127,13 +142,16 @@ $klein->respond('GET', '/version', function ($request, $response, $service, $app
 
 /*
  * version/1.6.4
- * Renders the modlist for the specified version. 
- * TODO: 404 if no mods exist in version
+ * Renders the modlist for the specified version.
  * @return page
  */
-$klein->respond('GET', '/version/[*:version]', function ($request, $response, $service, $app) {
-    if($request->param('version') === 'latest')
+$klein->respond('GET', '/version/[*:version]', function ($request, $response, $service, $app) use ($notfound) {
+    if($request->param('version') === 'latest') {
         return;
+    }
+    if(!in_array($request->param('version'), $service->versions)) {
+        return $notfound($request, $response, $service, $app);
+    }
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     
     $forge = array(
@@ -163,6 +181,15 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
     array_multisort($mod_names, SORT_ASC, $mods);
     
     $service->render('html/mods/list.phtml', array('version' => $request->param('version'), 'mods' => $mods, 'type' => $type, 'forge' => $forge));
+});
+
+/*
+ * list
+ * Redirects to the version listing
+ * @return redirect
+ */
+$klein->respond('GET', '/list', function($request, $response, $service, $app) {
+    $response->redirect('/version', 301);
 });
 
 /*
@@ -205,12 +232,15 @@ $klein->respond('GET', '/changelog', function ($request, $response, $service, $a
 
 /*
  * changelog/1.6.4
- * Renders the changelog for the specified version. 
- * TODO: 404 if the changelog doesn't exist
+ * Renders the changelog for the specified version.
  * @return page
  */
-$klein->respond('GET', '/changelog/[*:version]', function ($request, $response, $service, $app) {
-    $changelog = file_get_contents('data/changelogs/' . $request->param('version') . '.txt');
+$klein->respond('GET', '/changelog/[*:version]', function ($request, $response, $service, $app) use ($notfound) {
+    $file = 'data/changelogs/' . $request->param('version') . '.txt';
+    if(!file_exists($file)) {
+        return $notfound($request, $response, $service, $app);
+    }
+    $changelog = file_get_contents($file);
     $service->render('html/changelog/log.phtml', array('changelog' => $changelog));
 });
 
@@ -253,7 +283,6 @@ $klein->respond('GET', '/submit/[form|failed|success:state]', function ($request
 });
 
 /*
- * TODO: Process submission
  * submit/complete
  * Complete submission
  * @return redirect
@@ -421,16 +450,6 @@ $klein->respond('GET', '/old', function ($request, $response, $service, $app) {
  * If a page doesn't exist!
  * @return page
  */
-$klein->respond('404', function ($request, $response, $service, $app) {
-    $logfile = 'data/404.json';
-    $logs = file_exists($logfile) ? json_decode(file_get_contents($logfile), true) : array();
-    
-    $uri = $request->uri();
-    $logs[$uri] = isset($logs[$uri]) ? ++$logs[$uri] : 1;
-    
-    $encoded_data = json_encode($logs, JSON_UNESCAPED_SLASHES);
-    file_put_contents($logfile, $encoded_data);
-    $service->render('html/404.html');
-});
+$klein->respond('404', $notfound);
 
 $klein->dispatch();
