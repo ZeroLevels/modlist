@@ -5472,11 +5472,11 @@
 
 "name":"Grimoire of Gaia",
 "link":"http://bit.ly/1afEA79",
-"desc":"Intented to add mobs and make the game harder while more powerful and well-coded mods provide high-end enhancements to the player. It is playable without mods, but is not recommend it due to its possible high difficulty for beginners.",
+"desc":"Intended to add mobs and make the game harder while more powerful and well-coded mods provide high-end enhancements to the player. It is playable without mods, but is not recommend it due to its possible high difficulty for beginners.",
 "author":["Silentine"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -10070,6 +10070,16 @@
 
 },{
 
+"name":"Quartz 'N' Steel",
+"link":"http://bit.ly/1cHeM5G",
+"desc":"Adds an overworld variant of Nether Quartz as well as a quartz variant to Flint and Steel that has 4x durability.",
+"author":["baddaspig"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
 "name":"QuickCraft Mod",
 "link":"http://bit.ly/cjbmodsr",
 "desc":"This mod shows a somewhat XBOX 360 like GUI of crafting. Just with a few clicks you can craft a lot of items. Hover your mouse over the item you want to craft and it will show you the recipe and which items you still require and which items will be used from your inventory. You can also click one of the items in your inventory, this will show you all the recipes which requires that item. There are also 2 buttons, one to switch back to classic crafting and one to toggle to show only the recipes you can craft with the items you have in your inventory. It both works with SSP and SMP and even supports custom items.",
@@ -11722,6 +11732,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Sync",
+"link":"http://bit.ly/1cHdpnE",
+"desc":"Allows you to construct a surrogate self with its own inventory, health, hunger, and game mode which you can send your original self's mind to.  Somewhat allows teleportation that doesn't bring your inventory.",
+"author":["iChun"],
+"source":"https://github.com/iChun/Sync",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1"]
 
 },{
 
