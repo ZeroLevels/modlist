@@ -193,6 +193,15 @@ $klein->respond('GET', '/list', function($request, $response, $service, $app) {
 });
 
 /*
+ * versions
+ * Redirects to the version listing
+ * @return redirect
+ */
+$klein->respond('GET', '/versions', function($request, $response, $service, $app) {
+    $response->redirect('/version', 301);
+});
+
+/*
  * list/submit
  * Redirects to the submission page
  * @return redirect
