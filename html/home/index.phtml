@@ -7,9 +7,12 @@
     </p>
 </div>
 <div class="row home-changelog">
-    <?php $latest_versions = array_slice($this->versions, 0, 4); ?>
-    <?php foreach($latest_versions as $latest) { ?>
-    <div class="col-sm-6 col-lg-3">
+    <?php $latest_versions = array_slice($this->versions_grouped, 0, 3); ?>
+    <?php foreach($latest_versions as $group) {
+        $display_versions[] = array_keys($group)[0];
+    } ?>
+    <?php foreach($display_versions as $latest) { ?>
+    <div class="col-sm-6 col-lg-4">
         <h2><?php echo $latest; ?></h2>
         <p><i>Last Updated <?php echo changelogDate($latest) ?></i></p>
         <p><?php echo changelogParse($latest) ?></p>
