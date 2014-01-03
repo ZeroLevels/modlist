@@ -435,6 +435,9 @@ $this->respond('GET', '/queue/[download|render:type]', function ($request, $resp
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     foreach(array_reverse($service->submissions) as $sub) {
         if(!isset($sub['complete']) && isset($sub['queued'])) {
+            if($sub['edit_data']['other'] === '') {
+                unset($sub['edit_data']['other']);
+            }
             if($sub['edit_data']['source'] === '') {
                 //TODO: Open source mods that don't have links
                 unset($sub['edit_data']['source']);
