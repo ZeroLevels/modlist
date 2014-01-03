@@ -430,7 +430,7 @@ $this->respond('GET', '/queue', function ($request, $response, $service, $app) {
  * @return page
  */
 
-$this->respond('GET', '/queue/download', function ($request, $response, $service, $app) {
+$this->respond('GET', '/queue/[download|render:type]', function ($request, $response, $service, $app) {
     $updated = array();
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     foreach(array_reverse($service->submissions) as $sub) {
@@ -469,7 +469,9 @@ $this->respond('GET', '/queue/download', function ($request, $response, $service
     $service->partial('html/panel/download.phtml', array('mods' => $mod_list, 'last' => end($mod_list)));
     $response->noCache();
     $response->header('Content-Type', 'application/json');
-    $response->header('Content-Disposition', 'attachment; filename="modlist.json"');
+    if($request->param('type') === 'download') {
+        $response->header('Content-Disposition', 'attachment; filename="modlist.json"');
+    }
     $response->body(ob_get_clean());
 });
 
