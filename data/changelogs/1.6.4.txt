@@ -1,3 +1,8 @@
+(January/03/2013)
+	+Added "Grimoire of Gaia"
+	+Added "Quartz 'N' Steel"
+	+Added "Sync"
+
 (December/13/2013)
 	+Added "NotOnlyMoreOres Mod"
 	+Added "Ore Dimension's Mod"
