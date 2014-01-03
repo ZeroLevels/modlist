@@ -179,7 +179,7 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
         }
     }
     array_multisort($mod_names, SORT_ASC, $mods);
-    
+    $service->title = $request->param('version');
     $service->render('html/mods/list.phtml', array('version' => $request->param('version'), 'mods' => $mods, 'type' => $type, 'forge' => $forge));
 });
 
