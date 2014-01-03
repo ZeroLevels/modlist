@@ -1073,6 +1073,7 @@
 "versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
+
 "name":"Better Sprinting",
 "other":"(Development)",
 "link":"http://bit.ly/WA0xnr",
@@ -1912,7 +1913,7 @@
 "versions":["1.4.7","1.5.1"]
 
 },{
-    
+
 "name":"Cave Generation Mods",
 "link":"http://bit.ly/1d6acQd",
 "desc":"Allows you to remove caves, use 1.6.4 cave generation or double 1.6.4 cave generation.",
@@ -1979,8 +1980,9 @@
 "desc":"Saves all chat to a dedicated 'chatlogs' folder.",
 "author":["bilde2910"],
 "type":["Client"],
-"dependencies":["Forge Compatible", "Base Edit"],
-"versions":["1.7.2"]
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.6.4"]
+
 },{
 
 "name":"ChatLog",
@@ -1988,8 +1990,8 @@
 "desc":"Saves all chat to a dedicated 'chatlogs' folder.",
 "author":["bilde2910"],
 "type":["Client"],
-"dependencies":["Forge Compatible", "Base Edit"],
-"versions":["1.6.4"]
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
 
 },{
 
@@ -3238,6 +3240,7 @@
 "versions":["1.6.4"]
 
 },{
+
 "name":"Custom Stuff 2",
 "link":"http://bit.ly/13dry5y",
 "desc":"Allows you to add content to minecraft with simple text files. You can also send your created content in a zip to your friends and they have only put this zip into the custom stuff 2 mods directory. You can create chests, furnaces, ladders, torches that can also be placed on the ceiling, armory, food, potions, crafting recipes and much more.",
@@ -4036,8 +4039,8 @@
 "desc":"A material detector. It shows the surrounding material at your level/height map.",
 "author":["Ellian"],
 "type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.2"]
+"dependencies":["Forge Compatible"],
+"versions":["1.4.5","1.4.7","1.5","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -4046,8 +4049,8 @@
 "desc":"A material detector. It shows the surrounding material at your level/height map.",
 "author":["Ellian"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.5","1.4.7","1.5","1.5.2","1.6.2","1.6.4"]
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
 
 },{
 
@@ -7252,18 +7255,6 @@
 },{
 
 "name":"LiteLoader",
-"other":"(API) (Beta)",
-"link":"http://bit.ly/18mKFgD",
-"desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. It is designed to run alongside ModLoader and Minecraft Forge and LiteLoader mods will not conflict with ModLoader or Forge mods.",
-"author":["Mumfrey"],
-"source":"https://www.assembla.com/spaces/liteloader/stream",
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.7.2"]
-
-},{
-
-"name":"LiteLoader",
 "other":"(API)",
 "link":"http://bit.ly/18mKFgD",
 "desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. It is designed to run alongside ModLoader and Minecraft Forge and LiteLoader mods will not conflict with ModLoader or Forge mods.",
@@ -7272,6 +7263,18 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"LiteLoader",
+"other":"(API) (Beta)",
+"link":"http://bit.ly/18mKFgD",
+"desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. It is designed to run alongside ModLoader and Minecraft Forge and LiteLoader mods will not conflict with ModLoader or Forge mods.",
+"author":["Mumfrey"],
+"source":"https://www.assembla.com/spaces/liteloader/stream",
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.2"]
 
 },{
 
@@ -9235,7 +9238,7 @@
 "desc":"Prevents creepers from exploding. At all.",
 "author":["Clellan2451"],
 "type":["SSP","SMP"],
-"dependencies":["Not Forge Compatible", "Base Edit"],
+"dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.2"]
 
 },{
@@ -9371,16 +9374,6 @@
 
 },{
 
-"name":"No Voidfog or Dimming",
-"link":"http://bit.ly/Ty9cf2",
-"desc":"Removes the void fog and dimming when getting nearer to bedrock level.",
-"author":["MamiyaOtaru"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5","1.5.1","1.5.2","1.6.4"]
-
-},{
-    
 "name":"No Void Fog Mod",
 "link":"http://bit.ly/1d6acQd",
 "desc":"Removes the void fog and particles.",
@@ -9388,6 +9381,16 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"No Voidfog or Dimming",
+"link":"http://bit.ly/Ty9cf2",
+"desc":"Removes the void fog and dimming when getting nearer to bedrock level.",
+"author":["MamiyaOtaru"],
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.5","1.5.1","1.5.2","1.6.4"]
 
 },{
 
@@ -12802,8 +12805,8 @@
 "desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
 "author":["Marglyph"],
 "type":["Client"],
-"dependencies":["Not Forge Compatible", "Base Edit"],
-"versions":["1.7.2"]
+"dependencies":["Forge Compatible"],
+"versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
 
 },{
 
@@ -12813,8 +12816,8 @@
 "desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
 "author":["Marglyph"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
 
 },{
 
@@ -14142,18 +14145,19 @@
 "author":["ga2mer"],
 "source":"https://github.com/ga2mer/ZoomMod",
 "type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.2"]
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
+
 "name":"ZoomMod",
 "link":"http://bit.ly/1i0Cs6h",
 "desc":"Allows you to zoom by holding a configurable button.",
 "author":["ga2mer"],
 "source":"https://github.com/ga2mer/ZoomMod",
 "type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
 
 },{
 
