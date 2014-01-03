@@ -2,6 +2,9 @@
 {
 
 "name":<?= json_encode($mod['name'],JSON_UNESCAPED_SLASHES) ?>,
+<?php if(isset($mod['other'])) { ?>
+"other":<?= json_encode($mod['other'],JSON_UNESCAPED_SLASHES) ?>,
+<?php } ?>
 "link":<?= json_encode($mod['link'],JSON_UNESCAPED_SLASHES) ?>,
 "desc":<?= json_encode($mod['desc'],JSON_UNESCAPED_SLASHES) ?>,
 "author":<?= json_encode($mod['author'],JSON_UNESCAPED_SLASHES) ?>,
@@ -11,6 +14,7 @@
 "type":<?= json_encode($mod['type'],JSON_UNESCAPED_SLASHES) ?>,
 "dependencies":<?= json_encode($mod['dependencies'],JSON_UNESCAPED_SLASHES) ?>,
 "versions":<?= json_encode($mod['versions'],JSON_UNESCAPED_SLASHES) ?>
+
 
 }<?php if($mod !== $this->last) { echo ','; } ?>
 <?php } ?>]
