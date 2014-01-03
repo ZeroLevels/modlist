@@ -193,6 +193,15 @@ $klein->respond('GET', '/list', function($request, $response, $service, $app) {
 });
 
 /*
+ * versions
+ * Redirects to the version listing
+ * @return redirect
+ */
+$klein->respond('GET', '/versions', function($request, $response, $service, $app) {
+    $response->redirect('/version', 301);
+});
+
+/*
  * list/submit
  * Redirects to the submission page
  * @return redirect
@@ -238,6 +247,9 @@ $klein->respond('GET', '/changelog', function ($request, $response, $service, $a
  * @return page
  */
 $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, $service, $app) use ($notfound) {
+    if($request->param('version') === 'latest') {
+        return;
+    }
     $file = 'data/changelogs/' . $request->param('version') . '.txt';
     if(!file_exists($file)) {
         return $notfound($request, $response, $service, $app);
