@@ -1,5 +1,7 @@
 (January/04/2014)
-	*Updated "Harder Peaceful" info: Now "Forge Required"
+	*Updated 2 mods by Wuppy (Which are the following)
+		*Updated "Harder Peaceful" info: Now "Forge Required"
+		*Updated "Pumpkin-less Snow Golem" info: Now "Forge Required"
 	+Added "Extractination"
 	+Added "Water & Sun Proof Endermen Mod"
 

@@ -10270,7 +10270,7 @@
 "author":["wuppy21"],
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/snowgolem",
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Required"],
 "versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
