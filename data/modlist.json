@@ -13250,6 +13250,7 @@
 "link":"http://bit.ly/UCJ3sf",
 "desc":"Universal Electricity is a modular coding framework that allows the use of electricity in Minecraft. Mods which uses the Universal Electricity API have the ability to communicate and be compatible with each other.",
 "author":["Calclavia"],
+"source":"https://github.com/Universal-Electricity/Universal-Electricity",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]

@@ -1,5 +1,6 @@
 (January/04/2014)
 	*Updated "Harder Peaceful" info: Now "Forge Required"
+	*Updated "Universal Electricity" info and link: Added source
 
 (January/03/2014)
 	+Added "WorldEditCUI"
