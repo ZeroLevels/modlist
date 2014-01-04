@@ -13667,7 +13667,7 @@
 "link":"http://bit.ly/1kiEwuN",
 "desc":"Allows players to use a custom player model in-game.",
 "author":["cazzar"],
-"type":["Client"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
 
