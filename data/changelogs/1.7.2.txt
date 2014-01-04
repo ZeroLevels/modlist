@@ -1,6 +1,7 @@
 (January/04/2014)
 	*Updated "Harder Peaceful" info: Now "Forge Required"
 	+Added "Extractination"
+	+Added "MinecraftPvPCoordUI"
 	+Added "Podzol to Diamonds"
 	+Added "VoxelCam"
 	+Added "Water & Sun Proof Endermen Mod"

@@ -7922,6 +7922,16 @@
 
 },{
 
+"name":"MinecraftPvPCoordUI",
+"link":"http://bit.ly/19T1H53",
+"desc":"Displays your FPS and coordinates when joining a server.",
+"author":["H31lsp4wn"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Minecraft Tweaks",
 "link":"http://bit.ly/13Gwjqi",
 "desc":"Allows arrows to break through certain block. The player can climb blocks like fences, gates, and trapdoors. Adds the ability to grab items using a fishing rod, makes players and mobs have a chance to drop mob heads on death, and allows mobs to see through certain blocks.",
