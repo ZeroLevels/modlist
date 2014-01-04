@@ -4479,6 +4479,27 @@
 
 },{
 
+"name":"Extractination",
+"other":"(Experimental)",
+"link":"http://bit.ly/KoHoXc",
+"desc":"Transforms less useful resources into more useful ones using an Ore Extractinator.",
+"author":["Abcdmult","ga2mer"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Extractination",
+"link":"http://bit.ly/KoHoXc",
+"desc":"Transforms less useful resources into more useful ones using an Ore Extractinator.",
+"author":["Abcdmult"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Extra Bees",
 "link":"http://bit.ly/13J9i4K",
 "desc":"",
@@ -13677,7 +13698,7 @@
 "author":["Jeffrey6978"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1"]
+"versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4","1.7.2"]
 
 },{
 
@@ -14054,7 +14075,7 @@
 "source":"https://github.com/airbreather/YALSM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.6.4","1.7.2"]
 
 },{
 
