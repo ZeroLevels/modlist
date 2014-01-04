@@ -42,3 +42,30 @@ $this->respond('GET', '/[*:version].[json|md5:filetype]', function ($request, $r
         $response->body(md5(json_encode($newlist, JSON_UNESCAPED_SLASHES)));
     }
 });
+
+/*
+ * api/v3/recent.json
+ * Returns latest changes
+ * 
+ * @return page
+ */
+
+$this->respond('GET', '/recent.json', function ($request, $response, $service, $app) {
+    //TODO: Configurable supported versions from panel
+    $supported = array('1.7.2','1.6.4','1.5.2');
+    $recent = array();
+    foreach($supported as $ver) {
+        $changelog_file = file("data/changelogs/$ver.txt");
+        foreach($changelog_file as $line_num => $line) {
+            if($line !== "\r\n" && $line !== "\n") {
+                $recent[$ver][] = rtrim(str_replace("\t",'  ',$line));
+            } else {
+                break;
+            }
+        }
+    }
+    
+    $response->noCache();
+    $response->header('Content-Type', 'application/json');
+    $response->body(json_encode($recent, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
+});
