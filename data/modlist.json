@@ -10579,6 +10579,16 @@
 
 },{
 
+"name":"Redstone Block Shining Mod",
+"link":"http://bit.ly/19T3C9V",
+"desc":"Makes the vanilla Redstone Block emit light.",
+"author":["Jozo359"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Redstone Clock",
 "link":"http://bit.ly/11Ugzfv",
 "desc":"Adds a redstone clock pulsing from a range up to one in-game day, including a silent version.",
