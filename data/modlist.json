@@ -9988,6 +9988,16 @@
 
 },{
 
+"name":"Pointless Button Mod",
+"link":"http://bit.ly/19T2vXv",
+"desc":"If you ever wanted a pointless button in your pause menu, this adds exactly that.",
+"author":["Clellan2451"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Pokecube",
 "link":"http://bit.ly/16wq2iZ",
 "desc":"Adds Pokemon to the game that provides the user with a real time battle system and a world full of Pokemon to explore.",
