@@ -9968,6 +9968,16 @@
 
 },{
 
+"name":"Podzol to Diamonds",
+"link":"http://bit.ly/1i0A9Qu",
+"desc":"Adds the ability to craft podzol into diamonds and vice versa. Dirt can also be crafted into diamonds.",
+"author":["immibis"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Pokecube",
 "link":"http://bit.ly/16wq2iZ",
 "desc":"Adds Pokemon to the game that provides the user with a real time battle system and a world full of Pokemon to explore.",
