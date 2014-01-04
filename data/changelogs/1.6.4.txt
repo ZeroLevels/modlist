@@ -1,4 +1,8 @@
 (January/04/2014)
+	*Updated 2 mods by Wuppy (Which are the following)
+		*Updated "Harder Peaceful" info: Now "Forge Required"
+		*Updated "Pumpkin-less Snow Golem" info: Now "Forge Required"
+	*Updated "Universal Electricity" info and link: Added source
 	+Added "Extractination"
 	+Added "Water & Sun Proof Endermen Mod"
 

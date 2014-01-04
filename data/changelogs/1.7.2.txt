@@ -1,5 +1,10 @@
 (January/04/2014)
+	*Updated "Harder Peaceful" info: Now "Forge Required"
 	+Added "Extractination"
+	+Added "MinecraftPvPCoordUI"
+	+Added "Podzol to Diamonds"
+	+Added "Pointless Button Mod"
+	+Added "Redstone Block Shining Mod"
 	+Added "VoxelCam"
 	+Added "Water & Sun Proof Endermen Mod"
 	+Added "Yet Another Leather Smelting Mod"

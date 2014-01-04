@@ -5718,7 +5718,7 @@
 "author":["wuppy21"],
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/harderpeaceful",
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Required"],
 "versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4","1.7.2"]
 
 },{
@@ -7922,6 +7922,16 @@
 
 },{
 
+"name":"MinecraftPvPCoordUI",
+"link":"http://bit.ly/19T1H53",
+"desc":"Displays your FPS and coordinates when joining a server.",
+"author":["H31lsp4wn"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Minecraft Tweaks",
 "link":"http://bit.ly/13Gwjqi",
 "desc":"Allows arrows to break through certain block. The player can climb blocks like fences, gates, and trapdoors. Adds the ability to grab items using a fishing rod, makes players and mobs have a chance to drop mob heads on death, and allows mobs to see through certain blocks.",
@@ -9968,6 +9978,26 @@
 
 },{
 
+"name":"Podzol to Diamonds",
+"link":"http://bit.ly/1i0A9Qu",
+"desc":"Adds the ability to craft podzol into diamonds and vice versa. Dirt can also be crafted into diamonds.",
+"author":["immibis"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Pointless Button Mod",
+"link":"http://bit.ly/19T2vXv",
+"desc":"If you ever wanted a pointless button in your pause menu, this adds exactly that.",
+"author":["Clellan2451"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Pokecube",
 "link":"http://bit.ly/16wq2iZ",
 "desc":"Adds Pokemon to the game that provides the user with a real time battle system and a world full of Pokemon to explore.",
@@ -10260,7 +10290,7 @@
 "author":["wuppy21"],
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/snowgolem",
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Required"],
 "versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
 
 },{
@@ -10546,6 +10576,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Redstone Block Shining Mod",
+"link":"http://bit.ly/19T3C9V",
+"desc":"Makes the vanilla Redstone Block emit light.",
+"author":["Jozo359"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
 
 },{
 
@@ -13210,6 +13250,7 @@
 "link":"http://bit.ly/UCJ3sf",
 "desc":"Universal Electricity is a modular coding framework that allows the use of electricity in Minecraft. Mods which uses the Universal Electricity API have the ability to communicate and be compatible with each other.",
 "author":["Calclavia"],
+"source":"https://github.com/Universal-Electricity/Universal-Electricity",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
