@@ -1,5 +1,8 @@
 (January/04/2014)
+	+Added "Extractination"
 	+Added "VoxelCam"
+	+Added "Water & Sun Proof Endermen Mod"
+	+Added "Yet Another Leather Smelting Mod"
 
 (January/03/2014)
 	+Added 2 mods by Mumfrey (Which are the following)

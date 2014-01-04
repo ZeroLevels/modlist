@@ -1,3 +1,7 @@
+(January/04/2014)
+	+Added "Extractination"
+	+Added "Water & Sun Proof Endermen Mod"
+
 (January/03/2014)
 	*Updated "Optifine" description
 	+Added 5 mods by Darkhax (Which are the following)
