@@ -6,6 +6,7 @@
 	+Added "Pointless Button Mod"
 	+Added "Redstone Block Shining Mod"
 	+Added "VoxelCam"
+	+Added "Voxel Player Models"
 	+Added "Water & Sun Proof Endermen Mod"
 	+Added "Yet Another Leather Smelting Mod"
 
