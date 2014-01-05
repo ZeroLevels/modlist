@@ -378,7 +378,7 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
         'author'       => array_map('trim', explode(',', $request->param('authors',null))),
         'type'         => $request->param('availability',array()),
         'source'       => $request->param('source'),
-        'dependencies' => array($request->param('dependencies',null)),
+        'dependencies' => array_map('trim',explode(',',$request->param('dependencies',null))),
         'versions'     => $request->param('versions')
     );
     $submission['edit_data'] = $edit_data;

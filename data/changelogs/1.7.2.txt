@@ -1,3 +1,6 @@
+(January/05/2014)
+	+Added "Spy Mod"
+
 (January/04/2014)
 	*Updated "Harder Peaceful" info: Now "Forge Required"
 	+Added "Extractination"
