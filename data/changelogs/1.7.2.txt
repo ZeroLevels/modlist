@@ -1,4 +1,5 @@
 (January/05/2014)
+	*Updated "Simple Recipes" info: Added source
 	+Added "Spy Mod"
 
 (January/04/2014)
