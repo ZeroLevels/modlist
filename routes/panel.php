@@ -279,6 +279,24 @@ $this->respond('GET', '/[submission|submission-all:hidden]', function ($request,
 });
 
 /*
+ * panel/submission
+ * Fixes submission formatting
+ * @return page
+ */
+
+$this->respond('GET', '/quickfix', function ($request, $response, $service, $app) {
+    $submission_list = $service->submissions;
+    foreach($submission_list as &$sub) {
+        if(isset($sub['authors'])) {
+            $sub['author'] = $sub['authors'];
+            unset($sub['authors']);
+        }
+    }
+    $encoded_data = json_encode($submission_list, JSON_UNESCAPED_SLASHES);
+    file_put_contents('data/submissions.json', $encoded_data);
+});
+
+/*
  * panel/submission/1234
  * Submission page for specific request
  * @return page
