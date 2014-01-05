@@ -369,7 +369,7 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
     $mail->addReplyTo(GMAIL_USER, GMAIL_NAME);
     
     //Load e-mails to send to
-    $users_cache = 'data/cache/users.json';
+    $users_cache = 'data/users.json';
     if(file_exists($users_cache)) {
         $users = json_decode(file_get_contents($users_cache), 1);
         foreach($users as $user) {
