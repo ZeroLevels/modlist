@@ -311,7 +311,6 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
     $service->validateParam('request-type','submission')->notNull();
     $service->validateParam('name','submission')->notNull();
     $service->validateParam('versions','submission')->notNull();
-    $service->validateParam('source','submission')->isUrl();
     $service->validateParam('nothuman','robot')->null();
     
     if($request->param('request-type') === 'new') {
