@@ -260,6 +260,7 @@ $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, 
         return $notfound($request, $response, $service, $app);
     }
     $changelog = file_get_contents($file);
+    $service->title = $request->param('version') . ' Changelog';
     $service->render('html/changelog/log.phtml', array('changelog' => $changelog));
 });
 
