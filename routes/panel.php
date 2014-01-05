@@ -145,11 +145,12 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
         
         $users = array();
         
-        $users_cache = 'data/cache/users.json';
+        $users_cache = 'data/users.json';
         
-        if(file_exists($users_cache)) {
-            $users = json_decode(file_get_contents($users_cache), 1);
+        if(!file_exists($users_cache)) {
+            copy('data/cache/users.json',$users_cache);
         }
+        $users = json_decode(file_get_contents($users_cache), 1);
         
         if(!isset($users[$access_token])) {
             //New user - build request again
