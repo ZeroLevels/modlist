@@ -20,7 +20,10 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
         if($err_msg === 'robot') {
             //TODO: Log and blacklist spambot IPs
         }
-        if($err_msg !== 'api') {
+        if($err_msg === 'submission') {
+            $klein->response()->redirect('/submit/incomplete');
+        }
+        if($err_msg !== 'api' && $err_msg !== 'submission') {
             $klein->service()->back();
         }
     });
@@ -290,7 +293,7 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
  * Submission Form
  * @return page
  */
-$klein->respond('GET', '/submit/[form|failed|success:state]', function ($request, $response, $service, $app) {
+$klein->respond('GET', '/submit/[form|failed|success|incomplete:state]', function ($request, $response, $service, $app) {
     $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
             "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
             "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
@@ -304,23 +307,20 @@ $klein->respond('GET', '/submit/[form|failed|success:state]', function ($request
  * @return redirect
  */
 
-$klein->respond('POST', '/submit/complete', function ($request, $response, $service, $app) use ($klein) {    
-    //TODO: Fix Validate submission
-    /*
-    $service->validateParam('request-type')->notNull();
-    $service->validateParam('name')->notNull();
-    $service->validateParam('versions')->notNull();
-    $service->validateParam('source')->isUrl();
+$klein->respond('POST', '/submit/complete', function ($request, $response, $service, $app) use ($klein) {
+    $service->validateParam('request-type','submission')->notNull();
+    $service->validateParam('name','submission')->notNull();
+    $service->validateParam('versions','submission')->notNull();
+    $service->validateParam('source','submission')->isUrl();
     $service->validateParam('nothuman','robot')->null();
     
     if($request->param('request-type') === 'new') {
-        $service->validateParam('link')->notNull()->isUrl();
-        $service->validateParam('desc')->notNull();
-        $service->validateParam('authors')->notNull();
-        $service->validateParam('forge')->notNull();
-        $service->validateParam('availability')->notNull();
+        $service->validateParam('link','submission')->notNull()->isUrl();
+        $service->validateParam('desc','submission')->notNull();
+        $service->validateParam('authors','submission')->notNull();
+        $service->validateParam('forge','submission')->notNull();
+        $service->validateParam('availability','submission')->notNull();
     }
-    */
     
     //Read existing submissions and add new one
     $submissions = 'data/submissions.json';
