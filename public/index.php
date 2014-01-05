@@ -334,7 +334,7 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
         'name'          => $request->param('name'),
         'link'          => $request->param('link',null),
         'desc'          => $request->param('desc',null),
-        'authors'       => $request->param('authors',null),
+        'author'        => $request->param('authors',null),
         'source'        => $request->param('source'),
         'compatibility' => $request->param('forge',null),
         'availability'  => $request->param('availability',null),
