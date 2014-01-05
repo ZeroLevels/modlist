@@ -2,6 +2,8 @@
 
 date_default_timezone_set('UTC');
 
+chdir('..');
+
 require_once 'vendor/autoload.php';
 require_once 'helpers/mods.php';
 require_once 'data/config.php';
