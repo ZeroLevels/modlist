@@ -15,7 +15,7 @@
     <strong>Name:</strong> <?php echo safehtml($this->mod['name']); ?><br>
     <strong>Source:</strong> <a href="<?php echo safehtml($this->mod['source']); ?>"><?php echo safehtml($this->mod['source']); ?></a><br>
     <?php if($this->mod['mode'] === 'New Mod') { ?>
-    <strong>Author(s):</strong> <?php echo safehtml($this->mod['authors']); ?><br>
+    <strong>Author(s):</strong> <?php echo safehtml($this->mod['author']); ?><br>
     <strong>Link:</strong> <a href="<?php echo safehtml($this->mod['link']); ?>"><?php echo safehtml($this->mod['link']); ?></a><br>
     <strong>Availability:</strong> <?php echo safehtml(implode('', $this->mod['availability'])); ?><br>
     <strong>Compatibility:</strong> <?php echo safehtml($this->mod['compatibility']); ?><br>
