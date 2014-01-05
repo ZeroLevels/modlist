@@ -297,7 +297,7 @@ $this->respond('GET', '/submission/download', function ($request, $response, $se
  */
 
 $this->respond('GET', '/submission/[*:id]', function ($request, $response, $service, $app) {
-    if($request->param('id') !== 'download') {
+    if($request->param('id') === 'download') {
         return;
     }
     if(!$service->permissions->canAccess('panel.submission.view')) {
