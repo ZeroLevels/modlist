@@ -2,10 +2,12 @@
   <h1>Mod submissions<br /><small>Submitted mods in queue</small></h1>
   <a class="btn btn-primary" href="submit/form">Submit a mod</a>
 </div>
+<?php if($this->amount['total'] > 0) { ?>
 <div class="progress">
     <div class="progress-bar" style="width: <?php echo $this->amount['update']/$this->amount['total']*100; ?>%" data-title="<?php echo $this->amount['update']; ?> mod updates completed"></div>
     <div class="progress-bar progress-bar-info" style="width: <?php echo $this->amount['new']/$this->amount['total']*100; ?>%" data-title="<?php echo $this->amount['new']; ?> new mods completed"></div>
 </div>
+<?php } ?>
 <div class="input-group hidden-print">
     <span class="input-group-addon"><i class="fa fa-search"></i><span class="sr-only">Search</span></span>
     <input type="text" id="search" class="form-control" placeholder="Type to search queue" autofocus />
