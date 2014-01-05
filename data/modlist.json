@@ -13679,6 +13679,7 @@
 "link":"http://bit.ly/1kiEwuN",
 "desc":"Allows players to use a custom player model in-game.",
 "author":["cazzar"],
+"source":"https://github.com/cazzar/VoxelPlayerModels/",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
