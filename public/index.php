@@ -322,13 +322,19 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
         $service->validateParam('availability','submission')->notNull();
     }
     
+    $id = 0;
     //Read existing submissions and add new one
     $submissions = 'data/submissions.json';
-    $submissions_data = json_decode(file_get_contents($submissions), true);
-    $last_submission = end($submissions_data);
+    if(file_exists($submissions)) {
+        $submissions_data = json_decode(file_get_contents($submissions), true);
+        if(count($submissions_data) > 0) {
+            $last_submission = end($submissions_data);
+            $id = $last_submission['id'] + 1;
+        }
+    }
     
     $mod = array(
-        'id'            => $last_submission['id'] + 1,
+        'id'            => $id,
         'timestamp'     => time(),
         'mode'          => $request->param('request-type') === 'new' ? 'New Mod' : 'Update Request',
         'name'          => $request->param('name'),
