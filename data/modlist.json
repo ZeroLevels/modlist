@@ -11117,6 +11117,7 @@
 "link":"http://bit.ly/1d6dfb9",
 "desc":"Adds new crafting recipes for vanilla items.",
 "author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/SimpleRecipes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
