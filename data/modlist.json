@@ -4479,27 +4479,6 @@
 
 },{
 
-"name":"Extractination",
-"other":"(Experimental)",
-"link":"http://bit.ly/KoHoXc",
-"desc":"Transforms less useful resources into more useful ones using an Ore Extractinator.",
-"author":["Abcdmult","ga2mer"],
-"type":["SSP"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.2"]
-
-},{
-
-"name":"Extractination",
-"link":"http://bit.ly/KoHoXc",
-"desc":"Transforms less useful resources into more useful ones using an Ore Extractinator.",
-"author":["Abcdmult"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
 "name":"Extra Bees",
 "link":"http://bit.ly/13J9i4K",
 "desc":"",
@@ -4550,6 +4529,27 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.5.2","1.6.1","1.6.2","1.6.4"]
+
+},{
+
+"name":"Extractination",
+"link":"http://bit.ly/KoHoXc",
+"desc":"Transforms less useful resources into more useful ones using an Ore Extractinator.",
+"author":["Abcdmult"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Extractination",
+"other":"(Experimental)",
+"link":"http://bit.ly/KoHoXc",
+"desc":"Transforms less useful resources into more useful ones using an Ore Extractinator.",
+"author":["Abcdmult","ga2mer"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
 
 },{
 
@@ -13642,6 +13642,16 @@
 },{
 
 "name":"VoxelCam",
+"link":"http://bit.ly/GZrktd",
+"desc":"Integration with vanilla screenshots, allowing you to take screenshots normally with F2.  In-game screenshot manager with GUI, and the ability to take HUGE screenshots like back in early Beta.",
+"author":["Thatapplefreak"],
+"type":["Client"],
+"dependencies":["LiteLoader","Forge Compatible"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"VoxelCam",
 "other":"(Snapshot)",
 "link":"http://bit.ly/GZrktd",
 "desc":"Snapshot release - may be buggy. Integration with vanilla screenshots, allowing you to take screenshots normally with F2.  In-game screenshot manager with GUI, and the ability to take HUGE screenshots like back in early Beta.",
@@ -13649,15 +13659,6 @@
 "type":["Client"],
 "dependencies":["LiteLoader","Forge Compatible"],
 "versions":["1.7.2"]
-
-},{
-"name":"VoxelCam",
-"link":"http://bit.ly/GZrktd",
-"desc":"Integration with vanilla screenshots, allowing you to take screenshots normally with F2.  In-game screenshot manager with GUI, and the ability to take HUGE screenshots like back in early Beta.",
-"author":["Thatapplefreak"],
-"type":["Client"],
-"dependencies":["LiteLoader","Forge Compatible"],
-"versions":["1.6.4"]
 
 },{
 
