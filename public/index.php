@@ -31,6 +31,11 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     $modlist_mtime = filemtime('data/modlist.json');
     $modlist_cache = 'data/cache/' . $modlist_mtime . '.json';
     if(!file_exists($modlist_cache)) {
+        //Clear cache folder
+        $obsolete = glob('data/cache/*');
+        array_map('unlink',$obsolete);
+        
+        //Start saving new cache
         $mod_list = json_decode(file_get_contents('data/modlist.json'), 1);
         $versions = array();
         $versions_count = array();
