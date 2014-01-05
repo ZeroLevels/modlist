@@ -18,6 +18,11 @@ TODO: alerts
     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
     <strong>Uh oh!</strong> Something went wrong on our side. Please notify us about this problem.
 </div>
+<?php } elseif('incomplete' === $this->state) { ?>
+<div class="alert alert-dismissable alert-danger">
+    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+    <strong>Uh oh!</strong> You haven't filled out all the required fields!
+</div>
 <?php } ?>
 <form role="form" method="POST" action="complete">
     <div class="form-group">
