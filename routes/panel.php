@@ -2,6 +2,7 @@
 session_start();
 
 require_once 'helpers/permissions.php';
+require_once 'helpers/bitly.php';
 
 /*
  * Attach layout and load submissions for usage
@@ -529,16 +530,9 @@ $this->respond('GET', '/bitly/save', function ($request, $response, $service, $a
         $response->body('');
         return;
     }
-
-    //Submit data to Bit.ly API
-    $json_data = json_decode(file_get_contents(
-            'https://api-ssl.bitly.com/v3/shorten?access_token=' . BITLY_TOKEN .
-            '&longUrl=' . urlencode($request->param('link'))
-            , false), true);
     
-    $output['link'] = $json_data['data']['url'];
+    $output = \Modlist\bitly::shorten($request->param('link'));
     
-    //Show data
     $response->body(json_encode($output, JSON_UNESCAPED_SLASHES));
 });
 
@@ -557,22 +551,7 @@ $this->respond('GET', '/bitly/info', function ($request, $response, $service, $a
         return;
     }
 
-    //Request info from Bit.ly API
-    $info = json_decode(file_get_contents(
-            'https://api-ssl.bitly.com/v3/info?access_token=' . BITLY_TOKEN .
-            '&shortUrl=' . urlencode($request->param('link'))
-            , false), true);
+    $output = \Modlist\bitly::expand($request->param('link'));
     
-    $output['title'] = $info['data']['info'][0]['title'];
-    
-    //Request expanded URL from Bit.ly API
-    $expand = json_decode(file_get_contents(
-            'https://api-ssl.bitly.com/v3/expand?access_token=' . BITLY_TOKEN .
-            '&shortUrl=' . urlencode($request->param('link'))
-            , false), true);
-    
-    $output['link'] = $expand['data']['expand'][0]['long_url'];
-    
-    //Show data
     $response->body(json_encode($output, JSON_UNESCAPED_SLASHES));
 });
