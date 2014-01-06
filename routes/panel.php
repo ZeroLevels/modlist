@@ -238,9 +238,13 @@ $this->respond('GET', '/home', function ($request, $response, $service, $app) {
     $missing = json_decode(file_get_contents('data/404.json'), true);
     arsort($missing);
     
+    $userlist = json_decode(file_get_contents('data/users.json'), true);
+    arsort($userlist);
+    
     $service->render('html/panel/home.phtml', array(
-        'recent'  => $recent_list,
-        'missing' => array_slice($missing,0,10,true)
+        'recent'   => $recent_list,
+        'missing'  => array_slice($missing,0,10,true),
+        'userlist' => array_slice($userlist,0,10,true)
     ));
 });
 

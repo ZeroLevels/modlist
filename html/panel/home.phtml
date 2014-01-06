@@ -48,4 +48,23 @@
         </div>
     </div>
     <?php } ?>
+    <?php if($this->permissions->canAccess('panel.home.userlist')) { ?>
+    <div class="col-sm-6 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Recently Registered</h3>
+            </div>
+            <div class="panel-body">
+                <?php foreach($this->userlist as $user) { ?>
+                <span><?= $user['user'] ?></span>
+                <time class="pull-right"
+                      datetime="<?php echo date('c',$user['registered']); ?>"
+                      title="<?php echo date('M j, Y g:i A',$user['registered']); ?>">
+                    <?php echo time_ago($user['registered']); ?> ago
+                </time>
+                <?php } ?>
+            </div>
+        </div>
+    </div>
+    <?php } ?>
 </div>
