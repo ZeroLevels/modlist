@@ -8,6 +8,7 @@ namespace Modlist;
 /**
  * Permission handler for the modlist panel
  * 
+ * @author GrygrFlzr
  * @package Modlist
  */
 class Permissions {
