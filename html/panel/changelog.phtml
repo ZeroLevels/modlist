@@ -1,0 +1,5 @@
+<?php foreach($this->changes as $version => $changes) { ?>
+<h3><?=$version?></h3>
+<pre>(<?=date('F/d/Y',time())?>)
+<?=implode("\r\n",$changes)?></pre>
+<?php } ?>
