@@ -499,6 +499,114 @@ $this->respond('GET', '/queue/[download|render:type]', function ($request, $resp
 });
 
 /*
+ * panel/queue/changelog
+ * Generate/add to a changelog based on the queue
+ * @return page
+ */
+
+$this->respond('GET', '/queue/changelog', function ($request, $response, $service, $app) {
+    //TODO: REFACTOR. Surely there's a much simpler way to do this?
+    //TODO: JSON changelog
+    $queue     = array();
+    $changelog = array(
+        'added'   => array(),
+        'updated' => array()
+    );
+    $diffs     = array(
+        'link'         => 'special',
+        'desc'         => 'special',
+        'source'       => 'normal',
+        'dependencies' => 'normal',
+        'type'         => 'normal'
+    );
+    
+    foreach(array_reverse($service->submissions) as $sub) {
+        if(!isset($sub['complete']) && isset($sub['queued'])) {
+            $mod = $sub['edit_data'];
+            if($mod['mode'] === 'New Mod') {
+                foreach($mod['versions'] as $version) {
+                    $changelog['added'][$version][] = $mod;
+                }
+            } else {
+                $queue[] = $mod;
+            }
+        }
+    }
+    
+    $modlist = json_decode(file_get_contents('data/modlist.json'), true);
+    foreach($modlist as $mod) {
+        if(isset($queue[$mod['name']])) {
+            $new_data = $queue[$mod['name']];
+            if($mod['author'] === $new_data['author']) {
+                foreach($new_data['versions'] as $version) {
+                    if(in_array($version, $mod['versions'])) {
+                        foreach($diffs as $diff => $type) {
+                            if($mod[$diff] !== $new_data[$diff]) {
+                                $mod['changes'][$type][] = $diff;
+                            }
+                        }
+                        $changelog['updated'][$version][] = $mod;
+                    } else {
+                        $changelog['added'][$version][] = $mod;
+                    }
+                }
+            }
+        }
+    }
+    
+    $changetext = array();
+    foreach($changelog['updated'] as $version => $mods) {
+        foreach($mods as $mod) {
+            $text = "\t*" . 'Updated "' . $mod['name'] . '"';
+            if(isset($mod['changes']['special'])) {
+                if(isset($mod['changes']['normal'])) {
+                    array_unshift($mod['changes']['special'], 'info');
+                }
+                $special = $mod['changes']['special'];
+                switch(count($special)) {
+                    case 1:
+                        $text .= ' ' . $special[0];
+                        break;
+                    case 2:
+                        $text .= ' ' . $special[0] . ' and ' . $special[1];
+                        break;
+                    case 3:
+                        $text .= ' ' . $special[0] . ', ' . $special[1] . ' and ' . $special[2];
+                        break;
+                }
+            }
+            if(isset($mod['changes']['normal'])) {
+                $text .= ': ';
+                $changes = array();
+                foreach($mod['changes']['normal'] as $change) {
+                    if($change === 'source') {
+                        $changes[] = 'Updated source';
+                    }
+                    if($change === 'dependencies') {
+                        $changes[] = 'Now "' . $mod['dependencies'][0] . '"';
+                    }
+                    if($change === 'type') {
+                        $changes[] = 'Now "' . implode(', ',$mod['type']) . '"';
+                    }
+                }
+                $text .= implode(', ', $changes);
+            }
+            $changetext[$version][] = $text;
+        }
+    }
+    foreach($changelog['added'] as $version => $mods) {
+        foreach($mods as $mod) {
+            $text = "\t+" . 'Added "' . $mod['name'] . '"';
+            $changetext[$version][] = $text;
+        }
+    }
+    
+    $service->render('html/panel/changelog.phtml', array(
+        'changes' => $changetext
+    ));
+});
+
+/*
  * panel/queue/complete
  * Mark queue as complete
  * @return redirect
