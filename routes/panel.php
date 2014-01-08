@@ -545,21 +545,21 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
                     if(in_array($version, $mod['versions'])) {
                         if(isset($new_data['source'])) {
                             if(!isset($mod['source'])) {
-                                $mod['changes']['normal'][] = 'newsource';
-                                $mod['changes']['normal'][] = 'source';
+                                $new_data['changes']['normal'][] = 'newsource';
+                                $new_data['changes']['normal'][] = 'source';
                             } elseif($mod['source'] !== $new_data['source']) {
-                                $mod['changes']['normal'][] = 'source';
+                                $new_data['changes']['normal'][] = 'source';
                             }
                         }
                         foreach($diffs as $diff => $type) {
                             if($mod[$diff] !== $new_data[$diff]) {
-                                $mod['changes'][$type][] = $diff;
+                                $new_data['changes'][$type][] = $diff;
                             }
                         }
                         
-                        $changelog['updated'][$version][$mod['name']] = $mod;
+                        $changelog['updated'][$version][$mod['name']] = $new_data;
                     } else {
-                        $changelog['added'][$version][$mod['name']] = $mod;
+                        $changelog['added'][$version][$mod['name']] = $new_data;
                     }
                     ksort($changelog['updated'][$version]);
                     ksort($changelog['added'][$version]);
