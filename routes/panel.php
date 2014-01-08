@@ -528,7 +528,7 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
                     $changelog['added'][$version][] = $mod;
                 }
             } else {
-                $queue[] = $mod;
+                $queue[$mod['name']] = $mod;
             }
         }
     }
@@ -545,10 +545,15 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
                                 $mod['changes'][$type][] = $diff;
                             }
                         }
-                        $changelog['updated'][$version][] = $mod;
+                        if(!isset($mod['source'])) {
+                            $mod['changes']['normal'][] = 'newsource';
+                        }
+                        $changelog['updated'][$version][$mod['name']] = $mod;
                     } else {
-                        $changelog['added'][$version][] = $mod;
+                        $changelog['added'][$version][$mod['name']] = $mod;
                     }
+                    ksort($changelog['updated'][$version]);
+                    ksort($changelog['added'][$version]);
                 }
             }
         }
@@ -562,7 +567,7 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
                 if(isset($mod['changes']['normal'])) {
                     array_unshift($mod['changes']['special'], 'info');
                 }
-                $special = $mod['changes']['special'];
+                $special = array_unique($mod['changes']['special']);
                 switch(count($special)) {
                     case 1:
                         $text .= ' ' . $special[0];
@@ -578,16 +583,16 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
             if(isset($mod['changes']['normal'])) {
                 $text .= ': ';
                 $changes = array();
-                foreach($mod['changes']['normal'] as $change) {
-                    if($change === 'source') {
-                        $changes[] = 'Updated source';
-                    }
-                    if($change === 'dependencies') {
-                        $changes[] = 'Now "' . $mod['dependencies'][0] . '"';
-                    }
-                    if($change === 'type') {
-                        $changes[] = 'Now "' . implode(', ',$mod['type']) . '"';
-                    }
+                if(in_array('newsource',$mod['changes']['normal'],true)) {
+                    $changes[] = 'Added source';
+                } elseif(in_array('source',$mod['changes']['normal'],true)) {
+                    $changes[] = 'Updated source';
+                }
+                if(in_array('dependencies',$mod['changes']['normal'],true)) {
+                    $changes[] = 'Now "' . $mod['dependencies'][0] . '"';
+                }
+                if(in_array('type',$mod['changes']['normal'],true)) {
+                    $changes[] = 'Now "' . implode(', ',$mod['type']) . '"';
                 }
                 $text .= implode(', ', $changes);
             }
@@ -600,6 +605,8 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
             $changetext[$version][] = $text;
         }
     }
+    
+    krsort($changetext);
     
     $service->render('html/panel/changelog.phtml', array(
         'changes' => $changetext
