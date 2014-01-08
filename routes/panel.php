@@ -515,7 +515,6 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
     $diffs     = array(
         'link'         => 'special',
         'desc'         => 'special',
-        'source'       => 'normal',
         'dependencies' => 'normal',
         'type'         => 'normal'
     );
@@ -540,14 +539,20 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
             if($mod['author'] === $new_data['author']) {
                 foreach($new_data['versions'] as $version) {
                     if(in_array($version, $mod['versions'])) {
+                        if(isset($new_data['source'])) {
+                            if(!isset($mod['source'])) {
+                                $mod['changes']['normal'][] = 'newsource';
+                                $mod['changes']['normal'][] = 'source';
+                            } elseif($mod['source'] !== $new_data['source']) {
+                                $mod['changes']['normal'][] = 'source';
+                            }
+                        }
                         foreach($diffs as $diff => $type) {
                             if($mod[$diff] !== $new_data[$diff]) {
                                 $mod['changes'][$type][] = $diff;
                             }
                         }
-                        if(!isset($mod['source'])) {
-                            $mod['changes']['normal'][] = 'newsource';
-                        }
+                        
                         $changelog['updated'][$version][$mod['name']] = $mod;
                     } else {
                         $changelog['added'][$version][$mod['name']] = $mod;
