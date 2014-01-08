@@ -239,7 +239,11 @@ $this->respond('GET', '/home', function ($request, $response, $service, $app) {
     arsort($missing);
     
     $userlist = json_decode(file_get_contents('data/users.json'), true);
-    arsort($userlist);
+    $registered = array();
+    foreach($userlist as $user) {
+        $registered[] = $user['registered'];
+    }
+    array_multisort($registered, SORT_DESC, $userlist);
     
     $service->render('html/panel/home.phtml', array(
         'recent'   => $recent_list,
