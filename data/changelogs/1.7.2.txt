@@ -1,6 +1,7 @@
 (January/08/2014)
-	+Added "Craftable Horse Armor"
-	+Added "SKC Core"
+	+Added 2 mods by "SackCastellon" (Which are the following)
+		+Added "Craftable Horse Armor"
+		+Added "SKC Core"
 	+Added "World Downloader"
 	+Added "Yet Another Food Mod"
 

@@ -1,6 +1,7 @@
 (January/08/2014)
-	*Updated "Craftable Horse Armor" info and description: Added source
-	*Updated "SKC Core" info and description: Added source
+	*Updated 2 mods by "SackCastellon" (Which are the following)
+		*Updated "Craftable Horse Armor" info and description: Added source
+		*Updated "SKC Core" info and description: Added source
 	+Added "Artifice"
 	+Added "Custom NPCs"
 	+Added "Jabermony's Circuit Mod"
