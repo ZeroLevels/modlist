@@ -1,3 +1,9 @@
+(January/08/2014)
+	*Updated "Custom NPCs": Added source
+	+Added "Artifice"
+	+Added "THX Helicopter"
+	+Added "World Downloader"
+
 (July/16/2013)
 	*Updated "Biomes O' Plenty" info: Added source
 
