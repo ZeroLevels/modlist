@@ -4168,11 +4168,11 @@
 
 "name":"Endermen Don't Pick Up Blocks Mod",
 "link":"http://bit.ly/13vszGc",
-"desc":"Disables the Enderman's ability to pickup blocks as well as a few other small mods that modify enderman.",
+"desc":"Disables the endermen's ability to pick up blocks as well as a few other small mods that modify endermen.",
 "author":["Jeffrey6978"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.5.1","1.6.1","1.6.2","1.6.4","1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.1","1.4.7"]
 
 },{
 
@@ -9052,7 +9052,7 @@
 "versions":["1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
-    
+
 "name":"MumbleLink",
 "link":"http://bit.ly/UR753N",
 "desc":"A client-side Mod so that Minecraft now natively supports Mumble's positional audio feature.",

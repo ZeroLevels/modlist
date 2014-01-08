@@ -2,6 +2,7 @@
 	*Updated "BetterFonts" author: Now "thvortex", "Suzutsuki"
 	*Updated "Craftable Horse Armor" info and desc: Added source
 	*Updated "Custom NPCs": Added source
+	*Updated "Endermen Don't Pick Up Blocks Mod" description
 	*Updated "MumbleLink": Now "Forge Required"
 	*Updated "SKC Core" info and desc: Added source
 	+Added "Ages of Mystcraft"
