@@ -135,6 +135,16 @@
 
 },{
 
+"name":"Ages of Mystcraft",
+"link":"http://bit.ly/17lokjC",
+"desc":"Adds new symbols to Mystcraft.",
+"author":["Veovis Muad'dib"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+
+},{
+
 "name":"AlcheMine",
 "link":"http://bit.ly/XO00jm",
 "desc":"Introduces a different approach to alchemy. Who says you need all those big fancy machines and special super rare items to accomplish big feats of magic?",
@@ -485,6 +495,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Artifice",
+"link":"http://bit.ly/1cgVjFs",
+"desc":"Adds worldgen (like flowers, marble, and basalt), new blocks (like scaffolding), and new items (sh as storage boxes).",
+"author":["Shukaro"],
+"source":"https://github.com/Shukaro/Artifice",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -2811,11 +2832,12 @@
 
 "name":"Craftable Horse Armor",
 "link":"http://bit.ly/16Q0QSe",
-"desc":"Allows you to craft the Saddle and the Horse Armor.",
+"desc":"Adds crafting recipes for horse armour",
 "author":["SackCastellon"],
+"source":"https://github.com/SackCastellon/CraftableHorseArmor",
 "type":["Universal"],
 "dependencies":["Forge Required","SKC Core"],
-"versions":["1.6.1","1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -3206,7 +3228,7 @@
 "author":["Noppes"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.3.2","1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -6837,6 +6859,16 @@
 
 },{
 
+"name":"Jabermony's Circuit Mod",
+"link":"http://bit.ly/1f0050O",
+"desc":"Adds a new block in which redstone circuits can be created INSIDE of the block in a system resembling a flow chart or circuit diagram.  Does not add individual gate blocks (a common misunderstanding) but instead allows users to build circuits within a single block, in a similar style to creating normal redstone circuits.",
+"author":["jabermony"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Jaffas and More!",
 "link":"http://bit.ly/SzK6fl",
 "desc":"Adds fruit trees, plants, challenging crafting chains as well as simpler starter foods, machines and kitchen appliences, ducks, some armour and tools, homestones, lightnning rods, and over 70 different new foods!",
@@ -8295,6 +8327,16 @@
 
 },{
 
+"name":"Mo' Creatures",
+"link":"http://bit.ly/UvyxRJ",
+"desc":"Adds many, many creatures to the game.  Also works in 1.6.4.",
+"author":["DrZhark"],
+"type":["Universal"],
+"dependencies":["Forge Required","GuiAPI","Custom Mob Spawner"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+
+},{
+
 "name":"ModLoader",
 "other":"(API)",
 "link":"http://bit.ly/WnSwBj",
@@ -9535,7 +9577,7 @@
 "source":"https://github.com/OpenMods/OpenBlocks",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.6.4","1.5.2"]
 
 },{
 
@@ -10991,6 +11033,16 @@
 
 },{
 
+"name":"Shoulder Surfing",
+"link":"http://bit.ly/17g1KG2",
+"desc":"Replaces the default third person behind-the-body view (F5 key) with a more traditional \"over the shoulder\" view inspired by Capcom's \"Resident Evil 4\".",
+"author":["Sabar"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Show Durability",
 "link":"http://bit.ly/VFM4d2",
 "desc":"Makes any item (that has it) display its durability below its name whenever you mouse-over it. Thats it, nothing more.",
@@ -11114,6 +11166,16 @@
 },{
 
 "name":"Simple Recipes",
+"link":"http://bit.ly/VFL2O4",
+"desc":"Adds several crafting and smelting recipes to the game.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.4.7","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Simple Recipes",
 "link":"http://bit.ly/1d6dfb9",
 "desc":"Adds new crafting recipes for vanilla items.",
 "author":["wuppy21"],
@@ -11121,16 +11183,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
-
-},{
-
-"name":"Simple Recipes",
-"link":"http://bit.ly/VFL2O4",
-"desc":"Adds several crafting and smelting recipes to the game.",
-"author":["MatrexsVigil"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.2","1.6.2","1.6.4"]
 
 },{
 
@@ -11198,11 +11250,12 @@
 "name":"SKC Core",
 "other":"(Dependency)",
 "link":"http://bit.ly/18mAMyj",
-"desc":"Required Dependency for SackCastellon's mods",
+"desc":"Required Dependency for SackCastellon's mods.",
 "author":["SackCastellon"],
+"source":"https://github.com/SackCastellon/SKC-Core",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -12789,6 +12842,17 @@
 
 },{
 
+"name":"THX Helicopter",
+"link":"http://bit.ly/VOSO91",
+"desc":"Allows you to craft a helicopter to fly about the game.",
+"author":["Theoxylo"],
+"source":"https://github.com/theoxylo/minecraft_mod_thx",
+"type":["SSP","LAN"],
+"dependencies":["Forge Compatible"],
+"versions":["1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
 "name":"Ticks Per Second",
 "link":"http://bit.ly/ZOWg1s",
 "desc":"",
@@ -13076,11 +13140,11 @@
 
 "name":"Tropicraft",
 "link":"http://bit.ly/10865gJ",
-"desc":"",
+"desc":"Adds a new dimension centered around tropical biomes and exotic creatures.  The ultimate vacation from the overworld with its own adventures and dangers.",
 "author":["Cojomax99"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.5","1.4.7"]
+"versions":["1.6.4","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -13958,6 +14022,16 @@
 
 },{
 
+"name":"World Downloader",
+"link":"http://bit.ly/Wo8dJd",
+"desc":"Saves active chunks in multiplayer servers so they can be played in single player.",
+"author":["cubic72"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
 "name":"WorldEdit",
 "link":"http://bit.ly/ZLk1fs",
 "desc":"",
@@ -14129,6 +14203,18 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.4.7","1.5.1"]
+
+},{
+
+"name":"Yet Another Food Mod",
+"other":"(YAFM)",
+"link":"http://bit.ly/1cXpx44",
+"desc":"Adds a few more food items that felt like they were missing from the base game: Mutton (sheep), squid, and fried eggs.",
+"author":["airbreather","skidznet"],
+"source":"https://github.com/airbreather/YAFM",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 

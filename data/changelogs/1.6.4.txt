@@ -1,3 +1,17 @@
+(January/08/2014)
+	*Updated 2 mods by "SackCastellon" (Which are the following)
+		*Updated "Craftable Horse Armor" info and description: Added source
+		*Updated "SKC Core" info and description: Added source
+	+Added "Artifice"
+	+Added "Custom NPCs"
+	+Added "Jabermony's Circuit Mod"
+	+Added "Mo' Creatures"
+	+Added "OpenBlocks"
+	+Added "Shoulder Surfing"
+	+Added "Tropicraft"
+	+Added "World Downloader"
+	+Added "Yet Another Food Mod"
+
 (January/04/2014)
 	*Updated 2 mods by Wuppy (Which are the following)
 		*Updated "Harder Peaceful" info: Now "Forge Required"

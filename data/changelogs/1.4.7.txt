@@ -1,3 +1,11 @@
+(January/08/2014)
+	*Updated "Custom NPCs": Added source
+	*Updated "Tropicraft" info and desc: Added source, Now "Universal"
+	+Added "Ages of Mystcraft"
+	+Added "Mo' Creatures"
+	+Added "THX Helicopter"
+	+Added "World Downloader"
+
 (July/16/2013)
 	*Updated "Biomes O' Plenty" info: Added source
 
@@ -342,7 +350,7 @@
 		+Added "Mob Dismemberment"
 		+Added "Pig Grinder"
 		+Added "PortalGun"
-		+Added "Slender – Reimagined"
+		+Added "Slender ï¿½ Reimagined"
 	-Removed "CubeX2's Mods" (Replaced with the following 5 mods)
 		+Added "Custom Stuff 2"
 		+Added "Multi Page Chest"
@@ -589,7 +597,7 @@
 	+Added Inventory Tweaks
 	+Added MAtmos
 	+Added Metallurgy 2
-	+Added Millénaire
+	+Added Millï¿½naire
 	+Added Minecraft Comes Alive
 	+Added Mo' Food and Crops
 	+Added More Fences Mod

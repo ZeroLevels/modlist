@@ -1,3 +1,9 @@
+(January/08/2014)
+	*Updated "Custom NPCs": Added source
+	*Updated "Tropicraft" info and desc: Added source, Now "Universal"
+	+Added "Mo' Creatures"
+	+Added "World Downloader"
+
 (July/16/2013)
 	*Updated "Biomes O' Plenty" info: Added source
 

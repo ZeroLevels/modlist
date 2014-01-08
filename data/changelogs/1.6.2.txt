@@ -1,3 +1,12 @@
+(January/08/2014)
+	*Updated "Craftable Horse Armor" info and desc: Added source
+	*Updated "Custom NPCs": Added source
+	*Updated "SKC Core" info and desc: Added source
+	+Added "Ages of Mystcraft"
+	+Added "Artifice"
+	+Added "Mo' Creatures"
+	+Added "World Downloader"
+
 (December/04/2013)
 	+Added "Arcane Crafter 2"
 	+Added "Hamsterrific Mod"
