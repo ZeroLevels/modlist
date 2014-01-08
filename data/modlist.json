@@ -976,11 +976,11 @@
 "name":"BetterFonts",
 "link":"http://bit.ly/GGBZc3",
 "desc":"Adds TrueType/OpenType font support. It will use the fonts installed on your system for drawing text instead of the built-in bitmap fonts.",
-"author":["thvortex","iSuzutsuki"],
+"author":["thvortex","Suzutsuki"],
 "source":"https://github.com/secretdataz/BetterFonts",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
