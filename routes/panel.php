@@ -407,7 +407,7 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
     $encoded_data = json_encode($submission_list, JSON_UNESCAPED_SLASHES);
     file_put_contents('data/submissions.json', $encoded_data);
     
-    $response->redirect('/panel/submission');
+    $response->redirect('/panel/submission/' . $request->param('id'));
     $response->send();
 });
 
