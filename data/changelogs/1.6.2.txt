@@ -2,6 +2,7 @@
 	*Updated "BetterFonts" author: Now "thvortex", "Suzutsuki"
 	*Updated "Craftable Horse Armor" info and desc: Added source
 	*Updated "Custom NPCs": Added source
+	*Updated "MumbleLink": Now "Forge Required"
 	*Updated "SKC Core" info and desc: Added source
 	+Added "Ages of Mystcraft"
 	+Added "Artifice"

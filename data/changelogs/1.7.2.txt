@@ -3,6 +3,7 @@
 		+Added "Craftable Horse Armor"
 		+Added "SKC Core"
 	+Added "BetterFonts"
+	+Added "MumbleLink"
 	+Added "World Downloader"
 	+Added "Yet Another Food Mod"
 
