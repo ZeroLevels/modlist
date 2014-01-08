@@ -2,6 +2,7 @@
 	*Updated 2 mods by "SackCastellon" (Which are the following)
 		*Updated "Craftable Horse Armor" info and description: Added source
 		*Updated "SKC Core" info and description: Added source
+	*Updated "BetterFonts" author: Now "thvortex", "Suzutsuki"
 	+Added "Artifice"
 	+Added "Custom NPCs"
 	+Added "Jabermony's Circuit Mod"

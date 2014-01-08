@@ -1,4 +1,5 @@
 (January/08/2014)
+	*Updated "BetterFonts" author: Now "thvortex", "Suzutsuki"
 	*Updated "Craftable Horse Armor" info and desc: Added source
 	*Updated "Custom NPCs": Added source
 	*Updated "SKC Core" info and desc: Added source
