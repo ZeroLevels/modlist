@@ -1,4 +1,5 @@
 (January/08/2014)
+	*Updated "VoxelCam" info: Added source
 	+Added 2 mods by "SackCastellon" (Which are the following)
 		+Added "Craftable Horse Armor"
 		+Added "SKC Core"

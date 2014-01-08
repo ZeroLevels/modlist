@@ -13721,8 +13721,9 @@
 "link":"http://bit.ly/GZrktd",
 "desc":"Integration with vanilla screenshots, allowing you to take screenshots normally with F2.  In-game screenshot manager with GUI, and the ability to take HUGE screenshots like back in early Beta.",
 "author":["Thatapplefreak"],
+"source":"https://github.com/thatapplefreak/VoxelCam",
 "type":["Client"],
-"dependencies":["LiteLoader","Forge Compatible"],
+"dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.6.4"]
 
 },{
@@ -13732,8 +13733,9 @@
 "link":"http://bit.ly/GZrktd",
 "desc":"Snapshot release - may be buggy. Integration with vanilla screenshots, allowing you to take screenshots normally with F2.  In-game screenshot manager with GUI, and the ability to take HUGE screenshots like back in early Beta.",
 "author":["Thatapplefreak"],
+"source":"https://github.com/thatapplefreak/VoxelCam",
 "type":["Client"],
-"dependencies":["LiteLoader","Forge Compatible"],
+"dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.2"]
 
 },{

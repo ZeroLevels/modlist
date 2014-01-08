@@ -4,6 +4,7 @@
 		*Updated "SKC Core" info and description: Added source
 	*Updated "BetterFonts" author: Now "thvortex", "Suzutsuki"
 	*Updated "MumbleLink": Now "Forge Required"
+	*Updated "VoxelCam" info: Added source
 	+Added "Artifice"
 	+Added "Custom NPCs"
 	+Added "Jabermony's Circuit Mod"
