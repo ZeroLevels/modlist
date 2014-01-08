@@ -194,6 +194,36 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
 });
 
 /*
+ * random
+ * Redirects to a random mod in the supported list
+ * @return redirect
+ */
+$klein->respond('GET', '/random', function($request, $response, $service, $app) {
+    //TODO: Use configurable json from panel
+    $supported = array('1.7.2','1.6.4','1.5.2');
+    $random = array();
+    $version_redirect = '';
+    $modlist = json_decode(file_get_contents('data/modlist.json'), true);
+    while(empty($random)) {
+        $id = mt_rand(0,count($modlist)-1);
+        $mod = $modlist[$id];
+        foreach($supported as $version) {
+            if(in_array($version,$mod['versions'])) {
+                $random = $mod;
+                $version_redirect = max($mod['versions']);
+                break;
+            }
+        }
+        if(empty($random)) {
+            unset($modlist[$id]);
+        }
+    }
+    $anchor = preg_replace("/[^0-9a-zA-Z]/i", '', strtolower($random['name']));
+    
+    $response->redirect('/version/' . $version_redirect . '#' . $anchor);
+});
+
+/*
  * list
  * Redirects to the version listing
  * @return redirect
