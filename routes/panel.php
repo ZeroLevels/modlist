@@ -55,7 +55,8 @@ $this->respond(function ($request, $response, $service, $app) {
 
 $this->respond('!@^/login', function ($request, $response, $service, $app) {
     if(!isset($_SESSION['access_token'])) {
-        $response->redirect('/panel/login');
+        $_SESSION['prev_path'] = $request->pathname();
+        $response->redirect('/panel/login/start');
         $response->send();
     }
 });
@@ -200,6 +201,7 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             file_put_contents($users_cache, $encoded_data);
         } else {
             //Load from cache - don't request to GitHub
+            $prev_path         = $_SESSION['prev_path'];
             $_SESSION          = $users[$access_token];
             $_SESSION['state'] = $request->param('state');
             
@@ -210,7 +212,11 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
         }
         
         //Redirect to home page
-        $response->redirect('/panel/home');
+        if(isset($prev_path)) {
+            $response->redirect($prev_path);
+        } else {
+            $response->redirect('/panel/home');
+        }
         $response->send();
     } else {
         //A third party has tampered with the authentication
