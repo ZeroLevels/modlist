@@ -1,5 +1,6 @@
 (January/08/2014)
 	*Updated "Custom NPCs": Added source
+	+Added "MumbleLink"
 
 (July/16/2013)
 	*Updated "Biomes O' Plenty" info: Added source
