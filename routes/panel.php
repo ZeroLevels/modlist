@@ -407,7 +407,7 @@ $this->respond('POST', '/submission/[*:id]/save', function ($request, $response,
     $encoded_data = json_encode($submission_list, JSON_UNESCAPED_SLASHES);
     file_put_contents('data/submissions.json', $encoded_data);
     
-    $response->redirect('/panel/submission');
+    $response->redirect('/panel/submission/' . $request->param('id'));
     $response->send();
 });
 
@@ -513,8 +513,8 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
     //TODO: JSON changelog
     $queue     = array();
     $changelog = array(
-        'added'   => array(),
-        'updated' => array()
+        'updated' => array(),
+        'added'   => array()
     );
     $diffs     = array(
         'link'         => 'special',
@@ -528,7 +528,7 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
             $mod = $sub['edit_data'];
             if($mod['mode'] === 'New Mod') {
                 foreach($mod['versions'] as $version) {
-                    $changelog['added'][$version][] = $mod;
+                    $changelog['added'][$version][$mod['name']] = $mod;
                 }
             } else {
                 $queue[$mod['name']] = $mod;
@@ -561,8 +561,6 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
                     } else {
                         $changelog['added'][$version][$mod['name']] = $new_data;
                     }
-                    ksort($changelog['updated'][$version]);
-                    ksort($changelog['added'][$version]);
                 }
             }
         }
@@ -570,6 +568,7 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
     
     $changetext = array();
     foreach($changelog['updated'] as $version => $mods) {
+        ksort($mods);
         foreach($mods as $mod) {
             $text = "\t*" . 'Updated "' . $mod['name'] . '"';
             if(isset($mod['changes']['special'])) {
@@ -609,6 +608,7 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
         }
     }
     foreach($changelog['added'] as $version => $mods) {
+        ksort($mods);
         foreach($mods as $mod) {
             $text = "\t+" . 'Added "' . $mod['name'] . '"';
             $changetext[$version][] = $text;
@@ -618,7 +618,8 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
     krsort($changetext);
     
     $service->render('html/panel/changelog.phtml', array(
-        'changes' => $changetext
+        'changes' => $changetext,
+        'debug' => $changelog['added']
     ));
 });
 
