@@ -604,7 +604,9 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
                 }
                 $text .= implode(', ', $changes);
             }
-            $changetext[$version][] = $text;
+            if(isset($mod['changes'])) {
+                $changetext[$version][] = $text;
+            }
         }
     }
     foreach($changelog['added'] as $version => $mods) {
