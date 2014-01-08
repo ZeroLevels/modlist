@@ -3,6 +3,7 @@
 		*Updated "Craftable Horse Armor" info and description: Added source
 		*Updated "SKC Core" info and description: Added source
 	*Updated "BetterFonts" author: Now "thvortex", "Suzutsuki"
+	*Updated "Endermen Don't Pick Up Blocks Mod" description
 	*Updated "MumbleLink": Now "Forge Required"
 	*Updated "VoxelCam" info: Added source
 	+Added "Artifice"

@@ -1,5 +1,6 @@
 (January/08/2014)
 	*Updated "Craftable Horse Armor" info and desc: Added source
+	*Updated "Endermen Don't Pick Up Blocks Mod" description
 	*Updated "MumbleLink": Now "Forge Required"
 	+Added "Ages of Mystcraft"
 	+Added "Artifice"
