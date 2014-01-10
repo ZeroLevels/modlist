@@ -1,3 +1,6 @@
+(January/10/2014)
+	+Added "Waila"
+
 (January/08/2014)
 	*Updated "Custom NPCs": Added source
 	*Updated "Endermen Don't Pick Up Blocks Mod" description
