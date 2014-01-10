@@ -5216,6 +5216,17 @@
 
 },{
 
+"name":"FortuneOres",
+"link":"http://bit.ly/1hCUxK4",
+"desc":"Iron and Gold Ores drop Iron and Gold Chunks respectively. This allows the use of the Fortune enchantment while keeping game balance. The Silk Touch enchantment will still be able to obtain ore blocks.",
+"author":["DemoXin"],
+"source":"https://github.com/DemoXinMC/FortuneOres",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+
+},{
+
 "name":"Fossils and Archeology Revival",
 "link":"http://bit.ly/ZJr4S7",
 "desc":"Adds fossils, dinosaurs, and tools for re-creating (cloning) them.",
@@ -5465,7 +5476,7 @@
 "source":"https://github.com/GrygrFlzr/GlowstoneWire",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 

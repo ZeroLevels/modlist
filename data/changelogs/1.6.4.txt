@@ -1,3 +1,6 @@
+(January/10/2014)
+	+Added "FortuneOres"
+
 (January/08/2014)
 	*Updated 2 mods by "SackCastellon" (Which are the following)
 		*Updated "Craftable Horse Armor" info and description: Added source
