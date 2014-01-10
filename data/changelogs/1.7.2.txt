@@ -1,3 +1,7 @@
+(January/10/2014)
+	+Added "FortuneOres"
+	+Added "Glowstone Wire"
+
 (January/08/2014)
 	*Updated "Endermen Don't Pick Up Blocks Mod" description
 	*Updated "VoxelCam" info: Added source
