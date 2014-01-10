@@ -1568,6 +1568,16 @@
 
 },{
 
+"name":"Buffed Tools",
+"link":"http://bit.ly/KIGdBA",
+"desc":"Adds random buffs to any tools crafted in the game with up to 43 different buffs.",
+"author":["TheDen2099"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
 "name":"Buildcraft",
 "link":"http://bit.ly/156o88k",
 "desc":"Adds machines which can be powered by engines and fuel to help build and/or dig!",
@@ -2576,6 +2586,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"[ComputerCraft] Extra Peripherals",
+"link":"http://bit.ly/KIG3u7",
+"desc":"Adds extra ComputerCraft peripherals, currently adds a Bundled Connector that allows you to interact with Project: Red cables.",
+"author":["Pzyber"],
+"source":"https://github.com/pzyber/ExtraPeripherals",
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.6.4"]
 
 },{
 
@@ -8278,6 +8299,17 @@
 
 },{
 
+"name":"MobiusCore",
+"link":"http://bit.ly/KILvx4",
+"desc":"A coremod required for some of ProfMobius' mods.",
+"author":["ProfMobius"],
+"source":"https://bitbucket.org/ProfMobius/mobiuscore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Mob Pressure Plates Mod",
 "link":"http://bit.ly/14nwTv6",
 "desc":"Adds a pressure plate for each mob. The pressure plate may only be activated by its respective mob.",
@@ -9610,6 +9642,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Opis",
+"link":"http://bit.ly/KIJII7",
+"desc":"A Minecraft Server profiler, allowing admins to find chunks and remove tile entities that slow down the server.",
+"author":["ProfMobius"],
+"source":"https://bitbucket.org/ProfMobius/opis",
+"type":["Server"],
+"dependencies":["Forge Required","MobiusCore"],
+"versions":["1.6.4"]
 
 },{
 
@@ -13769,6 +13812,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Waila",
+"other":"(What Am I Looking At)",
+"link":"http://bit.ly/1ejbq9m",
+"desc":"An extension for NEI. Shows what mod an item is from, allowing you to easily group items per mod. Capable of showing the name of blocks and mods in-game on top of your screen, including internal information of specific blocks from BuildCraft and IndustrialCraft 2.",
+"author":["ProfMobius"],
+"source":"https://bitbucket.org/ProfMobius/waila",
+"type":["Client"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 

@@ -1,5 +1,7 @@
 (January/10/2014)
+	+Added "Buffed Tools"
 	+Added "FortuneOres"
+	+Added "Waila"
 
 (January/08/2014)
 	*Updated "Craftable Horse Armor" info and desc: Added source
