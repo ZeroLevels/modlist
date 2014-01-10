@@ -1,10 +1,11 @@
 (January/10/2014)
+	+Added 3 mods by "ProfMobius" (Which are the following)
+		+Added "MobiusCore"
+		+Added "Opis"
+		+Added "Waila"
 	+Added "Buffed Tools"
 	+Added "[ComputerCraft] Extra Peripherals"
 	+Added "FortuneOres"
-	+Added "MobiusCore"
-	+Added "Opis"
-	+Added "Waila"
 
 (January/08/2014)
 	*Updated 2 mods by "SackCastellon" (Which are the following)
