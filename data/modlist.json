@@ -6940,7 +6940,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/jellycubes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -7123,7 +7123,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/koi",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -10286,6 +10286,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader Compatible"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"Presence Footsteps",
+"link":"http://bit.ly/1gV7A6W",
+"desc":"A footstep sound enhancement mod that Presence Footsteps adds new sound effects; such as jumping, landing, walking on the edge of a block and foot shuffling when coming to a stop. Includes new sound effects and variations.",
+"author":["Hurricaaane"],
+"source":"http://ha3.eu/public/mc-mods/presencefootsteps.php#license",
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2"]
 
 },{
 
