@@ -1,3 +1,6 @@
+(January/12/2014)
+	*Updated "[IndustrialCraft 2] Advanced Machines": Added source
+
 (January/08/2014)
 	*Updated "Custom NPCs": Added source
 	*Updated "Tropicraft" info and desc: Added source, Now "Universal"

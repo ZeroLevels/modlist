@@ -1,5 +1,12 @@
+(January/12/2014)
+	+Added 4 mods by AtomicStryker (Which are the following)
+		+Added "BattleTowers"
+		+Added "Dynamic Lights"
+		+Added "Finder Compass"
+		+Added "Infernal Mobs"
+
 (January/11/2014)
-	+Added 2 mods by "Wuppy" (Which are the following)
+	+Added 2 mods by Wuppy (Which are the following)
 		+Added "Jelly Cubes"
 		+Added "Koi"
 	+Added "Presence Footsteps"
@@ -11,7 +18,7 @@
 (January/08/2014)
 	*Updated "Endermen Don't Pick Up Blocks Mod" description
 	*Updated "VoxelCam" info: Added source
-	+Added 2 mods by "SackCastellon" (Which are the following)
+	+Added 2 mods by SackCastellon (Which are the following)
 		+Added "Craftable Horse Armor"
 		+Added "SKC Core"
 	+Added "BetterFonts"
