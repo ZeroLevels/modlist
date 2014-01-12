@@ -1,5 +1,22 @@
+(January/12/2014)
+	*Updated 14 mods by AtomicStryker (Which are the following)
+		*Updated "BattleTowers": Added source
+		*Updated "Dynamic Lights": Added source
+		*Updated "Finder Compass": Added source
+		*Updated "[IndustrialCraft 2] Advanced Machines": Added source
+		*Updated "Infernal Mobs": Added source
+		*Updated "KenshiroMod": Added source
+		*Updated "Magic Yarn": Added source
+		*Updated "Minions": Added source
+		*Updated "Multi Mine": Added source
+		*Updated "Pet Bat": Added source
+		*Updated "Ropes+": Added source
+		*Updated "Ruins": Added source
+		*Updated "Simply Hax": Added source
+		*Updated "Stalker Creepers": Added source
+
 (January/10/2014)
-	+Added 3 mods by "ProfMobius" (Which are the following)
+	+Added 3 mods by ProfMobius (Which are the following)
 		+Added "MobiusCore"
 		+Added "Opis"
 		+Added "Waila"
@@ -8,7 +25,7 @@
 	+Added "FortuneOres"
 
 (January/08/2014)
-	*Updated 2 mods by "SackCastellon" (Which are the following)
+	*Updated 2 mods by SackCastellon (Which are the following)
 		*Updated "Craftable Horse Armor" info and description: Added source
 		*Updated "SKC Core" info and description: Added source
 	*Updated "BetterFonts" author: Now "thvortex", "Suzutsuki"
