@@ -1,3 +1,9 @@
+(January/13/2014)
+	+Added "DayZ"
+	+Added "EnderNet"
+	+Added "HoloInventory"
+	+Added "Magical Talismans Mod"
+
 (January/12/2014)
 	*Updated 14 mods by AtomicStryker (Which are the following)
 		*Updated "BattleTowers": Added source

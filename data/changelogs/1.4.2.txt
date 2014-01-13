@@ -1,3 +1,6 @@
+(January/13/2014)
+	+Added "DayZ"
+
 (January/08/2014)
 	*Updated "Custom NPCs": Added source
 	*Updated "Tropicraft" info and desc: Added source, Now "Universal"

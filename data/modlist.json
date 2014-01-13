@@ -3386,6 +3386,17 @@
 
 },{
 
+"name":"DayZ",
+"link":"http://bit.ly/1diNcMg",
+"desc":"Based on the original DayZ mod for ARMA 2. Adds a new world type to play, with new biomes, zombie mobs, effects and more.",
+"author":["HoBoS_TaCo"],
+"source":"https://github.com/DayZ-Minecraft/DayZ-Minecraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
 "name":"DayZ Mod",
 "link":"http://bit.ly/UR0Qgf",
 "desc":"",
@@ -4196,6 +4207,17 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.1","1.4.7"]
+
+},{
+
+"name":"EnderNet",
+"link":"http://bit.ly/1iHt5Zz",
+"desc":"A modification that adds inter-server, inter-modpack item transport. Lets you send items or ComputerCraft messages, locally or across servers, and has a lot of security features.",
+"author":["asiekierka"],
+"source":"https://github.com/asiekierka/endernet",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -6027,6 +6049,17 @@
 
 },{
 
+"name":"HoloInventory",
+"link":"http://bit.ly/1iHwZBA",
+"desc":"Displays a hologram whenever you hover over a block with an inventory.",
+"author":["Dries007"],
+"source":"https://github.com/dries007/HoloInventory",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
 "name":"Holy Dragonfly Mod",
 "link":"http://bit.ly/12ZDar9",
 "desc":"Adds new blocks, tools, items and armor.",
@@ -7561,6 +7594,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Magical Talismans Mod",
+"link":"http://bit.ly/1diQwap",
+"desc":"Adds magical talismans that can give inanimate objects life, give the user strength, speed, invisibility and more.",
+"author":["HoopaWolf"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -12707,7 +12750,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/peacefulpackmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -14430,7 +14473,7 @@
 "source":"https://github.com/ga2mer/ZoomMod",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"] 
+"versions":["1.6.4"]
 
 },{
 
