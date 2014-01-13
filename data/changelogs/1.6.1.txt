@@ -1,3 +1,6 @@
+(January/13/2014)
+	+Added "HoloInventory"
+
 (January/10/2014)
 	+Added "Buffed Tools"
 	+Added "FortuneOres"

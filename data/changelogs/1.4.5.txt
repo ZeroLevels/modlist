@@ -1,3 +1,6 @@
+(January/13/2014)
+	+Added "DayZ"
+
 (January/12/2014)
 	*Updated "[IndustrialCraft 2] Advanced Machines": Added source
 
