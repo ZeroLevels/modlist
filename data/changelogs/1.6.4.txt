@@ -1,3 +1,11 @@
+(January/14/2014)
+	+Added 3 mods by Cazzar (Which are the following)
+		+Added "Cazzar Core Lib"
+		+Added "Jukebox Fix"
+		+Added "Jukebox Reloaded"
+	+Added "Minestuck"
+	+Added "NoSoundLag"
+
 (January/13/2014)
 	+Added "DayZ"
 	+Added "EnderNet"

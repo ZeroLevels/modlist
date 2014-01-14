@@ -1966,6 +1966,17 @@
 
 },{
 
+"name":"Cazzar Core Lib",
+"link":"http://bit.ly/1akA5ct",
+"desc":"Cazzar Core Lib is a core library required for all of Cazzar's mods.",
+"author":["cazzar"],
+"source":"https://bitbucket.org/cazzar/cazzarcorelib/",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
 "name":"Chain Armor Recipe Mod",
 "link":"http://bit.ly/14r7OO6",
 "desc":"A simple mod that let's you craft Chain Armor. The mod is compatible with Forge and Modloader!",
@@ -7043,6 +7054,27 @@
 
 },{
 
+"name":"Jukebox Fix",
+"link":"http://bit.ly/1akA5ct",
+"desc":"A fix for the vanilla Jukebox's volume sync issue.",
+"author":["cazzar"],
+"source":"https://bitbucket.org/cazzar/jukebox-fix",
+"type":["Client"],
+"dependencies":["Forge Required","Cazzar Core Lib"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Jukebox Reloaded",
+"link":"http://bit.ly/1akA5ct",
+"desc":"Adds multiple records, auto play, repeat, and shuffle functions to the vanilla jukebox. Includes ComputerCraft integration.",
+"author":["cazzar"],
+"type":["Universal"],
+"dependencies":["Forge Required","Cazzar Core Lib"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
 "name":"Katana Forge MMO",
 "link":"http://bit.ly/19mILA2",
 "desc":"Adds skills based on experience, much like those within RuneScape. Also adds hiscores to the user interface than can also be integrated on websites that are updated live.",
@@ -8185,6 +8217,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Minestuck",
+"link":"http://bit.ly/1kzG0RJ",
+"desc":"Adds various things from Homestuck such as Underlings, Alchemy, the Medium, and more.",
+"author":["Mraof","iconmaster","kirderf"],
+"source":"https://github.com/mraof/Minestuck/",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -9499,6 +9542,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+
+},{
+
+"name":"NoSoundLag",
+"link":"http://bit.ly/1m4SuMq",
+"desc":"Stops the sound lag that occurs when placing blocks on multiplayer servers. Fixes MC-55.",
+"author":["bencvt","nopresnik"],
+"source":"https://github.com/nopresnik/NoSoundLag",
+"type":["Client"],
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
