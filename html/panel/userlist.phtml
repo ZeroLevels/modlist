@@ -1,0 +1,46 @@
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>E-mail</th>
+            <th>Registered</th>
+            <th>Access Level</th>
+            <?php if($this->permissions->canAccess('panel.userlist.elevate')) { ?>
+            <th>Action</th>
+            <?php } ?>
+        </tr>
+    </thead>
+    <tbody>
+        <?php foreach($this->userlist as $user) { ?>
+        <tr>
+            <td><?=$user['user']?></td>
+            <?php if($this->permissions->canAccess('panel.userlist.email')) { ?>
+            <td><?=$user['email']?></td>
+            <td><?=$user['access_level']?></td>
+            <?php } ?>
+            <td>
+                <time datetime="<?php echo date('c',$user['registered']); ?>"
+                      title="<?php echo date('M j, Y g:i A',$user['registered']); ?>">
+                    <?php echo time_ago($user['registered']); ?> ago
+                </time>
+            </td>
+            <?php if($this->permissions->canAccess('panel.userlist.elevate')) { ?>
+            <td>
+                <?php if($user['user'] !== $_SESSION['user']) { ?>
+                <div class="btn-group">
+                    <button type="button" class="btn btn-xs btn-default dropdown-toggle" data-toggle="dropdown">
+                        Permissions <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="/panel/elevate/<?=$user['user']?>/mod">Moderator</a></li>
+                        <li><a href="/panel/elevate/<?=$user['user']?>/creator">Author</a></li>
+                        <li><a href="/panel/elevate/<?=$user['user']?>/user">Guest</a></li>
+                    </ul>
+                </div>
+                <?php } ?>
+            </td>
+            <?php } ?>
+        </tr>
+        <?php } ?>
+    </tbody>
+</table>
