@@ -1,3 +1,6 @@
+(January/14/2014)
+	+Added "Jukebox Reloaded"
+
 (January/13/2014)
 	+Added "DayZ"
 
