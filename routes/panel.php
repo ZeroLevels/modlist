@@ -224,12 +224,22 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
     }
 });
 
+/*
+ * panel/logout
+ * Log out of the panel
+ * @return redirect
+ */
 $this->respond('GET', '/logout', function ($request, $response, $service, $app) {
     session_destroy();
     $response->redirect('/panel/login');
     $response->send();
 });
 
+/*
+ * panel/home
+ * Panel Home
+ * @return page
+ */
 $this->respond('GET', '/home', function ($request, $response, $service, $app) {
     $recent_list = array();
     foreach(array_reverse($service->submissions) as $sub) {
@@ -256,6 +266,62 @@ $this->respond('GET', '/home', function ($request, $response, $service, $app) {
         'missing'  => array_slice($missing,0,10,true),
         'userlist' => array_slice($userlist,0,10,true)
     ));
+});
+
+/*
+ * panel/userlist
+ * Panel Userlist
+ * @return page
+ */
+$this->respond('GET', '/userlist', function ($request, $response, $service, $app) {
+    if(!$service->permissions->canAccess('panel.userlist.view')) {
+        $service->render('html/panel/forbidden.phtml');
+        return;
+    }
+    
+    $userlist = json_decode(file_get_contents('data/users.json'), true);
+    $registered = array();
+    foreach($userlist as $user) {
+        $registered[] = $user['registered'];
+    }
+    array_multisort($registered, SORT_ASC, $userlist);
+    
+    $service->render('html/panel/userlist.phtml', array(
+        'userlist' => $userlist
+    ));
+});
+
+/*
+ * panel/userlist
+ * Panel Userlist
+ * @return redirect
+ */
+$this->respond('GET', '/elevate/[*:user]/[*:level]', function ($request, $response, $service, $app) {
+    if(!$service->permissions->canAccess('panel.userlist.elevate')) {
+        $service->render('html/panel/forbidden.phtml');
+        return;
+    }
+    
+    //TODO: Dynamic permissions
+    $permlist = array('mod','creator','user');
+    
+    if(!in_array($request->param('level'), $permlist)) {
+        return;
+    }
+    
+    $userlist = json_decode(file_get_contents('data/users.json'), true);
+    foreach($userlist as &$user) {
+        if($user['user'] === $request->param('user')) {
+            $user['access_level'] = $request->param('level');
+            break;
+        }
+    }
+    
+    $encoded_data = json_encode($userlist, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+    file_put_contents('data/users.json', $encoded_data);
+    
+    $response->redirect('/panel/userlist');
+    $response->send();
 });
 
 /*
