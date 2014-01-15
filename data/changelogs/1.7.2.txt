@@ -1,6 +1,10 @@
 (January/15/2014)
+	+Added "Extra Uses"
+	+Added "Minecraft Capes"
 	+Added "Note Block Display"
 	+Added "Planter Helper"
+	+Added "Sounds Cool"
+	+Added "Valiant Villagers"
 	+Added "XRay"
 
 (January/13/2014)
