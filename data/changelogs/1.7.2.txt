@@ -1,3 +1,8 @@
+(January/15/2014)
+	+Added "Note Block Display"
+	+Added "Planter Helper"
+	+Added "XRay"
+
 (January/13/2014)
 	+Added "DayZ"
 	+Added "The Peacefulpack"

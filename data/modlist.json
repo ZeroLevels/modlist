@@ -802,6 +802,17 @@
 
 },{
 
+"name":"Barrier",
+"link":"http://bit.ly/13GwCRK",
+"desc":"Adds an invisible, unbreakable barrier block into Minecraft. Can be used for specific-entry areas in servers.",
+"author":["TXX59"],
+"source":"https://www.dropbox.com/s/nekez5jz5a079hq/Barrier%20Source.zip",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.1"]
+
+},{
+
 "name":"Basic Guns Mod",
 "link":"http://bit.ly/13cFVtC",
 "desc":"Adds six basic guns to the game:<ul><li>Pistol</li><li>SMG</li><li>Shotgun</li><li>LMG</li><li>Assault Rifle</li><li>Sniper Rifle</li></ul>",
@@ -4432,6 +4443,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Even Moar Foods?",
+"link":"http://bit.ly/L9FB8N",
+"desc":"A mod that adds more food items, such as fried eggs, pork and steak ribs, toffee, tomato soup and more.",
+"author":["Batman123579","Pure8eat"],
+"source":"http://github.com/Batman123579/Even-Moar-Foods-",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.5.1"]
 
 },{
 
@@ -9560,9 +9582,19 @@
 "link":"http://bit.ly/1512XEI",
 "desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them.Created by ImRaginBro, maintained by xaero_.",
 "author":["xaero_"],
-"type":["SSP","SMP","LAN"],
+"type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5.1","1.5.2","1.6.1"]
+"versions":["1.6.1","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Note Block Display",
+"link":"http://bit.ly/1512XEI",
+"desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them.Created by ImRaginBro, maintained by xaero_.",
+"author":["xaero_"],
+"type":["Client"],
+"dependencies":["Forge Compatible","Modloader"],
+"versions":["1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -10128,6 +10160,17 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.2","1.4.5"]
+
+},{
+
+"name":"Planter Helper",
+"link":"http://bit.ly/1eD8geR",
+"desc":"Adds new tools that helps with the process of planting crops with 3 different tiers of planters and miscellaneous additions.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/PlanterHelper",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -13407,6 +13450,17 @@
 
 },{
 
+"name":"TwitchTV IRC Mod Reborn",
+"link":"http://bit.ly/14rdHLd",
+"desc":"This mod allows you to login into TwitchTV and go into any channel and reply to chat.",
+"author":["xIGBClutchIx"],
+"source":"https://github.com/lbjdaking23/Minecraft-TwitchTV-IRC-Mod-Reborn",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
 "name":"TyberCraft",
 "link":"http://bit.ly/V2ubW7",
 "desc":"",
@@ -14330,6 +14384,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"XRay",
+"link":"http://bit.ly/K24fr9",
+"desc":"Allows you to see through blocks, make everything look like daytime, and fly as if you were in creative mode.",
+"author":["AmbientOcclusion"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
 
 },{
 
