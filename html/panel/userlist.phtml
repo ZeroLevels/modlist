@@ -2,7 +2,9 @@
     <thead>
         <tr>
             <th>Username</th>
+            <?php if($this->permissions->canAccess('panel.userlist.email')) { ?>
             <th>E-mail</th>
+            <?php } ?>
             <th>Access Level</th>
             <th>Registered</th>
             <?php if($this->permissions->canAccess('panel.userlist.elevate')) { ?>
@@ -16,8 +18,8 @@
             <td><?=$user['user']?></td>
             <?php if($this->permissions->canAccess('panel.userlist.email')) { ?>
             <td><?=$user['email']?></td>
-            <td><?=$user['access_level']?></td>
             <?php } ?>
+            <td><?=$user['access_level']?></td>
             <td>
                 <time datetime="<?php echo date('c',$user['registered']); ?>"
                       title="<?php echo date('M j, Y g:i A',$user['registered']); ?>">
