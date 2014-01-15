@@ -4703,6 +4703,16 @@
 
 },{
 
+"name":"Extra Uses",
+"link":"http://bit.ly/1kBUlNw",
+"desc":"Adds simple features to Minecraft to help players craft normally uncraftable things, and also adds new items and blocks.",
+"author":["LTLightning"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Extra Utilities",
 "link":"http://bit.ly/10krfl7",
 "desc":"Just a bunch of fairly useful things.",
@@ -8026,6 +8036,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+
+},{
+
+"name":"Minecraft Capes",
+"other":"(MCCapes)",
+"link":"http://bit.ly/XD3gCF",
+"desc":"Everybody wants a cape and now you can get one! Create an account in ten seconds and login, upload a cape image or choose one from the gallery! All you have to do now After that, all you have to do is install the mod and you'll be able to see your cape!",
+"author":["cjz__"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.7.2"]
 
 },{
 
@@ -11795,6 +11816,17 @@
 
 },{
 
+"name":"Sounds Cool",
+"link":"http://bit.ly/1hqINaZ",
+"desc":"Allows players to play their own sound files in Minecraft, and supports server sounds.",
+"author":["Dynious"],
+"source":"https://github.com/Dynious/SoundsCool",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Space Marine Mod",
 "link":"http://bit.ly/13Gvpdd",
 "desc":"Adds various science fiction weapons (blasters, lasers, plasma gun, power fist) and gadgets (mining laser, jet boots) to the game.",
@@ -13843,6 +13875,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.4"]
+
+},{
+
+"name":"Valiant Villagers",
+"link":"http://bit.ly/1kBUdNS",
+"desc":"Villagers fight against zombies, with different statistics based on age and health.",
+"author":["SquirrelModding"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
 
 },{
 
