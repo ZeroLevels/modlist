@@ -1,3 +1,6 @@
+(January/17/2014)
+	+Added "Kwasti Bust Monsters"
+
 (January/15/2014)
 	+Added "Note Block Display"
 	+Added "Planter Helper"
