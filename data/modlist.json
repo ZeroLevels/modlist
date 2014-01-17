@@ -7230,6 +7230,16 @@
 
 },{
 
+"name":"Kwasti Bust Monsters",
+"link":"http://bit.ly/1b86C2p",
+"desc":"Adds enhanced boss versions of vanilla mobs into the game with extra drops and buffs.",
+"author":["Kwasti"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Ladder Kit",
 "link":"http://bit.ly/146oXPg",
 "desc":"Adds two new blocks to the game: A retractable ladder machine and a rope ladder to fill it up with. It works in both the client and the server.",
@@ -9604,8 +9614,8 @@
 "desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them. Created by ImRaginBro, maintained by xaero_.",
 "author":["xaero_"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
-"versions":["1.6.1","1.5.2","1.5.1","1.4.7"]
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9614,8 +9624,8 @@
 "desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them. Created by ImRaginBro, maintained by xaero_.",
 "author":["xaero_"],
 "type":["Client"],
-"dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2","1.6.4","1.6.2"] 
+"dependencies":["Forge Compatible","Modloader"],
+"versions":["1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
