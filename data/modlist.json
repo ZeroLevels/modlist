@@ -9528,13 +9528,25 @@
 
 },{
 
+"name":"No Fire Spread",
+"link":"http://bit.ly/V1qVZv",
+"desc":"Prevents the spread of fire from all fire sources.",
+"author":["soccerguy3"],
+"source":"http://www.minecraftforum.net/topic/1571830-",
+"type":["SSP"],
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+
+},{
+
 "name":"No Ice Melt",
 "link":"http://bit.ly/V1qVZv",
 "desc":"Prevents ice from melting.",
 "author":["soccerguy3"],
+"source":"http://www.minecraftforum.net/topic/1571830-",
 "type":["SSP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.4"]
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
