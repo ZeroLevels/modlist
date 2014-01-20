@@ -1,3 +1,15 @@
+(January/20/2014)
+	*Updated 9 mods by bspkrs (Which are the following)
+		*Updated "ArmorStatusHUD" info: Now "Forge Required"
+		*Updated "bspkrsCore" info: Now "Forge Required"
+		*Updated "CrystalWing" info: Now "Forge Required" and "Universal"
+		*Updated "DirectionHUD" info: Now "Forge Required"
+		*Updated "FloatingRuins" info: Now "Forge Required"
+		*Updated "StartingInventory" info: Now "Forge Required" and "Universal"
+		*Updated "StatusEffectHUD" info: Now "Forge Required"
+		*Updated "TreeCapitator" info: Now "Forge Required"
+		*Updated "WorldStateCheckpoints" info: Now "Forge Required" and "Universal"
+
 (January/19/2014)
 	*Updated "No Ice Melt": Added source, Now "Base Edit"
 	+Added "No Fire Spread"

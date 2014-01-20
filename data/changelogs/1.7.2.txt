@@ -1,3 +1,15 @@
+(January/20/2014)
+	+Added 9 mods by bspkrs (Which are the following)
+		+Added "ArmorStatusHUD"
+		+Added "bspkrsCore"
+		+Added "CrystalWing"
+		+Added "DirectionHUD"
+		+Added "FloatingRuins"
+		+Added "StartingInventory"
+		+Added "StatusEffectHUD"
+		+Added "TreeCapitator"
+		+Added "WorldStateCheckpoints"
+
 (January/19/2014)
 	+Added 2 mods by soccerguy3 (Which are the following)
 		+Added "No Fire Spread"
