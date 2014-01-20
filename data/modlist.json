@@ -5625,6 +5625,17 @@
 
 },{
 
+"name":"GLSL Shaders Mod",
+"other":"(Development)",
+"link":"http://bit.ly/VK1Y3q",
+"desc":"Adds shaders that can be swapped in-game. Allows use of Depth of Field, Parallax Occlusion and other advanced shading. Continuation of daxnitro's GLSL Shaders.",
+"author":["karyonix"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Goblins",
 "link":"http://bit.ly/XCWJYG",
 "desc":"",
