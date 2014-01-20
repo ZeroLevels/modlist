@@ -9,6 +9,7 @@
 		+Added "StatusEffectHUD"
 		+Added "TreeCapitator"
 		+Added "WorldStateCheckpoints"
+	+Added "GLSL Shaders Mod"
 
 (January/19/2014)
 	+Added 2 mods by soccerguy3 (Which are the following)
