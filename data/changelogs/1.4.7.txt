@@ -1,3 +1,6 @@
+(January/20/2014)
+	-Removed "bspkrs' Mods"
+
 (January/19/2014)
 	+Added 2 mods by soccerguy3 (Which are the following)
 		+Added "No Fire Spread"
