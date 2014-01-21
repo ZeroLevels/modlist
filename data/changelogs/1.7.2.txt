@@ -1,3 +1,7 @@
+(January/21/2014)
+	*Updated "Optifine" info: Now "Forge Compatible"
+	*Updated "TooManyItems" info: Now "Forge Compatible"
+
 (January/20/2014)
 	+Added 9 mods by bspkrs (Which are the following)
 		+Added "ArmorStatusHUD"
