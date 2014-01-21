@@ -1,6 +1,9 @@
 (January/21/2014)
 	*Updated "Optifine" info: Now "Forge Compatible"
 	*Updated "TooManyItems" info: Now "Forge Compatible"
+	+Added 2 mods by spacechase0 (Which are the following)
+		+Added "Connected Glass"
+		+Added "SpaceCore"
 
 (January/20/2014)
 	+Added 9 mods by bspkrs (Which are the following)

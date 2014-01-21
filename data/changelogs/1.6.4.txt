@@ -1,3 +1,7 @@
+(January/21/2014)
+	+Added "GrowthCraft"
+	+Added "SpaceCore"
+
 (January/20/2014)
 	*Updated 9 mods by bspkrs (Which are the following)
 		*Updated "ArmorStatusHUD" info: Now "Forge Required"
