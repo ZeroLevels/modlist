@@ -453,8 +453,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -464,8 +464,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -1525,11 +1525,11 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
-    
+
 "name":"bspkrsCore",
 "other":"(Dependency)",
 "link":"http://bit.ly/bspkrscore",
@@ -1537,8 +1537,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","Modloader"],
+"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -3699,8 +3699,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -3710,8 +3710,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.2"]
 
 },{
 
@@ -4254,6 +4254,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"EnderIO",
+"link":"http://bit.ly/1dQXp2X",
+"desc":"Multiple pipes in a single block. Buildcraft API and Forge Fluids compatible. Remote access to machines / inventories etc.",
+"author":["CrazyPants"],
+"source":"https://github.com/CrazyPants/EnderIO",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -5114,23 +5125,23 @@
 
 "name":"FloatingRuins",
 "link":"http://bit.ly/TWHHIG",
-"desc":"This mod has separate ModLoader and Forge versions. Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.",
-"author":["bspkrs"],
-"source":"https://github.com/bspkrs/FloatingRuins",
-"type":["Universal"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
-
-},{
-
-"name":"FloatingRuins",
-"link":"http://bit.ly/TWHHIG",
 "desc":"Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.",
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/FloatingRuins",
 "type":["Universal"],
 "dependencies":["Forge Required","bspkrsCore"],
 "versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"FloatingRuins",
+"link":"http://bit.ly/TWHHIG",
+"desc":"This mod has separate ModLoader and Forge versions. Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.",
+"author":["bspkrs"],
+"source":"https://github.com/bspkrs/FloatingRuins",
+"type":["Universal"],
+"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -12139,8 +12150,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -12150,8 +12161,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -13474,8 +13485,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/TreeCapitator",
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
-"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -13485,8 +13496,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/TreeCapitator",
 "type":["Universal"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"versions":["1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2"]
 
 },{
 
@@ -14046,6 +14057,17 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5"]
+
+},{
+
+"name":"VeinMiner",
+"link":"http://bit.ly/1moK8zk",
+"desc":"A mod to help mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/VeinMiner",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 

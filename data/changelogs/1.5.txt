@@ -1,3 +1,6 @@
+(January/21/2014)
+	+Added "VeinMiner"
+
 (January/14/2014)
 	+Added 3 mods by Cazzar (Which are the following)
 		+Added "Cazzar Core Lib"
