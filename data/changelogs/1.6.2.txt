@@ -1,3 +1,6 @@
+(January/21/2014)
+	+Added "SpaceCore"
+
 (January/19/2014)
 	+Added 2 mods by soccerguy3 (Which are the following)
 		+Added "No Fire Spread"

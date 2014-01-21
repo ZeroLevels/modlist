@@ -1521,7 +1521,7 @@
 "name":"bspkrsCore",
 "other":"(Dependency)",
 "link":"http://bit.ly/bspkrscore",
-"desc":"This mods is required by all other mods created/maintained by bspkrs.",
+"desc":"This mod is required by all other mods created/maintained by bspkrs.",
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
@@ -1533,7 +1533,7 @@
 "name":"bspkrsCore",
 "other":"(Dependency)",
 "link":"http://bit.ly/bspkrscore",
-"desc":"This mods is required by all other mods created/maintained by bspkrs.",
+"desc":"This mod is required by all other mods created/maintained by bspkrs.",
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
@@ -2743,6 +2743,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.3.2","1.4.5","1.4.7","1.5","1.5.1","1.6.2"]
+
+},{
+
+"name":"Connected Glass",
+"link":"http://bit.ly/1moHyta",
+"desc":"Connects textures for glass, stained glass and panes.",
+"author":["spacechase0"],
+"type":["Client"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.7.2"]
 
 },{
 
@@ -5801,11 +5811,11 @@
 
 "name":"GrowthCraft",
 "link":"http://bit.ly/Xxl3HK",
-"desc":"A compilation of mods created by one developer which aims to add more features and improve the agriculture/farming aspect of Mojang's game MineCraft while still keeping its simplicity and avoiding overcomplicating it.",
+"desc":"A compilation of mods created by one developer which aims to add more features and improve the agriculture/farming aspect of Minecraft while still keeping its simplicity and avoiding overcomplicating it.",
 "author":["Gwafu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2"]
+"versions":["1.6.4","1.5.2","1.5.1"]
 
 },{
 
@@ -11882,6 +11892,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"SpaceCore",
+"link":"http://bit.ly/1moHycF",
+"desc":"This mod is required for all other mods created by spacechase0.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
