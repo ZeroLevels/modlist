@@ -611,16 +611,6 @@
 
 },{
 
-"name":"AtomicStryker's Mods",
-"link":"http://bit.ly/13lWj9M",
-"desc":"",
-"author":["AtomicStryker"],
-"type":["N/A"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
 "name":"Attachable Grinder",
 "link":"http://bit.ly/ichun-attachablegrinder",
 "desc":"Lets you attach a grinder to mobs, which will grind out the stuff it's made of.",
@@ -5491,6 +5481,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
 "versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+
+},{
+
+"name":"Gammabright",
+"link":"http://bit.ly/13aZktd",
+"desc":"Allows you to change your in-game brightness beyond the default limits.",
+"author":["kymaster"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -14050,16 +14050,6 @@
 
 },{
 
-"name":"Vazkii's Mods",
-"link":"http://bit.ly/V3D15Y",
-"desc":"",
-"author":["Vazkii"],
-"type":["N/A"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
 "name":"VeinMiner",
 "link":"http://bit.ly/1moK8zk",
 "desc":"A mod to help mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
@@ -14133,13 +14123,13 @@
 },{
 
 "name":"VoxelMap",
-"other":"(Zan's)",
-"link":"http://bit.ly/Ty9cf2",
+"other":"(Zan's Minimap)",
+"link":"http://bit.ly/1msI0Xt",
 "desc":"A feature-packed minimap with many customizations.",
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 

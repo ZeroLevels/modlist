@@ -1,3 +1,6 @@
+(January/22/2014)
+	*Updated "VoxelMap" link
+
 (January/21/2014)
 	+Added "EnderIO"
 	+Added "VeinMiner"

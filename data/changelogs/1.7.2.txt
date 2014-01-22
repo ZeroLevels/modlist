@@ -1,3 +1,7 @@
+(January/22/2014)
+	+Added "Gammabright"
+	+Added "VoxelMap"
+
 (January/21/2014)
 	*Updated "Optifine" info: Now "Forge Compatible"
 	*Updated "TooManyItems" info: Now "Forge Compatible"
