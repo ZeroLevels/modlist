@@ -1,3 +1,7 @@
+(January/22/2014)
+	*Updated "VoxelMap" link
+	+Added "Gammabright"
+
 (January/21/2014)
 	+Added "EnderIO"
 	+Added "GrowthCraft"
