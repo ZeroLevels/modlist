@@ -5494,16 +5494,6 @@
 
 },{
 
-"name":"Gammabright",
-"link":"http://bit.ly/13aZktd",
-"desc":"Allows you to change your in-game brightness beyond the default limits.",
-"author":["kymaster"],
-"type":["Client"],
-"dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
 "name":"GardenCraft",
 "link":"http://bit.ly/10TEH5C",
 "desc":"",
