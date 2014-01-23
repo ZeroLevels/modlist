@@ -6366,9 +6366,10 @@
 "link":"http://bit.ly/ichun-util",
 "desc":"As of Minecraft 1.5, this mod is required to be installed for iChun's Gravity Gun, Portal Gun, and Trail Mix mods to work",
 "author":["iChun"],
+"source":"https://github.com/iChun/iChunUtil",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -7728,6 +7729,16 @@
 
 },{
 
+"name":"Mad Science",
+"link":"http://bit.ly/1fe5z3M",
+"desc":"Adds machines, items, and mobs to create your own laboratory. Allows you to create new life forms, harvest power from memories, recycle components and more.",
+"author":["MadScienceMod"],
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Magical Crops",
 "link":"http://bit.ly/W9maB8",
 "desc":"Introduces lot of new crops that grow all sort of things, from new food like sweetcorn and strawberries to Coal essence and Diamond essence which can be crafting into Coal and Diamonds.",
@@ -8587,16 +8598,6 @@
 
 "name":"Mo' Creatures",
 "link":"http://bit.ly/UvyxRJ",
-"desc":"Adds many, many creatures to the game.",
-"author":["DrZhark"],
-"type":["Universal"],
-"dependencies":["Forge Required","GuiAPI","Custom Mob Spawner"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
-
-},{
-
-"name":"Mo' Creatures",
-"link":"http://bit.ly/UvyxRJ",
 "desc":"Adds many, many creatures to the game.  Also works in 1.6.4.",
 "author":["DrZhark"],
 "type":["Universal"],
@@ -9162,10 +9163,10 @@
 "link":"http://bit.ly/ichun-morph",
 "desc":"Acquire most living mobs by killing them (a morph). This includes other players, silverfish, mobs from Twilight Forest, Mo' Creatures, Ore Spawn, and more! Use abilities that accompany morphs you acquire!",
 "author":["iChun"],
-"source":"http://adf.ly/WSG0c",
+"source":"https://github.com/iChun/Morph",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.1","1.6.2","1.6.4"]
+"versions":["1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -10194,6 +10195,7 @@
 "link":"http://bit.ly/ichun-photoreal",
 "desc":"This mod adds a camera, as found in CorridorDigital's Photoreal, when snapped it forms a screen ahead of the player, showing the view that was just there. Kinda hard to explain.",
 "author":["iChun"],
+"source":"https://github.com/iChun/Photoreal",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
@@ -11528,9 +11530,9 @@
 "link":"http://bit.ly/14ZFBPv",
 "desc":"Adds 13 ores, some can be used to make tools and armor and others can be used to make new colored torches. One of them called sulphur can be made into a sulphur soup. There are also two nether ores.",
 "author":["Ellybelly360"],
-"type":["SSP","LAN"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.5.2","1.6.2"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
 
 },{
 
@@ -11840,6 +11842,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
+
+},{
+
+"name":"Sonic Ether's Unbelievable Shaders",
+"link":"http://bit.ly/1jpjgCi",
+"desc":"Adds shaders and animation to Minecraft to make stunning videos and photos. Requires a powerful computer.",
+"author":["sonicether"],
+"type":["Client"],
+"dependencies":["Forge Required","GLSL Shaders Mod"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
