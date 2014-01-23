@@ -8587,16 +8587,6 @@
 
 "name":"Mo' Creatures",
 "link":"http://bit.ly/UvyxRJ",
-"desc":"Adds many, many creatures to the game.",
-"author":["DrZhark"],
-"type":["Universal"],
-"dependencies":["Forge Required","GuiAPI","Custom Mob Spawner"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.2"]
-
-},{
-
-"name":"Mo' Creatures",
-"link":"http://bit.ly/UvyxRJ",
 "desc":"Adds many, many creatures to the game.  Also works in 1.6.4.",
 "author":["DrZhark"],
 "type":["Universal"],
