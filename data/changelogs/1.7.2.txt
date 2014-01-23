@@ -1,4 +1,10 @@
 (January/23/2014)
+	+Added 5 mods by AtomicStryker
+		+Added "KenshiroMod"
+		+Added "Magic Yarn"
+		+Added "Minions"
+		+Added "Pet Bat"
+		+Added "Ruins"
 	+Added "Sonic Ether's Unbelievable Shaders"
 	+Added "SuperCraftingFrame"
 
