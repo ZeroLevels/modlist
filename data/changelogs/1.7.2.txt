@@ -1,4 +1,5 @@
 (January/23/2014)
+	+Added "Sonic Ether's Unbelievable Shaders"
 	+Added "SuperCraftingFrame"
 
 (January/22/2014)
