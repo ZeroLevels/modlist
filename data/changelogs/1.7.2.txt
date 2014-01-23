@@ -1,5 +1,5 @@
 (January/23/2014)
-	+Added 5 mods by AtomicStryker
+	+Added 5 mods by AtomicStryker (Which are the following)
 		+Added "KenshiroMod"
 		+Added "Magic Yarn"
 		+Added "Minions"
