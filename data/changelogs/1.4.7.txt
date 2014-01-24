@@ -1,3 +1,6 @@
+(January/24/2014)
+	-Removed "Lunatrius' Mods"
+
 (January/20/2014)
 	-Removed "bspkrs' Mods"
 

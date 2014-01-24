@@ -6436,16 +6436,6 @@
 
 },{
 
-"name":"Immibis's Mods",
-"link":"http://bit.ly/immibiscore",
-"desc":"",
-"author":["immibis"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
 "name":"Improved Chat",
 "other":"(MCF Moderator Link)",
 "link":"http://bit.ly/improvedchat-user",
@@ -7666,16 +7656,6 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.2","1.6.4"]
-
-},{
-
-"name":"Lunatrius' Mods",
-"link":"http://bit.ly/Sw1AcJ",
-"desc":"",
-"author":["Lunatrius"],
-"type":["N/A"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
 
 },{
 
