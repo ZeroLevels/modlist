@@ -6436,16 +6436,6 @@
 
 },{
 
-"name":"Immibis's Mods",
-"link":"http://bit.ly/immibiscore",
-"desc":"",
-"author":["immibis"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
 "name":"Improved Chat",
 "other":"(MCF Moderator Link)",
 "link":"http://bit.ly/improvedchat-user",

@@ -1,3 +1,6 @@
+(January/25/2014)
+	-Removed "Immibis's Mods"
+
 (January/22/2014)
 	-Removed "AtomicStryker's Mods"
 	-Removed "Vazkii's Mods"
