@@ -7669,16 +7669,6 @@
 
 },{
 
-"name":"Lunatrius' Mods",
-"link":"http://bit.ly/Sw1AcJ",
-"desc":"",
-"author":["Lunatrius"],
-"type":["N/A"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
 "name":"Lycanite's Mobs",
 "link":"http://bit.ly/1ctxMpn",
 "desc":"Adds several hostile and biome specific mobs into the game.",
