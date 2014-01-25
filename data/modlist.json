@@ -6853,6 +6853,17 @@
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/InGame-Info-XML",
 "type":["Client"],
+"dependencies":["Forge Required","LunatriusCore"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"InGame Info XML",
+"link":"http://bit.ly/Sw1AcJ",
+"desc":"Display various information directly on your ingame screen.",
+"author":["Lunatrius"],
+"source":"https://github.com/Lunatrius/InGame-Info-XML",
+"type":["Client"],
 "dependencies":["Forge Compatible","Modloader Compatible"],
 "versions":["1.4.2","1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.2","1.6.4"]
 
@@ -7656,6 +7667,17 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.2","1.6.4"]
+
+},{
+
+"name":"LunatriusCore",
+"link":"http://bit.ly/Sw1AcJ",
+"desc":"Required dependency for all 1.7.2+ mods by Lunatrius.",
+"author":["Lunatrius"],
+"source":"https://github.com/Lunatrius/LunatriusCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -12026,8 +12048,19 @@
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/Stackie",
 "type":["Client"],
+"dependencies":["Forge Required","LunatriusCore"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Stackie",
+"link":"http://bit.ly/Sw1AcJ",
+"desc":"Groups all items of the same type and experience orbs into stacks of maximum size. For example: 6 towers, 64 high of sand will give you 384 entities.",
+"author":["Lunatrius"],
+"source":"https://github.com/Lunatrius/Stackie",
+"type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.2","1.4.5","1.4.7","1.5.1","1.5.2","1.6.2","1.6.4"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 

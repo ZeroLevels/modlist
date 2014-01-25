@@ -1,3 +1,9 @@
+(January/25/2014)
+	+Added 3 mods by Lunatrius (Which are the following)
+		+Added "InGame Info XML"
+		+Added "LunatriusCore"
+		+Added "Stackie"
+
 (January/23/2014)
 	+Added 5 mods by AtomicStryker (Which are the following)
 		+Added "KenshiroMod"
