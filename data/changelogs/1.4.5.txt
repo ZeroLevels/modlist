@@ -1,3 +1,7 @@
+(January/28/2014)
+	*Updated "GuiAPI": Added source
+	*Updated "Mo' Creatures" description
+
 (January/24/2014)
 	-Removed "Immibis's Mods"
 

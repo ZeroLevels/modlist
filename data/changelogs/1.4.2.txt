@@ -1,3 +1,8 @@
+(January/28/2014)
+	*Updated "Mo' Creatures" description
+	+Added "Custom Mob Spawner"
+	+Added "GuiAPI"
+
 (January/20/2014)
 	-Removed "DaftPVF's Mods"
 
