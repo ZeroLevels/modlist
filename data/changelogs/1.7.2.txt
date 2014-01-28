@@ -1,3 +1,12 @@
+(January/28/2014)
+	+Added 2 mods by DrZhark (Which are the following)
+		+Added "Custom Mob Spawner"
+		+Added "Mo' Creatures"
+	+Added "Deconstruction Table"
+	+Added "Minecraft Expansion Pack"
+	+Added "Multiworld"
+	+Added "Village Taverns Updated"
+
 (January/25/2014)
 	+Added 3 mods by Lunatrius (Which are the following)
 		+Added "InGame Info XML"
