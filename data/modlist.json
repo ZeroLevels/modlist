@@ -3945,11 +3945,12 @@
 
 "name":"Dynmap",
 "link":"http://bit.ly/VNNyib",
-"desc":"Real-time Minecraft maps:Dynmap provides an in-browser map, like Google Maps, of your Minecraft world. It updates the map in realtime while you have your browser opened and shows the current players, regions and in-game messages on top of the map. It also allows viewers of the map to chat from within their browser with players in-game.",
+"desc":"Real-time Minecraft maps: Dynmap provides an in-browser map, like Google Maps, of your Minecraft world. It updates the map in realtime while you have your browser opened and shows the current players, regions and in-game messages on top of the map. It also allows viewers of the map to chat from within their browser with players in-game.",
 "author":["mikeprimm"],
-"type":["SMP"],
+"source":"https://github.com/webbukkit/DynmapForge",
+"type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5","1.5.1","1.5.2","1.6.1","1.6.2","1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -5036,9 +5037,10 @@
 "link":"http://bit.ly/VW7qTy",
 "desc":"Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.",
 "author":["power crystals"],
+"source":"https://github.com/powercrystals/FlatBedrock",
 "type":["Universal"],
 "dependencies":["Forge Required","PowerCrystals Core"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -5312,11 +5314,12 @@
 
 "name":"ForgeEssentials",
 "link":"http://bit.ly/VeIOSL",
-"desc":"",
+"desc":"Adds Bukkit-like functionality to Forge such as permissions, extra commands and player logging.",
 "author":["ForgeEssentials"],
+"source":"https://github.com/ForgeEssentials/ForgeEssentialsMain",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.5.2","1.4.7"]
 
 },{
 
@@ -8248,9 +8251,10 @@
 "link":"http://bit.ly/1hyiLR0",
 "desc":"MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.",
 "author":["skyboy026"],
+"source":"https://github.com/skyboy/MineFactoryReloaded",
 "type":["Universal"],
 "dependencies":["Forge Required","PowerCrystals Core"],
-"versions":["1.6.2","1.6.4"]
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -8258,9 +8262,10 @@
 "link":"http://bit.ly/VW7qTy",
 "desc":"MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.",
 "author":["power crystals"],
+"source":"https://github.com/powercrystals/MineFactoryReloaded",
 "type":["Universal"],
 "dependencies":["Forge Required","PowerCrystals Core"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -9575,9 +9580,10 @@
 "link":"http://bit.ly/1hyjzp8",
 "desc":"Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.",
 "author":["skyboy026"],
+"source":"https://github.com/skyboy/NetherOres",
 "type":["Universal"],
 "dependencies":["Forge Required","PowerCrystals Core"],
-"versions":["1.6.2","1.6.4"]
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -9585,9 +9591,10 @@
 "link":"http://bit.ly/VW7qTy",
 "desc":"Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.",
 "author":["power crystals"],
+"source":"https://github.com/powercrystals/NetherOres",
 "type":["Universal"],
 "dependencies":["Forge Required","PowerCrystals Core"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -10465,9 +10472,10 @@
 "link":"http://bit.ly/VW7qTy",
 "desc":"It's here! Finally, a way to wrangle all those power systems into one central location. PowerConverters understands IC2, BuildCraft, UniversalElectricity, and Railcraft steam.",
 "author":["power crystals"],
+"source":"https://github.com/powercrystals/PowerConverters",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -10486,9 +10494,10 @@
 "link":"http://bit.ly/1hyiAFv",
 "desc":"You need this for Minefactory Reloaded and Nether Ores to work.",
 "author":["skyboy026"],
+"source":"https://github.com/skyboy/PowerCrystalsCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.4"]
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -10497,9 +10506,10 @@
 "link":"http://bit.ly/pccore",
 "desc":"Necessary to be installed in order to get any other mods by power crystals to work.",
 "author":["power crystals"],
+"source":"https://github.com/powercrystals/PowerCrystalsCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.5.1","1.5.2"]
+"versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -11341,9 +11351,10 @@
 "link":"http://bit.ly/XemEC1",
 "desc":"Adds a variety of cool blocks that camouflage themselves to the surrounding world. All of these blocks have extremely useful functions that allow you to simply hide your diamonds, or punish all who dare try to get to them. Hidden doors, pressure plates, hidden levers and more!",
 "author":["AbrarSyed"],
+"source":"https://github.com/AbrarSyed/SecretRoomsMod-forge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.7","1.5.1","1.5.2","1.6.4"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 

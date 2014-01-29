@@ -1,3 +1,7 @@
+(January/29/2014)
+	*Updated "Dynmap" description and info: Added source, Now "Serverside"
+	*Updated "Secret Rooms Mod": Added source
+
 (January/28/2014)
 	*Updated "GuiAPI": Added source
 	*Updated "Mo' Creatures" description
