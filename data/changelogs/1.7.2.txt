@@ -1,3 +1,6 @@
+(January/29/2014)
+	+Added "Dynmap"
+
 (January/28/2014)
 	+Added 2 mods by DrZhark (Which are the following)
 		+Added "Custom Mob Spawner"

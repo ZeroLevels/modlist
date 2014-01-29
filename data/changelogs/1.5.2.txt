@@ -1,3 +1,14 @@
+(January/29/2014)
+	*Updated 5 mods by power crystals (Which are the following)
+		*Updated "Flat Bedrock": Added source
+		*Updated "MineFactory Reloaded": Added source
+		*Updated "Nether Ores": Added source
+		*Updated "Power Converters": Added source
+		*Updated "PowerCrystals Core": Added source
+	*Updated "Dynmap" description and info: Added source, Now "Serverside"
+	*Updated "Secret Rooms Mod": Added source
+	+Added "ForgeEssentials"
+
 (January/28/2014)
 	*Updated "GuiAPI": Added source
 	*Updated "Mo' Creatures" description
