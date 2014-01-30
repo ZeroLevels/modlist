@@ -561,6 +561,7 @@ $this->respond('GET', '/queue/[download|render:type]', function ($request, $resp
                 }
             }
         }
+        rsort($mod['versions']);
         array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
     }
     array_multisort($mod_names, SORT_ASC, $mod_list);
