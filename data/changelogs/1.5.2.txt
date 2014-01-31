@@ -1,3 +1,7 @@
+(January/31/2014)
+	*Updated "FpsPlus": Added source, Now "Base Edit"
+	*Updated "Stuff Worth Throwing": Added source
+
 (January/29/2014)
 	*Updated 5 mods by power crystals (Which are the following)
 		*Updated "Flat Bedrock": Added source

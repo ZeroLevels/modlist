@@ -5401,7 +5401,7 @@
 "desc":"Changes how math is defined in minecraft and results in anywhere from 3-80 FPS gain, many different versions available and a version that removes alot more lag but that version has some incompatibilities while the rest will work with any mod.",
 "author":["abandenz"],
 "type":["Client"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Base Edit"],
 "versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
@@ -6151,6 +6151,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"High Pressure Tanks",
+"link":"http://bit.ly/MmEra6",
+"desc":"Adds multiblock tanks which store fluids under high pressure. Compatible with both Buildcraft and IndustrialCraft.",
+"author":["patrick96"],
+"source":"https://bitbucket.org/patrick96/high-pressure-tanks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -12339,9 +12350,10 @@
 "link":"http://bit.ly/12h6yI2",
 "desc":"Adds twelve new items, one new block, and one new mob.",
 "author":["Renkin42"],
+"source":"https://github.com/Renkin42/Renkin42SWT_Gradle",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"versions":["1.7.2","1.6.2","1.5.2"]
 
 },{
 
