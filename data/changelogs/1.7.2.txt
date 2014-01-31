@@ -1,3 +1,6 @@
+(January/31/2014)
+	+Added "Stuff Worth Throwing"
+
 (January/29/2014)
 	+Added "Dynmap"
 
