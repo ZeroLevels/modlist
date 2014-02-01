@@ -1456,6 +1456,16 @@
 
 },{
 
+"name":"BoosterMod",
+"link":"http://bit.ly/1bgDKZp",
+"desc":"Brings back pre-Beta 1.6 minecart booster functionality.",
+"author":["jamespicone"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Booze",
 "link":"http://bit.ly/12Lcw6v",
 "desc":"Allows you to brew beer and wine, adds grape vines, hops, and heather. Red wine and 4 varieties of beer: normal, pre-11th century ale, Irish stout, and Scotish beer (heather ale).",
@@ -14467,6 +14477,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"Witches and More",
+"link":"http://bit.ly/WnYzWw",
+"desc":"Adds a lot of mobs, such as witches, widows, knights and more. Also adds new biomes and structures.",
+"author":["Chancebozey"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.5.2","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
