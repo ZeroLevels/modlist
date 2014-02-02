@@ -1,3 +1,6 @@
+(February/02/2014)
+	*Updated "Minecraft Capes" info: Now "Forge Compatible"
+
 (February/01/2014)
 	+Added "BoosterMod"
 	+Added "M-Ore Mod"
