@@ -8151,18 +8151,7 @@
 "author":["cjz__"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"Minecraft Capes",
-"other":"(MCCapes)",
-"link":"http://bit.ly/XD3gCF",
-"desc":"Everybody wants a cape and now you can get one! Create an account in ten seconds and login, upload a cape image or choose one from the gallery! All you have to do now After that, all you have to do is install the mod and you'll be able to see your cape!",
-"author":["cjz__"],
-"type":["Client"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
