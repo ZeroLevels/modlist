@@ -1,0 +1,213 @@
+// Variables
+// --------------------------------------------------
+
+// Bootstrap default screen sizes
+@screen-xs-min:  480px;
+@screen-sm-min:  768px;
+@screen-md-min:  992px;
+@screen-lg-min: 1200px;
+
+@screen-xs-max: (@screen-sm-min - 1);
+@screen-sm-max: (@screen-md-min - 1);
+@screen-md-max: (@screen-lg-min - 1);
+
+// Colors
+@light-base: #0072C6;
+@light-blur: #005696;
+@light-sharp: #E4E8FF;
+
+@dark-base: #2D2D2D;
+@dark-blur: #000;
+@dark-sharp: #BBB;
+
+@link-default: @light-base;
+@link-sharp: lighten(@link-default, 10%);
+@link-bright: #FFF;
+
+// Spacing
+@nav-offset: 70px;
+
+// Mixins
+// --------------------------------------------------
+.make-nav(@name, @base, @blur, @sharp) {
+    .ml-nav-@{name} {
+        background-color: @base;
+        border-color: @blur;
+        .navbar-collapse, .navbar-form {
+            border-color: @blur;
+        }
+        .navbar-nav {
+            > li {
+                > a, > p {
+                    color: @sharp;
+                }
+            }
+            > .dropdown > a .caret {
+                border-top-color: @sharp;
+                border-bottom-color: @sharp;
+            }
+            > .open {
+                > a, > a:hover, > a:focus {
+                    color: @link-bright;
+                    background-color: @blur;
+                }
+            }
+        }
+        .navbar-toggle {
+            border-color: @base;
+            &:hover, &:focus {
+                background-color: @blur;
+                border-color: @blur;
+            }
+        }
+    }
+    @media (max-width: @screen-xs-max) {
+        .ml-nav-@{name} .navbar-nav .open .dropdown-menu {
+            > li > a {
+                color: @sharp;
+                &:hover {
+                    color: @link-bright;
+                }
+            }
+            .divider {
+                background-color: @blur;
+            }
+        }
+    }
+}
+
+// Actual CSS
+// --------------------------------------------------
+
+// Body layout
+body {
+    padding-top: @nav-offset;
+}
+
+// Generic table layout
+td {
+    a {
+        color: @link-default;
+        &:hover {
+            color: @link-sharp;
+            text-decoration: none;
+        }
+    }
+    &:first-child>a{
+        font-weight: bold;
+    }
+}
+
+// Common navigation layout
+.ml-nav {
+    .navbar-header {
+        text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+    }
+    .navbar-brand {
+        color: @link-bright;
+    }
+}
+
+// Themed navigation layout
+.make-nav(light, @light-base, @light-blur, @light-sharp);
+.make-nav(dark, @dark-base, @dark-blur, @dark-sharp);
+
+// Table
+.fade-success {
+    td, th {
+        -webkit-transition: all 3s;
+        transition: all 3s;
+    }
+}
+.depends {
+    &:hover, &:focus {
+        text-decoration: none;
+    }
+}
+.label, .tooltip {
+    font-weight: normal;
+}
+
+// Twitter Typeahead
+.twitter-typeahead .tt-query {
+    margin-bottom: 0;
+}
+.twitter-typeahead .tt-hint {
+    display: none;
+}
+.tt-dropdown-menu {
+    min-width: 160px;
+    margin-top: 0;
+    padding: 5px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0,0,0,.2);
+    *border-right-width: 2px;
+    *border-bottom-width: 2px;
+    -webkit-border-radius: 0 0 6px 6px;
+    -moz-border-radius: 0 0 6px 6px;
+    border-radius: 0 0 6px 6px;
+    -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+}
+.tt-suggestion {
+    display: block;
+    padding: 3px 20px;
+    border-top: 1px solid #ccc;
+}
+.tt-suggestion.tt-is-under-cursor {
+    color: #fff;
+    background-color: #0081c2;
+    background-image: -moz-linear-gradient(top, #0088cc, #0077b3);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0077b3));
+    background-image: -webkit-linear-gradient(top, #0088cc, #0077b3);
+    background-image: -o-linear-gradient(top, #0088cc, #0077b3);
+    background-image: linear-gradient(#0088cc, #0077b3);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0077b3', GradientType=0)
+}
+.tt-suggestion.tt-is-under-cursor a {
+    color: #fff;
+}
+.tt-suggestion p {
+    margin: 0;
+}
+.tt-suggestion:first-child {
+    border-top: 0;
+}
+
+// Table
+#modlist thead {
+    background-color: #FFFFFF;
+}
+.modlist-table {
+    p {
+        margin: 0;
+    }
+    a {
+        font-weight: bold;
+    }
+}
+.hidden-search {
+    display: none;
+}
+.input-group-btn .dropdown-menu li {
+    cursor: pointer;
+}
+.advanced-search {
+    margin-top: 15px;
+}
+.input-group .input-group-addon:not(:first-child):not(:last-child), .input-group .form-control:not(:first-child):not(:last-child) {
+    border-right-width: 0;
+}
+.home-changelog div p:nth-of-type(2) {
+    min-height: 60px;
+}
+#nothuman {
+    display: none;
+    visibility: hidden;
+}
