@@ -95,6 +95,7 @@ function anchorControl() {
             var elementPosition = $(selected).position();
             var elementTop = elementPosition.top;
             var toScroll = (windowHeight / 2) - (elementHeight / 2);
+            $(window).trigger('resize.stickyTableHeaders');
             setTimeout(function(){
                 window.scroll(0,(elementTop - toScroll));
                 $(selected).removeClass('success').addClass('fade-success');
