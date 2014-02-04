@@ -1,3 +1,8 @@
+(February/04/2014)
+	+Added 2 mods by thebombzen (Which are the following)
+		+Added "AutoSwitch"
+		+Added "ThebombzenAPI"
+
 (February/01/2014)
 	*Updated "M-Ore Mod" info: Now "Universal"
 
