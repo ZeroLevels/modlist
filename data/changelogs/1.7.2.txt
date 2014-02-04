@@ -1,3 +1,11 @@
+(February/04/2014)
+	+Added 2 mods by Kuuu (Which are the following)
+		+Added "Magic Wand Mod"
+		+Added "Nether Star Tools"
+	+Added "Obsidian Boat"
+	+Added "PeacefulSurface"
+	+Added "Super Enchants"
+
 (February/02/2014)
 	*Updated "Minecraft Capes" info: Now "Forge Compatible"
 

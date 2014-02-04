@@ -1,3 +1,7 @@
+(February/04/2014)
+	+Added "Magic Wand Mod"
+	+Added "Obsidian Boat"
+
 (February/01/2014)
 	*Updated "M-Ore Mod" info: Now "Universal"
 	+Added "Witches and More"

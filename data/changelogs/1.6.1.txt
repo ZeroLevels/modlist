@@ -1,3 +1,6 @@
+(February/04/2014)
+	+Added "Super Enchants"
+
 (January/29/2014)
 	*Updated "Dynmap" description and info: Added source, Now "Serverside"
 

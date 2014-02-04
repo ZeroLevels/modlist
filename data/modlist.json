@@ -7828,6 +7828,16 @@
 
 },{
 
+"name":"Magic Wand Mod",
+"link":"http://bit.ly/1n8ymtu",
+"desc":"Allows you to craft items using a magic wand to obtain better items.",
+"author":["Kuuu"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
 "name":"Magic Yarn",
 "link":"http://bit.ly/XlFeu1",
 "desc":"Introduces a new Item to Minecraft; the Ball of Magic Yarn. It is crafted by surrounding a Compass with Wool (any kind).The item serves as pathfinding tool and to keep track of your movements. In other words, you should never again get lost exploring the Nether or some complex cave system, and without leaving a ridiculous amount of Torches to mark your trail.NOTE:In Multiplayer, you can't craft this Item. You use a button instead, by default J. Button can be customized in auto-created file under mods/MagicYarn.txt",
@@ -9608,6 +9618,16 @@
 
 },{
 
+"name":"Nether Star Tools",
+"link":"http://bit.ly/1lyup5M",
+"desc":"Allows you to craft tools using nether star gems, which can be obtained by smelting nether stars.",
+"author":["Kuuu"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.5.2"]
+
+},{
+
 "name":"NetherStuffs",
 "link":"http://bit.ly/YbHbvc",
 "desc":"Adds ores and Trees to the Nether and also allows gathering of Soul Energy from mobs to be used in other Machinery. Also adds a torchbow!",
@@ -9870,6 +9890,17 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Obsidian Boat",
+"link":"http://bit.ly/1n8ujgN",
+"desc":"Adds a new boat that can traverse over lava and is unaffected by collisions.",
+"author":["Zilulil"],
+"source":"https://github.com/Zilulil/obsidianboat",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -10208,6 +10239,17 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"PeacefulSurface",
+"link":"http://bit.ly/1n8wjp6",
+"desc":"Only allows hostile mobs to spawn in complete darkness, allowing for a much more peaceful surface.",
+"author":["zlainsama"],
+"source":"https://github.com/zlainsama/peacefulsurface",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -12413,6 +12455,26 @@
 "type":["N/A"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Super Enchants",
+"link":"http://bit.ly/1lyss9y",
+"desc":"Increases the maximum enchantment level limits.",
+"author":["Twinklez"],
+"type":["Universal"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.6.1","1.5.2"]
+
+},{
+
+"name":"Super Enchants",
+"link":"http://bit.ly/1lyss9y",
+"desc":"Increases the maximum enchantment level limits.",
+"author":["Twinklez"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
