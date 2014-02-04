@@ -2,6 +2,9 @@
 	+Added 2 mods by Kuuu (Which are the following)
 		+Added "Magic Wand Mod"
 		+Added "Nether Star Tools"
+	+Added 2 mods by thebombzen (Which are the following)
+		+Added "AutoSwitch"
+		+Added "ThebombzenAPI"
 	+Added "CUDA Shaders"
 	+Added "Obsidian Boat"
 	+Added "PeacefulSurface"

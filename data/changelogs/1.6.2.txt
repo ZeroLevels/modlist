@@ -1,3 +1,7 @@
+(February/04/2014)
+	*Updated "AutoSwitch" info and desc: Added source, Now "SSP", "SMP", "LAN"
+	+Added "ThebombzenAPI"
+
 (January/31/2014)
 	*Updated "FpsPlus": Added source, Now "Base Edit"
 	+Added "High Pressure Tanks"

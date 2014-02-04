@@ -705,11 +705,23 @@
 
 "name":"AutoSwitch",
 "link":"http://bit.ly/108x1gj",
-"desc":"This mod has separate ModLoader and Forge versions.See bit.ly/modloaderA highly-configurable, advanced mod that automatically switches to the correct tool when mining a block and automatically uses the correct weapon when attacking a mob or a player. It will also switch back to your previous item when you are done mining or attacking a mob, useful for building and going on mining trips.",
+"desc":"Automatically switches to the correct tool when mining a block and automatically uses the correct weapon when attacking a mob or a player. Also switches back to your previous item when you are done mining or attacking a mob, useful for building and going on mining trips.",
 "author":["thebombzen"],
-"type":["SSP"],
-"dependencies":["Forge Compatible","Modloader Compatible","ThebombzenAPI"],
-"versions":["1.6.2","1.5"]
+"source":"https://github.com/thebombzen/AutoSwitch",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"AutoSwitch",
+"link":"http://bit.ly/108x1gj",
+"desc":"Automatically switches to the correct tool when mining a block and automatically uses the correct weapon when attacking a mob or a player. Also switches back to your previous item when you are done mining or attacking a mob, useful for building and going on mining trips.",
+"author":["thebombzen"],
+"source":"https://github.com/thebombzen/AutoSwitch",
+"type":["SSP","SMP","LAN"],
+"dependencies":["Forge Compatible"],
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -12809,6 +12821,17 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"ThebombzenAPI",
+"link":"http://bit.ly/108x1gj",
+"desc":"Required dependency for thebombzen's mods.",
+"author":["thebombzen"],
+"source":"https://github.com/thebombzen/ThebombzenAPI",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
