@@ -2,6 +2,7 @@
 	+Added 2 mods by Kuuu (Which are the following)
 		+Added "Magic Wand Mod"
 		+Added "Nether Star Tools"
+	+Added "CUDA Shaders"
 	+Added "Obsidian Boat"
 	+Added "PeacefulSurface"
 	+Added "Super Enchants"

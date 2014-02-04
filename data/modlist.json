@@ -3237,6 +3237,16 @@
 
 },{
 
+"name":"CUDA Shaders",
+"link":"http://bit.ly/1lywPBh",
+"desc":"Shaders designed to run on both older and modern PCs. Improves lighting and shadows.",
+"author":["DeDelner"],
+"type":["Client"],
+"dependencies":["Forge Required","GLSL Shaders Mod"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Custom-Branding",
 "link":"http://bit.ly/1dsHQ0K",
 "desc":"Part of Darkhax's Custom Collection mods. A small mod that allows branding customization of the Minecraft main menu. Supports Minecraft formatting codes.",
@@ -12463,8 +12473,8 @@
 "desc":"Increases the maximum enchantment level limits.",
 "author":["Twinklez"],
 "type":["Universal"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.6.1","1.5.2"]
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -12473,8 +12483,8 @@
 "desc":"Increases the maximum enchantment level limits.",
 "author":["Twinklez"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.6.1","1.5.2"]
 
 },{
 
