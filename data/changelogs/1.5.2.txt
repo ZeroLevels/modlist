@@ -1,3 +1,9 @@
+(February/04/2014)
+	+Added 2 mods by Kuuu (Which are the following)
+		+Added "Magic Wand Mod"
+		+Added "Nether Star Tools"
+	+Added "Super Enchants"
+
 (February/01/2014)
 	*Updated "M-Ore Mod" info: Now "Universal"
 	+Added "Witches and More"
