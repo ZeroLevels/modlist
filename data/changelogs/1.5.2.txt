@@ -1,3 +1,6 @@
+(February/05/2014)
+	+Added "ExplorerCraft"
+
 (February/04/2014)
 	+Added 2 mods by Kuuu (Which are the following)
 		+Added "Magic Wand Mod"
