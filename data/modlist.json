@@ -4577,6 +4577,16 @@
 
 },{
 
+"name":"ExplorerCraft",
+"link":"http://bit.ly/MZ9nOB",
+"desc":"Provides new map recipes and items that make it easier to explore and manage maps.",
+"author":["Zeno410"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
 "name":"ExplosionDropsCore",
 "link":"http://bit.ly/12ZFKh1",
 "desc":"All blocks destroyed by an explosion will return drops.",
