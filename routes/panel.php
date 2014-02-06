@@ -616,7 +616,7 @@ $this->respond('GET', '/queue/changelog', function ($request, $response, $servic
             if($mod['author'] === $new_data['author']) {
                 foreach($new_data['versions'] as $version) {
                     if(in_array($version, $mod['versions'])) {
-                        if(isset($new_data['source'])) {
+                        if(isset($new_data['source']) && $new_data['source'] !== '') {
                             if(!isset($mod['source'])) {
                                 $new_data['changes']['normal'][] = 'newsource';
                                 $new_data['changes']['normal'][] = 'source';
