@@ -389,7 +389,9 @@ $this->respond('GET', '/submission/[*:id]', function ($request, $response, $serv
     //TODO: Restructure submissions.json?
     $submission = $service->submissions[$request->param('id')];
     
-    if($submission['mode'] === 'Update Request') {
+    $mode = isset($submission['edit_data']['mode']) ? $submission['edit_data']['mode'] : $submission['mode'];
+    
+    if($mode === 'Update Request') {
         $mods = json_decode(file_get_contents('data/modlist.json'), true);
         foreach($mods as $mod) {
             if(strtolower($mod['name']) === strtolower($submission['name'])) {
