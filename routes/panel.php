@@ -556,7 +556,7 @@ $this->respond('GET', '/queue/[download|render:type]', function ($request, $resp
                 $mod['type'] = $new_data['type'];
                 $mod['dependencies'] = $new_data['dependencies'];
                 $mod['versions'] = $new_data['versions'];
-                if(isset($new_data['source'])) {
+                if(isset($new_data['source']) && $new_data['source'] !== '') {
                     $mod['source'] = $new_data['source'];
                 }
             }
