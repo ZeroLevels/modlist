@@ -245,6 +245,16 @@
 
 },{
 
+"name":"Amberoguia",
+"link":"http://bit.ly/1fDGTBL",
+"desc":"Adds a farmable crop which drops a food item also usable for tools, armor, or blocks. Also adds small mobs.",
+"author":["b1u3m0nk3","chilibomb"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.1","1.5.2"]
+
+},{
+
 "name":"Amethyst Tools",
 "link":"http://bit.ly/18EIrwG",
 "desc":"Adds Amethyst tools and armor.",
@@ -10130,6 +10140,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"OresPlus",
+"link":"http://bit.ly/1jkcE8G",
+"desc":"Generates ores in your world for future use by other mods. Allows you to control how they generate, and allows you to regenerate ores in existing worlds.",
+"author":["TheTorbinWren"],
+"source":"https://github.com/TheTorbinWren/OresPlus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 

@@ -5,6 +5,8 @@
 		+Added "Leafcutter"
 		+Added "Potion Packs"
 		+Added "QuiverBow"
+	+Added "Amberoguia"
+	+Added "OresPlus"
 
 (February/04/2014)
 	+Added 2 mods by Kuuu (Which are the following)
