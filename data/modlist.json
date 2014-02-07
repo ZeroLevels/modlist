@@ -439,7 +439,7 @@
 
 "name":"Armor Smelter",
 "link":"http://bit.ly/1gGbQGX",
-"desc":"A simple mod that allows you to smelt leather, iron, gold and diamond armor and tools back into leather/ingots/diamonds.",
+"desc":"Allows you to smelt leather, iron, gold and diamond armor and tools back into leather/ingots/diamonds.",
 "author":["Domochevsky"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
