@@ -3,6 +3,8 @@
 		+Added "Armor Smelter"
 		+Added "Growth Tonic"
 		+Added "Potion Packs"
+	+Added "BetterCraft"
+	+Added "JABBA"
 
 (February/05/2014)
 	+Added "ExplorerCraft"
