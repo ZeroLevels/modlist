@@ -978,6 +978,17 @@
 
 },{
 
+"name":"BetterCraft",
+"link":"http://bit.ly/1ccLYhM",
+"desc":"Adds tweaks and new items such as foods, armour sets, and tool sets.",
+"author":["Kitteh6660"],
+"source":"https://github.com/Kitteh6660/BetterCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Better Dungeons",
 "link":"http://bit.ly/12pF8SA",
 "desc":"Adds many, many new dungeons, challenges, and treasures to the game.",
@@ -7116,6 +7127,17 @@
 "type":["N/A"],
 "dependencies":["N/A"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"JABBA",
+"link":"http://bit.ly/1jkbtpD",
+"desc":"A storage mod aiming at making a better barrel than what is already out there.",
+"author":["ProfMobius"],
+"source":"https://bitbucket.org/ProfMobius/jabba",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1"]
 
 },{
 
