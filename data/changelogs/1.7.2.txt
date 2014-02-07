@@ -1,3 +1,11 @@
+(February/07/2014)
+	+Added 5 mods by Domochevsky (Which are the following)
+		+Added "Armor Smelter"
+		+Added "Growth Tonic"
+		+Added "Leafcutter"
+		+Added "Potion Packs"
+		+Added "QuiverBow"
+
 (February/04/2014)
 	+Added 2 mods by Kuuu (Which are the following)
 		+Added "Magic Wand Mod"

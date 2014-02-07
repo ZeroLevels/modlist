@@ -1,3 +1,9 @@
+(February/07/2014)
+	+Added 3 mods by Domochevsky (Which are the following)
+		+Added "Armor Smelter"
+		+Added "Growth Tonic"
+		+Added "Potion Packs"
+
 (February/05/2014)
 	+Added "ExplorerCraft"
 

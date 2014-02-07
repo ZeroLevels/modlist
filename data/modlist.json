@@ -437,6 +437,16 @@
 
 },{
 
+"name":"Armor Smelter",
+"link":"http://bit.ly/1gGbQGX",
+"desc":"This is a simple mod that lets you smelt leather, iron, gold and diamond armor and tools (Except shovels. Screw those.) back into leather/ingots/diamonds. You get about half back. ",
+"author":["Domochevsky"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Armor Stand",
 "link":"http://bit.ly/WnSwBj",
 "desc":"This block will give you a place to show off your armor. Just place the block and right click on the platform. You can choose from a selection of skins to hold your armor, as well as have it stare at you, constantly. You may also change the texture of platform by putting block in the last slot.",
@@ -5875,6 +5885,16 @@
 
 },{
 
+"name":"Growth Tonic",
+"link":"http://bit.ly/1gGbQGX",
+"desc":"Adds a potion for turning dirt into grass blocks.",
+"author":["Domochevsky"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"GuiAPI",
 "link":"http://bit.ly/TGlcZA",
 "desc":"A powerful API for creating easy-to-create and use settings and menus in Minecraft, and uses TWL.",
@@ -7443,7 +7463,7 @@
 "author":["Domochevsky"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -10532,6 +10552,16 @@
 
 },{
 
+"name":"Potion Packs",
+"link":"http://bit.ly/1gGbQGX",
+"desc":"Allows you to bundle 8 potions with a bit of string, leaving them ready for use.\r\nAlso works for milk buckets and its cleansing properties.",
+"author":["Domochevsky"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Power Boxes",
 "link":"http://bit.ly/1fYGhLG",
 "desc":"Adds storage and conversion of energy from and to both Buildcraft and IndustrialCraft 2.",
@@ -10839,7 +10869,7 @@
 "author":["Domochevsky"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
