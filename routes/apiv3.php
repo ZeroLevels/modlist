@@ -33,6 +33,7 @@ $this->respond('GET', '/[*:version].[json|md5:filetype]', function ($request, $r
     array_multisort($mod_names, SORT_ASC, $newlist);
 
     $response->noCache();
+    $response->header('Access-Control-Allow-Origin', '*');
     if($request->param('filetype') === 'json') {
         $response->header('Content-Type', 'application/json');
         $response->body(json_encode($newlist, JSON_UNESCAPED_SLASHES));
@@ -66,6 +67,16 @@ $this->respond('GET', '/recent.json', function ($request, $response, $service, $
     }
     
     $response->noCache();
+    $response->header('Access-Control-Allow-Origin', '*');
     $response->header('Content-Type', 'application/json');
     $response->body(json_encode($recent, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
+});
+
+/*
+ * api/v3/docs
+ * Documentation
+ * @return page
+ */
+$this->respond('GET', '/docs', function ($request, $response, $service, $app) {
+    $service->render('html/content/apiv3.phtml');
 });

@@ -488,8 +488,16 @@ $klein->respond('GET', '/apiv2.php', function ($request, $response, $service, $a
  * Version content pages (eg: banners, credits, faq, history)
  * @return page
  */
-$klein->respond('GET', '/[banners|credits|faq|history|igml|api_docs:page]', function ($request, $response, $service, $app) {
+$klein->respond('GET', '/[banners|credits|faq|history|igml:page]', function ($request, $response, $service, $app) {
     $service->render('html/content/' . $request->param('page') . '.phtml');
+});
+
+/*
+ * API docs redirect
+ * @return redirect
+ */
+$klein->respond('GET', '/api_docs', function ($request, $response, $service, $app) {
+    $response->redirect('/api/v3/docs');
 });
 
 /*
