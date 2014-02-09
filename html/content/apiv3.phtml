@@ -1,0 +1,135 @@
+<h1>Modlist APIv3 Documentation</h1>
+<hr>
+<h3>Changes from APIv2</h3>
+<ul>
+    <li>API keys are no longer in use for all versions of the API.</li>
+    <li>APIv2 is deprecated, APIv1 has been removed completely.</li>
+    <li>
+        While the structure of the response has not changed, the location of the API has been moved.
+        <ul>
+            <li>Requests for the JSON data are now located at <code>http://modlist.mcf.li/api/v3/<strong>&lt;version&gt;</strong>.json</code>.</li>
+            <li>Requests for MD5 hashes are now located at <code>http://modlist.mcf.li/api/v3/<strong>&lt;version&gt;</strong>.md5</code>.</li>
+        </ul>
+    </li>
+    <li>You can no longer request for multiple versions aside from <code>all</code>. This change may be reverted in a future version.</li>
+    <li>New recent changes API. <span class="text-danger"><strong>Experimental feature</strong>, may change without notice.</span></li>
+</ul>
+<hr>
+<h3>Data request</h3>
+<p>
+    Data request is sent in minified JSON.
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Key</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Sample Response</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>name</td>
+            <td>string</td>
+            <td>The name of the mod.</td>
+            <td><code>"Forge"</code></td>
+        </tr>
+        <tr>
+            <td>other</td>
+            <td>string</td>
+            <td><em class="text-danger">Does not exist when empty.</em> Aliases and nametags for the mod.</td>
+            <td><code>"(API)"</code></td>
+        </tr>
+        <tr>
+            <td>link</td>
+            <td>string</td>
+            <td>The link to the mod page. All links are bitly links so that anyone can view its statistics.</td>
+            <td><code>"http://bit.ly/forge-dl"</code></td>
+        </tr>
+        <tr>
+            <td>desc</td>
+            <td>string</td>
+            <td>The description of the mod. May contain HTML tags. We are considering the possibility of using Markdown instead.</td>
+            <td><code>"..."</code></td>
+        </tr>
+        <tr>
+            <td>author</td>
+            <td>array of strings</td>
+            <td>The name(s) of the mod author(s).</td>
+            <td><code>["LexManos"]</code></td>
+        </tr>
+        <tr>
+            <td>source</td>
+            <td>string</td>
+            <td><em class="text-danger">Does not exist when not open source.</em> The link to the page of the mod's source code.</td>
+            <td><code>"https://github.com/MinecraftForge/MinecraftForge"</code></td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td>array of strings</td>
+            <td>
+                The type of the mod. May contain up to 3 values.<br>
+                Possible values: <code>Universal</code>, <code>Client</code>, <code>Server</code>, <code>SSP</code>, <code>SMP</code> and <code>LAN</code>
+            </td>
+            <td><code>["Universal"]</code></td>
+        </tr>
+        <tr>
+            <td>dependencies</td>
+            <td>array of strings</td>
+            <td>
+                The Forge compatibility of a mod, followed by any additional dependencies.<br>
+                <ul>
+                    <li><code>Forge Required</code> - The mod requires Forge.</li>
+                    <li><code>Forge Compatible</code> - The mod is compatible with Forge but does not require it.</li>
+                    <li><code>Not Forge Compatible</code> - The mod cannot run with Forge.</li>
+                    <li><code>Base Edit</code> - The mod contains base edits. Note that <code>Forge Required</code> mods can still be <code>Base Edit</code> mods.</li>
+                </ul>
+            </td>
+            <td><code>["Forge Required","FML"]</code></td>
+        </tr>
+        <tr>
+            <td>version</td>
+            <td>array of strings</td>
+            <td>The versions supported by this mod entry.</td>
+            <td><code>["1.7.2","1.6.4","1.5.2"]</code></td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h3>Hash request</h3>
+<p>
+    Hash request is returned in plain text, not JSON. This is an md5 hash of the requested json file.<br>
+    <strong>Sample Response:</strong> <code>60aa8322a67aea02849359104356521e</code>
+</p>
+<hr>
+<h3>Recent changes <span class="pull-right"><span class="label label-success">New</span> <span class="label label-danger">Experimental</span></span></h3>
+<p>
+    This is a list of recent changes. This API request is <em class="text-danger">experimental</em> and is likely to change in the future.<br>
+    This request is returned in JSON. It is the most recent partial piece of the changelog of all supported versions.<br>
+    <strong>Sample Response:</strong><br>
+<pre>
+{
+    "1.7.2": [
+        "(February/09/2014)",
+        "  +Added \"More Swords Mod\""
+    ],
+    "1.6.4": [
+        "(February/07/2014)",
+        "  +Added 3 mods by Domochevsky (Which are the following)",
+        "    +Added \"Armor Smelter\"",
+        "    +Added \"Growth Tonic\"",
+        "    +Added \"Potion Packs\"",
+        "  +Added \"BetterCraft\"",
+        "  +Added \"JABBA\""
+    ],
+    "1.5.2": [
+        "(February/08/2014)",
+        "  *Updated \"Better Than Wolves Mod\" info: Now \"Base Edit\"",
+        "  *Updated \"BTWTweak\" info"
+    ]
+}
+</pre>
+</p>
+<hr>
+<footer>Last Updated by <em>GrygrFlzr</em> on <time datetime="2014-02-09T12:55:00+00:00" title="Feb 9, 2014 12:55 PM">February 9th, 2014</time>.</footer>
