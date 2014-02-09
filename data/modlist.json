@@ -1179,7 +1179,7 @@
 "desc":"A mod that changes much of the functionality of Minecraft that makes Survival a lot less trivial, as well as mechanical additions that progress through ages.Not for the weak. Progression takes time, effort, and a lot of getting used to from the standard Minecraft.",
 "author":["FlowerChild"],
 "type":["Universal"],
-"dependencies":["Not Forge Compatible"],
+"dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
@@ -1591,7 +1591,7 @@
 "author":["Grom PE"],
 "source":"https://github.com/grompe/BTWTweak",
 "type":["SSP","SMP","LAN"],
-"dependencies":["Not Forge Compatible","Better Than Wolves Mod required"],
+"dependencies":["Not Forge Compatible","Better Than Wolves Mod"],
 "versions":["1.5.2"]
 
 },{
