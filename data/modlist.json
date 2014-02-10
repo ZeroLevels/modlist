@@ -8024,13 +8024,14 @@
 
 },{
 
-"name":"[Metallurgy 3] Metal Mechanics",
+"name":"Metal Mechanics",
 "link":"http://bit.ly/17ooqUB",
-"desc":"Brings the power of Universal Electricity to the world of Metallurgy!",
+"desc":"Discontinued mod. Brings the power of Universal Electricity to the world of Metallurgy!",
 "author":["Lycanite"],
+"source":"https://github.com/Lycanite/MetalMech",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"dependencies":["Forge Required","Metallurgy 3","Universal Electricity"],
+"versions":["1.5.2","1.5.1"]
 
 },{
 

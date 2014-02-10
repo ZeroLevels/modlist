@@ -32,6 +32,7 @@
 	+Added "Ages of Mystcraft"
 	+Added "Caption API"
 	+Added "Herblore Mod"
+	+Added "Metal Mechanics"
 	+Added "ModOptionsAPI"
 	-Removed "[Forestry] ThaumicBees"
 	-Removed "[Universal Electricity] Assembly Line"

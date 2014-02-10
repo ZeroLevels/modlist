@@ -12,7 +12,8 @@
 	*Updated "[Hats] Hat Stand" name: Now "Hat Stand", Requires "Hats"
 	*Updated "ModOptionsAPI" info: Added source
 	*Updated "More Pistons Mod" info: Added source
-	*Updated "[Mystcraft] Ages of Mystcraft" name: Now "Ages of Mystcraft", Requires "Mystcraft"
+	*Updated "[Metallurgy 3] Metal Mechanics" name, description and info: Now "Metal Mechanics", Requires "Metallurgy 3" and "Universal Electricity", Added source
+	*Updated "[Mystcraft] Ages of Mystcraft" name and info: Now "Ages of Mystcraft", Requires "Mystcraft"
 	*Updated "[Universal Electricity] Atomic Science" name, link and info: Now "Atomic Science", Requires "Universal Electricity"
 	*Updated "[Universal Electricity] Biotech name and info: Now "Biotech", Requires "Universal Electricity"
 	*Updated "[Universal Electricity] ICBM - Missiles and Military Tech" name, link and info: Now "ICBM", Requires "Universal Electricity"
