@@ -133,15 +133,12 @@ if (!function_exists('convertChangelog')) {
 
         if (count($removed) > 3) {
             shuffle($removed);
-            $result .= 'Removed ' . formatMod($removed[0], $version) . ', ' . formatMod($removed[1], $version) . ', and ' . (string) (count($removed) - 2) . ' other mods... ';
+            $result .= 'Removed ' . $removed[0] . ', ' . $removed[1] . ', and ' . (string) (count($removed) - 2) . ' other mods... ';
         } elseif (count($removed) > 1) {
             $last = array_pop($removed);
-            $addedlist = array();
-            foreach ($removed as &$mod)
-                $addedlist[] = formatMod($mod, $version);
-            $result .= 'Removed ' . implode(', ', $addedlist) . ' and ' . formatMod($last, $version) . '. ';
+            $result .= 'Removed ' . implode(', ', $removed) . ' and ' . $last . '. ';
         } elseif (count($removed) == 1) {
-            $result .= 'Removed ' . formatMod($removed[0], $version) . '. ';
+            $result .= 'Removed ' . $removed[0] . '. ';
         }
 
         return $result;

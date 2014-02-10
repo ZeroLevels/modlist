@@ -1,3 +1,6 @@
+(February/10/2014)
+	*Updated "ICBM - Missiles and Military Tech" name, description and info: Now "ICBM", Requires "Universal Electricity"
+
 (February/04/2014)
 	*Updated "AutoSwitch" info and desc: Added source, Now "SSP", "SMP", "LAN"
 	+Added "ThebombzenAPI"
