@@ -24,6 +24,8 @@
 	*Updated "[ComputerCraft] Turtle Item Analyzer" name: Now "Turtle Item Analyzer", Requires "ComputerCraft"
 	*Updated "[ComputerCraft] Turtle NBT Editor" name: Now "Turtle NBT Editor", Requires "ComputerCraft"
 	*Updated "[ComputerCraft] Xfel's Peripherals" name: Now "Xfel's Peripherals", Requires "ComputerCraft"
+	*Updated "[CraftGuide] AspectGuide for Thaumcraft" name: Now "AspectGuide for Thaumcraft", Requires "CraftGuide"
+	*Updated "[CraftGuide] BreedingGuide for Forestry" name: Now "BreedingGuide for Forestry", Requires "CraftGuide"
 	*Updated "Elemental Creepers" link
 	*Updated "Forestry" description and link
 	*Updated "ModOptionsAPI" description and info: Requires "Modloader", Now "Universal", Added source

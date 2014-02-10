@@ -2966,22 +2966,22 @@
 
 },{
 
-"name":"[CraftGuide] AspectGuide for Thaumcraft",
+"name":"AspectGuide for Thaumcraft",
 "link":"http://bit.ly/16NnuMd",
 "desc":"Shows Thaumcraft aspects of items in CraftGuide.",
 "author":["Gyromitra"],
 "type":["Client"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","CraftGuide"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[CraftGuide] BreedingGuide for Forestry",
+"name":"BreedingGuide for Forestry",
 "link":"http://bit.ly/105csfU",
 "desc":"Shows bee and tree breeding recipes in CraftGuide, including resulting species, its products and specials. Works fine with ExtraBees and ThaumicBees.",
 "author":["Gyromitra"],
 "type":["Client"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","CraftGuide"],
 "versions":["1.4.7"]
 
 },{
