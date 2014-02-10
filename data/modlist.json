@@ -6418,32 +6418,12 @@
 },{
 
 "name":"ICBM",
-"link":"http://bit.ly/178yZzB",
-"desc":"",
-"author":["Calclavia"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.2"]
-
-},{
-
-"name":"ICBM",
 "link":"http://bit.ly/1h221an",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"ICBM - Missiles and Military Tech",
-"link":"http://bit.ly/10cq1wu",
-"desc":"Introduces intercontinental ballistic missilesto Minecraft. But the fun doesn't end there! This mod also features manydifferent types of explosives, missiles and machines seperated in to threedifferent tiers. If strategic warfare, carefully coordinated airstrikes,messing with matter and general destruction are up your alley,then this mod is for you!",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5","1.4.5"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 

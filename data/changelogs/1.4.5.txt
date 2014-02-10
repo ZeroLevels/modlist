@@ -1,3 +1,6 @@
+(February/10/2014)
+	*Updated "ICBM - Missiles and Military Tech" name, description and info: Now "ICBM", Requires "Universal Electricity"
+
 (February/04/2014)
 	+Added 2 mods by thebombzen (Which are the following)
 		+Added "AutoSwitch"
