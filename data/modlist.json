@@ -13971,123 +13971,65 @@
 
 },{
 
-"name":"[Universal Electricity] Assembly Line",
-"link":"http://bit.ly/YTp2h9",
-"desc":"With all these machines in all these different mods, there needs to be a way to automate them into factories! The Assembly Line mod introduces you to conveyor belts, various item manipulation blocks and brings your machines together. While pipes are easier to build with for item transportation, who in the world would stuff their valuables inside a tiny little pipe?",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[Universal Electricity] Atomic Science",
-"link":"http://bit.ly/1aBCGAq",
+"name":"Atomic Science",
+"link":"http://bit.ly/1h23rS9",
 "desc":"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!",
 "author":["Calclavia"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[Universal Electricity] Biotech",
-"link":"http://bit.ly/Z7jGiQ",
-"desc":"Focuses on bringing advanced agriculture systems and contraptions, automation of agriculture, and food production. In addition, the mod will also provide genetic manipulations in higher tiers.",
-"author":["LiQuiD"],
-"source":"https://github.com/liquidgithub/Biotech",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1"]
-
-},{
-
-"name":"[Universal Electricity] Blastcraft",
-"link":"http://bit.ly/1463ZMy",
-"desc":"",
-"author":["Cammygames"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Universal Electricity] Complex Machines",
-"link":"http://bit.ly/YcYVaj",
-"desc":"Adds in eight new high end machines, including a laser emitter. The machines use large amounts of power to automate lengthy tasks, such as building or mining. The lasers can be configured to different modes, which can do anything from electrifying nearby water to pulling mobs and items inwards.",
-"author":["pixlepix"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1"]
-
-},{
-
-"name":"[Universal Electricity] Electric Expansion",
-"link":"http://bit.ly/UJa91Q",
-"desc":"Focuses mainly on energy storage and transfer as well as adding more cables for better energy transfer. This mod will make Universal Electricity more complex and realistic.",
-"author":["Mattredsox","Alex_Hawks"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[Universal Electricity] Fluid Mechanics",
-"link":"http://bit.ly/WnVLJB",
-"desc":"As for the Fluid part of the name, this mod is about managing and moving various liquids as needed. The is accomplished with the added pipes, tanks, and machines that come with this mod. As for the Mechanics part of the name, this mod also includes ways to do simple mechanical power. As the mod stands currently, it's only good for storing liquid for later use, so it's recommended that you download other mods like Atomic Science, Steam Power, RailCraft or Forestry to accompany Fluid Mechanics.",
-"author":["DarkGuardsman"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Universal Electricity] ICBM - Missiles and Military Tech",
-"link":"http://bit.ly/VF4nMd",
+"name":"ICBM",
+"link":"http://bit.ly/1h221an",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
 "author":["Calclavia"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[Universal Electricity] Mekanism",
-"link":"http://bit.ly/WnX634",
+"name":"Mekanism",
+"link":"http://bit.ly/1dAHYb1",
 "desc":"An extensive mod featuring innovative ways of electricity generation, advanced ore processing machinery, new sets and types of tools and armor, and much more. If you like high tech machinery that extends your resource collection and processing, then this mod is for you!",
 "author":["aidancbrady"],
+"source":"https://github.com/aidancbrady/Mekanism",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[Universal Electricity] MineChem",
-"link":"http://bit.ly/187DeaK",
+"name":"MineChem",
+"link":"http://bit.ly/1dAIK7J",
 "desc":"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!",
 "author":["Rushmead"],
+"source":"https://github.com/pixlepix/MineChem",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
-"name":"[Universal Electricity] Modular Powersuits",
-"link":"http://bit.ly/10lCpse",
+"name":"Modular Powersuits",
+"link":"http://bit.ly/1h26dXw",
 "desc":"Modular Powersuits is a Minecraft mod based around the idea of an inventor who tinkers with high-tech electronics and makes a suit of powered armor chock-full of useful gadgets and features. Inspired by heroes like Iron Man, Megaman, and Samus Aran, as well as by the high-tech armor in mods like EE2 and IC2.",
 "author":["MachineMuse"],
+"source":"https://github.com/MachineMuse/MachineMusePowersuits",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[Universal Electricity] Resonant Induction",
-"link":"http://bit.ly/16lLFCh",
+"name":"Resonant Induction",
+"link":"http://bit.ly/1h26EkD",
 "desc":"Focuses on the manipulation of electricity and wireless technology.",
 "author":["Calclavia","Aidancbrady","Unpairedbracket"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.4","1.6.2"]
 
 },{
