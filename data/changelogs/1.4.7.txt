@@ -1,5 +1,18 @@
 (February/10/2014)
 	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
+	*Updated "[Buildcraft] Additional Buildcraft Objects" name and info: Now "Additional Buildcraft Objects", Requires "Buildcraft"
+	*Updated "[Buildcraft] Additional Pipes" name and info: Now "Additional Pipes", Requires "Buildcraft"
+	*Updated "[Buildcraft] Advanced Power Systems" name and info: Now "Advanced Power Systems", Requires "Buildcraft"
+	*Updated "[Buildcraft] Buildcraft Tools" name and info: Now "Buildcraft Tools", Requires "Buildcraft"
+	*Updated "[Buildcraft] Compact Mobs" name and info: Now "Compact Mobs", Requires "Buildcraft"
+	*Updated "[Buildcraft] FXFix" name and info: Now "FXFix", Requires "Buildcraft"
+	*Updated "[Buildcraft] Liquid Metals" name and info: Now "Liquid Metals", Requires "Buildcraft"
+	*Updated "[Buildcraft] Logistics Pipes" name and info: Now "Logistics Pipes", Requires "Buildcraft", Now "Universal"
+	*Updated "[Buildcraft] MineChem" name, description and info: Now "MineChem", Requires "Buildcraft", Added source
+	*Updated "[Buildcraft] More Pipes Mod" name and info: Now "More Pipes Mod", Requires "Buildcraft"
+	*Updated "[Buildcraft] Routing Pipe" name and info: Now "Routing Pipe", Requires "Buildcraft"
+	*Updated "[Buildcraft] TeleportPipes" name, description and info: Now "Teleport Pipes", Requires "Buildcraft"
+	*Updated "[Buildcraft] Valve Pipe" name, description and info: Now "Valve Pipes", Requires "Buildcraft", Added source
 	*Updated "Caption API" description and info: Now "Clientside", Requires "Modloader", Added source
 	*Updated "Elemental Creepers" link
 	*Updated "Forestry" description and link

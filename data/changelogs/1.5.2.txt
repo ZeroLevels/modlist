@@ -1,5 +1,13 @@
 (February/10/2014)
 	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
+	*Updated "[Buildcraft] Additional Buildcraft Objects" name and info: Now "Additional Buildcraft Objects", Requires "Buildcraft"
+	*Updated "[Buildcraft] Additional Pipes" name and info: Now "Additional Pipes", Requires "Buildcraft"
+	*Updated "[Buildcraft] Buildcraft Tools" name and info: Now "Buildcraft Tools", Requires "Buildcraft"
+	*Updated "[Buildcraft] Compact Mobs" name and info: Now "Compact Mobs", Requires "Buildcraft"
+	*Updated "[Buildcraft] Den Pipes" name and info: Now "Den Pipes", Requires "Buildcraft"
+	*Updated "[Buildcraft] Gate Copy" name and info: Now "Gate Copy", Requires "Buildcraft"
+	*Updated "[Buildcraft] Logistics Pipes" name and info: Now "Logistics Pipes", Requires "Buildcraft", Now "Universal"
+	*Updated "[Buildcraft] QuarryPlus" name and info: Now "QuarryPlus", Requires "Buildcraft"
 	*Updated "More Pistons Mod" info: Added source
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 3] Thaumic Tinkerer" name and info: Now "Thaumic Tinkerer", Requires "Thaumcraft 3"

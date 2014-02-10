@@ -1637,84 +1637,84 @@
 
 },{
 
-"name":"[Buildcraft] Additional Buildcraft Objects",
+"name":"Additional Buildcraft Objects",
 "link":"http://bit.ly/13infK7",
 "desc":"Provides some additional pipes and objects for buildcraft.",
 "author":["Flow86"],
 "source":"https://github.com/Flow86/Additional-Buildcraft-Objects-Mod",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.6.4","1.5.2","1.4.7","1.4.5"]
 
 },{
 
-"name":"[Buildcraft] Additional Pipes",
+"name":"Additional Pipes",
 "link":"http://bit.ly/1fMO3YI",
 "desc":"Adds additional piping options such as teleport pipes.",
 "author":["tcooc"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
-"name":"[Buildcraft] Advanced Power Systems",
+"name":"Advanced Power Systems",
 "link":"http://bit.ly/XvyVks",
 "desc":"An addon that adds new power generation for buildcraft and machines for processing.",
 "author":["Seph"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[Buildcraft] Buildcraft Tools",
+"name":"Buildcraft Tools",
 "link":"http://bit.ly/19jLeeo",
 "desc":"Adds a bunch of chargeable tools and armor to Buildcraft.",
 "author":["Maexx97"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
-"name":"[Buildcraft] Compact Mobs",
+"name":"Compact Mobs",
 "link":"http://bit.ly/VMx3D4",
 "desc":"An addon that allows you to compress mobs into items.",
 "author":["itsZN"],
 "source":"https://github.com/itsZN/CompactMobs",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[Buildcraft] Den Pipes",
+"name":"Den Pipes",
 "link":"http://bit.ly/VFC2bC",
 "desc":"A small addon for Buildcraft the implements various pipes that aid in making builds smarter and more compact.",
 "author":["denoflions"],
 "type":["Universal"],
-"dependencies":["Forge Required","denLib Required"],
+"dependencies":["Forge Required","Buildcraft","denLib"],
 "versions":["1.6.2","1.5.2"]
 
 },{
 
-"name":"[Buildcraft] FXFix",
+"name":"FXFix",
 "link":"http://bit.ly/15hcVPC",
 "desc":"Removes the TextureFX size dependency for BuildCraft liquids if a hi-res texturepack is used. It reduces the tick-lag caused by the animated liquid textures, so that a higher FPS is achieved.",
 "author":["domi1819"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[Buildcraft] Gate Copy",
+"name":"Gate Copy",
 "link":"http://bit.ly/VFC2bC",
 "desc":"Adds a clipboard item that can copy the settings from a Buildcraft Gate and paste those settings onto another similar gate.",
 "author":["denoflions"],
 "type":["Universal"],
-"dependencies":["Forge Required","denLib Required"],
+"dependencies":["Forge Required","Buildcraft","denLib"],
 "versions":["1.5.2"]
 
 },{
@@ -1729,93 +1729,95 @@
 
 },{
 
-"name":"[Buildcraft] Liquid Metals",
+"name":"Liquid Metals",
 "link":"http://bit.ly/YmB9bn",
 "desc":"",
 "author":["fred4106"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[Buildcraft] Logistics Pipes",
+"name":"Logistics Pipes",
 "link":"http://bit.ly/12p1tyZ",
 "desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
 "author":["thezorro266"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.6.4","1.5.2","1.4.7"]
 
 },{
 
-"name":"[Buildcraft] MineChem",
+"name":"MineChem",
 "link":"http://bit.ly/13dKCkb",
-"desc":"",
+"desc":"Adds chemistry and machines that decompose items into elements and molecules. Also adds microscopes and synthesis machines to turn elements back into items.",
 "author":["ljdp"],
+"source":"https://github.com/perky/Minechem",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7","1.4.5"]
 
 },{
 
-"name":"[Buildcraft] More Pipes Mod",
+"name":"More Pipes Mod",
 "link":"http://bit.ly/Z4MhGs",
 "desc":"This mod simply adds a few more pipes to Buildcraft.",
 "author":["Zensiert1997"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[BuildCraft] QuarryPlus",
+"name":"QuarryPlus",
 "link":"http://bit.ly/11ZM7UK",
 "desc":"Adds markers for BuildCraft.",
 "author":["yogpstop"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.5.2","1.5.1","1.5"]
 
 },{
 
-"name":"[BuildCraft] Routing Pipe",
+"name":"Routing Pipe",
 "link":"http://bit.ly/12Qlv4O",
 "desc":"Routing pipes are kind of like diamond pipes, in that they route items to specific outputs. But unlike diamond pipes, routing pipes only use the input pipe to determine which way to send the item:",
 "author":["taral"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[Buildcraft] Teleport Pipes",
+"name":"Teleport Pipes",
 "link":"http://bit.ly/1aN4vlz",
 "desc":"Teleport Pipes lets you expand your pipe system for Buildcraft. This includes teleport pipes for items, fluids, and power.",
 "author":["kingrunes"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.6.4","1.6.2"]
 
 },{
 
-"name":"[Buildcraft] TeleportPipes",
+"name":"Teleport Pipes",
 "link":"http://bit.ly/142vPdp",
-"desc":"",
+"desc":"Adds Buildcraft pipes and a Control Station which can transfer items.",
 "author":["Zensiert1997"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[Buildcraft] Valve Pipe",
+"name":"Valve Pipes",
 "link":"http://bit.ly/106ihhR",
-"desc":"",
+"desc":"Implements various Buildcraft pipes that allow for more compact builds.",
 "author":["denoflionsx"],
+"source":"https://github.com/denoflionsx/DenPipes",
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7","1.4.5"]
 
 },{
 
@@ -14031,16 +14033,6 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.2"]
-
-},{
-
-"name":"Valve Pipes",
-"link":"http://bit.ly/15c6blv",
-"desc":"",
-"author":["denoflionsx"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
 
 },{
 
