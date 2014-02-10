@@ -14,6 +14,7 @@
 	*Updated "[Buildcraft] TeleportPipes" name, description and info: Now "Teleport Pipes", Requires "Buildcraft"
 	*Updated "[Buildcraft] Valve Pipe" name, description and info: Now "Valve Pipes", Requires "Buildcraft", Added source
 	*Updated "Caption API" description and info: Now "Clientside", Requires "Modloader", Added source
+	*Updated "[Chert Craft] Gravel Replacement" name and info: Now "Gravel Replacement", Requires "Chert Craft Mod"
 	*Updated "Elemental Creepers" link
 	*Updated "Forestry" description and link
 	*Updated "ModOptionsAPI" description and info: Requires "Modloader", Now "Universal", Added source

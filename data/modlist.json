@@ -2120,22 +2120,22 @@
 
 },{
 
-"name":"[Chert Craft] Gravel Replacement",
+"name":"Gravel Replacement",
 "link":"http://bit.ly/YQ4rer",
 "desc":"Makes the gravel block not drop flint when mined, making the acquisition of flint dependent on crafting flint from chert or by using Kinyoshi's Smeltable Gravel mod.",
 "author":["Kinyoshi"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Compatible","Chert Craft Mod"],
 "versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[Chert Craft] Gravel Replacement 2",
+"name":"Gravel Replacement 2",
 "link":"http://bit.ly/YQ4rer",
 "desc":"Makes gravel always drop a flint when mined.",
 "author":["Kinyoshi"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Compatible","Chert Craft Mod"],
 "versions":["1.5.2"]
 
 },{
