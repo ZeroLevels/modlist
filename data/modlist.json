@@ -2621,17 +2621,17 @@
 
 },{
 
-"name":"[ComputerCraft] Aperture Science Turtle Upgrades",
+"name":"Aperture Science Turtle Upgrades",
 "link":"http://bit.ly/YBqlEd",
 "desc":"Includes many turtle upgrades varying from IDetecting turtles to batch turtles, you can enable the parts that you like",
 "author":["Hackingroelz"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[ComputerCraft] Extra Peripherals",
+"name":"Extra Peripherals",
 "link":"http://bit.ly/KIG3u7",
 "desc":"Adds extra ComputerCraft peripherals, currently adds a Bundled Connector that allows you to interact with Project: Red cables.",
 "author":["Pzyber"],
@@ -2642,92 +2642,92 @@
 
 },{
 
-"name":"[ComputerCraft] Immibis's Peripherals",
+"name":"Immibis's Peripherals",
 "link":"http://bit.ly/YJGFPC",
 "desc":"Adds RFID cards, Mag-cards, Speakers, LAN cables, Cryptographic Accelerators, and an Adventure map interface.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
-"name":"[ComputerCraft] MiscPeripherals",
+"name":"MiscPeripherals",
 "link":"http://bit.ly/TWGOzR",
 "desc":"Frickin' turtles with frickin' mining lasers attached to their frickin' side!",
 "author":["RichardG867"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.5.2","1.4.7"]
 
 },{
 
-"name":"[ComputerCraft] OpenCCSensors",
+"name":"OpenCCSensors",
 "link":"http://bit.ly/WpGBEI",
 "desc":"An open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them.",
 "author":["Mikeemoo"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[ComputerCraft] OpenPeripheral",
+"name":"OpenPeripheral",
 "link":"http://bit.ly/17cdajX",
 "desc":"Adds the ability to turn most blocks in the game into ComputerCraft peripherals, so you can just drop a computer next to a block and instantly have access to start calling lua functions on it. Also adds \"Terminal Glasses\". Think \"Google Glasses\", but for minecraft. If you know what you're doing, can be used for such things as telling you when you have a new tweet from twitter!",
 "author":["mikeemoo"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.5.2"]
 
 },{
 
-"name":"[ComputerCraft] Redworks Addon",
+"name":"Redworks Addon",
 "link":"http://bit.ly/WgFYm7",
 "desc":"An Addon-Software for the CraftOS. It was developed to be more user friendly, add new api's, programs, additional content, as well as connect to the real internet. There are two versions available, Master will replace all terminals, Floppy for single terminal installs of Redworks. This software is fully compatible with CraftOS and the floppy version makes it even more compatible with other Alternative OS's out there.",
 "author":["FuzzyPurp"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[ComputerCraft] Scanner Peripheral",
+"name":"Scanner Peripheral",
 "link":"http://bit.ly/VLKwOQ",
 "desc":"The Scanner Peripheral does just what the name says. You put a printed page in the scanner and read the contents of the page from a computer.",
 "author":["Orwell"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[ComputerCraft] Turtle Item Analyzer",
+"name":"Turtle Item Analyzer",
 "link":"http://bit.ly/13lGl0I",
 "desc":"Adds an item analyzer for computer craft which allows Items to be analyzed by a turtle. The turtle is able to read the name, id, metadata (damage), and count of any item in the turtle's inventory. Also adds an analytical turtle which can be used to determine the block id or metadata of any block or item in its inventory.",
 "author":["someone9999"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[ComputerCraft] Turtle NBT Editor",
+"name":"Turtle NBT Editor",
 "link":"http://bit.ly/13Sg5qC",
 "desc":"Adds a turtle that allows you to edit and read the NBT Data of TileEntitys.",
 "author":["xuma202"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[ComputerCraft] Xfel's Peripherals",
+"name":"Xfel's Peripherals",
 "link":"http://bit.ly/YyvYyZ",
 "desc":"Adds a cable that allows for more than six peripherals to be connected to one computer.",
 "author":["Xfel"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.4.7"]
 
 },{

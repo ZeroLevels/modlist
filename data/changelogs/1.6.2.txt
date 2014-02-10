@@ -4,6 +4,7 @@
 	*Updated "[Buildcraft] Buildcraft Tools" name and info: Now "Buildcraft Tools", Requires "Buildcraft"
 	*Updated "[Buildcraft] Den Pipes" name and info: Now "Den Pipes", Requires "Buildcraft"
 	*Updated "[Buildcraft] Teleport Pipes" name and info: Now "Teleport Pipes", Requires "Buildcraft", Now "Universal"
+	*Updated "[ComputerCraft] Immibis's Peripherals" name: Now "Immibis's Peripherals", Requires "ComputerCraft"
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 4] Thaumic Tinkerer" name, authors and info: Now "Thaumic Tinkerer", Now by Vazkii, pixlepix and nekosune, Requires "Thaumcraft 4"
 	*Updated "[Tinkers' Construct] Iguana Tweaks" name and info: Now "Iguana Tweaks", Requires "Tinkers' Construct"

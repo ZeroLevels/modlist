@@ -10,6 +10,10 @@
 	*Updated "[Buildcraft] QuarryPlus" name and info: Now "QuarryPlus", Requires "Buildcraft"
 	*Updated "[Chert Craft] Gravel Replacement" name and info: Now "Gravel Replacement", Requires "Chert Craft Mod"
 	*Updated "[Chert Craft] Gravel Replacement 2" name and info: Now "Gravel Replacement 2", Requires "Chert Craft Mod"
+	*Updated "[ComputerCraft] Immibis's Peripherals" name: Now "Immibis's Peripherals", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] MiscPeripherals" name: Now "MiscPeripherals", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] OpenCCSensors" name: Now "OpenCCSensors", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] OpenPeripheral" name: Now "OpenPeripheral", Requires "ComputerCraft"
 	*Updated "More Pistons Mod" info: Added source
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 3] Thaumic Tinkerer" name and info: Now "Thaumic Tinkerer", Requires "Thaumcraft 3"

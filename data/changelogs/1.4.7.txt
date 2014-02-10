@@ -15,6 +15,15 @@
 	*Updated "[Buildcraft] Valve Pipe" name, description and info: Now "Valve Pipes", Requires "Buildcraft", Added source
 	*Updated "Caption API" description and info: Now "Clientside", Requires "Modloader", Added source
 	*Updated "[Chert Craft] Gravel Replacement" name and info: Now "Gravel Replacement", Requires "Chert Craft Mod"
+	*Updated "[ComputerCraft] Aperture Science Turtle Upgrades" name and info: Now "Aperture Science Turtle Upgrades", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] Immibis's Peripherals" name: Now "Immibis's Peripherals", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] MiscPeripherals" name: Now "MiscPeripherals", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] OpenCCSensors" name: Now "OpenCCSensors", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] Redworks Addon" name: Now "Redworks Addon", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] Scanner Peripheral" name: Now "Scanner Peripheral", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] Turtle Item Analyzer" name: Now "Turtle Item Analyzer", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] Turtle NBT Editor" name: Now "Turtle NBT Editor", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] Xfel's Peripherals" name: Now "Xfel's Peripherals", Requires "ComputerCraft"
 	*Updated "Elemental Creepers" link
 	*Updated "Forestry" description and link
 	*Updated "ModOptionsAPI" description and info: Requires "Modloader", Now "Universal", Added source
