@@ -521,16 +521,6 @@
 
 "name":"Artifice",
 "link":"http://bit.ly/1cgVjFs",
-"desc":"Adds worldgen, new blocks, and new items.",
-"author":["Shukaro"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2"]
-
-},{
-
-"name":"Artifice",
-"link":"http://bit.ly/1cgVjFs",
 "desc":"Adds worldgen (like flowers, marble, and basalt), new blocks (like scaffolding), and new items (sh as storage boxes).",
 "author":["Shukaro"],
 "source":"https://github.com/Shukaro/Artifice",
@@ -627,17 +617,7 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"Atomic Science",
-"link":"http://bit.ly/WTdY8p",
-"desc":"Atomic Science brings you the best fission and fusion reactors as well as the one and only atomic particle accelerator.",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5","1.4.5"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -1114,20 +1094,10 @@
 "link":"http://bit.ly/WhJqrb",
 "desc":"Allows snow to pile up during snowfall and increases snow levels from 8 to 16. Includes a GUI to customize snow.",
 "author":["acomputerdog"],
-"type":["SSP","LAN"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.6.2","1.6.1"]
-
-},{
-
-"name":"BetterSnow",
-"link":"http://bit.ly/WhJqrb",
-"desc":"Allows snow to pile up during snowfall and increases snow levels from 8 to 16. Includes a GUI to customize snow.",
-"author":["acomputerdog"],
 "source":"http://www.mediafire.com/folder/evvtvo117nd9v/sources",
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -1961,23 +1931,14 @@
 },{
 
 "name":"Caption API",
-"link":"http://bit.ly/WCNwtc",
-"desc":"",
-"author":["WyrdOne"],
-"type":["N/A"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"Caption API",
 "other":"(for the Hearing Impaired)",
 "link":"http://bit.ly/WCNwtc",
 "desc":"Allows sounds to be displayed as text for those with no sound or that are hearing impaired.",
 "author":["WyrdOne"],
+"source":"https://github.com/WyrdOne/CaptionAPI",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5.1","1.5"]
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -2101,17 +2062,7 @@
 "author":["bilde2910"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"ChatLog",
-"link":"http://bit.ly/1i0xYfP",
-"desc":"Saves all chat to a dedicated 'chatlogs' folder.",
-"author":["bilde2910"],
-"type":["Client"],
-"dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -4145,18 +4096,7 @@
 "author":["xSmallDeadGuyx"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.5"]
-
-},{
-
-"name":"Elemental Creepers",
-"other":"(MCF Moderator Link)",
-"link":"http://bit.ly/elementalcreepers-user",
-"desc":"Adds creepers with different elements to the game.",
-"author":["xSmallDeadGuyx"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5","1.4.7"]
+"versions":["1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -4176,7 +4116,7 @@
 "author":["iN3rd","MaximumTechnology"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2"]
+"versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -5306,18 +5246,7 @@
 "author":["SirSengir"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.5"]
-
-},{
-
-"name":"Forestry",
-"other":"(Beta)",
-"link":"http://bit.ly/YVPSHD",
-"desc":"Adds beekeeping, automatic farms, as well as breeding trees.",
-"author":["SirSengir"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -5716,18 +5645,7 @@
 "author":["karyonix"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.4.7"]
-
-},{
-
-"name":"GLSL Shaders Mod",
-"other":"(Development)",
-"link":"http://bit.ly/VK1Y3q",
-"desc":"Adds shaders that can be swapped in-game. Allows use of Depth of Field, Parallax Occlusion and other advanced shading. Continuation of daxnitro's GLSL Shaders.",
-"author":["karyonix"],
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.4.7"]
 
 },{
 
@@ -6158,18 +6076,7 @@
 "author":["calebmanley"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7"]
-
-},{
-
-"name":"Herblore Mod",
-"other":"(ages 18+ only)",
-"link":"http://bit.ly/XPptd0",
-"desc":"",
-"author":["calebmanley"],
-"type":["SSP"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.4.5"]
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -8073,23 +7980,13 @@
 },{
 
 "name":"Mekanism",
-"link":"http://bit.ly/13ZCuHu",
-"desc":"",
-"author":["Aidancbrady"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
-"name":"Mekanism",
 "link":"http://bit.ly/1dAHYb1",
 "desc":"An extensive mod featuring innovative ways of electricity generation, advanced ore processing machinery, new sets and types of tools and armor, and much more. If you like high tech machinery that extends your resource collection and processing, then this mod is for you!",
 "author":["aidancbrady"],
 "source":"https://github.com/aidancbrady/Mekanism",
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -8761,23 +8658,14 @@
 },{
 
 "name":"ModOptionsAPI",
+"other":"(API)",
 "link":"http://bit.ly/XeiQAH",
 "desc":"Does your mod need simple, configurable options?  Do you not want to edit core Minecraft files to do this? Or did the mod you just download tell you to come here? This mod is right for you.",
 "author":["WyrdOne"],
+"source":"https://github.com/WyrdOne/ModOptionsAPI",
 "type":["Client"],
 "dependencies":["Forge Compatible","Modloader"],
-"versions":["1.5.1","1.5","1.4.5"]
-
-},{
-
-"name":"ModOptionsAPI",
-"other":"(API)",
-"link":"http://bit.ly/XeiQAH",
-"desc":"",
-"author":["WyrdOne"],
-"type":["N/A"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7"]
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -9143,9 +9031,10 @@
 "link":"http://bit.ly/15ykG7X",
 "desc":"Recompiled for 1.5.x from MontyPylon's More Pistons Mod. Adds pistons that can push up to 8 blocks away.",
 "author":["smeagolworms4"],
+"source":"https://github.com/Smeagolworms4/More-Pistons",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.5"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -9775,22 +9664,12 @@
 
 "name":"No Fire Spread",
 "link":"http://bit.ly/V1qVZv",
-"desc":"Prevents fire from spreading.",
-"author":["soccerguy3"],
-"type":["SSP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.1","1.5.2","1.5.1","1.5"]
-
-},{
-
-"name":"No Fire Spread",
-"link":"http://bit.ly/V1qVZv",
 "desc":"Prevents the spread of fire from all fire sources.",
 "author":["soccerguy3"],
 "source":"http://www.minecraftforum.net/topic/1571830-",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -12801,18 +12680,7 @@
 "author":["bioxx"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
-"name":"TerraFirmaCraft",
-"other":"(1.4.6 only)",
-"link":"http://bit.ly/15c5F7g",
-"desc":"",
-"author":["bioxx"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.4.7","1.4.5"]
 
 },{
 
@@ -13499,16 +13367,6 @@
 "author":["nerdboy64"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"THX Helicopter",
-"link":"http://bit.ly/VOSO91",
-"desc":"",
-"author":["Theoxylo"],
-"type":["SSP"],
-"dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
 
 },{
@@ -14295,18 +14153,7 @@
 "author":["Thatapplefreak"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"VoxelCam",
-"other":"(Snapshot)",
-"link":"http://bit.ly/GZrktd",
-"desc":"Snapshot release - may be buggy. Integration with vanilla screenshots, allowing you to take screenshots normally with F2.  In-game screenshot manager with GUI, and the ability to take HUGE screenshots like back in early Beta.",
-"author":["Thatapplefreak"],
-"type":["Client"],
-"dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -14549,16 +14396,6 @@
 
 "name":"Witches and More",
 "link":"http://bit.ly/WnYzWw",
-"desc":"",
-"author":["Chancebozey"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"Witches and More",
-"link":"http://bit.ly/WnYzWw",
 "desc":"Adds a lot of mobs, such as witches, widows, knights and more. Also adds new biomes and structures.",
 "author":["Chancebozey"],
 "type":["Universal"],
@@ -14614,16 +14451,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
-
-},{
-
-"name":"World Downloader",
-"link":"http://bit.ly/Wo8dJd",
-"desc":"",
-"author":["cubic72"],
-"type":["SMP"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.4.7","1.4.5"]
 
 },{
 
@@ -14959,12 +14786,13 @@
 },{
 
 "name":"ZoomMod",
+"other":"(Experimental)",
 "link":"http://bit.ly/1i0Cs6h",
 "desc":"Allows you to zoom by holding a configurable button.",
 "author":["ga2mer"],
 "source":"https://github.com/ga2mer/ZoomMod",
 "type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
+"dependencies":["Forge Required"],
 "versions":["1.7.2"]
 
 },{

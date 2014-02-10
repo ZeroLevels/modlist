@@ -1,5 +1,10 @@
 (February/10/2014)
+	*Updated "Atomic Science" description
+	*Updated "Caption API" info: Added source
+	*Updated "Elemental Creepers" link
 	*Updated "ICBM - Missiles and Military Tech" name, description and info: Now "ICBM", Requires "Universal Electricity"
+	*Updated "ModOptionsAPI" info: Added source
+	*Updated "More Pistons Mod" info: Added source
 
 (February/04/2014)
 	*Updated "AutoSwitch" info and desc: Added source, Now "SSP", "SMP", "LAN"

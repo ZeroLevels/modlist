@@ -1,3 +1,7 @@
+(February/10/2014)
+	*Updated "VoxelCam" description
+	*Updated "ZoomMod" info: Now "Forge Required"
+
 (February/09/2014)
 	+Added "More Swords Mod"
 

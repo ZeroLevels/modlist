@@ -1,5 +1,9 @@
 (February/10/2014)
+	*Updated "Atomic Science" description
+	*Updated "Herblore Mod" description and info: Now "Forge Required", Now "Universal"
 	*Updated "ICBM - Missiles and Military Tech" name, description and info: Now "ICBM", Requires "Universal Electricity"
+	*Updated "Mekanism" description and info: Requires "Universal Electricity", Added source
+	*Updated "ModOptionsAPI" info: Added source
 
 (February/04/2014)
 	+Added 2 mods by thebombzen (Which are the following)
