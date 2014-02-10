@@ -622,6 +622,16 @@
 },{
 
 "name":"Atomic Science",
+"link":"http://bit.ly/1h23rS9",
+"desc":"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!",
+"author":["Calclavia"],
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Atomic Science",
 "link":"http://bit.ly/WTdY8p",
 "desc":"Atomic Science brings you the best fission and fusion reactors as well as the one and only atomic particle accelerator.",
 "author":["Calclavia"],
@@ -6417,6 +6427,16 @@
 
 },{
 
+"name":"ICBM",
+"link":"http://bit.ly/1h221an",
+"desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
+"author":["Calclavia"],
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
 "name":"ICBM - Missiles and Military Tech",
 "link":"http://bit.ly/10cq1wu",
 "desc":"Introduces intercontinental ballistic missilesto Minecraft. But the fun doesn't end there! This mod also features manydifferent types of explosives, missiles and machines seperated in to threedifferent tiers. If strategic warfare, carefully coordinated airstrikes,messing with matter and general destruction are up your alley,then this mod is for you!",
@@ -8082,6 +8102,17 @@
 
 },{
 
+"name":"Mekanism",
+"link":"http://bit.ly/1dAHYb1",
+"desc":"An extensive mod featuring innovative ways of electricity generation, advanced ore processing machinery, new sets and types of tools and armor, and much more. If you like high tech machinery that extends your resource collection and processing, then this mod is for you!",
+"author":["aidancbrady"],
+"source":"https://github.com/aidancbrady/Mekanism",
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
 "name":"Melee Skeletons",
 "link":"http://bit.ly/WwQtRq",
 "desc":"Make all Skeletons hold a sword instead of bow.",
@@ -8212,6 +8243,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"MineChem",
+"link":"http://bit.ly/1dAIK7J",
+"desc":"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!",
+"author":["Rushmead"],
+"source":"https://github.com/pixlepix/MineChem",
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -8777,6 +8819,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2"]
+
+},{
+
+"name":"Modular Powersuits",
+"link":"http://bit.ly/1h26dXw",
+"desc":"Modular Powersuits is a Minecraft mod based around the idea of an inventor who tinkers with high-tech electronics and makes a suit of powered armor chock-full of useful gadgets and features. Inspired by heroes like Iron Man, Megaman, and Samus Aran, as well as by the high-tech armor in mods like EE2 and IC2.",
+"author":["MachineMuse"],
+"source":"https://github.com/MachineMuse/MachineMusePowersuits",
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity"],
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -11276,6 +11329,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Resonant Induction",
+"link":"http://bit.ly/1h26EkD",
+"desc":"Focuses on the manipulation of electricity and wireless technology.",
+"author":["Calclavia","Aidancbrady","Unpairedbracket"],
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -13968,69 +14031,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
-
-},{
-
-"name":"Atomic Science",
-"link":"http://bit.ly/1h23rS9",
-"desc":"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"ICBM",
-"link":"http://bit.ly/1h221an",
-"desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"Mekanism",
-"link":"http://bit.ly/1dAHYb1",
-"desc":"An extensive mod featuring innovative ways of electricity generation, advanced ore processing machinery, new sets and types of tools and armor, and much more. If you like high tech machinery that extends your resource collection and processing, then this mod is for you!",
-"author":["aidancbrady"],
-"source":"https://github.com/aidancbrady/Mekanism",
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"MineChem",
-"link":"http://bit.ly/1dAIK7J",
-"desc":"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!",
-"author":["Rushmead"],
-"source":"https://github.com/pixlepix/MineChem",
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Modular Powersuits",
-"link":"http://bit.ly/1h26dXw",
-"desc":"Modular Powersuits is a Minecraft mod based around the idea of an inventor who tinkers with high-tech electronics and makes a suit of powered armor chock-full of useful gadgets and features. Inspired by heroes like Iron Man, Megaman, and Samus Aran, as well as by the high-tech armor in mods like EE2 and IC2.",
-"author":["MachineMuse"],
-"source":"https://github.com/MachineMuse/MachineMusePowersuits",
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"Resonant Induction",
-"link":"http://bit.ly/1h26EkD",
-"desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","Aidancbrady","Unpairedbracket"],
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2"]
 
 },{
 
