@@ -9786,12 +9786,12 @@
 
 },{
 
-"name":"[Not Enough Items] NEI Plugins",
+"name":"NEI Plugins",
 "link":"http://bit.ly/14h8yXi",
 "desc":"Plugin for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct support in chicken_bones' Not Enough Items (NEI).",
 "author":["mistaqur"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{

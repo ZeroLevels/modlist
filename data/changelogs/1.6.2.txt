@@ -1,4 +1,5 @@
 (February/10/2014)
+	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Universal Electricity] Atomic Science" name, link and info: Now "Atomic Science", Requires "Universal Electricity"
 	*Updated "[Universal Electricity] ICBM - Missiles and Military Tech" name, link and info: Now "ICBM", Requires "Universal Electricity"
 	*Updated "[Universal Electricity] Mekanism" name, link and info: Now "Mekanism", Requires "Universal Electricity", Added source
