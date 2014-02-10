@@ -1,3 +1,7 @@
+(February/10/2014)
+	*Updated "BetterSnow" info: Now "Forge Compatible", Now "Universal"
+	+Added "More Pistons Mod"
+
 (February/07/2014)
 	+Added "Amberoguia"
 	+Added "JABBA"
