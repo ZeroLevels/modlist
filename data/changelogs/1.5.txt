@@ -2,7 +2,7 @@
 	*Updated "Atomic Science" description
 	*Updated "[Buildcraft] QuarryPlus" name and info: Now "QuarryPlus", Requires "Buildcraft"
 	*Updated "Caption API" info: Added source
-	*Updated "[ComputerCraft] Immibis's Peripherals" name: Now "Immibis's Peripherals", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] Immibis's Peripherals" name and info: Now "Immibis's Peripherals", Requires "ComputerCraft"
 	*Updated "Elemental Creepers" link
 	*Updated "ICBM - Missiles and Military Tech" name, description and info: Now "ICBM", Requires "Universal Electricity"
 	*Updated "ModOptionsAPI" info: Added source

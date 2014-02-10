@@ -6454,318 +6454,309 @@
 
 },{
 
-"name":"[IndustrialCraft 2] Advanced Machines",
+"name":"Advanced Machines",
 "link":"http://bit.ly/xmvYp1",
 "desc":"Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FAdvancedMachines",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
-"name":"[IndustrialCraft 2] Advanced Machines (immibis)",
+"name":"Advanced Machines (immibis)",
 "link":"http://bit.ly/1cBEsPS",
 "desc":"An unnerfed version of AtomicStryker's.  Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
 
-"name":"[IndustrialCraft 2] Advanced Machines Original",
+"name":"Advanced Machines Original",
 "link":"http://bit.ly/UvGdJ4",
 "desc":"",
 "author":["Snyke"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Advanced Power Management",
+"name":"Advanced Power Management",
 "link":"http://bit.ly/POXv1O",
 "desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
 "author":["Pantheis"],
 "source":"https://github.com/pantheis/AdvancedPowerManagement",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Advanced Repulsion Systems",
+"name":"Advanced Repulsion Systems",
 "link":"http://bit.ly/Tj9hmM",
 "desc":"Allows you to create forcefields and zap stuff.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Advanced Solar Panels",
+"name":"Advanced Solar Panels",
 "link":"http://bit.ly/GELi8l",
 "desc":"An addon meant to provide more advanced solar panels, both for keeping things compact and offering upgraded versions of solar helmets.",
 "author":["SeNtiMeL"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.2","1.5.2","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Advanced Technologies",
+"name":"Advanced Technologies",
 "link":"http://bit.ly/UvGzzp",
 "desc":"",
 "author":["thebest108"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Armour and Tool Status HUD",
+"name":"Armour and Tool Status HUD",
 "link":"http://bit.ly/XgFJn4",
 "desc":"",
 "author":["DoomFruit"],
 "type":["Client"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Backpack HUD",
+"name":"Backpack HUD",
 "link":"http://bit.ly/Tqg4ra",
 "desc":"Draws an on-screen HUD that enables you to view armor item durability outside of the player inventory screen. The HUD can be positioned next to the hotbar on either side, or in any corner.",
 "author":["Mineshopper"],
 "type":["Client"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Beam Me Up!",
+"name":"Beam Me Up!",
 "link":"http://bit.ly/UnjZGc",
 "desc":"",
 "author":["narc"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] BiomeGenerators",
+"name":"BiomeGenerators",
 "link":"http://bit.ly/XyJTXD",
 "desc":"",
 "author":["F4113nb34st"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] BrainTech Agricultures Datachip Package",
+"name":"BrainTech Agricultures Datachip Package",
 "link":"http://bit.ly/11sEN48",
 "desc":"",
 "author":["I don't now"],
 "type":["N/A"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] ChargePads",
+"name":"ChargePads",
 "link":"http://bit.ly/UWuj7J",
 "desc":"Provides new blocks which, when stood upon, will recharge IC2 items that are held in your hand or worn (like batpacks or parts of a nanosuit).",
 "author":["Myrathi"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.2","1.5.2","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Combo Armors",
+"name":"Combo Armors",
 "link":"http://bit.ly/XRBmNs",
 "desc":"Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
 "author":["UnixRano"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.5.1","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Compact Solars",
-"link":"http://bit.ly/UvuyEV",
-"desc":"",
+"name":"Compact Solars",
+"link":"http://bit.ly/16lF6Qc",
+"desc":"Adds Solar Arrays craftable using multiple IC2 Solar Panels.",
 "author":["cpw"],
 "source":"https://github.com/cpw/compactsolars",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] CompactWindmills",
+"name":"CompactWindmills",
 "link":"http://bit.ly/16lxi1C",
 "desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
 "author":["Aroma1997"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.2","1.5.2","1.5.1"]
 
 },{
 
-"name":"[IndustrialCraft 2] Custom Machine Recipes",
+"name":"Custom Machine Recipes",
 "link":"http://bit.ly/XgF5Gl",
 "desc":"",
 "author":["denoflions"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"IndustrialCraft 2 (Experimental)",
-"link":"http://bit.ly/10oNRBU",
-"desc":"IC2 experimental is unstable, may break worlds and its API may change frequently. Create backups of your world when using it.  Use at own risk if you can't wait for stable, non-experimental builds.  Being Tested on Forgecraft 2.  Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
-"author":["Alblaka","player"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
-
-},{
-
-"name":"[IndustrialCraft 2] F4113nb34st's Addons",
+"name":"F4113nb34st's Addons",
 "link":"http://bit.ly/10uwXrr",
 "desc":"",
 "author":["F4113nb34st"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] GoldenOrb",
+"name":"GoldenOrb",
 "link":"http://bit.ly/ZPWbdH",
 "desc":"",
 "author":["F4113nb34st"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Gravitation Suite",
+"name":"Gravitation Suite",
 "link":"http://bit.ly/M9OQhY",
 "desc":"Hello boys and girls! Our scientists are glad to present you the latest advanced scientific development! After UFO falling near to Roswell, New Mexico, in June or July 1947 we are engaged more than 65 years in reverse engineering. There were numerous attempts to reproduce the gravitational engine of aliens, but till 2012 they were unsuccessful. And now after long years of research we represent you our new development a gravitational suite, based at alien technology.",
 "author":["SeNtiMeL"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] GregTech-Addon",
+"name":"GregTech-Addon",
 "link":"http://bit.ly/X5rZhS",
 "desc":"A highly configurable addon for IndustrialCraft with several modes depending on how much time and dedication you're willing to spend on it. On top of allowing you to configure previously existing recipes to your liking, this addon also adds higher levels of technology to work towards. It's frequently used on servers so that people don't get all possible technology in a single day.",
 "author":["GregoriusT"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"IndustrialCraft 2 (IC2)",
-"other":"(Pre-Release Builds)",
+"name":"IndustrialCraft 2",
+"other":"(IC2) (Experimental)",
 "link":"http://bit.ly/10oNRBU",
-"desc":"Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
-"author":["Alblaka"],
+"desc":"IC2 experimental is unstable, may break worlds and its API may change frequently. Create backups of your world when using it. Use at own risk if you can't wait for stable, non-experimental builds. Being Tested on Forgecraft 2. Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
+"author":["Alblaka","player"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
-"name":"[IndustrialCraft 2] Liquid UU-Matter",
+"name":"Liquid UU-Matter",
 "link":"http://bit.ly/W2FIAu",
 "desc":"",
 "author":["narc"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Modular Force Field System",
+"name":"Modular Force Field System",
 "other":"(MFFS)",
 "link":"http://bit.ly/17lwlEj",
 "desc":"Makes forcefields that you can make look like other blocks or hold mobs/players at bay with.",
 "author":["Minalien"],
+"source":"https://github.com/Minalien/ModularForceFieldSystem",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.5.1","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] NetworkAnchor",
+"name":"NetworkAnchor",
 "link":"http://bit.ly/UvHNeb",
 "desc":"",
 "author":["LostCoder"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.5.2","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Nuclear Control",
+"name":"Nuclear Control",
 "link":"http://bit.ly/IkHWHJ",
 "desc":"Allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system.",
 "author":["Shedar"],
 "source":"https://bitbucket.org/shedar/ic2-nuclear-control/",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] OreDupeFix",
+"name":"OreDupeFix",
 "link":"http://bit.ly/Wgp1TF",
 "desc":"Unifies output of crafting recipes, furnace recipes, dungeon loot, and IC2 machine recipes to a configurable preferred ore from each mod.",
 "author":["agaricus"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Petroleum Generator",
+"name":"Petroleum Generator",
 "link":"http://bit.ly/UnkbW8",
 "desc":"",
 "author":["DrCeph"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] QuantumPack",
+"name":"QuantumPack",
 "link":"http://bit.ly/UvGThA",
 "desc":"Adds storage for quantum energy.",
 "author":["LostCoder"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.5.2","1.4.7"]
 
 },{
 
-"name":"[IndustrialCraft 2] Transformers",
+"name":"Transformers",
 "link":"http://bit.ly/KurvKg",
 "desc":"",
 "author":["Snyke"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
 },{
