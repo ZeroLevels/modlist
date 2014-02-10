@@ -8,6 +8,7 @@
 	*Updated "[ComputerCraft] OpenCCSensors" name: Now "OpenCCSensors", Requires "ComputerCraft"
 	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
 	*Updated "[Equivalent Exchange 3] Equivalency" name: Now "Equivalency", Requires "Equivalent Exchange 3"
+	*Updated "[Forestry] Magic Bees" name: Now "Magic Bees", Requires "Forestry"
 	*Updated "ModOptionsAPI" info: Added source
 	*Updated "More Pistons Mod" info: Added source
 	*Updated "[Universal Electricity] Atomic Science" name, link and info: Now "Atomic Science", Requires "Universal Electricity"
@@ -16,6 +17,7 @@
 	*Updated "[Universal Electricity] Mekanism" name, link and info: Now "Mekanism", Requires "Universal Electricity", Added source
 	*Updated "[Universal Electricity] MineChem" name, link and info: Now "MineChem", Requires "Universal Electricity", Added source
 	*Updated "[Universal Electricity] Modular Powersuits" name, link and info: Now "Modular Powersuits", Requires "Universal Electricity", Added source
+	-Removed "[Forestry] ThaumicBees"
 	-Removed "[Universal Electricity] Assembly Line"
 	-Removed "[Universal Electricity] Biotech"
 	-Removed "[Universal Electricity] Complex Machines"

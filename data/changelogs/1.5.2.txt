@@ -16,6 +16,9 @@
 	*Updated "[ComputerCraft] OpenPeripheral" name: Now "OpenPeripheral", Requires "ComputerCraft"
 	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
 	*Updated "[Equivalent Exchange 3] Equivalency" name: Now "Equivalency", Requires "Equivalent Exchange 3"
+	*Updated "[Forestry] Extra Bees" name: Now "Extra Bees", Requires "Forestry"
+	*Updated "[Forestry] Magic Bees" name: Now "Magic Bees", Requires "Forestry"
+	*Updated "[Forestry] Plugins for Forestry 2" name: Now "Plugins for Forestry 2", Requires "Forestry"
 	*Updated "More Pistons Mod" info: Added source
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 3] Thaumic Tinkerer" name and info: Now "Thaumic Tinkerer", Requires "Thaumcraft 3"
@@ -28,6 +31,7 @@
 	+Added "Caption API"
 	+Added "Herblore Mod"
 	+Added "ModOptionsAPI"
+	-Removed "[Forestry] ThaumicBees"
 	-Removed "[Universal Electricity] Assembly Line"
 	-Removed "[Universal Electricity] Biotech"
 	-Removed "[Universal Electricity] Electric Expansion"

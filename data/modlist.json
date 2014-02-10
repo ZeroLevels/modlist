@@ -5253,53 +5253,43 @@
 
 },{
 
-"name":"[Forestry] Extra Bees",
+"name":"Extra Bees",
 "link":"http://bit.ly/WCTXws",
 "desc":"Extra bees for Forestry. Link leads to Hanfox's unofficial page as the official is currently down. Click the numbers to show information/downloads.",
 "author":["Binnie"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Forestry"],
 "versions":["1.6.2","1.5.2","1.4.7"]
 
 },{
 
-"name":"[Forestry] Magic Bees",
+"name":"Magic Bees",
 "link":"http://bit.ly/UAenLP",
 "desc":"Previously known as ThaumicBees. Adds several new bee species to Forestry that will assist in producing useful items for Thaumcraft. If you love Thaumcraft and Beekeeping, these new species will provide extra resources and benefits to those clever enough to obtain them.",
 "author":["MysteriousAges"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Forestry"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"[Forestry] Plugins for Forestry 2",
+"name":"Plugins for Forestry 2",
 "link":"http://bit.ly/VFC2bC",
 "desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
 "author":["denoflions"],
 "type":["Universal"],
-"dependencies":["Forge Required","denLib Required"],
+"dependencies":["Forge Required","Forestry","denLib Required"],
 "versions":["1.5.2","1.4.7"]
 
 },{
 
-"name":"[Forestry] Plugins for Forestry 3",
+"name":"Plugins for Forestry 3",
 "link":"http://bit.ly/VFC2bC",
 "desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
 "author":["denoflions"],
 "type":["Universal"],
-"dependencies":["Forge Required","denLib Required"],
+"dependencies":["Forge Required","Forestry","denLib Required"],
 "versions":["1.6.2"]
-
-},{
-
-"name":"[Forestry] ThaumicBees",
-"link":"http://bit.ly/UAenLP",
-"desc":"Now known as ThaumicBees.  This entry will be removed e week from now.  Please see the \"Magic Bees\" entry for more info.",
-"author":["MysteriousAges"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 

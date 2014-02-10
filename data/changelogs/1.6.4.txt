@@ -9,6 +9,7 @@
 	*Updated "[ComputerCraft] Immibis's Peripherals" name: Now "Immibis's Peripherals", Requires "ComputerCraft"
 	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
 	*Updated "[Equivalent Exchange 3] Equivalency" name: Now "Equivalency", Requires "Equivalent Exchange 3"
+	*Updated "[Forestry] Magic Bees" name: Now "Magic Bees", Requires "Forestry"
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 4] Thaumic Tinkerer" name, authors and info: Now "Thaumic Tinkerer", Now by Vazkii, pixlepix and nekosune, Requires "Thaumcraft 4"
 	*Updated "[Tinkers' Construct] Iguana Tweaks" name and info: Now "Iguana Tweaks", Requires "Tinkers' Construct"
@@ -19,6 +20,7 @@
 	*Updated "[Universal Electricity] Resonant Induction" name, link and info: Now "Resonant Induction", Requires "Universal Electricity"
 	+Added "Elemental Orbs"
 	+Added "More Pistons Mod"
+	-Removed "[Forestry] ThaumicBees"
 
 (February/07/2014)
 	+Added 3 mods by Domochevsky (Which are the following)

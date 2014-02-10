@@ -29,6 +29,9 @@
 	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
 	*Updated "Elemental Creepers" link
 	*Updated "Forestry" description and link
+	*Updated "[Forestry] Extra Bees" name: Now "Extra Bees", Requires "Forestry"
+	*Updated "[Forestry] Magic Bees" name: Now "Magic Bees", Requires "Forestry"
+	*Updated "[Forestry] Plugins for Forestry 2" name: Now "Plugins for Forestry 2", Requires "Forestry"
 	*Updated "ModOptionsAPI" description and info: Requires "Modloader", Now "Universal", Added source
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 3] Essentia Everything" name and info: Now "Essentia Everything", Requires "Thaumcraft 3"
@@ -37,6 +40,7 @@
 	*Updated "[Universal Electricity] ICBM - Missiles and Military Tech" name, link and info: Now "ICBM", Requires "Universal Electricity"
 	*Updated "[Universal Electricity] Mekanism" name, link and info: Now "Mekanism", Requires "Universal Electricity", Added source
 	*Updated "[Universal Electricity] Modular Powersuits" name, link and info: Now "Modular Powersuits", Requires "Universal Electricity", Added source
+	-Removed "[Forestry] ThaumicBees"
 	-Removed "[Universal Electricity] Assembly Line"
 	-Removed "[Universal Electricity] Blastcraft"
 	-Removed "[Universal Electricity] Fluid Mechanics"
