@@ -13423,13 +13423,13 @@
 
 },{
 
-"name":"[Tinkers' Construct] Iguana Tweaks",
+"name":"Iguana Tweaks",
 "link":"http://bit.ly/17nkepE",
 "desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
 "author":["iguana_man"],
 "source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Tinkers' Construct"],
 "versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
