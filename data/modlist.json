@@ -12704,23 +12704,23 @@
 
 },{
 
-"name":"[Thaumcraft 3] Essentia Everything",
+"name":"Essentia Everything",
 "link":"http://bit.ly/Xhovos",
 "desc":"This addon has two major features. Firstly, it automatically adds support for all ores, nuggets, ingots, and dusts registered with Forge's Ore Dictionary. Secondly, it adds the ability to add or adjust aspects for just about anything, vanilla or modded.",
 "author":["Qwertygiy"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Thaumcraft 3"],
 "versions":["1.4.7"]
 
 },{
 
-"name":"[Thaumcraft 3] Thaumic Tinkerer",
+"name":"Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/ThaumicTinkerer",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Thaumcraft 3"],
 "versions":["1.5.2"]
 
 },{
@@ -12735,23 +12735,23 @@
 
 },{
 
-"name":"[Thaumcraft 4] Thaumic Tinkerer",
+"name":"Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 4. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
-"author":["Vazkii"],
+"author":["Vazkii","pixlepix","nekosune"],
 "source":"https://github.com/Vazkii/ThaumicTinkerer",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Thaumcraft 4"],
 "versions":["1.6.4","1.6.2"]
 
 },{
 
-"name":"[ThaumCraft] Liquid Essence",
+"name":"Liquid Essence",
 "link":"http://bit.ly/YKgSqp",
 "desc":"Allows to liquefy essence, e.g. to store your excess essence in BC tanks. Also provides Forestry capsules and recipes for Bottler and Squeezer.",
 "author":["Gyromitra"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Thaumcraft 3"],
 "versions":["1.4.7"]
 
 },{
