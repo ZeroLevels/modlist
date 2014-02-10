@@ -1,4 +1,5 @@
 (February/10/2014)
+	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
 	*Updated "More Pistons Mod" info: Added source
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 3] Thaumic Tinkerer" name and info: Now "Thaumic Tinkerer", Requires "Thaumcraft 3"

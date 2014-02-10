@@ -1,4 +1,5 @@
 (February/10/2014)
+	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
 	*Updated "BetterSnow" info: Now "Forge Compatible", Now "Universal"
 	+Added "More Pistons Mod"
 

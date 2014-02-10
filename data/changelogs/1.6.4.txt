@@ -1,4 +1,5 @@
 (February/10/2014)
+	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 4] Thaumic Tinkerer" name, authors and info: Now "Thaumic Tinkerer", Now by Vazkii, pixlepix and nekosune, Requires "Thaumcraft 4"
 	*Updated "[Tinkers' Construct] Iguana Tweaks" name and info: Now "Iguana Tweaks", Requires "Tinkers' Construct"

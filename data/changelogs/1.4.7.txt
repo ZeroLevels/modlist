@@ -1,4 +1,5 @@
 (February/10/2014)
+	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
 	*Updated "Caption API" description and info: Now "Clientside", Requires "Modloader", Added source
 	*Updated "Elemental Creepers" link
 	*Updated "Forestry" description and link

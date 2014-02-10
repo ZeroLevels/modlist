@@ -1,4 +1,5 @@
 (February/10/2014)
+	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
 	*Updated "Caption API" info: Added source
 	*Updated "ModOptionsAPI" info: Added source
 	*Updated "More Pistons Mod" info: Added source
