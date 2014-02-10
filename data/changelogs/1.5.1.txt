@@ -6,6 +6,8 @@
 	*Updated "[Chert Craft] Gravel Replacement" name and info: Now "Gravel Replacement", Requires "Chert Craft Mod"
 	*Updated "[ComputerCraft] Immibis's Peripherals" name: Now "Immibis's Peripherals", Requires "ComputerCraft"
 	*Updated "[ComputerCraft] OpenCCSensors" name: Now "OpenCCSensors", Requires "ComputerCraft"
+	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
+	*Updated "[Equivalent Exchange 3] Equivalency" name: Now "Equivalency", Requires "Equivalent Exchange 3"
 	*Updated "ModOptionsAPI" info: Added source
 	*Updated "More Pistons Mod" info: Added source
 	*Updated "[Universal Electricity] Atomic Science" name, link and info: Now "Atomic Science", Requires "Universal Electricity"

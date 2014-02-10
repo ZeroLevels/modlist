@@ -1,6 +1,7 @@
 (February/10/2014)
 	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
 	*Updated "BetterSnow" info: Now "Forge Compatible", Now "Universal"
+	*Updated "[Equivalent Exchange 3] Equivalency" name: Now "Equivalency", Requires "Equivalent Exchange 3"
 	+Added "More Pistons Mod"
 
 (February/07/2014)

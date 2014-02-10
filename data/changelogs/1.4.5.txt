@@ -1,6 +1,7 @@
 (February/10/2014)
 	*Updated "Atomic Science" description
 	*Updated "[Buildcraft] Additional Buildcraft Objects" name and info: Now "Additional Buildcraft Objects", Requires "Buildcraft"
+	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
 	*Updated "Herblore Mod" description and info: Now "Forge Required", Now "Universal"
 	*Updated "ICBM - Missiles and Military Tech" name, description and info: Now "ICBM", Requires "Universal Electricity"
 	*Updated "Mekanism" description and info: Requires "Universal Electricity", Added source

@@ -4460,20 +4460,21 @@
 "other":"(Prerelease)",
 "link":"http://bit.ly/VFB7Ip",
 "desc":"(1.6.4 builds <a href=\"https://github.com/lluixhi/EE3-Builds/tree/master/1.6.4\">here</a>.)</br>Allows you to transmute tons of materials into other materials.",
-"author":["Pahimer"],
+"author":["Pahimar"],
+"source":"https://github.com/pahimar/Equivalent-Exchange-3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
-"name":"[Equivalent Exchange 3] Equivalency",
+"name":"Equivalency",
 "link":"http://bit.ly/1aBwNmU",
 "desc":"An addon for Equivalent Exchange 3 that adds more transmutation recipes for the mod. It also adds support for several mods that are usually used along side EE3, such as Industrial Craft 2 and Forestry.",
 "author":["Lomeli12"],
 "source":"https://github.com/Lomeli12/Equivalency",
 "type":["Universal"],
-"dependencies":["Forge Required","LomLib Required"],
+"dependencies":["Forge Required","Equivalent Exchange 3","LomLib"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
 
 },{
