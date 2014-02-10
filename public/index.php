@@ -106,7 +106,9 @@ $notfound = function ($request, $response, $service, $app) {
  * @return page
  */
 $klein->respond('GET', '/', function ($request, $response, $service, $app) {
-   $service->render('html/home/index.phtml');
+   $service->render('html/home/index.phtml', array('specialjavascripts' => array(
+            "/resources/js/home.min.js"
+        )));
 });
 
 /*
