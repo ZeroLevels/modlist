@@ -10,6 +10,7 @@
 	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
 	*Updated "[Equivalent Exchange 3] Equivalency" name: Now "Equivalency", Requires "Equivalent Exchange 3"
 	*Updated "[Forestry] Magic Bees" name: Now "Magic Bees", Requires "Forestry"
+	*Updated "[Hats] Hat Stand" name: Now "Hat Stand", Requires "Hats"
 	*Updated "[Not Enough Items] NEI Plugins" name and info: Now "NEI Plugins", Requires "CodeChickenCore" and "Not Enough Items"
 	*Updated "[Thaumcraft 4] Thaumic Tinkerer" name, authors and info: Now "Thaumic Tinkerer", Now by Vazkii, pixlepix and nekosune, Requires "Thaumcraft 4"
 	*Updated "[Tinkers' Construct] Iguana Tweaks" name and info: Now "Iguana Tweaks", Requires "Tinkers' Construct"

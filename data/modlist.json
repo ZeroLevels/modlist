@@ -5950,12 +5950,12 @@
 
 },{
 
-"name":"[Hats] Hat Stand",
+"name":"Hat Stand",
 "link":"http://bit.ly/14814a3",
 "desc":"Adds a single block item, a Hat Stand.",
 "author":["iChun"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Hats"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
