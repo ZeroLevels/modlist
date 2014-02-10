@@ -1,3 +1,11 @@
+(February/10/2014)
+	*Updated "[Universal Electricity] Atomic Science" name, link and info: Now "Atomic Science", Requires "Universal Electricity"
+	*Updated "[Universal Electricity] ICBM - Missiles and Military Tech" name, link and info: Now "ICBM", Requires "Universal Electricity"
+	*Updated "[Universal Electricity] Mekanism" name, link and info: Now "Mekanism", Requires "Universal Electricity", Added source
+	*Updated "[Universal Electricity] MineChem" name, link and info: Now "MineChem", Requires "Universal Electricity", Added source
+	*Updated "[Universal Electricity] Modular Powersuits" name, link and info: Now "Modular Powersuits", Requires "Universal Electricity", Added source
+	*Updated "[Universal Electricity] Resonant Induction" name, link and info: Now "Resonant Induction", Requires "Universal Electricity"
+
 (February/07/2014)
 	+Added "JABBA"
 
