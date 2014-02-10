@@ -1,13 +1,35 @@
 (February/10/2014)
+	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
+	*Updated "[Buildcraft] Compact Mobs" name and info: Now "Compact Mobs", Requires "Buildcraft"
+	*Updated "[Buildcraft] QuarryPlus" name and info: Now "QuarryPlus", Requires "Buildcraft"
 	*Updated "Caption API" info: Added source
+	*Updated "[Chert Craft] Gravel Replacement" name and info: Now "Gravel Replacement", Requires "Chert Craft Mod"
+	*Updated "[ComputerCraft] Immibis's Peripherals" name: Now "Immibis's Peripherals", Requires "ComputerCraft"
+	*Updated "[ComputerCraft] OpenCCSensors" name: Now "OpenCCSensors", Requires "ComputerCraft"
+	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
+	*Updated "[Equivalent Exchange 3] Equivalency" name and info: Now "Equivalency", Requires "Equivalent Exchange 3"
+	*Updated "[Forestry] Magic Bees" name and info: Now "Magic Bees", Requires "Forestry"
+	*Updated "[Hats] Hat Stand" name and info: Now "Hat Stand", Requires "Hats"
+	*Updated "[IndustrialCraft 2] Advanced Machines" name and info: Now "Advanced Machines", Requires "IndustrialCraft 2"
+	*Updated "[IndustrialCraft 2] Combo Armors" name and info: Now "Combo Armors", Requires "IndustrialCraft 2"
+	*Updated "[IndustrialCraft 2] Compact Solars" name, link, description and info: Now "Compact Solars", Requires "IndustrialCraft 2"
+	*Updated "[IndustrialCraft 2] CompactWindmills" name and info: Now "CompactWindmills", Requires "IndustrialCraft 2"
+	*Updated "[IndustrialCraft 2] Gravitation Suite" name and info: Now "Gravitation Suite", Requires "IndustrialCraft 2"
+	*Updated "[IndustrialCraft 2] GregTech-Addon" name and info: Now "GregTech-Addon", Requires "IndustrialCraft 2"
+	*Updated "[IndustrialCraft 2] Modular Force Field System" name and info: Now "Modular Force Field System", Requires "IndustrialCraft 2", Added source
+	*Updated "[IndustrialCraft 2] Nuclear Control" name and info: Now "Nuclear Control", Requires "IndustrialCraft 2"
+	*Updated "[IndustrialCraft 2] OreDupeFix" name and info: Now "OreDupeFix", Requires "IndustrialCraft 2"
 	*Updated "ModOptionsAPI" info: Added source
 	*Updated "More Pistons Mod" info: Added source
+	*Updated "[Metallurgy 3] Metal Mechanics" name, description and info: Now "Metal Mechanics", Requires "Metallurgy 3" and "Universal Electricity", Added source
+	*Updated "[Mystcraft] Ages of Mystcraft" name and info: Now "Ages of Mystcraft", Requires "Mystcraft"
 	*Updated "[Universal Electricity] Atomic Science" name, link and info: Now "Atomic Science", Requires "Universal Electricity"
 	*Updated "[Universal Electricity] Biotech name and info: Now "Biotech", Requires "Universal Electricity"
 	*Updated "[Universal Electricity] ICBM - Missiles and Military Tech" name, link and info: Now "ICBM", Requires "Universal Electricity"
 	*Updated "[Universal Electricity] Mekanism" name, link and info: Now "Mekanism", Requires "Universal Electricity", Added source
 	*Updated "[Universal Electricity] MineChem" name, link and info: Now "MineChem", Requires "Universal Electricity", Added source
 	*Updated "[Universal Electricity] Modular Powersuits" name, link and info: Now "Modular Powersuits", Requires "Universal Electricity", Added source
+	-Removed "[Forestry] ThaumicBees"
 	-Removed "[Universal Electricity] Assembly Line"
 	-Removed "[Universal Electricity] Biotech"
 	-Removed "[Universal Electricity] Complex Machines"

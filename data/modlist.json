@@ -10,6 +10,17 @@
 
 },{
 
+"name":"Additional Buildcraft Objects",
+"link":"http://bit.ly/13infK7",
+"desc":"Provides some additional pipes and objects for buildcraft.",
+"author":["Flow86"],
+"source":"https://github.com/Flow86/Additional-Buildcraft-Objects-Mod",
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.6.4","1.5.2","1.4.7","1.4.5"]
+
+},{
+
 "name":"Additional Crafting",
 "link":"http://bit.ly/117u1iu",
 "desc":"Adds more blocks and crafting recipes to the game.",
@@ -28,6 +39,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5"]
+
+},{
+
+"name":"Additional Pipes",
+"link":"http://bit.ly/1fMO3YI",
+"desc":"Adds additional piping options such as teleport pipes.",
+"author":["tcooc"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -69,6 +90,88 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.5.2"]
+
+},{
+
+"name":"Advanced Machines",
+"link":"http://bit.ly/xmvYp1",
+"desc":"Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
+"author":["AtomicStryker"],
+"source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FAdvancedMachines",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Advanced Machines (immibis)",
+"link":"http://bit.ly/1cBEsPS",
+"desc":"An unnerfed version of AtomicStryker's.  Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
+"author":["immibis"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Advanced Machines Original",
+"link":"http://bit.ly/UvGdJ4",
+"desc":"",
+"author":["Snyke"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"Advanced Power Management",
+"link":"http://bit.ly/POXv1O",
+"desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
+"author":["Pantheis"],
+"source":"https://github.com/pantheis/AdvancedPowerManagement",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Advanced Power Systems",
+"link":"http://bit.ly/XvyVks",
+"desc":"An addon that adds new power generation for buildcraft and machines for processing.",
+"author":["Seph"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"Advanced Repulsion Systems",
+"link":"http://bit.ly/Tj9hmM",
+"desc":"Allows you to create forcefields and zap stuff.",
+"author":["immibis"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Advanced Solar Panels",
+"link":"http://bit.ly/GELi8l",
+"desc":"An addon meant to provide more advanced solar panels, both for keeping things compact and offering upgraded versions of solar helmets.",
+"author":["SeNtiMeL"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Advanced Technologies",
+"link":"http://bit.ly/UvGzzp",
+"desc":"",
+"author":["thebest108"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
 
 },{
 
@@ -142,6 +245,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Ages of Mystcraft",
+"link":"http://bit.ly/17lokjC",
+"desc":"Adds over 80 symbols to Mystcraft, most of which are material modifiers, though there are new Directional modifiers, new Length modifiers, and symbols that do nothing beyond add stability/instability.",
+"author":["Veovis Muad'dib"],
+"type":["Universal"],
+"dependencies":["Forge Required","Mystcraft"],
+"versions":["1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -347,6 +460,16 @@
 
 },{
 
+"name":"Aperture Science Turtle Upgrades",
+"link":"http://bit.ly/YBqlEd",
+"desc":"Includes many turtle upgrades varying from IDetecting turtles to batch turtles, you can enable the parts that you like",
+"author":["Hackingroelz"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Applied Energistics",
 "link":"http://bit.ly/12wrEbC",
 "desc":"A Mod About energy, matter, and getting stuff done! Probably.",
@@ -354,16 +477,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[Applied Energistics] ExtraCells",
-"link":"http://bit.ly/14afxzO",
-"desc":"Adds new standard storage blocks and special storage blocks.",
-"author":["Leonelf"],
-"type":["Universal"],
-"dependencies":["Forge Required","Applied Energistics"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -489,6 +602,16 @@
 
 },{
 
+"name":"Armour and Tool Status HUD",
+"link":"http://bit.ly/XgFJn4",
+"desc":"",
+"author":["DoomFruit"],
+"type":["Client"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Aroma1997s Dimensional World",
 "link":"http://bit.ly/10mzNIz",
 "desc":"Adds a complete new Dimension, specially for Mining, but you can do whatever you want to do in it.",
@@ -537,6 +660,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"AspectGuide for Thaumcraft",
+"link":"http://bit.ly/16NnuMd",
+"desc":"Shows Thaumcraft aspects of items in CraftGuide.",
+"author":["Gyromitra"],
+"type":["Client"],
+"dependencies":["Forge Required","CraftGuide"],
+"versions":["1.4.7"]
 
 },{
 
@@ -755,6 +888,16 @@
 
 },{
 
+"name":"Backpack HUD",
+"link":"http://bit.ly/Tqg4ra",
+"desc":"Draws an on-screen HUD that enables you to view armor item durability outside of the player inventory screen. The HUD can be positioned next to the hotbar on either side, or in any corner.",
+"author":["Mineshopper"],
+"type":["Client"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
 "name":"Backpacks (Brad16840)",
 "link":"http://bit.ly/1fMM6M4",
 "desc":"Adds nestable backpacks that can be opened from inside other backpacks.",
@@ -885,6 +1028,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.3.2"]
+
+},{
+
+"name":"Beam Me Up!",
+"link":"http://bit.ly/UnjZGc",
+"desc":"",
+"author":["narc"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
 
 },{
 
@@ -1285,6 +1438,16 @@
 
 },{
 
+"name":"BiomeGenerators",
+"link":"http://bit.ly/XyJTXD",
+"desc":"",
+"author":["F4113nb34st"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Biomes O' Plenty",
 "link":"http://bit.ly/106hnC2",
 "desc":"A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.",
@@ -1531,6 +1694,26 @@
 
 },{
 
+"name":"BrainTech Agricultures Datachip Package",
+"link":"http://bit.ly/11sEN48",
+"desc":"",
+"author":["I don't now"],
+"type":["N/A"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"BreedingGuide for Forestry",
+"link":"http://bit.ly/105csfU",
+"desc":"Shows bee and tree breeding recipes in CraftGuide, including resulting species, its products and specials. Works fine with ExtraBees and ThaumicBees.",
+"author":["Gyromitra"],
+"type":["Client"],
+"dependencies":["Forge Required","CraftGuide"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Brownies",
 "link":"http://bit.ly/VdSDpo",
 "desc":"",
@@ -1637,88 +1820,6 @@
 
 },{
 
-"name":"[Buildcraft] Additional Buildcraft Objects",
-"link":"http://bit.ly/13infK7",
-"desc":"Provides some additional pipes and objects for buildcraft.",
-"author":["Flow86"],
-"source":"https://github.com/Flow86/Additional-Buildcraft-Objects-Mod",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.4.7","1.4.5"]
-
-},{
-
-"name":"[Buildcraft] Additional Pipes",
-"link":"http://bit.ly/1fMO3YI",
-"desc":"Adds additional piping options such as teleport pipes.",
-"author":["tcooc"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"[Buildcraft] Advanced Power Systems",
-"link":"http://bit.ly/XvyVks",
-"desc":"An addon that adds new power generation for buildcraft and machines for processing.",
-"author":["Seph"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Buildcraft] Buildcraft Tools",
-"link":"http://bit.ly/19jLeeo",
-"desc":"Adds a bunch of chargeable tools and armor to Buildcraft.",
-"author":["Maexx97"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"[Buildcraft] Compact Mobs",
-"link":"http://bit.ly/VMx3D4",
-"desc":"An addon that allows you to compress mobs into items.",
-"author":["itsZN"],
-"source":"https://github.com/itsZN/CompactMobs",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[Buildcraft] Den Pipes",
-"link":"http://bit.ly/VFC2bC",
-"desc":"A small addon for Buildcraft the implements various pipes that aid in making builds smarter and more compact.",
-"author":["denoflions"],
-"type":["Universal"],
-"dependencies":["Forge Required","denLib Required"],
-"versions":["1.6.2","1.5.2"]
-
-},{
-
-"name":"[Buildcraft] FXFix",
-"link":"http://bit.ly/15hcVPC",
-"desc":"Removes the TextureFX size dependency for BuildCraft liquids if a hi-res texturepack is used. It reduces the tick-lag caused by the animated liquid textures, so that a higher FPS is achieved.",
-"author":["domi1819"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Buildcraft] Gate Copy",
-"link":"http://bit.ly/VFC2bC",
-"desc":"Adds a clipboard item that can copy the settings from a Buildcraft Gate and paste those settings onto another similar gate.",
-"author":["denoflions"],
-"type":["Universal"],
-"dependencies":["Forge Required","denLib Required"],
-"versions":["1.5.2"]
-
-},{
-
 "name":"Buildcraft-IndustrialCraft Crossover Mod",
 "link":"http://bit.ly/wWMq6t",
 "desc":"",
@@ -1729,93 +1830,13 @@
 
 },{
 
-"name":"[Buildcraft] Liquid Metals",
-"link":"http://bit.ly/YmB9bn",
-"desc":"",
-"author":["fred4106"],
+"name":"Buildcraft Tools",
+"link":"http://bit.ly/19jLeeo",
+"desc":"Adds a bunch of chargeable tools and armor to Buildcraft.",
+"author":["Maexx97"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Buildcraft] Logistics Pipes",
-"link":"http://bit.ly/12p1tyZ",
-"desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
-"author":["thezorro266"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.4.7"]
-
-},{
-
-"name":"[Buildcraft] MineChem",
-"link":"http://bit.ly/13dKCkb",
-"desc":"",
-"author":["ljdp"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Buildcraft] More Pipes Mod",
-"link":"http://bit.ly/Z4MhGs",
-"desc":"This mod simply adds a few more pipes to Buildcraft.",
-"author":["Zensiert1997"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[BuildCraft] QuarryPlus",
-"link":"http://bit.ly/11ZM7UK",
-"desc":"Adds markers for BuildCraft.",
-"author":["yogpstop"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.5"]
-
-},{
-
-"name":"[BuildCraft] Routing Pipe",
-"link":"http://bit.ly/12Qlv4O",
-"desc":"Routing pipes are kind of like diamond pipes, in that they route items to specific outputs. But unlike diamond pipes, routing pipes only use the input pipe to determine which way to send the item:",
-"author":["taral"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Buildcraft] Teleport Pipes",
-"link":"http://bit.ly/1aN4vlz",
-"desc":"Teleport Pipes lets you expand your pipe system for Buildcraft. This includes teleport pipes for items, fluids, and power.",
-"author":["kingrunes"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
-
-},{
-
-"name":"[Buildcraft] TeleportPipes",
-"link":"http://bit.ly/142vPdp",
-"desc":"",
-"author":["Zensiert1997"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Buildcraft] Valve Pipe",
-"link":"http://bit.ly/106ihhR",
-"desc":"",
-"author":["denoflionsx"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -2035,6 +2056,16 @@
 
 },{
 
+"name":"ChargePads",
+"link":"http://bit.ly/UWuj7J",
+"desc":"Provides new blocks which, when stood upon, will recharge IC2 items that are held in your hand or worn (like batpacks or parts of a nanosuit).",
+"author":["Myrathi"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.2","1.5.2","1.4.7"]
+
+},{
+
 "name":"Chat Bubbles",
 "link":"http://bit.ly/Ty9cf2",
 "desc":"Displays what people say above their head. Useful for crowded servers where the chat lines fly by.  This way you can hold a conversation with people near you.",
@@ -2114,26 +2145,6 @@
 "author":["Kodehawa"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.5.2"]
-
-},{
-
-"name":"[Chert Craft] Gravel Replacement",
-"link":"http://bit.ly/YQ4rer",
-"desc":"Makes the gravel block not drop flint when mined, making the acquisition of flint dependent on crafting flint from chert or by using Kinyoshi's Smeltable Gravel mod.",
-"author":["Kinyoshi"],
-"type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[Chert Craft] Gravel Replacement 2",
-"link":"http://bit.ly/YQ4rer",
-"desc":"Makes gravel always drop a flint when mined.",
-"author":["Kinyoshi"],
-"type":["Universal"],
-"dependencies":["Forge Compatible"],
 "versions":["1.5.2"]
 
 },{
@@ -2507,6 +2518,16 @@
 
 },{
 
+"name":"Combo Armors",
+"link":"http://bit.ly/XRBmNs",
+"desc":"Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
+"author":["UnixRano"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.5.1","1.4.7"]
+
+},{
+
 "name":"Combustable Lemon Launcher",
 "link":"http://bit.ly/174msbk",
 "desc":"Adds a combustible lemon launcher (a 3D-Model designed by me in Blender) and (of course) lemons. You can bind your shooting-key in the controls to whatever key you like.",
@@ -2578,6 +2599,38 @@
 
 },{
 
+"name":"Compact Mobs",
+"link":"http://bit.ly/VMx3D4",
+"desc":"An addon that allows you to compress mobs into items.",
+"author":["itsZN"],
+"source":"https://github.com/itsZN/CompactMobs",
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Compact Solars",
+"link":"http://bit.ly/16lF6Qc",
+"desc":"Adds Solar Arrays craftable using multiple IC2 Solar Panels.",
+"author":["cpw"],
+"source":"https://github.com/cpw/compactsolars",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"CompactWindmills",
+"link":"http://bit.ly/16lxi1C",
+"desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
+"author":["Aroma1997"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.2","1.5.2","1.5.1"]
+
+},{
+
 "name":"Complication Craft",
 "link":"http://bit.ly/16n65MV",
 "desc":"Makes things in already in-game more complicated.",
@@ -2616,117 +2669,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
-
-},{
-
-"name":"[ComputerCraft] Aperture Science Turtle Upgrades",
-"link":"http://bit.ly/YBqlEd",
-"desc":"Includes many turtle upgrades varying from IDetecting turtles to batch turtles, you can enable the parts that you like",
-"author":["Hackingroelz"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[ComputerCraft] Extra Peripherals",
-"link":"http://bit.ly/KIG3u7",
-"desc":"Adds extra ComputerCraft peripherals, currently adds a Bundled Connector that allows you to interact with Project: Red cables.",
-"author":["Pzyber"],
-"source":"https://github.com/pzyber/ExtraPeripherals",
-"type":["Universal"],
-"dependencies":["Forge Required","ComputerCraft"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"[ComputerCraft] Immibis's Peripherals",
-"link":"http://bit.ly/YJGFPC",
-"desc":"Adds RFID cards, Mag-cards, Speakers, LAN cables, Cryptographic Accelerators, and an Adventure map interface.",
-"author":["immibis"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
-
-},{
-
-"name":"[ComputerCraft] MiscPeripherals",
-"link":"http://bit.ly/TWGOzR",
-"desc":"Frickin' turtles with frickin' mining lasers attached to their frickin' side!",
-"author":["RichardG867"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.4.7"]
-
-},{
-
-"name":"[ComputerCraft] OpenCCSensors",
-"link":"http://bit.ly/WpGBEI",
-"desc":"An open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them.",
-"author":["Mikeemoo"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[ComputerCraft] OpenPeripheral",
-"link":"http://bit.ly/17cdajX",
-"desc":"Adds the ability to turn most blocks in the game into ComputerCraft peripherals, so you can just drop a computer next to a block and instantly have access to start calling lua functions on it. Also adds \"Terminal Glasses\". Think \"Google Glasses\", but for minecraft. If you know what you're doing, can be used for such things as telling you when you have a new tweet from twitter!",
-"author":["mikeemoo"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2"]
-
-},{
-
-"name":"[ComputerCraft] Redworks Addon",
-"link":"http://bit.ly/WgFYm7",
-"desc":"An Addon-Software for the CraftOS. It was developed to be more user friendly, add new api's, programs, additional content, as well as connect to the real internet. There are two versions available, Master will replace all terminals, Floppy for single terminal installs of Redworks. This software is fully compatible with CraftOS and the floppy version makes it even more compatible with other Alternative OS's out there.",
-"author":["FuzzyPurp"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[ComputerCraft] Scanner Peripheral",
-"link":"http://bit.ly/VLKwOQ",
-"desc":"The Scanner Peripheral does just what the name says. You put a printed page in the scanner and read the contents of the page from a computer.",
-"author":["Orwell"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[ComputerCraft] Turtle Item Analyzer",
-"link":"http://bit.ly/13lGl0I",
-"desc":"Adds an item analyzer for computer craft which allows Items to be analyzed by a turtle. The turtle is able to read the name, id, metadata (damage), and count of any item in the turtle's inventory. Also adds an analytical turtle which can be used to determine the block id or metadata of any block or item in its inventory.",
-"author":["someone9999"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[ComputerCraft] Turtle NBT Editor",
-"link":"http://bit.ly/13Sg5qC",
-"desc":"Adds a turtle that allows you to edit and read the NBT Data of TileEntitys.",
-"author":["xuma202"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[ComputerCraft] Xfel's Peripherals",
-"link":"http://bit.ly/YyvYyZ",
-"desc":"Adds a cable that allows for more than six peripherals to be connected to one computer.",
-"author":["Xfel"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
 
 },{
 
@@ -2961,26 +2903,6 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
-
-},{
-
-"name":"[CraftGuide] AspectGuide for Thaumcraft",
-"link":"http://bit.ly/16NnuMd",
-"desc":"Shows Thaumcraft aspects of items in CraftGuide.",
-"author":["Gyromitra"],
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[CraftGuide] BreedingGuide for Forestry",
-"link":"http://bit.ly/105csfU",
-"desc":"Shows bee and tree breeding recipes in CraftGuide, including resulting species, its products and specials. Works fine with ExtraBees and ThaumicBees.",
-"author":["Gyromitra"],
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
 
 },{
 
@@ -3293,6 +3215,16 @@
 
 },{
 
+"name":"Custom Machine Recipes",
+"link":"http://bit.ly/XgF5Gl",
+"desc":"",
+"author":["denoflions"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Custom Mob Spawner",
 "link":"http://bit.ly/XCTaBY",
 "desc":"Offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8. Every mod will have its individual spawning list, so other mods won't interfere with the spawning settings.",
@@ -3574,6 +3506,16 @@
 "type":["Universal"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Den Pipes",
+"link":"http://bit.ly/VFC2bC",
+"desc":"A small addon for Buildcraft the implements various pipes that aid in making builds smarter and more compact.",
+"author":["denoflions"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft","denLib"],
+"versions":["1.6.2","1.5.2"]
 
 },{
 
@@ -4454,25 +4396,36 @@
 
 },{
 
+"name":"Equivalency",
+"link":"http://bit.ly/1aBwNmU",
+"desc":"An addon for Equivalent Exchange 3 that adds more transmutation recipes for the mod. It also adds support for several mods that are usually used along side EE3, such as Industrial Craft 2 and Forestry.",
+"author":["Lomeli12"],
+"source":"https://github.com/Lomeli12/Equivalency",
+"type":["Universal"],
+"dependencies":["Forge Required","Equivalent Exchange 3","LomLib"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
+
+},{
+
 "name":"Equivalent Exchange 3",
 "other":"(Prerelease)",
 "link":"http://bit.ly/VFB7Ip",
 "desc":"(1.6.4 builds <a href=\"https://github.com/lluixhi/EE3-Builds/tree/master/1.6.4\">here</a>.)</br>Allows you to transmute tons of materials into other materials.",
-"author":["Pahimer"],
+"author":["Pahimar"],
+"source":"https://github.com/pahimar/Equivalent-Exchange-3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
-"name":"[Equivalent Exchange 3] Equivalency",
-"link":"http://bit.ly/1aBwNmU",
-"desc":"An addon for Equivalent Exchange 3 that adds more transmutation recipes for the mod. It also adds support for several mods that are usually used along side EE3, such as Industrial Craft 2 and Forestry.",
-"author":["Lomeli12"],
-"source":"https://github.com/Lomeli12/Equivalency",
+"name":"Essentia Everything",
+"link":"http://bit.ly/Xhovos",
+"desc":"This addon has two major features. Firstly, it automatically adds support for all ores, nuggets, ingots, and dusts registered with Forge's Ore Dictionary. Secondly, it adds the ability to add or adjust aspects for just about anything, vanilla or modded.",
+"author":["Qwertygiy"],
 "type":["Universal"],
-"dependencies":["Forge Required","LomLib Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
+"dependencies":["Forge Required","Thaumcraft 3"],
+"versions":["1.4.7"]
 
 },{
 
@@ -4649,6 +4602,16 @@
 
 },{
 
+"name":"Extra Bees",
+"link":"http://bit.ly/WCTXws",
+"desc":"Extra bees for Forestry. Link leads to Hanfox's unofficial page as the official is currently down. Click the numbers to show information/downloads.",
+"author":["Binnie"],
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry"],
+"versions":["1.6.2","1.5.2","1.4.7"]
+
+},{
+
 "name":"ExtraBiomesXL",
 "link":"http://bit.ly/XCV19S",
 "desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
@@ -4689,6 +4652,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.4.7"]
+
+},{
+
+"name":"ExtraCells",
+"link":"http://bit.ly/14afxzO",
+"desc":"Adds new standard storage blocks and special storage blocks.",
+"author":["Leonelf"],
+"type":["Universal"],
+"dependencies":["Forge Required","Applied Energistics"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -4740,6 +4713,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Extra Peripherals",
+"link":"http://bit.ly/KIG3u7",
+"desc":"Adds extra ComputerCraft peripherals, currently adds a Bundled Connector that allows you to interact with Project: Red cables.",
+"author":["Pzyber"],
+"source":"https://github.com/pzyber/ExtraPeripherals",
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.6.4"]
 
 },{
 
@@ -4800,6 +4784,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"F4113nb34st's Addons",
+"link":"http://bit.ly/10uwXrr",
+"desc":"",
+"author":["F4113nb34st"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
 
 },{
 
@@ -5250,56 +5244,6 @@
 
 },{
 
-"name":"[Forestry] Extra Bees",
-"link":"http://bit.ly/WCTXws",
-"desc":"Extra bees for Forestry. Link leads to Hanfox's unofficial page as the official is currently down. Click the numbers to show information/downloads.",
-"author":["Binnie"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"[Forestry] Magic Bees",
-"link":"http://bit.ly/UAenLP",
-"desc":"Previously known as ThaumicBees. Adds several new bee species to Forestry that will assist in producing useful items for Thaumcraft. If you love Thaumcraft and Beekeeping, these new species will provide extra resources and benefits to those clever enough to obtain them.",
-"author":["MysteriousAges"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[Forestry] Plugins for Forestry 2",
-"link":"http://bit.ly/VFC2bC",
-"desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
-"author":["denoflions"],
-"type":["Universal"],
-"dependencies":["Forge Required","denLib Required"],
-"versions":["1.5.2","1.4.7"]
-
-},{
-
-"name":"[Forestry] Plugins for Forestry 3",
-"link":"http://bit.ly/VFC2bC",
-"desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
-"author":["denoflions"],
-"type":["Universal"],
-"dependencies":["Forge Required","denLib Required"],
-"versions":["1.6.2"]
-
-},{
-
-"name":"[Forestry] ThaumicBees",
-"link":"http://bit.ly/UAenLP",
-"desc":"Now known as ThaumicBees.  This entry will be removed e week from now.  Please see the \"Magic Bees\" entry for more info.",
-"author":["MysteriousAges"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
 "name":"Forge",
 "other":"(API)",
 "link":"http://bit.ly/forge-dl",
@@ -5456,6 +5400,16 @@
 
 },{
 
+"name":"FXFix",
+"link":"http://bit.ly/15hcVPC",
+"desc":"Removes the TextureFX size dependency for BuildCraft liquids if a hi-res texturepack is used. It reduces the tick-lag caused by the animated liquid textures, so that a higher FPS is achieved.",
+"author":["domi1819"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"GahBryXXX's Mods",
 "link":"http://bit.ly/13aZjFI",
 "desc":"",
@@ -5514,6 +5468,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Gate Copy",
+"link":"http://bit.ly/VFC2bC",
+"desc":"Adds a clipboard item that can copy the settings from a Buildcraft Gate and paste those settings onto another similar gate.",
+"author":["denoflions"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft","denLib"],
+"versions":["1.5.2"]
 
 },{
 
@@ -5680,6 +5644,16 @@
 
 },{
 
+"name":"GoldenOrb",
+"link":"http://bit.ly/ZPWbdH",
+"desc":"",
+"author":["F4113nb34st"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Good Night's Sleep",
 "link":"http://bit.ly/GAwoUL",
 "desc":"Adds two new dimensions, the good dream and the nightmare. Each dream land is accessed through sleeping in its corresponding bed, rather than stepping through a portal.",
@@ -5701,6 +5675,26 @@
 
 },{
 
+"name":"Gravel Replacement",
+"link":"http://bit.ly/YQ4rer",
+"desc":"Makes the gravel block not drop flint when mined, making the acquisition of flint dependent on crafting flint from chert or by using Kinyoshi's Smeltable Gravel mod.",
+"author":["Kinyoshi"],
+"type":["Universal"],
+"dependencies":["Forge Compatible","Chert Craft Mod"],
+"versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Gravel Replacement 2",
+"link":"http://bit.ly/YQ4rer",
+"desc":"Makes gravel always drop a flint when mined.",
+"author":["Kinyoshi"],
+"type":["Universal"],
+"dependencies":["Forge Compatible","Chert Craft Mod"],
+"versions":["1.5.2"]
+
+},{
+
 "name":"Gravestone Mod",
 "link":"http://bit.ly/XSirsO",
 "desc":"Adds a gravestone to the game, which spawns after player's death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot.The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.",
@@ -5708,6 +5702,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Modloader","Player API"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Gravitation Suite",
+"link":"http://bit.ly/M9OQhY",
+"desc":"Hello boys and girls! Our scientists are glad to present you the latest advanced scientific development! After UFO falling near to Roswell, New Mexico, in June or July 1947 we are engaged more than 65 years in reverse engineering. There were numerous attempts to reproduce the gravitational engine of aliens, but till 2012 they were unsuccessful. And now after long years of research we represent you our new development a gravitational suite, based at alien technology.",
+"author":["SeNtiMeL"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -5769,6 +5773,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"GregTech-Addon",
+"link":"http://bit.ly/X5rZhS",
+"desc":"A highly configurable addon for IndustrialCraft with several modes depending on how much time and dedication you're willing to spend on it. On top of allowing you to configure previously existing recipes to your liking, this addon also adds higher levels of technology to work towards. It's frequently used on servers so that people don't get all possible technology in a single day.",
+"author":["GregoriusT"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -5957,12 +5971,12 @@
 
 },{
 
-"name":"[Hats] Hat Stand",
+"name":"Hat Stand",
 "link":"http://bit.ly/14814a3",
 "desc":"Adds a single block item, a Hat Stand.",
 "author":["iChun"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Hats"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
@@ -6397,6 +6411,17 @@
 },{
 
 "name":"Iguana Tweaks",
+"link":"http://bit.ly/17nkepE",
+"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
+"author":["iguana_man"],
+"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct"],
+"versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Iguana Tweaks",
 "link":"http://bit.ly/1dooEma",
 "desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
 "author":["iguana_man"],
@@ -6425,6 +6450,16 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Immibis's Peripherals",
+"link":"http://bit.ly/YJGFPC",
+"desc":"Adds RFID cards, Mag-cards, Speakers, LAN cables, Cryptographic Accelerators, and an Adventure map interface.",
+"author":["immibis"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -6461,319 +6496,14 @@
 
 },{
 
-"name":"[IndustrialCraft 2] Advanced Machines",
-"link":"http://bit.ly/xmvYp1",
-"desc":"Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
-"author":["AtomicStryker"],
-"source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FAdvancedMachines",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
-
-},{
-
-"name":"[IndustrialCraft 2] Advanced Machines (immibis)",
-"link":"http://bit.ly/1cBEsPS",
-"desc":"An unnerfed version of AtomicStryker's.  Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
-"author":["immibis"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
-
-},{
-
-"name":"[IndustrialCraft 2] Advanced Machines Original",
-"link":"http://bit.ly/UvGdJ4",
-"desc":"",
-"author":["Snyke"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Advanced Power Management",
-"link":"http://bit.ly/POXv1O",
-"desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
-"author":["Pantheis"],
-"source":"https://github.com/pantheis/AdvancedPowerManagement",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Advanced Repulsion Systems",
-"link":"http://bit.ly/Tj9hmM",
-"desc":"Allows you to create forcefields and zap stuff.",
-"author":["immibis"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Advanced Solar Panels",
-"link":"http://bit.ly/GELi8l",
-"desc":"An addon meant to provide more advanced solar panels, both for keeping things compact and offering upgraded versions of solar helmets.",
-"author":["SeNtiMeL"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Advanced Technologies",
-"link":"http://bit.ly/UvGzzp",
-"desc":"",
-"author":["thebest108"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Armour and Tool Status HUD",
-"link":"http://bit.ly/XgFJn4",
-"desc":"",
-"author":["DoomFruit"],
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Backpack HUD",
-"link":"http://bit.ly/Tqg4ra",
-"desc":"Draws an on-screen HUD that enables you to view armor item durability outside of the player inventory screen. The HUD can be positioned next to the hotbar on either side, or in any corner.",
-"author":["Mineshopper"],
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Beam Me Up!",
-"link":"http://bit.ly/UnjZGc",
-"desc":"",
-"author":["narc"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] BiomeGenerators",
-"link":"http://bit.ly/XyJTXD",
-"desc":"",
-"author":["F4113nb34st"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] BrainTech Agricultures Datachip Package",
-"link":"http://bit.ly/11sEN48",
-"desc":"",
-"author":["I don't now"],
-"type":["N/A"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] ChargePads",
-"link":"http://bit.ly/UWuj7J",
-"desc":"Provides new blocks which, when stood upon, will recharge IC2 items that are held in your hand or worn (like batpacks or parts of a nanosuit).",
-"author":["Myrathi"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Combo Armors",
-"link":"http://bit.ly/XRBmNs",
-"desc":"Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
-"author":["UnixRano"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Compact Solars",
-"link":"http://bit.ly/UvuyEV",
-"desc":"",
-"author":["cpw"],
-"source":"https://github.com/cpw/compactsolars",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] CompactWindmills",
-"link":"http://bit.ly/16lxi1C",
-"desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
-"author":["Aroma1997"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"[IndustrialCraft 2] Custom Machine Recipes",
-"link":"http://bit.ly/XgF5Gl",
-"desc":"",
-"author":["denoflions"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"IndustrialCraft 2 (Experimental)",
+"name":"IndustrialCraft 2",
+"other":"(IC2) (Experimental)",
 "link":"http://bit.ly/10oNRBU",
-"desc":"IC2 experimental is unstable, may break worlds and its API may change frequently. Create backups of your world when using it.  Use at own risk if you can't wait for stable, non-experimental builds.  Being Tested on Forgecraft 2.  Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
+"desc":"IC2 experimental is unstable, may break worlds and its API may change frequently. Create backups of your world when using it. Use at own risk if you can't wait for stable, non-experimental builds. Being Tested on Forgecraft 2. Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
 "author":["Alblaka","player"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
-
-},{
-
-"name":"[IndustrialCraft 2] F4113nb34st's Addons",
-"link":"http://bit.ly/10uwXrr",
-"desc":"",
-"author":["F4113nb34st"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] GoldenOrb",
-"link":"http://bit.ly/ZPWbdH",
-"desc":"",
-"author":["F4113nb34st"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Gravitation Suite",
-"link":"http://bit.ly/M9OQhY",
-"desc":"Hello boys and girls! Our scientists are glad to present you the latest advanced scientific development! After UFO falling near to Roswell, New Mexico, in June or July 1947 we are engaged more than 65 years in reverse engineering. There were numerous attempts to reproduce the gravitational engine of aliens, but till 2012 they were unsuccessful. And now after long years of research we represent you our new development a gravitational suite, based at alien technology.",
-"author":["SeNtiMeL"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] GregTech-Addon",
-"link":"http://bit.ly/X5rZhS",
-"desc":"A highly configurable addon for IndustrialCraft with several modes depending on how much time and dedication you're willing to spend on it. On top of allowing you to configure previously existing recipes to your liking, this addon also adds higher levels of technology to work towards. It's frequently used on servers so that people don't get all possible technology in a single day.",
-"author":["GregoriusT"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"IndustrialCraft 2 (IC2)",
-"other":"(Pre-Release Builds)",
-"link":"http://bit.ly/10oNRBU",
-"desc":"Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
-"author":["Alblaka"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"[IndustrialCraft 2] Liquid UU-Matter",
-"link":"http://bit.ly/W2FIAu",
-"desc":"",
-"author":["narc"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Modular Force Field System",
-"other":"(MFFS)",
-"link":"http://bit.ly/17lwlEj",
-"desc":"Makes forcefields that you can make look like other blocks or hold mobs/players at bay with.",
-"author":["Minalien"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] NetworkAnchor",
-"link":"http://bit.ly/UvHNeb",
-"desc":"",
-"author":["LostCoder"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Nuclear Control",
-"link":"http://bit.ly/IkHWHJ",
-"desc":"Allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system.",
-"author":["Shedar"],
-"source":"https://bitbucket.org/shedar/ic2-nuclear-control/",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] OreDupeFix",
-"link":"http://bit.ly/Wgp1TF",
-"desc":"Unifies output of crafting recipes, furnace recipes, dungeon loot, and IC2 machine recipes to a configurable preferred ore from each mod.",
-"author":["agaricus"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Petroleum Generator",
-"link":"http://bit.ly/UnkbW8",
-"desc":"",
-"author":["DrCeph"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] QuantumPack",
-"link":"http://bit.ly/UvGThA",
-"desc":"Adds storage for quantum energy.",
-"author":["LostCoder"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.4.7"]
-
-},{
-
-"name":"[IndustrialCraft 2] Transformers",
-"link":"http://bit.ly/KurvKg",
-"desc":"",
-"author":["Snyke"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -7516,6 +7246,36 @@
 
 },{
 
+"name":"Liquid Essence",
+"link":"http://bit.ly/YKgSqp",
+"desc":"Allows to liquefy essence, e.g. to store your excess essence in BC tanks. Also provides Forestry capsules and recipes for Bottler and Squeezer.",
+"author":["Gyromitra"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 3"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"Liquid Metals",
+"link":"http://bit.ly/YmB9bn",
+"desc":"",
+"author":["fred4106"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"Liquid UU-Matter",
+"link":"http://bit.ly/W2FIAu",
+"desc":"",
+"author":["narc"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Liquid XP",
 "link":"http://bit.ly/Uvusgl",
 "desc":"Adds liquid XP, and related machines. You will need a mod capable of transporting liquids. It has been tested with Buildcraft waterproof pipes and Thermal Expansion liquiducts. It does not seem to work with RedPower 2 fluid pipes.",
@@ -7598,6 +7358,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5"]
+
+},{
+
+"name":"Logistics Pipes",
+"link":"http://bit.ly/12p1tyZ",
+"desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
+"author":["thezorro266"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.6.4","1.5.2","1.4.7"]
 
 },{
 
@@ -7763,6 +7533,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Magic Bees",
+"link":"http://bit.ly/UAenLP",
+"desc":"Previously known as ThaumicBees. Adds several new bee species to Forestry that will assist in producing useful items for Thaumcraft. If you love Thaumcraft and Beekeeping, these new species will provide extra resources and benefits to those clever enough to obtain them.",
+"author":["MysteriousAges"],
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -8031,13 +7811,14 @@
 
 },{
 
-"name":"[Metallurgy 3] Metal Mechanics",
+"name":"Metal Mechanics",
 "link":"http://bit.ly/17ooqUB",
-"desc":"Brings the power of Universal Electricity to the world of Metallurgy!",
+"desc":"Discontinued mod. Brings the power of Universal Electricity to the world of Metallurgy!",
 "author":["Lycanite"],
+"source":"https://github.com/Lycanite/MetalMech",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"dependencies":["Forge Required","Metallurgy 3","Universal Electricity"],
+"versions":["1.5.2","1.5.1"]
 
 },{
 
@@ -8119,6 +7900,17 @@
 "author":["nerd-boy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
+"versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"MineChem",
+"link":"http://bit.ly/13dKCkb",
+"desc":"Adds chemistry and machines that decompose items into elements and molecules. Also adds microscopes and synthesis machines to turn elements back into items.",
+"author":["ljdp"],
+"source":"https://github.com/perky/Minechem",
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
 "versions":["1.4.7","1.4.5"]
 
 },{
@@ -8484,6 +8276,16 @@
 
 },{
 
+"name":"MiscPeripherals",
+"link":"http://bit.ly/TWGOzR",
+"desc":"Frickin' turtles with frickin' mining lasers attached to their frickin' side!",
+"author":["RichardG867"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.5.2","1.4.7"]
+
+},{
+
 "name":"Mithril",
 "link":"http://bit.ly/10pK0Vf",
 "desc":"Introduces several ores and Mithril metal to the game.",
@@ -8676,6 +8478,18 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.5"]
+
+},{
+
+"name":"Modular Force Field System",
+"other":"(MFFS)",
+"link":"http://bit.ly/17lwlEj",
+"desc":"Makes forcefields that you can make look like other blocks or hold mobs/players at bay with.",
+"author":["Minalien"],
+"source":"https://github.com/Minalien/ModularForceFieldSystem",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.5.1","1.4.7"]
 
 },{
 
@@ -9013,6 +8827,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"More Pipes Mod",
+"link":"http://bit.ly/Z4MhGs",
+"desc":"This mod simply adds a few more pipes to Buildcraft.",
+"author":["Zensiert1997"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7"]
 
 },{
 
@@ -9467,16 +9291,6 @@
 
 },{
 
-"name":"[Mystcraft] Ages of Mystcraft",
-"link":"http://bit.ly/17lokjC",
-"desc":"Adds over 80 symbols to Mystcraft, most of which are material modifiers, though there are new Directional modifiers, new Length modifiers, and symbols that do nothing beyond add stability/instability.",
-"author":["Veovis Muad'dib"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1"]
-
-},{
-
 "name":"Mysterious Eggs",
 "link":"http://bit.ly/ZwZ5c8",
 "desc":"Infuser makes Spawn eggs out of some other ingredients, mysterious eggs being one of them.",
@@ -9558,6 +9372,16 @@
 
 },{
 
+"name":"NEI Plugins",
+"link":"http://bit.ly/14h8yXi",
+"desc":"Plugin for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct support in chicken_bones' Not Enough Items (NEI).",
+"author":["mistaqur"],
+"type":["Universal"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
 "name":"Nerd Weapons Mod",
 "link":"http://bit.ly/1aHuskW",
 "desc":"Adds multiple weapons from popular series' and franchises such as The Legend of Zelda.",
@@ -9629,6 +9453,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"NetworkAnchor",
+"link":"http://bit.ly/UvHNeb",
+"desc":"",
+"author":["LostCoder"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.5.2","1.4.7"]
 
 },{
 
@@ -9786,16 +9620,6 @@
 
 },{
 
-"name":"[Not Enough Items] NEI Plugins",
-"link":"http://bit.ly/14h8yXi",
-"desc":"Plugin for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct support in chicken_bones' Not Enough Items (NEI).",
-"author":["mistaqur"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
 "name":"Not in Minecraft Mod",
 "link":"http://bit.ly/ZTnsQN",
 "desc":"",
@@ -9833,6 +9657,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.4","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Nuclear Control",
+"link":"http://bit.ly/IkHWHJ",
+"desc":"Allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system.",
+"author":["Shedar"],
+"source":"https://bitbucket.org/shedar/ic2-nuclear-control/",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.6.2","1.5.1","1.4.7"]
 
 },{
 
@@ -9961,6 +9796,26 @@
 
 },{
 
+"name":"OpenCCSensors",
+"link":"http://bit.ly/WpGBEI",
+"desc":"An open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them.",
+"author":["Mikeemoo"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"OpenPeripheral",
+"link":"http://bit.ly/17cdajX",
+"desc":"Adds the ability to turn most blocks in the game into ComputerCraft peripherals, so you can just drop a computer next to a block and instantly have access to start calling lua functions on it. Also adds \"Terminal Glasses\". Think \"Google Glasses\", but for minecraft. If you know what you're doing, can be used for such things as telling you when you have a new tweet from twitter!",
+"author":["mikeemoo"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.5.2"]
+
+},{
+
 "name":"OpenXP",
 "link":"http://bit.ly/157oh6P",
 "desc":"An Open Source mod with goals of improving the experience point system with more features.",
@@ -10010,6 +9865,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"OreDupeFix",
+"link":"http://bit.ly/Wgp1TF",
+"desc":"Unifies output of crafting recipes, furnace recipes, dungeon loot, and IC2 machine recipes to a configurable preferred ore from each mod.",
+"author":["agaricus"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -10269,6 +10134,16 @@
 
 },{
 
+"name":"Petroleum Generator",
+"link":"http://bit.ly/UnkbW8",
+"desc":"",
+"author":["DrCeph"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Pfaeff's Mod",
 "link":"http://bit.ly/W4JLxV",
 "desc":"",
@@ -10421,6 +10296,26 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5"]
+
+},{
+
+"name":"Plugins for Forestry 2",
+"link":"http://bit.ly/VFC2bC",
+"desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
+"author":["denoflions"],
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry","denLib Required"],
+"versions":["1.5.2","1.4.7"]
+
+},{
+
+"name":"Plugins for Forestry 3",
+"link":"http://bit.ly/VFC2bC",
+"desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
+"author":["denoflions"],
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry","denLib Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -10773,6 +10668,26 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"QuantumPack",
+"link":"http://bit.ly/UvGThA",
+"desc":"Adds storage for quantum energy.",
+"author":["LostCoder"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.5.2","1.4.7"]
+
+},{
+
+"name":"QuarryPlus",
+"link":"http://bit.ly/11ZM7UK",
+"desc":"Adds markers for BuildCraft.",
+"author":["yogpstop"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -11140,6 +11055,16 @@
 
 },{
 
+"name":"Redworks Addon",
+"link":"http://bit.ly/WgFYm7",
+"desc":"An Addon-Software for the CraftOS. It was developed to be more user friendly, add new api's, programs, additional content, as well as connect to the real internet. There are two versions available, Master will replace all terminals, Floppy for single terminal installs of Redworks. This software is fully compatible with CraftOS and the floppy version makes it even more compatible with other Alternative OS's out there.",
+"author":["FuzzyPurp"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Reinforced Butter",
 "link":"http://bit.ly/13G0lfW",
 "desc":"Adds new armor, blocks, tools, and weapons for two new ingots, Super Butter and Reinforced Butter.",
@@ -11292,6 +11217,16 @@
 
 },{
 
+"name":"Routing Pipe",
+"link":"http://bit.ly/12Qlv4O",
+"desc":"Routing pipes are kind of like diamond pipes, in that they route items to specific outputs. But unlike diamond pipes, routing pipes only use the input pipe to determine which way to send the item:",
+"author":["taral"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Roxa's Mods",
 "link":"http://bit.ly/ZwZRFT",
 "desc":"",
@@ -11360,6 +11295,16 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"Scanner Peripheral",
+"link":"http://bit.ly/VLKwOQ",
+"desc":"The Scanner Peripheral does just what the name says. You put a printed page in the scanner and read the contents of the page from a computer.",
+"author":["Orwell"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.4.7"]
 
 },{
 
@@ -12654,6 +12599,26 @@
 
 },{
 
+"name":"Teleport Pipes",
+"link":"http://bit.ly/142vPdp",
+"desc":"Adds Buildcraft pipes and a Control Station which can transfer items.",
+"author":["Zensiert1997"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"Teleport Pipes",
+"link":"http://bit.ly/1aN4vlz",
+"desc":"Teleport Pipes lets you expand your pipe system for Buildcraft. This includes teleport pipes for items, fluids, and power.",
+"author":["kingrunes"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Telicraft",
 "link":"http://bit.ly/YzTP2o",
 "desc":"Adds a new ore, a bunch of crazy things that almost everybody can enjoy, new tools, new machines, a new Crafting Table, a new flower, new kinds of Netherrack and End Stone and much more!",
@@ -12704,27 +12669,6 @@
 
 },{
 
-"name":"[Thaumcraft 3] Essentia Everything",
-"link":"http://bit.ly/Xhovos",
-"desc":"This addon has two major features. Firstly, it automatically adds support for all ores, nuggets, ingots, and dusts registered with Forge's Ore Dictionary. Secondly, it adds the ability to add or adjust aspects for just about anything, vanilla or modded.",
-"author":["Qwertygiy"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
-"name":"[Thaumcraft 3] Thaumic Tinkerer",
-"link":"http://bit.ly/12L9teo",
-"desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
-"author":["Vazkii"],
-"source":"https://github.com/Vazkii/ThaumicTinkerer",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2"]
-
-},{
-
 "name":"Thaumcraft 4",
 "link":"http://bit.ly/1bNyb3j",
 "desc":"Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
@@ -12735,24 +12679,25 @@
 
 },{
 
-"name":"[Thaumcraft 4] Thaumic Tinkerer",
+"name":"Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
-"desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 4. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
+"desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/ThaumicTinkerer",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"dependencies":["Forge Required","Thaumcraft 3"],
+"versions":["1.5.2"]
 
 },{
 
-"name":"[ThaumCraft] Liquid Essence",
-"link":"http://bit.ly/YKgSqp",
-"desc":"Allows to liquefy essence, e.g. to store your excess essence in BC tanks. Also provides Forestry capsules and recipes for Bottler and Squeezer.",
-"author":["Gyromitra"],
+"name":"Thaumic Tinkerer",
+"link":"http://bit.ly/12L9teo",
+"desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 4. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
+"author":["Vazkii","pixlepix","nekosune"],
+"source":"https://github.com/Vazkii/ThaumicTinkerer",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -13423,17 +13368,6 @@
 
 },{
 
-"name":"[Tinkers' Construct] Iguana Tweaks",
-"link":"http://bit.ly/17nkepE",
-"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
-"author":["iguana_man"],
-"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
-
-},{
-
 "name":"Tinted Lamps",
 "link":"http://bit.ly/14chqKt",
 "desc":"Lets you dye Redstone Lamps into any of the 16 available colors.",
@@ -13605,6 +13539,16 @@
 
 },{
 
+"name":"Transformers",
+"link":"http://bit.ly/KurvKg",
+"desc":"",
+"author":["Snyke"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Translocator",
 "link":"http://bit.ly/13nzgIr",
 "desc":"Adds an attachment for chests that cause contents in the chest to be moved to a different chest within a one block space.",
@@ -13726,6 +13670,26 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"Turtle Item Analyzer",
+"link":"http://bit.ly/13lGl0I",
+"desc":"Adds an item analyzer for computer craft which allows Items to be analyzed by a turtle. The turtle is able to read the name, id, metadata (damage), and count of any item in the turtle's inventory. Also adds an analytical turtle which can be used to determine the block id or metadata of any block or item in its inventory.",
+"author":["someone9999"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"Turtle NBT Editor",
+"link":"http://bit.ly/13Sg5qC",
+"desc":"Adds a turtle that allows you to edit and read the NBT Data of TileEntitys.",
+"author":["xuma202"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.4.7"]
 
 },{
 
@@ -14035,12 +13999,13 @@
 },{
 
 "name":"Valve Pipes",
-"link":"http://bit.ly/15c6blv",
-"desc":"",
+"link":"http://bit.ly/106ihhR",
+"desc":"Implements various Buildcraft pipes that allow for more compact builds.",
 "author":["denoflionsx"],
+"source":"https://github.com/denoflionsx/DenPipes",
 "type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.4.7","1.4.5"]
 
 },{
 
@@ -14534,6 +14499,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Xfel's Peripherals",
+"link":"http://bit.ly/YyvYyZ",
+"desc":"Adds a cable that allows for more than six peripherals to be connected to one computer.",
+"author":["Xfel"],
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.4.7"]
 
 },{
 

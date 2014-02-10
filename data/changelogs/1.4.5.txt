@@ -1,9 +1,14 @@
 (February/10/2014)
 	*Updated "Atomic Science" description
+	*Updated "[Buildcraft] Additional Buildcraft Objects" name and info: Now "Additional Buildcraft Objects", Requires "Buildcraft"
+	*Updated "Equivalent Exchange 3" author and info: Now by Pahimar, Added source
 	*Updated "Herblore Mod" description and info: Now "Forge Required", Now "Universal"
+	*Updated "[IndustrialCraft 2] Advanced Machines" name and info: Now "Advanced Machines", Requires "IndustrialCraft 2"
 	*Updated "ICBM - Missiles and Military Tech" name, description and info: Now "ICBM", Requires "Universal Electricity"
 	*Updated "Mekanism" description and info: Requires "Universal Electricity", Added source
 	*Updated "ModOptionsAPI" info: Added source
+	*Updated "Valve Pipes" description and info: Requires "Buildcraft", Added source
+	+Added "MineChem"
 
 (February/04/2014)
 	+Added 2 mods by thebombzen (Which are the following)
