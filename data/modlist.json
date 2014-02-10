@@ -9460,13 +9460,13 @@
 
 },{
 
-"name":"[Mystcraft] Ages of Mystcraft",
+"name":"Ages of Mystcraft",
 "link":"http://bit.ly/17lokjC",
 "desc":"Adds over 80 symbols to Mystcraft, most of which are material modifiers, though there are new Directional modifiers, new Length modifiers, and symbols that do nothing beyond add stability/instability.",
 "author":["Veovis Muad'dib"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"dependencies":["Forge Required","Mystcraft"],
+"versions":["1.6.2","1.5.2","1.5.1"]
 
 },{
 

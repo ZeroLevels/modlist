@@ -29,6 +29,7 @@
 	*Updated "[Universal Electricity] Mekanism" name, link and info: Now "Mekanism", Requires "Universal Electricity", Added source
 	*Updated "[Universal Electricity] MineChem" name, link and info: Now "MineChem", Requires "Universal Electricity", Added source
 	*Updated "[Universal Electricity] Modular Powersuits" name, link and info: Now "Modular Powersuits", Requires "Universal Electricity", Added source
+	+Added "Ages of Mystcraft"
 	+Added "Caption API"
 	+Added "Herblore Mod"
 	+Added "ModOptionsAPI"
