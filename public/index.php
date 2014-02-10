@@ -255,7 +255,7 @@ $klein->respond('GET', '/list/submit/[list.php]?', function($request, $response,
  * Redirects to the version page
  * @return redirect
  */
-$klein->respond('GET', '/list/[*:major]?/[*:version]', function ($request, $response, $service, $app) {
+$klein->respond('GET', '/list/[*:major]?/[*:version].[php]?', function ($request, $response, $service, $app) {
     if($request->param('major') !== 'submit' || $request->param('version') !== 'submit') {
         if(substr($request->param('version'), -4, 4) === '.php')
             $response->redirect('/version/' . substr($request->param('version'), 0, -4), $code = 301);
