@@ -9038,6 +9038,17 @@
 
 },{
 
+"name":"Morpheus",
+"other":"(Beta)",
+"link":"http://bit.ly/1emk8jl",
+"desc":"A sleep voting mod that notifies all players when a player sleeps.",
+"author":["quetzi"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
 "name":"MorpheusZero's Mods",
 "link":"http://bit.ly/117U1v2",
 "desc":"",

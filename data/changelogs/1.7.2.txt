@@ -2,6 +2,7 @@
 	+Added 2 mods by ProfMobius (Which are the following)
 		+Added "JABBA"
 		+Added "Waila"
+	+Added "Morpheus"
 	+Added "OpenComputers"
 	-Removed "MinecraftPvPCoordUI"
 

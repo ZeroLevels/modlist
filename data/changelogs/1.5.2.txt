@@ -1,3 +1,6 @@
+(February/11/2014)
+	+Added "OpenComputers"
+
 (February/10/2014)
 	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
 	*Updated "[Buildcraft] Additional Buildcraft Objects" name and info: Now "Additional Buildcraft Objects", Requires "Buildcraft"
