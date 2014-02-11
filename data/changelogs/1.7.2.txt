@@ -2,6 +2,7 @@
 	+Added 2 mods by ProfMobius (Which are the following)
 		+Added "JABBA"
 		+Added "Waila"
+	-Removed "MinecraftPvPCoordUI"
 
 (February/10/2014)
 	*Updated "VoxelCam" description
