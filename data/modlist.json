@@ -14157,6 +14157,18 @@
 
 },{
 
+"name":"Waila",
+"other":"(What Am I Looking At)",
+"link":"http://bit.ly/1faQaQl",
+"desc":"Limited until NEI updates to 1.7.2. Shows what mod an item is from, allowing you to easily group items per mod. Capable of showing the name of blocks and mods in-game on top of your screen, including internal information of specific blocks from BuildCraft and IndustrialCraft 2.",
+"author":["ProfMobius"],
+"source":"https://bitbucket.org/ProfMobius/waila",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Walking Dead Mod",
 "link":"http://bit.ly/TGjeZl",
 "desc":"Zombies in the daytime! Walkers are everywhere, be careful. The walkers will attack players, chickens and pigs. There are options in the config file to allow or disallow spawning of zombies, skeletons, creepers, spiders, slime, and endermen.",
