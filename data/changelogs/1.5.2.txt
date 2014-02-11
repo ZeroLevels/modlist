@@ -1,5 +1,5 @@
 (February/11/2014)
-	+Added "OpenComputers"
+	+Added "Morpheus"
 
 (February/10/2014)
 	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
