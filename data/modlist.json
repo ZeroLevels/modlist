@@ -6766,13 +6766,13 @@
 },{
 
 "name":"JABBA",
-"link":"http://bit.ly/1jkbtpD",
+"link":"http://bit.ly/1g0MYdV",
 "desc":"A storage mod aiming at making a better barrel than what is already out there.",
 "author":["ProfMobius"],
 "source":"https://bitbucket.org/ProfMobius/jabba",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
