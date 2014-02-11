@@ -1,5 +1,6 @@
 (February/11/2014)
 	*Updated "JABBA" link
+	+Added "OpenComputers"
 
 (February/10/2014)
 	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"

@@ -9796,6 +9796,17 @@
 
 },{
 
+"name":"OpenComputers",
+"link":"http://bit.ly/1go7W4F",
+"desc":"Adds programmable persistent computers and robots to the game. Computers are modular and programmable in Lua 5.2.",
+"author":["Sangar","Lord Joda"],
+"source":"https://github.com/MightyPirates/OpenComputers",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"OpenPeripheral",
 "link":"http://bit.ly/17cdajX",
 "desc":"Adds the ability to turn most blocks in the game into ComputerCraft peripherals, so you can just drop a computer next to a block and instantly have access to start calling lua functions on it. Also adds \"Terminal Glasses\". Think \"Google Glasses\", but for minecraft. If you know what you're doing, can be used for such things as telling you when you have a new tweet from twitter!",
