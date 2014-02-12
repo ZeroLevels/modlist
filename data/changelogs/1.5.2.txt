@@ -1,5 +1,5 @@
 (February/12/2014)
-	*Updated "IronChests" name and info: Now "IronChests", Added source
+	*Updated "IronChests 2" name and info: Now "IronChests", Updated source
 	*Updated "Monster Spawn Highlighter" description
 	*Updated "Zyin's HUD" info: Added source
 	+Added "Doomlike Dungeons"
