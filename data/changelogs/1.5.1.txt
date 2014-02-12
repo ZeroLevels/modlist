@@ -1,3 +1,6 @@
+(February/12/2014)
+	+Added "More Player Models 2"
+
 (February/10/2014)
 	*Updated "[Applied Energistics] ExtraCells" name: Now "ExtraCells"
 	*Updated "[Buildcraft] Compact Mobs" name and info: Now "Compact Mobs", Requires "Buildcraft"

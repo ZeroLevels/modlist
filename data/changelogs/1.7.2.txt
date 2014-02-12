@@ -1,3 +1,9 @@
+(February/12/2014)
+	+Added "Cheating Essentials"
+	+Added "Doomlike Dungeons"
+	+Added "More Player Models 2"
+	+Added "Uyjulian's X-ray Mod"
+
 (February/11/2014)
 	+Added 2 mods by ProfMobius (Which are the following)
 		+Added "JABBA"
