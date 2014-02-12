@@ -1,6 +1,10 @@
 (February/12/2014)
+	*Updated "IronChests" name and info: Now "IronChests", Added source
 	*Updated "More Player Models 2" link
+	*Updated "Monster Spawn Highlighter" description
+	*Updated "Zyin's HUD" info: Added source
 	+Added "Doomlike Dungeons"
+	+Added "More Potion Types"
 
 (February/11/2014)
 	*Updated "JABBA" link

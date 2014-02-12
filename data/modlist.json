@@ -6735,14 +6735,14 @@
 
 },{
 
-"name":"IronChests 2",
+"name":"IronChests",
 "link":"http://bit.ly/ironchests2",
 "desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
 "author":["cpw"],
-"source":"https://github.com/cpw/ironchest/tree/master/IronChests2",
+"source":"https://github.com/cpw/ironchest",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -8589,12 +8589,23 @@
 
 "name":"Monster Spawn Highlighter",
 "link":"http://bit.ly/Sw1AcJ",
-"desc":"This mod has separate ModLoader and Forge versions.See bit.ly/modloaderHighlights any blocks where monsters can spawn.",
+"desc":"Highlights any blocks where monsters can spawn.",
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/Monster-Spawn-Highlighter",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"Monster Spawn Highlighter",
+"link":"http://bit.ly/Sw1AcJ",
+"desc":"Highlights any blocks where monsters can spawn.",
+"author":["Lunatrius"],
+"source":"https://github.com/Lunatrius/Monster-Spawn-Highlighter",
+"type":["Client"],
+"dependencies":["Forge Required","LunatriusCore"],
+"versions":["1.7.2"]
 
 },{
 
@@ -8901,6 +8912,26 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"More Potion Types",
+"link":"http://bit.ly/MKztUI",
+"desc":"Adds haste potions, resistance potions and jump boost potions.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"More Potion Types",
+"link":"http://bit.ly/MKAcW1",
+"desc":"Adds haste potions, resistance potions and jump boost potions.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.7.2"]
 
 },{
 
@@ -12537,7 +12568,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -13538,7 +13569,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -14832,8 +14863,9 @@
 "link":"http://bit.ly/12nyMm0",
 "desc":"Adds your coordinates, a compass, calculates distances, shows nearby players, shows unsafe areas, shows potion duration, eating helper, weapon swapper, an fps counter, displays horse stats, and dynamically displays your equipment that is at less than 10% durability.",
 "author":["Zyin055"],
+"source":"https://github.com/Zyin055/zyinhud",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 }]

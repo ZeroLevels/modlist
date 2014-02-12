@@ -1,4 +1,6 @@
 (February/12/2014)
+	*Updated "IronChests" name and info: Now "IronChests", Added source
+	*Updated "Monster Spawn Highlighter" description
 	+Added "More Player Models 2"
 
 (February/10/2014)
