@@ -2139,6 +2139,17 @@
 
 },{
 
+"name":"Cheating Essentials",
+"link":"http://bit.ly/1h9JY1V",
+"desc":"Allows the player to cheat with Fly, X-ray and other cheat tools. Continuation of Kodehawa's Cheating Essentials.",
+"author":["godshawk"],
+"source":"https://github.com/godshawk/CheatingEssentials",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Cheat Pack 2",
 "link":"http://bit.ly/11ulPtx",
 "desc":"A pack of cheats. A continuation project of the original made by Binkan Salaryman",
@@ -3730,6 +3741,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Doomlike Dungeons",
+"link":"http://bit.ly/1gnt8sU",
+"desc":"Naturally spawns multi-room dungeons with features resembling Doom levels.",
+"author":["BlackJar72"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -8863,12 +8884,12 @@
 },{
 
 "name":"More Player Models 2",
-"link":"http://bit.ly/W9GqQD",
+"link":"http://bit.ly/1gnxUGQ",
 "desc":"Allows the user to customize their in-game player model by changing the scale and shape of each main bodypart, as well as adding other features like chat bubbles, rendering the first tool on your hotbar on your back, and animations such as sitting, dancing, and crawling.",
 "author":["Noppes"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -13997,6 +14018,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Uyjulian's X-ray Mod",
+"link":"http://bit.ly/W2hmul",
+"desc":"Allows you to see through blocks with simple controls.",
+"author":["julialy"],
+"source":"https://github.com/uyjulian/MinecraftX-RAY",
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2","1.6.2","1.6.1","1.5.2"]
 
 },{
 

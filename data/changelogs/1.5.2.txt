@@ -1,3 +1,8 @@
+(February/12/2014)
+	+Added "Doomlike Dungeons"
+	+Added "More Player Models 2"
+	+Added "Uyjulian's X-ray Mod"
+
 (February/11/2014)
 	+Added "Morpheus"
 
