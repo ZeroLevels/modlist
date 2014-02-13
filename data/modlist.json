@@ -8916,22 +8916,22 @@
 },{
 
 "name":"More Potion Types",
-"link":"http://bit.ly/MKztUI",
-"desc":"Adds haste potions, resistance potions and jump boost potions.",
-"author":["spacechase0"],
-"type":["Universal"],
-"dependencies":["Forge Required","SpaceCore"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"More Potion Types",
 "link":"http://bit.ly/MKAcW1",
 "desc":"Adds haste potions, resistance potions and jump boost potions.",
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"More Potion Types",
+"link":"http://bit.ly/MKztUI",
+"desc":"Adds haste potions, resistance potions and jump boost potions.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.6.4"]
 
 },{
 
@@ -14322,6 +14322,28 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"Watson",
+"link":"http://bit.ly/1fjnPr9",
+"desc":"Visualizes LogBlock, CoreProtect and Prism query and inspector results in 3D.",
+"author":["totemo"],
+"source":"https://github.com/totemo/watson",
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Watson",
+"link":"http://bit.ly/1fjnPr9",
+"desc":"Visualizes LogBlock, CoreProtect and Prism query and inspector results in 3D.",
+"author":["totemo"],
+"source":"https://github.com/totemo/watson",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 

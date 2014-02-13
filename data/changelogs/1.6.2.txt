@@ -1,3 +1,6 @@
+(February/13/2014)
+	+Added "Watson"
+
 (February/12/2014)
 	*Updated "IronChests 2" name and info: Now "IronChests", Updated source
 	*Updated "Monster Spawn Highlighter" description
