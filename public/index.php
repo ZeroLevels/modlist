@@ -332,11 +332,18 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
  * @return page
  */
 $klein->respond('GET', '/submit/[form|failed|success|incomplete:state]', function ($request, $response, $service, $app) {
-    $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
-            "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
-            "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
-            "/resources/js/submission.min.js"
-        ), 'state' => $request->param('state')));
+    //TODO: Recode blacklist for panel access
+    //TODO: Force blacklist on actual processing as well
+    $blacklist = array('112.203.31.30');
+    if(in_array($request->ip(),$blacklist)) {
+        $service->render('html/submit/abuse.phtml');
+    } else {
+        $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
+                "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
+                "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
+                "/resources/js/submission.min.js"
+            ), 'state' => $request->param('state')));
+    }
 });
 
 /*
