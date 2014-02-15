@@ -3341,6 +3341,16 @@
 
 },{
 
+"name":"DaFlight",
+"link":"http://bit.ly/1dTekhb",
+"desc":"A fly/sprint-mod with a simple fullbright feature.",
+"author":["dags_"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Dalek Mod",
 "link":"http://bit.ly/WBHu2N",
 "desc":"Adds a bunch of creatures from the hit BBC show Doctor Who",
