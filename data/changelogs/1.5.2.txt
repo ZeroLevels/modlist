@@ -2,6 +2,8 @@
 	*Updated 2 mods by Mumfrey (Which are the following)
 		*Updated "LiteLoader" description
 		*Updated "Macro/Keybind Mod" description
+	*Updated "Truss Mod" description and info: Added source
+	+Added "Female Gender Option"
 
 (February/12/2014)
 	*Updated "IronChests 2" name and info: Now "IronChests", Updated source

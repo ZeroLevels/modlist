@@ -2,6 +2,8 @@
 	*Updated 2 mods by Mumfrey (Which are the following)
 		*Updated "LiteLoader" description
 		*Updated "Macro/Keybind Mod" description
+	+Added "Female Gender Option"
+	+Added "Truss Mod"
 
 (February/13/2014)
 	+Added "Watson"
