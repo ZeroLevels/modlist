@@ -78,6 +78,7 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     $service->versions = array_reverse($data['versions']);
     $service->versions_grouped = array_reverse($data['versions_grouped']);
     $service->versions_count = $data['versions_count'];
+    $service->uri = $request->uri();
     $service->layout('html/layouts/modlist.phtml');
 });
 
@@ -97,6 +98,7 @@ $notfound = function ($request, $response, $service, $app) {
     
     $encoded_data = json_encode($logs, JSON_UNESCAPED_SLASHES);
     file_put_contents($logfile, $encoded_data);
+    $service->uri = '';
     $service->render('html/404.html');
 };
 
@@ -158,10 +160,11 @@ $klein->respond('GET', '/version', function ($request, $response, $service, $app
  * @return page
  */
 $klein->respond('GET', '/version/[*:version]', function ($request, $response, $service, $app) use ($notfound) {
-    if($request->param('version') === 'latest') {
+    $version = $request->param('version');
+    if($version === 'latest') {
         return;
     }
-    if(!in_array($request->param('version'), $service->versions)) {
+    if(!in_array($version, $service->versions)) {
         return $notfound($request, $response, $service, $app);
     }
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
@@ -185,14 +188,16 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
     $mods = array();
     $mod_names = array();
     foreach ($mod_list as $mod) {
-        if(in_array($request->param('version'),$mod['versions'],true)) {
+        if(in_array($version,$mod['versions'],true)) {
             array_push($mods, $mod);
             array_push($mod_names, preg_replace("/[^a-z0-9]/", '', strtolower($mod['name'])));
         }
     }
     array_multisort($mod_names, SORT_ASC, $mods);
-    $service->title = $request->param('version');
-    $service->render('html/mods/list.phtml', array('version' => $request->param('version'), 'mods' => $mods, 'type' => $type, 'forge' => $forge));
+    
+    $service->title = $version;
+    $service->description = $service->versions_count[$version] . " mods listed on $version";
+    $service->render('html/mods/list.phtml', array('version' => $version, 'mods' => $mods, 'type' => $type, 'forge' => $forge));
 });
 
 /*
@@ -280,6 +285,7 @@ $klein->respond('GET', '/changelog', function ($request, $response, $service, $a
         }
     }
     $service->title = 'Changelog Version List';
+    $service->description = "List of changelogs for all listed versions";
     $service->render('html/changelog/index.phtml', array('changelogs' => $changelogs));
 });
 
@@ -289,15 +295,17 @@ $klein->respond('GET', '/changelog', function ($request, $response, $service, $a
  * @return page
  */
 $klein->respond('GET', '/changelog/[*:version]', function ($request, $response, $service, $app) use ($notfound) {
-    if($request->param('version') === 'latest') {
+    $version = $request->param('version');
+    if($version === 'latest') {
         return;
     }
-    $file = 'data/changelogs/' . $request->param('version') . '.txt';
+    $file = "data/changelogs/$version.txt";
     if(!file_exists($file)) {
         return $notfound($request, $response, $service, $app);
     }
     $changelog = file_get_contents($file);
-    $service->title = $request->param('version') . ' Changelog';
+    $service->title = "$version Changelog";
+    $service->description = "Changelog for $version";
     $service->render('html/changelog/log.phtml', array('changelog' => $changelog));
 });
 
@@ -323,6 +331,7 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
             }
         }
     }
+    $service->description = "List of all queued submissions";
     $service->render('html/submit/index.phtml', array('submissions' => array_reverse($submissions), 'amount' => $amount));
 });
 
@@ -338,6 +347,7 @@ $klein->respond('GET', '/submit/[form|failed|success|incomplete:state]', functio
     if(in_array($request->ip(),$blacklist)) {
         $service->render('html/submit/abuse.phtml');
     } else {
+        $service->description = "Submission form for requests";
         $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
                 "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
                 "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
