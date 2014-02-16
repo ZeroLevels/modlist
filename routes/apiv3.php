@@ -83,5 +83,6 @@ $this->respond('GET', '/recent.json', function ($request, $response, $service, $
  * @return page
  */
 $this->respond('GET', '/docs', function ($request, $response, $service, $app) {
+    $service->description = "Documentation for site API";
     $service->render('html/content/apiv3.phtml');
 });
