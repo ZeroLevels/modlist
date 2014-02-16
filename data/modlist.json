@@ -7332,24 +7332,12 @@
 "name":"LiteLoader",
 "other":"(API)",
 "link":"http://bit.ly/18mKFgD",
-"desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. It is designed to run alongside ModLoader and Minecraft Forge and LiteLoader mods will not conflict with ModLoader or Forge mods.",
+"desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. Designed to run alongside ModLoader and Minecraft Forge and will not conflict with ModLoader or Forge mods.",
 "author":["Mumfrey"],
 "source":"https://www.assembla.com/spaces/liteloader/stream",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"LiteLoader",
-"other":"(API) (Beta)",
-"link":"http://bit.ly/18mKFgD",
-"desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. It is designed to run alongside ModLoader and Minecraft Forge and LiteLoader mods will not conflict with ModLoader or Forge mods.",
-"author":["Mumfrey"],
-"source":"https://www.assembla.com/spaces/liteloader/stream",
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -7510,11 +7498,22 @@
 
 "name":"Macro/Keybind Mod",
 "link":"http://bit.ly/WnFEuT",
-"desc":"Take control of your Minecraft client. Bind keys to commands and automate simple or complex tasks. Design your own heads-up display and create your own interactive menus in-game quickly and easily. Perfect for use with WorldEdit, MCMMO, adminning a server, or trolling your friends. Plus it dispenses free cake.",
+"desc":"Take control of your Minecraft client. Bind keys to commands and automate simple or complex tasks. Design your own heads-up display and create your own interactive menus in-game quickly and easily. Perfect for use with WorldEdit, MCMMO, server administration, or trolling your friends. Plus it dispenses free cake.",
 "author":["Mumfrey"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Macro/Keybind Mod",
+"other":"(Beta)",
+"link":"http://bit.ly/WnFEuT",
+"desc":"Take control of your Minecraft client. Bind keys to commands and automate simple or complex tasks. Design your own heads-up display and create your own interactive menus in-game quickly and easily. Perfect for use with WorldEdit, MCMMO, server administration, or trolling your friends. Plus it dispenses free cake.",
+"author":["Mumfrey"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2"]
 
 },{
 
