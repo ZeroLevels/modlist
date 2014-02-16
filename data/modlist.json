@@ -77,7 +77,7 @@
 "desc":"A mod that allows you to customize the in-game HUD.",
 "author":["TurboSlow"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.4.7","1.4.5","1.3.2"]
 
 },{
@@ -323,7 +323,7 @@
 "desc":"Allows you to not only give yourself any item in the game, but almost every possible kind of item.",
 "author":["mister_person"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
 
 },{
@@ -383,7 +383,7 @@
 "desc":"Do you play with large biomes, or spawned/traveled to a new world on an island without any trees and no islands anywhere near? Do you ever wonder \"Now how the hell am I supposed to survive without any possible way to obtain wood or sticks??\" Then this mod is for you!<br/><br/>Spawns a new ore block in stone, dirt and grass blocks. You can craft the tree root into sticks, craft the tree root with seeds to get a sapling and smelt the tree root into charcoal. You can also use a wooden axe to get seeds instead of the normal drop.",
 "author":["Kinyoshi"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -597,7 +597,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -791,7 +791,7 @@
 "desc":"Audiotori is a cascading sound pack manager. It allows you to use multiple sound packs at once to replace the default Minecraft sounds, or replace sounds added by other mods.",
 "author":["Hurricaaane"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -1126,7 +1126,7 @@
 "desc":"Adds tweaks and new items such as foods, armour sets, and tool sets.",
 "author":["Kitteh6660"],
 "type":["SSP","LAN"],
-"dependencies":["Not Forge Compatible","Modloader"],
+"dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.6.1","1.5.2"]
 
 },{
@@ -1627,7 +1627,7 @@
 "desc":"Spawns Bone Ore in stone, sand, dirt and grass (testing because I'm thinking of adding it to ChertCraft to get more Chert spawn).  You smelt the Bone Ore in the furnace to get Bonemeal. If you have Chert Craft or the standalone craft gunpowder mod then you can use the bonemeal to craft gunpowder.",
 "author":["Kinyoshi"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -1743,7 +1743,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
@@ -1784,7 +1784,7 @@
 "desc":"With the Buddycam you can view your Friends View in Multiplayer, if he/she allows it. You can even observe your Pets in Single- & Multiplayer (as of 1.5.1d). You can fully customize the position and size of the buddycam-screen and the renderquality.The only limitation to the number of screens is the power of your Computer. (Tested with 3 screens.)",
 "author":["romibi"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.1","1.4.7","1.4.5"]
 
 },{
@@ -1897,7 +1897,7 @@
 "desc":"Shows the real date and time of your minecraft world and adds two new items: The calendar and watch. It also adds a few chat commands that give better control over the time.",
 "author":["RoboMat"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.1"]
 
 },{
@@ -1970,7 +1970,7 @@
 "author":["WyrdOne"],
 "source":"https://github.com/WyrdOne/CaptionAPI",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -2002,7 +2002,7 @@
 "desc":"Lets you place your maps on Item Frames as you'd usually do, but with the slight difference that they will be as big as a block instead of small as the Item Frame.",
 "author":["MelAlvarado"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
@@ -2050,7 +2050,7 @@
 
 "name":"Chain Armor Recipe Mod",
 "link":"http://bit.ly/14r7OO6",
-"desc":"A simple mod that let's you craft Chain Armor. The mod is compatible with Forge and Modloader!",
+"desc":"A simple mod that let's you craft Chain Armor. The mod is compatible with Forge and ModLoader!",
 "author":["jerryz16"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
@@ -2320,7 +2320,7 @@
 "desc":"A mod based around the American Civil War.",
 "author":["WillBaker12"],
 "type":["SSP"],
-"dependencies":["Not Forge Compatible","Modloader"],
+"dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.5.2"]
 
 },{
@@ -2913,7 +2913,7 @@
 "author":["Lomeli12"],
 "source":"https://github.com/Lomeli12/CraftCards",
 "type":["Universal"],
-"dependencies":["Forge Required","Lomlib"],
+"dependencies":["Forge Required","LomLib"],
 "versions":["1.6.4","1.6.2","1.6.1"]
 
 },{
@@ -2934,7 +2934,7 @@
 "desc":"Adds two simple shapeless crafting recipes to craft gunpowder.",
 "author":["Kinyoshi"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -3026,7 +3026,7 @@
 "desc":"Makes ravines longer, wider, and deeper. It also allows ravines to cut through bodies of water which previously wasn't allowed.",
 "author":["klglange"],
 "type":["SSP"],
-"dependencies":["Not Forge Compatible","Modloader"],
+"dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.5.1","1.4.7","1.3.2"]
 
 },{
@@ -3140,7 +3140,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/CrystalWing",
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -3356,7 +3356,7 @@
 "desc":"Adds a bunch of creatures from the hit BBC show Doctor Who",
 "author":["1WTC"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.5.1","1.4.7"]
 
 },{
@@ -3437,7 +3437,7 @@
 "desc":"This mod adds a clone dead bush that spawns along side the vanilla ones. This clone bush drops sticks.",
 "author":["Kinyoshi"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -3607,7 +3607,7 @@
 "desc":"Do you play with large biomes, often find yourself stuck in the middle of a desert, or like to play with desert only maps or play in hardcore mode? Do you find yourself getting excited when you get wood? Then this mod is for you!<br/><br/>Petrified Wood can be crafted into sticks, an axe or non-throwable spear and can be smelted in the furnace to get carbonized wood which is lasts longer than coal. It also spawns in other places than the desert.",
 "author":["Kinyoshi"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -3699,7 +3699,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -3824,7 +3824,7 @@
 "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
 "author":["BarracudaATA"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
 
 },{
@@ -4987,7 +4987,7 @@
 "desc":"This mod has separate ModLoader and Forge versions. Provides the option to turn the player into a female model while maintaining the minecraft style.",
 "author":["iPixeli"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5"]
 
 },{
@@ -5160,7 +5160,7 @@
 "desc":"Adds six new flintlock weapons: Pistol, Double-Barreled Pistol, Musket, Revolver, and Hand Cannon, and a makeshift stone pistol. Loading these flintlock weapons in real life is quite cumbersome, and this mod replicates that. To load a weapon, you must craft together an unloaded one, gunpowder, and your ammo. The multi-shot weapons can do this multiple times to become fully loaded. Also be aware, your gun may misfire, making a sad click and losing your ammo. Reload and try again.",
 "author":["WillDaBeast509"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -5192,7 +5192,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/FloatingRuins",
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -5479,7 +5479,7 @@
 "desc":"Allows you to change your in-game brightness.",
 "author":["kymaster"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
@@ -5559,7 +5559,7 @@
 "desc":"Adds genes to mobs which gives them traits that can be passed on during breeding. Adds items to identify genes and kill animals. Edits base classes.",
 "author":["dude0367"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2"]
 
 },{
@@ -5743,7 +5743,7 @@
 "desc":"Adds a gravestone to the game, which spawns after player's death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot.The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.",
 "author":["NightKosh"],
 "type":["Universal"],
-"dependencies":["Forge Required","Modloader","Player API"],
+"dependencies":["Forge Required","ModLoader","Player API"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -6608,7 +6608,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/IngameInfo",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -6619,7 +6619,7 @@
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/InGame-Info-XML",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
@@ -6701,7 +6701,7 @@
 "desc":"This mod adds over 24 blocks, that create their own structures instantly! Just walk over the block and an structure will be generated! Drag n drop installation.",
 "author":["SimJoo"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.6.1"]
 
 },{
@@ -6783,7 +6783,7 @@
 "desc":"This mod makes the item soup stackable up to twelve. Make sure you unstack your bowl of soup before you consume it, otherwise you will eat all of it, little piggy...",
 "author":["Kinyoshi"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -6897,7 +6897,7 @@
 "desc":"A client mod which maps your Minecraft world in real-time as you explore.  You can view the live map in a web browser, on your iPad, or in-game.  You get a daylight map, a moonlight map, cave maps by vertical slice, Nether maps, and End maps.  A live radar shows nearby mobs, animals, and pets.",
 "author":["techbrew"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.5.1","1.4.7"]
 
 },{
@@ -7334,7 +7334,7 @@
 "link":"http://bit.ly/18mKFgD",
 "desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. Designed to run alongside ModLoader and Minecraft Forge and will not conflict with ModLoader or Forge mods.",
 "author":["Mumfrey"],
-"source":"https://www.assembla.com/spaces/liteloader/stream",
+"source":"https://www.assembla.com/spaces/LiteLoader/stream",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
@@ -7356,7 +7356,7 @@
 "desc":"Adds a (tameable) mob called the Little Maid, who can do a lot of stuff for you! The Maid can help you fight, cook meals, heal you, build and much more! If you forgot her salary, maid gets into strike, until you give her a cake.",
 "author":["MMM"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
@@ -7696,7 +7696,7 @@
 "desc":"MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirping in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.",
 "author":["Hurricaaane"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
@@ -7736,7 +7736,7 @@
 "desc":"Enhanced colors, animations, mipmapping, textures and font support. Includes Connected Textures and RandomMobs.",
 "author":["Kahr"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.1","1.5.2","1.4.7"]
 
 },{
@@ -7817,7 +7817,7 @@
 "desc":"Make all Skeletons hold a sword instead of bow.",
 "author":["Slayerlord8"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5"]
 
 },{
@@ -8046,7 +8046,7 @@
 "desc":"Let's you configure Vanilla minecraft to your liking, by letting you turn off mobs, armours, and many more options.",
 "author":["WyrdOne"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader","ModOptionsAPI"],
+"dependencies":["Forge Compatible","ModLoader","ModOptionsAPI"],
 "versions":["1.5.1","1.5"]
 
 },{
@@ -8498,7 +8498,7 @@
 "author":["WyrdOne"],
 "source":"https://github.com/WyrdOne/ModOptionsAPI",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
@@ -8614,7 +8614,7 @@
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/Monster-Spawn-Highlighter",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
@@ -8757,7 +8757,7 @@
 "author":["Grom PE"],
 "source":"https://github.com/grompe/moreeverything",
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
@@ -8828,7 +8828,7 @@
 "desc":"Adds more than 35 new mobs, ranging from animals, humans, monsters, fishes and more.",
 "author":["SimJoo"],
 "type":["SSP","LAN"],
-"dependencies":["Not Forge Compatible","Modloader"],
+"dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.6.2"]
 
 },{
@@ -8868,7 +8868,7 @@
 "desc":"Adds more ores, tools and armor to Minecraft.",
 "author":["UsernameZero"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
@@ -8971,7 +8971,7 @@
 "desc":"Adds in many new pressure plates.",
 "author":["jsprouts"],
 "type":["SSP","SMP","LAN"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1","1.4.5"]
 
 },{
@@ -9074,7 +9074,7 @@
 "desc":"Adds 12 biome-themed wolves into the game.",
 "author":["SimJoo"],
 "type":["SSP","LAN"],
-"dependencies":["Not Forge Compatible","Modloader"],
+"dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.6.2"]
 
 },{
@@ -9177,7 +9177,7 @@
 "desc":"Displays your current movement state in the bottom-left corner of the screen in color-coded text as well as your animated character model. It's extremely simple in design, but very useful when making sure that you're actually sprinting/sneaking is a necessity (esp. in multiplayer PVP servers).",
 "author":["RedBanHammer"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5","1.4.2"]
 
 },{
@@ -9430,7 +9430,7 @@
 "desc":"Adds many characters and items themed towards Naruto Shippuden.",
 "author":["T24EarthPoke"],
 "type":["SSP"],
-"dependencies":["Not Forge Compatible","Modloader"],
+"dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.4.7"]
 
 },{
@@ -9678,7 +9678,7 @@
 "desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them. Created by ImRaginBro, maintained by xaero_.",
 "author":["xaero_"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
@@ -10266,7 +10266,7 @@
 "desc":"This mod adds armor for pigs and lets you tame them. You can give an pig an helmet and seeds to let it fight for you.",
 "author":["SimJoo"],
 "type":["SSP","LAN"],
-"dependencies":["Not Forge Compatible","Modloader"],
+"dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.6.2"]
 
 },{
@@ -11155,7 +11155,7 @@
 "desc":"Adds new armor, blocks, tools, and weapons for two new ingots, Super Butter and Reinforced Butter.",
 "author":["jsprouts"],
 "type":["SSP","SMP","LAN"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.1"]
 
 },{
@@ -11419,7 +11419,7 @@
 "desc":"The Scoaleton is just about as fast as you are when you're sprinting, and holds a Katana in it's hand. Scoaletons drop 0-2 Dark Bones when they die, which can be crafted into one Dark Bone Meal. They will also drop 15 EXP, 0-9 coal, and very rarely a Katana. They also have a custom sound, and will explode at daytime since they're made of coal.",
 "author":["ocomobock"],
 "type":["SSP"],
-"dependencies":["Not Forge Compatible","Modloader"],
+"dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.5"]
 
 },{
@@ -11788,7 +11788,7 @@
 "desc":"Minimalist world generator based on Noobcrew's SkyBlock map for The Overworld, The Nether and The End; with access to all renewable resources found in vanilla Minecraft.",
 "author":["King Korihor"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.6.1","1.5.2","1.3.2"]
 
 },{
@@ -11881,7 +11881,7 @@
 "desc":"Provides various additional moving possibilities, such as climbing, crawling, sliding, and alternate swim/fly/fall animations.",
 "author":["Divisor"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Compatible","Modloader","Player API","Render Player API"],
+"dependencies":["Forge Compatible","ModLoader","Player API","Render Player API"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
@@ -11901,7 +11901,7 @@
 "desc":"Adds a simple furnace recipe to smelt gravel into flint.",
 "author":["Kinyoshi"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -12273,7 +12273,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/StartingInventory",
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -12336,7 +12336,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -12366,7 +12366,7 @@
 "desc":"Adds a simple crafting recipe to craft sticks into wooden planks.",
 "author":["Kinyoshi"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -12387,7 +12387,7 @@
 "desc":"Adds a stone biome that is somewhat flat with water, some small animals and usually no monsters. Mushrooms and lily-pads are usually plentiful. Goes well with Kinyoshi's Chert Craft Mod.",
 "author":["Kinyoshi"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -12791,7 +12791,7 @@
 "desc":"Adds a fully working Airship to Minecraft, complete with fuel systems and animations!",
 "author":["bmanrules"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.1"]
 
 },{
@@ -13246,7 +13246,7 @@
 "desc":"Displays a bar for player saturation, normally hidden in vanilla Minecraft.",
 "author":["Spencie37"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.6.1","1.5.2"]
 
 },{
@@ -13427,7 +13427,7 @@
 "desc":"Makes all the logs in a tree break when you hit the bottom block of the tree with an axe of any type. You can toggle this effect to safely remove logs by holding down the sneak key while chopping logs with your axe.",
 "author":["TehKrush"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
@@ -13458,7 +13458,7 @@
 "desc":"Lets you dye Redstone Lamps into any of the 16 available colors.",
 "author":["TtocsNeb"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2"]
 
 },{
@@ -13681,7 +13681,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/TreeCapitator",
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -13824,7 +13824,7 @@
 "desc":"Allows you to smoothly move blocks and sets of blocks. Using the blocks in this mod, you can make your constructions come to life and move.Page is in Japanese. If your web browser is capable (such as Google Chrome) tell it to translate the page. The mod's download link can be found at the bottom of the page.",
 "author":["Mao"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -14203,7 +14203,7 @@
 "desc":"On top of enabling village spawning in more biomes, the mod adds custom spawn design based on what biome it spawns in as well as tweaking some of the old spawn structures.",
 "author":["clovis83"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5","1.4.7"]
 
 },{
@@ -14534,7 +14534,7 @@
 "desc":"Adds a simple crafting recipe to craft two wool blocks diagonally to get string.",
 "author":["Kinyoshi"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
@@ -14575,7 +14575,7 @@
 "author":["Mumfrey"],
 "source":"https://github.com/Mumfrey/WorldEditCUI",
 "type":["Client"],
-"dependencies":["Forge Compatible","Liteloader"],
+"dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
@@ -14586,7 +14586,7 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/WorldStateCheckpoints",
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader","bspkrsCore"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -14853,7 +14853,7 @@
 "desc":"Adds random and potentially interesting things to the game.",
 "author":["Zeno_DreamingMage"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Compatible","Modloader"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
