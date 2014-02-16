@@ -485,7 +485,7 @@
 "desc":"An expansion of Minecraft's fishing system. You never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing.",
 "author":["Shadowclaimer","RebelKeithy"],
 "type":["Universal"],
-"dependencies":["Forge Required","KeithyUtils Required"],
+"dependencies":["Forge Required","KeithyUtils"],
 "versions":["1.6.2","1.5.2"]
 
 },{
@@ -515,7 +515,7 @@
 "desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
 "author":["Duke605"],
 "type":["Universal"],
-"dependencies":["Forge Required","DukeCore Required"],
+"dependencies":["Forge Required","DukeCore"],
 "versions":["1.6.2","1.6.1","1.5.2"]
 
 },{
@@ -2207,7 +2207,7 @@
 "desc":"Adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around. Works in singleplayer as well.",
 "author":["chicken_bones"],
 "type":["Universal"],
-"dependencies":["Forge Required","CodeChickenCore Required"],
+"dependencies":["Forge Required","CodeChickenCore"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
@@ -2913,7 +2913,7 @@
 "author":["Lomeli12"],
 "source":"https://github.com/Lomeli12/CraftCards",
 "type":["Universal"],
-"dependencies":["Forge Required","Lomlib Required"],
+"dependencies":["Forge Required","Lomlib"],
 "versions":["1.6.4","1.6.2","1.6.1"]
 
 },{
@@ -3731,7 +3731,7 @@
 "author":["Lomeli12"],
 "source":"https://github.com/Lomeli12/DivingGear",
 "type":["Universal"],
-"dependencies":["Forge Required","LomLib Required"],
+"dependencies":["Forge Required","LomLib"],
 "versions":["1.5.2"]
 
 },{
@@ -4518,7 +4518,7 @@
 "desc":"Allows you to buy and sell items with everyone else who has the mod.",
 "author":["Duke605"],
 "type":["SSP"],
-"dependencies":["Forge Required","DukeCore Required"],
+"dependencies":["Forge Required","DukeCore"],
 "versions":["1.6.1","1.5.2"]
 
 },{
@@ -5327,7 +5327,7 @@
 "author":["chicken_bones"],
 "source":"https://github.com/Chicken-Bones/ForgeMultipart",
 "type":["Universal"],
-"dependencies":["Forge Required","CodeChickenCore Required"],
+"dependencies":["Forge Required","CodeChickenCore"],
 "versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
@@ -6071,7 +6071,7 @@
 "author":["denoflions"],
 "source":"https://github.com/denoflionsx/HDSAC",
 "type":["Universal"],
-"dependencies":["Forge Compatible","denLib Required"],
+"dependencies":["Forge Compatible","denLib"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
 
 },{
@@ -8169,7 +8169,7 @@
 "desc":"Adds new player models and textures that make players look like ponies, in the style of the TV show My Little Pony: Friendship Is Magic. Once the mod is installed, you and all other players will look like ponies in both singleplayer and multiplayer. Players who aren't using a special pony skin will look like one of the background ponies from the show (as the default player skins are not fully compatible with this mod).",
 "author":["Verdana"],
 "type":["Client"],
-"dependencies":["Forge Compatible","LiteLoader Required"],
+"dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
@@ -10389,7 +10389,7 @@
 "desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
 "author":["denoflions"],
 "type":["Universal"],
-"dependencies":["Forge Required","Forestry","denLib Required"],
+"dependencies":["Forge Required","Forestry","denLib"],
 "versions":["1.5.2","1.4.7"]
 
 },{
@@ -10399,7 +10399,7 @@
 "desc":"Adds additional interconnected content between other Forge mods and SirSengir's Forestry.",
 "author":["denoflions"],
 "type":["Universal"],
-"dependencies":["Forge Required","Forestry","denLib Required"],
+"dependencies":["Forge Required","Forestry","denLib"],
 "versions":["1.6.2"]
 
 },{
@@ -11881,7 +11881,7 @@
 "desc":"Provides various additional moving possibilities, such as climbing, crawling, sliding, and alternate swim/fly/fall animations.",
 "author":["Divisor"],
 "type":["SSP","SMP"],
-"dependencies":["Forge Compatible","Modloader Compatible","Player API Required","Render Player API Required"],
+"dependencies":["Forge Compatible","Modloader","Player API","Render Player API"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
@@ -13639,7 +13639,7 @@
 "desc":"Adds an attachment for chests that cause contents in the chest to be moved to a different chest within a one block space.",
 "author":["chicken_bones"],
 "type":["Universal"],
-"dependencies":["Forge Required","CodeChickenCore Required"],
+"dependencies":["Forge Required","CodeChickenCore"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
@@ -14484,7 +14484,7 @@
 "desc":"In its simplest this is a mod that allows you to transmit your redstone state wirelessly. Even if you dont use redstone this mod could still be for you. Found an awesome landscape you'd like to mark, a cool cave to explore, or keep losing your way from base to base? Ever wished that compass pointed somewhere else or there was a way to mark things on a map. Well now there is. With the wireless addons component of this mod you can use wireless signals for navigation.",
 "author":["chicken_bones"],
 "type":["Universal"],
-"dependencies":["Forge Required","CodeChickenCore Required","ForgeMultipart Required"],
+"dependencies":["Forge Required","CodeChickenCore","ForgeMultipart"],
 "versions":["1.6.4","1.6.2","1.5.1","1.4.7"]
 
 },{
