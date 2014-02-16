@@ -8,7 +8,7 @@
     isset($this->description) ? ' ' . $this->description : ''
     ?>" />
     <meta name="twitter:card" content="summary">
-    <meta property="og:title" content="MCF Modlist">
+    <meta property="og:title" content="MCF Modlist<?php if(isset($this->title)) { echo ' - ' . $this->title; } ?>">
     <meta property="og:image" content="http://modlist.mcf.li/resources/images/favicon32x32.png">
     <meta property="og:type" content="website">
     <?php if($this->uri !== '') { ?>
