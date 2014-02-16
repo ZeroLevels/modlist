@@ -323,7 +323,7 @@
 "desc":"Allows you to not only give yourself any item in the game, but almost every possible kind of item.",
 "author":["mister_person"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
 
 },{
@@ -1897,7 +1897,7 @@
 "desc":"Shows the real date and time of your minecraft world and adds two new items: The calendar and watch. It also adds a few chat commands that give better control over the time.",
 "author":["RoboMat"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.5.1"]
 
 },{
@@ -2002,7 +2002,7 @@
 "desc":"Lets you place your maps on Item Frames as you'd usually do, but with the slight difference that they will be as big as a block instead of small as the Item Frame.",
 "author":["MelAlvarado"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
@@ -3026,7 +3026,7 @@
 "desc":"Makes ravines longer, wider, and deeper. It also allows ravines to cut through bodies of water which previously wasn't allowed.",
 "author":["klglange"],
 "type":["SSP"],
-"dependencies":["Not Forge Compatible","Modloader Compatible"],
+"dependencies":["Not Forge Compatible","Modloader"],
 "versions":["1.5.1","1.4.7","1.3.2"]
 
 },{
@@ -3356,7 +3356,7 @@
 "desc":"Adds a bunch of creatures from the hit BBC show Doctor Who",
 "author":["1WTC"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.6.2","1.5.1","1.4.7"]
 
 },{
@@ -3824,7 +3824,7 @@
 "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
 "author":["BarracudaATA"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
 
 },{
@@ -4987,7 +4987,7 @@
 "desc":"This mod has separate ModLoader and Forge versions. Provides the option to turn the player into a female model while maintaining the minecraft style.",
 "author":["iPixeli"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.5"]
 
 },{
@@ -6619,7 +6619,7 @@
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/InGame-Info-XML",
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
@@ -6897,7 +6897,7 @@
 "desc":"A client mod which maps your Minecraft world in real-time as you explore.  You can view the live map in a web browser, on your iPad, or in-game.  You get a daylight map, a moonlight map, cave maps by vertical slice, Nether maps, and End maps.  A live radar shows nearby mobs, animals, and pets.",
 "author":["techbrew"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.5.1","1.4.7"]
 
 },{
@@ -7356,7 +7356,7 @@
 "desc":"Adds a (tameable) mob called the Little Maid, who can do a lot of stuff for you! The Maid can help you fight, cook meals, heal you, build and much more! If you forgot her salary, maid gets into strike, until you give her a cake.",
 "author":["MMM"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
@@ -7736,7 +7736,7 @@
 "desc":"Enhanced colors, animations, mipmapping, textures and font support. Includes Connected Textures and RandomMobs.",
 "author":["Kahr"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.6.1","1.5.2","1.4.7"]
 
 },{
@@ -8757,7 +8757,7 @@
 "author":["Grom PE"],
 "source":"https://github.com/grompe/moreeverything",
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
@@ -8971,7 +8971,7 @@
 "desc":"Adds in many new pressure plates.",
 "author":["jsprouts"],
 "type":["SSP","SMP","LAN"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.5.2","1.5.1","1.4.5"]
 
 },{
@@ -10627,7 +10627,7 @@
 "author":["Hurricaaane"],
 "source":"https://github.com/Hurricaaane/Presence-Footsteps",
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader Compatible"],
+"dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2"]
 
 },{
@@ -11155,7 +11155,7 @@
 "desc":"Adds new armor, blocks, tools, and weapons for two new ingots, Super Butter and Reinforced Butter.",
 "author":["jsprouts"],
 "type":["SSP","SMP","LAN"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.5.1"]
 
 },{
@@ -13458,7 +13458,7 @@
 "desc":"Lets you dye Redstone Lamps into any of the 16 available colors.",
 "author":["TtocsNeb"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.5.2"]
 
 },{
@@ -14203,7 +14203,7 @@
 "desc":"On top of enabling village spawning in more biomes, the mod adds custom spawn design based on what biome it spawns in as well as tweaking some of the old spawn structures.",
 "author":["clovis83"],
 "type":["SSP"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.5.2","1.5","1.4.7"]
 
 },{
@@ -14853,7 +14853,7 @@
 "desc":"Adds random and potentially interesting things to the game.",
 "author":["Zeno_DreamingMage"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Compatible","Modloader Compatible"],
+"dependencies":["Forge Compatible","Modloader"],
 "versions":["1.5.2","1.5.1"]
 
 },{
