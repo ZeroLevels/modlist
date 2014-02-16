@@ -1,3 +1,6 @@
+(February/16/2014)
+	+Added "Render Player API"
+
 (February/12/2014)
 	+Added "More Player Models 2"
 
