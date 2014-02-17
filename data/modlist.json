@@ -12102,6 +12102,17 @@
 
 },{
 
+"name":"Soup Mod",
+"link":"http://bit.ly/1jKTtF7",
+"desc":"Adds different kinds of soup, making it easier to find food in the beginning of the game.",
+"author":["carystanley"],
+"source":"https://github.com/carystanley/minecraft-soup-mod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"SpaceCore",
 "link":"http://bit.ly/1moHycF",
 "desc":"This mod is required for all other mods created by spacechase0.",
