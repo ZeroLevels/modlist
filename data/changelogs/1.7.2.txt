@@ -2,6 +2,7 @@
 	+Added "Custom NPCs"
 	+Added "Peaceful Plus"
 	+Added "Schematica"
+	+Added "Soup Mod"
 
 (February/16/2014)
 	*Updated "LiteLoader" description
