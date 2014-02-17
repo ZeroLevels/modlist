@@ -11424,6 +11424,18 @@
 
 },{
 
+"name":"Schematica",
+"other":"(Dev)",
+"link":"http://bit.ly/XSPYRr",
+"desc":"Allows you to display a ghost image of a schematic file inside Minecraft to rebuild a structure or export any part of your world (or a server's world) into a schematic file. You're able to export parts of your world, too!",
+"author":["Lunatrius"],
+"source":"https://github.com/Lunatrius/Schematica",
+"type":["Client"],
+"dependencies":["Forge Required","LunatriusCore"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Scoaleton",
 "link":"http://bit.ly/118TZE9",
 "desc":"The Scoaleton is just about as fast as you are when you're sprinting, and holds a Katana in it's hand. Scoaletons drop 0-2 Dark Bones when they die, which can be crafted into one Dark Bone Meal. They will also drop 15 EXP, 0-9 coal, and very rarely a Katana. They also have a custom sound, and will explode at daytime since they're made of coal.",
