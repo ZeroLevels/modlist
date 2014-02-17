@@ -1,5 +1,5 @@
 (February/17/2014)
-	*Updated "Mr_Crayfish's Furniture Mod" name and info: Now "MrCrayfish's Furniture Mod", Added source
+	*Updated "Mr_Crayfish's Furniture Mod" name and info: Now "Furniture Mod", Added source
 
 (February/16/2014)
 	*Updated "Female Gender Option Mod" name, description and info: Now "Female Gender Option", Now "Universal", Requires "ModLoader", Requires "Render Player API"
