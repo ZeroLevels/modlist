@@ -1,3 +1,6 @@
+(February/18/2014)
+	+Added "Redstone Paste Mod"
+
 (February/17/2014)
 	+Added "Custom NPCs"
 	+Added "Peaceful Plus"
