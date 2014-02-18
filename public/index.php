@@ -503,6 +503,37 @@ $klein->respond('GET', '/apiv2.php', function ($request, $response, $service, $a
 });
 
 /*
+ * api.php
+ * Legacy APIv1 - responds with notification
+ * @deprecated
+ * @return page
+ */
+$klein->respond('GET', '/api.php', function ($request, $response, $service, $app) {
+    $service->validateParam('request','api')->notNull()->isAlpha();
+    $service->validateParam('version','api')->notNull();
+    
+    $newlist = array();
+    $newlist['name']            = 'Outdated API';
+    $newlist['other']           = '';
+    $newlist['link']            = 'http://modlist.mcf.li';
+    $newlist['desc']            = 'This application is using an outdated API version. The developer has likely created a new version of the app, update to the latest version!';
+    $newlist['author']          = 'GrygrFlzr';
+    $newlist['type']            = array('Universal');
+    $newlist['dependencies']    = array('Forge Required');
+    $newlist['versions']        = array('1.7.2','1.6.4','1.5.2');
+    
+    $response->noCache();
+    if($request->param('request') === 'json') {
+        $response->header('Content-Type', 'application/json');
+        $response->body(json_encode($newlist, JSON_UNESCAPED_SLASHES));
+    }
+    if($request->param('request') === 'hash') {
+        $response->header('Content-Type', 'text/plain');
+        $response->body(md5(json_encode($newlist, JSON_UNESCAPED_SLASHES)));
+    }
+});
+
+/*
  * content
  * Version content pages (eg: banners, credits, faq, history)
  * @return page
