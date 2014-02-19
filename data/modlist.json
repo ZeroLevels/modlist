@@ -13489,7 +13489,7 @@
 "name":"Time Keeper",
 "link":"http://bit.ly/1bLzDHv",
 "desc":"Keeps in-game time in sync with real life.",
-"author":["Ezekiel Elin"],
+"author":["ezfe"],
 "source":"https://github.com/ezfe/TimeKeeper",
 "type":["Universal"],
 "dependencies":["Forge Required"],
