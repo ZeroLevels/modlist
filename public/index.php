@@ -264,10 +264,15 @@ $klein->respond('GET', '/list/submit/[list.php]?', function($request, $response,
  */
 $klein->respond('GET', '/list/[*:major]?/[*:version].[php]?', function ($request, $response, $service, $app) {
     if($request->param('major') !== 'submit' || $request->param('version') !== 'submit') {
-        if(substr($request->param('version'), -4, 4) === '.php')
-            $response->redirect('/version/' . substr($request->param('version'), 0, -4), $code = 301);
-        else
-            $response->redirect('/version/' . $request->param('version'), $code = 301);
+        $version = $request->param('version');
+        if(substr($version, -4, 4) === '.php') {
+            $version = substr($version, 0, -4);
+        }
+        
+        $version_ex = explode('_',$version);
+        $version = array_pop($version_ex);
+        
+        $response->redirect("/version/$version");//, $code = 301);
         $response->send();
     }
 });
