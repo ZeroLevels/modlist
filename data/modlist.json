@@ -13486,6 +13486,17 @@
 
 },{
 
+"name":"Time Keeper",
+"link":"http://bit.ly/1bLzDHv",
+"desc":"Keeps in-game time in sync with real life.",
+"author":["ezfe"],
+"source":"https://github.com/ezfe/TimeKeeper",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"TimesOreForge",
 "link":"http://bit.ly/11ZM7UK",
 "desc":"Allows you to control the ore generation rate. Compatible with vanilla clients when used on servers.",
