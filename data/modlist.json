@@ -68,7 +68,7 @@
 "author":["ObsiLP"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -840,9 +840,10 @@
 "link":"http://bit.ly/12i4AZ1",
 "desc":"This is a server-only mod used for automatic shutting down after specified time with no players online.",
 "author":["monnef"],
+"source":"https://github.com/mnn/AutoShutdown",
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5"]
+"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -11955,7 +11956,7 @@
 "author":["TXX59"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
