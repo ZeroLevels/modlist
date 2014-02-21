@@ -1,3 +1,6 @@
+(February/21/2014)
+	*Updated "Auto-shutdown": Added source
+
 (February/17/2014)
 	*Updated "Mr_Crayfish's Furniture Mod" name and info: Now "Furniture Mod", Added source
 
