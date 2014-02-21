@@ -341,6 +341,7 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
             }
         }
     }
+    $service->title = 'Submission List';
     $service->description = "List of all queued submissions";
     $service->render('html/submit/index.phtml', array('submissions' => array_reverse($submissions), 'amount' => $amount));
 });
@@ -357,6 +358,7 @@ $klein->respond('GET', '/submit/[form|failed|success|incomplete:state]', functio
     if(in_array($request->ip(),$blacklist)) {
         $service->render('html/submit/abuse.phtml');
     } else {
+        $service->title = 'Submission Form';
         $service->description = "Submission form for requests";
         $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
                 "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
