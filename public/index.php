@@ -165,7 +165,12 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
         return;
     }
     if(!in_array($version, $service->versions)) {
-        return $notfound($request, $response, $service, $app);
+        if($version === '1.4.6_1.4.7.php' || $version === '1.4.6_1.4.7') {
+            $response->redirect('/version/1.4.7', 301);
+            return;
+        } else {
+            return $notfound($request, $response, $service, $app);
+        }
     }
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     
