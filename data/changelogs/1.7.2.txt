@@ -1,4 +1,5 @@
 (February/22/2014)
+	+Added "Inventory Tweaks"
 	+Added "Ropes+"
 
 (February/21/2014)

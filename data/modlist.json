@@ -6759,6 +6759,18 @@
 
 },{
 
+"name":"Inventory Tweaks",
+"other":"(Dev)",
+"link":"http://bit.ly/1jXjbGw",
+"desc":"Allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will save you a massive amount of time!",
+"author":["Kobata"],
+"source":"https://github.com/Kobata/inventory-tweaks",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Invincible Hamster",
 "link":"http://bit.ly/13b0vsE",
 "desc":"Lets hamsters spawn in your world. When you tame them with flowers, they become invincible hamsters, with a never ending hate for iron bars.",
