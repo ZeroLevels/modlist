@@ -1,4 +1,6 @@
 (February/22/2014)
+	+Added "Condensed Potions"
+	+Added "Inventory Tweaks"
 	+Added "Ropes+"
 
 (February/21/2014)

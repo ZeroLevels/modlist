@@ -2712,7 +2712,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -6756,6 +6756,18 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"Inventory Tweaks",
+"other":"(Dev)",
+"link":"http://bit.ly/1jXjbGw",
+"desc":"Allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will save you a massive amount of time!",
+"author":["Kobata"],
+"source":"https://github.com/Kobata/inventory-tweaks",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
