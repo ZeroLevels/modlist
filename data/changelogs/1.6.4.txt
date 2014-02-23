@@ -1,4 +1,11 @@
 (February/22/2014)
+	*Updated 3 mods by Calclavia (Which are the following)
+		*Updated "Atomic Science" info: Requires "Calclavia Core"
+		*Updated "ICBM" info: Requires "Calclavia Core"
+		*Updated "Resonant Induction" info: Requires "Calclavia Core" and "ForgeMultipart"
+	+Added "Calclavia Core"
+
+(February/22/2014)
 	+Added "Condensed Potions"
 
 (February/21/2014)

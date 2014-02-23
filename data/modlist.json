@@ -750,7 +750,17 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"Atomic Science",
+"link":"http://bit.ly/1h23rS9",
+"desc":"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!",
+"author":["Calclavia"],
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity","Calclavia Core"],
+"versions":["1.6.4"]
 
 },{
 
@@ -1890,6 +1900,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Calclavia Core",
+"link":"http://bit.ly/1h0jtt8",
+"desc":"Required dependency for most of Calclavia's mods.",
+"author":["Calclavia"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -6409,7 +6429,17 @@
 "author":["Calclavia"],
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"ICBM",
+"link":"http://bit.ly/1h221an",
+"desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
+"author":["Calclavia"],
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity","Calclavia Core"],
+"versions":["1.6.4"]
 
 },{
 
@@ -11250,8 +11280,18 @@
 "desc":"Focuses on the manipulation of electricity and wireless technology.",
 "author":["Calclavia","Aidancbrady","Unpairedbracket"],
 "type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2"]
+"dependencies":["Forge Required","Universal Electricity","ForgeMultipart"],
+"versions":["1.6.2"]
+
+},{
+
+"name":"Resonant Induction",
+"link":"http://bit.ly/1h26EkD",
+"desc":"Focuses on the manipulation of electricity and wireless technology.",
+"author":["Calclavia","Aidancbrady","Unpairedbracket"],
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity","Calclavia Core","ForgeMultipart"],
+"versions":["1.6.4"]
 
 },{
 
