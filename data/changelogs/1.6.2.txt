@@ -1,3 +1,6 @@
+(February/22/2014)
+	*Updated "Resonant Induction" info: Requires "ForgeMultipart"
+
 (February/19/2014)
 	+Added "Time Keeper"
 
