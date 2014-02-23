@@ -1,5 +1,6 @@
 (February/22/2014)
 	*Updated "Resonant Induction" info: Requires "ForgeMultipart"
+	*Updated "Tinkers' Construct" info: Updated source
 
 (February/19/2014)
 	+Added "Time Keeper"

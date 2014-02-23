@@ -13564,10 +13564,22 @@
 "link":"http://bit.ly/Z7xU26",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
 "author":["mDiyo"],
-"source":"https://github.com/mDiyo/TinkersConstruct",
+"source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Tinkers' Construct",
+"other":"(Alpha)",
+"link":"http://bit.ly/Z7xU26",
+"desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
+"author":["mDiyo"],
+"source":"https://github.com/SlimeKnights/TinkersConstruct",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
