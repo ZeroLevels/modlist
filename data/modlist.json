@@ -644,7 +644,7 @@
 
 "name":"Artifice",
 "link":"http://bit.ly/1cgVjFs",
-"desc":"Adds worldgen (like flowers, marble, and basalt), new blocks (like scaffolding), and new items (sh as storage boxes).",
+"desc":"Adds worldgen (like flowers, marble, and basalt), new blocks (like scaffolding), and new items (such as storage boxes).",
 "author":["Shukaro"],
 "source":"https://github.com/Shukaro/Artifice",
 "type":["Universal"],
@@ -14108,7 +14108,7 @@
 "author":["Silentspy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
