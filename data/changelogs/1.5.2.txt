@@ -1,3 +1,6 @@
+(February/26/2014)
+	*Updated "Gamma bright" name and info: Now "Gammabright", Now "Forge Required"
+
 (February/25/2014)
 	*Updated "Artifice" description
 
