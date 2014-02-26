@@ -6821,6 +6821,17 @@
 
 },{
 
+"name":"IRCLinqed",
+"other":"(Beta)",
+"link":"http://bit.ly/irclinqed-dev",
+"desc":"Connect to IRC servers within the game. Similar to ForgeIRC, but offers more functionality.",
+"author":["bilde2910"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"IronChests",
 "link":"http://bit.ly/ironchests2",
 "desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
