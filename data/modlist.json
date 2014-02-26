@@ -5516,13 +5516,13 @@
 
 },{
 
-"name":"Gamma bright",
+"name":"Gammabright",
 "link":"http://bit.ly/13aZktd",
 "desc":"Allows you to change your in-game brightness.",
 "author":["kymaster"],
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 

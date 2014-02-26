@@ -1,3 +1,6 @@
+(February/26/2014)
+	*Updated "Gamma bright" name and info: Now "Gammabright", Now "Forge Required"
+
 (February/23/2014)
 	*Updated "Tinkers' Construct" info: Updated source
 
