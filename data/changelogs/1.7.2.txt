@@ -1,3 +1,6 @@
+(February/27/2014)
+	+Added "Blood Magic"
+
 (February/24/2014)
 	+Added "DungeonPack"
 	+Added "ExtraButtons"
