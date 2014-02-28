@@ -1,5 +1,5 @@
 (February/27/2014)
-	*Updated "Blood Magic" info: Added source
+	*Updated c info: Added source
 
 (February/26/2014)
 	*Updated "Gamma bright" name and info: Now "Gammabright", Now "Forge Required"
