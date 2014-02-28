@@ -7017,8 +7017,8 @@
 "author":["freeshiny"],
 "source":"https://github.com/ljsimin/MinecraftJoypadSplitscreenMod",
 "type":["Client"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.6.2","1.6.1","1.5.2","1.4.7","1.3.2"]
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -7028,8 +7028,8 @@
 "author":["freeshiny"],
 "source":"https://github.com/ljsimin/MinecraftJoypadSplitscreenMod",
 "type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Not Forge Compatible"],
+"versions":["1.6.2","1.6.1","1.5.2","1.4.7","1.3.2"]
 
 },{
 
