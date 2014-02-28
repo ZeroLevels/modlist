@@ -1,5 +1,11 @@
 (February/28/2014)
+	+Added 3 mods by crackedEgg (Which are the following)
+		+Added "Parachute Mod"
+		+Added "Reptile Mod"
+		+Added "Walking Dead Mod"
+	+Added "Joypad Mod"
 	+Added "Magical Experience"
+	+Added "Reptile mod"
 
 (February/27/2014)
 	+Added "Blood Magic"

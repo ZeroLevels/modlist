@@ -1,3 +1,8 @@
+(February/28/2014)
+	+Added "Joypad Mod"
+	+Added "Reptile mod"
+	+Added "jahIRC"
+
 (February/27/2014)
 	*Updated "Blood Magic" info: Added source
 

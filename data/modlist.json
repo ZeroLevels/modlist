@@ -5519,21 +5519,21 @@
 
 "name":"Gammabright",
 "link":"http://bit.ly/13aZktd",
-"desc":"Allows you to change your in-game brightness.",
-"author":["kymaster"],
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"Gammabright",
-"link":"http://bit.ly/13aZktd",
 "desc":"Allows you to change your in-game brightness beyond the default limits.",
 "author":["kymaster"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Gammabright",
+"link":"http://bit.ly/13aZktd",
+"desc":"Allows you to change your in-game brightness.",
+"author":["kymaster"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -6916,6 +6916,16 @@
 
 },{
 
+"name":"jahIRC",
+"link":"http://bit.ly/1fwaUYb",
+"desc":"Bridges chat between an IRC channel and a Minecraft Server, showing joins/parts on both sides, as well as death messages, /me actions and server status.",
+"author":["Mr. okushama"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Jammy Furniture Mod",
 "link":"http://bit.ly/RBQOQg",
 "desc":"Adds a large amount of decorative blocks, most of which are furniture. Each piece of furniture functions in its own way. You can sit in chairs, on couches, switch on lamps much more.",
@@ -6990,12 +7000,24 @@
 },{
 
 "name":"Joypad Mod",
-"link":"http://bit.ly/14iD0gX",
-"desc":"",
+"link":"http://bit.ly/1fpY4dU",
+"desc":"Allows you to control Minecraft with a joypad.",
 "author":["freeshiny"],
+"source":"https://github.com/ljsimin/MinecraftJoypadSplitscreenMod",
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.4.7"]
+"versions":["1.6.2","1.6.1","1.5.2","1.4.7","1.3.2"]
+
+},{
+
+"name":"Joypad Mod",
+"link":"http://bit.ly/1fpY4dU",
+"desc":"Allows you to control Minecraft with a joypad.",
+"author":["freeshiny"],
+"source":"https://github.com/ljsimin/MinecraftJoypadSplitscreenMod",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -10219,7 +10241,7 @@
 "source":"https://github.com/m1k3s/parachute",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -11283,7 +11305,18 @@
 "source":"https://github.com/m1k3s/reptiles",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Reptile mod",
+"other":"(thomassu)",
+"link":"http://bit.ly/1gDjIYJ",
+"desc":"Adds 5 types of reptile: Giant Turtle, Komodo Dragon, Crocodile, Lizard and Gila Monster.  Each type comes with different species variations.",
+"author":["thomassu"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -14415,7 +14448,7 @@
 "source":"https://github.com/m1k3s/walkingdead",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
