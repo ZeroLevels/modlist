@@ -1,3 +1,6 @@
+(February/28/2014)
+	+Added "Joypad Mod"
+
 (February/26/2014)
 	*Updated "Gamma bright" name and info: Now "Gammabright", Now "Forge Required"
 
