@@ -4,7 +4,6 @@
 	+Added "Reptile mod"
 	+Added "jahIRC"
 
-
 (February/27/2014)
 	*Updated "Blood Magic" info: Added source
 
