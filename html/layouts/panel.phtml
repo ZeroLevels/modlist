@@ -16,8 +16,8 @@
     <link rel="dns-prefetch" href="//www.minecraftforum.net/"/>
     <link rel="shortcut icon" href="/resources/images/favicon32x32.png">
 </head>
-<body>
-    <nav class="navbar navbar-inverse navbar-fixed-top ml-nav ml-nav-light" role="navigation">
+<body <?=$this->themed ? 'class="dark-body"' : ''?>>
+    <nav class="navbar navbar-inverse navbar-fixed-top ml-nav <?=$this->themed ? 'ml-nav-dark' : 'ml-nav-light'?>" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
