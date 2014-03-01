@@ -1,3 +1,6 @@
+(March/01/2014)
+	+Added "Balkon's WeaponMod"
+
 (February/28/2014)
 	+Added 3 mods by crackedEgg (Which are the following)
 		+Added "Parachute Mod"
