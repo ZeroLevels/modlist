@@ -85,6 +85,8 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     } else {
         $service->themed = false;
     }
+    $service->cssVer = filemtime('public/resources/stylesheets/modlist.css');
+    $service->cssPanelVer = filemtime('public/resources/stylesheets/panel.css');
     
     $service->layout('html/layouts/modlist.phtml');
 });
