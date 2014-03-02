@@ -140,6 +140,18 @@ td {
                 border-bottom-color: lighten(@dark-body,10%);
             }
         }
+        tr.success>td {
+            background-color: darken(#dff0d8,30%);
+        }
+        tr.info>td {
+            background-color: darken(#d9edf7,30%);
+        }
+        tr.warning>td {
+            background-color: darken(#fcf8e3,30%);
+        }
+        tr.danger>td {
+            background-color: darken(#f2dede,30%);
+        }
     }
     
     // Darken Bootstrap colors
@@ -247,6 +259,27 @@ td {
             color: darken(#31708f,20%);
             background-color: darken(#d9edf7,20%);
             border-color: darken(#bce8f1,20%);
+        }
+    }
+    
+    .thumbnail {
+        background-color: @dark-base;
+        border-color: @dark-base;
+    }
+    
+    .dropdown-menu {
+        background-color: @dark-base;
+        
+        >li>a {
+            color: @dark-sharp;
+            &:hover {
+                background-color: @dark-sharp;
+                color: @dark-base;
+            }
+        }
+        
+        .divider {
+            background-color: @dark-blur;
         }
     }
     
@@ -365,4 +398,26 @@ td {
 // Alias for fa-twitter
 .fa-tw:before {
     content: "\f099";
+}
+
+// Same effect as hidden-*, but does not break navbar
+@media (max-width: @screen-xs-min) {
+    .hidden-xs-nav {
+        display: none;
+    }
+}
+@media (min-width: @screen-xs-min) and (max-width: @screen-xs-max) {
+    .hidden-sm-nav {
+        display: none;
+    }
+}
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+    .hidden-md-nav {
+        display: none;
+    }
+}
+@media (min-width: @screen-md-min) {
+    .hidden-lg-nav {
+        display: none;
+    }
 }
