@@ -180,7 +180,7 @@ td {
         border-color: darken(#357ebd,15%);
     }
     .btn-primary {
-        &:hover, &:focus, &:active, .active {
+        &:hover, &:focus, &:active, &.active {
             background-color: darken(#3276b1,15%);
             border-color: darken(#245681,15%);
         }
@@ -253,12 +253,27 @@ td {
     .panel-body {
         background-color: @dark-base;
     }
+    .panel-default {
+        border-color: @dark-sharp;
+        .panel-heading {
+            background-color: @dark-sharp;
+            border-color: @dark-sharp;
+        }
+    }
     .panel-info {
         border-color: darken(#bce8f1,20%);
         .panel-heading {
             color: darken(#31708f,20%);
             background-color: darken(#d9edf7,20%);
             border-color: darken(#bce8f1,20%);
+        }
+    }
+    .panel-danger {
+        border-color: darken(#ebccd1,20%);
+        .panel-heading {
+            color: darken(#a94442,20%);
+            background-color: darken(#f2dede,20%);
+            border-color: darken(#ebccd1,20%);
         }
     }
     
