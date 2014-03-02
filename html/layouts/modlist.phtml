@@ -20,7 +20,7 @@
     <?php } ?>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="/resources/stylesheets/modlist.css"/>
+    <link rel="stylesheet" href="/resources/stylesheets/modlist.css?v=<?=$this->cssVer?>"/>
     <link rel="dns-prefetch" href="//www.google-analytics.com"/>
     <link rel="dns-prefetch" href="//ajax.googleapis.com/"/>
     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com/"/>
@@ -28,8 +28,8 @@
     <link rel="dns-prefetch" href="//www.minecraftforum.net/"/>
     <link rel="shortcut icon" href="/resources/images/favicon32x32.png">
 </head>
-<body>
-    <nav class="navbar navbar-inverse navbar-fixed-top ml-nav ml-nav-light" role="navigation">
+<body <?=$this->themed ? 'class="dark-body"' : ''?>>
+    <nav class="navbar navbar-inverse navbar-fixed-top ml-nav <?=$this->themed ? 'ml-nav-dark' : 'ml-nav-light'?>" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -71,7 +71,17 @@
                     </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="https://twitter.com/MCFModlist">Twitter <i class="fa fa-tw"></i></a></li>
+                    <li><a href="https://twitter.com/MCFModlist"><i class="fa fa-tw"></i><span class="hidden-md-nav"> Twitter</span></a></li>
+                    <li class="dropdown">
+                        <a href="/options" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-gear"></i><span class="hidden-md-nav"> Options</span></a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-header">Theme</li>
+                            <li><a href="/options/theme/light">Light</a></li>
+                            <li><a href="/options/theme/dark">Dark</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/options">Options Page</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
         </div>

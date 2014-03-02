@@ -24,6 +24,10 @@
 @link-sharp: lighten(@link-default, 10%);
 @link-bright: #FFF;
 
+@dark-body: #1C1C1C;
+@dark-link: #FFCC00;
+@dark-table-hover: lighten(@dark-body,10%);
+
 // Spacing
 @nav-offset: 70px;
 
@@ -111,6 +115,199 @@ td {
 // Themed navigation layout
 .make-nav(light, @light-base, @light-blur, @light-sharp);
 .make-nav(dark, @dark-base, @dark-blur, @dark-sharp);
+
+// Themed body
+.dark-body {
+    background-color: @dark-body;
+    color: @dark-sharp;
+    
+    .breadcrumb, .jumbotron {
+        background-color: @dark-base;
+    }
+    
+    #modlist, .table-hover {
+        >thead {
+            background-color: @dark-body;
+        }
+        >tbody>tr:hover { //.table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th
+            td, th {
+                background-color: @dark-table-hover;
+            }
+        }
+        tr {
+            td, th {
+                border-top-color: lighten(@dark-body,10%);
+                border-bottom-color: lighten(@dark-body,10%);
+            }
+        }
+        tr.success>td {
+            background-color: darken(#dff0d8,30%);
+        }
+        tr.info>td {
+            background-color: darken(#d9edf7,30%);
+        }
+        tr.warning>td {
+            background-color: darken(#fcf8e3,30%);
+        }
+        tr.danger>td {
+            background-color: darken(#f2dede,30%);
+        }
+    }
+    
+    // Darken Bootstrap colors
+    // TODO: More variables instead of hardcoding
+    a {
+        color: @dark-link;
+        &:hover, &:focus {
+            color: @link-bright;
+        }
+    }
+    
+    .btn-default, .btn-default:hover, .btn-default:focus {
+        color: #333;
+        background-color: darken(#fff,15%);
+        border-color: darken(#ccc,15%);
+    }
+    .btn-default {
+        &:hover, &:focus, &:active, .active {
+            background-color: darken(#ebebeb,15%);
+            border-color: darken(#adadad,15%);
+        }
+    }
+    .btn-primary {
+        color: #fff;
+        background-color: darken(#428bca,15%);
+        border-color: darken(#357ebd,15%);
+    }
+    .btn-primary {
+        &:hover, &:focus, &:active, &.active {
+            background-color: darken(#3276b1,15%);
+            border-color: darken(#245681,15%);
+        }
+    }
+    
+    .label-default {
+        background-color: lighten(@dark-body,20%);
+    }
+    .label-primary {
+        background-color: darken(#428bca,20%);
+    }
+    .label-info {
+        background-color: darken(#5bc0de,20%);
+    }
+    .label-success {
+        background-color: darken(#5cb85c,20%);
+    }
+    .label-warning {
+        background-color: darken(#f0ad4e,20%);
+    }
+    .label-danger {
+        background-color: darken(#d9534f,20%);
+    }
+    
+    .alert-info {
+        background-color: #245682;
+        border-color: darken(#245682,5%);
+        color: #ddd;
+    }
+    .alert-danger {
+        background-color: darken(#f2dede,20%);
+        border-color: darken(#ebccd1,20%);
+        color: darken(#a94442,20%);
+    }
+    
+    .input-group-addon, .input-group-btn .btn-default, .form-control {
+        background-color: @dark-base;
+        border-color: @dark-blur;
+        color: @dark-sharp;
+    }
+    .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+        background-color: darken(@dark-sharp,20%);//@dark-base;
+        //color: @dark-blur;
+    }
+    .input-group input {
+        background-color: @dark-body;
+        border-color: @dark-blur;
+        color: @dark-sharp;
+    }
+    
+    .form-control:focus {
+        border-color: darken(#245682,20%);
+        // #66AFE9
+        //-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+        //box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+        -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px darken(rgba(102,175,233,.6),20%);
+        box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px darken(rgba(102,175,233,.6),20%);
+    }
+    
+    .progress {
+        background-color: @dark-base;
+    }
+    .progress-bar {
+        background-color: darken(#428bca,20%);
+    }
+    .progress-bar-info {
+        background-color: darken(#5bc0de,20%);
+    }
+    
+    .panel-body {
+        background-color: @dark-base;
+    }
+    .panel-default {
+        border-color: @dark-sharp;
+        .panel-heading {
+            background-color: @dark-sharp;
+            border-color: @dark-sharp;
+        }
+    }
+    .panel-info {
+        border-color: darken(#bce8f1,20%);
+        .panel-heading {
+            color: darken(#31708f,20%);
+            background-color: darken(#d9edf7,20%);
+            border-color: darken(#bce8f1,20%);
+        }
+    }
+    .panel-danger {
+        border-color: darken(#ebccd1,20%);
+        .panel-heading {
+            color: darken(#a94442,20%);
+            background-color: darken(#f2dede,20%);
+            border-color: darken(#ebccd1,20%);
+        }
+    }
+    
+    .thumbnail {
+        background-color: @dark-base;
+        border-color: @dark-base;
+    }
+    
+    .dropdown-menu {
+        background-color: @dark-base;
+        
+        >li>a {
+            color: @dark-sharp;
+            &:hover {
+                background-color: @dark-sharp;
+                color: @dark-base;
+            }
+        }
+        
+        .divider {
+            background-color: @dark-blur;
+        }
+    }
+    
+    pre {
+        background-color: @dark-base;
+        border-color: @dark-base;
+        color: @dark-sharp;
+    }
+    code {
+        background-color: @dark-base;
+        color: lighten(#c7254e,10%);
+    }
+}
 
 // Table
 .fade-success {
@@ -216,4 +413,26 @@ td {
 // Alias for fa-twitter
 .fa-tw:before {
     content: "\f099";
+}
+
+// Same effect as hidden-*, but does not break navbar
+@media (max-width: @screen-xs-min) {
+    .hidden-xs-nav {
+        display: none;
+    }
+}
+@media (min-width: @screen-xs-min) and (max-width: @screen-xs-max) {
+    .hidden-sm-nav {
+        display: none;
+    }
+}
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+    .hidden-md-nav {
+        display: none;
+    }
+}
+@media (min-width: @screen-md-min) {
+    .hidden-lg-nav {
+        display: none;
+    }
 }

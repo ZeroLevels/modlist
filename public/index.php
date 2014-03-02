@@ -78,7 +78,16 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     $service->versions = array_reverse($data['versions']);
     $service->versions_grouped = array_reverse($data['versions_grouped']);
     $service->versions_count = $data['versions_count'];
+    
     $service->uri = $request->uri();
+    if($request->cookies()->theme === 'dark') {
+        $service->themed = true;
+    } else {
+        $service->themed = false;
+    }
+    $service->cssVer = filemtime('public/resources/stylesheets/modlist.css');
+    $service->cssPanelVer = filemtime('public/resources/stylesheets/panel.css');
+    
     $service->layout('html/layouts/modlist.phtml');
 });
 
@@ -473,6 +482,20 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
 });
 
 /*
+ * options/theme/light or options/theme/dark
+ * Change the theme and return to previous page
+ * @return redirect
+ */
+$klein->respond('GET', '/options/theme/[light|dark:color]', function ($request, $response, $service, $app) {
+    $response->cookie(
+            'theme',
+            $request->param('color'),
+            2147483647
+            );
+    $service->back();
+});
+
+/*
  * apiv2.php
  * Legacy APIv2 - removed key requirement
  * TODO: remove on next version
@@ -550,7 +573,7 @@ $klein->respond('GET', '/api.php', function ($request, $response, $service, $app
  * Version content pages (eg: banners, credits, faq, history)
  * @return page
  */
-$klein->respond('GET', '/[banners|credits|faq|history|igml:page]', function ($request, $response, $service, $app) {
+$klein->respond('GET', '/[banners|credits|faq|history|igml|options:page]', function ($request, $response, $service, $app) {
     $service->render('html/content/' . $request->param('page') . '.phtml');
 });
 
