@@ -6727,7 +6727,18 @@
 "author":["Duke605"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
+"name":"Ingame Mod List 4",
+"other":"(IGML4)",
+"link":"http://bit.ly/1bKHuS7",
+"desc":"Provides an in-game interface for the modlist.",
+"author":["Duke605"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 

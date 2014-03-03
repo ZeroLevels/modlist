@@ -2,7 +2,7 @@
 	+Added 3 mods by Duke605 (Which are the following)
 		+Added "DukeCore"
 		+Added "Ender Book"
-		+Added "Ingame Mod List 3"
+		+Added "Ingame Mod List 4"
 
 (March/01/2014)
 	+Added "Balkon's WeaponMod"
