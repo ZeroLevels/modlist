@@ -1,3 +1,9 @@
+(March/03/2014)
+	+Added 3 mods by Duke605 (Which are the following)
+		+Added "Arcane Scrolls"
+		+Added "DukeCore"
+		+Added "Ender Book"
+
 (February/28/2014)
 	+Added "Botania"
 	+Added "Joypad Mod"

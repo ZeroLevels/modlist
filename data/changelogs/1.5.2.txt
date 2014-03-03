@@ -1,3 +1,7 @@
+(March/03/2014)
+	*Updated "Arcane Scrolls" link
+	*Updated "DukeCore" link
+
 (February/28/2014)
 	+Added "Joypad Mod"
 
