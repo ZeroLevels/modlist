@@ -3,6 +3,9 @@
 		+Added "DukeCore"
 		+Added "Ender Book"
 		+Added "Ingame Mod List 4"
+	+Added 2 mods by wuppy21 (Which are the following)
+		+Added "Goblins and Giants"
+		+Added "Nether Eye"
 
 (March/01/2014)
 	+Added "Balkon's WeaponMod"
