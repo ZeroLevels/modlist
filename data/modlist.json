@@ -511,12 +511,12 @@
 },{
 
 "name":"Arcane Scrolls",
-"link":"http://bit.ly/18fv6cV",
+"link":"http://bit.ly/1dRRveO",
 "desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","DukeCore"],
-"versions":["1.6.2","1.6.1","1.5.2"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -3905,12 +3905,12 @@
 
 "name":"DukeCore",
 "other":"(Dependency)",
-"link":"http://bit.ly/14WTyN4",
+"link":"http://bit.ly/1i5GbmG",
 "desc":"Required to run any of Duke605's mods.",
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -4277,6 +4277,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Ender Book",
+"link":"http://bit.ly/1cw88MN",
+"desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
+"author":["duke605"],
+"type":["Universal"],
+"dependencies":["Forge Required","DukeCore"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -6717,7 +6727,7 @@
 "author":["Duke605"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
