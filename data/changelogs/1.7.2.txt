@@ -1,3 +1,15 @@
+(March/04/2014)
+	+Added 2 mods by navybofus (Which are the following)
+		+Added "MedicCraft"
+		+Added "Sweet Tea!"
+	+Added 2 mods by troyboy50 (Which are the following)
+		+Added "Autofish"
+		+Added "ChunkBorders"
+	+Added "EiraIRC"
+	+Added "Lantern Mod"
+	+Added "MinePix"
+	+Added "Too Many Biomes"
+
 (March/03/2014)
 	+Added 3 mods by Duke605 (Which are the following)
 		+Added "DukeCore"

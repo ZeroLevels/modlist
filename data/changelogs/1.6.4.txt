@@ -1,3 +1,9 @@
+(March/04/2014)
+	+Added "Autofish"
+	+Added "EiraIRC"
+	+Added "Lantern Mod"
+	+Added "MinePix"
+
 (March/03/2014)
 	+Added 3 mods by Duke605 (Which are the following)
 		+Added "Arcane Scrolls"

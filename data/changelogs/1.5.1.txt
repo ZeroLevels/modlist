@@ -1,3 +1,7 @@
+(March/04/2014)
+	+Added "Lantern Mod"
+	+Added "Too Many Biomes"
+
 (February/26/2014)
 	*Updated "Gamma bright" name and info: Now "Gammabright", Now "Forge Required"
 

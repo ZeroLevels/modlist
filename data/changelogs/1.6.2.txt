@@ -1,3 +1,7 @@
+(March/04/2014)
+	+Added "Autofish"
+	+Added "Lantern Mod"
+
 (March/03/2014)
 	*Updated "Arcane Scrolls" link
 	*Updated "DukeCore" link

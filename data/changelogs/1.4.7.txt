@@ -1,3 +1,6 @@
+(March/04/2014)
+	+Added "Lantern Mod"
+
 (February/28/2014)
 	*Updated "Joypad Mod" info, link and desc: Added source
 

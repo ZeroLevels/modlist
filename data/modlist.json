@@ -826,6 +826,16 @@
 
 },{
 
+"name":"Autofish",
+"link":"http://bit.ly/1kTGE8U",
+"desc":"Automatically reels and recasts when you catch a fish. Can be disabled and configured through a GUI.",
+"author":["troyboy50"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
 "name":"Auto-Fisher",
 "link":"http://bit.ly/GJUs7X",
 "desc":"Automatically reels in when detecting that you've caught a fish, as well as automatically re-casting the line.",
@@ -2336,6 +2346,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"ChunkBorders",
+"link":"http://bit.ly/1kTG7Us",
+"desc":"Visually displays the edges of chunks. Useful for Towny, Factions, or similar servers where chunk boundaries are important for things like setting up plots. Configurable settings.",
+"author":["troyboy50"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.2"]
 
 },{
 
@@ -4096,6 +4116,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"EiraIRC",
+"link":"http://bit.ly/1kTCYEf",
+"desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
+"author":["Blay09"],
+"source":"https://github.com/blay09/EiraIRC",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -7238,6 +7269,16 @@
 
 },{
 
+"name":"Lantern Mod",
+"link":"http://bit.ly/OWKVyk",
+"desc":"Adds a lantern which can be carried around and emits light.",
+"author":["-Reaper-"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
 "name":"Lanterns Mod",
 "link":"http://bit.ly/VK35QB",
 "desc":"Adds lanterns which can be carried and will emit light around the player when switched on. The light can be seen by other players on SMP.",
@@ -7912,6 +7953,16 @@
 
 },{
 
+"name":"MedicCraft",
+"link":"http://bit.ly/1kTEohU",
+"desc":"Allows players to create bandages for utility use on and off the battlefield. Herbal remedies provide temporary buffs for dire situations.",
+"author":["navybofus"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"MegaCraft Mod",
 "link":"http://bit.ly/WD0SWs",
 "desc":"",
@@ -8312,6 +8363,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"MinePix",
+"link":"http://bit.ly/OWGy6q",
+"desc":"A simple screenshot sharing service. Free to use and supported by advertisement, excess money will be donated into a fund for purchasing Minecraft Premium for those who cannot afford it.",
+"author":["YSPilot"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -12778,6 +12839,16 @@
 
 },{
 
+"name":"Sweet Tea!",
+"link":"http://bit.ly/1kTEeao",
+"desc":"Adds a Tea Plant, with the additional ability to create cups and brew tea.",
+"author":["navybofus"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"SwipeSilk",
 "link":"http://bit.ly/13155Ml",
 "desc":"Adds the Youtuber SwipeSilk to the game, which drops a Diamond and has 100 health",
@@ -13688,6 +13759,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"Too Many Biomes",
+"link":"http://bit.ly/OWKunC",
+"desc":"Adds new biomes, mobs, blocks and plants. Rewrite of vanilla village and structure generation, and new villagers to trade with.",
+"author":["fabricator77"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.5.2","1.5.1"]
 
 },{
 
