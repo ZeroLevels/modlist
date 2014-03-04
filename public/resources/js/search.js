@@ -1,8 +1,13 @@
+var lastSearch = '';
 var $rows = $('#modlist tbody tr');
 var searchFilter = / +/g;
 var modFilter = /\s+/g;
 $('#search').bind("change keyup input",function() {
     var val = $.trim($(this).val()).replace(searchFilter, ' ').toLowerCase();
+    
+    if(val === lastSearch) {
+        return;
+    }
     
     if(val === '')
         $rows.show();
@@ -10,17 +15,23 @@ $('#search').bind("change keyup input",function() {
         var match = RegExp('\\b'+val+'|'+val+'\\b');
         $rows.show().filter(function() {
             var text = $(this).text().replace(modFilter, ' ').toLowerCase();
-            if(~text.indexOf(val))
+            if(~text.indexOf(val)) {
                 return !match.test(text);
+            }
             return true;
         }).hide();
     }
+    lastSearch = val;
 });
 $('.advanced-search input').bind("change keyup input",function() {
     var name = $.trim($('#search-name').val()).replace(searchFilter, ' ').toLowerCase();
     var author = $.trim($('#search-author').val()).replace(searchFilter, ' ').toLowerCase();
     var desc = $.trim($('#search-desc').val()).replace(searchFilter, ' ').toLowerCase();
     var tag = $.trim($('#search-tag').val()).replace(searchFilter, ' ').toLowerCase();
+    
+    if(name + author + desc + tag === lastSearch) {
+        return;
+    }
     
     if(name === '' && author === '' && desc === '' && tag === '')
         $rows.show();
@@ -34,6 +45,7 @@ $('.advanced-search input').bind("change keyup input",function() {
             var modtags = $(this).find('p:last-child').text().toLowerCase();
             return !~modname.indexOf(name) || !~modauthor.indexOf(author) || !~moddesc.indexOf(desc) || !~modtags.indexOf(tag);
         }).hide();
+    lastSearch = name + author + desc + tag;
 });
 $('#search-simple').click(function() {
     if($('.advanced-search').is(":visible")) {
