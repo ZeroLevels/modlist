@@ -1,4 +1,7 @@
 (March/04/2014)
+	+Added 2 mods by Joserichi (Which are the following)
+		+Added "OliveCraft"
+		+Added "SkullsPlus"
 	+Added 2 mods by navybofus (Which are the following)
 		+Added "MedicCraft"
 		+Added "Sweet Tea!"
