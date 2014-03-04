@@ -10019,6 +10019,17 @@
 
 },{
 
+"name":"OliveCraft",
+"link":"http://bit.ly/OWODIp",
+"desc":"Adds olive trees, rods to obtain olive oil, new crafting recipes, a kitchen block, and more.",
+"author":["Joserichi"],
+"source":"https://github.com/Joserichi/OliveCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Omnitech",
 "other":"(Alpha)",
 "link":"http://www.minecraftforge.net/forum/index.php/topic,8429.0.html",
@@ -11995,6 +12006,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"SkullsPlus",
+"link":"http://bit.ly/OWODIp",
+"desc":"Mobs and players drop their skulls. Renders player skins for heads in the inventory.",
+"author":["Joserichi"],
+"source":"https://github.com/Joserichi/SkullsPlus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
