@@ -1,3 +1,6 @@
+(March/05/2014)
+	*Updated "ChickenShed" info, link and desc: Added source
+
 (March/04/2014)
 	+Added "Lantern Mod"
 	+Added "Too Many Biomes"

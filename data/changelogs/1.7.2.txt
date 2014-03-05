@@ -1,3 +1,8 @@
+(March/05/2014)
+	+Added "ChickenShed"
+	+Added "Extreme Farming"
+	+Added "PaneInTheGlass"
+
 (March/04/2014)
 	+Added 2 mods by Joserichi (Which are the following)
 		+Added "OliveCraft"

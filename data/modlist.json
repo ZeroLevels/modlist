@@ -2257,12 +2257,13 @@
 },{
 
 "name":"ChickenShed",
-"link":"http://bit.ly/ChickenShed",
-"desc":"This is a simple two-class mod that makes it so that chickens will shed a feather now and then. It also makes it so that upon death, they are guaranteed to drop at least one feather. Lastly, baby chickens will now also drop a single feather upon death (but why would you kill it?! D: ).",
+"link":"http://bit.ly/1gPYMhn",
+"desc":"A simple two-class mod that makes chickens shed a feather every now and then. Upon death, they are guaranteed to drop at least one feather.",
 "author":["Vazkii"],
+"source":"https://github.com/ZeroLevels/ChickenShed",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -4912,6 +4913,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Extreme Farming",
+"link":"http://bit.ly/1douJOL",
+"desc":"Adds TNT variants based on crops.  Explosions cause no landscape damage, but plant their respective crops.",
+"author":["carystanley"],
+"type":["SSP","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -10326,6 +10337,16 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"PaneInTheGlass",
+"link":"http://bit.ly/1c6CMBs",
+"desc":"Connects glass panes to stair blocks, filling in gaps where needed.",
+"author":["heaton84"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
