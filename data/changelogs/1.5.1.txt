@@ -1,5 +1,5 @@
 (March/05/2014)
-	*Updated "ChickenShed" info, link and desc: Added source
+	*Updated "ChickenShed" info, link and description: Added source
 
 (March/04/2014)
 	+Added "Lantern Mod"
