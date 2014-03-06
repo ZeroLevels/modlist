@@ -1,3 +1,7 @@
+(March/06/2014)
+	+Added "HoloInventory"
+	+Added "Modular Flower Pots"
+
 (March/05/2014)
 	+Added "ChickenShed"
 	+Added "Extreme Farming"

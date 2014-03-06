@@ -2035,9 +2035,10 @@
 "link":"http://bit.ly/12g4swg",
 "desc":"Adds customizable slopes, stairs, slabs, barriers and gates to the game!",
 "author":["Mineshopper"],
+"source":"https://github.com/Mineshopper/carpentersblocks",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -6334,7 +6335,7 @@
 "source":"https://github.com/dries007/HoloInventory",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -8713,6 +8714,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.5"]
+
+},{
+
+"name":"Modular Flower Pots",
+"link":"http://bit.ly/P2jMdi",
+"desc":"Adds a larger flower pot made from hardened clay.  They can hold most in-game plants including double-height and crops.  Adjacent compatible pots connect together into continuous planters.",
+"author":["jaquadro"],
+"source":"https://github.com/jaquadro/ForgeMods",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
