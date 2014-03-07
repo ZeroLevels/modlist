@@ -7060,7 +7060,17 @@
 "author":["techbrew"],
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.4","1.5.1","1.4.7"]
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"JourneyMap",
+"link":"http://bit.ly/ZTAsAN",
+"desc":"A client mod which maps your Minecraft world in real-time as you explore.  You can view the live map in a web browser, on your iPad, or in-game.  You get a daylight map, a moonlight map, cave maps by vertical slice, Nether maps, and End maps.  A live radar shows nearby mobs, animals, and pets.",
+"author":["techbrew"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
