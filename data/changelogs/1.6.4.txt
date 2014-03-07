@@ -1,3 +1,6 @@
+(March/07/2014)
+	*Updated "JourneyMap" info: Now "Forge Required"
+
 (March/06/2014)
 	+Added "Carpenter's Blocks"
 
