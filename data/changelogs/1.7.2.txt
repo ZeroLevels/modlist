@@ -1,3 +1,7 @@
+(March/07/2014)
+	+Added "IndustrialCraft 2"
+	+Added "MapWriter Minimap Mod"
+
 (March/06/2014)
 	+Added "HoloInventory"
 	+Added "Modular Flower Pots"
