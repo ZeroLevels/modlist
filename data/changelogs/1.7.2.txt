@@ -1,3 +1,15 @@
+(March/08/2014)
+	*Updated "IndustrialCraft 2" link
+	+Added "Alloy Mod"
+	+Added "Arrow Camera"
+	+Added "Craftable End Portal"
+	+Added "Extended Workbench"
+	+Added "Familiars Mod"
+	+Added "Mine & Blade: Battlegear 2"
+	+Added "Realistic Pain"
+	+Added "Still Hungry!"
+	+Added "The Mists of RioV"
+
 (March/07/2014)
 	+Added "IndustrialCraft 2"
 	+Added "MapWriter Minimap Mod"
