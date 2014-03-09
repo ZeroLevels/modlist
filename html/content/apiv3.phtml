@@ -7,17 +7,19 @@
     <li>
         While the structure of the response has not changed, the location of the API has been moved.
         <ul>
-            <li>Requests for the JSON data are now located at <code>http://modlist.mcf.li/api/v3/<strong>&lt;version&gt;</strong>.json</code>.</li>
-            <li>Requests for MD5 hashes are now located at <code>http://modlist.mcf.li/api/v3/<strong>&lt;version&gt;</strong>.md5</code>.</li>
+            <li>Requests for the JSON data are now located at <code>/api/v3/:version.json</code>.</li>
+            <li>Requests for MD5 hashes are now located at <code>/api/v3/:version.md5</code>.</li>
         </ul>
     </li>
     <li>You can no longer request for multiple versions aside from <code>all</code>. This change may be reverted in a future version.</li>
     <li>New recent changes API. <span class="text-danger"><strong>Experimental feature</strong>, may change without notice.</span></li>
-    <li>APIv3 now supports <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing">Cross-origin resource sharing</a>.</li>
+    <li>APIv3 now supports <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing">Cross-origin resource sharing</a> to allow Javascript clients to connect.</li>
 </ul>
 <hr>
-<h3>Data request</h3>
+<h3>GET /api/v3/:version.json</h3>
 <p>
+    Returns a list of mods on the selected <code>:version</code>.<br>
+    <code>all</code> is an acceptable request for <code>:version</code>.<br>
     Data request is sent in minified JSON.
 </p>
 <table class="table table-bordered">
@@ -98,15 +100,17 @@
     </tbody>
 </table>
 <hr>
-<h3>Hash request</h3>
+<h3>GET /api/v3/:version.md5</h3>
 <p>
+    Returns the md5 hash of the selected <code>:version</code>.<br>
+    <code>all</code> is an acceptable request for <code>:version</code>.<br>
     Hash request is returned in plain text, not JSON. This is an md5 hash of the requested json file.<br>
     <strong>Sample Response:</strong> <code>60aa8322a67aea02849359104356521e</code>
 </p>
 <hr>
-<h3>Recent changes <span class="pull-right"><span class="label label-success">New</span> <span class="label label-danger">Experimental</span></span></h3>
+<h3>GET /api/v3/recent.json <span class="pull-right"><span class="label label-success">New</span> <span class="label label-danger">Experimental</span></span></h3>
 <p>
-    This is a list of recent changes. This API request is <em class="text-danger">experimental</em> and is likely to change in the future.<br>
+    Returns a list of recent changes. This API request is <em class="text-danger">experimental</em> and is likely to change in the future.<br>
     This request is returned in JSON. It is the most recent partial piece of the changelog of all supported versions.<br>
     <strong>Sample Response:</strong><br>
 <pre>
