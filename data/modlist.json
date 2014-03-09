@@ -1685,6 +1685,16 @@
 
 },{
 
+"name":"Boost",
+"link":"http://bit.ly/1h3upEb",
+"desc":"Part of Duke605's Micro Series. Adds boots to your game which increase your speed. The boosts can be upgraded to give you more speed as well as better protection.",
+"author":["Duke605"],
+"type":["Universal"],
+"dependencies":["Forge Required","DukeCore"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"BoosterMod",
 "link":"http://bit.ly/1bgDKZp",
 "desc":"Brings back pre-Beta 1.6 minecart booster functionality.",
@@ -5201,6 +5211,16 @@
 
 },{
 
+"name":"Fishing Nets",
+"link":"http://bit.ly/1imruri",
+"desc":"Part of Duke605's Micro Series. Adds a fishing net to the game that fishing for you.",
+"author":["Duke605"],
+"type":["Universal"],
+"dependencies":["Forge Required","DukeCore"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Flann Mod",
 "link":"http://bit.ly/ZAFqGI",
 "desc":"Adds new tools, materials, and a few extra blocks mainly for self defence (such as protecting your home against creepers and other mobs)",
@@ -6092,7 +6112,7 @@
 
 },{
 
-"name":"Hardcore Craftable Horse Armor", 
+"name":"Hardcore Craftable Horse Armor",
 "link":"http://bit.ly/18ENSvA",
 "desc":"Allows you to craft the Saddle and the Horse Armor. Hardcore version of 'Craftable Horse Armor' from the same author, which makes the crafting materials harder to obtain.",
 "author":["SackCastellon"],
@@ -11726,9 +11746,9 @@
 "link":"http://bit.ly/11crmRJ",
 "desc":"Lets you easily find nearby ores like coal, iron, diamond, and more. Just follow the colored particle trail that leads you directly to your target ore.",
 "author":["MickKay"],
-"type":["Universal"],
+"type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
