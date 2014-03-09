@@ -1,8 +1,12 @@
 (March/09/2014)
-	+Added  mods by wuppy21 (Which are the following)
+	+Added 2 mods by Duke605 (Which are the following)
+		+Added "Boost"
+		+Added "Fishing Nets"
+	+Added 3 mods by wuppy21 (Which are the following)
 		+Added "Improved Mob Spawn"
 		+Added "Pumpkin-less Snow Golem"
 		+Added "Slime Dungeons"
+	+Added "Scenter"
 
 (March/08/2014)
 	*Updated "IndustrialCraft 2" link
