@@ -5693,6 +5693,17 @@
 
 },{
 
+"name":"Gels+",
+"link":"http://bit.ly/1ityuXD",
+"desc":"Adds Propulsion and Repulsion gels from Portal 2. Allows other mods to register custom gels.",
+"author":["Lomeli12"],
+"source":"https://github.com/Lomeli12/GelsPlus",
+"type":["Universal"],
+"dependencies":["Forge Required","LomLib"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Gems+",
 "link":"http://bit.ly/VFCpmA",
 "desc":"Adds many gem ores, items, blocks, tools, weapons, armors, dusts, sands and glasses to the game.",
@@ -7686,7 +7697,7 @@
 "source":"https://github.com/Lomeli12/LomLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 

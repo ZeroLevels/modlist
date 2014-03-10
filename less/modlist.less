@@ -125,19 +125,19 @@ td {
         background-color: @dark-base;
     }
     
-    #modlist, .table-hover {
+    #modlist {
         >thead {
             background-color: @dark-body;
-        }
-        >tbody>tr:hover { //.table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th
-            td, th {
-                background-color: @dark-table-hover;
-            }
         }
         tr {
             td, th {
                 border-top-color: lighten(@dark-body,10%);
                 border-bottom-color: lighten(@dark-body,10%);
+            }
+        }
+        tr.active {
+            td, th {
+                background-color: @dark-table-hover;
             }
         }
         tr.success>td {
@@ -151,6 +151,14 @@ td {
         }
         tr.danger>td {
             background-color: darken(#f2dede,30%);
+        }
+    }
+    
+    .table-hover {
+        >tbody>tr:hover { //.table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th
+            td, th {
+                background-color: @dark-table-hover;
+            }
         }
     }
     

@@ -34,6 +34,18 @@ $('.opensource-contained').tooltip({
     placement: "auto",
     title: "This mod is open source, but the source code is obtained via PM or contained within the main download."
 });
+$('.cl-update').tooltip({
+    placement: "auto",
+    title: "Updated"
+});
+$('.cl-add').tooltip({
+    placement: "auto",
+    title: "Added"
+});
+$('.cl-remove').tooltip({
+    placement: "auto",
+    title: "Removed"
+});
 $('.forge-required').tooltip({
     title: "Forge is required to run this mod"
 });
