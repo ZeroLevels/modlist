@@ -1,3 +1,9 @@
+(March/10/2014)
+	*Updated "Tinkers' Construct" author and info: Now by mDiyo, progwml6, Sunstrike and fuj1n, Requires "Mantle"
+	+Added 2 mods by mDiyo, progwml6, Sunstrike, fuj1n and pillbox (Which are the following)
+		+Added "Mantle"
+		+Added "Tinkers' Mechworks"
+
 (March/09/2014)
 	+Added 2 mods by Duke605 (Which are the following)
 		+Added "Boost"
