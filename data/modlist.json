@@ -7906,6 +7906,18 @@
 
 },{
 
+"name":"Mantle",
+"other":"(Alpha)",
+"link":"http://bit.ly/Z7xU26",
+"desc":"Required dependency for Tinkers' Construct.",
+"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"source":"https://github.com/SlimeKnights/Mantle",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"MapWriter Minimap Mod",
 "link":"http://bit.ly/13duyig",
 "desc":"A minimap mod that not only shows your surroundings, but everywhere you've been.",
@@ -13850,7 +13862,7 @@
 "name":"Tinkers' Construct",
 "link":"http://bit.ly/Z7xU26",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
-"author":["mDiyo"],
+"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13862,11 +13874,22 @@
 "other":"(Alpha)",
 "link":"http://bit.ly/Z7xU26",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
-"author":["mDiyo"],
+"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Mantle"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Tinkers' Mechworks",
+"link":"http://bit.ly/Z7xU26",
+"desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
+"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"source":"https://github.com/SlimeKnights/TinkersMechworks",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct","Mantle"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
