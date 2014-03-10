@@ -80,6 +80,9 @@
 	+Added "DungeonPack"
 	+Added "ExtraButtons"
 
+(February/23/2014)
+	+Added "Tinkers' Construct"
+
 (February/22/2014)
 	+Added "Condensed Potions"
 	+Added "Inventory Tweaks"
