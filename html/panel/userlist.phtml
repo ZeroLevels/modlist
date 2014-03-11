@@ -10,6 +10,9 @@
             <?php if($this->permissions->canAccess('panel.userlist.elevate')) { ?>
             <th>Action</th>
             <?php } ?>
+            <?php if($this->permissions->canAccess('panel.userlist.reload')) { ?>
+            <th>Action</th>
+            <?php } ?>
         </tr>
     </thead>
     <tbody>
@@ -40,6 +43,14 @@
                     </ul>
                 </div>
                 <?php } ?>
+            </td>
+            <?php } ?>
+            <?php if($this->permissions->canAccess('panel.userlist.reload')) { ?>
+            <td>
+                <a href="/panel/userlist/reload/<?=$user['access_token']?>"
+                   class="btn btn-xs btn-default">
+                    Reload
+                </a>
             </td>
             <?php } ?>
         </tr>
