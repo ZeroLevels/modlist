@@ -1,3 +1,18 @@
+(March/11/2014)
+	*Updated "Ingame Mod List 4": Added source
+	+Added 4 mods by Aroma1997 (Which are the following)
+		+Added "Aroma1997Core"
+		+Added "Aroma1997s Dimensional World"
+		+Added "AromaBackup"
+		+Added "CompactWindmills"
+	+Added "Bloody Dimensions"
+	+Added "Builder's Dream"
+	+Added "Doge Mod"
+	+Added "EvilCraft"
+	+Added "FreezeCam"
+	+Added "Paintball"
+	+Added "Warp Book"
+
 (March/10/2014)
 	*Updated "Tinkers' Construct" author and info: Now by mDiyo, progwml6, Sunstrike and fuj1n, Requires "Mantle"
 	+Added 2 mods by mDiyo, progwml6, Sunstrike, fuj1n and pillbox (Which are the following)
