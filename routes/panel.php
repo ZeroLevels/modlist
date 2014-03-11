@@ -292,8 +292,60 @@ $this->respond('GET', '/userlist', function ($request, $response, $service, $app
 });
 
 /*
- * panel/userlist
- * Panel Userlist
+ * panel/userlist/reload
+ * Reload data from GitHub
+ * @return redirect
+ */
+$this->respond('GET', '/userlist/reload/[*:apikey]', function ($request, $response, $service, $app) {
+    if(!$service->permissions->canAccess('panel.userlist.reload')) {
+        $service->render('html/panel/forbidden.phtml');
+        return;
+    }
+    
+    $users = array();
+    $users_cache = 'data/users.json';
+    if(file_exists($users_cache)) {
+        $users = json_decode(file_get_contents($users_cache), 1);
+    }
+    $access_token = $request->param('apikey');
+    $curruser = $users[$access_token];
+    
+    //New user - build request
+    $context = stream_context_create(array('http' => array(
+        'method' => 'GET',
+        'header' => 'User-Agent: MCF Modlist' . "\r\n" .
+                    'Accept: application/json'
+    )));
+
+    //Request basic user information
+    $user_data = json_decode(file_get_contents('https://api.github.com/user?access_token=' . $curruser['access_token'], false, $context), true);
+    $curruser['id']     = $user_data['id'];
+    $curruser['user']   = $user_data['login'];
+    $curruser['avatar'] = $user_data['avatar_url'];
+
+    //Build request again
+    $context = stream_context_create(array('http' => array(
+        'method' => 'GET',
+        'header' => 'User-Agent: MCF Modlist' . "\r\n" .
+                    'Accept: application/vnd.github.v3+json'
+    )));
+
+    //Request email
+    $emails = json_decode(file_get_contents('https://api.github.com/user/emails?access_token=' . $curruser['access_token'], false, $context), true);
+    $curruser['email'] = $emails[0]['email'];
+
+    //Save data
+    $users[$access_token] = $curruser;
+    $encoded_data = json_encode($users, JSON_PRETTY_PRINT);
+    file_put_contents($users_cache, $encoded_data);
+    
+    $response->redirect('/panel/userlist');
+    $response->send();
+});
+
+/*
+ * panel/elevate
+ * Elevate user
  * @return redirect
  */
 $this->respond('GET', '/elevate/[*:user]/[*:level]', function ($request, $response, $service, $app) {
