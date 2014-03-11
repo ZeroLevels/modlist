@@ -622,13 +622,33 @@
 
 },{
 
+"name":"Aroma1997Core",
+"link":"http://bit.ly/10mzNIz",
+"desc":"Required dependency for all of Aroma1997's mods.",
+"author":["Aroma1997"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"Aroma1997s Dimensional World",
 "link":"http://bit.ly/10mzNIz",
 "desc":"Adds a complete new Dimension, specially for Mining, but you can do whatever you want to do in it.",
 "author":["Aroma1997"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1"]
+"dependencies":["Forge Required","Aroma1997Core"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"AromaBackup",
+"link":"http://bit.ly/10mzNIz",
+"desc":"Enables automatically scheduled backups of a world.",
+"author":["Aroma1997"],
+"type":["Universal"],
+"dependencies":["Forge Required","Aroma1997Core"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -1615,6 +1635,18 @@
 
 },{
 
+"name":"Bloody Dimensions",
+"other":"(WIP)",
+"link":"http://bit.ly/1csapxF",
+"desc":"Adds new blocks based on that of the blood of mobs or animals. Also adds new dimensions based on their blood, as well as new tools.",
+"author":["tankerkiller125","bl4ckscor3"],
+"source":"https://github.com/tankerkiller125/Bloody-Dimensions",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Blubbeltasche's Mods",
 "link":"http://bit.ly/UA9Aq0",
 "desc":"",
@@ -1756,6 +1788,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"BrainStoneMod",
+"other":"(WIP)",
+"link":"http://bit.ly/1cscbyR",
+"desc":"Adds redstone related blocks such as entity sensors, tools, armor and other things.",
+"author":["The_BrainStone"],
+"source":"https://github.com/BrainStone/brainstone",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -1914,6 +1958,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Builder's Dream",
+"link":"http://bit.ly/1cseXEv",
+"desc":"Allows you to fly in survival at the cost of draining your XP. Gives easy access to the EnderChest inventory, allows de-crafting into materials, increased stack sizes and more.",
+"author":["Lothrazar"],
+"source":"https://github.com/PrinceOfAmber/BuildersDream_Minecraft",
+"type":["SSP"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -2738,6 +2793,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"CompactWindmills",
+"link":"http://bit.ly/16lxi1C",
+"desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
+"author":["Aroma1997"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","Aroma1997Core"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -3863,6 +3928,16 @@
 
 },{
 
+"name":"Doge Mod",
+"link":"http://bit.ly/1nDwIlL",
+"desc":"Adds doge related tools, weapons, and armor. Doge is an internet meme.",
+"author":["mmdanggg2"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Doggy Talents Mod",
 "link":"http://bit.ly/137QH54",
 "desc":"Transform your wolves into dogs using a biscuit, and customize your dogs with specific traits.",
@@ -4638,6 +4713,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
 "versions":["1.6.4","1.6.2","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"EvilCraft",
+"link":"http://bit.ly/1n5swOG",
+"desc":"Truly evil. Really. This adds various evil things to Minecraft, from creatures such as little flying monster that will follow you around and try to poison you, to bottles that allow you to store and control the weather.",
+"author":["kroeser","Immortaleeb"],
+"source":"https://github.com/rubensworks/EvilCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -5547,7 +5633,7 @@
 "author":["DeStilleGast"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -6852,6 +6938,7 @@
 "link":"http://bit.ly/1bKHuS7",
 "desc":"Provides an in-game interface for the modlist.",
 "author":["Duke605"],
+"source":"https://github.com/duke605/IGML4",
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
@@ -7351,6 +7438,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"LanteaCraft",
+"other":"(RC)",
+"link":"http://bit.ly/1csezWr",
+"desc":"Adds Stargates and other Lantean based technology. Originally known as SGCraft Reloaded.",
+"author":["MichiyoRavencroft","AfterLifeLochie"],
+"source":"https://github.com/PC-Logix/LanteaCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10127,6 +10226,16 @@
 
 },{
 
+"name":"Oceancraft",
+"link":"http://bit.ly/1nDnXYX",
+"desc":"There is it finally, the new version of Oceancraft. This version adds\r\na lot more Mobs, Block's, Items and even beautiful world generatons\r\nlike Shell's SeaWeeds or PillarHouses!\r\nYou can even catch the Creatures with your FishingNet and put\r\nthem in your aquarium, You can Defeat the Cannibals or dive for oysters!",
+"author":["thomassu"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.5.2"]
+
+},{
+
 "name":"Old North / Retro Sun Direction",
 "link":"http://bit.ly/Ty9cf2",
 "desc":"Makes the sun travel from north to south, to match the direction it went in Minecraft Beta.  With this mod, clouds go north and the sun goes west, just like it used to.",
@@ -10356,13 +10465,13 @@
 },{
 
 "name":"Paintball",
-"link":"http://bit.ly/V2lrza",
+"link":"http://bit.ly/1nDr7f6",
 "desc":"Adds a few new items to the game: a remote, full sets of armor, scanners, insta-bases, flags, pistols, shotguns, assault rifles, snipers, launchers, grenades, claymores, c4, pellets, pods, armor racks, weapon racks, med kits, and paintbrushes in all the colors of the rainbow!",
 "author":["lkinx"],
 "source":"https://bitbucket.org/lKinx/paintball/src",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -14755,6 +14864,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"Warp Book",
+"link":"http://bit.ly/1nDng1N",
+"desc":"Allows for easy teleportation between given points. Offers a simple, non-op alternative to the standard /home and /warp commands.",
+"author":["panicnot42"],
+"source":"https://github.com/josephd/WarpBook",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
