@@ -551,6 +551,7 @@ $this->respond('GET', '/queue', function ($request, $response, $service, $app) {
                 //TODO: Open source mods that don't have links
                 unset($sub['edit_data']['source']);
             }
+            $sub['edit_data']['id'] = $sub['id'];
             array_push($final_list, $sub['edit_data']);
         }
     }
