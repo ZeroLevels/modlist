@@ -60,6 +60,11 @@
                 <p><?php echo $mod['desc']; ?></p>
             <?php } ?>
                 <p>
+                    <a href="/panel/submission/<?=$mod['id']?>">
+                        <button type="button" class="btn btn-default btn-xs pull-right">
+                            View Issue &raquo;
+                        </button>
+                    </a>
             <?php if (isset($mod['source'])) { ?>
                 <?php if ($mod['source'] != "") { ?>
                     <a href="<?php echo $mod['source']; ?>"><i class="fa fa-globe pull-right opensource"></i><span class="sr-only">Open Source</span></a>
@@ -82,11 +87,6 @@
                     </a>
                 <?php } ?>
             <?php } ?>
-                    <a href="/panel/submission/<?=$mod['id']?>">
-                        <button type="button" class="btn btn-default btn-xs pull-right">
-                            View Issue &raquo;
-                        </button>
-                    </a>
                 </p>
             </td>
         </tr>
