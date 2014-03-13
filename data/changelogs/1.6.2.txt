@@ -1,3 +1,14 @@
+(March/12/2014)
+	*Updated "BiblioCraft" description
+	*Updated "Minecraft Comes Alive" description
+	+Added "Antique Atlas"
+	+Added "BetterChests"
+	+Added "BrainStoneMod"
+	+Added "Coal 2 Charcoal"
+	+Added "Crushcraft"
+	+Added "EmeraldMod"
+	+Added "OnlySilver"
+
 (March/11/2014)
 	*Updated "Aroma1997s Dimensional World": Now "Forge Required"
 	*Updated "CompactWindmills": Now "Forge Required"
