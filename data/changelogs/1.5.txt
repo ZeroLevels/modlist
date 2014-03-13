@@ -1,3 +1,7 @@
+(March/12/2014)
+	*Updated "BiblioCraft" description
+	+Added "Antique Atlas"
+
 (March/10/2014)
 	*Updated "Tinkers' Construct" author: Now by mDiyo, progwml6, Sunstrike and fuj1n
 

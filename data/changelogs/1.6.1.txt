@@ -1,3 +1,7 @@
+(March/12/2014)
+	+Added "Antique Atlas"
+	+Added "CraftGuide"
+
 (March/08/2014)
 	*Updated "Mine & Blade: Battlegear 2" description
 

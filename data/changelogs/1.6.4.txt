@@ -1,3 +1,20 @@
+(March/12/2014)
+	*Updated "BiblioCraft" description
+	*Updated "BrainStoneMod" description
+	*Updated "Minecraft Comes Alive" description
+	+Added "Antique Atlas"
+	+Added "BetterArmor"
+	+Added "BetterChests"
+	+Added "Coal 2 Charcoal"
+	+Added "Crushcraft"
+	+Added "Eggy Goodness"
+	+Added "EmeraldMod"
+	+Added "MoreFood"
+	+Added "Naruto mod"
+	+Added "OnlySilver"
+	+Added "PrisonCraft"
+	+Added "Zelda Sword Skills"
+
 (March/11/2014)
 	*Updated "Paintball" link
 	+Added "Aroma1997Core"

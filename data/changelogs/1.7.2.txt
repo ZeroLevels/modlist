@@ -1,3 +1,20 @@
+(March/12/2014)
+	+Added "Advanced Dispensers"
+	+Added "BetterChests"
+	+Added "BiblioCraft"
+	+Added "CraftGuide"
+	+Added "Eggy Goodness"
+	+Added "ElConQore"
+	+Added "EmeraldMod"
+	+Added "Finder"
+	+Added "Hunger Strike"
+	+Added "Minecraft Comes Alive"
+	+Added "Necromancy"
+	+Added "Nether Dungeons"
+	+Added "OnlySilver"
+	+Added "Villagers Need Emeralds"
+	+Added "Zelda Sword Skills"
+
 (March/11/2014)
 	*Updated "Ingame Mod List 4": Added source
 	+Added 4 mods by Aroma1997 (Which are the following)

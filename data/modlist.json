@@ -62,6 +62,16 @@
 
 },{
 
+"name":"Advanced Dispensers",
+"link":"http://bit.ly/1cv9vAs",
+"desc":"Adds a new Dispenser, the Placer, which can plant seeds and place blocks. Useful for automatic Farms.",
+"author":["SuperManitu"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.5.2"]
+
+},{
+
 "name":"Advanced Genetics",
 "link":"http://bit.ly/15bQmOp",
 "desc":"Allows you to get the special abilities of a mob and to combine them with yourself. So it is possible to explode!",
@@ -457,6 +467,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Antique Atlas",
+"link":"http://bit.ly/1cvef9t",
+"desc":"Adds an Antique Atlas, an antique-looking map which saves all visited locations for easy browsing. Maps are generated around the player, based on chunk-average biome.",
+"author":["Hunternif"],
+"source":"https://github.com/Hunternif/AntiqueAtlas",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -1143,6 +1164,16 @@
 
 },{
 
+"name":"BetterArmor",
+"link":"http://bit.ly/1cRPBL8",
+"desc":"Adds 2 new sets of armor and 1 new set of tools. Aims to improve the current armor system.",
+"author":["jonessc2016"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Better Arrows",
 "link":"http://bit.ly/Vi5xyQ",
 "desc":"Titled FLAMING Arrows on the thread: Adds flame and smoke trails for flaming arrows, as well as the look of a chunk coming out of a wall (done with particles) when an arrow hits it.",
@@ -1180,6 +1211,16 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"BetterChests",
+"link":"http://bit.ly/10mzNIz",
+"desc":"This is about a Chest, that you can upgrade to how you want it to be. You can make a Cobblestone Generator out of it, you can make the Chest suck in nearby Items, or you can use the chest as a big furnace. There are many more upgrades.",
+"author":["Aroma1997"],
+"type":["Universal"],
+"dependencies":["Forge Required","Aroma1997Core Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -1451,11 +1492,11 @@
 
 "name":"BiblioCraft",
 "link":"http://bit.ly/ZvRIOm",
-"desc":"A fairly simple mod that adds 8 new types of unique storage blocks to display a few different items. There is a bookcase that shows up to 16 books on the shelf, an Armor stand to display a full set of armor. There is also a potion shelf for up to 12 potions, a tool rack to hang 4 different tools/weapons, a general shelf that can display any 4 items, a display case for a single fancy item, and a wooden label that can display up to 3 items in small scale for tasks such as indicating what is in a chest. The newest edition includes the wooden Desk that can hold up to 9 books.",
+"desc":"Adds a more decorative means of storage to the game, such as true bookcases, potion shelves, tool racks, and more!  Also adds several decorative furniture pieces such as desks and lamps.",
 "author":["Nuchaz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -1794,12 +1835,12 @@
 "name":"BrainStoneMod",
 "other":"(Beta)",
 "link":"http://bit.ly/1cscbyR",
-"desc":"Adds redstone related blocks such as entity sensors, tools, armor and other things.",
+"desc":"Adds redstone related blocks such as light sensors, entity triggers, and a logic block that includes most logic gates/flip-flops made from a mysterious material called BrainStone.  BrainStone can also be uses to create tools, weapons, and armor.",
 "author":["The_BrainStone"],
 "source":"https://github.com/BrainStone/brainstone",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -2551,6 +2592,16 @@
 
 },{
 
+"name":"Coal 2 Charcoal",
+"link":"http://bit.ly/1cvf5CU",
+"desc":"Allows conversion between coal and charcoal.",
+"author":["jonessc2016"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"Coal Tools",
 "link":"http://bit.ly/13160ME",
 "desc":"Adds coal tools and armour.",
@@ -3097,7 +3148,7 @@
 "source":"https://github.com/Uristqwerty/CraftGuide",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -3303,6 +3354,16 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Crushcraft",
+"link":"http://bit.ly/1cvebX5",
+"desc":"Allows you to crush ores into dust. Each crushed ore will convert into 2 dust items.",
+"author":["TheMCGamer111"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -4237,6 +4298,16 @@
 
 },{
 
+"name":"Eggy Goodness",
+"link":"http://bit.ly/1cROTNI",
+"desc":"Allows you to cook eggs in a furnace to obtain Baked Eggs.",
+"author":["Senjin"],
+"type":["SSP"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"EiraIRC",
 "link":"http://bit.ly/1kTCYEf",
 "desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
@@ -4245,6 +4316,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
+"name":"ElConQore",
+"link":"http://bit.ly/1cRMC56",
+"desc":"Required dependency for ElConquistador's other mods.",
+"author":["ElConquistador"],
+"source":"https://github.com/ItsMeElConquistador/ElConQore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -4356,6 +4438,16 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"EmeraldMod",
+"link":"http://bit.ly/1cRMrqB",
+"desc":"Adds an emerald dimension and emerald mobs, tools and armor.",
+"author":["Hackbaellchen"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -5253,6 +5345,16 @@
 "type":["Server"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Finder",
+"link":"http://bit.ly/1cva65t",
+"desc":"Finds anything, mobs, blocks, drops, chest, dungeons, player, and more.",
+"author":["codegreen"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -6615,6 +6717,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Hunger Strike",
+"link":"http://bit.ly/1cv7W5A",
+"desc":"Suspends hunger so players no longer need to eat regularly.  Auto health-regen is disabled and food heals instantly when eaten.  Can be configured on a per-player basis.",
+"author":["jaquadro"],
+"source":"https://github.com/jaquadro/ForgeMods",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -8380,11 +8493,11 @@
 
 "name":"Minecraft Comes Alive",
 "link":"http://bit.ly/mc-comes-alive",
-"desc":"Replaces them with male or female humans that have many unique skins. You may interact with the villagers in new ways, including hiring them to guard you, having them follow you, or setting down and starting a family with them.",
+"desc":"Replaces villagers with male and female humans that have many unique skins. You may interact with the villagers in new ways, including hiring them to guard you, having them follow you, or setting down and starting a family with them.",
 "author":["WildBamaBoy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -9150,6 +9263,16 @@
 
 },{
 
+"name":"MoreFood",
+"link":"http://bit.ly/1cROV8z",
+"desc":"Adds more food, such as chicken drumsticks, raw fried egg, cheese slices and more.",
+"author":["CaveChild"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.5.2"]
+
+},{
+
 "name":"More Food Mod",
 "link":"http://bit.ly/Y6Aaaq",
 "desc":"Adds 18 foods to the game as well as more items.",
@@ -9824,6 +9947,17 @@
 
 },{
 
+"name":"Naruto mod",
+"other":"(Beta)",
+"link":"http://bit.ly/1cRM13w",
+"desc":"Adds items, blocks, mobs and other features based off of the anime \"Naruto\".  Comes with an installer.",
+"author":["SEKWAH41","Orcwaagh","Praneeth98"],
+"type":["Universal"],
+"dependencies":["Forge Required","Base Edit"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Naruto Shippuden Mod",
 "link":"http://bit.ly/118bezM",
 "desc":"Adds many characters and items themed towards Naruto Shippuden.",
@@ -9845,6 +9979,16 @@
 
 },{
 
+"name":"Necromancy",
+"link":"http://bit.ly/1cRN8QL",
+"desc":"This, in a nutshell, allows you to play god. You take bodyparts from slain foes, stitch them together as you see fit, and reanimate the horrifying resulting.",
+"author":["AtomicStryker"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"NEI Plugins",
 "link":"http://bit.ly/14h8yXi",
 "desc":"Plugin for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct support in chicken_bones' Not Enough Items (NEI).",
@@ -9862,6 +10006,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Nether Dungeons",
+"link":"http://bit.ly/1cRPleS",
+"desc":"Adds Overworld-style dungeons to the Nether to make exploring it slightly more interesting. Uses Nether materials and mobs.",
+"author":["fabricator77"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -10276,6 +10430,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"OnlySilver",
+"link":"http://bit.ly/1euHzY5",
+"desc":"Re-adds the silver from SimpleOres, which removed silver in favor of tin.  Also adds a few other features based around Silver.",
+"author":["zot201"],
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -11120,6 +11284,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5","1.4.7"]
+
+},{
+
+"name":"PrisonCraft",
+"other":"(Beta)",
+"link":"http://bit.ly/1cv8qZv",
+"desc":"Build jails with any (non-tile entity) block, then jail players for any amount of time. Has useful features like tools to jail/unjail people, logging of jailing, and a fairly complex permissions system.",
+"author":["allout58"],
+"source":"https://github.com/allout58/PrisonCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -12820,7 +12996,7 @@
 "author":["AUTOMATIC_MAIDEN"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.6.4","1.5.2"]
 
 },{
 
@@ -14758,6 +14934,16 @@
 
 },{
 
+"name":"Villagers Need Emeralds",
+"link":"http://bit.ly/1cRLIFN",
+"desc":"Makes all villagers in the world LOVE emeralds and follow you if you're holding some.  They'll also pick up any emeralds from the floor, so be careful!",
+"author":["anti_344"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Village Taverns Updated",
 "link":"http://bit.ly/MpdYcz",
 "desc":"Adds taverns and other craft and business type buildings, along with new villager types to populate those and offer unique trades.",
@@ -15427,6 +15613,17 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Zelda Sword Skills",
+"link":"http://bit.ly/1nJA5HK",
+"desc":"Includes MANY items from the Zelda games, as well as mobs, dungeons, sword attacks, quests, and more.",
+"author":["coolAlias"],
+"source":"https://github.com/coolAlias/ZeldaSwordSkills-1.6.4",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
