@@ -12,7 +12,7 @@
 	+Added "Alchemical Reactions"
 	+Added "AlgaeCraft"
 	+Added "Ars Magica 2"
-	+Added "Atomicraft "
+	+Added "Atomicraft"
 	+Added "Basic Guns Mod"
 	+Added "Clonecraft"
 	+Added "Coolers"
