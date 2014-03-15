@@ -1,3 +1,9 @@
+(March/15/2014)
+	*Updated "Ellian's MaterialDetector": Now "Base Edit"
+	+Added "Aliens Vs Predator"
+	+Added "Creeper Species"
+	+Added "Wood Converter"
+
 (March/12/2014)
 	*Updated "BiblioCraft" description
 	+Added "Antique Atlas"

@@ -1,3 +1,10 @@
+(March/15/2014)
+	+Added "Creeper Species"
+	+Added "Light Bridges And Doors"
+	+Added "Thaumcraft Mob Aspects"
+	+Added "Wood Converter"
+	+Added "ZZZZZ Custom Configs"
+
 (March/12/2014)
 	+Added "Antique Atlas"
 	+Added "CraftGuide"

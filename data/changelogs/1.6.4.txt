@@ -1,3 +1,42 @@
+(March/15/2014)
+	*Updated "Blocks3D Mod" description
+	*Updated "Ellian's MaterialDetector": Now "Base Edit"
+	+Added 2 mods by kegare (Which are the following)
+		+Added "BedrockLayer"
+		+Added "Caveworld"
+	+Added 2 mods by Robosphinx (Which are the following)
+		+Added "JAGM"
+		+Added "Surface Quartz"
+	+Added "Agriculture"
+	+Added "Alchemical Reactions"
+	+Added "AlgaeCraft"
+	+Added "Aliens Vs Predator"
+	+Added "Ars Magica 2"
+	+Added "Atomicraft "
+	+Added "Basic Guns Mod"
+	+Added "Clonecraft"
+	+Added "Coolers"
+	+Added "Creeper Species"
+	+Added "Dimensional Doors"
+	+Added "Explosion Gun"
+	+Added "Glenn's Gases"
+	+Added "I Hate Liquids"
+	+Added "Jagm's Randoms"
+	+Added "Light Bridges And Doors"
+	+Added "Lime Mod"
+	+Added "Luppii's Green Mod"
+	+Added "Minecraft Is Too Easy"
+	+Added "More Crafting Recipes Mod"
+	+Added "My Blocks"
+	+Added "Mythical Realm Mod"
+	+Added "Oresmod"
+	+Added "Plant Mega Pack"
+	+Added "Thaumcraft Mob Aspects"
+	+Added "The Camping Mod 2.0"
+	+Added "Wood Converter"
+	+Added "ZZZZZ Custom Configs"
+	+Added "Zeus"
+
 (March/12/2014)
 	*Updated "BiblioCraft" description
 	*Updated "BrainStoneMod" description

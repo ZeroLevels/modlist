@@ -1,3 +1,27 @@
+(March/15/2014)
+	*Updated "Ellian's MaterialDetector" info: Now "Forge Compatible"
+	+Added 2 mods by kegare (Which are the following)
+		+Added "BedrockLayer"
+		+Added "Caveworld"
+	+Added "Aliens Vs Predator"
+	+Added "All-U-Want Inventory Editor"
+	+Added "Backpacks (Brad16840)"
+	+Added "BedrockLayer"
+	+Added "Blocks3D Mod"
+	+Added "BreedingViewer"
+	+Added "Caveworld"
+	+Added "Coolers"
+	+Added "Creeper Species"
+	+Added "Fill Tool"
+	+Added "Flower Tea"
+	+Added "Glenn's Gases"
+	+Added "Herobrine Mod"
+	+Added "I Hate Liquids"
+	+Added "Light Bridges And Doors"
+	+Added "MooFluids"
+	+Added "More Crafting Recipes Mod"
+	+Added "ZZZZZ Custom Configs"
+
 (March/12/2014)
 	+Added "Advanced Dispensers"
 	+Added "BetterChests"

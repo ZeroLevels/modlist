@@ -1,3 +1,21 @@
+(March/15/2014)
+	*Updated "AlgaeCraft" desc
+	*Updated "Ellian's MaterialDetector": Now "Base Edit"
+	+Added 2 mods by kegare (Which are the following)
+		+Added "BedrockLayer"
+		+Added "Caveworld"
+	+Added "Agriculture"
+	+Added "Aliens Vs Predator"
+	+Added "Basic Guns Mod"
+	+Added "Blocks3D Mod"
+	+Added "Clonecraft"
+	+Added "Creeper Species"
+	+Added "Glenn's Gases"
+	+Added "Light Bridges And Doors"
+	+Added "Thaumcraft Mob Aspects"
+	+Added "Wood Converter"
+	+Added "ZZZZZ Custom Configs"
+
 (March/12/2014)
 	*Updated "BiblioCraft" description
 	*Updated "Minecraft Comes Alive" description
