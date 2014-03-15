@@ -329,16 +329,6 @@
 },{
 
 "name":"Aliens Vs Predator",
-"link":"http://bit.ly/YaUXfI",
-"desc":"Adds new mobs, aesthetics, weapons, and challenge to the game.",
-"author":["Ri5ux"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.3.2"]
-
-},{
-
-"name":"Aliens Vs Predator",
 "link":"http://bit.ly/1nWborA",
 "desc":"Adds mobs, entities, and blocks based on the Aliens Vs Predator movie series.",
 "author":["Ri5ux"],

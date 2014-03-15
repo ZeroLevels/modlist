@@ -3,7 +3,7 @@
 	*Updated "Basic Guns Mod" description
 	*Updated "Dimensional Doors" description
 	*Updated "Ellian's MaterialDetector": Now "Base Edit"
-	+Added "Aliens Vs Predator"
+	*Updated "Aliens Vs Predator" description
 	+Added "Wood Converter"
 
 (March/12/2014)

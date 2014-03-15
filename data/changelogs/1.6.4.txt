@@ -1,4 +1,5 @@
 (March/15/2014)
+	*Updated "Aliens Vs Predator" description
 	*Updated "Blocks3D Mod" description
 	*Updated "Ellian's MaterialDetector": Now "Base Edit"
 	+Added 2 mods by kegare (Which are the following)
@@ -10,7 +11,6 @@
 	+Added "Agriculture"
 	+Added "Alchemical Reactions"
 	+Added "AlgaeCraft"
-	+Added "Aliens Vs Predator"
 	+Added "Ars Magica 2"
 	+Added "Atomicraft "
 	+Added "Basic Guns Mod"

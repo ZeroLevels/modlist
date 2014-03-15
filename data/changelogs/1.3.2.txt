@@ -1,5 +1,5 @@
 (March/15/2014)
-	+Added "Aliens Vs Predator"
+	*Updated "Aliens Vs Predator" description
 
 (March/08/2014)
 	+Added "Familiars Mod"

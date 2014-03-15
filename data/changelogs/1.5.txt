@@ -1,6 +1,6 @@
 (March/15/2014)
 	*Updated "Ellian's MaterialDetector": Now "Base Edit"
-	+Added "Aliens Vs Predator"
+	*Updated "Aliens Vs Predator" description
 	+Added "Creeper Species"
 	+Added "Wood Converter"
 
