@@ -1,6 +1,7 @@
 (March/15/2014)
-	*Updated "Ellian's MaterialDetector": Now "Base Edit"
 	*Updated "Aliens Vs Predator" description
+	*Updated "CreeperSpecies" name, description and info: Now "Creeper Species", Now "Universal", Now "Forge Required"
+	*Updated "Ellian's MaterialDetector": Now "Base Edit"
 	+Added "Creeper Species"
 	+Added "Wood Converter"
 

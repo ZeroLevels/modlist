@@ -1,9 +1,9 @@
 (March/15/2014)
 	*Updated "AlgaeCraft" description
+	*Updated "Aliens Vs Predator" description
 	*Updated "Basic Guns Mod" description
 	*Updated "Dimensional Doors" description
 	*Updated "Ellian's MaterialDetector": Now "Base Edit"
-	*Updated "Aliens Vs Predator" description
 	+Added "Wood Converter"
 
 (March/12/2014)

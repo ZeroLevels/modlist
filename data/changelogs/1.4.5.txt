@@ -1,6 +1,6 @@
 (March/15/2014)
-	*Updated "Ellian's MaterialDetector": Now "Forge Compatible"
 	*Updated "Aliens Vs Predator" description
+	*Updated "Ellian's MaterialDetector": Now "Forge Compatible"
 
 (March/11/2014)
 	*Updated "Paintball" link
