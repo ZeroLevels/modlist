@@ -2679,7 +2679,7 @@
 "link":"http://bit.ly/1m1fCzI",
 "desc":"Allows cloning of any entity by extracting DNA from their blood and injecting it into an egg, and allows mutations of any clones.",
 "author":["Jamezo97"],
-"type":["Universal","LAN"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
 
