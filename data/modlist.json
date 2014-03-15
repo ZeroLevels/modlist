@@ -268,6 +268,26 @@
 
 },{
 
+"name":"Agriculture",
+"link":"http://bit.ly/1nWedZW",
+"desc":"Expands cooking, farming and the hunger system with new machines and recipes.",
+"author":["Odininon","RebelKeithy","Shadowclaimer"],
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Alchemical Reactions",
+"link":"http://bit.ly/1nWdRlY",
+"desc":"Adds a balanced form of alchemy, allowing the transmutation of cobblestone into any block or item using the crafting table.",
+"author":["duckingcreepers"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"AlcheMine",
 "link":"http://bit.ly/XO00jm",
 "desc":"Introduces a different approach to alchemy. Who says you need all those big fancy machines and special super rare items to accomplish big feats of magic?",
@@ -290,11 +310,11 @@
 
 "name":"AlgaeCraft",
 "link":"http://bit.ly/14dmq12",
-"desc":"Adds a large variety of new blocks, items, foods, and things to do. Some of which include algae that spawns in swamps, coral reefs that spawn in ocean biomes, as well as other various forms of sea life.",
+"desc":"Adds a large variety of new blocks, items, and food. Algae spawn in swamps, coral reef spawn in ocean biomes, and new mobs exist underwater.",
 "author":["Azaka7"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -315,6 +335,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.3.2"]
+
+},{
+
+"name":"Aliens Vs Predator",
+"link":"http://bit.ly/1nWborA",
+"desc":"Adds mobs, entities, and blocks based on the Aliens Vs Predator movie series.",
+"author":["Ri5ux"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -345,6 +375,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
+
+},{
+
+"name":"All-U-Want Inventory Editor",
+"other":"(Beta)",
+"link":"http://bit.ly/10HBIrf",
+"desc":"Allows you to give yourself almost every possible item in the game, including attribute modifiers, potions with all effects, items with enchantments and custom names with color and formatting.",
+"author":["mister_person"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -704,6 +745,16 @@
 
 },{
 
+"name":"Ars Magica 2",
+"link":"http://bit.ly/1m1nnFT",
+"desc":"Adds powerful spells with a unique spell creation system and difficult bosses to fight.",
+"author":["Mithion"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Artifice",
 "link":"http://bit.ly/1cgVjFs",
 "desc":"Adds worldgen (like flowers, marble, and basalt), new blocks (like scaffolding), and new items (such as storage boxes).",
@@ -803,6 +854,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Atomicraft ",
+"link":"http://bit.ly/1m1j6lU",
+"desc":"Adds elements from the periodic table into the game, plus many compounds, decorative blocks, machinery and other items.",
+"author":["ToxicGuyStudios"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -987,7 +1048,7 @@
 "author":["Brad16840"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -1064,11 +1125,11 @@
 
 "name":"Basic Guns Mod",
 "link":"http://bit.ly/13cFVtC",
-"desc":"Adds six basic guns to the game:<ul><li>Pistol</li><li>SMG</li><li>Shotgun</li><li>LMG</li><li>Assault Rifle</li><li>Sniper Rifle</li></ul>",
+"desc":"Adds six different guns: a pistol, a shotgun, an assault rifle, a sniper rifle, a submachine gun, and a light machine gun. Includes weapons attachments, Kevlar armor and grenades.",
 "author":["ARandomHobo37"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -1131,6 +1192,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"BedrockLayer",
+"link":"http://bit.ly/1nW2mLt",
+"desc":"Flattens uneven bedrock layers in an existing world, including the roof of the Nether.",
+"author":["kegare"],
+"source":"https://github.com/kegare/BedrockLayer",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -1657,11 +1729,11 @@
 
 "name":"Blocks3D Mod",
 "link":"http://bit.ly/14WTzkE",
-"desc":"Turns previously 2D blocks into a 3D versions, much like what has been done to dropped item entities on fancy graphics.",
+"desc":"Adds thickness to flat blocks such as grass, saplings, rails and more.",
 "author":["rangatangaa"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -1861,6 +1933,16 @@
 "type":["Client"],
 "dependencies":["Forge Required","CraftGuide"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"BreedingViewer",
+"link":"http://bit.ly/1nW4wL0",
+"desc":"Displays a colored pillar on animals ready for breeding.",
+"author":["cruXcon"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -2206,6 +2288,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1","1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"Caveworld",
+"link":"http://bit.ly/1nW2mLt",
+"desc":"Adds a Caveworld dimension with bedrock floors and ceilings, accessible through a Caveworld portal.",
+"author":["kegare"],
+"source":"https://github.com/kegare/Caveworld",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -2589,6 +2682,16 @@
 "type":["N/A"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Clonecraft",
+"link":"http://bit.ly/1m1fCzI",
+"desc":"Allows cloning of any entity by extracting DNA from their blood and injecting it into an egg, and allows mutations of any clones.",
+"author":["Jamezo97"],
+"type":["Universal","LAN"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -2978,6 +3081,16 @@
 
 },{
 
+"name":"Coolers",
+"link":"http://bit.ly/1nWa349",
+"desc":"Adds a Cooler that automatically feeds the player food as long as the Cooler is kept stocked.",
+"author":["gudenau","shadowreaperx"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"CoolFood",
 "link":"http://bit.ly/13fr6Dl",
 "desc":"Adds many new edible items, for example burger, pommes and scrambled eggs.",
@@ -3296,13 +3409,13 @@
 
 },{
 
-"name":"CreeperSpecies",
+"name":"Creeper Species",
 "link":"http://bit.ly/ZGFfHV",
-"desc":"Adds a variety of new creepers to the game.",
+"desc":"Adds 4 new creepers to the game: Mystery Creeper, Nether Star Creeper, Porkified Creeper and the Angel Creeper.",
 "author":["ryan44851111"],
-"type":["SSP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5"]
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -3907,11 +4020,11 @@
 
 "name":"Dimensional Doors",
 "link":"http://bit.ly/VqmBTA",
-"desc":"Adds doors to Minecraft that open up to individual pocket Dimensions. In addition to these doors, it also adds several other features that help the player manipulate reality, forming rifts, linking dimensions, and even sending him to places he really should have never been.",
+"desc":"Adds doors to Minecraft that open up to individual pocket dimensions. Allows reality manipulation, dimension linking, and more.",
 "author":["stevenrs11"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -4416,18 +4529,8 @@
 "desc":"A material detector. It shows the surrounding material at your level/height map.",
 "author":["Ellian"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5"]
-
-},{
-
-"name":"Ellian's MaterialDetector",
-"link":"http://bit.ly/RBP6OY",
-"desc":"A material detector. It shows the surrounding material at your level/height map.",
-"author":["Ellian"],
-"type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.2"]
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -4878,6 +4981,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"Explosion Gun",
+"link":"http://bit.ly/1nW88g2",
+"desc":"Adds a gun that shoots exploding bullets, but does not break blocks.",
+"author":["Team Smelted"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -5348,6 +5461,16 @@
 
 },{
 
+"name":"Fill Tool",
+"link":"http://bit.ly/1gGbQGX",
+"desc":"Adds a terraforming tool which lets you mark two points for use with the fillblock command, usable only in creative mode. Multiple tools can be used for different areas.",
+"author":["Domochevsky"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Finder",
 "link":"http://bit.ly/1cva65t",
 "desc":"Finds anything, mobs, blocks, drops, chest, dungeons, player, and more.",
@@ -5550,6 +5673,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Flower Tea",
+"link":"http://bit.ly/1nVMWGU",
+"desc":"Improves vanilla food and the use of flowers. Adds new drinks which can heal or poison you.",
+"author":["2BeCristi"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -5981,6 +6114,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Glenn's Gases",
+"link":"http://bit.ly/1nVLZOL",
+"desc":"Adds lanterns and various gases to the world which interact with the environment. Lanterns allow safe lighting and do not ignite flammable gases.",
+"author":["Glenn"],
+"source":"https://github.com/JamiesWhiteShirt/Glenns-Gases",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -6512,7 +6656,7 @@
 "author":["burnner_"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -6862,6 +7006,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"I Hate Liquids",
+"link":"http://bit.ly/1m1eoEI",
+"desc":"Adds some physics to vanilla liquids and allows you to use a bucket remotely.",
+"author":["Foghrye4"],
+"source":"https://github.com/Foghrye4/I-Hate-Liquids",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -7262,6 +7417,27 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"JAGM",
+"other":"(Just Another Gem Mod)",
+"link":"http://bit.ly/1m1jlNQ",
+"desc":"Adds several gems which can be crafted into tools and armors.",
+"author":["Robosphinx"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Jagm's Randoms",
+"link":"http://bit.ly/1m1kWTT",
+"desc":"Adds random blocks and items such as marble, basalt, chalk and lamps, as well as a way to craft the nether star and other previously uncraftable things.",
+"author":["Jagm_11"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -7707,6 +7883,16 @@
 
 },{
 
+"name":"Light Bridges And Doors",
+"link":"http://bit.ly/IUXdn9",
+"desc":"Adds light bridges and barriers which can be activated by redstone.",
+"author":["kris91268"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
 "name":"Light Bridges Mod",
 "link":"http://bit.ly/IUXdn9",
 "desc":"Adds light bridges, light doors, and light rails based on the ones from the Halo series.",
@@ -7755,6 +7941,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Lime Mod",
+"link":"http://bit.ly/1nWbSOF",
+"desc":"Adds lime tools, armor and blocks, including a lime ore and a dark lime block.",
+"author":["Golokios"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -7962,6 +8158,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Luppii's Green Mod",
+"link":"http://bit.ly/1nW7ezW",
+"desc":"Adds Ruby and Sapphire ores and tools, decorative blocks like Basalt and Marble, and new food and items.",
+"author":["Luppii"],
+"source":"https://github.com/Luppii/GreenMod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -8528,6 +8735,17 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Minecraft Is Too Easy",
+"other":"(MITE)",
+"link":"http://bit.ly/1ifIl0K",
+"desc":"Emphasizes and enhances the survival aspect of the game by increasing the difficulty of survival mode and introducing new content and game mechanics.",
+"author":["Avernite"],
+"type":["SSP","LAN"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.6.4"]
 
 },{
 
@@ -9152,6 +9370,16 @@
 
 },{
 
+"name":"MooFluids",
+"link":"http://bit.ly/1nVOOzy",
+"desc":"Adds new types of cows for any fluid, including those from other mods.",
+"author":["TheRoBrit"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"More Blocks",
 "link":"http://bit.ly/1avOwXq",
 "desc":"Adds more blocks, and a few items for certain blocks.",
@@ -9199,6 +9427,16 @@
 "type":["SSP","SMP"],
 "dependencies":["N/A"],
 "versions":["1.4.2"]
+
+},{
+
+"name":"More Crafting Recipes Mod",
+"link":"http://bit.ly/1nVWqlD",
+"desc":"Adds more crafting recipes for things that are normally not craftable, such as creative-only blocks and items.",
+"author":["Manslaughter777"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -9867,6 +10105,16 @@
 
 },{
 
+"name":"My Blocks",
+"link":"http://bit.ly/1m1f3pC",
+"desc":"Adds miscellaneous blocks and items such as liquid potatoes, vanishing ores and gems, magic wands and more.",
+"author":["Eliteznightmare"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"myPet Mod",
 "link":"http://bit.ly/WnPlJQ",
 "desc":"",
@@ -9924,6 +10172,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"Mythical Realm Mod",
+"link":"http://bit.ly/1m1hSXK",
+"desc":"Features a new dimension with new biomes - Candyland, Death Yard and Iceland.",
+"author":["StrangeOne101"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10567,6 +10825,16 @@
 
 },{
 
+"name":"Oresmod",
+"link":"http://bit.ly/1m1iM6D",
+"desc":"Adds ores, tools, swords, armors out of Cobalt, Copper, Tin, Silver, Titan, Bronze, Lead and Thorium.",
+"author":["CaveChild"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"OreSpawn",
 "link":"http://bit.ly/15UwLnt",
 "desc":"Adds 30 new mobs, 3 new dimensions, new tools, armors and weapons. Also adds Flying dragons and a Kraken.",
@@ -10935,6 +11203,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Plant Mega Pack",
+"link":"http://bit.ly/1nWbFLd",
+"desc":"Adds over 370 new plants of all types into your worlds. Includes a huge variety of both common and rare plants from around the real world.",
+"author":["10paktimbits"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -13274,6 +13552,16 @@
 
 },{
 
+"name":"Surface Quartz",
+"link":"http://bit.ly/1nWfFLO",
+"desc":"Adds quartz in the Overworld which functions identically to Nether Quartz.",
+"author":["Robosphinx"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Survival Wings",
 "link":"http://bit.ly/19vswR0",
 "desc":"Adds degradeable sets of wings that can be crafted in Survival mode that let you fly.",
@@ -13465,6 +13753,17 @@
 
 },{
 
+"name":"Thaumcraft Mob Aspects",
+"link":"http://bit.ly/1nWb2RM",
+"desc":"Adds Thaumcraft aspects to mobs from other mods: Lycanites Mobs, Mo' Creatures, Special Mobs and Twilight Forest.",
+"author":["iguana_man","XanderGryphon","Lycaon"],
+"source":"https://github.com/iguanaman/ThaumcraftMobAspects",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
 "name":"Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
@@ -13576,6 +13875,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"The Camping Mod 2.0",
+"link":"http://bit.ly/1m1mCwv",
+"desc":"Adds campfires, tents, backpacks and new food items, such as marshmallows and radishes.",
+"author":["RikMuld"],
+"source":"https://github.com/Rikmuld/The-Camping-Mod-2.0",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -15297,6 +15607,16 @@
 
 },{
 
+"name":"Wood Converter",
+"link":"http://bit.ly/ZWcNRL",
+"desc":"Allows conversion of wood into other types of wood and reverse crafting stairs and slabs into planks.",
+"author":["bl4ckscor3"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
 "name":"Wool To String Mod",
 "link":"http://bit.ly/YgpQwH",
 "desc":"Adds a simple crafting recipe to craft two wool blocks diagonally to get string.",
@@ -15637,6 +15957,17 @@
 
 },{
 
+"name":"Zeus",
+"link":"http://bit.ly/1nWfiRk",
+"desc":"Allows enabling and disabling of rain and snow.",
+"author":["Robosphinx","Calisbeast"],
+"source":"http://minecraft.curseforge.com/mc-mods/zeus-downfall-control/",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Zombie Awareness",
 "link":"http://bit.ly/15X8ZnI",
 "desc":"Smarter more aware zombies (and skeletons), they track you down via blood scent, sound, and light source awareness, config lets you pick and choose what features to have.",
@@ -15689,5 +16020,15 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"ZZZZZ Custom Configs",
+"link":"http://bit.ly/1m1kmFz",
+"desc":"Adds a configuration file that allows the addition and removal of recipes, blocking mobs from spawning and more.",
+"author":["ganymedes01"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
 
 }]
