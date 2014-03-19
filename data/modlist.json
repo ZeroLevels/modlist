@@ -14519,6 +14519,16 @@
 
 },{
 
+"name":"Tool Heads",
+"link":"http://bit.ly/1gaAItd",
+"desc":"Part of Duke605's Micro Series. Adds reusable tool heads that can pop off tools when broken.",
+"author":["Duke605"],
+"type":["Universal"],
+"dependencies":["Forge Required","DukeCore"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Too Many Biomes",
 "link":"http://bit.ly/OWKunC",
 "desc":"Adds new biomes, mobs, blocks and plants. Rewrite of vanilla village and structure generation, and new villagers to trade with.",
