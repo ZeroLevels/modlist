@@ -1,6 +1,3 @@
-(March/20/2014)
-	+Added "Flan's Mod"
-
 (March/15/2014)
 	*Updated "AlgaeCraft" description
 	*Updated "Aliens Vs Predator" description
