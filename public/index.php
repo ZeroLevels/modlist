@@ -29,7 +29,8 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     });
     
     $modlist_mtime = filemtime('data/modlist.json');
-    $modlist_cache = 'data/cache/' . $modlist_mtime . '.json';
+    $modlist_fsize = filesize('data/modlist.json');
+    $modlist_cache = "data/cache/$modlist_mtime-$modlist_fsize.json";
     if(!file_exists($modlist_cache)) {
         //Clear cache folder
         $obsolete = glob('data/cache/*');
