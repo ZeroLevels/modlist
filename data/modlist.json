@@ -6410,7 +6410,7 @@
 "source":"https://github.com/DavidGoldman/GuiLib",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -6435,10 +6435,9 @@
 },{
 
 "name":"Hamsterrific Mod",
-"link":"http://bit.ly/18jI6gG",
+"link":"http://bit.ly/1lW7jlW",
 "desc":"Adds hamsters. In order to tame the hamsters (which are randomly spawned in your minecraft world) you right click them (or feed them) with seeds. You can also put them on your head by right clicking them with paper and take them along with you in your minecraft journeys!",
 "author":["RazzleberryFox","Modochu","and P-there is"],
-"source":"http://www.kodevelopment.nl/razzleberry/hamsterrific",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
@@ -7144,7 +7143,7 @@
 "source":"https://github.com/bspkrs/IngameInfo",
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7154,8 +7153,8 @@
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/InGame-Info-XML",
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"dependencies":["Forge Required","LunatriusCore"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -7281,18 +7280,6 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
-
-},{
-
-"name":"Inventory Tweaks",
-"other":"(Dev)",
-"link":"http://bit.ly/1jXjbGw",
-"desc":"Allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will save you a massive amount of time!",
-"author":["Kobata"],
-"source":"https://github.com/Kobata/inventory-tweaks",
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
 
 },{
 
@@ -7875,21 +7862,11 @@
 
 "name":"Light Bridges And Doors",
 "link":"http://bit.ly/IUXdn9",
-"desc":"Adds light bridges and barriers which can be activated by redstone.",
-"author":["kris91268"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
-
-},{
-
-"name":"Light Bridges Mod",
-"link":"http://bit.ly/IUXdn9",
 "desc":"Adds light bridges, light doors, and light rails based on the ones from the Halo series.",
 "author":["kris91268"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -8111,11 +8088,11 @@
 
 "name":"Lots of Food",
 "link":"http://bit.ly/VFFPFY",
-"desc":"A mod that adds many new foods to the game, along with some farmable crops.",
+"desc":"Adds many new foods to the game, along with some farmable crops.",
 "author":["pifou92000"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 

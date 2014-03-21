@@ -1,5 +1,9 @@
 (March/21/2014)
+	*Updated "Hamsterrific Mod" link
 	+Added "Flan's Mod"
+	+Added "GuiLib"
+	+Added "IngameInfo"
+	+Added "Lots of Food"
 
 (March/19/2014)
 	+Added "Tool Heads"
