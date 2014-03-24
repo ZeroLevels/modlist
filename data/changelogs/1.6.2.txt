@@ -1,4 +1,5 @@
 (March/24/2014)
+	*Updated "Chisel" description
 	+Added "Reinforced Doors Mod"
 
 (March/15/2014)
