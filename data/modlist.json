@@ -768,11 +768,12 @@
 
 "name":"AsieLib",
 "link":"http://bit.ly/1eEYqM7",
-"desc":"Required dependency for AUTOMATIC_MAIDEN's mods.",
-"author":["AUTOMATIC_MAIDEN"],
+"desc":"Required dependency for asie's mods.",
+"author":["asie"],
+"source":"https://github.com/asiekierka/AsieLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -2521,7 +2522,8 @@
 "name":"Chisel",
 "link":"http://bit.ly/1eEYuLX",
 "desc":"Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
-"author":["AUTOMATIC_MAIDEN"],
+"author":["AUTOMATIC_MAIDEN","asie"],
+"source":"https://github.com/asiekierka/Chisel",
 "type":["Universal"],
 "dependencies":["Forge Required","AsieLib"],
 "versions":["1.7.2"]
