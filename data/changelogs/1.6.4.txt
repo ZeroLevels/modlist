@@ -1,5 +1,6 @@
 (March/24/2014)
 	*Updated "Chisel" description and info: Requires "Autoutils"
+	+Added "AsieLib"
 	+Added "Autoutils"
 	+Added "Reinforced Doors Mod"
 
