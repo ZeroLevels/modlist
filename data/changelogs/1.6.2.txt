@@ -1,3 +1,6 @@
+(March/24/2014)
+	+Added "Reinforced Doors Mod"
+
 (March/15/2014)
 	*Updated "AlgaeCraft" desc
 	*Updated "Aliens Vs Predator" description

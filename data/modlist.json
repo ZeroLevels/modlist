@@ -12031,6 +12031,16 @@
 
 },{
 
+"name":"Reinforced Doors Mod",
+"link":"http://bit.ly/1avOwXq",
+"desc":"Adds reinforced wooden and iron doors and reinforced trapdoors which resist TNT and zombie attacks and requires redstone to open.",
+"author":["MCE626","CrazyGuy"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
 "name":"Rei's Minimap",
 "link":"http://bit.ly/ZwYx5P",
 "desc":"Features: Fast processing, Beautiful map rendering, Expression of semitransparent blocks, Bump-map expression of height, Expression of dynamically changing lighting, Automatically generate the block colors from your texturepack, Biome color, Entities radar, Cave mapping, Waypoints (Can not teleport), Ingame keyconfig, ZanMinimap frame appearance, and Indication of slime spawning chunks.",
