@@ -766,6 +766,16 @@
 
 },{
 
+"name":"AsieLib",
+"link":"http://bit.ly/1eEYqM7",
+"desc":"Required dependency for AUTOMATIC_MAIDEN's mods.",
+"author":["AUTOMATIC_MAIDEN"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"AspectGuide for Thaumcraft",
 "link":"http://bit.ly/16NnuMd",
 "desc":"Shows Thaumcraft aspects of items in CraftGuide.",
@@ -999,6 +1009,16 @@
 "type":["SSP","SMP","LAN"],
 "dependencies":["Forge Compatible","ThebombzenAPI"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"Autoutils",
+"link":"http://bit.ly/YtS0HZ",
+"desc":"Required dependency for AUTOMATIC_MAIDEN's mods.",
+"author":["AUTOMATIC_MAIDEN"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -2237,7 +2257,7 @@
 "source":"https://github.com/Mineshopper/carpentersblocks",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -2480,11 +2500,31 @@
 
 "name":"Chisel",
 "link":"http://bit.ly/YtS0HZ",
-"desc":"Adds a huge variety of static blocks to the game. This mod will be very useful for people who like the construction aspect of Minecraft.",
+"desc":"Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
 "author":["AUTOMATIC_MAIDEN"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Chisel",
+"link":"http://bit.ly/YtS0HZ",
+"desc":"Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
+"author":["AUTOMATIC_MAIDEN"],
+"type":["Universal"],
+"dependencies":["Forge Required","Autoutils"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Chisel",
+"link":"http://bit.ly/1eEYuLX",
+"desc":"Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
+"author":["AUTOMATIC_MAIDEN"],
+"type":["Universal"],
+"dependencies":["Forge Required","AsieLib"],
+"versions":["1.7.2"]
 
 },{
 

@@ -1,3 +1,9 @@
+(March/24/2014)
+	+Added 2 mobs by AUTOMATIC_MAIDEN (Which are the following)
+		+Added "AsieLib"
+		+Added "Chisel"
+	+Added "Carpenter's Blocks"
+
 (March/21/2014)
 	*Updated "Hamsterrific Mod" link
 	+Added "Flan's Mod"

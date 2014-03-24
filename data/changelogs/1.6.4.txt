@@ -1,4 +1,6 @@
 (March/24/2014)
+	*Updated "Chisel" description and info: Requires "Autoutils"
+	+Added "Autoutils"
 	+Added "Reinforced Doors Mod"
 
 (March/15/2014)
