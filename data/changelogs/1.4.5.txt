@@ -1,3 +1,6 @@
+(March/26/2014)
+	*Updated "Mouse Tweaks" description and info: Now "Base Edit", Requires "ModLoader", Added source
+
 (March/15/2014)
 	*Updated "Aliens Vs Predator" description
 	*Updated "Ellian's MaterialDetector": Now "Forge Compatible"

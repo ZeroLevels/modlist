@@ -1,3 +1,6 @@
+(March/26/2014)
+	*Updated "Mouse Tweaks" description and info: Now "Base Edit", Requires "ModLoader", Added source
+
 (March/24/2014)
 	*Updated "Chisel" description
 
