@@ -1,4 +1,5 @@
 (March/26/2014)
+	+Added "Inventory Tweaks"
 	+Added "Mouse Tweaks"
 
 (March/24/2014)
