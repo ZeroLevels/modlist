@@ -100,7 +100,9 @@ $klein->with('/api/v3', 'routes/apiv3.php');
  * Variable to allow programmatic 404 calls
  */
 $notfound = function ($request, $response, $service, $app) {
-   $logfile = 'data/404.json';
+    header('HTTP/1.1 404 Not Found');
+    
+    $logfile = 'data/404.json';
     $logs = file_exists($logfile) ? json_decode(file_get_contents($logfile), true) : array();
     
     $uri = $request->uri();
