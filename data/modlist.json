@@ -9933,11 +9933,23 @@
 
 "name":"Mouse Tweaks",
 "link":"http://bit.ly/VxcJ9F",
-"desc":"Have you ever been tired of right clicking while crafting furnaces, chests or whatever? This client-side mod solves this problem! Just hold your right mouse button in one inventory slot and drag your mouse toward another.",
+"desc":"Implements an improved inventory management system with mouse holding and dragging.",
 "author":["YaLTeR97"],
+"source":"https://bitbucket.org/YaLTeR/mouse-tweaks/overview",
 "type":["Client"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Compatible","ModLoader","Base Edit"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Mouse Tweaks",
+"link":"http://bit.ly/VxcJ9F",
+"desc":"Implements an improved inventory management system with mouse holding and dragging.",
+"author":["YaLTeR97"],
+"source":"https://bitbucket.org/YaLTeR/mouse-tweaks/overview",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
