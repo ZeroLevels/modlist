@@ -67,7 +67,7 @@ $this->respond('!@^/login', function ($request, $response, $service, $app) {
  * @return redirect
  */
 
-$this->respond('GET', '/', function ($request, $response, $service, $app) {
+$this->respond('GET', '/?', function ($request, $response, $service, $app) {
     $response->redirect('/panel/login');
     $response->send();
 });
