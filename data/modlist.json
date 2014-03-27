@@ -4687,6 +4687,18 @@
 
 },{
 
+"name":"EnderIO",
+"other":"(Alpha)",
+"link":"http://bit.ly/1dQXp2X",
+"desc":"Multiple pipes in a single block. Buildcraft API and Forge Fluids compatible. Remote access to machines / inventories etc.",
+"author":["CrazyPants"],
+"source":"https://github.com/CrazyPants/EnderIO",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Endermen Don't Pick Up Blocks Mod",
 "link":"http://bit.ly/13vszGc",
 "desc":"Disables the endermen's ability to pick up blocks as well as a few other small mods that modify endermen.",
