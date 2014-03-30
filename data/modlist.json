@@ -2799,6 +2799,16 @@
 
 },{
 
+"name":"ColorBlocks",
+"link":"http://bit.ly/1jmxfaQ",
+"desc":"Adds blast-resistant decorative blocks that emit light. Useful for pixel art.",
+"author":["KeeperofMee"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"ColorCraft",
 "link":"http://bit.ly/13fr6Dl",
 "desc":"Adds an item called 'Eraser'. If you put this item and colored wool in the crafting-fields, you'll get white wool out.",
