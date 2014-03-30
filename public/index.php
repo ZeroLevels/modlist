@@ -92,7 +92,6 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     $service->layout('html/layouts/modlist.phtml');
 });
 
-$klein->with('/beta', 'routes/beta.php');
 $klein->with('/typeahead', 'routes/submission.php');
 $klein->with('/panel', 'routes/panel.php');
 $klein->with('/api/v3', 'routes/apiv3.php');
