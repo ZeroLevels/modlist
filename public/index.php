@@ -92,6 +92,7 @@ $klein->respond(function ($request, $response, $service, $app) use ($klein) {
     $service->layout('html/layouts/modlist.phtml');
 });
 
+$klein->with('/beta', 'routes/beta.php');
 $klein->with('/typeahead', 'routes/submission.php');
 $klein->with('/panel', 'routes/panel.php');
 $klein->with('/api/v3', 'routes/apiv3.php');
@@ -375,7 +376,7 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
 $klein->respond('GET', '/submit/[form|failed|success|incomplete:state]', function ($request, $response, $service, $app) {
     //TODO: Recode blacklist for panel access
     //TODO: Force blacklist on actual processing as well
-    $blacklist = array();
+    $blacklist = array('70.49.103.202');
     if(in_array($request->ip(),$blacklist)) {
         $service->render('html/submit/abuse.phtml');
     } else {
