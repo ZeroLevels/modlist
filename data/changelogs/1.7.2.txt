@@ -2,6 +2,7 @@
 	+Added 2 mods by chicken_bones (Which are the following)
 		+Added "CodeChickenCore"
 		+Added "Not Enough Items"
+	+Added "Botania"
 	+Added "ColorBlocks"
 
 (March/27/2014)
