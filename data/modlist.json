@@ -1738,6 +1738,16 @@
 
 },{
 
+"name":"BlockPlacer",
+"link":"http://bit.ly/1iH7xxe",
+"desc":"A utility that gives the player control over which side of the target block the held block is placed against. Designed to be small, low footprint and unobtrusive until needed.",
+"author":["id_miner"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Blocks3D Mod",
 "link":"http://bit.ly/14WTzkE",
 "desc":"Adds thickness to flat blocks such as grass, saplings, rails and more.",

@@ -1,4 +1,5 @@
 (March/31/2014)
+	+Added "BlockPlacer"
 	+Added "End of the Rainbow Mod"
 	+Added "Underground Biomes Constructs"
 
