@@ -1,4 +1,5 @@
 (March/31/2014)
+	+Added "Player Beacons"
 	+Added "Underground Biomes Constructs"
 
 (March/26/2014)

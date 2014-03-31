@@ -11312,6 +11312,17 @@
 
 },{
 
+"name":"Player Beacons",
+"link":"http://bit.ly/1iH6CwO",
+"desc":"Adds a new type of Beacon which applies effects to a specific player at any range.",
+"author":["Kihira"],
+"source":"https://bitbucket.org/Kihira/player-beacons",
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Player Heads",
 "link":"http://bit.ly/VuOduI",
 "desc":"Adds the ability for players to drop their own heads.",
