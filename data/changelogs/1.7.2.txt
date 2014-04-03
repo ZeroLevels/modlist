@@ -1,6 +1,7 @@
 (April/03/2014)
 	*Updated "Schematica": Now released
 	+Added "Arrow Cam Mod"
+	+Added "BlockPlacer"
 
 (March/31/2014)
 	+Added "Underground Biomes Constructs"

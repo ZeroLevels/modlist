@@ -1,4 +1,5 @@
 (April/03/2014)
+	*Updated "BlockPlacer" author: Now by MudRaker
 	+Added "Arrow Cam Mod"
 	+Added "Ooze Mod"
 
