@@ -10777,6 +10777,16 @@
 
 },{
 
+"name":"Ooze Mod",
+"link":"http://bit.ly/1g3plmQ",
+"desc":"Adds an Ooze mob which spawns in swamps, jungles and plains; dropping slimeballs upon death.",
+"author":["mangoose"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"OpenBlocks",
 "link":"http://bit.ly/19P7fg6",
 "desc":"The idea of OpenBlocks is to add small and interesting utilities to minecraft to make the gameplay a little bit more enjoyable.",
