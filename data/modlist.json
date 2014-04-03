@@ -12468,7 +12468,6 @@
 },{
 
 "name":"Schematica",
-"other":"(Dev)",
 "link":"http://bit.ly/XSPYRr",
 "desc":"Allows you to display a ghost image of a schematic file inside Minecraft to rebuild a structure or export any part of your world (or a server's world) into a schematic file. You're able to export parts of your world, too!",
 "author":["Lunatrius"],
