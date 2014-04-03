@@ -715,6 +715,17 @@
 
 },{
 
+"name":"Arrow Cam Mod",
+"link":"http://bit.ly/1g3p7Ms",
+"desc":"Allows your point of view to follow fired arrows by crouching and see how much damage they inflict.",
+"author":["Jsn_man"],
+"source":"https://github.com/Jsnman/ArrowCamMod",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"Arrow Golems",
 "link":"http://bit.ly/1a39Zet",
 "desc":"Adds a new mob called the \"Arrow Golem\" which can spawn with a Spawn Egg in creative mode, or just create the statue needed to spawn it. It does not spawn by itself. It will shoot arrows at any monster except for Creepers and Ghasts.",
