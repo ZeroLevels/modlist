@@ -2832,6 +2832,17 @@
 
 },{
 
+"name":"Collaborative Mod",
+"link":"http://bit.ly/1gVTmVi",
+"desc":"Re-invents the Project Table from RedPower into a Collaborative Workbench with shareable Plans.",
+"author":["Eurymachus","SlimeVoid"],
+"source":"https://github.com/SlimeVoid/CollaborativeMod",
+"type":["Universal"],
+"dependencies":["Forge Required","SlimeVoid Library"],
+"versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
 "name":"ColorBlocks",
 "link":"http://bit.ly/1jmxfaQ",
 "desc":"Adds blast-resistant decorative blocks that emit light. Useful for pixel art.",
@@ -8107,7 +8118,18 @@
 "author":["VengeurK"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
+"versions":["1.6.2","1.4.7","1.4.5"]
+
+},{
+
+"name":"LittleBlocks",
+"link":"http://bit.ly/UR3eUm",
+"desc":"Allows you to place blocks at a scale of 1/512, allowing for more creative builds and compact redstone circuitry.",
+"author":["VengeurK","SlimeVoid"],
+"source":"https://github.com/SlimeVoid/LittleBlocks-FML",
+"type":["Universal"],
+"dependencies":["Forge Required","SlimeVoid Library"],
+"versions":["1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -12964,6 +12986,17 @@
 
 },{
 
+"name":"SlimeVoid Library",
+"link":"http://bit.ly/1gVQ4RV",
+"desc":"Required Library for SlimeVoid mods, such as LittleBlocks and Wireless Redstone.",
+"author":["Eurymachus","SlimeVoid"],
+"source":"https://github.com/SlimeVoid/SlimevoidLibrary",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
 "name":"Slimy Adventures",
 "link":"http://bit.ly/13gLhUE",
 "desc":"SlimyAdventures will put you on a new adventure with new tools, armor, mobs, and kinda new biome with new stuff. Fight against new mobs. Make your mining a lot easier with your new tools and get out killing loots of new mobs.",
@@ -14277,6 +14310,17 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"The Miner's Friend",
+"link":"http://bit.ly/1gVWznR",
+"desc":"Adds new tools and features, such as Tool Belts and Utility Belts.",
+"author":["Eurymachus","SlimeVoid"],
+"source":"https://github.com/SlimeVoid/TheMinersFriend",
+"type":["Universal"],
+"dependencies":["Forge Required","SlimeVoid Library"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -15709,10 +15753,11 @@
 "name":"Wireless Redstone",
 "link":"http://bit.ly/10w7dWr",
 "desc":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
-"author":["Eurymachus"],
+"author":["Eurymachus","SlimeVoid"],
+"source":"https://github.com/SlimeVoid/WirelessRedstone",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"dependencies":["Forge Required","SlimeVoid Library"],
+"versions":["1.7.2","1.6.4","1.5.2"]
 
 },{
 

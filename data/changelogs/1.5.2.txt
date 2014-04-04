@@ -1,3 +1,8 @@
+(April/05/2014)
+	*Updated "LittleBlocks" author, description and info: Now by VengeurK and SlimeVoid, Now Forge Required, Requires "SlimeVoid Library", Added Source
+	*Updated "Wireless Redstone" author and info: Now by Eurymachus and SlimeVoid, Requires "SlimeVoid Library", Added Source
+	+Added "SlimeVoid Library"
+
 (March/26/2014)
 	*Updated "Mouse Tweaks" description and info: Now "Base Edit", Requires "ModLoader", Added source
 
