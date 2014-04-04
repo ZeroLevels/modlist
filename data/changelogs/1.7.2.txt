@@ -1,4 +1,11 @@
 (April/04/2014)
+	*Updated mods by Duke605 (Which are the following)
+		*Updated "Boost" link and info: Requires "KingCore"
+		*Updated "Ender Book" info: Requires "KingCore"
+		*Updated "DukeCore" name and link: Now "KingCore"
+		*Updated "Fishing Nets" link and info: Requires "KingCore"
+		*Updated "Ingame Mod List 4" link
+		*Updated "Tool Heads" link and info: Requires "KingCore"
 	+Added "Secret Rooms Mod"
 	+Added "Surface Quartz"
 

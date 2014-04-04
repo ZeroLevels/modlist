@@ -1863,11 +1863,11 @@
 },{
 
 "name":"Boost",
-"link":"http://bit.ly/1h3upEb",
+"link":"http://bit.ly/1hcp69w",
 "desc":"Part of Duke605's Micro Series. Adds boots to your game which increase your speed. The boosts can be upgraded to give you more speed as well as better protection.",
 "author":["Duke605"],
 "type":["Universal"],
-"dependencies":["Forge Required","DukeCore"],
+"dependencies":["Forge Required","KingCore"],
 "versions":["1.7.2"]
 
 },{
@@ -4297,7 +4297,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -4705,7 +4705,17 @@
 "author":["duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","DukeCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.6.4"]
+
+},{
+
+"name":"Ender Book",
+"link":"http://bit.ly/1cw88MN",
+"desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
+"author":["duke605"],
+"type":["Universal"],
+"dependencies":["Forge Required","KingCore"],
+"versions":["1.7.2"]
 
 },{
 
@@ -5610,11 +5620,11 @@
 },{
 
 "name":"Fishing Nets",
-"link":"http://bit.ly/1imruri",
+"link":"http://bit.ly/1hcoRv9",
 "desc":"Part of Duke605's Micro Series. Adds a fishing net to the game that fishing for you.",
 "author":["Duke605"],
 "type":["Universal"],
-"dependencies":["Forge Required","DukeCore"],
+"dependencies":["Forge Required","KingCore"],
 "versions":["1.7.2"]
 
 },{
@@ -7289,7 +7299,7 @@
 
 "name":"Ingame Mod List 4",
 "other":"(IGML4)",
-"link":"http://bit.ly/1bKHuS7",
+"link":"http://bit.ly/1hcpIfs",
 "desc":"Provides an in-game interface for the modlist.",
 "author":["Duke605"],
 "source":"https://github.com/duke605/IGML4",
@@ -7730,6 +7740,17 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"KingCore",
+"other":"(Dependency)",
+"link":"http://bit.ly/1hcsotC",
+"desc":"Required to run any of Duke605's mods. Previously known as DukeCore.",
+"author":["Duke605"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -14659,11 +14680,11 @@
 },{
 
 "name":"Tool Heads",
-"link":"http://bit.ly/1gaAItd",
+"link":"http://bit.ly/1hcrLjx",
 "desc":"Part of Duke605's Micro Series. Adds reusable tool heads that can pop off tools when broken.",
 "author":["Duke605"],
 "type":["Universal"],
-"dependencies":["Forge Required","DukeCore"],
+"dependencies":["Forge Required","KingCore"],
 "versions":["1.7.2"]
 
 },{
