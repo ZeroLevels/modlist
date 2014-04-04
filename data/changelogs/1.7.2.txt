@@ -1,5 +1,8 @@
+(April/04/2014)
+	+Added "Secret Rooms Mod"
+
 (April/03/2014)
-	*Updated "Schematica": Now released
+	*Updated "Schematica" info: Now released
 	+Added "Arrow Cam Mod"
 	+Added "BlockPlacer"
 
