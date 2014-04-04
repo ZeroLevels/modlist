@@ -1,5 +1,6 @@
 (April/04/2014)
 	+Added "Secret Rooms Mod"
+	+Added "Surface Quartz"
 
 (April/03/2014)
 	*Updated "Schematica" info: Now released
