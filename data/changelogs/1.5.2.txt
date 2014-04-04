@@ -1,6 +1,3 @@
-(April/03/2014)
-	+Added "BlockPlacer"
-
 (March/26/2014)
 	*Updated "Mouse Tweaks" description and info: Now "Base Edit", Requires "ModLoader", Added source
 
