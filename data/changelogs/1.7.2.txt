@@ -1,5 +1,12 @@
+(April/05/2014)
+	+Added 4 mods by SlimeVoid (Which are the following)
+		+Added "LittleBlocks"
+		+Added "SlimeVoid Library"
+		+Added "The Miner's Friend"
+		+Added "Wireless Redstone"
+
 (April/04/2014)
-	*Updated mods by Duke605 (Which are the following)
+	*Updated 6 mods by Duke605 (Which are the following)
 		*Updated "Boost" link and info: Requires "KingCore"
 		*Updated "Ender Book" info: Requires "KingCore"
 		*Updated "DukeCore" name and link: Now "KingCore"

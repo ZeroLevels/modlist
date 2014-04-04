@@ -1,3 +1,10 @@
+(April/05/2014)
+	*Updated "LittleBlocks" author, description and info: Now by VengeurK and SlimeVoid, Now Forge Required, Requires "SlimeVoid Library", Added Source
+	+Added 3 mods by Eurymachus and SlimeVoid (Which are the following)
+		+Added "SlimeVoid Library"
+		+Added "The Miner's Friend"
+		+Added "Wireless Redstone"
+
 (April/03/2014)
 	*Updated "BlockPlacer" author: Now by MudRaker
 	+Added "Arrow Cam Mod"
