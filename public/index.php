@@ -585,7 +585,7 @@ $klein->respond('GET', '/api.php', function ($request, $response, $service, $app
  * Version content pages (eg: banners, credits, faq, history)
  * @return page
  */
-$klein->respond('GET', '/[banners|credits|faq|history|igml|options:page]', function ($request, $response, $service, $app) {
+$klein->respond('GET', '/[banners|credits|faq|history|igml|options|other:page]', function ($request, $response, $service, $app) {
     $service->render('html/content/' . $request->param('page') . '.phtml');
 });
 
