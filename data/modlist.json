@@ -248,6 +248,18 @@
 
 },{
 
+"name":"AgeCraft",
+"other":"(Alpha)",
+"link":"http://bit.ly/PzBWTT",
+"desc":"",
+"author":["ElConquistador","rorygee"],
+"source":"https://github.com/AgeCraft/AgeCraft",
+"type":["Universal"],
+"dependencies":["Forge Required","ElConQore"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Ages of Mystcraft",
 "link":"http://bit.ly/17lokjC",
 "desc":"Adds new symbols to Mystcraft.",
@@ -7273,17 +7285,6 @@
 "type":["Client"],
 "dependencies":["Forge Required","LunatriusCore"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"InGame Info XML",
-"link":"http://bit.ly/Sw1AcJ",
-"desc":"Display various information directly on your ingame screen.",
-"author":["Lunatrius"],
-"source":"https://github.com/Lunatrius/InGame-Info-XML",
-"type":["Client"],
-"dependencies":["Forge Required","LunatriusCore"],
-"versions":["1.7.2"]
 
 },{
 
