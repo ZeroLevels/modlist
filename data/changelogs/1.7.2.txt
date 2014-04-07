@@ -1,3 +1,6 @@
+(April/07/2014)
+	+Added "Baubles"
+
 (April/05/2014)
 	+Added 5 mods by SlimeVoid (Which are the following)
 		+Added "Collaborative Mod"
