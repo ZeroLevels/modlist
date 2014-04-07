@@ -1197,6 +1197,18 @@
 
 },{
 
+"name":"Baubles",
+"other":"(API)",
+"link":"http://bit.ly/1qb2xld",
+"desc":"An API that adds 4 bauble slots to player inventories; consisting of an amulet slot, belt slot and 2 ring slots.",
+"author":["Azanor"],
+"source":"https://github.com/Azanor/Baubles",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Beam Me Up!",
 "link":"http://bit.ly/UnjZGc",
 "desc":"",
@@ -7273,17 +7285,6 @@
 "type":["Client"],
 "dependencies":["Forge Required","LunatriusCore"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"InGame Info XML",
-"link":"http://bit.ly/Sw1AcJ",
-"desc":"Display various information directly on your ingame screen.",
-"author":["Lunatrius"],
-"source":"https://github.com/Lunatrius/InGame-Info-XML",
-"type":["Client"],
-"dependencies":["Forge Required","LunatriusCore"],
-"versions":["1.7.2"]
 
 },{
 
