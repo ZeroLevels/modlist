@@ -248,18 +248,6 @@
 
 },{
 
-"name":"AgeCraft",
-"other":"(Alpha)",
-"link":"http://bit.ly/PzBWTT",
-"desc":"",
-"author":["ElConquistador","rorygee"],
-"source":"https://github.com/AgeCraft/AgeCraft",
-"type":["Universal"],
-"dependencies":["Forge Required","ElConQore"],
-"versions":["1.7.2"]
-
-},{
-
 "name":"Ages of Mystcraft",
 "link":"http://bit.ly/17lokjC",
 "desc":"Adds new symbols to Mystcraft.",
