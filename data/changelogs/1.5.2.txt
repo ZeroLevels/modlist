@@ -1,3 +1,6 @@
+(April/08/2014)
+	*Updated "Pixelmon" info: No longer Open Source
+
 (April/05/2014)
 	*Updated "LittleBlocks" author, description and info: Now by VengeurK and SlimeVoid, Now Forge Required, Requires "SlimeVoid Library", Added Source
 	*Updated "Wireless Redstone" author and info: Now by Eurymachus and SlimeVoid, Requires "SlimeVoid Library", Added Source

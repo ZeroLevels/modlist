@@ -1,3 +1,6 @@
+(April/08/2014)
+	*Updated "Pixelmon" info: No longer Open Source
+
 (April/03/2014)
 	+Added "Arrow Cam Mod"
 	+Added "BlockPlacer"
