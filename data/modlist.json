@@ -369,7 +369,6 @@
 },{
 
 "name":"All-U-Want Inventory Editor",
-"other":"(Beta)",
 "link":"http://bit.ly/10HBIrf",
 "desc":"Allows you to give yourself almost every possible item in the game, including attribute modifiers, potions with all effects, items with enchantments and custom names with color and formatting.",
 "author":["mister_person"],
@@ -8932,12 +8931,13 @@
 },{
 
 "name":"MineFantasy",
+"other":"(Beta)",
 "link":"http://bit.ly/UcZLj8",
 "desc":"MineFantasy adds difficulty to the game by expanding the progression through mining, crafting and smelting, adding a longer tier of metals and processes from forging, smelting, alloying, tanning, and refining. As well as a range of monsters, pvp opportunities and decorations to add difficulty and a middle-aged gameplay experience.",
 "author":["AnonymousProductions"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -11309,7 +11309,6 @@
 "link":"http://bit.ly/VNVgsL",
 "desc":"Adds 204 Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.",
 "author":["epicSplashBattle"],
-"source":"https://github.com/MrMasochism/Pixelmon",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]

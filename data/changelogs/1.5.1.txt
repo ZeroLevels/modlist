@@ -1,3 +1,9 @@
+(April/11/2014)
+	*Updated "MineFantasy" info: Marked as Beta
+
+(April/08/2014)
+	*Updated "Pixelmon" info: No longer Open Source
+
 (March/26/2014)
 	*Updated "Mouse Tweaks" description and info: Now "Base Edit", Requires "ModLoader", Added source
 
