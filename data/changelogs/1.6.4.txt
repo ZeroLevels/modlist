@@ -3,6 +3,7 @@
 		+Added "EnderTanks"
 		+Added "ShetiPhianCore"
 	+Added "MineFantasy"
+	+Added "qCraft"
 
 (April/08/2014)
 	*Updated "Pixelmon" info: No longer Open Source

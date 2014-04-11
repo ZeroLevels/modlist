@@ -1,6 +1,7 @@
 (April/11/2014)
 	*Updated "MineFantasy" info: Marked as Beta
 	+Added "EnderTanks"
+	+Added "qCraft"
 
 (April/08/2014)
 	*Updated "Pixelmon" info: No longer Open Source
