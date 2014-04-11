@@ -8931,12 +8931,13 @@
 },{
 
 "name":"MineFantasy",
+"other":"(Beta)",
 "link":"http://bit.ly/UcZLj8",
 "desc":"MineFantasy adds difficulty to the game by expanding the progression through mining, crafting and smelting, adding a longer tier of metals and processes from forging, smelting, alloying, tanning, and refining. As well as a range of monsters, pvp opportunities and decorations to add difficulty and a middle-aged gameplay experience.",
 "author":["AnonymousProductions"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
