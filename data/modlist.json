@@ -4841,7 +4841,17 @@
 "author":["ShetiPhian"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7"]
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"EnderTanks",
+"link":"http://bit.ly/11aPDJF",
+"desc":"Adds EnderTanks and EnderBuckets for storing and accessing liquids across dimensions.",
+"author":["ShetiPhian"],
+"type":["Universal"],
+"dependencies":["Forge Required","ShetiPhianCore"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -12631,6 +12641,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"ShetiPhianCore",
+"link":"http://bit.ly/1oT3JhL",
+"desc":"Required mod for other mods by ShetiPhian.",
+"author":["ShetiPhian"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 

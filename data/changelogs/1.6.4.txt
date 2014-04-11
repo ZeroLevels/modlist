@@ -1,4 +1,7 @@
 (April/11/2014)
+	+Added 2 mods by ShetiPhian (Which are the following)
+		+Added "EnderTanks"
+		+Added "ShetiPhianCore"
 	+Added "MineFantasy"
 
 (April/08/2014)
