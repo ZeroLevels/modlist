@@ -1,3 +1,6 @@
+(April/12/2014)
+	*Updated "Temperate Plants" description
+
 (April/11/2014)
 	*Updated "MineFantasy" info: Marked as Beta
 	+Added "EnderTanks"

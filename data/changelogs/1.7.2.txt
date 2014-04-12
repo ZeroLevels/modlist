@@ -1,4 +1,10 @@
 (April/12/2014)
+	+Added 5 mods by MatrexsVigil (Which are the following)
+		+Added "Clay Spawn"
+		+Added "Desert Craft"
+		+Added "Get all the Seeds!"
+		+Added "Simple Recipes"
+		+Added "Temperate Plants"
 	+Added "BrainStoneMod"
 	+Added "Oceancraft"
 
