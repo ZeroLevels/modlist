@@ -1950,12 +1950,12 @@
 "name":"BrainStoneMod",
 "other":"(Beta)",
 "link":"http://bit.ly/1cscbyR",
-"desc":"Adds redstone related blocks such as light sensors, entity triggers, and a logic block that includes most logic gates/flip-flops made from a mysterious material called BrainStone.  BrainStone can also be uses to create tools, weapons, and armor.",
+"desc":"Adds redstone related blocks such as light sensors, entity triggers, and a logic block that includes most logic gates/flip-flops made from a mysterious material called BrainStone. BrainStone can also be uses to create tools, weapons, and armor.",
 "author":["The_BrainStone"],
 "source":"https://github.com/BrainStone/brainstone",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -10785,7 +10785,7 @@
 "author":["thomassu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2"]
+"versions":["1.7.2","1.6.4","1.5.2"]
 
 },{
 

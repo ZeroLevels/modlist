@@ -1,3 +1,7 @@
+(April/12/2014)
+	+Added "BrainStoneMod"
+	+Added "Oceancraft"
+
 (April/11/2014)
 	*Updated "All-U-Want Inventory Editor" info: Now released
 	+Added 2 mods by ShetiPhian (Which are the following)
