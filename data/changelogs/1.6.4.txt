@@ -1,3 +1,7 @@
+(April/12/2014)
+	*Updated "Temperate Plants" description
+	+Added "Clay Spawn"
+
 (April/11/2014)
 	+Added 2 mods by ShetiPhian (Which are the following)
 		+Added "EnderTanks"

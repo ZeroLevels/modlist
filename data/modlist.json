@@ -2704,7 +2704,17 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Clay Spawn",
+"link":"http://bit.ly/1hJpF57",
+"desc":"Adds in clay deposits underground with the frequency and density of iron deposits.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -4032,6 +4042,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Desert Craft",
+"link":"http://bit.ly/1hJpF57",
+"desc":"Contains sixteen cactus/desert plants, cactus armor, cactus tools, sandstone tools, glass steel, glass steel window, and glass steel tools. Also includes a recipe to turn cactus blocks into planks for better desert living.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -6213,6 +6233,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Get all the Seeds!",
+"link":"http://bit.ly/1hJpF57",
+"desc":"Makes all the seeds in the game in addition to wheat drop from tall grass.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -12807,6 +12837,16 @@
 },{
 
 "name":"Simple Recipes",
+"link":"http://bit.ly/1hJpF57",
+"desc":"Adds several crafting and smelting recipes to the game.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Simple Recipes",
 "link":"http://bit.ly/1d6dfb9",
 "desc":"Adds new crafting recipes for vanilla items.",
 "author":["wuppy21"],
@@ -13918,11 +13958,21 @@
 
 "name":"Temperate Plants",
 "link":"http://bit.ly/VFL2O4",
-"desc":"Adds new plants for aesthetics.",
+"desc":"Adds aesthetic plants in Plains, Forests, Mountains and Hills with configurable spawn rates.",
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Temperate Plants",
+"link":"http://bit.ly/1hJpF57",
+"desc":"Adds aesthetic plants in Plains, Forests, Mountains and Hills with configurable spawn rates.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
