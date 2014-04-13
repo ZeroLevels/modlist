@@ -6633,6 +6633,16 @@
 
 },{
 
+"name":"Hardcore Questing Mode",
+"link":"http://bit.ly/1n4H9ku",
+"desc":"Introduces the possibility to play a multi-life hardcore mode before perma-death/ban, and adds a quest system which allows the creation of quests by map makers and server owners.",
+"author":["lorddusk","Newcastlegeek","Vswe"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Harder Peaceful",
 "link":"http://bit.ly/1ahCYGm",
 "desc":"Harder Peaceful is a mod that will make peaceful a bit more like the other game modes. It causes like normal and you will no longer regenerate health when you are hurt and don't have enough food. Goes well with The Peacefulpack mod.",
