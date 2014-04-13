@@ -1506,9 +1506,9 @@
 "name":"BetterStorage",
 "other":"(WIP)",
 "link":"http://bit.ly/VZVIFl",
-"desc":"(Has development builds for 1.6.2 and 1.6.4 <a href=\"http://copy.mcft.net/mc/BetterStorage/downloads/\">here</a>)<br/>Adds more storage options, like Storage Crates, Reinforced Chests, Lockers, Armor Stands, as well as locks and keys for its chests. I'm aiming for fun, interesting and balanced features which would fit well into vanilla Minecraft, but also work nicely together with other mods.",
-"author":["copyboy"],
-"source":"https://github.com/copyboy/mod_BetterStorage",
+"desc":"Adds more storage options, such as Storage Crates, Reinforced Chests, Lockers, Armor Stands, as well as locks and keys for its chests.",
+"author":["copygirl"],
+"source":"https://github.com/copygirl/BetterStorage",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
