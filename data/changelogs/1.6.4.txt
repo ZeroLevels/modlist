@@ -1,3 +1,6 @@
+(April/13/2014)
+	*Updated "Random Things" description and info: Added source
+
 (April/12/2014)
 	*Updated "Temperate Plants" description
 	+Added "Clay Spawn"
