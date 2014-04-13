@@ -1,6 +1,7 @@
 (April/13/2014)
 	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated Source
 	*Updated "Random Things" description and info: Added source
+	+Added "Hardcore Questing Mode"
 
 (April/12/2014)
 	*Updated "Temperate Plants" description
