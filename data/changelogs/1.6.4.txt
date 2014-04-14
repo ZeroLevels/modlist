@@ -1,3 +1,6 @@
+(April/14/2014)
+	+Added "Refined Relocation"
+
 (April/13/2014)
 	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated Source
 	*Updated "Random Things" description and info: Added source
