@@ -360,21 +360,21 @@
 
 "name":"All-U-Want Inventory Editor",
 "link":"http://bit.ly/10HBIrf",
-"desc":"Allows you to not only give yourself any item in the game, but almost every possible kind of item.",
-"author":["mister_person"],
-"type":["Client"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
-
-},{
-
-"name":"All-U-Want Inventory Editor",
-"link":"http://bit.ly/10HBIrf",
 "desc":"Allows you to give yourself almost every possible item in the game, including attribute modifiers, potions with all effects, items with enchantments and custom names with color and formatting.",
 "author":["mister_person"],
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"All-U-Want Inventory Editor",
+"link":"http://bit.ly/10HBIrf",
+"desc":"Allows you to not only give yourself any item in the game, but almost every possible kind of item.",
+"author":["mister_person"],
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
 
 },{
 
@@ -2699,22 +2699,22 @@
 },{
 
 "name":"Clay Spawn",
-"link":"http://bit.ly/VFL2O4",
-"desc":"Adds in clay deposits underground with the frequency and density of iron deposits.",
-"author":["MatrexsVigil"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"Clay Spawn",
 "link":"http://bit.ly/1hJpF57",
 "desc":"Adds in clay deposits underground with the frequency and density of iron deposits.",
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Clay Spawn",
+"link":"http://bit.ly/VFL2O4",
+"desc":"Adds in clay deposits underground with the frequency and density of iron deposits.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -3508,21 +3508,21 @@
 
 "name":"Creeper Species",
 "link":"http://bit.ly/ZGFfHV",
-"desc":"This is my mod ;) Adds new creepers",
-"author":["ryan44851111"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2"]
-
-},{
-
-"name":"Creeper Species",
-"link":"http://bit.ly/ZGFfHV",
 "desc":"Adds 4 new creepers to the game: Mystery Creeper, Nether Star Creeper, Porkified Creeper and the Angel Creeper.",
 "author":["ryan44851111"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Creeper Species",
+"link":"http://bit.ly/ZGFfHV",
+"desc":"This is my mod ;) Adds new creepers",
+"author":["ryan44851111"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.2"]
 
 },{
 
@@ -4036,22 +4036,22 @@
 },{
 
 "name":"Desert Craft",
-"link":"http://bit.ly/VFL2O4",
-"desc":"Contains sixteen cactus/desert plants, cactus armor, cactus tools, sandstone tools, glass steel, glass steel window, and glass steel tools. Also includes a recipe to turn cactus blocks into planks for better desert living.",
-"author":["MatrexsVigil"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"Desert Craft",
 "link":"http://bit.ly/1hJpF57",
 "desc":"Contains sixteen cactus/desert plants, cactus armor, cactus tools, sandstone tools, glass steel, glass steel window, and glass steel tools. Also includes a recipe to turn cactus blocks into planks for better desert living.",
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Desert Craft",
+"link":"http://bit.ly/VFL2O4",
+"desc":"Contains sixteen cactus/desert plants, cactus armor, cactus tools, sandstone tools, glass steel, glass steel window, and glass steel tools. Also includes a recipe to turn cactus blocks into planks for better desert living.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -6227,22 +6227,22 @@
 },{
 
 "name":"Get all the Seeds!",
-"link":"http://bit.ly/VFL2O4",
-"desc":"Makes all the seeds in the game in addition to wheat drop from tall grass.",
-"author":["MatrexsVigil"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"Get all the Seeds!",
 "link":"http://bit.ly/1hJpF57",
 "desc":"Makes all the seeds in the game in addition to wheat drop from tall grass.",
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Get all the Seeds!",
+"link":"http://bit.ly/VFL2O4",
+"desc":"Makes all the seeds in the game in addition to wheat drop from tall grass.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -10086,8 +10086,8 @@
 "author":["YaLTeR97"],
 "source":"https://bitbucket.org/YaLTeR/mouse-tweaks/overview",
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader","Base Edit"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -10097,8 +10097,8 @@
 "author":["YaLTeR97"],
 "source":"https://bitbucket.org/YaLTeR/mouse-tweaks/overview",
 "type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"dependencies":["Forge Compatible","ModLoader","Base Edit"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -12278,6 +12278,17 @@
 
 },{
 
+"name":"Refined Relocation",
+"link":"http://bit.ly/P0LSon",
+"desc":"Uses existing systems to improve the transportation of items, fluids, energy and players. Provides an API for its sorting and filtering systems.",
+"author":["Dynious"],
+"source":"https://github.com/Dynious/RefinedRelocation",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Reinforced Butter",
 "link":"http://bit.ly/13G0lfW",
 "desc":"Adds new armor, blocks, tools, and weapons for two new ingots, Super Butter and Reinforced Butter.",
@@ -12850,22 +12861,22 @@
 },{
 
 "name":"Simple Recipes",
-"link":"http://bit.ly/VFL2O4",
-"desc":"Adds several crafting and smelting recipes to the game.",
-"author":["MatrexsVigil"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"Simple Recipes",
 "link":"http://bit.ly/1hJpF57",
 "desc":"Adds several crafting and smelting recipes to the game.",
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Simple Recipes",
+"link":"http://bit.ly/VFL2O4",
+"desc":"Adds several crafting and smelting recipes to the game.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -13980,22 +13991,22 @@
 },{
 
 "name":"Temperate Plants",
-"link":"http://bit.ly/VFL2O4",
-"desc":"Adds aesthetic plants in Plains, Forests, Mountains and Hills with configurable spawn rates.",
-"author":["MatrexsVigil"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
-
-},{
-
-"name":"Temperate Plants",
 "link":"http://bit.ly/1hJpF57",
 "desc":"Adds aesthetic plants in Plains, Forests, Mountains and Hills with configurable spawn rates.",
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Temperate Plants",
+"link":"http://bit.ly/VFL2O4",
+"desc":"Adds aesthetic plants in Plains, Forests, Mountains and Hills with configurable spawn rates.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -15854,6 +15865,16 @@
 },{
 
 "name":"Wireless Redstone",
+"link":"http://bit.ly/V2vnJ7",
+"desc":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
+"author":["ali4z"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required"],
+"versions":["1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"Wireless Redstone",
 "link":"http://bit.ly/10w7dWr",
 "desc":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
 "author":["Eurymachus","SlimeVoid"],
@@ -15861,16 +15882,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required","SlimeVoid Library"],
 "versions":["1.7.2","1.6.4","1.5.2"]
-
-},{
-
-"name":"Wireless Redstone",
-"link":"http://bit.ly/V2vnJ7",
-"desc":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
-"author":["ali4z"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -15917,21 +15928,21 @@
 
 "name":"Wood Converter",
 "link":"http://bit.ly/ZWcNRL",
-"desc":"Allows you to convert wood into other types of wood.",
-"author":["Minecrafter1912"],
-"type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.1","1.5","1.4.7"]
-
-},{
-
-"name":"Wood Converter",
-"link":"http://bit.ly/ZWcNRL",
 "desc":"Allows conversion of wood into other types of wood and reverse crafting stairs and slabs into planks.",
 "author":["bl4ckscor3"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Wood Converter",
+"link":"http://bit.ly/ZWcNRL",
+"desc":"Allows you to convert wood into other types of wood.",
+"author":["Minecrafter1912"],
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
