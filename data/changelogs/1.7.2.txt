@@ -1,5 +1,6 @@
 (April/16/2014)
 	+Added "PneumaticCraft"
+	+Added "Thaumcraft 4"
 
 (April/14/2014)
 	+Added "Refined Relocation"
