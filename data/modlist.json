@@ -7620,6 +7620,17 @@
 
 },{
 
+"name":"JAMI",
+"other":"(Just Advanced Mod Interaction)",
+"link":"http://bit.ly/1h3VuFS",
+"desc":"Extends the functionality of other mods, such as integration with ForgeMultipart, BuildCraft Facades, Soul Shards and Tinkers' Construct Smeltery Recipes.",
+"author":["samtrion"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Jammy Furniture Mod",
 "link":"http://bit.ly/RBQOQg",
 "desc":"Adds a large amount of decorative blocks, most of which are furniture. Each piece of furniture functions in its own way. You can sit in chairs, on couches, switch on lamps much more.",
@@ -14076,21 +14087,21 @@
 
 "name":"Thaumcraft 4",
 "link":"http://bit.ly/1bNyb3j",
-"desc":"Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
-"author":["Azanor"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
-
-},{
-
-"name":"Thaumcraft 4",
-"link":"http://bit.ly/1bNyb3j",
 "desc":"Adds Thaumaturgy, the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
 "author":["Azanor"],
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Thaumcraft 4",
+"link":"http://bit.ly/1bNyb3j",
+"desc":"Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
+"author":["Azanor"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
