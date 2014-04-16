@@ -1,6 +1,7 @@
 (April/16/2014)
 	*Updated "ExtraCells" info: Added source
 	*Updated "PneumaticCraft" description and info: No longer WIP
+	*Updated "SmoothBedrock" info: Added source
 	+Added "JAMI"
 
 (April/13/2014)

@@ -13210,6 +13210,7 @@
 "link":"http://bit.ly/1ailXMG",
 "desc":"Flattens the bedrock to be a single layer.",
 "author":["samtrion"],
+"source":"https://github.com/Samtrion/SmoothBedrock",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
