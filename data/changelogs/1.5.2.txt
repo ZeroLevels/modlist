@@ -1,3 +1,6 @@
+(April/16/2014)
+	*Updated "PneumaticCraft" description and info: No longer WIP
+
 (April/13/2014)
 	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated Source
 	*Updated "Random Things" description and info: Added source

@@ -11488,13 +11488,23 @@
 },{
 
 "name":"PneumaticCraft",
-"other":"(WIP)",
 "link":"http://bit.ly/16ltw7I",
-"desc":"This technical mod is all about pressurized air. It adds Elevators, Pressure Chambers, Air Cannons, Pneumatic Armor (Iron Man like), and much more...",
+"desc":"A technical mod which introduces pressurized air, and adds Elevators, Pressure Chambers, Air Cannons, Pneumatic Armor, and much more.",
 "author":["MineMaarten"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"PneumaticCraft",
+"other":"(Unstable)",
+"link":"http://bit.ly/16ltw7I",
+"desc":"A technical mod which introduces pressurized air, and adds Elevators, Pressure Chambers, Air Cannons, Pneumatic Armor, and much more.",
+"author":["MineMaarten"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -14047,6 +14057,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Thaumcraft 4",
+"link":"http://bit.ly/1bNyb3j",
+"desc":"Adds Thaumaturgy, the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
+"author":["Azanor"],
+"type":["Universal"],
+"dependencies":["Forge Required","Baubles"],
+"versions":["1.7.2"]
 
 },{
 
