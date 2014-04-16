@@ -1,6 +1,7 @@
 (April/16/2014)
 	+Added "Applied Energistics 2"
 	+Added "ExtraCells 2"
+	+Added "MineChess"
 	+Added "PneumaticCraft"
 	+Added "Thaumcraft 4"
 
