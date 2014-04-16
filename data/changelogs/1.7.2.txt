@@ -1,8 +1,9 @@
 (April/16/2014)
+	+Added 2 mods by MineMaarten (Which are the following)
+		+Added "MineChess"
+		+Added "PneumaticCraft"
 	+Added "Applied Energistics 2"
 	+Added "ExtraCells 2"
-	+Added "MineChess"
-	+Added "PneumaticCraft"
 	+Added "Thaumcraft 4"
 
 (April/14/2014)
