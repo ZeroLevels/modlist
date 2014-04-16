@@ -1,5 +1,6 @@
 (April/16/2014)
 	*Updated "ExtraCells" info: Added source
+	*Updated "Equivalent Exchange 3" description
 
 (April/13/2014)
 	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated Source
