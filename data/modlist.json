@@ -5281,6 +5281,7 @@
 "link":"http://bit.ly/14afxzO",
 "desc":"Adds new standard storage blocks and special storage blocks.",
 "author":["Leonelf"],
+"source":"https://github.com/M3gaFr3ak/ExtraCells",
 "type":["Universal"],
 "dependencies":["Forge Required","Applied Energistics"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
