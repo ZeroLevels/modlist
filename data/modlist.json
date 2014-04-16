@@ -541,6 +541,17 @@
 
 },{
 
+"name":"Applied Energistics 2",
+"other":"(Alpha)",
+"link":"http://bit.ly/1h40sSO",
+"desc":"Providing systems to store, process, and transport Energy. Supports ForgeMultipart and other automation mods. Incompatible with the original Applied Energistics mod.",
+"author":["AlgorithmX2"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Aquaculture",
 "link":"http://bit.ly/1cgXZmc",
 "desc":"An expansion of Minecraft's fishing system. You never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing.",
@@ -5273,6 +5284,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Applied Energistics"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"ExtraCells 2",
+"other":"(Alpha)",
+"link":"http://bit.ly/1ipKZ4t",
+"desc":"Adds new standard storage blocks and special storage blocks.",
+"author":["Leonelf"],
+"source":"https://github.com/M3gaFr3ak/ExtraCells2",
+"type":["Universal"],
+"dependencies":["Forge Required","Applied Energistics 2"],
+"versions":["1.7.2"]
 
 },{
 
