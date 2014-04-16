@@ -1,3 +1,6 @@
+(April/16/2014)
+	*Updated "PneumaticCraft" description and info: No longer WIP
+
 (April/14/2014)
 	+Added "Refined Relocation"
 
