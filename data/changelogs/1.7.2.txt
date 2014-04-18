@@ -1,3 +1,6 @@
+(April/18/2014)
+	-Removed "IngameInfo"
+
 (April/16/2014)
 	+Added 2 mods by MineMaarten (Which are the following)
 		+Added "MineChess"
