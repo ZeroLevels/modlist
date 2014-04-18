@@ -1,5 +1,5 @@
 (April/18/2014)
-	-Removed "IngameInfo"
+	-Removed "IngameInfo": Not on 1.7.2
 
 (April/16/2014)
 	+Added 2 mods by MineMaarten (Which are the following)
