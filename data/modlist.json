@@ -12686,19 +12686,7 @@
 "source":"https://github.com/AbrarSyed/SecretRoomsMod-forge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
-
-},{
-
-"name":"Secret Rooms Mod",
-"other":"(Beta)",
-"link":"http://bit.ly/1jHGvqe",
-"desc":"Adds a variety of cool blocks that camouflage themselves to the surrounding world. All of these blocks have extremely useful functions that allow you to simply hide your diamonds, or punish all who dare try to get to them. Hidden doors, pressure plates, hidden levers and more!",
-"author":["AbrarSyed"],
-"source":"https://github.com/AbrarSyed/SecretRoomsMod-forge",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 

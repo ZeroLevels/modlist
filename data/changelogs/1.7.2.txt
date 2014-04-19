@@ -1,3 +1,6 @@
+(April/19/2014)
+	*Updated "Secret Rooms Mod": No longer in Beta
+
 (April/18/2014)
 	-Removed "IngameInfo": Not on 1.7.2
 
