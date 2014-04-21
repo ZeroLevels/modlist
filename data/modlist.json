@@ -8584,9 +8584,21 @@
 "link":"http://bit.ly/ZfUxlk",
 "desc":"MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirping in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.",
 "author":["Hurricaaane"],
+"source":"https://github.com/Hurricaaane/MAtmos",
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"MAtmos",
+"link":"http://bit.ly/ZfUxlk",
+"desc":"MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirping in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.",
+"author":["Hurricaaane"],
+"source":"https://github.com/Hurricaaane/MAtmos",
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.6.4"]
 
 },{
 

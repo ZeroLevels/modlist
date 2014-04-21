@@ -1,3 +1,6 @@
+(April/21/2014)
+	*Updated "MAtmos" info: Added source
+
 (April/16/2014)
 	*Updated "ExtraCells" info: Added source
 	*Updated "PneumaticCraft" description and info: No longer WIP
@@ -5,7 +8,7 @@
 	+Added "JAMI"
 
 (April/13/2014)
-	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated Source
+	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated source
 	*Updated "Random Things" description and info: Added source
 
 (April/12/2014)

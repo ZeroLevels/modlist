@@ -1,10 +1,13 @@
+(April/21/2014)
+	*Updated "MAtmos" info: Added source
+
 (April/16/2014)
 	*Updated "ExtraCells" info: Added source
 	*Updated "Equivalent Exchange 3" description
 	*Updated "PneumaticCraft" description and info: No longer WIP
 
 (April/13/2014)
-	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated Source
+	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated source
 	*Updated "Random Things" description and info: Added source
 
 (April/12/2014)
@@ -19,8 +22,8 @@
 	*Updated "Pixelmon" info: No longer Open Source
 
 (April/05/2014)
-	*Updated "LittleBlocks" author, description and info: Now by VengeurK and SlimeVoid, Now Forge Required, Requires "SlimeVoid Library", Added Source
-	*Updated "Wireless Redstone" author and info: Now by Eurymachus and SlimeVoid, Requires "SlimeVoid Library", Added Source
+	*Updated "LittleBlocks" author, description and info: Now by VengeurK and SlimeVoid, Now Forge Required, Requires "SlimeVoid Library", Added source
+	*Updated "Wireless Redstone" author and info: Now by Eurymachus and SlimeVoid, Requires "SlimeVoid Library", Added source
 	+Added "Collaborative Mod"
 	+Added "SlimeVoid Library"
 
