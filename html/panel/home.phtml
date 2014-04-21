@@ -42,7 +42,7 @@
                 <?php foreach($this->missing as $uri => $log) { ?>
                 <span class="badge pull-right"><?=$log?></span>
                 <span class="sr-only">hits for</span>
-                <span class="truncate"><?=urldecode($uri)?></span>
+                <span class="truncate"><?=safehtml(urldecode($uri))?></span>
                 <?php } ?>
             </div>
         </div>
