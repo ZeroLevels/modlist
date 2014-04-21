@@ -180,6 +180,9 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
         if($version === '1.4.6_1.4.7.php' || $version === '1.4.6_1.4.7') {
             $response->redirect('/version/1.4.7', 301);
             return;
+        } else if($version === '1.5.0.php' || $version === '1.5.0') {
+            $response->redirect('/version/1.5', 301);
+            return;
         } else {
             return $notfound($request, $response, $service, $app);
         }
