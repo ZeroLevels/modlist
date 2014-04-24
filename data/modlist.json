@@ -8217,6 +8217,16 @@
 
 },{
 
+"name":"LittleHelpers",
+"link":"http://bit.ly/RNwpui",
+"desc":"Automates farming of crops like wheat, nether warts, and pumpkins. Includes automation from tree farming and animal breeding.",
+"author":["navybofus"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"littleMaidMob",
 "link":"http://bit.ly/Xee3zn",
 "desc":"Adds a (tameable) mob called the Little Maid, who can do a lot of stuff for you! The Maid can help you fight, cook meals, heal you, build and much more! If you forgot her salary, maid gets into strike, until you give her a cake.",
