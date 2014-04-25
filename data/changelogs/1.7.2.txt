@@ -1,3 +1,9 @@
+(April/25/2014)
+	+Added 3 mods by Ivorius (Which are the following)
+		+Added "Invincible Hamster"
+		+Added "Pandora's Box"
+		+Added "Ye Gamol Chattels"
+
 (April/24/2014)
 	+Added "LittleHelpers"
 
