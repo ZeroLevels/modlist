@@ -7484,6 +7484,16 @@
 
 },{
 
+"name":"Invincible Hamster",
+"link":"http://bit.ly/13b0vsE",
+"desc":"Lets hamsters spawn in your world. When you tame them with flowers, they become invincible hamsters, with a never ending hate for iron bars.",
+"author":["Ivorius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"iPod mod",
 "link":"http://bit.ly/11KeOoX",
 "desc":"",
@@ -11232,6 +11242,16 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Pandora's Box",
+"link":"http://bit.ly/13b0vsE",
+"desc":"Adds Pandora's box, an artifact containing all the evils of the world. The box is craftable and spawns in dungeons.",
+"author":["Ivorius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -16243,6 +16263,16 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"Ye Gamol Chattels",
+"link":"http://bit.ly/13b0vsE",
+"desc":"Adds middleage themed content such as banners, weapon racks, pedestals and more. Previously known as Middleage Mod.",
+"author":["Ivorius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
