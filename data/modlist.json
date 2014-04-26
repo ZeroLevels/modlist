@@ -12027,6 +12027,17 @@
 
 },{
 
+"name":"Railcraft",
+"other":"(Beta)",
+"link":"http://bit.ly/1leAWA8",
+"desc":"Features a fully fleshed out tech tree, with great effort gone into providing a balanced gameplay based around rails and their creation.",
+"author":["CovertJaguar"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Rainbow XP Mod",
 "link":"http://bit.ly/VFLnjG",
 "desc":"Changes the colours of the xp orbs into a randomized colour.",
