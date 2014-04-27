@@ -1,3 +1,7 @@
+(April/27/2014)
+	+Added "Animated Player Mod"
+	+Added "Minestrappolation"
+
 (April/26/2014)
 	+Added "Railcraft"
 
