@@ -1,3 +1,6 @@
+(April/28/2014)
+	*Updated "Random Things": No longer in Alpha
+
 (April/27/2014)
 	+Added "Animated Player Mod"
 	+Added "Minestrappolation"
