@@ -11038,7 +11038,7 @@
 "source":"https://github.com/EXTER7/OreDictionaryConverter",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.4.7","1.4.5"]
 
 },{
 
@@ -12075,19 +12075,7 @@
 "source":"https://github.com/lumien231/Random-Things",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
-
-},{
-
-"name":"Random Things",
-"other":"(Alpha)",
-"link":"http://bit.ly/18VZXc2",
-"desc":"Consists of random blocks and items which may interact with other mods, including fluid displays, block teleporters and more.",
-"author":["lumien"],
-"source":"https://github.com/lumien231/Random-Things",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
