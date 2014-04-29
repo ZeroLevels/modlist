@@ -1,5 +1,7 @@
 (April/29/2014)
-	+Added "SimpleEnderPouch"
+	+Added 2 mods by DemoXin (Which are the following)
+		+Added "MoreEnchants"
+		+Added "SimpleEnderPouch"
 
 (April/16/2014)
 	*Updated "ExtraCells" info: Added source

@@ -9705,6 +9705,28 @@
 
 },{
 
+"name":"MoreEnchants",
+"link":"http://bit.ly/1hN9NmU",
+"desc":"Features 24 new enchantments, including Poison Protection, Disjunction, Spellbane; as well as unique mechanics designed for interesting and dynamic interactions in survival and PvP.",
+"author":["DemoXin"],
+"source":"https://github.com/DemoXinMC/MoreEnchants",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
+"name":"MoreEnchants",
+"link":"http://bit.ly/1hN9NmU",
+"desc":"Features 24 new enchantments, including Poison Protection, Disjunction, Spellbane; as well as unique mechanics designed for interesting and dynamic interactions in survival and PvP. Introduces a Charm system, which boost player attack or defense and can be obtained as mob drops.",
+"author":["DemoXin"],
+"source":"https://github.com/DemoXinMC/MoreEnchants",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"More Explosives",
 "link":"http://bit.ly/VNTTtZ",
 "desc":"Adds many new types of ways to destroy your enemies, more often than not, involving explosions. Be careful you don't set anything off too close to home!",
