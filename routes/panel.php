@@ -781,10 +781,9 @@ $this->respond('GET', '/queue/complete', function ($request, $response, $service
  */
 
 $this->respond('GET', '/errors', function ($request, $response, $service, $app) {
-    $response->noCache();
-    $response->header('Content-Type', 'text/plain');
+    $service->layout('html/layouts/panel_error.phtml');
     
-    $response->body(file_get_contents('errors.php'));
+    $service->render('errors.php');
 });
 
 /*
