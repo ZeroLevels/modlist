@@ -1,3 +1,8 @@
+(April/29/2014)
+	+Added 2 mods by DemoXin (Which are the following)
+		+Added "MoreEnchants"
+		+Added "SimpleEnderPouch"
+
 (April/21/2014)
 	+Added "MAtmos"
 
