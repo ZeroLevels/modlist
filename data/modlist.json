@@ -2828,19 +2828,7 @@
 "source":"https://github.com/Chicken-Bones/CodeChickenLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
-
-},{
-
-"name":"CodeChickenCore",
-"other":"(Dependency) (Release Candidate)",
-"link":"http://bit.ly/cb-core",
-"desc":"Release Candidate - may contain bugs. This mod is required for Not Enough Items (NEI), Ender Storage, Translocator, and ChickenChunks.",
-"author":["chicken_bones"],
-"source":"https://github.com/Chicken-Bones/CodeChickenLib",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -10759,18 +10747,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
-
-},{
-
-"name":"Not Enough Items",
-"other":"(NEI) (Release Candidate)",
-"link":"http://bit.ly/UvpH6y",
-"desc":"Release Candidate - may contain bugs. NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.",
-"author":["chicken_bones"],
-"type":["Universal"],
-"dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
