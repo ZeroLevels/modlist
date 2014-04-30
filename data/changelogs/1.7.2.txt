@@ -1,4 +1,7 @@
 (April/30/2014)
+	*Updated 2 mods by chicken_bones (Which are the following)
+		*Updated "CodeChickenCore" description and info: No longer Release Candidate
+		*Updated "Not Enough Items" description and info: No longer Release Candidate
 	+Added "Millenaire"
 	+Added "SmoothBedrock"
 
