@@ -1,3 +1,7 @@
+(April/30/2014)
+	+Added "Millenaire"
+	+Added "SmoothBedrock"
+
 (April/29/2014)
 	+Added 2 mods by DemoXin (Which are the following)
 		+Added "MoreEnchants"

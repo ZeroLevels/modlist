@@ -8840,9 +8840,9 @@
 "link":"http://bit.ly/178r31b",
 "desc":"This mod aims to fill the emptyness of Minecraft worlds by adding NPC villages to it, with loose 11th-century Norman, Japanese and Mayan themes and additional cultures planned.Villages are populated with men, women and children of various kinds, who perform tasks such as trading with the player, expending current buildings or improving existing ones, cultivating crops such as wheat in Norman villages and rice in Indian ones, crafting tools and powerful amulets, etc. As the village expends, the number of villagers increases as couples have children who grow up into new adults.Help villages grow by trading with them and be rewarded with unique items such as Normand and Indian food or statues and tapestries to decorate your house with. And if they start liking you enough, they might even build you a house of your own.",
 "author":["Kinniken"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -13285,7 +13285,7 @@
 "source":"https://github.com/Samtrion/SmoothBedrock",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
