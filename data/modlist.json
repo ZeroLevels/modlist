@@ -10607,6 +10607,17 @@
 
 },{
 
+"name":"New Dawn",
+"link":"http://bit.ly/1fBznMQ",
+"desc":"Implements a new terrain engine with shores, mountains, improved structure placement, and more. Compatible with Extra Biomes XL and provides and API.",
+"author":["TwoThe"],
+"source":"https://github.com/twothe/newdawn",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Ninja Mod",
 "link":"http://bit.ly/UR7mDM",
 "desc":"Adds ninja-themed items, such as poisoned daggers and shurikens.",
