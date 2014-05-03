@@ -1,5 +1,6 @@
 (May/03/2014)
 	*Updated "Forestry": Added source
+	+Added "JewelryCraft"
 
 (May/01/2014)
 	+Added "New Dawn"

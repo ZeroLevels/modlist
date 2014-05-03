@@ -1,5 +1,6 @@
 (May/03/2014)
 	+Added "Enchanting Plus"
+	+Added "JewelryCraft"
 
 (April/30/2014)
 	*Updated 2 mods by chicken_bones (Which are the following)
