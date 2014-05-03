@@ -7671,6 +7671,17 @@
 
 },{
 
+"name":"JewelryCraft",
+"link":"http://bit.ly/1hmTMjO",
+"desc":"Allows the creation of jewelery, which can be customized to apply buffs and debuffs to its wearer. A submission for ModJam 3.",
+"author":["sor1n","bspkrs"],
+"source":"https://github.com/sor1n/Modjam-Mod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"John: Revived",
 "link":"http://bit.ly/mc-johnmod",
 "desc":"Adds a few mobs called John to the game, which are meant to be spooky/scary.",
