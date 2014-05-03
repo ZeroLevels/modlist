@@ -1,3 +1,6 @@
+(May/03/2014)
+	*Updated "Forestry": Added source
+
 (May/01/2014)
 	+Added "New Dawn"
 
@@ -23,7 +26,7 @@
 	+Added "Refined Relocation"
 
 (April/13/2014)
-	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated Source
+	*Updated "BetterStorage" author, description and info: Now by copygirl, Updated source
 	*Updated "Random Things" description and info: Added source
 	+Added "Hardcore Questing Mode"
 
@@ -42,7 +45,7 @@
 	*Updated "Pixelmon" info: No longer Open Source
 
 (April/05/2014)
-	*Updated "LittleBlocks" author, description and info: Now by VengeurK and SlimeVoid, Now Forge Required, Requires "SlimeVoid Library", Added Source
+	*Updated "LittleBlocks" author, description and info: Now by VengeurK and SlimeVoid, Now Forge Required, Requires "SlimeVoid Library", Added source
 	+Added 4 mods by Eurymachus and SlimeVoid (Which are the following)
 		+Added "Collaborative Mod"
 		+Added "SlimeVoid Library"

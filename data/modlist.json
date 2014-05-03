@@ -5910,6 +5910,7 @@
 "link":"http://bit.ly/Sk5Snp",
 "desc":"Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.",
 "author":["SirSengir"],
+"source":"https://github.com/ForestryMC/ForestryMC",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
