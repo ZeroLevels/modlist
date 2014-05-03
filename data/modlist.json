@@ -1586,6 +1586,17 @@
 
 },{
 
+"name":"Better World Generation 4",
+"other":"(Development)",
+"link":"http://bit.ly/WmtfYF",
+"desc":"May contain bugs. Adds many world generation options regarding previous versions of Minecraft as well as making Vanilla ones much more customizable.",
+"author":["ted80"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"B.F.Mod",
 "link":"http://bit.ly/ZCaZip",
 "desc":"Adds many new features, such as a dimension known as The Abyss, 40 new ores in total, 5 new alloys, 188 new sets of tools and armor, 3 new types of furnace, 7 foods, and 3 new fuel sources.",
