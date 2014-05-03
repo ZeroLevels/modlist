@@ -1,3 +1,6 @@
+(May/03/2014)
+	+Added "Enchanting Plus"
+
 (April/30/2014)
 	*Updated 2 mods by chicken_bones (Which are the following)
 		*Updated "CodeChickenCore" description and info: No longer Release Candidate
