@@ -1,5 +1,5 @@
 (May/04/2014)
-	*Updated mods by AtomicStryker (Which are the following)
+	*Updated 12 mods by AtomicStryker (Which are the following)
 		*Updated "BattleTowers"
 		*Updated "Dynamic Lights"
 		*Updated "Infernal Mobs"

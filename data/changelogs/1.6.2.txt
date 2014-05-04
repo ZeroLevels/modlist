@@ -1,5 +1,5 @@
 (May/04/2014)
-	*Updated mods by AtomicStryker (Which are the following)
+	*Updated 14 mods by AtomicStryker (Which are the following)
 		*Updated "Advanced Machines" link
 		*Updated "BattleTowers"
 		*Updated "Dynamic Lights"
