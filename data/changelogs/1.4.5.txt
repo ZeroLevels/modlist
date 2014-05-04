@@ -1,3 +1,7 @@
+(May/04/2014)
+	*Updated mods by AtomicStryker (Which are the following)
+		*Updated "Advanced Machines" link
+
 (May/03/2014)
 	*Updated "Forestry": Added source
 

@@ -1,3 +1,7 @@
+(May/04/2014)
+	*Updated mods by AtomicStryker (Which are the following)
+		*Updated "BattleTowers"
+
 (March/15/2014)
 	*Updated "Aliens Vs Predator" description
 

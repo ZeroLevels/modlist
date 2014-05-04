@@ -1,3 +1,18 @@
+(May/04/2014)
+	*Updated mods by AtomicStryker (Which are the following)
+		*Updated "BattleTowers"
+		*Updated "Dynamic Lights"
+		*Updated "Infernal Mobs"
+		*Updated "KenshiroMod"
+		*Updated "Magic Yarn"
+		*Updated "Minions"
+		*Updated "Multi Mine"
+		*Updated "Pet Bat"
+		*Updated "Ropes+"
+		*Updated "Ruins"
+		*Updated "Simply Hax"
+		*Updated "Stalker Creepers"
+
 (May/03/2014)
 	*Updated "Forestry": Added source
 
