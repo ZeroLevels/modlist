@@ -104,7 +104,7 @@
 },{
 
 "name":"Advanced Machines",
-"link":"http://bit.ly/xmvYp1",
+"link":"http://bit.ly/Q2X18L",
 "desc":"Adds advanced versions of some IC2 machines, such as the Singularity Compressor, Centrifuge Extractor, and Rotary Macerator.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FAdvancedMachines",
@@ -1197,7 +1197,7 @@
 },{
 
 "name":"BattleTowers",
-"link":"http://bit.ly/as-battletowers",
+"link":"http://bit.ly/Q2XoA9",
 "desc":"Adds towers that spawn throughout your world for you to ascend and gain treasure from, each floor containing mobs and loot with a boss at the very top.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FBattleTowers",
@@ -4415,7 +4415,7 @@
 },{
 
 "name":"Dynamic Lights",
-"link":"http://bit.ly/as-dynamiclights",
+"link":"http://bit.ly/Q2XRm0",
 "desc":"This modification makes 'shining' items (default: Torch, Glowstone, Glowdust, Lit Pumpkin, Redstone, Lava Bucket, powered Minecart) illuminate everything around them if:the player has them equipped (in hand/armor)they are dropped on the groundanother player has them equipped in MultiplayerOn top of that, burning Entities shine light, and Creepers about to explode light up!",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights",
@@ -5653,7 +5653,7 @@
 },{
 
 "name":"Finder Compass",
-"link":"http://bit.ly/ZhnTRT",
+"link":"http://bit.ly/1lO0T9W",
 "desc":"Makes your compass point to dungeons, strongholds, and diamonds if within a certain range of them.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FFinderCompass",
@@ -7287,7 +7287,7 @@
 },{
 
 "name":"Infernal Mobs",
-"link":"http://bit.ly/as-infernalmobs",
+"link":"http://bit.ly/1lO1h8F",
 "desc":"This mod randomly imbues spawning Mobs in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill. They also drop the quadruple amount of xp and a random enchanted item.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FInfernalMobs",
@@ -7839,7 +7839,7 @@
 },{
 
 "name":"KenshiroMod",
-"link":"http://bit.ly/as-kenshiro",
+"link":"http://bit.ly/1lO1kRM",
 "desc":"Unleashing rage only possible with bare chest and empty hands. Drains a lot of stamina / hunger. For real men only.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FKenshiroMod",
@@ -8548,7 +8548,7 @@
 },{
 
 "name":"Magic Yarn",
-"link":"http://bit.ly/XlFeu1",
+"link":"http://bit.ly/Q2Yuf9",
 "desc":"Introduces a new Item to Minecraft; the Ball of Magic Yarn. It is crafted by surrounding a Compass with Wool (any kind).The item serves as pathfinding tool and to keep track of your movements. In other words, you should never again get lost exploring the Nether or some complex cave system, and without leaving a ridiculous amount of Torches to mark your trail.NOTE:In Multiplayer, you can't craft this Item. You use a button instead, by default J. Button can be customized in auto-created file under mods/MagicYarn.txt",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FMagicYarn",
@@ -9252,7 +9252,7 @@
 },{
 
 "name":"Minions",
-"link":"http://bit.ly/as-minions",
+"link":"http://bit.ly/1i8DAqb",
 "desc":"Allows you to summon minions that can (currently):follow you aroundbe sent to placeschop down most any kind of trees, including Jungle giantscarry you, animals and other playerspickup and carry Items in their inventorydig mineshafts complete with stairwelldig out a custom sized space you definemine ore veins you point out to themintelligently strip mine where you tell them toreturn their goods and loot to youor to a chest you pointed out",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FMinions",
@@ -10262,7 +10262,7 @@
 },{
 
 "name":"Multi Mine",
-"link":"http://bit.ly/as-multimine",
+"link":"http://bit.ly/1mrmPGB",
 "desc":"Makes it so you don't have to point nonstop on a Block, never letting go of the mouse button, to finish it off. You can start mining, pause, walk away, mine another block, come back and finish off the one you started previously.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FMultiMine",
@@ -10507,7 +10507,7 @@
 },{
 
 "name":"Necromancy",
-"link":"http://bit.ly/1cRN8QL",
+"link":"http://bit.ly/1i8DQ8Q",
 "desc":"This, in a nutshell, allows you to play god. You take bodyparts from slain foes, stitch them together as you see fit, and reanimate the horrifying resulting.",
 "author":["AtomicStryker"],
 "type":["Universal"],
@@ -11381,7 +11381,7 @@
 },{
 
 "name":"Pet Bat",
-"link":"http://bit.ly/as-petbats",
+"link":"http://bit.ly/1mrn844",
 "desc":"Lets you tame and level-up bats, which will fight for you.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FPetBat",
@@ -12560,7 +12560,7 @@
 },{
 
 "name":"Ropes+",
-"link":"http://bit.ly/as-ropesplus",
+"link":"http://bit.ly/1i8EaV8",
 "desc":"A merged and enhanced version of 303's Elemental Arrows, SDK's Grappling Hook, and DJRoslin's Rope.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FRopePlus",
@@ -12641,7 +12641,7 @@
 },{
 
 "name":"Ruins",
-"link":"http://bit.ly/as-ruins",
+"link":"http://bit.ly/1i8ElQ4",
 "desc":"Spawns structures in your Minecraft worlds upon generation, similar to Villages or Strongholds. Every structure is defines by a template and configured to spawn under specific conditions, and all of that can be changed by you!",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FRuins",
@@ -13030,7 +13030,7 @@
 },{
 
 "name":"Simply Hax",
-"link":"http://bit.ly/as-simplyhax",
+"link":"http://bit.ly/1mrnyHJ",
 "desc":"Simply Hax are plain cheating/utility modifications, which, unlike pretty much all other cheat mods, should not interfere with notch classes. Thus, they should be compatible with anything that isn't another cheat mod doing the same thing.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FSimplyHax",
@@ -13620,7 +13620,7 @@
 },{
 
 "name":"Stalker Creepers",
-"link":"http://bit.ly/as-stalkercreepers",
+"link":"http://bit.ly/1i8EFhM",
 "desc":"Makes creepers stalk you, blowing up only when you look.",
 "author":["AtomicStryker"],
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FStalkerCreepers",
