@@ -1,3 +1,6 @@
+(May/05/2014)
+	+Added "Backpacks (Eydamos)"
+
 (May/04/2014)
 	*Updated 14 mods by AtomicStryker (Which are the following)
 		*Updated "BattleTowers" link
