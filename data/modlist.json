@@ -9403,6 +9403,16 @@
 
 },{
 
+"name":"MobTalker2",
+"link":"http://bit.ly/1iOyVvi",
+"desc":"Allows users to create visual novel styled adventure games in Minecraft, using a newly developed scripting language called MobTalkerScript.",
+"author":["Chimaine", "xs2007"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Mob Tools",
 "link":"http://bit.ly/12f24Vx",
 "desc":"Based around the idea of creating uses for mob drops. It adds many tools and armor and a few special items such as the omnitool and 4 magical wands.",
