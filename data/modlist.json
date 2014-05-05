@@ -1094,6 +1094,17 @@
 
 },{
 
+"name":"Backpacks (Eydamos)",
+"other":"(Pre-release)",
+"link":"http://bit.ly/WmsjDo",
+"desc":"Adds dyable backpacks to the game for storing extra items. Backpack size is configurable.",
+"author":["Eydamos"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Back Tools",
 "link":"http://bit.ly/Y2JOcJ",
 "desc":"Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.",
