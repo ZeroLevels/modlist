@@ -5,6 +5,8 @@
 		*Updated "Ender Book" info and link: Now "Forge Required"
 	+Added "Crafting Pillar"
 	+Added "Ender Book"
+	+Added "OpenCCSensors"
+	+Added "OpenEye"
 
 (May/05/2014)
 	+Added "MobTalker2"
