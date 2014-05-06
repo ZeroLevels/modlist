@@ -1,5 +1,5 @@
 (May/06/2014)
-	*Updated 6 mods by Duke605
+	*Updated 6 mods by Duke605 (Which are the following)
 		*Updated "Boost" link and description
 		*Updated "Ender Book" link
 		*Updated "Fishing Nets" link and description
