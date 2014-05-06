@@ -583,8 +583,8 @@
 },{
 
 "name":"Arcane Scrolls",
-"link":"http://bit.ly/1dRRveO",
-"desc":"Adds Scrolls that give you different abilities. Such as teleporting, or potion effects.",
+"link":"http://bit.ly/1rvcZ9C",
+"desc":"Adds scrolls that give you different abilities, such as teleporting or potion effects.",
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","DukeCore"],
@@ -1152,6 +1152,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"BaM's Grave",
+"link":"http://bit.ly/1imXj76",
+"desc":"Currently maintained by MrIbby.  Instead of dropping your inventory on death, a grave will be dug in which lies a buried chest with your inventory and experience. The grave will be inscribed with your name and time of death. This helps to keep your things from getting lost or despawning.",
+"author":["MrIbby","DerBaM"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -1907,8 +1917,8 @@
 },{
 
 "name":"Boost",
-"link":"http://bit.ly/1hcp69w",
-"desc":"Part of Duke605's Micro Series. Adds boots to your game which increase your speed. The boosts can be upgraded to give you more speed as well as better protection.",
+"link":"http://bit.ly/1leyTMy",
+"desc":"Part of Duke605's Micro Series. Adds boots which increase your speed.  The boosts can be upgraded to give you more speed as well as better protection.",
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
@@ -3435,6 +3445,16 @@
 
 },{
 
+"name":"Crafting Pillar",
+"link":"http://bit.ly/1imZLKP",
+"desc":"Adds blocks to make certain basic tasks in-game more aesthetically pleasing, such as crafting, smelting, or simply displaying blocks or items.",
+"author":["Dawars"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"CraftMore",
 "link":"http://bit.ly/18W0St9",
 "desc":"CraftMore is 3 separate mods, which are CraftMore, CraftMoreBuildings, and CraftMoreTools. CMBuildings adds many blocks for the sake of building such as stairs, fences, walls, doors, pressure plates and X-Ray Glass. CraftMoreTools adds a new metal called Adamantium which is indestructible.",
@@ -4763,22 +4783,22 @@
 },{
 
 "name":"Ender Book",
-"link":"http://bit.ly/1cw88MN",
-"desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
-"author":["duke605"],
-"type":["Universal"],
-"dependencies":["Forge Required","DukeCore"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Ender Book",
-"link":"http://bit.ly/1cw88MN",
+"link":"http://bit.ly/1rvdl05",
 "desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
 "author":["duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Ender Book",
+"link":"http://bit.ly/1rvdl05",
+"desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
+"author":["duke605"],
+"type":["Universal"],
+"dependencies":["Forge Required","KingCore"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -5705,8 +5725,8 @@
 },{
 
 "name":"Fishing Nets",
-"link":"http://bit.ly/1hcoRv9",
-"desc":"Part of Duke605's Micro Series. Adds a fishing net to the game that fishing for you.",
+"link":"http://bit.ly/1rvcwnS",
+"desc":"Part of Duke605's Micro Series. Adds a fishing net to the game that fishes for you.",
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
@@ -7394,8 +7414,8 @@
 
 "name":"Ingame Mod List 4",
 "other":"(IGML4)",
-"link":"http://bit.ly/1hcpIfs",
-"desc":"Provides an in-game interface for the modlist.",
+"link":"http://bit.ly/1leAbXK",
+"desc":"Provides an in-game interface for the MCF Modlist.",
 "author":["Duke605"],
 "source":"https://github.com/duke605/IGML4",
 "type":["Client"],
@@ -7872,7 +7892,7 @@
 
 "name":"KingCore",
 "other":"(Dependency)",
-"link":"http://bit.ly/1hcsotC",
+"link":"http://bit.ly/1rvd3WR",
 "desc":"Required to run any of Duke605's mods. Previously known as DukeCore.",
 "author":["Duke605"],
 "type":["Universal"],
@@ -8628,8 +8648,8 @@
 "author":["Hurricaaane"],
 "source":"https://github.com/Hurricaaane/MAtmos",
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.6.4"]
 
 },{
 
@@ -8639,8 +8659,8 @@
 "author":["Hurricaaane"],
 "source":"https://github.com/Hurricaaane/MAtmos",
 "type":["Client"],
-"dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.6.4"]
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -9417,7 +9437,7 @@
 "name":"MobTalker2",
 "link":"http://bit.ly/1iOyVvi",
 "desc":"Allows users to create visual novel styled adventure games in Minecraft, using a newly developed scripting language called MobTalkerScript.",
-"author":["Chimaine", "xs2007"],
+"author":["Chimaine","xs2007"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
@@ -9581,6 +9601,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Mo' Furnaces",
+"link":"http://bit.ly/1htXOaa",
+"desc":"Adds faster furnace variants made from more expensive materials such as iron, gold, diamond, etc..",
+"author":["Mattkx4"],
+"source":"https://github.com/Mattkx4/MoreFurnaces",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -10641,16 +10672,6 @@
 
 },{
 
-"name":"Nexion",
-"link":"http://bit.ly/16Q1Be1",
-"desc":"Adds new tools, dimensions, mods and much more.",
-"author":["Naiakoa"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
 "name":"New Dawn",
 "link":"http://bit.ly/1fBznMQ",
 "desc":"Implements a new terrain engine with shores, mountains, improved structure placement, and more. Compatible with Extra Biomes XL and provides and API.",
@@ -10659,6 +10680,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Nexion",
+"link":"http://bit.ly/16Q1Be1",
+"desc":"Adds new tools, dimensions, mods and much more.",
+"author":["Naiakoa"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -11291,21 +11322,21 @@
 
 "name":"Pandora's Box",
 "link":"http://bit.ly/13b0vsE",
-"desc":"Adds a new Item, the Pandora's box. It is now craftable, and spawns in dungeons, or you can just cheat it in if you want some... interesting times.",
-"author":["Ivorius"],
-"type":["SSP"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.5.2"]
-
-},{
-
-"name":"Pandora's Box",
-"link":"http://bit.ly/13b0vsE",
 "desc":"Adds Pandora's box, an artifact containing all the evils of the world. The box is craftable and spawns in dungeons.",
 "author":["Ivorius"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Pandora's Box",
+"link":"http://bit.ly/13b0vsE",
+"desc":"Adds a new Item, the Pandora's box. It is now craftable, and spawns in dungeons, or you can just cheat it in if you want some... interesting times.",
+"author":["Ivorius"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.5.2"]
 
 },{
 
@@ -14998,8 +15029,8 @@
 },{
 
 "name":"Tool Heads",
-"link":"http://bit.ly/1hcrLjx",
-"desc":"Part of Duke605's Micro Series. Adds reusable tool heads that can pop off tools when broken.",
+"link":"http://bit.ly/1lezoX2",
+"desc":"Part of Duke605's Micro Series. Adds reusable tool heads that can pop off of tools when broken.",
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
