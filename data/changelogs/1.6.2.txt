@@ -1,3 +1,7 @@
+(May/06/2014)
+	*Updated "Arcane Scrolls" link and desc
+	+Added "Crafting Pillar"
+
 (May/05/2014)
 	+Added "MobTalker2"
 

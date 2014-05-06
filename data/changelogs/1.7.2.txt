@@ -1,3 +1,15 @@
+(May/06/2014)
+	*Updated "Boost" link and desc
+	*Updated "Ender Book" link
+	*Updated "Fishing Nets" link and desc
+	*Updated "Ingame Mod List 4" link and desc
+	*Updated "KingCore" link
+	*Updated "Tool Heads" link and desc
+	+Added "BaM's Grave"
+	+Added "Crafting Pillar"
+	+Added "Ender Book"
+	+Added "Mo' Furnaces"
+
 (May/05/2014)
 	+Added "Backpacks (Eydamos)"
 

@@ -1,3 +1,9 @@
+(May/06/2014)
+	*Updated "Arcane Scrolls" link and desc
+	*Updated "Ender Book" info and link: Now "Forge Required"
+	+Added "Crafting Pillar"
+	+Added "Ender Book"
+
 (May/05/2014)
 	+Added "MobTalker2"
 
