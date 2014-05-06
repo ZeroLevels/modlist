@@ -11037,9 +11037,10 @@
 "link":"http://bit.ly/WpGBEI",
 "desc":"An open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them.",
 "author":["Mikeemoo"],
+"source":"https://github.com/Cloudhunter/OpenCCSensors",
 "type":["Universal"],
 "dependencies":["Forge Required","ComputerCraft"],
-"versions":["1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -11054,10 +11055,23 @@
 
 },{
 
+"name":"OpenEye",
+"other":"(Beta)",
+"link":"http://bit.ly/WpGBEI",
+"desc":"Collects anonymized mod usage data and crash reports, and delivers notifications from mod authors to users.",
+"author":["Mikeemoo"],
+"source":"https://github.com/OpenMods/OpenData",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"OpenPeripheral",
 "link":"http://bit.ly/17cdajX",
 "desc":"Adds the ability to turn most blocks in the game into ComputerCraft peripherals, so you can just drop a computer next to a block and instantly have access to start calling lua functions on it. Also adds \"Terminal Glasses\". Think \"Google Glasses\", but for minecraft. If you know what you're doing, can be used for such things as telling you when you have a new tweet from twitter!",
-"author":["mikeemoo"],
+"author":["Mikeemoo"],
+"source":"https://github.com/OpenMods/OpenPeripheral",
 "type":["Universal"],
 "dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.5.2"]

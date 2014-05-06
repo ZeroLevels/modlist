@@ -10,6 +10,7 @@
 	+Added "Crafting Pillar"
 	+Added "Ender Book"
 	+Added "Mo' Furnaces"
+	+Added "OpenEye"
 
 (May/05/2014)
 	+Added "Backpacks (Eydamos)"
