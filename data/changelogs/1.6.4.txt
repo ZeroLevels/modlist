@@ -1,6 +1,8 @@
 (May/06/2014)
-	*Updated "Arcane Scrolls" link and desc
-	*Updated "Ender Book" info and link: Now "Forge Required"
+	*Updated 3 mods by Duke605
+		*Updated "Arcane Scrolls" link, description and info: Requires "KingCore"
+		*Updated "DukeCore" name: Now "KingCore"
+		*Updated "Ender Book" info and link: Now "Forge Required"
 	+Added "Crafting Pillar"
 	+Added "Ender Book"
 

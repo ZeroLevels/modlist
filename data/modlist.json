@@ -587,7 +587,7 @@
 "desc":"Adds scrolls that give you different abilities, such as teleporting or potion effects.",
 "author":["Duke605"],
 "type":["Universal"],
-"dependencies":["Forge Required","DukeCore"],
+"dependencies":["Forge Required","KingCore"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
@@ -4373,17 +4373,6 @@
 
 },{
 
-"name":"DukeCore",
-"other":"(Dependency)",
-"link":"http://bit.ly/1i5GbmG",
-"desc":"Required to run any of Duke605's mods.",
-"author":["Duke605"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
-
-},{
-
 "name":"Dungeon Crawler",
 "link":"http://bit.ly/VuOduI",
 "desc":"Ever wanted to be that one guy that survives by using paper clips? Well fret no more! This mod may not include paper clips, but it does include just about everything you need to survive in a world without the comfort of having a home.",
@@ -4792,16 +4781,6 @@
 
 },{
 
-"name":"Ender Book",
-"link":"http://bit.ly/1rvdl05",
-"desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
-"author":["duke605"],
-"type":["Universal"],
-"dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
 "name":"Endergun Mod",
 "link":"http://bit.ly/13GuGJ1",
 "desc":"Mobs teleport anywhere from 1 block to 100 blocks away after being shot by the gun.",
@@ -5116,7 +5095,7 @@
 "desc":"Allows you to buy and sell items with everyone else who has the mod.",
 "author":["Duke605"],
 "type":["SSP"],
-"dependencies":["Forge Required","DukeCore"],
+"dependencies":["Forge Required","KingCore"],
 "versions":["1.6.1","1.5.2"]
 
 },{
@@ -7897,7 +7876,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 

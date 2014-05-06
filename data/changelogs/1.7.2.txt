@@ -1,10 +1,11 @@
 (May/06/2014)
-	*Updated "Boost" link and desc
-	*Updated "Ender Book" link
-	*Updated "Fishing Nets" link and desc
-	*Updated "Ingame Mod List 4" link and desc
-	*Updated "KingCore" link
-	*Updated "Tool Heads" link and desc
+	*Updated 6 mods by Duke605
+		*Updated "Boost" link and description
+		*Updated "Ender Book" link
+		*Updated "Fishing Nets" link and description
+		*Updated "Ingame Mod List 4" link and description
+		*Updated "KingCore" link
+		*Updated "Tool Heads" link and description
 	+Added "BaM's Grave"
 	+Added "Crafting Pillar"
 	+Added "Ender Book"

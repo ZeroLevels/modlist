@@ -1,5 +1,8 @@
 (May/06/2014)
-	*Updated "Arcane Scrolls" link and desc
+	*Updated 3 mods by Duke605
+		*Updated "Arcane Scrolls" link, description and info: Requires "KingCore"
+		*Updated "DukeCore" name: Now "KingCore"
+		*Updated "ExchangeCraft" info: Requires "KingCore"
 
 (April/29/2014)
 	+Added 2 mods by DemoXin (Which are the following)
