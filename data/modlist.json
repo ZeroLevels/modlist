@@ -4455,6 +4455,17 @@
 
 },{
 
+"name":"DynIMC",
+"link":"http://bit.ly/1hx4t3u",
+"desc":"Sends Inter Mod Communication (IMC) messages to other mods by reading a configuration file. IMC is a feature of the Forge Mod Loader that allows mods to send messages to each other.",
+"author":["Lunatrius"],
+"source":"https://github.com/Lunatrius/DynIMC/",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Dynmap",
 "link":"http://bit.ly/VNNyib",
 "desc":"Real-time Minecraft maps: Dynmap provides an in-browser map, like Google Maps, of your Minecraft world. It updates the map in realtime while you have your browser opened and shows the current players, regions and in-game messages on top of the map. It also allows viewers of the map to chat from within their browser with players in-game.",

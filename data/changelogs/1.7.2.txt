@@ -1,3 +1,6 @@
+(May/07/2014)
+	+Added "DynIMC"
+
 (May/06/2014)
 	*Updated 6 mods by Duke605 (Which are the following)
 		*Updated "Boost" link and description
