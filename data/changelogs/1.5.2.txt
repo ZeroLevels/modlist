@@ -1,3 +1,6 @@
+(May/09/2014)
+	+Added "Compact Display HUD"
+
 (May/06/2014)
 	*Updated 2 mods by Duke605 (Which are the following)
 		*Updated "Arcane Scrolls" link, description and info: Requires "KingCore"

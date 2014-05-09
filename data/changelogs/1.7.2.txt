@@ -1,3 +1,9 @@
+(May/09/2014)
+	+Added "Advanced Machines"
+	+Added "Arcane Scrolls"
+	+Added "Compact Display HUD"
+	+Added "LittleFix"
+
 (May/07/2014)
 	+Added "DynIMC"
 

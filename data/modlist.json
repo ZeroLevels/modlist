@@ -10,6 +10,16 @@
 
 },{
 
+"name":"4-Space",
+"link":"http://bit.ly/1fPfdzn",
+"desc":"Adds many missing planets to Galacticraft.",
+"author":["Mattparks","Decaxon"],
+"type":["Universal"],
+"dependencies":["Forge Required","Galacticraft"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Additional Buildcraft Objects",
 "link":"http://bit.ly/13infK7",
 "desc":"Provides some additional pipes and objects for buildcraft.",
@@ -110,7 +120,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FAdvancedMachines",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -588,7 +598,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -3053,6 +3063,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"Compact Display HUD",
+"link":"http://bit.ly/Rm87XP",
+"desc":"Based on the style of TukMC with mods like Ars Magica and Damage Indicators in mind.",
+"author":["maxpowa"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -6025,6 +6045,17 @@
 
 },{
 
+"name":"Foundry",
+"link":"http://bit.ly/1fPhmuO",
+"desc":"Adds a means of more efficiently using your metals by allowing you to melt them down into liquids and casting them into the tools you want.  integrates with such mods as Buildcraft, IC2, Forestry, Railcraft, etc..",
+"author":["EXTER6"],
+"source":"https://github.com/EXTER7/Foundry",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"FPS++",
 "link":"http://bit.ly/117Lrwm",
 "desc":"Increases your FPS by messing with minecraft's Cos and Sin functions. It shrinks the lookup table down to a more reasonable size.",
@@ -8256,6 +8287,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","SlimeVoid Library"],
 "versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
+"name":"LittleFix",
+"link":"http://bit.ly/RnHSja",
+"desc":"Patches the texture-flip bug in the 1.7.2 release of Minecraft.  Tested and working with MCPatcher (though not required).",
+"author":["zlainsama"],
+"source":"https://github.com/zlainsama/LittleFix",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 

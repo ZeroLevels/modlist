@@ -1,3 +1,8 @@
+(May/09/2014)
+	+Added "4-Space"
+	+Added "Compact Display HUD"
+	+Added "Foundry"
+
 (May/06/2014)
 	*Updated 3 mods by Duke605 (Which are the following)
 		*Updated "Arcane Scrolls" link, description and info: Requires "KingCore"
