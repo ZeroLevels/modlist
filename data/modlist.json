@@ -16091,6 +16091,17 @@
 
 },{
 
+"name":"WikiTool",
+"other":"(Alpha)",
+"link":"http://bit.ly/1nyAqgO",
+"desc":"Displays wiki text for nearly everything ingame, including support for other mods.",
+"author":["maxpowa"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"WiNeTel's BetterWorld Mods",
 "link":"http://bit.ly/WDdY62",
 "desc":"",
