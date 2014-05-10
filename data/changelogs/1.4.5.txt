@@ -1,3 +1,6 @@
+(May/09/2014)
+	-Removed "Advanced Machines": Download no longer available
+
 (May/04/2014)
 	*Updated "Advanced Machines" link
 
