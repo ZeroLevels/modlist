@@ -1,3 +1,6 @@
+(May/10/2014)
+	+Added "WikiTool"
+
 (May/09/2014)
 	+Added "Advanced Machines"
 	+Added "Arcane Scrolls"
