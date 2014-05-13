@@ -7150,6 +7150,16 @@
 
 },{
 
+"name":"HybridCraft: Refused",
+"link":"http://bit.ly/WdXKBQ",
+"desc":"Adds hybrid ores and tools to the game with a combination of materials. Previously known as HybridCraft.",
+"author":["Geforce132"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Hyper Fire",
 "link":"http://bit.ly/15hAqJc",
 "desc":"Modifies fire spread speed. Edits base classes.",
