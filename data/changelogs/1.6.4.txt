@@ -1,3 +1,6 @@
+(May/13/2014)
+	+Added "HybridCraft: Refused"
+
 (May/09/2014)
 	+Added "4-Space"
 	+Added "Compact Display HUD"

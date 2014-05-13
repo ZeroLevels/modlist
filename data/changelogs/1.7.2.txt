@@ -1,3 +1,7 @@
+(May/13/2014)
+	+Added "Hardcore Questing Mode"
+	+Added "HybridCraft: Refused"
+
 (May/10/2014)
 	+Added "WikiTool"
 
