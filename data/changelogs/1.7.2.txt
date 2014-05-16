@@ -1,3 +1,6 @@
+(May/16/2014)
+	+Added "Furniture Mod"
+
 (May/13/2014)
 	+Added "Hardcore Questing Mode"
 	+Added "HybridCraft: Refused"
