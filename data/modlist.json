@@ -109,7 +109,7 @@
 "source":"https://github.com/maxpowa/AdvancedHUD",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -3912,6 +3912,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Darwin",
+"link":"http://bit.ly/QDoq1q",
+"desc":"Adds a modular mob with chromosomes and genes that define its color, skin, shape, and behaviour.  There are billions of possible combinations.",
+"author":["Manchou"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.4.7"]
 
 },{
 
@@ -8485,7 +8495,7 @@
 "author":["Lycanite"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -8652,6 +8662,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Manual Pickup",
+"link":"http://bit.ly/1nTt0Ho",
+"desc":"Allows you to control what you pick up from the ground, while also letting you switch back to regular behavior at any time.",
+"author":["Chronothan"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -10612,6 +10632,17 @@
 
 },{
 
+"name":"Natura",
+"link":"http://bit.ly/1nTud1F",
+"desc":"A mod that aims to spice up the world with interesting worldgen. With a few small additions, hunger no longer has to be about hunting animals early game. The mod is mostly intuitive; everything should be sensible or explained in-game.",
+"author":["mDiyo","progwml6"],
+"source":"https://github.com/mDiyo/Natura",
+"type":["Universal"],
+"dependencies":["Forge Required","Mantle"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Necromancy",
 "link":"http://bit.ly/1i8DQ8Q",
 "desc":"This, in a nutshell, allows you to play god. You take bodyparts from slain foes, stitch them together as you see fit, and reanimate the horrifying resulting.",
@@ -12117,6 +12148,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft"],
 "versions":["1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"QuarryPlus",
+"link":"http://bit.ly/1oZiID7",
+"desc":"Implements add-ons and improvements to BuildCraft quarries, such as pumps, enchantments, and increased maximum areas. Currently maintained by denoflionsx.",
+"author":["yogpstop","denoflionsx"],
+"source":"https://github.com/denoflionsx/QuarryPlus",
+"type":["Universal"],
+"dependencies":["Forge Required","denLib"],
+"versions":["1.6.4"]
 
 },{
 
@@ -15281,9 +15323,10 @@
 "link":"http://bit.ly/17CnMpu",
 "desc":"Trap your friends or mobs with spikes, fans, igniters, dummies, and even grass coverings. Then collect all the loot with the magnetic chest!",
 "author":["ProPercivalalb"],
+"source":"https://github.com/ProPercivalalb/Trapcraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.1","1.4.7"]
 
 },{
 
@@ -15792,12 +15835,12 @@
 
 "name":"VeinMiner",
 "link":"http://bit.ly/1moK8zk",
-"desc":"A mod to help mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
+"desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
 "author":["portablejim"],
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -16103,16 +16146,6 @@
 
 },{
 
-"name":"Wild Caves 3",
-"link":"http://bit.ly/VVSHIm",
-"desc":"Gives some much needed love to vanilla caves, adding stalactites, stalagmites, vines, glowing mushrooms, icicles and other realistic and aesthetic features.",
-"author":["Alexmania"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7"]
-
-},{
-
 "name":"WikiTool",
 "other":"(Alpha)",
 "link":"http://bit.ly/1nyAqgO",
@@ -16121,6 +16154,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Wild Caves 3",
+"link":"http://bit.ly/VVSHIm",
+"desc":"Gives some much needed love to vanilla caves, adding stalactites, stalagmites, vines, glowing mushrooms, icicles and other realistic and aesthetic features.",
+"author":["Alexmania"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.1","1.4.7"]
 
 },{
 
@@ -16163,6 +16206,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","ForgeMultipart"],
 "versions":["1.6.4","1.6.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Witchery",
+"link":"http://bit.ly/GMCMro",
+"desc":"Adds different magical elements such as curses, rituals and brewed potions through natural magic present in the world.",
+"author":["Emoniph"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
