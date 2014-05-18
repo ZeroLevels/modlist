@@ -1,3 +1,7 @@
+(May/18/2014)
+	*Updated "Trapcraft": Added source
+	*Updated "VeinMiner" description
+
 (May/09/2014)
 	-Removed "Advanced Machines": Download no longer available
 

@@ -1,3 +1,6 @@
+(May/18/2014)
+	*Updated "VeinMiner" description
+
 (May/04/2014)
 	*Updated 12 mods by AtomicStryker (Which are the following)
 		*Updated "BattleTowers" link

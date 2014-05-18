@@ -1,3 +1,12 @@
+(May/18/2014)
+	*Updated "VeinMiner" description
+	+Added "Advanced HUD Continuation"
+	+Added "Darwin"
+	+Added "Manual Pickup"
+	+Added "QuarryPlus"
+	+Added "Trapcraft"
+	+Added "Witchery"
+
 (May/13/2014)
 	+Added "HybridCraft: Refused"
 
