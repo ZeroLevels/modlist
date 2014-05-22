@@ -7861,6 +7861,18 @@
 
 },{
 
+"name":"JuiceWares",
+"other":"(Beta)",
+"link":"http://bit.ly/1ksAjD5",
+"desc":"Adds small and random features such as night vision goggles, meaty ores and an eyeball mob. Designed for use in modpacks.",
+"author":["JuiceGrape"],
+"source":"https://github.com/JuiceGrape/JuiceWares",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+
+},{
+
 "name":"Jukebox Fix",
 "link":"http://bit.ly/1akA5ct",
 "desc":"A fix for the vanilla Jukebox's volume sync issue.",
@@ -12729,6 +12741,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Ropeca Guild 2",
+"link":"http://bit.ly/1n95irk",
+"desc":"Provides a means to create guilds within Minecraft.",
+"author":["Moonrise"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
