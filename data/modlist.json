@@ -12268,11 +12268,12 @@
 
 "name":"Rancraft Penguins",
 "link":"http://bit.ly/Wdr4Nt",
-"desc":"Adds fifteen different species of penguins to your world.",
+"desc":"Adds fifteen different species of penguins to your world, along with penguin tools, penguin weapons, and penguin armor with penguin powers.",
 "author":["immediately"],
+"source":"https://github.com/immediately/rancraftPeng172p",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -13023,6 +13024,16 @@
 "link":"http://bit.ly/1oT3JhL",
 "desc":"Required mod for other mods by ShetiPhian.",
 "author":["ShetiPhian"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"ShinyFood",
+"link":"http://bit.ly/1jIo0nd",
+"desc":"Adds 21 new golden food items with its own special potion effects.",
+"author":["DmgVol"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4"]

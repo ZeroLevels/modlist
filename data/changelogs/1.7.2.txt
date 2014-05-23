@@ -1,5 +1,7 @@
 (May/23/2014)
 	+Added "Antique Atlas"
+	+Added "Rancraft Penguins"
+	+Added "ShinyFood"
 	+Added "Stop Gap"
 
 (May/22/2014)

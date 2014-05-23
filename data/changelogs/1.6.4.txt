@@ -1,3 +1,7 @@
+(May/23/2014)
+	*Updated "Rancraft Penguins" description and info: Added source
+	+Added "ShinyFood"
+
 (May/22/2014)
 	+Added "JuiceWares"
 

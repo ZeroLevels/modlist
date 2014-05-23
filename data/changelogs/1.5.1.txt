@@ -1,3 +1,6 @@
+(May/23/2014)
+	*Updated "Rancraft Penguins" description and info: Added source
+
 (May/18/2014)
 	*Updated "Extra Utilities" description
 	*Updated "Trapcraft": Added source
