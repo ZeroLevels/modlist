@@ -1,4 +1,5 @@
 (May/26/2014)
+	*Updated "Highlands" description and info: Added source
 	*Updated "Project: Red" link
 
 (May/23/2014)
