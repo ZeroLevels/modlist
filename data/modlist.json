@@ -6969,11 +6969,24 @@
 
 "name":"Highlands",
 "link":"http://bit.ly/145GFhX",
-"desc":"Adds many more mountains and hills than in vanilla Minecraft.  It includes many varied environments and sub-biomes that represent features like mountains, lakes, forest clearings, valleys, and islands. It uses no modded blocks in world generation, so worlds created with Highlands can be enjoyed by anyone with Minecraft.",
+"desc":"Adds more mountains and hills, with varied environments and sub-biomes like mountains, lakes, forest clearings, valleys and islands. Uses no modded blocks in world generation, allowing for vanilla compatible worlds.",
 "author":["sdj64"],
+"source":"https://github.com/sdj64/Highlands",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Highlands",
+"other":"(Pre-release)",
+"link":"http://bit.ly/145GFhX",
+"desc":"Adds more mountains and hills, with varied environments and sub-biomes like mountains, lakes, forest clearings, valleys and islands. Uses no modded blocks in world generation, allowing for vanilla compatible worlds.",
+"author":["sdj64","fabricator77"],
+"source":"https://github.com/fabricator77/Highlands",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 

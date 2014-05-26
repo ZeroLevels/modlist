@@ -1,3 +1,6 @@
+(May/26/2014)
+	+Added "Highlands"
+
 (May/23/2014)
 	+Added "Antique Atlas"
 	+Added "Rancraft Penguins"
