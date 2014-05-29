@@ -1,5 +1,11 @@
 (May/29/2014)
-	*Updated "JuiceWares": No longer in beta
+	*Updated "Applied Energistics 2" info: No longer in Alpha, Now in Beta
+	*Updated "Better Sprinting" info: No longer development version, Now "Forge Required", Requires "Player API"
+	*Updated "Botania" info: Requires "Baubles"
+	*Updated "Chisel" link, authors and info: Now by pokefenn, Updated source, No longer requires "AsieLib"
+	*Updated "JuiceWares" info: No longer in beta
+	+Added "AssassinCraft"
+	+Added "Player API"
 
 (May/26/2014)
 	+Added "Highlands"
