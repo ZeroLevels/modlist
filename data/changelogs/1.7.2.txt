@@ -1,3 +1,6 @@
+(May/29/2014)
+	*Updated "JuiceWares": No longer in beta
+
 (May/26/2014)
 	+Added "Highlands"
 

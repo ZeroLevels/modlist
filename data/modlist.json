@@ -7875,6 +7875,17 @@
 },{
 
 "name":"JuiceWares",
+"link":"http://bit.ly/1ksAjD5",
+"desc":"Adds small and random features such as night vision goggles, meaty ores and an eyeball mob. Designed for use in modpacks.",
+"author":["JuiceGrape"],
+"source":"https://github.com/JuiceGrape/JuiceWares",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"JuiceWares",
 "other":"(Beta)",
 "link":"http://bit.ly/1ksAjD5",
 "desc":"Adds small and random features such as night vision goggles, meaty ores and an eyeball mob. Designed for use in modpacks.",
@@ -7882,7 +7893,7 @@
 "source":"https://github.com/JuiceGrape/JuiceWares",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.6.4","1.6.2","1.6.1"]
 
 },{
 
