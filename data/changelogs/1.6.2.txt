@@ -1,5 +1,6 @@
 (June/05/2014)
 	*Updated "Dragon Mounts" info: Now "Forge Required", Added source
+	*Updated "Food Plus" info: Now "Forge Required"
 
 (May/26/2014)
 	*Updated "Highlands" description and info: Added source
