@@ -4366,9 +4366,21 @@
 "link":"http://bit.ly/Shmlc3",
 "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
 "author":["BarracudaATA"],
+"source":"http://ata4.info/downloads/apps/minecraft/mods/dragonmount/src/",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Dragon Mounts",
+"link":"http://bit.ly/Shmlc3",
+"desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
+"author":["BarracudaATA"],
+"source":"http://ata4.info/downloads/apps/minecraft/mods/dragonmount/src/",
 "type":["Universal"],
 "dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
+"versions":["1.5.2","1.4.7","1.4.5"]
 
 },{
 
