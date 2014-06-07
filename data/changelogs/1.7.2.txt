@@ -1,3 +1,6 @@
+(June/07/2014)
+	*Updated "Extra Utilities": No longer pre-release
+
 (June/05/2014)
 	+Added "Dragon Mounts"
 	+Added "Food Plus"

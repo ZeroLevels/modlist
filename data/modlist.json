@@ -5458,18 +5458,7 @@
 "author":["RWTema"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Extra Utilities",
-"other":"(Pre-release)",
-"link":"http://bit.ly/10krfl7",
-"desc":"Just a bunch of fairly useful things, such as ender quarries, transfer pipes and energy generators.",
-"author":["RWTema"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
