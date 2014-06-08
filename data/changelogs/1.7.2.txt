@@ -1,5 +1,6 @@
 (June/08/2014)
 	+Added "Mystcraft"
+	+Added "Professor Flaxbeard's Wondrous Steam Power Mod"
 
 (June/07/2014)
 	*Updated "Extra Utilities": No longer pre-release
