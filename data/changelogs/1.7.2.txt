@@ -1,3 +1,6 @@
+(June/08/2014)
+	+Added "Mystcraft"
+
 (June/07/2014)
 	*Updated "Extra Utilities": No longer pre-release
 
