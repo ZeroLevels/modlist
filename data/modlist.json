@@ -12116,6 +12116,18 @@
 
 },{
 
+"name":"Professor Flaxbeard's Wondrous Steam Power Mod",
+"other":"(FSM) (Beta)",
+"link":"http://bit.ly/1tVXPJT",
+"desc":"A tech mod based on steam power, with alloys, pipes, gauges and more. Includes a Steam Exosuit.",
+"author":["Flaxbeard"],
+"source":"https://github.com/Flaxbeard/SteamCraft_1.7",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Project Bench",
 "link":"http://bit.ly/11udQwH",
 "desc":"Adds one thing to the game, the Project Bench. It's a simple block that is one part crafting bench, one part chest. It gives you the ability to place a recipe in the crafting area and make it multiple times with the supplies from the chest portion of it. There are 18 total spaces that will supply items to craft for the recipe if it is needed.",
