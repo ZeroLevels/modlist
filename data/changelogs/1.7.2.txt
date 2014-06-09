@@ -1,6 +1,8 @@
 (June/09/2014)
-	+Added "MobiusCore"
-	+Added "Opis"
+	*Updated "Waila" link, description and info: Now requires "CodeChickenCore" and "Not Enough Items"
+	+Added 2 mods by ProfMobius (Which are the following)
+		+Added "MobiusCore"
+		+Added "Opis"
 
 (June/08/2014)
 	+Added "Mystcraft"
