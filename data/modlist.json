@@ -8563,18 +8563,7 @@
 "author":["Mumfrey"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Macro/Keybind Mod",
-"other":"(Beta)",
-"link":"http://bit.ly/WnFEuT",
-"desc":"Take control of your Minecraft client. Bind keys to commands and automate simple or complex tasks. Design your own heads-up display and create your own interactive menus in-game quickly and easily. Perfect for use with WorldEdit, MCMMO, server administration, or trolling your friends. Plus it dispenses free cake.",
-"author":["Mumfrey"],
-"type":["Client"],
-"dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
