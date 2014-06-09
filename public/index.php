@@ -387,7 +387,7 @@ $klein->respond('GET', '/submit/[form|failed|success|incomplete:state]', functio
         $service->render('html/submit/form.phtml', array('specialjavascripts' => array(
                 "//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.min.js",
                 "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js",
-                "/resources/js/submission.min.js"
+                "/resources/js/submission.min.js?v=" . filemtime('public/resources/js/submission.min.js')
             ), 'state' => $request->param('state')));
     }
 });

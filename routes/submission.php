@@ -1,12 +1,12 @@
 <?php
 
 /*
- * typeahead/search/query
+ * typeahead/search
  * Typeahead query for submission form
  * @return page
  */
 
-$this->respond('GET', '/search/[*:query]', function ($request, $response, $service, $app) {
+$this->respond('GET', '/search', function ($request, $response, $service, $app) {
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     
     $mods = array();
@@ -41,18 +41,18 @@ $this->respond('GET', '/search/[*:query]', function ($request, $response, $servi
 });
 
 /*
- * typeahead/load/name/author
+ * typeahead/load
  * Typeahead mod info load for submission form
  * @return page
  */
 
-$this->respond('GET', '/load/[*:name]/[*:author]', function ($request, $response, $service, $app) {
+$this->respond('GET', '/load', function ($request, $response, $service, $app) {
     $mod_list = json_decode(file_get_contents('data/modlist.json'), true);
     
     $result = array();
     
     foreach ($mod_list as $key => $mod) {
-        if($mod['name'] == urldecode($request->param('name')) && implode(", ", $mod['author']) == urldecode($request->param('author'))) {
+        if($mod['name'] === $request->param('name') && implode(", ", $mod['author']) === $request->param('author')) {
             $mod['parsedauthors'] = implode(", ", $mod['author']);
             $result = $mod;
             break;
