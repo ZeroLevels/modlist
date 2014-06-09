@@ -9516,13 +9516,13 @@
 },{
 
 "name":"MobiusCore",
-"link":"http://bit.ly/KILvx4",
+"link":"http://bit.ly/1mwWNQE",
 "desc":"A coremod required for some of ProfMobius' mods.",
 "author":["ProfMobius"],
 "source":"https://bitbucket.org/ProfMobius/mobiuscore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -11259,7 +11259,7 @@
 "source":"https://bitbucket.org/ProfMobius/opis",
 "type":["Server"],
 "dependencies":["Forge Required","MobiusCore"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -16047,19 +16047,7 @@
 "source":"https://bitbucket.org/ProfMobius/waila",
 "type":["Client"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
-
-},{
-
-"name":"Waila",
-"other":"(What Am I Looking At)",
-"link":"http://bit.ly/1faQaQl",
-"desc":"Limited until NEI updates to 1.7.2. Shows what mod an item is from, allowing you to easily group items per mod. Capable of showing the name of blocks and mods in-game on top of your screen, including internal information of specific blocks from BuildCraft and IndustrialCraft 2.",
-"author":["ProfMobius"],
-"source":"https://bitbucket.org/ProfMobius/waila",
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
