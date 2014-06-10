@@ -936,7 +936,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.6.4","1.6.2","1.5.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -1132,7 +1132,17 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Back Tools",
+"link":"http://bit.ly/Y2JOcJ",
+"desc":"Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.",
+"author":["iChun"],
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -4032,7 +4042,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7291,12 +7301,12 @@
 "name":"iChun Util",
 "other":"(Dependency)",
 "link":"http://bit.ly/ichun-util",
-"desc":"As of Minecraft 1.5, this mod is required to be installed for iChun's Gravity Gun, Portal Gun, and Trail Mix mods to work",
+"desc":"Required dependency for most of iChun's other mods, such as Gravity Gun, Portal Gun, and Trail Mix.",
 "author":["iChun"],
 "source":"https://github.com/iChun/iChunUtil",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -7715,6 +7725,18 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"It Fell From The Sky",
+"link":"http://bit.ly/1l0DMt5",
+"desc":"Adds a block of compressed raw porkchops and a giant pig that can be steered with a carrot on a stick. Entry for ModJam 4.",
+"author":["iChun"],
+"source":"https://github.com/iChun/ItFellFromTheSky",
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.2"],
+"tags":["modjam","modjam4"]
 
 },{
 
@@ -9523,7 +9545,17 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Mob Amputation",
+"link":"http://bit.ly/Y3FdY0",
+"desc":"Lets you cut off the arms and head of some mobs. Also, blood particles!",
+"author":["iChun"],
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -9532,8 +9564,18 @@
 "desc":"Some mobs fall apart whenever you kill them.",
 "author":["iChun"],
 "type":["Client"],
-"dependencies":["Forge Compatible","iChun Util"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+    
+"name":"Mob Dismemberment",
+"link":"http://bit.ly/Yb1iXi",
+"desc":"Some mobs fall apart whenever you kill them.",
+"author":["iChun"],
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -11679,7 +11721,7 @@
 "source":"https://github.com/iChun/Photoreal",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -13126,7 +13168,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -14133,6 +14175,16 @@
 
 },{
 
+"name":"Streak",
+"link":"http://bit.ly/1l0HXFc",
+"desc":"Leaves a trail of flavors following players, fading away over time.",
+"author":["iChun"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"StrongerPistons Mod",
 "link":"http://bit.ly/Zx0Y8G",
 "desc":"",
@@ -14356,12 +14408,13 @@
 
 "name":"Sync",
 "link":"http://bit.ly/1cHdpnE",
-"desc":"Allows you to construct a surrogate self with its own inventory, health, hunger, and game mode which you can send your original self's mind to.  Somewhat allows teleportation that doesn't bring your inventory.",
+"desc":"Allows you to construct a surrogate self with its own inventory, health, hunger, and game mode which you can send your original self's mind to. Somewhat allows teleportation that doesn't bring your inventory. Entry for ModJam 3.",
 "author":["iChun"],
 "source":"https://github.com/iChun/Sync",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"]
+"versions":["1.6.4","1.6.2","1.6.1"],
+"tags":["modjam","modjam3"]
 
 },{
 
@@ -15368,8 +15421,8 @@
 "desc":"Adds a couple of items which aids with torch placement. Mainly a gun, rocket, and launcher.",
 "author":["iChun"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -15449,7 +15502,17 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Trail Mix",
+"link":"http://bit.ly/YOigbZ",
+"desc":"Adds all sort of crazy stuff. No really, there's freaking nyan pigs, pig launchers, powerfully pooting pigs, and cartoony POW and BAM shoot icons!",
+"author":["iChun"],
+"type":["Universal"],
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.4.7"]
 
 },{
 

@@ -1,7 +1,13 @@
 (June/10/2014)
+	*Updated 4 mods by iChun (Which are the following)
+		*Updated "iChun Util" description
+		*Updated "Mob Dismemberment" info: "Forge Required"
+		*Updated "Sync" description
+		*Updated "Torched" info: Requires "iChun Util"
 	*Updated 2 mods by thehippomaster21 (Which are the following)
 		*Updated "Animated Player Mod" name: Now "Animated Player"
 		*Updated "AnimationAPI" info: Marked open source
+	+Added "Streak"
 
 (June/09/2014)
 	*Updated "MobiusCore" link

@@ -1,4 +1,8 @@
 (June/10/2014)
+	*Updated 3 mods by iChun (Which are the following)
+		*Updated "Back Tools" info: Fixed dependencies - Requires ModLoader
+		*Updated "Mob Amputation" info: Fixed dependencies - Requires ModLoader
+		*Updated "Mob Dismemberment" info: Fixed dependencies - Requires ModLoader
 	*Updated "Mutant Creatures" info: Not dependent on "AnimationAPI"
 
 (June/05/2014)
