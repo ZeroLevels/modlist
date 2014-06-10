@@ -11,6 +11,7 @@
 	+Added "Equivalent Exchange 3": Currently in Beta
 	+Added "RemoteIO"
 	+Added "Smart Moving"
+	+Added "Version Checker"
 
 (June/09/2014)
 	*Updated "Macro/Keybind Mod" info: No longer in Beta, now released

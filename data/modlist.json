@@ -16028,6 +16028,17 @@
 
 },{
 
+"name":"Version Checker",
+"link":"http://bit.ly/1l0zkdM",
+"desc":"Displays mod updates in a notification list instead of cluttering ingame chat.",
+"author":["Dynious"],
+"source":"https://github.com/Dynious/VersionChecker",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Village Info",
 "link":"http://bit.ly/TGtW1L",
 "desc":"Shows some information about the village you're currently in.",
