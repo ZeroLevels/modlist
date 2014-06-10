@@ -6847,6 +6847,16 @@
 },{
 
 "name":"HarvestCraft",
+"link":"http://bit.ly/1hJpF57",
+"desc":"Adds in over TWO HUNDRED AND FIFTY new foods and recipes using new cooking tools using only vanilla Minecraft materials and crops.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"HarvestCraft",
 "link":"http://bit.ly/VFL2O4",
 "desc":"Adds in over TWO HUNDRED AND FIFTY new foods and recipes using new cooking tools using only vanilla Minecraft materials and crops.",
 "author":["MatrexsVigil"],
@@ -16329,6 +16339,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"Weee! Flowers",
+"link":"http://bit.ly/1hJpF57",
+"desc":"Adds fourteen new flowers that generate naturally across the world, giving the game a bit more color.  You can also use flower seeds to plant and grow more flowers just like wheat!",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 

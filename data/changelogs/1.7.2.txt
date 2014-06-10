@@ -13,6 +13,9 @@
 		+Added "Streak"
 		+Added "Torched"
 		+Added "Trail Mix"
+	+Added 2 mods by MatrexsVigil (Which are the following)
+		+Added "HarvestCraft"
+		+Added "Weee! Flowers"
 	+Added 3 mods by thehippomaster21 (Which are the following)
 		+Added "AnimationAPI"
 		+Added "Better Horses"
