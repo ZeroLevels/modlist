@@ -13525,6 +13525,16 @@
 "link":"http://bit.ly/UAvTjb",
 "desc":"Provides various additional moving possibilities, such as climbing, crawling, sliding, and alternate swim/fly/fall animations.",
 "author":["Divisor"],
+"type":["Universal"],
+"dependencies":["Forge Required","Player API"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Smart Moving",
+"link":"http://bit.ly/UAvTjb",
+"desc":"Provides various additional moving possibilities, such as climbing, crawling, sliding, and alternate swim/fly/fall animations.",
+"author":["Divisor"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible","ModLoader","Player API","Render Player API"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
