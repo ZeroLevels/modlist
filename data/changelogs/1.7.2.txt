@@ -9,6 +9,7 @@
 		+Added "ExplorerCraft"
 	+Added "Battle Music"
 	+Added "Equivalent Exchange 3": Currently in Beta
+	+Added "RemoteIO"
 	+Added "Smart Moving"
 
 (June/09/2014)
