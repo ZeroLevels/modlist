@@ -1987,6 +1987,17 @@
 },{
 
 "name":"Botania",
+"link":"http://bit.ly/1rTgKH6",
+"desc":"A magic tech mod based on nature. Features a power system called Mana, requiring time and coordination to control.",
+"author":["Vazkii"],
+"source":"https://github.com/Vazkii/Botania",
+"type":["Universal"],
+"dependencies":["Forge Required","Baubles"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Botania",
 "other":"(Beta)",
 "link":"http://bit.ly/1rTgKH6",
 "desc":"A magic tech mod based on nature. Features a power system called Mana, requiring time and coordination to control.",
@@ -1994,7 +2005,7 @@
 "source":"https://github.com/Vazkii/Botania",
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.6.4"]
 
 },{
 

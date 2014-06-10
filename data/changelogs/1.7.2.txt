@@ -1,5 +1,6 @@
 (June/10/2014)
 	*Updated "Animated Player Mod" name: Now "Animated Player", Requires "AnimationAPI"
+	*Updated "Botania" info: No longer in Beta, Now released
 	+Added 12 mods by iChun (Which are the following)
 		+Added "Attachable Grinder"
 		+Added "Back Tools"
