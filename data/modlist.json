@@ -12742,6 +12742,17 @@
 
 },{
 
+"name":"RemoteIO",
+"link":"http://bit.ly/1l0xvO4",
+"desc":"Allows access to remote blocks over great distances via the Remote Interface, linking blocks to other blocks or to player inventories.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/RemoteIO",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Render Player API",
 "link":"http://bit.ly/13U9b8y",
 "desc":"Render Player API gives third party mods managed access to the player render classes",
