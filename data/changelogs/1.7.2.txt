@@ -3,6 +3,7 @@
 		+Added "Climate Control"
 		+Added "ExplorerCraft"
 	+Added "Battle Music"
+	+Added "Smart Moving"
 
 (June/09/2014)
 	*Updated "Macro/Keybind Mod" info: No longer in Beta, now released
