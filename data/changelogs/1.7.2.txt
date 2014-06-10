@@ -2,6 +2,7 @@
 	+Added 2 mods by Zeno410 (Which are the following)
 		+Added "Climate Control"
 		+Added "ExplorerCraft"
+	+Added "AnimationAPI"
 	+Added "Battle Music"
 	+Added "Smart Moving"
 

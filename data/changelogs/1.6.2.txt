@@ -1,3 +1,6 @@
+(June/10/2014)
+	*Updated "AnimationAPI" info: Marked open source
+
 (June/05/2014)
 	*Updated "Dragon Mounts" info: Now "Forge Required", Added source
 	*Updated "Food Plus" info: Now "Forge Required"

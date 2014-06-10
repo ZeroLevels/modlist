@@ -1,3 +1,6 @@
+(June/10/2014)
+	*Updated "AnimationAPI" info: Marked open source
+
 (June/09/2014)
 	*Updated "MobiusCore" link
 	*Updated "Morpheus" link
