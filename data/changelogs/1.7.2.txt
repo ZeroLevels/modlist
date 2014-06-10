@@ -27,6 +27,7 @@
 	+Added "Equivalent Exchange 3": Currently in Beta
 	+Added "RemoteIO"
 	+Added "Smart Moving"
+	+Added "Thaumic Tinkerer"
 	+Added "Version Checker"
 
 (June/09/2014)
