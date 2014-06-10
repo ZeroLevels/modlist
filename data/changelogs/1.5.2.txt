@@ -1,5 +1,7 @@
 (June/10/2014)
-	*Updated "Mutant Creatures" info: Not dependent on "AnimationAPI"
+	*Updated 2 mods by thehippomaster21 (Which are the following)
+		*Updated "Animated Player Mod" name: Now "Animated Player"
+		*Updated "Mutant Creatures" info: Not dependent on "AnimationAPI"
 
 (June/09/2014)
 	*Updated "Morpheus" link

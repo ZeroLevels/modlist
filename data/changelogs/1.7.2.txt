@@ -1,4 +1,5 @@
 (June/10/2014)
+	*Updated "Animated Player Mod" name: Now "Animated Player", Requires "AnimationAPI"
 	+Added 2 mods by thehippomaster21 (Which are the following)
 		+Added "AnimationAPI"
 		+Added "Mutant Creatures"

@@ -490,13 +490,23 @@
 
 },{
 
-"name":"Animated Player Mod",
+"name":"Animated Player",
+"link":"http://bit.ly/14rfMZG",
+"desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
+"author":["thehippomaster21"],
+"type":["Client"],
+"dependencies":["Forge Required","AnimationAPI"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Animated Player",
 "link":"http://bit.ly/14rfMZG",
 "desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
 "author":["thehippomaster21"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 

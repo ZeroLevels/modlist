@@ -1,5 +1,7 @@
 (June/10/2014)
-	*Updated "AnimationAPI" info: Marked open source
+	*Updated 2 mods by thehippomaster21 (Which are the following)
+		*Updated "Animated Player Mod" name: Now "Animated Player"
+		*Updated "AnimationAPI" info: Marked open source
 
 (June/09/2014)
 	*Updated "MobiusCore" link
