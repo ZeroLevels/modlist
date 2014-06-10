@@ -490,13 +490,23 @@
 
 },{
 
-"name":"Animated Player Mod",
+"name":"Animated Player",
+"link":"http://bit.ly/14rfMZG",
+"desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
+"author":["thehippomaster21"],
+"type":["Client"],
+"dependencies":["Forge Required","AnimationAPI"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Animated Player",
 "link":"http://bit.ly/14rfMZG",
 "desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
 "author":["thehippomaster21"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -504,9 +514,10 @@
 "link":"http://bit.ly/1bNyxqy",
 "desc":"An API that allows mod makers to create animated entities more easily.",
 "author":["thehippomaster21"],
+"source":"",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -1440,6 +1451,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Better Horses",
+"link":"http://bit.ly/TCMCD1",
+"desc":"Replaces vanilla horses with animated ones, including minor tweaks and fixes.",
+"author":["thehippomaster21"],
+"type":["Universal"],
+"dependencies":["Forge Required","AnimationAPI"],
+"versions":["1.7.2"]
 
 },{
 
@@ -10553,7 +10574,17 @@
 "author":["thehippomaster21"],
 "type":["Universal"],
 "dependencies":["Forge Required","AnimationAPI"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Mutant Creatures",
+"link":"http://bit.ly/RBUH83",
+"desc":"Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!",
+"author":["thehippomaster21"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
