@@ -1,8 +1,10 @@
 (June/10/2014)
+	+Added 2 mods by thehippomaster21 (Which are the following)
+		+Added "AnimationAPI"
+		+Added "Mutant Creatures"
 	+Added 2 mods by Zeno410 (Which are the following)
 		+Added "Climate Control"
 		+Added "ExplorerCraft"
-	+Added "AnimationAPI"
 	+Added "Battle Music"
 	+Added "Smart Moving"
 
