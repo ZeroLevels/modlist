@@ -5101,6 +5101,18 @@
 },{
 
 "name":"Equivalent Exchange 3",
+"other":"(Beta)",
+"link":"http://bit.ly/1l0wgyq",
+"desc":"Allows you to transmute materials into other materials.",
+"author":["Pahimar"],
+"source":"https://github.com/pahimar/Equivalent-Exchange-3",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Equivalent Exchange 3",
 "link":"http://bit.ly/VFB7Ip",
 "desc":"Allows you to transmute materials into other materials.",
 "author":["Pahimar"],
