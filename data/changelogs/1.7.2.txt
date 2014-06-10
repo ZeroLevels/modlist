@@ -1,7 +1,8 @@
 (June/10/2014)
 	*Updated "Animated Player Mod" name: Now "Animated Player", Requires "AnimationAPI"
-	+Added 2 mods by thehippomaster21 (Which are the following)
+	+Added 3 mods by thehippomaster21 (Which are the following)
 		+Added "AnimationAPI"
+		+Added "Better Horses"
 		+Added "Mutant Creatures"
 	+Added 2 mods by Zeno410 (Which are the following)
 		+Added "Climate Control"

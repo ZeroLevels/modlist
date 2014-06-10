@@ -1454,6 +1454,16 @@
 
 },{
 
+"name":"Better Horses",
+"link":"http://bit.ly/TCMCD1",
+"desc":"Replaces vanilla horses with animated ones, including minor tweaks and fixes.",
+"author":["thehippomaster21"],
+"type":["Universal"],
+"dependencies":["Forge Required","AnimationAPI"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Better Item Despawning",
 "link":"http://bit.ly/10qAPKy",
 "desc":"Changes the way items despawn, so that instead of removing an item it is going to be placed down as a block.",
