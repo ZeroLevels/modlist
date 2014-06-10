@@ -1,3 +1,6 @@
+(June/10/2014)
+	+Added "Battle Music"
+
 (June/09/2014)
 	*Updated "Macro/Keybind Mod" info: No longer in Beta, now released
 	*Updated "Morpheus" link and info: No longer in Beta, now released
