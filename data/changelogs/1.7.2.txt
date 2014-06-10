@@ -25,6 +25,7 @@
 		+Added "ExplorerCraft"
 	+Added "Battle Music"
 	+Added "Equivalent Exchange 3": Currently in Beta
+	+Added "Moar Signs"
 	+Added "RemoteIO"
 	+Added "Smart Moving"
 	+Added "Thaumic Tinkerer"

@@ -9549,6 +9549,17 @@
 
 },{
 
+"name":"Moar Signs",
+"link":"http://bit.ly/1xCwfGe",
+"desc":"Adds a lot of new signs to the game with support for materials from other mods, such as Forestry, Natura and IndustrialCraft 2.",
+"author":["Gory_Moon"],
+"source":"https://github.com/GoryMoon/MoarSigns",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Mob Amputation",
 "link":"http://bit.ly/Y3FdY0",
 "desc":"Lets you cut off the arms and head of some mobs. Also, blood particles!",
