@@ -1,4 +1,7 @@
 (June/10/2014)
+	+Added 2 mods by Zeno410 (Which are the following)
+		+Added "Climate Control"
+		+Added "ExplorerCraft"
 	+Added "Battle Music"
 
 (June/09/2014)
