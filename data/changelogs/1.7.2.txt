@@ -1,6 +1,6 @@
 (June/11/2014)
-	+Added "Metallurgy 4"
-	+Added "Metallurgy Core"
+	+Added "Metallurgy 4": Currently in Beta
+	+Added "Metallurgy Core": Currently in Beta
 
 (June/10/2014)
 	*Updated "Animated Player Mod" name: Now "Animated Player", Requires "AnimationAPI"
