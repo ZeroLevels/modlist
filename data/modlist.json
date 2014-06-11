@@ -7064,10 +7064,9 @@
 },{
 
 "name":"Highlands",
-"other":"(Pre-release)",
-"link":"http://bit.ly/145GFhX",
+"link":"http://bit.ly/1l0QbP7",
 "desc":"Adds more mountains and hills, with varied environments and sub-biomes like mountains, lakes, forest clearings, valleys and islands. Uses no modded blocks in world generation, allowing for vanilla compatible worlds.",
-"author":["sdj64","fabricator77"],
+"author":["fabricator77","sdj64"],
 "source":"https://github.com/fabricator77/Highlands",
 "type":["Universal"],
 "dependencies":["Forge Required"],

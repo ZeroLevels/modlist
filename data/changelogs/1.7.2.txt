@@ -1,4 +1,5 @@
 (June/11/2014)
+	*Updated "Highlands" link and info: Now released
 	+Added "Metallurgy 4": Currently in Beta
 	+Added "Metallurgy Core": Currently in Beta
 
