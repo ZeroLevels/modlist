@@ -9024,12 +9024,36 @@
 
 "name":"Metallurgy 3",
 "link":"http://bit.ly/17aSWTB",
-"desc":"A vast enhancement to the basic mining system, adding well over 48+ new metals (based on which submods you use). Our goal is to create a balanced atmosphere for players to explore and enjoy mining. Metallurgy 2 is also modular, configurable, and entirely tailoring for the player's experience.",
+"desc":"Enhances the basic mining system, adding over 48 new metals such as copper, platinum and ceruclase. Allows a variety of different configurations due to its modular system.",
 "author":["Shadowclaimer"],
 "source":"https://github.com/RebelKeithy/Metallurgy3",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","KeithyUtils"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Metallurgy 4",
+"other":"(Beta)",
+"link":"http://bit.ly/17aSWTB",
+"desc":"Enhances the basic mining system, adding over 48 new metals such as copper, platinum and ceruclase. Allows a variety of different configurations due to its modular system.",
+"author":["mssodin28","JeanGlassmaker","RebelKeithy","Shadowclaimer"],
+"source":"https://github.com/TeamMetallurgy/Metallurgy4",
+"type":["Universal"],
+"dependencies":["Forge Required","Metallurgy Core"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Metallurgy Core",
+"other":"(Beta)",
+"link":"http://bit.ly/SMB7IC",
+"desc":"A required dependency for Metallurgy 4.",
+"author":["mssodin28","JeanGlassmaker"],
+"source":"https://github.com/TeamMetallurgy/MetallurgyCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
