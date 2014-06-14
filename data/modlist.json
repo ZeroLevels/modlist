@@ -7064,10 +7064,9 @@
 },{
 
 "name":"Highlands",
-"other":"(Pre-release)",
-"link":"http://bit.ly/145GFhX",
+"link":"http://bit.ly/1l0QbP7",
 "desc":"Adds more mountains and hills, with varied environments and sub-biomes like mountains, lakes, forest clearings, valleys and islands. Uses no modded blocks in world generation, allowing for vanilla compatible worlds.",
-"author":["sdj64","fabricator77"],
+"author":["fabricator77","sdj64"],
 "source":"https://github.com/fabricator77/Highlands",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9162,13 +9161,13 @@
 },{
 
 "name":"MineChem",
-"link":"http://bit.ly/1dAIK7J",
+"link":"http://bit.ly/1l0Sbql",
 "desc":"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!",
-"author":["Rushmead"],
-"source":"https://github.com/pixlepix/MineChem",
+"author":["jakimfett"],
+"source":"https://github.com/jakimfett/MineChem",
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.6.4"]
 
 },{
 

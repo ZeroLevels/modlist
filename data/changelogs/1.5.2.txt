@@ -1,3 +1,6 @@
+(June/14/2014)
+	-Removed "MineChem": Download no longer available
+
 (June/11/2014)
 	*Updated "Metallurgy 3" description and info: Requires "KeithyUtils"
 
