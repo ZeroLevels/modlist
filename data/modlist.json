@@ -8569,6 +8569,17 @@
 
 },{
 
+"name":"Lorem Lucis",
+"link":"http://bit.ly/VuOduI",
+"desc":"Adds a block that gives random effects to players upon interaction. Entry for ModJam 4.",
+"author":["Azhdev"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"],
+"tags":["modjam","modjam4"]
+
+},{
+
 "name":"Lost Books",
 "link":"http://bit.ly/VuOduI",
 "desc":"Adds a chance for monsters to drop randomly books out of a set of books that anyone can create with ease! Books can even support randomized words for books similar to automatically generated Mad Libs!",
