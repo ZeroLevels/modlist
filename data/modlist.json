@@ -8573,6 +8573,7 @@
 "link":"http://bit.ly/VuOduI",
 "desc":"Adds a block that gives random effects to players upon interaction. Entry for ModJam 4.",
 "author":["Azhdev"],
+"source":"https://github.com/Azhdev/modjam4",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"],
