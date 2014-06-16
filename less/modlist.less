@@ -437,6 +437,20 @@ td {
     border-right-width: 1px;
 }
 
+// Open Source icon
+.opensource, .opensource-contained {
+    height: 0;
+    margin-right: -.5em;
+    margin-top: -.5em;
+    .file-text {
+        margin-top: .25em;
+        font-size: .5em;
+        &:before {
+            content: "{ }";
+        }
+    }
+}
+
 // Bypass Adblock Plus social list
 // Alias for fa-twitter
 .fa-tw:before {
