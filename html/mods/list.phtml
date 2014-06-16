@@ -1,6 +1,6 @@
 <div class="page-header">
-    <h1><?php echo $this->version; ?><br/>
-        <small>Tracking <?php echo $this->versions_count[$this->version]; ?> mods for this version - <a href="/changelog/<?php echo $this->version; ?>">View Changelog</a></small>
+    <h1><?=$this->version ?><br/>
+        <small>Tracking <?=$this->versions_count[$this->version] ?> mods for this version - <a href="/changelog/<?=$this->version ?>">View Changelog</a></small>
     </h1>
 </div>
 <!-- 
@@ -47,46 +47,55 @@ TODO: supported?
     </thead>
     <tbody>
         <?php foreach ($this->mods as $mod) { ?>
-        <tr id="<?php echo preg_replace("/[^0-9a-zA-Z]/i", '', strtolower($mod['name'])); ?>">
+        <tr id="<?=preg_replace("/[^0-9a-zA-Z]/i", '', strtolower($mod['name'])) ?>">
             <td>
                 <p>
                     <span>
-                        <a href="<?php echo $mod['link']; ?>" target="_blank"><?php echo $mod['name']; ?></a>
+                        <a href="<?=$mod['link'] ?>" target="_blank"><?=$mod['name'] ?></a>
                         <?php
                         if (isset($mod['other'])) { echo $mod['other']; }
                         ?>
                     </span>
                     <strong>
-                        <i class="pull-right"><?php echo implode(", ", $mod['author']); ?></i>
+                        <i class="pull-right"><?=implode(", ", $mod['author']) ?></i>
                     </strong>
                 </p>
-            <?php if (isset($mod['desc']) && $mod['desc'] != "") { ?>
-                <p><?php echo $mod['desc']; ?></p>
+            <?php if (isset($mod['desc']) && $mod['desc'] !== "") { ?>
+                <p><?=$mod['desc'] ?></p>
             <?php } ?>
                 <p>
             <?php if (isset($mod['source'])) { ?>
-                <?php if ($mod['source'] != "") { ?>
-                    <a href="<?php echo $mod['source']; ?>"><i class="fa fa-globe pull-right opensource"></i><span class="sr-only">Open Source</span></a>
+                <?php if ($mod['source'] !== "") { ?>
+                    <a href="<?=$mod['source'] ?>">
+                        <span class="fa-stack pull-right opensource">
+                            <i class="fa fa-file-o fa-stack-1x"></i>
+                            <strong class="fa-stack-1x fa-stack-text file-text"></strong>
+                        </span>
+                        <span class="sr-only">Open Source</span>
+                    </a>
                 <?php } else { ?>
-                    <i class="fa fa-globe pull-right opensource-contained"></i>
+                    <span class="fa-stack pull-right opensource-contained">
+                        <i class="fa fa-file-o fa-stack-1x"></i>
+                        <strong class="fa-stack-1x fa-stack-text file-text"></strong>
+                    </span>
                     <span class="sr-only">Open Source</span>
                 <?php } ?>
             <?php } ?>
             <?php foreach ($mod['type'] as $type) { ?>
-                <span class="label label-default <?php echo strtolower($type); ?>"><?php echo $this->type[$type]; ?></span>
+                <span class="label label-default <?=strtolower($type) ?>"><?=$this->type[$type] ?></span>
             <?php } ?>
             <?php foreach ($mod['dependencies'] as $dependency) { $forge_type = strtolower(str_replace(' ', '-', $dependency)); ?>
                 <?php if (isset($this->forge[$forge_type])) { ?>
                     <a href="#forge" class="depends">
-                        <span class="label label-<?php echo $this->forge[$forge_type]; ?> dependency <?php echo $forge_type; ?>"><?php echo $dependency; ?></span>
+                        <span class="label label-<?=$this->forge[$forge_type] ?> dependency <?=$forge_type ?>"><?=$dependency ?></span>
                     </a>
                 <?php } elseif ($forge_type === 'base-edit') { ?>
                     <a href="/faq#base-edit" class="depends">
                         <span class="label label-danger base-edit">Base Edit</span>
                     </a>
                 <?php } else { ?>
-                    <a href="#<?php echo strtolower(preg_replace("/[^0-9a-zA-Z]/i", '', str_replace(array(" Compatible", " Required"), "", $dependency))); ?>" class="depends">
-                        <span class="label label-warning dependency"><?php echo $dependency; ?></span>
+                    <a href="#<?=strtolower(preg_replace("/[^0-9a-zA-Z]/i", '', str_replace(array(" Compatible", " Required"), "", $dependency))) ?>" class="depends">
+                        <span class="label label-warning dependency"><?=$dependency ?></span>
                     </a>
                 <?php } ?>
             <?php } ?>
