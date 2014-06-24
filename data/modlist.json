@@ -11388,7 +11388,7 @@
 "source":"https://github.com/OpenMods/OpenData",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 
