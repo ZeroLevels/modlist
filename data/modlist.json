@@ -1267,7 +1267,7 @@
 "source":"https://github.com/Azanor/Baubles",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10-pre4","1.7.2"]
 
 },{
 
@@ -1962,7 +1962,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2"]
+"versions":["1.7.10-pre4","1.7.2"]
 
 },{
 
@@ -2506,8 +2506,8 @@
 "desc":"Saves all chat to a dedicated 'chatlogs' folder.",
 "author":["bilde2910"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Required"],
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 
@@ -2621,7 +2621,7 @@
 "source":"https://github.com/ZeroLevels/ChickenShed",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -5825,7 +5825,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2"]
+"versions":["1.7.10-pre4","1.7.2"]
 
 },{
 
@@ -6073,7 +6073,7 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -6475,7 +6475,7 @@
 "source":"https://github.com/GrygrFlzr/GlowstoneWire",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -7581,7 +7581,7 @@
 "source":"https://github.com/duke605/IGML4",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10-pre4","1.7.2"]
 
 },{
 
@@ -8093,7 +8093,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -11388,7 +11388,7 @@
 "source":"https://github.com/OpenMods/OpenData",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 
@@ -15471,7 +15471,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2"]
+"versions":["1.7.10-pre4","1.7.2"]
 
 },{
 
@@ -15493,6 +15493,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"TooManyItems",
+"other":"(TMI)",
+"link":"http://bit.ly/toomanyitems",
+"desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
+"author":["Marglyph"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.7.10-pre4"]
 
 },{
 
