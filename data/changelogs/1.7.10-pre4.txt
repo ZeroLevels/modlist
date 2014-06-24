@@ -1,5 +1,5 @@
 (June/24/2014)
-	+Added mods by Duke605 (Which are the following)
+	+Added 5 mods by Duke605 (Which are the following)
 		+Added "Boost"
 		+Added "Fishing Nets"
 		+Added "Ingame Mod List 4"
