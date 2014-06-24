@@ -2,6 +2,7 @@
 	*Updated "ChatLog" info: Now "Forge Required"
 	+Added "Elemental Creepers"
 	+Added "Flatbedrock"
+	+Added "Stone Armour"
 
 (June/18/2014)
 	+Added "Steve's Factory Manager": Currently in Alpha

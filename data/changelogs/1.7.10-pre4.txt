@@ -1,9 +1,10 @@
 (June/24/2014)
-	+Added 5 mods by Duke605 (Which are the following)
+	+Added 6 mods by Duke605 (Which are the following)
 		+Added "Boost"
 		+Added "Fishing Nets"
 		+Added "Ingame Mod List 4"
 		+Added "KingCore"
+		+Added "Stone Armour"
 		+Added "Tool Heads"
 	+Added "ChatLog"
 	+Added "ChickenShed"
