@@ -5720,6 +5720,17 @@
 },{
 
 "name":"Female Gender Option",
+"other":"(Beta)",
+"link":"http://bit.ly/108keKU",
+"desc":"Provides the option to turn the player into a female and/or child model while maintaining the minecraft style.",
+"author":["iPixeli"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Female Gender Option",
 "link":"http://bit.ly/108keKU",
 "desc":"Provides the option to turn the player into a female model while maintaining the minecraft style.",
 "author":["iPixeli"],
