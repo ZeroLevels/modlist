@@ -2506,8 +2506,8 @@
 "desc":"Saves all chat to a dedicated 'chatlogs' folder.",
 "author":["bilde2910"],
 "type":["Client"],
-"dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Required"],
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 

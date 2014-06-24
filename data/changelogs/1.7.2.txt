@@ -1,3 +1,6 @@
+(June/24/2014)
+	*Updated "ChatLog" info: Now "Forge Required"
+
 (June/18/2014)
 	+Added "Steve's Factory Manager": Currently in Alpha
 
