@@ -5849,6 +5849,16 @@
 
 },{
 
+"name":"Flatbedrock",
+"link":"http://bit.ly/TrSS07",
+"desc":"Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.",
+"author":["Gigabit101"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
+
+},{
+
 "name":"Flat Bedrock",
 "link":"http://bit.ly/VW7qTy",
 "desc":"Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.",
