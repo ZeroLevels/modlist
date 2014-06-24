@@ -1,3 +1,7 @@
+(June/24/2014)
+	*Updated "Thermal Expansion 3" info: No longer in Beta
+	+Added "Redstone Armory"
+
 (June/18/2014)
 	+Added "Steve's Factory Manager": Currently in Alpha
 
