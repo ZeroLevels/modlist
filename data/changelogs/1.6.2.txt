@@ -1,3 +1,6 @@
+(June/24/2014)
+	+Added "Picture-in-Picture"
+
 (June/14/2014)
 	-Removed "MineChem": Download no longer available
 
