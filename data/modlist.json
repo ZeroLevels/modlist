@@ -4724,6 +4724,17 @@
 
 },{
 
+"name":"Elemental Creepers",
+"link":"http://bit.ly/TrXrHO",
+"desc":"Adds creepers with different elements to the game. Rebooted from xSmallDeadGuyx's version.",
+"author":["Lomeli12"],
+"source":"https://github.com/Lomeli12/ElementalCreepers-4",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
+
+},{
+
 "name":"Elemental Crystals Mod",
 "link":"http://bit.ly/WnORUu",
 "desc":"",
