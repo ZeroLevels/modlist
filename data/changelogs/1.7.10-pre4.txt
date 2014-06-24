@@ -1,4 +1,5 @@
 (June/24/2014)
+	+Added "ChickenShed"
 	+Added "Forge": Currently in Pre-release
 	+Added "Glowstone Wire"
 
