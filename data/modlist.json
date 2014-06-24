@@ -15496,6 +15496,17 @@
 
 },{
 
+"name":"TooManyItems",
+"other":"(TMI)",
+"link":"http://bit.ly/toomanyitems",
+"desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
+"author":["Marglyph"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.7.10-pre4"]
+
+},{
+
 "name":"TooManyPlants",
 "link":"http://bit.ly/13dBE6D",
 "desc":"",

@@ -5,4 +5,5 @@
 	+Added "Forge": Currently in Pre-release
 	+Added "Glowstone Wire"
 	+Added "OpenEye": Currently in Beta
+	+Added "TooManyItems"
 
