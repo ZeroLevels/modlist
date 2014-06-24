@@ -12,6 +12,7 @@
 	+Added "Flatbedrock"
 	+Added "Forge": Currently in Pre-release
 	+Added "Glowstone Wire"
+	+Added "Lorem Lucis"
 	+Added "OpenEye": Currently in Beta
 	+Added "Refined Relocation"
 	+Added "TooManyItems"
