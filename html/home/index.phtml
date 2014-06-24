@@ -11,6 +11,10 @@
     <?php foreach($latest_versions as $group) {
         $display_versions[] = array_keys($group)[0];
     } ?>
+    <?php
+    //TODO: Control from panel
+    $display_versions = array('1.7.10-pre4','1.7.2','1.6.4');
+    ?>
     <?php foreach($display_versions as $latest) { ?>
     <div class="col-sm-6 col-lg-4">
         <h2><?php echo $latest; ?></h2>
