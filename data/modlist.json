@@ -11835,6 +11835,17 @@
 
 },{
 
+"name":"Picture-in-Picture",
+"other":"(PiP)",
+"link":"http://bit.ly/1q50ynd",
+"desc":"Renders other players' points of view in a 'Picture-in-Picture' style on the screen.",
+"author":["iChun"],
+"type":["Universal"],
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+
+},{
+
 "name":"Pig Companion Mod",
 "link":"http://bit.ly/13GQt3o",
 "desc":"This mod adds armor for pigs and lets you tame them. You can give an pig an helmet and seeds to let it fight for you.",

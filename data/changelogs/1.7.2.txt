@@ -3,6 +3,7 @@
 	+Added "Elemental Creepers"
 	+Added "Female Gender Option": Currently in Beta
 	+Added "Flatbedrock"
+	+Added "Picture-in-Picture"
 	+Added "Stone Armour"
 
 (June/18/2014)

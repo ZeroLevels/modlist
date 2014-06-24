@@ -4,6 +4,7 @@
 	*Updated "Thermal Expansion 3" info: No longer in Beta
 	+Added "Elemental Creepers"
 	+Added "Flatbedrock"
+	+Added "Picture-in-Picture"
 	+Added "Redstone Armory"
 
 (June/18/2014)
