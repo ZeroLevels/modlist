@@ -1,3 +1,4 @@
 (June/24/2014)
 	+Added "Forge": Currently in Pre-release
+	+Added "Glowstone Wire"
 
