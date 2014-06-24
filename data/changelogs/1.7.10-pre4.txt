@@ -7,6 +7,7 @@
 		+Added "Tool Heads"
 	+Added "ChatLog"
 	+Added "ChickenShed"
+	+Added "Elemental Creepers"
 	+Added "Flatbedrock"
 	+Added "Forge": Currently in Pre-release
 	+Added "Glowstone Wire"
