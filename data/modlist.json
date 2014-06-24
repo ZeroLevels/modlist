@@ -12710,6 +12710,17 @@
 
 },{
 
+"name":"Redstone Armory",
+"link":"http://bit.ly/1uOoB7y",
+"desc":"Adds various Gelid Enderium tools and items, upgrading Redstone Arsenal flux tools.",
+"author":["TehNut","Tombenpotter"],
+"source":"https://github.com/TehNut/RedstoneArmory",
+"type":["Universal"],
+"dependencies":["Forge Required","Thermal Expansion 3"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Redstone Block Shining Mod",
 "link":"http://bit.ly/19T3C9V",
 "desc":"Makes the vanilla Redstone Block emit light.",
@@ -15159,7 +15170,6 @@
 },{
 
 "name":"Thermal Expansion 3",
-"other":"(Beta)",
 "link":"http://bit.ly/18fYVG4",
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Formerly dependent on BuildCraft, this mod is now stand-alone, but uses the same power system as BuildCraft.",
 "author":["Team CoFH"],
