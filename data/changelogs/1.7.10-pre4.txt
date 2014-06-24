@@ -3,6 +3,7 @@
 		+Added "Boost"
 		+Added "Fishing Nets"
 		+Added "KingCore"
+		+Added "Tool Heads"
 	+Added "Baubles"
 	+Added "ChatLog"
 	+Added "ChickenShed"
