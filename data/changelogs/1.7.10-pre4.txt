@@ -1,6 +1,7 @@
 (June/24/2014)
 	+Added mods by Duke605 (Which are the following)
 		+Added "Boost"
+		+Added "Fishing Nets"
 		+Added "KingCore"
 	+Added "Baubles"
 	+Added "ChatLog"
