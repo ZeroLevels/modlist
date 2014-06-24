@@ -1,6 +1,7 @@
 (June/24/2014)
 	*Updated "ChatLog" info: Now "Forge Required"
 	+Added "Elemental Creepers"
+	+Added "Female Gender Option": Currently in Beta
 	+Added "Flatbedrock"
 	+Added "Stone Armour"
 
