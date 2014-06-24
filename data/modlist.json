@@ -1267,7 +1267,7 @@
 "source":"https://github.com/Azanor/Baubles",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10-pre4","1.7.2"]
+"versions":["1.7.2"]
 
 },{
 
@@ -5846,6 +5846,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Flatbedrock",
+"link":"http://bit.ly/TrSS07",
+"desc":"Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.",
+"author":["Gigabit101"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 

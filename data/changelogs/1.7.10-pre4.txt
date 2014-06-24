@@ -5,9 +5,9 @@
 		+Added "Ingame Mod List 4"
 		+Added "KingCore"
 		+Added "Tool Heads"
-	+Added "Baubles"
 	+Added "ChatLog"
 	+Added "ChickenShed"
+	+Added "Flatbedrock"
 	+Added "Forge": Currently in Pre-release
 	+Added "Glowstone Wire"
 	+Added "OpenEye": Currently in Beta
