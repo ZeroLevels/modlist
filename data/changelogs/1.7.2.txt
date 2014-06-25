@@ -3,6 +3,7 @@
 	*Updated "Yet Another Leather Smelting Mod" authors: airbreather is now AiryBreath
 	*Updated "Yet Another Food Mod" authors: airbreather is now AiryBreath
 	+Added "Talismans"
+	+Added "Steve's Carts 2": Currently in Beta
 
 (June/24/2014)
 	*Updated "ChatLog" info: Now "Forge Required"

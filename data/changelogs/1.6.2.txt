@@ -1,4 +1,5 @@
 (June/24/2014)
+	*Updated "Steve's Carts 2" info: Currently in Beta
 	+Added "Picture-in-Picture"
 
 (June/14/2014)
