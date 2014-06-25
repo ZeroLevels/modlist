@@ -4,6 +4,7 @@
 	+Added "EnderIO": Currently in Beta
 	+Added "IronChests"
 	+Added "Talismans"
+	+Added "Yet Another Leather Smelting Mod"
 
 (June/24/2014)
 	+Added 6 mods by Duke605 (Which are the following)

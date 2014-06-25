@@ -16959,14 +16959,14 @@
 },{
 
 "name":"Yet Another Leather Smelting Mod",
-"other":"YALSM",
+"other":"(YALSM)",
 "link":"http://bit.ly/16N0vBP",
 "desc":"Adds recipes to smelt rotten flesh into leather. Conversion ratio is 5x Rotten Flesh = 1x Leather.",
-"author":["airbreather","skidznet"],
+"author":["AiryBreath","skidznet"],
 "source":"https://github.com/airbreather/YALSM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 
