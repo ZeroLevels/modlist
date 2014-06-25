@@ -2,6 +2,8 @@
 	*Updated "ChatLog" info: Now "Forge Required"
 	*Updated "Female Gender Option" description and info: Does not require "Render Player API", Currently in Beta
 	*Updated "Thermal Expansion 3" info: No longer in Beta
+	*Updated "Steve's Carts 2" info: Currently in Beta
+	*Updated "Steve's Factory Manager" info: Added source
 	+Added "Elemental Creepers"
 	+Added "Flatbedrock"
 	+Added "Picture-in-Picture"
