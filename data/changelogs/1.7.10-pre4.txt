@@ -3,6 +3,7 @@
 	+Added "Botania"
 	+Added "EnderIO": Currently in Beta
 	+Added "IronChests"
+	+Added "PortaPortal"
 	+Added "Professor Flaxbeard's Wondrous Steam Power Mod"
 	+Added "Railcraft"
 	+Added "Talismans"
