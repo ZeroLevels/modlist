@@ -1,6 +1,7 @@
 (June/25/2014)
 	+Added "Baubles"
 	+Added "Botania"
+	+Added "EnderIO": Currently in Beta
 	+Added "Talismans"
 
 (June/24/2014)

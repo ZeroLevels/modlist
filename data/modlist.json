@@ -4918,7 +4918,19 @@
 },{
 
 "name":"EnderIO",
-"other":"(Alpha)",
+"other":"(Beta)",
+"link":"http://bit.ly/1mmVPKR",
+"desc":"Multiple pipes in a single block. Buildcraft API and Forge Fluids compatible. Remote access to machines / inventories etc.",
+"author":["CrazyPants"],
+"source":"https://github.com/CrazyPants/EnderIO",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10-pre4"]
+
+},{
+
+"name":"EnderIO",
+"other":"(Beta)",
 "link":"http://bit.ly/1dQXp2X",
 "desc":"Multiple pipes in a single block. Buildcraft API and Forge Fluids compatible. Remote access to machines / inventories etc.",
 "author":["CrazyPants"],

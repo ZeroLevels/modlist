@@ -1,4 +1,5 @@
 (June/25/2014)
+	*Updated "EnderIO" info: No longer in Alpha, Now in Beta
 	+Added "Talismans"
 
 (June/24/2014)
