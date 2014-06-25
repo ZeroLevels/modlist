@@ -1,5 +1,8 @@
-(June/24/2014)
+(June/25/2014)
 	*Updated "Steve's Carts 2" info: Currently in Beta
+	*Updated "Immibis's Microblocks" info: Requires "Immibis Core"
+
+(June/24/2014)
 	+Added "Picture-in-Picture"
 
 (June/14/2014)

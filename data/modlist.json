@@ -7454,7 +7454,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7464,8 +7464,8 @@
 "desc":"Mostly work like RedPower 2's microblocks. Install into the coremods folder. Required for RedLogic.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"dependencies":["Forge Required","Immibis Core"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -12741,7 +12741,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core","Immibis's Microblocks"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
