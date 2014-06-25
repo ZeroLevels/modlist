@@ -3,7 +3,7 @@
 	*Updated "Steve's Factory Manager" info: Added source
 	*Updated "Yet Another Leather Smelting Mod" authors: airbreather is now AiryBreath
 	*Updated "Yet Another Food Mod" authors: airbreather is now AiryBreath
-	+Added 3 mods by immibis
+	+Added 3 mods by immibis (Which are the following)
 		+Added "Immibis Core"
 		+Added "Immibis's Microblocks"
 		+Added "RedLogic"
