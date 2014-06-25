@@ -12546,18 +12546,7 @@
 "author":["CovertJaguar"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"Railcraft",
-"other":"(Beta)",
-"link":"http://bit.ly/1leAWA8",
-"desc":"Features a fully fleshed out tech tree, with great effort gone into providing a balanced gameplay based around rails and their creation.",
-"author":["CovertJaguar"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -15602,6 +15591,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Too Many God Damn Ores!",
+"link":"http://bit.ly/1mepi4J",
+"desc":"Combines redundant ores from other mods by modifying ore drops. Different kinds of copper ores will only return 1 type when mined. Uses a configuration file to control exclusions and replacements.",
+"author":["ollieread"],
+"source":"https://github.com/ollieread/TooManyGodDamnOres",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 

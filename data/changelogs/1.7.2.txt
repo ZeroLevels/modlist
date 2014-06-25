@@ -1,5 +1,6 @@
 (June/25/2014)
 	*Updated "EnderIO" info: No longer in Alpha, Now in Beta
+	*Updated "Railcraft" info: No longer in Beta, Now released
 	*Updated "Steve's Factory Manager" info: Added source
 	*Updated "Yet Another Leather Smelting Mod" authors: airbreather is now AiryBreath
 	*Updated "Yet Another Food Mod" authors: airbreather is now AiryBreath
@@ -11,8 +12,9 @@
 		+Added "Immibis's Microblocks"
 		+Added "RedLogic"
 	+Added "Project: Red"
-	+Added "Talismans"
 	+Added "Steve's Carts 2": Currently in Beta
+	+Added "Talismans"
+	+Added "Too Many God Damn Ores!"
 
 (June/24/2014)
 	*Updated "ChatLog" info: Now "Forge Required"

@@ -4,6 +4,7 @@
 	+Added "EnderIO": Currently in Beta
 	+Added "IronChests"
 	+Added "Professor Flaxbeard's Wondrous Steam Power Mod"
+	+Added "Railcraft"
 	+Added "Talismans"
 	+Added "Yet Another Leather Smelting Mod"
 	+Added "Yet Another Food Mod"
