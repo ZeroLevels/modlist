@@ -15594,6 +15594,17 @@
 
 },{
 
+"name":"Too Many God Damn Ores!",
+"link":"http://bit.ly/1mepi4J",
+"desc":"Combines redundant ores from other mods by modifying ore drops. Different kinds of copper ores will only return 1 type when mined. Uses a configuration file to control exclusions and replacements.",
+"author":["ollieread"],
+"source":"https://github.com/ollieread/TooManyGodDamnOres",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"TooManyItems",
 "other":"(TMI)",
 "link":"http://bit.ly/toomanyitems",
