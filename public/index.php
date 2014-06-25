@@ -405,7 +405,9 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
     $service->validateParam('nothuman','robot')->null();
     
     if($request->param('request-type') === 'new') {
-        $service->validateParam('link','submission')->notNull()->isUrl();
+        //$service->validateParam('link','submission')->notNull()->isUrl();
+        // TODO: Proper validation. FILTER_VALIDATE_URL does not allow underscores in domain names
+        $service->validateParam('link','submission')->notNull()->contains('://');
         $service->validateParam('desc','submission')->notNull();
         $service->validateParam('authors','submission')->notNull();
         $service->validateParam('forge','submission')->notNull();
