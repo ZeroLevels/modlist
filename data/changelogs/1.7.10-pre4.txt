@@ -5,6 +5,7 @@
 	+Added "IronChests"
 	+Added "Talismans"
 	+Added "Yet Another Leather Smelting Mod"
+	+Added "Yet Another Food Mod"
 
 (June/24/2014)
 	+Added 6 mods by Duke605 (Which are the following)

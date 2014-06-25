@@ -1,6 +1,7 @@
 (June/25/2014)
 	*Updated "EnderIO" info: No longer in Alpha, Now in Beta
 	*Updated "Yet Another Leather Smelting Mod" authors: airbreather is now AiryBreath
+	*Updated "Yet Another Food Mod" authors: airbreather is now AiryBreath
 	+Added "Talismans"
 
 (June/24/2014)

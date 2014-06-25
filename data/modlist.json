@@ -16950,11 +16950,11 @@
 "other":"(YAFM)",
 "link":"http://bit.ly/1cXpx44",
 "desc":"Adds a few more food items that felt like they were missing from the base game: Mutton (sheep), squid, and fried eggs.",
-"author":["airbreather","skidznet"],
+"author":["AiryBreath","skidznet"],
 "source":"https://github.com/airbreather/YAFM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 
