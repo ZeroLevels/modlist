@@ -7758,7 +7758,7 @@
 "source":"https://github.com/cpw/ironchest",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -16950,23 +16950,23 @@
 "other":"(YAFM)",
 "link":"http://bit.ly/1cXpx44",
 "desc":"Adds a few more food items that felt like they were missing from the base game: Mutton (sheep), squid, and fried eggs.",
-"author":["airbreather","skidznet"],
+"author":["AiryBreath","skidznet"],
 "source":"https://github.com/airbreather/YAFM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 
 "name":"Yet Another Leather Smelting Mod",
-"other":"YALSM",
+"other":"(YALSM)",
 "link":"http://bit.ly/16N0vBP",
 "desc":"Adds recipes to smelt rotten flesh into leather. Conversion ratio is 5x Rotten Flesh = 1x Leather.",
-"author":["airbreather","skidznet"],
+"author":["AiryBreath","skidznet"],
 "source":"https://github.com/airbreather/YALSM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
 
 },{
 
