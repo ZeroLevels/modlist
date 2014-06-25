@@ -1,5 +1,6 @@
 (June/25/2014)
 	+Added "Baubles"
+	+Added "Botania"
 	+Added "Talismans"
 
 (June/24/2014)
