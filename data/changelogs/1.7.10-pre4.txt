@@ -2,6 +2,7 @@
 	+Added "Baubles"
 	+Added "Botania"
 	+Added "EnderIO": Currently in Beta
+	+Added "IronChests"
 	+Added "Talismans"
 
 (June/24/2014)
