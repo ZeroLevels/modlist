@@ -6938,6 +6938,17 @@
 "author":["iChun"],
 "source":"https://github.com/iChun/Hats",
 "type":["Client"],
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Hats",
+"link":"http://bit.ly/14814a3",
+"desc":"Adds an Aesthetic feature onto players, namely Hats! Comes pre-packaged with 77 hats which will automatically get installed when the mod is run for the first time.",
+"author":["iChun"],
+"source":"https://github.com/iChun/Hats",
+"type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
