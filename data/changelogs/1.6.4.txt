@@ -2,6 +2,7 @@
 	*Updated "Immibis's Microblocks" info: Requires "Immibis Core"
 	*Updated "Steve's Carts 2" info: Currently in Beta
 	*Updated "Steve's Factory Manager" info: Added source
+	+Added "ACT"
 
 (June/24/2014)
 	*Updated "ChatLog" info: Now "Forge Required"
