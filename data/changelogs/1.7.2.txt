@@ -7,6 +7,7 @@
 		+Added "Immibis Core"
 		+Added "Immibis's Microblocks"
 		+Added "RedLogic"
+	+Added "Project: Red"
 	+Added "Talismans"
 	+Added "Steve's Carts 2": Currently in Beta
 
