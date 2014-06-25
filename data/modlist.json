@@ -14591,6 +14591,16 @@
 
 },{
 
+"name":"Talismans",
+"link":"http://bit.ly/1l6Dj4m",
+"desc":"Adds talismans which grant abilities such as fire immunity, underwater breathing and night vision.",
+"author":["Gigabit101"],
+"type":["Universal"],
+"dependencies":["Forge Required","Baubles"],
+"versions":["1.7.10-pre4","1.7.2"]
+
+},{
+
 "name":"Team Fortress 2 Mods",
 "link":"http://bit.ly/TGsYTm",
 "desc":"Includes four mods containing Team Fortress 2 themed content, including teleporters, sentries, dispensers, and a team addon.",

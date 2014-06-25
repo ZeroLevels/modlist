@@ -1,5 +1,6 @@
 (June/25/2014)
 	+Added "Baubles"
+	+Added "Talismans"
 
 (June/24/2014)
 	+Added 6 mods by Duke605 (Which are the following)
