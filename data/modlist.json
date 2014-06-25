@@ -17119,6 +17119,17 @@
 
 },{
 
+"name":"ZoomMod",
+"link":"http://bit.ly/1i0Cs6h",
+"desc":"Allows you to zoom by holding a configurable button.",
+"author":["ga2mer"],
+"source":"https://github.com/ga2mer/ZoomMod",
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.7.10-pre4"]
+
+},{
+
 "name":"Zyin's HUD",
 "link":"http://bit.ly/12nyMm0",
 "desc":"Adds your coordinates, a compass, calculates distances, shows nearby players, shows unsafe areas, shows potion duration, eating helper, weapon swapper, an fps counter, displays horse stats, and dynamically displays your equipment that is at less than 10% durability.",
