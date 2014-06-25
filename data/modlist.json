@@ -20,6 +20,17 @@
 
 },{
 
+"name":"ACT",
+"other":"Admin Commands Toolbox",
+"link":"http://bit.ly/1loPKNA",
+"desc":"Adds a few commands to facilitate server administration, such as pre-generating chunks and unloading chunks from memory.",
+"author":["ProfMobius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Additional Buildcraft Objects",
 "link":"http://bit.ly/13infK7",
 "desc":"Provides some additional pipes and objects for buildcraft.",
