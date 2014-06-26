@@ -1,3 +1,6 @@
+(June/26/2014)
+	+Added "GwyCraft"
+
 (June/25/2014)
 	*Updated "EnderIO" info: No longer in Alpha, Now in Beta
 	*Updated "Railcraft" info: No longer in Beta, Now released

@@ -6829,6 +6829,17 @@
 
 },{
 
+"name":"GwyCraft",
+"link":"http://bit.ly/1iyh7pd",
+"desc":"Adds colored and glowing versions of blocks such as stone, planks, and bookcases.",
+"author":["gwydion0917","zepanv"],
+"source":"https://github.com/gwydion0917/gwycraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10-pre4","1.7.2","1.6.4"]
+
+},{
+
 "name":"Hamsterrific Mod",
 "link":"http://bit.ly/1lW7jlW",
 "desc":"Adds hamsters. In order to tame the hamsters (which are randomly spawned in your minecraft world) you right click them (or feed them) with seeds. You can also put them on your head by right clicking them with paper and take them along with you in your minecraft journeys!",
