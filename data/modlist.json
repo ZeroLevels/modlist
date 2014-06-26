@@ -1444,6 +1444,17 @@
 
 },{
 
+"name":"Better Foliage",
+"link":"http://bit.ly/1mhvcCg",
+"desc":"Visually enhances foliage like trees and grass with configurable settings.",
+"author":["octarine-noise"],
+"source":"https://github.com/octarine-noise/BetterFoliage",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"BetterFonts",
 "link":"http://bit.ly/UxdaF2",
 "desc":"Adds TrueType/OpenType font support for Minecraft. This mod will use the fonts installed on your system for drawing text instead of the builtin bitmap fonts that come with Minecraft.",

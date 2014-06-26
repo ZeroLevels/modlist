@@ -1,4 +1,5 @@
 (June/26/2014)
+	+Added "Better Foliage"
 	+Added "GwyCraft"
 
 (June/25/2014)
