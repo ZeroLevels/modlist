@@ -1,5 +1,6 @@
 (June/27/2014)
 	*Updated "Applied Energistics 2" info: No longer in Beta, now Stable
+	*Updated "Biomes O' Plenty" description and info: Now Stable
 	+Added 2 mods by masa_fi (Which are the following)
 		+Added "Ender Utilities"
 		+Added "Multishot"
