@@ -5,6 +5,7 @@
 		+Added "Multishot"
 	+Added "Applied Energistics 2"
 	+Added "Biomes O' Plenty": Currently unstable
+	+Added "Inventory Tweaks"
 	+Added "No Hotbar Scroll"
 	+Added "Super Massive Tech"
 
