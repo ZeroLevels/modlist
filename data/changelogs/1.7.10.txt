@@ -7,6 +7,7 @@
 	+Added "Biomes O' Plenty": Currently unstable
 	+Added "Inventory Tweaks"
 	+Added "No Hotbar Scroll"
+	+Added "Optifine": Currently unstable
 	+Added "Super Massive Tech"
 
 (June/26/2014)
