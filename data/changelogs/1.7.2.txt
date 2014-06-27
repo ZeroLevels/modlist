@@ -3,6 +3,7 @@
 	+Added 2 mods by masa_fi (Which are the following)
 		+Added "Ender Utilies"
 		+Added "Multishot"
+	+Added "Super Massive Tech"
 
 (June/26/2014)
 	+Added "Better Foliage"

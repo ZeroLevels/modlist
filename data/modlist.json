@@ -14612,6 +14612,17 @@
 
 },{
 
+"name":"Super Massive Tech",
+"link":"http://bit.ly/1yTCtlH",
+"desc":"Adds blocks and items related with stars and black holes, with waypoints and gravity armor.",
+"author":["Tterrag"],
+"source":"https://github.com/tterrag1098/SuperMassiveTech",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Super Sword",
 "link":"http://www.minecraftforum.net/topic/1996694-",
 "desc":"Adds a sword that does +20,000 damage, effectively killing anything (in Vanilla) with a single hit.",
