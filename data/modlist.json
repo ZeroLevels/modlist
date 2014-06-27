@@ -11149,6 +11149,16 @@
 
 },{
 
+"name":"No Hotbar Scroll",
+"link":"http://bit.ly/1o8zmkf",
+"desc":"Disables scrolling on the inventory hotbar.",
+"author":["ezfe"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"No Ice Melt",
 "link":"http://bit.ly/V1qVZv",
 "desc":"Prevents ice from melting.",
