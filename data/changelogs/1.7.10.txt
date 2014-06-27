@@ -1,5 +1,6 @@
 (June/27/2014)
 	*Updated "Forge" info: Currently in Beta
+	+Added "Applied Energistics 2"
 
 (June/26/2014)
 	+Added "Chisel"
