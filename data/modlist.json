@@ -15688,7 +15688,7 @@
 "desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
 "author":["Marglyph"],
 "type":["Client"],
-"dependencies":["Not Forge Compatible"],
+"dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.10"]
 
 },{
@@ -17223,7 +17223,7 @@
 "author":["ga2mer"],
 "source":"https://github.com/ga2mer/ZoomMod",
 "type":["Client"],
-"dependencies":["Not Forge Compatible"],
+"dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.10"]
 
 },{
