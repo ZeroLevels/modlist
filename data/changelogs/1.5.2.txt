@@ -1,3 +1,6 @@
+(June/27/2014)
+	+Added "Multishot"
+
 (June/25/2014)
 	*Updated "Immibis's Microblocks" info: Requires "Immibis Core"
 

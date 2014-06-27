@@ -10738,6 +10738,17 @@
 
 },{
 
+"name":"Multishot",
+"link":"http://bit.ly/1yTsg8R",
+"desc":"A tool for making timelapses or taking automatic screenshots, with different motion modes and zoom functionality.",
+"author":["masa_fi"],
+"source":"http://github.com/maruohon/multishot",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
+
+},{
+
 "name":"Multiworld",
 "link":"http://bit.ly/MpeFmb",
 "desc":"A Forge Dimension Provider. Gives a choice of different world types, and adds a custom one with a choice of any number of biomes. Allows old saves to be imported as a dimension.",

@@ -1,7 +1,9 @@
 (June/27/2014)
 	*Updated "Forge" info: Currently in Beta
+	+Added 2 mods by masa_fi
+		+Added "Ender Utilies"
+		+Added "Multishot"
 	+Added "Applied Energistics 2"
-	+Added "Ender Utilies"
 	+Added "No Hotbar Scroll"
 
 (June/26/2014)

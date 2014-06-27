@@ -1,3 +1,6 @@
+(June/27/2014)
+	+Added "Multishot"
+
 (June/26/2014)
 	+Added "GwyCraft"
 
