@@ -4917,6 +4917,18 @@
 
 },{
 
+"name":"Ender Utilies",
+"link":"http://bit.ly/1sJumHL",
+"desc":"Adds miscellaneous items and blocks with Ender-based mechanics. Entry for ModJam 4.",
+"author":["masa_fi"],
+"source":"https://github.com/maruohon/modjam4",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"],
+"tags":["modjam","modjam4"]
+
+},{
+
 "name":"Endergun Mod",
 "link":"http://bit.ly/13GuGJ1",
 "desc":"Mobs teleport anywhere from 1 block to 100 blocks away after being shot by the gun.",
@@ -11137,6 +11149,16 @@
 
 },{
 
+"name":"No Hotbar Scroll",
+"link":"http://bit.ly/1o8zmkf",
+"desc":"Disables scrolling on the inventory hotbar.",
+"author":["ezfe"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"No Ice Melt",
 "link":"http://bit.ly/V1qVZv",
 "desc":"Prevents ice from melting.",
@@ -15666,7 +15688,7 @@
 "desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
 "author":["Marglyph"],
 "type":["Client"],
-"dependencies":["Not Forge Compatible"],
+"dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.10"]
 
 },{
@@ -17201,7 +17223,7 @@
 "author":["ga2mer"],
 "source":"https://github.com/ga2mer/ZoomMod",
 "type":["Client"],
-"dependencies":["Not Forge Compatible"],
+"dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.10"]
 
 },{
