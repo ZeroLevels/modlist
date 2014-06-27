@@ -5,6 +5,7 @@
 		+Added "Multishot"
 	+Added "Applied Energistics 2"
 	+Added "No Hotbar Scroll"
+	+Added "Super Massive Tech"
 
 (June/26/2014)
 	+Added "Chisel"
