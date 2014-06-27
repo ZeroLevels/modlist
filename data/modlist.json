@@ -574,13 +574,12 @@
 },{
 
 "name":"Applied Energistics 2",
-"other":"(Beta)",
 "link":"http://bit.ly/1h40sSO",
 "desc":"Providing systems to store, process, and transport Energy. Supports ForgeMultipart and other automation mods. Incompatible with the original Applied Energistics mod.",
 "author":["AlgorithmX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
