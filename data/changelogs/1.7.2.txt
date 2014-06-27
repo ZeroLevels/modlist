@@ -1,5 +1,6 @@
 (June/27/2014)
 	*Updated "Applied Energistics 2" info: No longer in Beta, now Stable
+	+Added "Ender Utilies"
 
 (June/26/2014)
 	+Added "Better Foliage"
