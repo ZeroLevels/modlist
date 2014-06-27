@@ -6,6 +6,7 @@
 	+Added "Applied Energistics 2"
 	+Added "Biomes O' Plenty": Currently unstable
 	+Added "Inventory Tweaks"
+	+Added "Morpheus"
 	+Added "No Hotbar Scroll"
 	+Added "Optifine": Currently unstable
 	+Added "Super Massive Tech"
