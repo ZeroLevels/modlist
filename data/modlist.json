@@ -16401,13 +16401,25 @@
 },{
 
 "name":"VeinMiner",
+"other":"(Beta)",
 "link":"http://bit.ly/1moK8zk",
 "desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
 "author":["portablejim"],
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"VeinMiner",
+"link":"http://bit.ly/1moK8zk",
+"desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/VeinMiner",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 

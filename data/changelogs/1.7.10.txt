@@ -1,6 +1,7 @@
 (June/28/2014)
 	+Added "IndustrialCraft 2": Experimental
 	+Added "RemoteIO"
+	+Added "VeinMiner": Currently in Beta
 
 (June/27/2014)
 	*Updated "Forge" info: Currently in Beta
