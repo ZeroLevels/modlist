@@ -15726,6 +15726,17 @@
 
 },{
 
+"name":"TooMuchLoot",
+"link":"http://bit.ly/1nRaSsM",
+"desc":"Controls dungeon loot through configuration files.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/TooMuchLoot",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"TooManyPlants",
 "link":"http://bit.ly/13dBE6D",
 "desc":"",
