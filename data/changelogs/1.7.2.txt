@@ -1,4 +1,5 @@
 (June/28/2014)
+	*Updated "Equivalent Exchange 3" info: No longer in Beta
 	*Updated "VeinMiner" info: Currently in Beta
 
 (June/27/2014)
