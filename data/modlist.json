@@ -7595,7 +7595,7 @@
 "author":["Alblaka","player"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -12029,6 +12029,18 @@
 },{
 
 "name":"Planter Helper",
+"other":"(Beta)",
+"link":"http://bit.ly/1eD8geR",
+"desc":"Adds new tools that helps with the process of planting crops with 3 different tiers of planters and miscellaneous additions.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/PlanterHelper",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Planter Helper",
 "link":"http://bit.ly/1eD8geR",
 "desc":"Adds new tools that helps with the process of planting crops with 3 different tiers of planters and miscellaneous additions.",
 "author":["portablejim"],
@@ -13033,7 +13045,7 @@
 "source":"https://github.com/dmillerw/RemoteIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16401,13 +16413,25 @@
 },{
 
 "name":"VeinMiner",
+"other":"(Beta)",
 "link":"http://bit.ly/1moK8zk",
 "desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
 "author":["portablejim"],
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"VeinMiner",
+"link":"http://bit.ly/1moK8zk",
+"desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/VeinMiner",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
