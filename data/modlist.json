@@ -12029,6 +12029,18 @@
 },{
 
 "name":"Planter Helper",
+"other":"(Beta)",
+"link":"http://bit.ly/1eD8geR",
+"desc":"Adds new tools that helps with the process of planting crops with 3 different tiers of planters and miscellaneous additions.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/PlanterHelper",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Planter Helper",
 "link":"http://bit.ly/1eD8geR",
 "desc":"Adds new tools that helps with the process of planting crops with 3 different tiers of planters and miscellaneous additions.",
 "author":["portablejim"],
