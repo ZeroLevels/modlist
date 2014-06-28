@@ -1,10 +1,12 @@
 (June/28/2014)
+	+Added 2 mods by dmillerw (Which are the following)
+		+Added "RemoteIO"
+		+Added "TooMuchLoot"
 	+Added 2 mods by portablejim (Which are the following)
 		+Added "VeinMiner": Currently in Beta
 		+Added "Planter Helper": Currently in Beta
 	+Added "Equivalent Exchange 3"
 	+Added "IndustrialCraft 2": Experimental
-	+Added "RemoteIO"
 
 (June/27/2014)
 	*Updated "Forge" info: Currently in Beta

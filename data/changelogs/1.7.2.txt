@@ -1,6 +1,7 @@
 (June/28/2014)
 	*Updated "Equivalent Exchange 3" info: No longer in Beta
 	*Updated "VeinMiner" info: Currently in Beta
+	+Added "Truss Mod": Currently in Beta
 
 (June/27/2014)
 	*Updated "Applied Energistics 2" info: No longer in Beta, now Stable
