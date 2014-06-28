@@ -2,6 +2,7 @@
 	+Added 2 mods by portablejim (Which are the following)
 		+Added "VeinMiner": Currently in Beta
 		+Added "Planter Helper": Currently in Beta
+	+Added "Equivalent Exchange 3"
 	+Added "IndustrialCraft 2": Experimental
 	+Added "RemoteIO"
 
