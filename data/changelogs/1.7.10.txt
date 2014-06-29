@@ -1,6 +1,7 @@
 (June/29/2014)
 	+Added "Blood Magic"
 	+Added "EiraIRC": Currently in Beta
+	+Added "Immibis Core"
 
 (June/28/2014)
 	+Added 2 mods by dmillerw (Which are the following)
