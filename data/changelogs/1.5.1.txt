@@ -1,5 +1,7 @@
 (June/29/2014)
-	*Updated "InfiniTubes" info: Requires "Immibis Core"
+	*Updated 2 mods by immibis (Which are the following)
+		*Updated "InfiniTubes" info: Requires "Immibis Core"
+		*Updated "Liquid XP" info: Requires "Immibis Core"
 
 (June/25/2014)
 	*Updated "Immibis's Microblocks" info: Requires "Immibis Core"

@@ -1,6 +1,7 @@
 (June/29/2014)
-	+Added 2 mods by immibis (Which are the following)
+	+Added 3 mods by immibis (Which are the following)
 		+Added "InfiniTubes"
+		+Added "Liquid XP"
 		+Added "TubeStuff"
 
 (June/28/2014)
