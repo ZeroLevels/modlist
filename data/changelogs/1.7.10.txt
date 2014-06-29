@@ -3,6 +3,7 @@
 		+Added "Immibis Core"
 		+Added "Immibis's Microblocks"
 		+Added "RedLogic"
+		+Added "TubeStuff"
 	+Added "Blood Magic"
 	+Added "EiraIRC": Currently in Beta
 
