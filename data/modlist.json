@@ -4694,6 +4694,18 @@
 },{
 
 "name":"EiraIRC",
+"other":"(Beta)",
+"link":"http://bit.ly/1kTCYEf",
+"desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
+"author":["Blay09"],
+"source":"https://github.com/blay09/EiraIRC",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"EiraIRC",
 "link":"http://bit.ly/1kTCYEf",
 "desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
 "author":["Blay09"],

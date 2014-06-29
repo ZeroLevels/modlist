@@ -1,3 +1,6 @@
+(June/29/2014)
+	+Added "EiraIRC": Currently in Beta
+
 (June/28/2014)
 	+Added 2 mods by dmillerw (Which are the following)
 		+Added "RemoteIO"
