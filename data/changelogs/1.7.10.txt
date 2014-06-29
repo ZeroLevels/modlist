@@ -1,4 +1,5 @@
 (June/29/2014)
+	+Added "Blood Magic"
 	+Added "EiraIRC": Currently in Beta
 
 (June/28/2014)
