@@ -1,5 +1,7 @@
 (June/29/2014)
-	+Added "TubeStuff"
+	+Added 2 mods by immibis (Which are the following)
+		+Added "InfiniTubes"
+		+Added "TubeStuff"
 
 (June/28/2014)
 	*Updated "Equivalent Exchange 3" info: No longer in Beta

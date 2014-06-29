@@ -1,3 +1,6 @@
+(June/29/2014)
+	*Updated "InfiniTubes" info: Requires "Immibis Core"
+
 (June/27/2014)
 	+Added "Multishot"
 

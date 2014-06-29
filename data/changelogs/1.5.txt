@@ -1,3 +1,6 @@
+(June/29/2014)
+	*Updated "InfiniTubes" info: Requires "Immibis Core"
+
 (June/25/2014)
 	*Updated "Immibis's Microblocks" info: Requires "Immibis Core"
 

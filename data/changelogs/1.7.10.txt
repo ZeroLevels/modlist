@@ -1,7 +1,8 @@
 (June/29/2014)
-	+Added mods by immibis (Which are the following)
+	+Added 5 mods by immibis (Which are the following)
 		+Added "Immibis Core"
 		+Added "Immibis's Microblocks"
+		+Added "InfiniTubes"
 		+Added "RedLogic"
 		+Added "TubeStuff"
 	+Added "Blood Magic"
