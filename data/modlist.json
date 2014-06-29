@@ -4273,8 +4273,18 @@
 "desc":"This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.",
 "author":["immibis"],
 "type":["Universal"],
+"dependencies":["Forge Required","Immibis Core"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Dimensional Anchors",
+"link":"http://bit.ly/Uvusgl",
+"desc":"This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.",
+"author":["immibis"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.4.7"]
 
 },{
 
