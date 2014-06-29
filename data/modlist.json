@@ -1891,7 +1891,7 @@
 "source":"https://github.com/WayofTime/BloodMagic",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -4273,8 +4273,18 @@
 "desc":"This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.",
 "author":["immibis"],
 "type":["Universal"],
+"dependencies":["Forge Required","Immibis Core"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Dimensional Anchors",
+"link":"http://bit.ly/Uvusgl",
+"desc":"This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.",
+"author":["immibis"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.4.7"]
 
 },{
 
@@ -4690,6 +4700,18 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"EiraIRC",
+"other":"(Beta)",
+"link":"http://bit.ly/1kTCYEf",
+"desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
+"author":["Blay09"],
+"source":"https://github.com/blay09/EiraIRC",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -7519,7 +7541,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7530,7 +7552,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7623,8 +7645,18 @@
 "desc":"Provides a way to move items from A to B, by labeling them.",
 "author":["immibis"],
 "type":["Universal"],
+"dependencies":["Forge Required","Immibis Core"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"InfiniTubes",
+"link":"http://bit.ly/Uvusgl",
+"desc":"Provides a way to move items from A to B, by labeling them.",
+"author":["immibis"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.4.7"]
 
 },{
 
@@ -8536,8 +8568,18 @@
 "desc":"Adds liquid XP, and related machines. You will need a mod capable of transporting liquids. It has been tested with Buildcraft waterproof pipes and Thermal Expansion liquiducts. It does not seem to work with RedPower 2 fluid pipes.",
 "author":["immibis"],
 "type":["Universal"],
+"dependencies":["Forge Required","Immibis Core"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Liquid XP",
+"link":"http://bit.ly/Uvusgl",
+"desc":"Adds liquid XP, and related machines. You will need a mod capable of transporting liquids. It has been tested with Buildcraft waterproof pipes and Thermal Expansion liquiducts. It does not seem to work with RedPower 2 fluid pipes.",
+"author":["immibis"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.4.7"]
 
 },{
 
@@ -12850,7 +12892,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core","Immibis's Microblocks"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -15988,7 +16030,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 

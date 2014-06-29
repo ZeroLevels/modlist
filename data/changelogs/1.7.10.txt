@@ -1,3 +1,15 @@
+(June/30/2014)
+	+Added 7 mods by immibis (Which are the following)
+		+Added "Dimensional Anchors"
+		+Added "Immibis Core"
+		+Added "Immibis's Microblocks"
+		+Added "InfiniTubes"
+		+Added "Liquid XP"
+		+Added "RedLogic"
+		+Added "TubeStuff"
+	+Added "Blood Magic"
+	+Added "EiraIRC": Currently in Beta
+
 (June/28/2014)
 	+Added 2 mods by dmillerw (Which are the following)
 		+Added "RemoteIO"
