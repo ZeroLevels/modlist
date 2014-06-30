@@ -10,6 +10,7 @@
 		+Added "TubeStuff"
 	+Added "Blood Magic"
 	+Added "EiraIRC": Currently in Beta
+	+Added "EvilCraft"
 	+Added "MineTweaker 3"
 	+Added "Nearby Mob Finder"
 	+Added "Twilight Forest"
