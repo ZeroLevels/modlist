@@ -9,7 +9,6 @@
 		+Added "TubeStuff"
 	+Added "Blood Magic"
 	+Added "EiraIRC": Currently in Beta
-	-Removed "OpenEye": Does not function properly, see https://github.com/OpenMods/OpenData/issues/13
 
 (June/28/2014)
 	+Added 2 mods by dmillerw (Which are the following)
