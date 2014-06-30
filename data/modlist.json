@@ -11035,6 +11035,17 @@
 
 },{
 
+"name":"Nearby Mob Finder",
+"link":"http://bit.ly/1jCD41l",
+"desc":"Displays the location of hostile mobs when failing to sleep due to nearby mobs.",
+"author":["VikeStep"],
+"source":"https://github.com/VikeStep/NearbyMobFinder",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Necromancy",
 "link":"http://bit.ly/1i8DQ8Q",
 "desc":"This, in a nutshell, allows you to play god. You take bodyparts from slain foes, stitch them together as you see fit, and reanimate the horrifying resulting.",
