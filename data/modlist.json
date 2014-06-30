@@ -9625,6 +9625,17 @@
 
 },{
 
+"name":"MineTweaker 3",
+"link":"http://bit.ly/1jCBGMf",
+"desc":"Allows you to add and remove recipes, item names, ore dictionary contents and more using a custom scripting language.",
+"author":["StanH"],
+"source":"https://github.com/stanhebben/MineTweaker3",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"MineVideo",
 "link":"http://bit.ly/108pAFT",
 "desc":"MineVideo is an attempt to solve problems such as bad video quality, huge files that have to be compressed afterwards, bad ingame performance, expensive, limited or complicated tools, and watermarks. It is a mod that enables you to record ingame footage with the touch of one button. It's as easy as taking a screenshot and the resulting video files are small enough to quickly upload them to YouTube.",
