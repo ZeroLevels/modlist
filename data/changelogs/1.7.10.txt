@@ -12,6 +12,7 @@
 	+Added "EiraIRC": Currently in Beta
 	+Added "MineTweaker 3"
 	+Added "Nearby Mob Finder"
+	+Added "Twilight Forest"
 
 (June/28/2014)
 	+Added 2 mods by dmillerw (Which are the following)
