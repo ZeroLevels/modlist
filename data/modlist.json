@@ -2008,6 +2008,7 @@
 },{
 
 "name":"Botania",
+"modid":"Botania",
 "link":"http://bit.ly/1rTgKH6",
 "desc":"A magic tech mod based on nature. Features a power system called Mana, requiring time and coordination to control.",
 "author":["Vazkii"],
@@ -2019,6 +2020,7 @@
 },{
 
 "name":"Botania",
+"modid":"Botania",
 "other":"(Beta)",
 "link":"http://bit.ly/1rTgKH6",
 "desc":"A magic tech mod based on nature. Features a power system called Mana, requiring time and coordination to control.",
@@ -6568,6 +6570,7 @@
 },{
 
 "name":"Glowstone Wire",
+"modid":"GrygrFlzr_GlowstoneWire",
 "link":"http://bit.ly/13BkZcS",
 "desc":"Allows you to place glowstone dust! Not only they're great for trails, they actually give out light!",
 "author":["GrygrFlzr"],
@@ -11036,7 +11039,7 @@
 },{
 
 "name":"Nearby Mob Finder",
-"link":"http://bit.ly/1jCD41l",
+"link":"http://bit.ly/1jIxHxM",
 "desc":"Displays the location of hostile mobs when failing to sleep due to nearby mobs.",
 "author":["VikeStep"],
 "source":"https://github.com/VikeStep/NearbyMobFinder",
