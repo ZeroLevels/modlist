@@ -6,9 +6,11 @@
 	+Added 2 mods by chicken_bones (Which are the following)
 		+Added "CodeChickenCore"
 		+Added "Not Enough Items"
+	+Added "Better Foliage"
 	+Added "Metallurgy 4": Currently in Beta
 	+Added "Metallurgy Core": Currently in Beta
 	+Added "Version Checker"
+	+Added "ZZZZZ Custom Configs"
 
 (July/01/2014)
 	*Updated "Nearby Mob Finder" link
