@@ -17359,11 +17359,12 @@
 },{
 
 "name":"ZZZZZ Custom Configs",
+"modid":"zzzzzcustomconfigs",
 "link":"http://bit.ly/1m1kmFz",
 "desc":"Adds a configuration file that allows the addition and removal of recipes, blocking mobs from spawning and more.",
 "author":["ganymedes01"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 }]
