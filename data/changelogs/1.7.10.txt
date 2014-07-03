@@ -2,6 +2,7 @@
 	+Added 2 mods by Aroma1997 (Which are the following)
 		+Added "Aroma1997Core"
 		+Added "AromaBackup"
+	+Added "CodeChickenCore"
 	+Added "Version Checker"
 
 (July/01/2014)
