@@ -9190,6 +9190,7 @@
 },{
 
 "name":"Metallurgy 4",
+"modid":"Metallurgy",
 "other":"(Beta)",
 "link":"http://bit.ly/17aSWTB",
 "desc":"Enhances the basic mining system, adding over 48 new metals such as copper, platinum and ceruclase. Allows a variety of different configurations due to its modular system.",
@@ -9197,7 +9198,7 @@
 "source":"https://github.com/TeamMetallurgy/Metallurgy4",
 "type":["Universal"],
 "dependencies":["Forge Required","Metallurgy Core"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
