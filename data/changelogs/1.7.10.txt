@@ -3,7 +3,9 @@
 	+Added 2 mods by Aroma1997 (Which are the following)
 		+Added "Aroma1997Core"
 		+Added "AromaBackup"
-	+Added "CodeChickenCore"
+	+Added 2 mods by chicken_bones (Which are the following)
+		+Added "CodeChickenCore"
+		+Added "Not Enough Items"
 	+Added "Version Checker"
 
 (July/01/2014)
