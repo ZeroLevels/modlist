@@ -737,12 +737,13 @@
 },{
 
 "name":"AromaBackup",
+"modid":"AromaBackup",
 "link":"http://bit.ly/10mzNIz",
 "desc":"Enables automatically scheduled backups of a world.",
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 

@@ -1,5 +1,7 @@
 (July/03/2014)
-	+Added "Aroma1997Core"
+	+Added 2 mods by Aroma1997 (Which are the following)
+		+Added "Aroma1997Core"
+		+Added "AromaBackup"
 
 (July/01/2014)
 	*Updated "Nearby Mob Finder" link
