@@ -2939,6 +2939,7 @@
 },{
 
 "name":"CodeChickenCore",
+"modid":"CodeChickenCore",
 "other":"(Dependency)",
 "link":"http://bit.ly/cb-core",
 "desc":"This mod is required for Not Enough Items (NEI), Ender Storage, Translocator, and ChickenChunks.",
@@ -2946,7 +2947,7 @@
 "source":"https://github.com/Chicken-Bones/CodeChickenLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -6164,19 +6165,7 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
-
-},{
-
-"name":"Forge",
-"other":"(API) (Beta)",
-"link":"http://bit.ly/forge-dl",
-"desc":"A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
-"author":["LexManos"],
-"source":"https://github.com/MinecraftForge/MinecraftForge",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -11330,13 +11319,14 @@
 },{
 
 "name":"Not Enough Items",
+"modid":"NotEnoughItems",
 "other":"(NEI)",
 "link":"http://bit.ly/UvpH6y",
 "desc":"NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.",
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
