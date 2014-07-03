@@ -10,6 +10,7 @@
 	+Added "LiteLoader"
 	+Added "Metallurgy 4": Currently in Beta
 	+Added "Metallurgy Core": Currently in Beta
+	+Added "TooMuchRain"
 	+Added "Uyjulian's X-ray Mod"
 	+Added "Version Checker"
 	+Added "ZZZZZ Custom Configs"

@@ -15799,6 +15799,18 @@
 
 },{
 
+"name":"TooMuchRain",
+"modid":"TooMuchRain",
+"link":"http://bit.ly/1lCQN87",
+"desc":"Controls rain duration and frequency through configuration files.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/TooMuchRain",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"TooManyPlants",
 "link":"http://bit.ly/13dBE6D",
 "desc":"",
