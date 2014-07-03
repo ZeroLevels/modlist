@@ -3177,6 +3177,7 @@
 },{
 
 "name":"CompactWindmills",
+"modid":"CompactWindmills",
 "link":"http://bit.ly/16lxi1C",
 "desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
 "author":["Aroma1997"],
@@ -3187,9 +3188,11 @@
 },{
 
 "name":"CompactWindmills",
+"modid":"CompactWindmills",
 "link":"http://bit.ly/16lxi1C",
 "desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
 "author":["Aroma1997"],
+"source":"https://github.com/Aroma1997/CompactWindmills",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2","Aroma1997Core"],
 "versions":["1.7.2","1.6.4"]
@@ -15796,6 +15799,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"TooMuchRain",
+"modid":"TooMuchRain",
+"link":"http://bit.ly/1lCQN87",
+"desc":"Controls rain duration and frequency through configuration files.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/TooMuchRain",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
