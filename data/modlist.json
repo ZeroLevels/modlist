@@ -1446,13 +1446,14 @@
 },{
 
 "name":"Better Foliage",
+"modid":"BetterFoliage",
 "link":"http://bit.ly/1mhvcCg",
 "desc":"Visually enhances foliage like trees and grass with configurable settings.",
 "author":["octarine-noise"],
 "source":"https://github.com/octarine-noise/BetterFoliage",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
