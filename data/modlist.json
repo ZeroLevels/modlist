@@ -6164,19 +6164,7 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
-
-},{
-
-"name":"Forge",
-"other":"(API) (Beta)",
-"link":"http://bit.ly/forge-dl",
-"desc":"A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
-"author":["LexManos"],
-"source":"https://github.com/MinecraftForge/MinecraftForge",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
