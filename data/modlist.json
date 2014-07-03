@@ -9202,6 +9202,7 @@
 },{
 
 "name":"Metallurgy Core",
+"modid":"MetallurgyCore",
 "other":"(Beta)",
 "link":"http://bit.ly/SMB7IC",
 "desc":"A required dependency for Metallurgy 4.",
@@ -9209,7 +9210,7 @@
 "source":"https://github.com/TeamMetallurgy/MetallurgyCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 

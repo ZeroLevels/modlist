@@ -6,6 +6,7 @@
 	+Added 2 mods by chicken_bones (Which are the following)
 		+Added "CodeChickenCore"
 		+Added "Not Enough Items"
+	+Added "Metallurgy Core": Currently in Beta
 	+Added "Version Checker"
 
 (July/01/2014)
