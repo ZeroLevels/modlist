@@ -1,3 +1,6 @@
+(July/03/2014)
+	+Added "Aroma1997Core"
+
 (July/01/2014)
 	*Updated "Nearby Mob Finder" link
 
