@@ -7,8 +7,10 @@
 		+Added "CodeChickenCore"
 		+Added "Not Enough Items"
 	+Added "Better Foliage"
+	+Added "LiteLoader"
 	+Added "Metallurgy 4": Currently in Beta
 	+Added "Metallurgy Core": Currently in Beta
+	+Added "Uyjulian's X-ray Mod"
 	+Added "Version Checker"
 	+Added "ZZZZZ Custom Configs"
 
