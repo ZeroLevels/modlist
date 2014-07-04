@@ -16,11 +16,13 @@
         "display_name":"Moderator",
         "inherit":"user",
         "permissions":[
-            "panel.submission.edit",
-            "panel.submission.bitly.shorten",
-            "panel.submission.bitly.expand",
             "panel.userlist.view",
             "panel.self.settings"
+        ],
+        "temp-removed":[
+            "panel.submission.edit",
+            "panel.submission.bitly.shorten",
+            "panel.submission.bitly.expand"
         ]
     },
     "admin":{
