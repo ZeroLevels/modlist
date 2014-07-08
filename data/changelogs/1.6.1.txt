@@ -1,3 +1,6 @@
+(July/08/2014)
+	*Updated "Autofish" desc
+
 (June/24/2014)
 	+Added "Picture-in-Picture"
 

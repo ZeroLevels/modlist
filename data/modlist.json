@@ -1,5 +1,15 @@
 [{
 
+"name":"3D Furnace",
+"link":"http://bit.ly/1zldPuB",
+"desc":"Changes the Furnace Block into a 3D model that can be looked into to see a more visual representation of what's happening inside.",
+"author":["spAnser"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.7.10"]
+
+},{
+
 "name":"3D Items",
 "link":"http://bit.ly/115IkVJ",
 "desc":"This mod now provides configuration options so you can make the items appear the way you want them to! 3D items in fast graphics, change render distance, item and block sizes, rotation and bobbing! Also, fixed vanilla bug where items were screwed up with HD texture packs!",
@@ -375,7 +385,7 @@
 "author":["Sopwith"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -506,8 +516,8 @@
 "desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
 "author":["thehippomaster21"],
 "type":["Client"],
-"dependencies":["Forge Required","AnimationAPI"],
-"versions":["1.7.2"]
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -516,8 +526,8 @@
 "desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
 "author":["thehippomaster21"],
 "type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"dependencies":["Forge Required","AnimationAPI"],
+"versions":["1.7.2"]
 
 },{
 
@@ -579,7 +589,7 @@
 "author":["AlgorithmX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -685,23 +695,12 @@
 
 "name":"ArmorStatusHUD",
 "link":"http://bit.ly/WmtGCf",
-"desc":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
+"desc":"Displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
-"name":"ArmorStatusHUD",
-"link":"http://bit.ly/WmtGCf",
-"desc":"ArmorStatusHUD displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
-"author":["bspkrs"],
-"source":"https://github.com/bspkrs/ArmorStatusHUD",
-"type":["Client"],
-"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -716,13 +715,12 @@
 },{
 
 "name":"Aroma1997Core",
-"modid":"Aroma1997Core",
 "link":"http://bit.ly/10mzNIz",
 "desc":"Required dependency for all of Aroma1997's mods.",
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -732,18 +730,17 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
 "name":"AromaBackup",
-"modid":"AromaBackup",
 "link":"http://bit.ly/10mzNIz",
 "desc":"Enables automatically scheduled backups of a world.",
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -1006,11 +1003,11 @@
 
 "name":"Autofish",
 "link":"http://bit.ly/1kTGE8U",
-"desc":"Automatically reels and recasts when you catch a fish. Can be disabled and configured through a GUI.",
+"desc":"Automatically reels and recasts when you catch a fish or treasure.  Just cast once and let the mod do the rest.",
 "author":["troyboy50"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -1143,8 +1140,8 @@
 "desc":"Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.",
 "author":["iChun"],
 "type":["Client"],
-"dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -1153,8 +1150,8 @@
 "desc":"Shows some tools on the back of the player. These tools are based on the last equipped tool that the player had.",
 "author":["iChun"],
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -1279,7 +1276,7 @@
 "source":"https://github.com/Azanor/Baubles",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -1446,14 +1443,13 @@
 },{
 
 "name":"Better Foliage",
-"modid":"BetterFoliage",
 "link":"http://bit.ly/1mhvcCg",
 "desc":"Visually enhances foliage like trees and grass with configurable settings.",
 "author":["octarine-noise"],
 "source":"https://github.com/octarine-noise/BetterFoliage",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -1708,7 +1704,7 @@
 "author":["Nuchaz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -1894,7 +1890,7 @@
 "source":"https://github.com/WayofTime/BloodMagic",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2"]
 
 },{
 
@@ -1986,7 +1982,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -2011,19 +2007,17 @@
 },{
 
 "name":"Botania",
-"modid":"Botania",
 "link":"http://bit.ly/1rTgKH6",
 "desc":"A magic tech mod based on nature. Features a power system called Mana, requiring time and coordination to control.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/Botania",
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
 "name":"Botania",
-"modid":"Botania",
 "other":"(Beta)",
 "link":"http://bit.ly/1rTgKH6",
 "desc":"A magic tech mod based on nature. Features a power system called Mana, requiring time and coordination to control.",
@@ -2127,19 +2121,7 @@
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
-"name":"bspkrsCore",
-"other":"(Dependency)",
-"link":"http://bit.ly/bspkrscore",
-"desc":"This mod is required by all other mods created/maintained by bspkrs.",
-"author":["bspkrs"],
-"source":"https://github.com/bspkrs/bspkrsCore",
-"type":["Universal"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -2533,7 +2515,7 @@
 "author":["bilde2910"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -2647,7 +2629,7 @@
 "source":"https://github.com/ZeroLevels/ChickenShed",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -2678,7 +2660,7 @@
 "source":"https://github.com/Pokefenn/Chisel",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -2940,7 +2922,6 @@
 },{
 
 "name":"CodeChickenCore",
-"modid":"CodeChickenCore",
 "other":"(Dependency)",
 "link":"http://bit.ly/cb-core",
 "desc":"This mod is required for Not Enough Items (NEI), Ender Storage, Translocator, and ChickenChunks.",
@@ -2948,7 +2929,19 @@
 "source":"https://github.com/Chicken-Bones/CodeChickenLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"CoFH Core",
+"other":"(Dependency)",
+"link":"http://bit.ly/1qF9Uop",
+"desc":"Contains core functionality for all TeamCoFH mods.",
+"author":["TeamCoFH"],
+"source":"https://github.com/CoFH/CoFHCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -3177,7 +3170,6 @@
 },{
 
 "name":"CompactWindmills",
-"modid":"CompactWindmills",
 "link":"http://bit.ly/16lxi1C",
 "desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
 "author":["Aroma1997"],
@@ -3188,7 +3180,6 @@
 },{
 
 "name":"CompactWindmills",
-"modid":"CompactWindmills",
 "link":"http://bit.ly/16lxi1C",
 "desc":"Adds a compact version of the classic IC2 Windmill. It can produce more energy as one block, but it also is a little bit more pricy. Because it is a compact version of the Windmill and within one Block, a 256 EU/t Energy farm with CompactWindmills causes less lag than a 256EU/t Energy farm with normal Windmills.",
 "author":["Aroma1997"],
@@ -4282,8 +4273,8 @@
 "desc":"This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"dependencies":["Forge Required"],
+"versions":["1.4.7"]
 
 },{
 
@@ -4292,8 +4283,8 @@
 "desc":"This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area. Requires fuel.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","Immibis Core"],
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -4314,18 +4305,7 @@
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
-"name":"DirectionHUD",
-"link":"http://bit.ly/WmtGCf",
-"desc":"Displays your magnetic compass heading at the top of your screen.",
-"author":["bspkrs"],
-"source":"https://github.com/bspkrs/DirectionHUD",
-"type":["Client"],
-"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
-"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -4713,6 +4693,17 @@
 },{
 
 "name":"EiraIRC",
+"link":"http://bit.ly/1kTCYEf",
+"desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
+"author":["Blay09"],
+"source":"https://github.com/blay09/EiraIRC",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
+"name":"EiraIRC",
 "other":"(Beta)",
 "link":"http://bit.ly/1kTCYEf",
 "desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
@@ -4721,17 +4712,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
-
-},{
-
-"name":"EiraIRC",
-"link":"http://bit.ly/1kTCYEf",
-"desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
-"author":["Blay09"],
-"source":"https://github.com/blay09/EiraIRC",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -4783,7 +4763,7 @@
 "source":"https://github.com/Lomeli12/ElementalCreepers-4",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -4948,18 +4928,6 @@
 
 },{
 
-"name":"Ender Utilities",
-"link":"http://bit.ly/1sJumHL",
-"desc":"Adds miscellaneous items and blocks with Ender-based mechanics. Entry for ModJam 4.",
-"author":["masa_fi"],
-"source":"https://github.com/maruohon/modjam4",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"],
-"tags":["modjam","modjam4"]
-
-},{
-
 "name":"Endergun Mod",
 "link":"http://bit.ly/13GuGJ1",
 "desc":"Mobs teleport anywhere from 1 block to 100 blocks away after being shot by the gun.",
@@ -5083,6 +5051,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","ShetiPhianCore"],
 "versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Ender Utilities",
+"link":"http://bit.ly/1sJumHL",
+"desc":"Adds miscellaneous items and blocks with Ender-based mechanics. Entry for ModJam 4.",
+"author":["masa_fi"],
+"source":"https://github.com/maruohon/modjam4",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -5215,7 +5194,7 @@
 "source":"https://github.com/pahimar/Equivalent-Exchange-3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -5277,7 +5256,7 @@
 "source":"https://github.com/rubensworks/EvilCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -5784,17 +5763,6 @@
 },{
 
 "name":"Female Gender Option",
-"other":"(Beta)",
-"link":"http://bit.ly/108keKU",
-"desc":"Provides the option to turn the player into a female and/or child model while maintaining the minecraft style.",
-"author":["iPixeli"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
-"name":"Female Gender Option",
 "link":"http://bit.ly/108keKU",
 "desc":"Provides the option to turn the player into a female model while maintaining the minecraft style.",
 "author":["iPixeli"],
@@ -5811,6 +5779,17 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible","ModLoader","Render Player API"],
 "versions":["1.5","1.4.7"]
+
+},{
+
+"name":"Female Gender Option",
+"other":"(Beta)",
+"link":"http://bit.ly/108keKU",
+"desc":"Provides the option to turn the player into a female and/or child model while maintaining the minecraft style.",
+"author":["iPixeli"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -5911,7 +5890,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -5941,7 +5920,7 @@
 "author":["Gigabit101"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -6075,7 +6054,7 @@
 "author":["2BeCristi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -6120,6 +6099,16 @@
 },{
 
 "name":"Food Plus",
+"link":"http://bit.ly/151zCrn",
+"desc":"Adds more food so you can get more variety and options to eat.",
+"author":["JoseTheCrafter"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Food Plus",
 "other":"(Unstable)",
 "link":"http://bit.ly/151zCrn",
 "desc":"Adds more food so you can get more variety and options to eat.",
@@ -6127,16 +6116,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
-
-},{
-
-"name":"Food Plus",
-"link":"http://bit.ly/151zCrn",
-"desc":"Adds more food so you can get more variety and options to eat.",
-"author":["JoseTheCrafter"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -6169,7 +6148,7 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -6565,14 +6544,13 @@
 },{
 
 "name":"Glowstone Wire",
-"modid":"GrygrFlzr_GlowstoneWire",
 "link":"http://bit.ly/13BkZcS",
 "desc":"Allows you to place glowstone dust! Not only they're great for trails, they actually give out light!",
 "author":["GrygrFlzr"],
 "source":"https://github.com/GrygrFlzr/GlowstoneWire",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -6878,7 +6856,7 @@
 "source":"https://github.com/gwydion0917/gwycraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -6991,8 +6969,8 @@
 "author":["iChun"],
 "source":"https://github.com/iChun/Hats",
 "type":["Client"],
-"dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2"]
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -7002,17 +6980,7 @@
 "author":["iChun"],
 "source":"https://github.com/iChun/Hats",
 "type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Hat Stand",
-"link":"http://bit.ly/14814a3",
-"desc":"Adds a single block item, a Hat Stand.",
-"author":["iChun"],
-"type":["Universal"],
-"dependencies":["Forge Required","iChun Util","Hats"],
+"dependencies":["Forge Required","iChun Util"],
 "versions":["1.7.2"]
 
 },{
@@ -7024,6 +6992,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Hats"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Hat Stand",
+"link":"http://bit.ly/14814a3",
+"desc":"Adds a single block item, a Hat Stand.",
+"author":["iChun"],
+"type":["Universal"],
+"dependencies":["Forge Required","iChun Util","Hats"],
+"versions":["1.7.2"]
 
 },{
 
@@ -7539,7 +7517,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7550,7 +7528,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7603,7 +7581,7 @@
 "author":["Alblaka","player"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -7643,8 +7621,8 @@
 "desc":"Provides a way to move items from A to B, by labeling them.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"dependencies":["Forge Required"],
+"versions":["1.4.7"]
 
 },{
 
@@ -7653,8 +7631,8 @@
 "desc":"Provides a way to move items from A to B, by labeling them.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","Immibis Core"],
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -7720,7 +7698,7 @@
 "source":"https://github.com/duke605/IGML4",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -7801,7 +7779,7 @@
 "source":"https://github.com/Kobata/inventory-tweaks",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -7853,7 +7831,7 @@
 "source":"https://github.com/cpw/ironchest",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -7894,8 +7872,7 @@
 "source":"https://github.com/iChun/ItFellFromTheSky",
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2"],
-"tags":["modjam","modjam4"]
+"versions":["1.7.2"]
 
 },{
 
@@ -8232,7 +8209,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -8566,8 +8543,8 @@
 "desc":"Adds liquid XP, and related machines. You will need a mod capable of transporting liquids. It has been tested with Buildcraft waterproof pipes and Thermal Expansion liquiducts. It does not seem to work with RedPower 2 fluid pipes.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"dependencies":["Forge Required"],
+"versions":["1.4.7"]
 
 },{
 
@@ -8576,8 +8553,8 @@
 "desc":"Adds liquid XP, and related machines. You will need a mod capable of transporting liquids. It has been tested with Buildcraft waterproof pipes and Thermal Expansion liquiducts. It does not seem to work with RedPower 2 fluid pipes.",
 "author":["immibis"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","Immibis Core"],
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -8589,7 +8566,7 @@
 "source":"https://www.assembla.com/spaces/LiteLoader/stream",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -8725,8 +8702,7 @@
 "source":"https://github.com/Azhdev/modjam4",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"],
-"tags":["modjam","modjam4"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -9194,7 +9170,6 @@
 },{
 
 "name":"Metallurgy 4",
-"modid":"Metallurgy",
 "other":"(Beta)",
 "link":"http://bit.ly/17aSWTB",
 "desc":"Enhances the basic mining system, adding over 48 new metals such as copper, platinum and ceruclase. Allows a variety of different configurations due to its modular system.",
@@ -9202,12 +9177,11 @@
 "source":"https://github.com/TeamMetallurgy/Metallurgy4",
 "type":["Universal"],
 "dependencies":["Forge Required","Metallurgy Core"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
 "name":"Metallurgy Core",
-"modid":"MetallurgyCore",
 "other":"(Beta)",
 "link":"http://bit.ly/SMB7IC",
 "desc":"A required dependency for Metallurgy 4.",
@@ -9215,7 +9189,7 @@
 "source":"https://github.com/TeamMetallurgy/MetallurgyCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -9632,7 +9606,7 @@
 "source":"https://github.com/stanhebben/MineTweaker3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -9747,16 +9721,6 @@
 
 },{
 
-"name":"Moar Stuff Mod",
-"link":"http://bit.ly/Zg0ejf",
-"desc":"",
-"author":["Viktorrr321"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7"]
-
-},{
-
 "name":"Moar Signs",
 "link":"http://bit.ly/1xCwfGe",
 "desc":"Adds a lot of new signs to the game with support for materials from other mods, such as Forestry, Natura and IndustrialCraft 2.",
@@ -9768,6 +9732,26 @@
 
 },{
 
+"name":"Moar Stuff Mod",
+"link":"http://bit.ly/Zg0ejf",
+"desc":"",
+"author":["Viktorrr321"],
+"type":["SSP","SMP"],
+"dependencies":["Forge Required"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"Mob Amputation",
+"link":"http://bit.ly/Y3FdY0",
+"desc":"Lets you cut off the arms and head of some mobs. Also, blood particles!",
+"author":["iChun"],
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
 "name":"Mob Amputation",
 "link":"http://bit.ly/Y3FdY0",
 "desc":"Lets you cut off the arms and head of some mobs. Also, blood particles!",
@@ -9778,9 +9762,9 @@
 
 },{
 
-"name":"Mob Amputation",
-"link":"http://bit.ly/Y3FdY0",
-"desc":"Lets you cut off the arms and head of some mobs. Also, blood particles!",
+"name":"Mob Dismemberment",
+"link":"http://bit.ly/Yb1iXi",
+"desc":"Some mobs fall apart whenever you kill them.",
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader"],
@@ -9795,16 +9779,6 @@
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
 "versions":["1.7.2","1.6.4","1.6.2"]
-
-},{
-    
-"name":"Mob Dismemberment",
-"link":"http://bit.ly/Yb1iXi",
-"desc":"Some mobs fall apart whenever you kill them.",
-"author":["iChun"],
-"type":["Client"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -10631,7 +10605,7 @@
 "author":["quetzi"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -10786,7 +10760,7 @@
 "source":"http://github.com/maruohon/multishot",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.5.2"]
 
 },{
 
@@ -10867,8 +10841,8 @@
 "desc":"Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!",
 "author":["thehippomaster21"],
 "type":["Universal"],
-"dependencies":["Forge Required","AnimationAPI"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -10877,8 +10851,8 @@
 "desc":"Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!",
 "author":["thehippomaster21"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+"dependencies":["Forge Required","AnimationAPI"],
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -11289,7 +11263,7 @@
 "author":["Sopwith"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -11325,14 +11299,13 @@
 },{
 
 "name":"Not Enough Items",
-"modid":"NotEnoughItems",
 "other":"(NEI)",
 "link":"http://bit.ly/UvpH6y",
 "desc":"NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.",
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -11583,7 +11556,7 @@
 "source":"https://github.com/OpenMods/OpenData",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -11620,6 +11593,16 @@
 },{
 
 "name":"Optifine",
+"link":"http://bit.ly/VFKJCV",
+"desc":"Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS.",
+"author":["sp614x"],
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"Optifine",
 "other":"(Unstable)",
 "link":"http://bit.ly/VFKJCV",
 "desc":"Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS.",
@@ -11627,16 +11610,6 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.10"]
-
-},{
-
-"name":"Optifine",
-"link":"http://bit.ly/VFKJCV",
-"desc":"Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS.",
-"author":["sp614x"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -12082,6 +12055,17 @@
 },{
 
 "name":"Planter Helper",
+"link":"http://bit.ly/1eD8geR",
+"desc":"Adds new tools that helps with the process of planting crops with 3 different tiers of planters and miscellaneous additions.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/PlanterHelper",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Planter Helper",
 "other":"(Beta)",
 "link":"http://bit.ly/1eD8geR",
 "desc":"Adds new tools that helps with the process of planting crops with 3 different tiers of planters and miscellaneous additions.",
@@ -12090,17 +12074,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
-
-},{
-
-"name":"Planter Helper",
-"link":"http://bit.ly/1eD8geR",
-"desc":"Adds new tools that helps with the process of planting crops with 3 different tiers of planters and miscellaneous additions.",
-"author":["portablejim"],
-"source":"https://github.com/portablejim/PlanterHelper",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -12293,7 +12266,7 @@
 "source":"https://bitbucket.org/Unh0ly_Tigg/portaportal/src",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -12525,7 +12498,7 @@
 "source":"https://github.com/Flaxbeard/SteamCraft_1.7",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -12699,7 +12672,7 @@
 "author":["CovertJaguar"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -12915,7 +12888,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core","Immibis's Microblocks"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -12946,6 +12919,17 @@
 "source":"https://github.com/TehNut/RedstoneArmory",
 "type":["Universal"],
 "dependencies":["Forge Required","Thermal Expansion 3"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Redstone Arsenal",
+"link":"http://bit.ly/1qF9Kxo",
+"desc":"Adds tools and weaponry which harness the power of Redstone Flux, the energy system added by CoFH and Thermal Expansion.",
+"author":["TeamCoFH"],
+"source":"https://github.com/CoFH/RedstoneArsenal",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core"],
 "versions":["1.6.4"]
 
 },{
@@ -13047,7 +13031,7 @@
 "source":"https://github.com/Dynious/RefinedRelocation",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -13098,7 +13082,7 @@
 "source":"https://github.com/dmillerw/RemoteIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -13722,6 +13706,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Simply Jetpacks",
+"link":"http://bit.ly/1k1nBLf",
+"desc":"Adds Redstone Flux-powered jetpacks.",
+"author":["tonius11"],
+"source":"https://github.com/Tonius/SimplyJetpacks",
+"type":["Universal"],
+"dependencies":["Forge Required","Thermal Expansion","CoFH Core"],
+"versions":["1.6.4"]
 
 },{
 
@@ -14396,29 +14391,7 @@
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
-"name":"StatusEffectHUD",
-"link":"http://bit.ly/WmtGCf",
-"desc":"Displays your currently active potions/effects without having to open your inventory!",
-"author":["bspkrs"],
-"source":"https://github.com/bspkrs/StatusEffectHUD",
-"type":["Client"],
-"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
-
-},{
-
-"name":"Steve's Carts 2",
-"other":"(Beta)",
-"link":"http://bit.ly/VK9ATv",
-"desc":"Introduces a modular system where you can build a huge amount of carts (hundreds of millions) by combining the parts you want.",
-"author":["Vswe"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -14433,6 +14406,17 @@
 
 },{
 
+"name":"Steve's Carts 2",
+"other":"(Beta)",
+"link":"http://bit.ly/VK9ATv",
+"desc":"Introduces a modular system where you can build a huge amount of carts (hundreds of millions) by combining the parts you want.",
+"author":["Vswe"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"Steve's Factory Manager",
 "other":"(Alpha)",
 "link":"http://bit.ly/T6Zcd8",
@@ -14441,8 +14425,7 @@
 "source":"https://github.com/Vswe/ModJam3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"],
-"tags":["modjam","modjam3"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -14483,7 +14466,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -14695,7 +14678,7 @@
 "source":"https://github.com/tterrag1098/SuperMassiveTech",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -14766,8 +14749,7 @@
 "source":"https://github.com/iChun/Sync",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"],
-"tags":["modjam","modjam3"]
+"versions":["1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -14807,7 +14789,7 @@
 "author":["Gigabit101"],
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -15744,7 +15726,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -15791,29 +15773,6 @@
 
 },{
 
-"name":"TooMuchLoot",
-"link":"http://bit.ly/1nRaSsM",
-"desc":"Controls dungeon loot through configuration files.",
-"author":["dmillerw"],
-"source":"https://github.com/dmillerw/TooMuchLoot",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
-
-},{
-
-"name":"TooMuchRain",
-"modid":"TooMuchRain",
-"link":"http://bit.ly/1lCQN87",
-"desc":"Controls rain duration and frequency through configuration files.",
-"author":["dmillerw"],
-"source":"https://github.com/dmillerw/TooMuchRain",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
 "name":"TooManyPlants",
 "link":"http://bit.ly/13dBE6D",
 "desc":"",
@@ -15821,6 +15780,28 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"TooMuchLoot",
+"link":"http://bit.ly/1nRaSsM",
+"desc":"Controls dungeon loot through configuration files.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/TooMuchLoot",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.7.10","1.6.4"]
+
+},{
+
+"name":"TooMuchRain",
+"link":"http://bit.ly/1lCQN87",
+"desc":"Controls rain duration and frequency through configuration files.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/TooMuchRain",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -15919,8 +15900,8 @@
 "desc":"Adds all sort of crazy stuff. No really, there's freaking nyan pigs, pig launchers, powerfully pooting pigs, and cartoony POW and BAM shoot icons!",
 "author":["iChun"],
 "type":["Universal"],
-"dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.4.7"]
 
 },{
 
@@ -15929,8 +15910,8 @@
 "desc":"Adds all sort of crazy stuff. No really, there's freaking nyan pigs, pig launchers, powerfully pooting pigs, and cartoony POW and BAM shoot icons!",
 "author":["iChun"],
 "type":["Universal"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -16065,7 +16046,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -16116,7 +16097,7 @@
 "author":["Benimatic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -16422,7 +16403,7 @@
 "source":"https://github.com/uyjulian/MinecraftX-RAY",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.10","1.7.2","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.7.10","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -16489,18 +16470,6 @@
 },{
 
 "name":"VeinMiner",
-"other":"(Beta)",
-"link":"http://bit.ly/1moK8zk",
-"desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
-"author":["portablejim"],
-"source":"https://github.com/portablejim/VeinMiner",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
-"name":"VeinMiner",
 "link":"http://bit.ly/1moK8zk",
 "desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
 "author":["portablejim"],
@@ -16508,6 +16477,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"VeinMiner",
+"other":"(Beta)",
+"link":"http://bit.ly/1moK8zk",
+"desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/VeinMiner",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -16522,14 +16503,13 @@
 },{
 
 "name":"Version Checker",
-"modid":"VersionChecker",
 "link":"http://bit.ly/1l0zkdM",
 "desc":"Displays mod updates in a notification list instead of cluttering ingame chat.",
 "author":["Dynious"],
 "source":"https://github.com/Dynious/VersionChecker",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2","1.7.10"]
 
 },{
 
@@ -17199,7 +17179,7 @@
 "source":"https://github.com/airbreather/YAFM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -17211,7 +17191,7 @@
 "source":"https://github.com/airbreather/YALSM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.7.10","1.6.4"]
 
 },{
 
@@ -17340,6 +17320,17 @@
 },{
 
 "name":"ZoomMod",
+"link":"http://bit.ly/1i0Cs6h",
+"desc":"Allows you to zoom by holding a configurable button.",
+"author":["ga2mer"],
+"source":"https://github.com/ga2mer/ZoomMod",
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"ZoomMod",
 "other":"(Experimental)",
 "link":"http://bit.ly/1i0Cs6h",
 "desc":"Allows you to zoom by holding a configurable button.",
@@ -17348,17 +17339,6 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
-
-},{
-
-"name":"ZoomMod",
-"link":"http://bit.ly/1i0Cs6h",
-"desc":"Allows you to zoom by holding a configurable button.",
-"author":["ga2mer"],
-"source":"https://github.com/ga2mer/ZoomMod",
-"type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.10"]
 
 },{
 
@@ -17374,12 +17354,11 @@
 },{
 
 "name":"ZZZZZ Custom Configs",
-"modid":"zzzzzcustomconfigs",
 "link":"http://bit.ly/1m1kmFz",
 "desc":"Adds a configuration file that allows the addition and removal of recipes, blocking mobs from spawning and more.",
 "author":["ganymedes01"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1"]
 
 }]

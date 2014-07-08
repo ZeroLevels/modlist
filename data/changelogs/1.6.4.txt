@@ -1,3 +1,10 @@
+(July/08/2014)
+	*Updated "ArmorStatusHUD" desc
+	*Updated "Autofish" desc
+	+Added "CoFH Core"
+	+Added "Redstone Arsenal"
+	+Added "Simply Jetpacks"
+
 (July/03/2014)
 	*Updated "CompactWindmills" info: Added source
 

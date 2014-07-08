@@ -1,3 +1,17 @@
+(July/08/2014)
+	+Added 4 mods by bspkrs (Which are the following)
+		+Added "ArmorStatusHUD"
+		+Added "bspkrsCore"
+		+Added "DirectionHUD"
+		+Added "StatusEffectHUD"
+	+Added 2 mods by Sopwith (Which are the following)
+		+Added "AllSnow Mod"
+		+Added "NoSnow Mod"
+	+Added "3D Furnace"
+	+Added "Aroma1997s Dimensional World"
+	+Added "Autofish"
+	+Added "Flower Tea"
+
 (July/03/2014)
 	*Updated "Forge": No longer in Beta
 	+Added 2 mods by Aroma1997 (Which are the following)

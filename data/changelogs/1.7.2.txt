@@ -1,3 +1,10 @@
+(July/08/2014)
+	*Updated "ArmorStatusHUD" desc
+	*Updated "Autofish" desc
+	+Added "3D Furnace"
+	+Added "AllSnow Mod"
+	+Added "NoSnow Mod"
+
 (July/03/2014)
 	*Updated "CompactWindmills" info: Added source
 
