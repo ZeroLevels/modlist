@@ -10,6 +10,7 @@
 	+Added "3D Furnace"
 	+Added "Aroma1997s Dimensional World"
 	+Added "Autofish"
+	+Added "Baubles ~Princess Edition~"
 	+Added "Flower Tea"
 
 (July/03/2014)
