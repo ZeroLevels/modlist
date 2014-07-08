@@ -6,7 +6,7 @@
 "author":["spAnser"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -385,7 +385,7 @@
 "author":["Sopwith"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -589,7 +589,7 @@
 "author":["AlgorithmX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -700,7 +700,7 @@
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -720,7 +720,7 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -730,7 +730,7 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -740,7 +740,7 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -1007,7 +1007,7 @@
 "author":["troyboy50"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -1463,7 +1463,7 @@
 "source":"https://github.com/octarine-noise/BetterFoliage",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -1718,7 +1718,7 @@
 "author":["Nuchaz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -1904,7 +1904,7 @@
 "source":"https://github.com/WayofTime/BloodMagic",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -1996,7 +1996,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -2027,7 +2027,7 @@
 "source":"https://github.com/Vazkii/Botania",
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -2135,7 +2135,7 @@
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -2529,7 +2529,7 @@
 "author":["bilde2910"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -2643,7 +2643,7 @@
 "source":"https://github.com/ZeroLevels/ChickenShed",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -2674,7 +2674,7 @@
 "source":"https://github.com/Pokefenn/Chisel",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -2943,7 +2943,7 @@
 "source":"https://github.com/Chicken-Bones/CodeChickenLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -4298,7 +4298,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -4319,7 +4319,7 @@
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -4777,7 +4777,7 @@
 "source":"https://github.com/Lomeli12/ElementalCreepers-4",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -5075,7 +5075,7 @@
 "source":"https://github.com/maruohon/modjam4",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -5208,7 +5208,7 @@
 "source":"https://github.com/pahimar/Equivalent-Exchange-3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -5270,7 +5270,7 @@
 "source":"https://github.com/rubensworks/EvilCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -5904,7 +5904,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -5934,7 +5934,7 @@
 "author":["Gigabit101"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -6068,7 +6068,7 @@
 "author":["2BeCristi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -6162,7 +6162,7 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -6564,7 +6564,7 @@
 "source":"https://github.com/GrygrFlzr/GlowstoneWire",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -6870,7 +6870,7 @@
 "source":"https://github.com/gwydion0917/gwycraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -7531,7 +7531,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7542,7 +7542,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7595,7 +7595,7 @@
 "author":["Alblaka","player"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -7646,7 +7646,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -7712,7 +7712,7 @@
 "source":"https://github.com/duke605/IGML4",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -7793,7 +7793,7 @@
 "source":"https://github.com/Kobata/inventory-tweaks",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -7845,7 +7845,7 @@
 "source":"https://github.com/cpw/ironchest",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -8223,7 +8223,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -8568,7 +8568,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -8580,7 +8580,7 @@
 "source":"https://www.assembla.com/spaces/LiteLoader/stream",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -8716,7 +8716,7 @@
 "source":"https://github.com/Azhdev/modjam4",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -9191,7 +9191,7 @@
 "source":"https://github.com/TeamMetallurgy/Metallurgy4",
 "type":["Universal"],
 "dependencies":["Forge Required","Metallurgy Core"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -9203,7 +9203,7 @@
 "source":"https://github.com/TeamMetallurgy/MetallurgyCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -9620,7 +9620,7 @@
 "source":"https://github.com/stanhebben/MineTweaker3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -10619,7 +10619,7 @@
 "author":["quetzi"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -10774,7 +10774,7 @@
 "source":"http://github.com/maruohon/multishot",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -11277,7 +11277,7 @@
 "author":["Sopwith"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -11319,7 +11319,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -11570,7 +11570,7 @@
 "source":"https://github.com/OpenMods/OpenData",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -12280,7 +12280,7 @@
 "source":"https://bitbucket.org/Unh0ly_Tigg/portaportal/src",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -12512,7 +12512,7 @@
 "source":"https://github.com/Flaxbeard/SteamCraft_1.7",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -12686,7 +12686,7 @@
 "author":["CovertJaguar"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -12902,7 +12902,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core","Immibis's Microblocks"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -13045,7 +13045,7 @@
 "source":"https://github.com/Dynious/RefinedRelocation",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -13096,7 +13096,7 @@
 "source":"https://github.com/dmillerw/RemoteIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -14405,7 +14405,7 @@
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -14480,7 +14480,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -14692,7 +14692,7 @@
 "source":"https://github.com/tterrag1098/SuperMassiveTech",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -14803,7 +14803,7 @@
 "author":["Gigabit101"],
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -15740,7 +15740,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -15804,7 +15804,7 @@
 "source":"https://github.com/dmillerw/TooMuchLoot",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15815,7 +15815,7 @@
 "source":"https://github.com/dmillerw/TooMuchRain",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16060,7 +16060,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -16111,7 +16111,7 @@
 "author":["Benimatic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -16417,7 +16417,7 @@
 "source":"https://github.com/uyjulian/MinecraftX-RAY",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2","1.7.10","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -16502,7 +16502,7 @@
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16523,7 +16523,7 @@
 "source":"https://github.com/Dynious/VersionChecker",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -17193,7 +17193,7 @@
 "source":"https://github.com/airbreather/YAFM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17205,7 +17205,7 @@
 "source":"https://github.com/airbreather/YALSM",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17373,6 +17373,6 @@
 "author":["ganymedes01"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 }]
