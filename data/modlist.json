@@ -1269,6 +1269,7 @@
 },{
 
 "name":"Baubles",
+"modid":"Baubles",
 "other":"(API)",
 "link":"http://bit.ly/1qb2xld",
 "desc":"An API that adds 4 bauble slots to player inventories; consisting of an amulet slot, belt slot and 2 ring slots.",
@@ -1276,7 +1277,20 @@
 "source":"https://github.com/Azanor/Baubles",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.7.10"]
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Baubles ~Princess Edition~",
+"modid":"Baubles",
+"other":"(API)",
+"link":"http://bit.ly/1kyct5D",
+"desc":"A fork of the original Baubles with fixes for 1.7.10. Drop-in replacement for Baubles, do not use both. An API that adds 4 bauble slots to player inventories; consisting of an amulet slot, belt slot and 2 ring slots.",
+"author":["Vazkii","Azanor"],
+"source":"https://github.com/Vazkii/PrincessBaubles",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
