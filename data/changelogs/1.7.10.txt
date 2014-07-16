@@ -1,4 +1,8 @@
 (July/16/2014)
+	+Added 3 mods by Lunatrius (Which are the following)
+		+Added "DynIMC"
+		+Added "InGame Info XML"
+		+Added "LunatriusCore"
 	+Added "Buildcraft"
 	+Added "Forestry"
 
