@@ -1,3 +1,13 @@
+(July/16/2014)
+	+Added 3 mods by Lunatrius (Which are the following)
+		+Added "DynIMC"
+		+Added "InGame Info XML"
+		+Added "LunatriusCore"
+	+Added "Buildcraft"
+	+Added "Forestry"
+	+Added "Mantle"
+	+Added "Tinkers' Construct"
+
 (July/08/2014)
 	+Added 4 mods by bspkrs (Which are the following)
 		+Added "ArmorStatusHUD"

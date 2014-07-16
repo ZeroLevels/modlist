@@ -1,3 +1,9 @@
+(July/16/2014)
+	-Removed "Buildcraft": Download no longer available
+	-Removed "Mantle": Download no longer available, No longer supported
+	-Removed "Tinkers' Construct": Download no longer available, No longer supported
+	-Removed "Tinkers' Mechworks": Download no longer available, No longer supported
+
 (July/08/2014)
 	*Updated "ArmorStatusHUD" desc
 	*Updated "Autofish" desc
