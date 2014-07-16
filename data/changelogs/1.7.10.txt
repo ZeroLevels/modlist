@@ -4,9 +4,9 @@
 		+Added "InGame Info XML"
 		+Added "LunatriusCore"
 	+Added "Buildcraft"
-	+Added "Forestry"
-	+Added "Mantle"
-	+Added "Tinkers' Construct"
+	+Added "Forestry": Currently in Development
+	+Added "Mantle": Currently in Beta
+	+Added "Tinkers' Construct": Currently in Beta
 
 (July/08/2014)
 	+Added 4 mods by bspkrs (Which are the following)
