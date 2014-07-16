@@ -6142,6 +6142,18 @@
 
 },{
 
+"name":"Forestry",
+"other":"(Development)",
+"link":"http://bit.ly/Sk5Snp",
+"desc":"Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.",
+"author":["SirSengir"],
+"source":"https://github.com/ForestryMC/ForestryMC",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Forge",
 "other":"(API)",
 "link":"http://bit.ly/forge-dl",
