@@ -8937,14 +8937,14 @@
 },{
 
 "name":"Mantle",
-"other":"(Alpha)",
+"other":"(Beta)",
 "link":"http://bit.ly/Z7xU26",
 "desc":"Required dependency for Tinkers' Construct.",
 "author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/Mantle",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10"]
 
 },{
 
@@ -15682,14 +15682,14 @@
 },{
 
 "name":"Tinkers' Construct",
-"other":"(Alpha)",
+"other":"(Beta)",
 "link":"http://bit.ly/Z7xU26",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
 "author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required","Mantle"],
-"versions":["1.7.2"]
+"versions":["1.7.10"]
 
 },{
 
@@ -15700,7 +15700,7 @@
 "source":"https://github.com/SlimeKnights/TinkersMechworks",
 "type":["Universal"],
 "dependencies":["Forge Required","Tinkers' Construct","Mantle"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.6.4"]
 
 },{
 
