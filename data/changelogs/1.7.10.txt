@@ -1,3 +1,9 @@
+(July/17/2014)
+	+Added 3 mods by Lunatrius (Which are the following)
+		+Added "Monster Spawn Highlighter"
+		+Added "Schematica"
+		+Added "Stackie"
+
 (July/16/2014)
 	+Added 3 mods by Lunatrius (Which are the following)
 		+Added "DynIMC"
