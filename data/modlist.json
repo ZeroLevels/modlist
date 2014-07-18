@@ -9300,6 +9300,17 @@
 
 },{
 
+"name":"MineMenu",
+"link":"http://bit.ly/1r9l7hc",
+"desc":"Provides access to a radial menu which allows quick use of 10 different configurable actions on one key.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/MineMenu",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"MineChem",
 "link":"http://bit.ly/13dKCkb",
 "desc":"Adds chemistry and machines that decompose items into elements and molecules. Also adds microscopes and synthesis machines to turn elements back into items.",

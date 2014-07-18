@@ -1,4 +1,5 @@
 (July/18/2014)
+	+Added "MineMenu"
 	+Added "PneumaticCraft"
 
 (July/17/2014)

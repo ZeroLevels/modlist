@@ -1,5 +1,6 @@
 (July/18/2014)
 	*Updated "PneumaticCraft": No longer in Alpha
+	+Added "MineMenu"
 
 (July/16/2014)
 	-Removed "Buildcraft": Download no longer available
