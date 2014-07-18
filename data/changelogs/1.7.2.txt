@@ -1,3 +1,9 @@
+(July/18/2014)
+	*Updated "PneumaticCraft": No longer in Alpha
+	+Added 2 mods by dmillerw (Which are the following)
+		+Added "MineMenu"
+		+Added "TooMuchTime"
+
 (July/16/2014)
 	-Removed "Buildcraft": Download no longer available
 	-Removed "Mantle": Download no longer available, No longer supported

@@ -9300,6 +9300,17 @@
 
 },{
 
+"name":"MineMenu",
+"link":"http://bit.ly/1r9l7hc",
+"desc":"Provides access to a radial menu which allows quick use of 10 different configurable actions on one key.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/MineMenu",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"MineChem",
 "link":"http://bit.ly/13dKCkb",
 "desc":"Adds chemistry and machines that decompose items into elements and molecules. Also adds microscopes and synthesis machines to turn elements back into items.",
@@ -12198,18 +12209,7 @@
 "author":["MineMaarten"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
-
-},{
-
-"name":"PneumaticCraft",
-"other":"(Unstable)",
-"link":"http://bit.ly/16ltw7I",
-"desc":"A technical mod which introduces pressurized air, and adds Elevators, Pressure Chambers, Air Cannons, Pneumatic Armor, and much more.",
-"author":["MineMaarten"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -15813,6 +15813,17 @@
 "desc":"Controls rain duration and frequency through configuration files.",
 "author":["dmillerw"],
 "source":"https://github.com/dmillerw/TooMuchRain",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"TooMuchTime",
+"link":"http://bit.ly/1nEWsev",
+"desc":"Allows control over day/night cycles without breaking time-dependent mods.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/TooMuchTime",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
