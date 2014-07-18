@@ -1,7 +1,5 @@
 (July/18/2014)
-	+Added 2 mods by dmillerw (Which are the following)
-		+Added "MineMenu"
-		+Added "TooMuchTime"
+	+Added "MineMenu"
 	+Added "PneumaticCraft"
 	+Added "Stop Gap"
 
