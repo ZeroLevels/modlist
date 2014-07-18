@@ -1,7 +1,7 @@
 (July/18/2014)
 	+Added "MineMenu"
 	+Added "PneumaticCraft"
-	+Added "Stop Gap"
+	+Added "StopGap"
 
 (July/17/2014)
 	+Added 3 mods by Lunatrius (Which are the following)

@@ -1,3 +1,6 @@
+(July/18/2014)
+	*Updated "Stop Gap" name: Now "StopGap"
+
 (July/08/2014)
 	*Updated "ArmorStatusHUD" desc
 	*Updated "Autofish" desc
