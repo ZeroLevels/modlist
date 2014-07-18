@@ -15819,6 +15819,17 @@
 
 },{
 
+"name":"TooMuchTime",
+"link":"http://bit.ly/1nEWsev",
+"desc":"Allows control over day/night cycles without breaking time-dependent mods.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/TooMuchTime",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Too Much TNT",
 "link":"http://bit.ly/YAsVYx",
 "desc":"Adds 10 new types of TNT and an ore for gun powder.",
