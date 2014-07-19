@@ -15871,8 +15871,7 @@
 "source":"https://github.com/dmillerw/TooMuchTime",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"todo":"Re-add when no longer crashing",
-"versions":[]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
