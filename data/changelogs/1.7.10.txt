@@ -3,6 +3,7 @@
 	+Added "ForgeMultipart"
 	+Added "MumbleLink"
 	+Added "Project: Red"
+	+Added "VoxelMap": Temporary link while author re-hosts elsewhere
 
 (July/18/2014)
 	+Added "MineMenu"

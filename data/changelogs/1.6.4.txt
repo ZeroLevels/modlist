@@ -1,3 +1,6 @@
+(July/19/2014)
+	-Removed "VoxelMap": Download no longer available
+
 (July/18/2014)
 	*Updated "Stop Gap" name: Now "StopGap"
 

@@ -1,3 +1,6 @@
+(July/19/2014)
+	*Updated "VoxelMap" link
+
 (July/08/2014)
 	*Updated "Autofish" desc
 

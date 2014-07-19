@@ -16647,12 +16647,23 @@
 
 "name":"VoxelMap",
 "other":"(Zan's Minimap)",
-"link":"http://bit.ly/1msI0Xt",
+"link":"http://bit.ly/1pnVhD9",
 "desc":"A feature-packed minimap with many customizations.",
 "author":["MamiyaOtaru"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"VoxelMap",
+"other":"(Zan's Minimap)",
+"link":"http://bit.ly/1pnVFkR",
+"desc":"A feature-packed minimap with many customizations.",
+"author":["MamiyaOtaru"],
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.10"]
 
 },{
 
