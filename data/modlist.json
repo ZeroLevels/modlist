@@ -704,6 +704,17 @@
 
 },{
 
+"name":"ArmorStatusHUD",
+"link":"http://bit.ly/WmtGCf",
+"desc":"Displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!",
+"author":["bspkrs"],
+"source":"https://github.com/bspkrs/ArmorStatusHUD",
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
 "name":"Armour and Tool Status HUD",
 "link":"http://bit.ly/XgFJn4",
 "desc":"",
@@ -2136,6 +2147,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"bspkrsCore",
+"other":"(Dependency)",
+"link":"http://bit.ly/bspkrscore",
+"desc":"This mod is required by all other mods created/maintained by bspkrs.",
+"author":["bspkrs"],
+"source":"https://github.com/bspkrs/bspkrsCore",
+"type":["Universal"],
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -4311,6 +4334,17 @@
 
 },{
 
+"name":"DirectionHUD",
+"link":"http://bit.ly/WmtGCf",
+"desc":"Displays your magnetic compass heading at the top of your screen.",
+"author":["bspkrs"],
+"source":"https://github.com/bspkrs/DirectionHUD",
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
 "name":"DivineOres",
 "link":"http://bit.ly/14n5d5l",
 "desc":"Adds tools and armour with religious theme.",
@@ -5578,7 +5612,7 @@
 "author":["RWTema"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -6195,7 +6229,7 @@
 "source":"https://github.com/Chicken-Bones/ForgeMultipart",
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -12533,7 +12567,7 @@
 "source":"https://github.com/MrTJP/ProjectRed",
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","ForgeMultipart"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -14406,6 +14440,17 @@
 "type":["Client"],
 "dependencies":["Forge Required","bspkrsCore"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"StatusEffectHUD",
+"link":"http://bit.ly/WmtGCf",
+"desc":"Displays your currently active potions/effects without having to open your inventory!",
+"author":["bspkrs"],
+"source":"https://github.com/bspkrs/StatusEffectHUD",
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 

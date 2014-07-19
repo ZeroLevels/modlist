@@ -1,3 +1,8 @@
+(July/19/2014)
+	+Added "Extra Utilities"
+	+Added "ForgeMultipart"
+	+Added "Project: Red"
+
 (July/18/2014)
 	+Added "MineMenu"
 	+Added "PneumaticCraft"
