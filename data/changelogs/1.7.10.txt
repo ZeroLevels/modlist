@@ -1,6 +1,7 @@
 (July/19/2014)
 	+Added "Extra Utilities"
 	+Added "ForgeMultipart"
+	+Added "Highlands"
 	+Added "MumbleLink"
 	+Added "Project: Red"
 	+Added "TooMuchTime"
