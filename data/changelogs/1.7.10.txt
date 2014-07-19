@@ -1,10 +1,12 @@
 (July/19/2014)
 	+Added "Extra Utilities"
 	+Added "ForgeMultipart"
+	+Added "Highlands"
 	+Added "MumbleLink"
 	+Added "Project: Red"
 	+Added "TooMuchTime"
 	+Added "VoxelMap": Temporary link while author re-hosts elsewhere
+	-Removed "Railcraft": Crashes, not supported by author yet
 
 (July/18/2014)
 	+Added "MineMenu"
