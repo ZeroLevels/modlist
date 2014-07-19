@@ -1,3 +1,6 @@
+(July/19/2014)
+	*Updated "VoxelMap" link
+
 (June/30/2014)
 	*Updated 3 mods by immibis (Which are the following)
 		*Updated "Dimensional Anchors" info: Requires "Immibis Core"

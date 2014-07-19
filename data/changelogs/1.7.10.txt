@@ -1,7 +1,10 @@
 (July/19/2014)
 	+Added "Extra Utilities"
 	+Added "ForgeMultipart"
+	+Added "MumbleLink"
 	+Added "Project: Red"
+	+Added "TooMuchTime"
+	+Added "VoxelMap": Temporary link while author re-hosts elsewhere
 
 (July/18/2014)
 	+Added "MineMenu"
