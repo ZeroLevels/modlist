@@ -1,6 +1,8 @@
 (July/20/2014)
+	+Added 2 mods by bspkrs (Which are the following)
+		+Added "CrystalWing"
+		+Added "FloatingRuins"
 	+Added "BetterChests"
-	+Added "CrystalWing"
 	+Added "OpenComputers"
 
 (July/19/2014)
