@@ -1,3 +1,6 @@
+(July/20/2014)
+	+Added "OpenComputers"
+
 (July/19/2014)
 	+Added "Ender Storage"
 	+Added "Extra Utilities"
