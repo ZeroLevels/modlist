@@ -4,6 +4,7 @@
 		+Added "FloatingRuins"
 		+Added "StartingInventory"
 	+Added "BetterChests"
+	+Added "JourneyMap"
 	+Added "OpenComputers"
 
 (July/19/2014)
