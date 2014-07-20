@@ -1,9 +1,11 @@
 (July/20/2014)
-	+Added 2 mods by bspkrs (Which are the following)
+	+Added 3 mods by bspkrs (Which are the following)
 		+Added "CrystalWing"
 		+Added "FloatingRuins"
 		+Added "StartingInventory"
 	+Added "BetterChests"
+	+Added "GrowthCraft"
+	+Added "JourneyMap"
 	+Added "OpenComputers"
 
 (July/19/2014)
