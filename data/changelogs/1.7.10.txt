@@ -1,5 +1,6 @@
 (July/20/2014)
 	+Added "BetterChests"
+	+Added "CrystalWing"
 	+Added "OpenComputers"
 
 (July/19/2014)

@@ -3763,7 +3763,7 @@
 "source":"https://github.com/bspkrs/CrystalWing",
 "type":["Universal"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
