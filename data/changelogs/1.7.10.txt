@@ -2,6 +2,7 @@
 	+Added 2 mods by bspkrs (Which are the following)
 		+Added "CrystalWing"
 		+Added "FloatingRuins"
+		+Added "StartingInventory"
 	+Added "BetterChests"
 	+Added "OpenComputers"
 
