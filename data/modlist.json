@@ -1422,7 +1422,7 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -3763,7 +3763,7 @@
 "source":"https://github.com/bspkrs/CrystalWing",
 "type":["Universal"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -6049,7 +6049,7 @@
 "source":"https://github.com/bspkrs/FloatingRuins",
 "type":["Universal"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11603,7 +11603,7 @@
 "source":"https://github.com/MightyPirates/OpenComputers",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -14398,7 +14398,7 @@
 "source":"https://github.com/bspkrs/StartingInventory",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
