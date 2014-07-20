@@ -1,4 +1,5 @@
 (July/20/2014)
+	+Added "BetterChests"
 	+Added "OpenComputers"
 
 (July/19/2014)
