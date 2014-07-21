@@ -9986,6 +9986,28 @@
 
 },{
 
+"name":"ModTweaker",
+"other":"(Beta)",
+"link":"http://bit.ly/1tpWfRL",
+"desc":"Supports tweaking mods with custom crafting handlers, such as for Blood Magic and Botania.",
+"author":["joshiejack"],
+"type":["Universal"],
+"dependencies":["Forge Required","MineTweaker 3"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"ModTweaker",
+"other":"(Alpha)",
+"link":"http://bit.ly/1tpWfRL",
+"desc":"Supports tweaking mods with custom crafting handlers, such as for Blood Magic and Botania.",
+"author":["joshiejack"],
+"type":["Universal"],
+"dependencies":["Forge Required","MineTweaker 3"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Modular Flower Pots",
 "link":"http://bit.ly/P2jMdi",
 "desc":"Adds a larger flower pot made from hardened clay.  They can hold most in-game plants including double-height and crops.  Adjacent compatible pots connect together into continuous planters.",
