@@ -13317,6 +13317,16 @@
 
 },{
 
+"name":"RPG Advanced Mod",
+"link":"http://bit.ly/1k8c0wM",
+"desc":"Adds signs and poles which can be used as waypoints and display directions for players.",
+"author":["ProfMobius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"RPG-Hud Mod",
 "link":"http://bit.ly/184uyTW",
 "desc":"Modifies the HUD into an RPG-styled one.",

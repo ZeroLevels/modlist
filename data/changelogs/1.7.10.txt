@@ -1,6 +1,7 @@
 (July/21/2014)
-	+Added 2 mods by ProfMobius (Which are the following)
+	+Added 3 mods by ProfMobius (Which are the following)
 		+Added "JABBA"
+		+Added "RPG Advanced Mod"
 		+Added "Waila"
 
 (July/20/2014)

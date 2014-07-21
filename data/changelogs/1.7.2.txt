@@ -1,3 +1,6 @@
+(July/21/2014)
+	+Added "RPG Advanced Mod"
+
 (July/20/2014)
 	+Added "GrowthCraft"
 
