@@ -1,3 +1,6 @@
+(July/21/2014)
+	+Added "JABBA"
+
 (July/20/2014)
 	+Added 3 mods by bspkrs (Which are the following)
 		+Added "CrystalWing"
