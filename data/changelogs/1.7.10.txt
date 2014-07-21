@@ -1,5 +1,7 @@
 (July/21/2014)
-	+Added "JABBA"
+	+Added 2 mods by ProfMobius (Which are the following)
+		+Added "JABBA"
+		+Added "Waila"
 
 (July/20/2014)
 	+Added 3 mods by bspkrs (Which are the following)
