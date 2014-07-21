@@ -7941,7 +7941,7 @@
 "source":"https://bitbucket.org/ProfMobius/jabba",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -13317,6 +13317,16 @@
 
 },{
 
+"name":"RPG Advanced Mod",
+"link":"http://bit.ly/1k8c0wM",
+"desc":"Adds signs and poles which can be used as waypoints and display directions for players.",
+"author":["ProfMobius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"RPG-Hud Mod",
 "link":"http://bit.ly/184uyTW",
 "desc":"Modifies the HUD into an RPG-styled one.",
@@ -16686,7 +16696,7 @@
 "source":"https://bitbucket.org/ProfMobius/waila",
 "type":["Client"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
