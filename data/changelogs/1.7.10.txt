@@ -3,6 +3,7 @@
 		+Added "JABBA"
 		+Added "RPG Advanced Mod"
 		+Added "Waila"
+	+Added "ModTweaker": Currently in Beta
 
 (July/20/2014)
 	+Added 3 mods by bspkrs (Which are the following)
