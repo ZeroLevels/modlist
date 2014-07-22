@@ -1,4 +1,5 @@
 (July/22/2014)
+	*Updated "Mekanism" description and info: No longer requires "Universal Electricity"
 	*Updated "Tinkers' Mechworks" link
 	*Updated "VoxelCam" info: Added source
 

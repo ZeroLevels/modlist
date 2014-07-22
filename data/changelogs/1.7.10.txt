@@ -1,6 +1,7 @@
 (July/22/2014)
 	*Updated "Optifine": No longer unstable
 	+Added "Redstone Paste Mod"
+	+Added "Mekanism"
 	+Added "Tinkers' Mechworks": Currently in Alpha
 	+Added "VoxelCam"
 	+Added "WorldStateCheckpoints"

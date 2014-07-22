@@ -9167,12 +9167,12 @@
 
 "name":"Mekanism",
 "link":"http://bit.ly/1dAHYb1",
-"desc":"An extensive mod featuring innovative ways of electricity generation, advanced ore processing machinery, new sets and types of tools and armor, and much more. If you like high tech machinery that extends your resource collection and processing, then this mod is for you!",
+"desc":"Brings machinery of different tiers with random content, such as jetpack and balloons. Includes ore processing, new tools and armors, and more.",
 "author":["aidancbrady"],
 "source":"https://github.com/aidancbrady/Mekanism",
 "type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
