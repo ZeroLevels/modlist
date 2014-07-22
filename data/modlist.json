@@ -11679,18 +11679,7 @@
 "author":["sp614x"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"Optifine",
-"other":"(Unstable)",
-"link":"http://bit.ly/VFKJCV",
-"desc":"Adds advanced graphical settings to the video options menu as well as grants the ability to easily use high-definition texture packs. Also boosts your FPS.",
-"author":["sp614x"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
