@@ -1,4 +1,5 @@
 (July/22/2014)
+	*Updated "SimpleEnderPouch" info: Updated source
 	-Removed "Mekanism": Download no longer available
 
 (July/19/2014)

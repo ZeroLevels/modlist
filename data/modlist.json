@@ -13667,10 +13667,21 @@
 "link":"http://bit.ly/1hN6xI6",
 "desc":"Adds Ender Pouches, which allow players to access their Ender Chest inventory.",
 "author":["DemoXin"],
-"source":"https://github.com/DemoXinMC/SimpleEnderPouch",
+"source":"https://github.com/DemoXinMC/SimpleEnderThings",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
+"name":"Simple Ender Things",
+"link":"http://bit.ly/1jThnQ9",
+"desc":"Allows players to access their Ender Chest inventory using an Ender Pouch, and allows teleportation back home with an Ender Tome. Previously known as SimpleEnderPouch.",
+"author":["DemoXin"],
+"source":"https://github.com/DemoXinMC/SimpleEnderThings",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
