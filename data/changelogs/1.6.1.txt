@@ -1,3 +1,6 @@
+(July/22/2014)
+	*Updated "SimpleEnderPouch" info: Updated source
+
 (July/19/2014)
 	*Updated "VoxelMap" link
 
