@@ -1,5 +1,6 @@
 (July/22/2014)
 	*Updated "VoxelCam" info: Added source
+	+Added "Simple Ender Things"
 
 (July/21/2014)
 	+Added "ModTweaker": Currently in Beta
