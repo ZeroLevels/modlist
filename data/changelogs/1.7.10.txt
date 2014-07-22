@@ -1,4 +1,5 @@
 (July/22/2014)
+	+Added "Redstone Paste Mod"
 	+Added "VoxelCam"
 
 (July/21/2014)
