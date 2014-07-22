@@ -1,5 +1,9 @@
 (July/22/2014)
 	*Updated "Optifine": No longer unstable
+	+Added 3 mods by Calclavia (Which are the following)
+		+Added "Modular Force Field System": Currently in Development
+		+Added "Resonant Engine": Currently in Development
+		+Added "Universal Electricity": Currently in Development
 	+Added "Redstone Paste Mod"
 	+Added "Mekanism"
 	+Added "Simple Ender Things"

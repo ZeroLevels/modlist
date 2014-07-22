@@ -10031,6 +10031,18 @@
 
 },{
 
+"name":"Modular Force Field System",
+"other":"(MFFS) (Development)",
+"link":"http://bit.ly/1rofdsN",
+"desc":"Adds force fields, high-tech machinery and defensive measures.",
+"author":["Calclavia"],
+"source":"https://github.com/calclavia/Modular-Force-Field-System",
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity","Resonant Engine"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Modular Furnaces",
 "link":"http://bit.ly/15OxYvc",
 "desc":"Create your own furnace and ore processing multi-block structures.",
@@ -13184,6 +13196,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Resonant Engine",
+"other":"(Development)",
+"link":"http://bit.ly/1roaxTy",
+"desc":"A modding framework used to create blocks and prefabricated code.",
+"author":["Calclavia"],
+"source":"https://github.com/Universal-Electricity/Resonant-Engine",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -16355,6 +16379,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"Universal Electricity",
+"other":"(Development)",
+"link":"http://bit.ly/19T5zCZ",
+"desc":"Universal Electricity is a modular coding framework that allows the use of electricity in Minecraft. Mods which uses the Universal Electricity API have the ability to communicate and be compatible with each other.",
+"author":["Calclavia"],
+"source":"https://github.com/Universal-Electricity/Universal-Electricity",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
