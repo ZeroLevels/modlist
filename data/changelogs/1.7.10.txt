@@ -1,6 +1,7 @@
 (July/22/2014)
 	+Added "Redstone Paste Mod"
 	+Added "VoxelCam"
+	+Added "WorldStateCheckpoints"
 
 (July/21/2014)
 	+Added 3 mods by ProfMobius (Which are the following)
