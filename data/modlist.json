@@ -15760,13 +15760,25 @@
 },{
 
 "name":"Tinkers' Mechworks",
-"link":"http://bit.ly/Z7xU26",
+"link":"http://bit.ly/1ne7Cv9",
 "desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
 "author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersMechworks",
 "type":["Universal"],
 "dependencies":["Forge Required","Tinkers' Construct","Mantle"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Tinkers' Mechworks",
+"other":"(Alpha)",
+"link":"http://bit.ly/1ne7Cv9",
+"desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
+"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"source":"https://github.com/SlimeKnights/TinkersMechworks",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct","Mantle"],
+"versions":["1.7.10"]
 
 },{
 
