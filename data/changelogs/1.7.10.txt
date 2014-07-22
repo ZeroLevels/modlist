@@ -2,6 +2,7 @@
 	*Updated "Optifine": No longer unstable
 	+Added "Redstone Paste Mod"
 	+Added "Mekanism"
+	+Added "Simple Ender Things"
 	+Added "Tinkers' Mechworks": Currently in Alpha
 	+Added "VoxelCam"
 	+Added "WorldStateCheckpoints"
