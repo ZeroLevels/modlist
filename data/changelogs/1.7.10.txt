@@ -1,3 +1,6 @@
+(July/22/2014)
+	+Added "VoxelCam"
+
 (July/21/2014)
 	+Added 3 mods by ProfMobius (Which are the following)
 		+Added "JABBA"

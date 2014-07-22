@@ -1,3 +1,6 @@
+(July/22/2014)
+	*Updated "VoxelCam" info: Added source
+
 (July/21/2014)
 	+Added "ModTweaker": In Alpha, but no longer supported on this version
 
