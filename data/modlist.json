@@ -1624,11 +1624,11 @@
 "other":"(WIP)",
 "link":"http://bit.ly/VZVIFl",
 "desc":"Adds more storage options, such as Storage Crates, Reinforced Chests, Lockers, Armor Stands, as well as locks and keys for its chests.",
-"author":["copygirl"],
+"author":["copygirl","Vic_"],
 "source":"https://github.com/copygirl/BetterStorage",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 

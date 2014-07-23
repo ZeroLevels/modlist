@@ -1,3 +1,6 @@
+(July/23/2014)
+	+Added "BetterStorage": Currently WIP
+
 (July/22/2014)
 	*Updated "VoxelCam" info: Added source
 	+Added "Simple Ender Things"
