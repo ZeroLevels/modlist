@@ -1,3 +1,6 @@
+(July/23/2014)
+	*Updated "BetterStorage" author: Now by copygirl and Vic_
+
 (July/22/2014)
 	*Updated "SimpleEnderPouch" info: Updated source
 	-Removed "Mekanism": Download no longer available
