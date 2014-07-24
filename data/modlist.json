@@ -12661,9 +12661,10 @@
 "link":"http://bit.ly/1lPWmD3",
 "desc":"Brings the principles of quantum physics to Minecraft. Adds a quantum block that changes upon being observed.",
 "author":["dan200","MinecraftEdu","Google"],
+"source":"https://code.google.com/p/qcraft-mod/",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2"]
+"versions":["1.7.2","1.6.4","1.5.2"]
 
 },{
 
