@@ -12719,6 +12719,16 @@
 
 },{
 
+"name":"Quick Hotbar Mod",
+"link":"http://bit.ly/1rDyLuT",
+"desc":"Allows quick swapping between inventory rows as the hotbar with configurable keybindings. Does not conflict with any action registered to the keybinding.",
+"author":["Kulttuuri"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"QuickThirdPerson",
 "link":"http://bit.ly/112JujJ",
 "desc":"Orbit around your character in Third Person.",
