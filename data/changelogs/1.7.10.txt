@@ -1,4 +1,7 @@
 (July/24/2014)
+	+Added 2 mods by kegare (Which are the following)
+		+Added "BedrockLayer"
+		+Added "Caveworld"
 	+Added "Adventurer's Amulets"
 	+Added "Instant Massive Structures Mod"
 	+Added "Mine & Blade: Battlegear 2"
