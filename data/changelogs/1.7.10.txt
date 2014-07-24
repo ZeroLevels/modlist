@@ -7,6 +7,7 @@
 	+Added "Gammabright"
 	+Added "Instant Massive Structures Mod"
 	+Added "Mine & Blade: Battlegear 2"
+	+Added "Note Block Display"
 	+Added "Quick Hotbar Mod"
 	+Added "TreeCapitator"
 	+Added "WorldEditCUI"
