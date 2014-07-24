@@ -1,4 +1,5 @@
 (July/24/2014)
+	*Updated "TreeCapitator" description
 	+Added "Instant Massive Structures Mod"
 
 (July/23/2014)

@@ -16127,18 +16127,18 @@
 
 "name":"TreeCapitator",
 "link":"http://bit.ly/TWHHIG",
-"desc":"This mod has separate ModLoader and Forge versions.Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.",
+"desc":"Allows you to chop down an entire tree (along with its leaves) by harvesting one of its logs. Supports logs/axes from many mods. Now damages axe per log chopped, unless configured otherwise.",
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/TreeCapitator",
 "type":["Universal"],
 "dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
 "name":"TreeCapitator",
 "link":"http://bit.ly/TWHHIG",
-"desc":"This mod has separate ModLoader and Forge versions.Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.",
+"desc":"This mod has separate ModLoader and Forge versions. Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.",
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/TreeCapitator",
 "type":["Universal"],
