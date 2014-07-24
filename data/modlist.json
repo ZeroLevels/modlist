@@ -2775,7 +2775,7 @@
 
 "name":"ChunkBorders",
 "link":"http://bit.ly/1kTG7Us",
-"desc":"Visually displays the edges of chunks. Useful for Towny, Factions, or similar servers where chunk boundaries are important for things like setting up plots. Configurable settings.",
+"desc":"Visualizes chunk borders and identifies spawn chunks with configurable settings.",
 "author":["troyboy50"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
