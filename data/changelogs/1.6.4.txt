@@ -1,6 +1,7 @@
 (July/24/2014)
 	*Updated "TreeCapitator" description
 	+Added "Instant Massive Structures Mod"
+	-Removed "FortuneOres": No longer supported by author
 
 (July/23/2014)
 	*Updated "BetterStorage" author: Now by copygirl and Vic_
