@@ -4,9 +4,12 @@
 		+Added "Caveworld"
 	+Added "Adventurer's Amulets"
 	+Added "FortuneOres 2"
+	+Added "Gammabright"
 	+Added "Instant Massive Structures Mod"
 	+Added "Mine & Blade: Battlegear 2"
+	+Added "Quick Hotbar Mod"
 	+Added "TreeCapitator"
+	+Added "WorldEditCUI"
 
 (July/23/2014)
 	+Added "BetterStorage": Currently WIP
