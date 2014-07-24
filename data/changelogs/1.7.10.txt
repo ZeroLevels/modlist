@@ -3,6 +3,7 @@
 		+Added "BedrockLayer"
 		+Added "Caveworld"
 	+Added "Adventurer's Amulets"
+	+Added "FortuneOres 2"
 	+Added "Instant Massive Structures Mod"
 	+Added "Mine & Blade: Battlegear 2"
 	+Added "TreeCapitator"
