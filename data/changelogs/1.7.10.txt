@@ -1,5 +1,8 @@
 (July/24/2014)
 	+Added "Adventurer's Amulets"
+	+Added "Instant Massive Structures Mod"
+	+Added "Mine & Blade: Battlegear 2"
+	+Added "TreeCapitator"
 
 (July/23/2014)
 	+Added "BetterStorage": Currently WIP
