@@ -246,6 +246,17 @@
 
 },{
 
+"name":"Adventurer's Amulets",
+"link":"http://bit.ly/1ly4S7C",
+"desc":"Adds themed items which give players flight, access to Ender Chest inventories, allow them to skip over water and more.",
+"author":["GustoniaEagle"],
+"source":"https://github.com/GustoniaEagle/Adventurers-Amulets",
+"type":["Universal"],
+"dependencies":["Forge Required","Baubles"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"AdventureTime Mod",
 "other":"(Beta)",
 "link":"http://bit.ly/125Iet4",
