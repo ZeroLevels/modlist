@@ -6266,8 +6266,8 @@
 },{
 
 "name":"FortuneOres 2",
-"link":"http://bit.ly/1hCUxK4",
-"desc":"Complete rewrite of FortuneOres, not backwards compatible. Iron and Gold Ores drop Iron and Gold Chunks respectively. Allows the use of the Fortune enchantment while keeping game balance. Silk Touch tools will still be able to obtain ore blocks.",
+"link":"http://bit.ly/1pL1I3p",
+"desc":"Complete rewrite of FortuneOres, not backwards compatible. Ores drop respective chunk items when mined, allowing the use of the Fortune enchantment while keeping game balance. Silk Touch tools will still be able to obtain ore blocks. Fully supports Metallurgy 4 and common mod ores.",
 "author":["DemoXin"],
 "source":"https://github.com/DemoXinMC/FortuneOres",
 "type":["Universal"],
