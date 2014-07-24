@@ -1,4 +1,5 @@
 (July/24/2014)
+	*Updated "Note Block Display" description
 	-Removed "Instant Massive Structures Mod": Download no longer available
 	-Removed "FortuneOres": No longer supported by author
 

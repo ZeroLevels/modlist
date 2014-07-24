@@ -1,4 +1,5 @@
 (July/24/2014)
+	*Updated "Note Block Display" description
 	*Updated "TreeCapitator" description
 	+Added "FortuneOres 2"
 	+Added "Instant Massive Structures Mod"

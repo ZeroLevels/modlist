@@ -11372,7 +11372,7 @@
 
 "name":"Note Block Display",
 "link":"http://bit.ly/1512XEI",
-"desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them. Created by ImRaginBro, maintained by xaero_.",
+"desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them. Originally by ImRaginBro.",
 "author":["xaero_"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
