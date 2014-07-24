@@ -3,6 +3,7 @@
 		+Added "BedrockLayer"
 		+Added "Caveworld"
 	+Added "Adventurer's Amulets"
+	+Added "ChunkBorders"
 	+Added "FortuneOres 2"
 	+Added "Gammabright"
 	+Added "Instant Massive Structures Mod"
