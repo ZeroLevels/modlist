@@ -7803,11 +7803,11 @@
 
 "name":"Instant Massive Structures Mod",
 "link":"http://bit.ly/12da1ro",
-"desc":"This mod adds over 24 blocks, that create their own structures instantly! Just walk over the block and an structure will be generated! Drag n drop installation.",
+"desc":"Adds over 24 block which generate structures instantly upon activation; such as Pyramids, Water Slides, Enchantment Rooms and Castles.",
 "author":["SimJoo"],
-"type":["SSP","LAN"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.2","1.6.1"]
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 

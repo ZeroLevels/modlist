@@ -1,3 +1,6 @@
+(July/24/2014)
+	-Removed "Instant Massive Structures Mod": Download no longer available
+
 (July/22/2014)
 	*Updated "SimpleEnderPouch" info: Updated source
 

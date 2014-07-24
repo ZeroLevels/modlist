@@ -1,3 +1,6 @@
+(July/24/2014)
+	+Added "Instant Massive Structures Mod"
+
 (July/23/2014)
 	*Updated "BetterStorage" author: Now by copygirl and Vic_
 

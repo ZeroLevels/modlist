@@ -1,5 +1,6 @@
 (July/24/2014)
 	+Added "Adventurer's Amulets"
+	+Added "Instant Massive Structures Mod"
 	+Added "Mine & Blade: Battlegear 2"
 
 (July/23/2014)
