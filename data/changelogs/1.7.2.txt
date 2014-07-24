@@ -1,4 +1,6 @@
 (July/24/2014)
+	*Updated "ChunkBorders" description
+	*Updated "Note Block Display" description
 	*Updated "TreeCapitator" description
 	+Added "FortuneOres 2"
 	+Added "Instant Massive Structures Mod"

@@ -2775,11 +2775,11 @@
 
 "name":"ChunkBorders",
 "link":"http://bit.ly/1kTG7Us",
-"desc":"Visually displays the edges of chunks. Useful for Towny, Factions, or similar servers where chunk boundaries are important for things like setting up plots. Configurable settings.",
+"desc":"Visualizes chunk borders and identifies spawn chunks with configurable settings.",
 "author":["troyboy50"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3969,7 +3969,7 @@
 "author":["dags_"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -5004,19 +5004,7 @@
 "source":"https://github.com/CrazyPants/EnderIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
-
-},{
-
-"name":"EnderIO",
-"other":"(Beta)",
-"link":"http://bit.ly/1dQXp2X",
-"desc":"Multiple pipes in a single block. Buildcraft API and Forge Fluids compatible. Remote access to machines / inventories etc.",
-"author":["CrazyPants"],
-"source":"https://github.com/CrazyPants/EnderIO",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -11384,11 +11372,11 @@
 
 "name":"Note Block Display",
 "link":"http://bit.ly/1512XEI",
-"desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them. Created by ImRaginBro, maintained by xaero_.",
+"desc":"Adds a GUI to note blocks to aid in choosing a particular note without having to cycle through all of them. Originally by ImRaginBro.",
 "author":["xaero_"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
