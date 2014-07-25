@@ -606,6 +606,14 @@ $klein->respond('GET', '/api_docs', function ($request, $response, $service, $ap
 });
 
 /*
+ * API docs redirect
+ * @return redirect
+ */
+$klein->respond('GET', '/api', function ($request, $response, $service, $app) {
+    $response->redirect('/api/v3/docs');
+});
+
+/*
  * old
  * Redirect /old to old.modlist.mcf.li for ZeroLevels's history :-)
  * @return redirect
