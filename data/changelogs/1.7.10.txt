@@ -1,3 +1,6 @@
+(July/25/2014)
+	+Added "Custom NPCs"
+
 (July/24/2014)
 	+Added 2 mods by kegare (Which are the following)
 		+Added "BedrockLayer"
