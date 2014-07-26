@@ -1,3 +1,6 @@
+(July/26/2014)
+	*Updated "Equivalent Exchange 3" link
+
 (July/22/2014)
 	-Removed "Mekanism": Download no longer available
 
