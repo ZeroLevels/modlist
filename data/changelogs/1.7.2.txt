@@ -1,3 +1,7 @@
+(July/26/2014)
+	*Updated "Equivalent Exchange 3" link
+	+Added "WorldEditWrapper"
+
 (July/24/2014)
 	*Updated "ChunkBorders" description
 	*Updated "Note Block Display" description

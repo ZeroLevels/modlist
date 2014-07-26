@@ -3897,7 +3897,7 @@
 "author":["Noppes"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -5223,7 +5223,7 @@
 },{
 
 "name":"Equivalent Exchange 3",
-"link":"http://bit.ly/VFB7Ip",
+"link":"http://bit.ly/1l0wgyq",
 "desc":"Allows you to transmute materials into other materials.",
 "author":["Pahimar"],
 "source":"https://github.com/pahimar/Equivalent-Exchange-3",
@@ -17146,6 +17146,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"WorldEditWrapper",
+"link":"http://bit.ly/1rSTmsM",
+"desc":"Provides the functions of WorldEdit in singleplayer, allowing manipulation of thousands of blocks, leveling mountains, generating shapes and more.",
+"author":["Mumfrey"],
+"source":"https://github.com/Mumfrey/WorldEditWrapper",
+"type":["SSP","LAN"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 

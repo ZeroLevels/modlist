@@ -1,3 +1,6 @@
+(July/26/2014)
+	*Updated "Equivalent Exchange 3" link
+
 (July/24/2014)
 	*Updated "Note Block Display" description
 	*Updated "TreeCapitator" description

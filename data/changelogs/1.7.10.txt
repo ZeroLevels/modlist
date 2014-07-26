@@ -1,3 +1,8 @@
+(July/26/2014)
+	*Updated "Equivalent Exchange 3" link
+	+Added "Custom NPCs"
+	+Added "WorldEditWrapper"
+
 (July/24/2014)
 	+Added 2 mods by kegare (Which are the following)
 		+Added "BedrockLayer"
