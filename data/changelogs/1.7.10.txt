@@ -1,5 +1,6 @@
-(July/25/2014)
+(July/26/2014)
 	+Added "Custom NPCs"
+	+Added "WorldEditWrapper"
 
 (July/24/2014)
 	+Added 2 mods by kegare (Which are the following)

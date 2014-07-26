@@ -17149,6 +17149,17 @@
 
 },{
 
+"name":"WorldEditWrapper",
+"link":"http://bit.ly/1rSTmsM",
+"desc":"Provides the functions of WorldEdit in singleplayer, allowing manipulation of thousands of blocks, leveling mountains, generating shapes and more.",
+"author":["Mumfrey"],
+"source":"https://github.com/Mumfrey/WorldEditWrapper",
+"type":["SSP","LAN"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"WorldStateCheckpoints",
 "link":"http://bit.ly/VNYhcp",
 "desc":"Gives you a way to take snapshots of your singleplayer worlds!",
