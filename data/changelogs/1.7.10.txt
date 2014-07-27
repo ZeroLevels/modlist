@@ -1,4 +1,5 @@
 (July/27/2014)
+	+Added "GLSL Shaders Mod"
 	+Added "Scenter"
 
 (July/26/2014)
