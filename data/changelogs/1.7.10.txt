@@ -1,8 +1,9 @@
 (July/27/2014)
-	+Added 3 mods by AtomicStryker (Which are the following)
+	+Added 4 mods by AtomicStryker (Which are the following)
 		+Added "Advanced Machines"
 		+Added "BattleTowers"
 		+Added "Dynamic Lights"
+		+Added "Finder Compass"
 	+Added "GLSL Shaders Mod"
 	+Added "Scenter"
 
