@@ -5,6 +5,7 @@
 		+Added "BattleTowers"
 		+Added "Dynamic Lights"
 		+Added "Finder Compass"
+		+Added "Infernal Mobs"
 	+Added "GLSL Shaders Mod"
 	+Added "Scenter"
 
