@@ -7639,7 +7639,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FInfernalMobs",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -8235,7 +8235,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FKenshiroMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -8965,7 +8965,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FMagicYarn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -9725,7 +9725,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FMinions",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -15890,23 +15890,12 @@
 
 "name":"TooManyItems",
 "other":"(TMI)",
-"link":"http://bit.ly/toomanyitems",
+"link":"http://bit.ly/1nKYOOY",
 "desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
 "author":["Marglyph"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"TooManyItems",
-"other":"(TMI)",
-"link":"http://bit.ly/toomanyitems",
-"desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
-"author":["Marglyph"],
-"type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
