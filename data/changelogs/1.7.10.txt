@@ -1,4 +1,5 @@
 (July/27/2014)
+	*Updated "TooManyItems" link and info: Now "Forge Compatible"
 	+Added 4 mods by AtomicStryker (Which are the following)
 		+Added "Advanced Machines"
 		+Added "BattleTowers"

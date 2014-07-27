@@ -1,3 +1,6 @@
+(July/27/2014)
+	*Updated "TooManyItems" link
+
 (July/24/2014)
 	*Updated "Note Block Display" description
 	-Removed "Instant Massive Structures Mod": Download no longer available
