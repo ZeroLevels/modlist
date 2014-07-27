@@ -141,7 +141,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FAdvancedMachines",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 

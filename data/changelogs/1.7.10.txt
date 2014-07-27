@@ -1,5 +1,7 @@
 (July/27/2014)
-	+Added "Dynamic Lights"
+	+Added 2 mods by AtomicStryker (Which are the following)
+		+Added "Advanced Machines"
+		+Added "Dynamic Lights"
 	+Added "GLSL Shaders Mod"
 	+Added "Scenter"
 
