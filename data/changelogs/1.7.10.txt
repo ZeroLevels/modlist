@@ -8,6 +8,7 @@
 		+Added "Infernal Mobs"
 		+Added "KenshiroMod"
 		+Added "Magic Yarn"
+		+Added "Minions"
 	+Added "GLSL Shaders Mod"
 	+Added "Scenter"
 
