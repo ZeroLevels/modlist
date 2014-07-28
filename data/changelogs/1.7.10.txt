@@ -1,11 +1,12 @@
 (July/28/2014)
-	+Added 6 mods by AtomicStryker (Which are the following)
+	+Added 7 mods by AtomicStryker (Which are the following)
 		+Added "Multi Mine"
 		+Added "Necromancy"
 		+Added "Pet Bat"
 		+Added "Ropes+"
 		+Added "Ruins"
 		+Added "Simply Hax"
+		+Added "Stalker Creepers"
 	+Added "Secret Rooms Mod"
 
 (July/27/2014)
