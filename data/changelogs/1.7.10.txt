@@ -1,4 +1,5 @@
 (July/28/2014)
+	+Added "Multi Mine"
 	+Added "Secret Rooms Mod"
 
 (July/27/2014)
