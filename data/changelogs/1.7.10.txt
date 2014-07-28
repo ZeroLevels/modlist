@@ -1,10 +1,12 @@
 (July/28/2014)
-	+Added "Multi Mine"
+	+Added 2 mods by AtomicStryker (Which are the following)
+		+Added "Multi Mine"
+		+Added "Necromancy"
 	+Added "Secret Rooms Mod"
 
 (July/27/2014)
 	*Updated "TooManyItems" link and info: Now "Forge Compatible"
-	+Added 7 mods by AtomicStryker (Which are the following)
+	+Added 8 mods by AtomicStryker (Which are the following)
 		+Added "Advanced Machines"
 		+Added "BattleTowers"
 		+Added "Dynamic Lights"
