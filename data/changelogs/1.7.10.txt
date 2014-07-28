@@ -1,8 +1,9 @@
 (July/28/2014)
-	+Added 3 mods by AtomicStryker (Which are the following)
+	+Added 4 mods by AtomicStryker (Which are the following)
 		+Added "Multi Mine"
 		+Added "Necromancy"
 		+Added "Pet Bat"
+		+Added "Ropes+"
 	+Added "Secret Rooms Mod"
 
 (July/27/2014)
