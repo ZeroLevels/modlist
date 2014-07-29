@@ -1303,19 +1303,6 @@
 
 },{
 
-"name":"Baubles ~Princess Edition~",
-"modid":"Baubles",
-"other":"(API)",
-"link":"http://bit.ly/1kyct5D",
-"desc":"A fork of the original Baubles with fixes for 1.7.10. Drop-in replacement for Baubles, do not use both. An API that adds 4 bauble slots to player inventories; consisting of an amulet slot, belt slot and 2 ring slots.",
-"author":["Vazkii","Azanor"],
-"source":"https://github.com/Vazkii/PrincessBaubles",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
 "name":"Beam Me Up!",
 "link":"http://bit.ly/UnjZGc",
 "desc":"",
@@ -4971,7 +4958,7 @@
 "author":["duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -16808,7 +16795,7 @@
 "source":"https://github.com/josephd/WarpBook",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17028,12 +17015,13 @@
 },{
 
 "name":"Witchery",
+"other":"(Beta)",
 "link":"http://bit.ly/GMCMro",
 "desc":"Adds different magical elements such as curses, rituals and brewed potions through natural magic present in the world.",
 "author":["Emoniph"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
