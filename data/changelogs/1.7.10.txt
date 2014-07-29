@@ -1,4 +1,5 @@
 (July/29/2014)
+	+Added "Better World Generation 4"
 	+Added "Ender Book"
 	+Added "Warp Book"
 	+Added "Witchery": Currently in Beta

@@ -1686,18 +1686,7 @@
 "author":["ted80"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5"]
-
-},{
-
-"name":"Better World Generation 4",
-"other":"(Development)",
-"link":"http://bit.ly/WmtfYF",
-"desc":"May contain bugs. Adds many world generation options regarding previous versions of Minecraft as well as making Vanilla ones much more customizable.",
-"author":["ted80"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5"]
 
 },{
 
