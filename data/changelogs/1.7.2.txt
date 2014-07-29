@@ -1,4 +1,5 @@
 (July/29/2014)
+	*Updated "Witchery" info: Currently in Beta
 	-Removed "Baubles ~Princess Edition~": No longer supported, original has been updated
 
 (July/27/2014)

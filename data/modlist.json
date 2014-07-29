@@ -17015,12 +17015,13 @@
 },{
 
 "name":"Witchery",
+"other":"(Beta)",
 "link":"http://bit.ly/GMCMro",
 "desc":"Adds different magical elements such as curses, rituals and brewed potions through natural magic present in the world.",
 "author":["Emoniph"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
