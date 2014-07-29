@@ -1,5 +1,6 @@
 (July/29/2014)
 	+Added "Ender Book"
+	+Added "Warp Book"
 	+Added "Witchery": Currently in Beta
 	-Removed "Baubles ~Princess Edition~": No longer supported, original has been updated
 
