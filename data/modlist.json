@@ -14579,13 +14579,13 @@
 
 "name":"Steve's Factory Manager",
 "other":"(Alpha)",
-"link":"http://bit.ly/T6Zcd8",
+"link":"http://bit.ly/1tsfXiM",
 "desc":"Provides a flowchart-like interface to move items between machines and storage blocks. Entry for ModJam 3.",
 "author":["Vswe"],
 "source":"https://github.com/Vswe/ModJam3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
