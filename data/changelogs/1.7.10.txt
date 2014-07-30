@@ -16,6 +16,7 @@
 	+Added "Factorization"
 	+Added "Hardcore Questing Mode"
 	+Added "Mouse Tweaks"
+	+Added "Random Things"
 	+Added "ShinyFood"
 
 (July/29/2014)
