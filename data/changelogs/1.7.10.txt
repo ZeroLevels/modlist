@@ -1,5 +1,6 @@
 (July/30/2014)
 	+Added "Enhanced Biomes"
+	+Added "Factorization"
 	+Added "ShinyFood"
 
 (July/29/2014)
