@@ -8,6 +8,7 @@
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
 	+Added "Hardcore Questing Mode"
+	+Added "MineFactory Reloaded"
 	+Added "ShinyFood"
 
 (July/29/2014)
