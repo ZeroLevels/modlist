@@ -16,6 +16,7 @@
 	+Added "Factorization"
 	+Added "Hardcore Questing Mode"
 	+Added "Mouse Tweaks"
+	+Added "Natura": Currently in Alpha
 	+Added "Random Things"
 	+Added "ShinyFood"
 
