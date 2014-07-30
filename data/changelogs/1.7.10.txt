@@ -7,6 +7,7 @@
 		+Added "Thermal Foundation": Currently in Beta
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
+	+Added "Hardcore Questing Mode"
 	+Added "ShinyFood"
 
 (July/29/2014)
