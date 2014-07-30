@@ -13574,11 +13574,11 @@
 
 "name":"ShinyFood",
 "link":"http://bit.ly/1jIo0nd",
-"desc":"Adds 21 new golden food items with its own special potion effects.",
+"desc":"Adds 22 new golden food items with its own special potion effects.",
 "author":["DmgVol"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 

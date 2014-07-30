@@ -1,5 +1,6 @@
 (July/30/2014)
 	+Added "Enhanced Biomes"
+	+Added "ShinyFood"
 
 (July/29/2014)
 	+Added "Better World Generation 4"

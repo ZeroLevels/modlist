@@ -1,4 +1,5 @@
 (July/30/2014)
+	*Updated "ShinyFood" description
 	+Added "Enhanced Biomes"
 
 (July/29/2014)
