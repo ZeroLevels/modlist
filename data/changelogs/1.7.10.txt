@@ -8,6 +8,9 @@
 	+Added 2 mods by skyboy026 (Which are the following)
 		+Added "MineFactory Reloaded": Currently in Beta
 		+Added "Nether Ores": Currently in Beta
+	+Added 2 mods by Vswe (Which are the following)
+		+Added "Steve's Carts 2": Currently in Beta
+		+Added "Steve's Factory Manager": Currently in Alpha
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
 	+Added "Hardcore Questing Mode"
