@@ -5116,6 +5116,16 @@
 
 },{
 
+"name":"Enhanced Biomes",
+"link":"http://bit.ly/1uFRsQF",
+"desc":"Adds over 80 new biomes, each with their own types of stones, trees and wood. Villages will use the materials from the biome they are on. Previously known as Better Biomes.",
+"author":["SMEZ1234"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Enhanced Books",
 "link":"http://bit.ly/VHGoPt",
 "desc":"",
@@ -5637,7 +5647,7 @@
 "author":["neptunepink"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -13564,11 +13574,11 @@
 
 "name":"ShinyFood",
 "link":"http://bit.ly/1jIo0nd",
-"desc":"Adds 21 new golden food items with its own special potion effects.",
+"desc":"Adds 22 new golden food items with its own special potion effects.",
 "author":["DmgVol"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 

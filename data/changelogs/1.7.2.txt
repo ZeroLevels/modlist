@@ -1,3 +1,8 @@
+(July/30/2014)
+	*Updated "ShinyFood" description
+	+Added "Enhanced Biomes"
+	+Added "Factorization"
+
 (July/29/2014)
 	*Updated "Better World Generation 4" info: No longer in Beta
 	*Updated "Witchery" info: Currently in Beta
