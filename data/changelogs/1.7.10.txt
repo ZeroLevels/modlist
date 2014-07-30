@@ -14,6 +14,7 @@
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
 	+Added "Hardcore Questing Mode"
+	+Added "Mouse Tweaks"
 	+Added "ShinyFood"
 
 (July/29/2014)
