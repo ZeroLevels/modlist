@@ -12,6 +12,7 @@
 	+Added "Factorization"
 	+Added "Hardcore Questing Mode"
 	+Added "ShinyFood"
+	+Added "Steve's Carts 2"
 
 (July/29/2014)
 	+Added "Better World Generation 4"

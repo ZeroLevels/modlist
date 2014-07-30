@@ -1,5 +1,6 @@
 (July/30/2014)
 	*Updated "ShinyFood" description
+	*Updated "Steve's Carts 2" link
 
 (July/29/2014)
 	*Updated "Witchery" info: Currently in Beta

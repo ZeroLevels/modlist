@@ -1,5 +1,6 @@
 (July/30/2014)
 	*Updated "ShinyFood" description
+	*Updated "Steve's Carts 2" link
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
 	-Removed "Hardcore Questing Mode": Download no longer available
