@@ -19,6 +19,7 @@
 	+Added "Natura": Currently in Alpha
 	+Added "Random Things"
 	+Added "ShinyFood"
+	+Added "Simply Jetpacks"
 
 (July/29/2014)
 	+Added "Better World Generation 4"

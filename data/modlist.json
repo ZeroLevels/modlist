@@ -13886,8 +13886,19 @@
 "author":["tonius11"],
 "source":"https://github.com/Tonius/SimplyJetpacks",
 "type":["Universal"],
-"dependencies":["Forge Required","Thermal Expansion","CoFH Core"],
+"dependencies":["Forge Required","CoFH Core","Thermal Expansion 3"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Simply Jetpacks",
+"link":"http://bit.ly/1k1nBLf",
+"desc":"Adds Redstone Flux-powered jetpacks.",
+"author":["tonius11"],
+"source":"https://github.com/Tonius/SimplyJetpacks",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Lib","CoFH Core","CodeChickenCore","Thermal Foundation","Thermal Expansion 4"],
+"versions":["1.7.10"]
 
 },{
 
