@@ -2957,6 +2957,30 @@
 
 },{
 
+"name":"CoFH Core",
+"other":"(Dependency) (Beta)",
+"link":"http://bit.ly/1qF9Uop",
+"desc":"Contains core functionality for all TeamCoFH mods.",
+"author":["TeamCoFH"],
+"source":"https://github.com/CoFH/CoFHCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"CoFH Lib",
+"other":"(Dependency) (Beta)",
+"link":"http://bit.ly/1qF9Uop",
+"desc":"Intended as a common framework for reusable common code.",
+"author":["TeamCoFH"],
+"source":"https://github.com/CoFH/CoFHCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"COFL's Simple Arrowblur",
 "link":"http://bit.ly/10ATG5R",
 "desc":"Adds dlordazgalor's Stadiametric Rangefinder without replacing the pumpkin blur texture. Conflicts with the GuiIngame class from Forge.",
@@ -13001,6 +13025,18 @@
 
 },{
 
+"name":"Redstone Arsenal",
+"other":"(Beta)",
+"link":"http://bit.ly/1qF9Kxo",
+"desc":"Adds tools and weaponry which harness the power of Redstone Flux, the energy system added by CoFH and Thermal Expansion.",
+"author":["TeamCoFH"],
+"source":"https://github.com/CoFH/RedstoneArsenal",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib","CodeChickenCore","Thermal Foundation","Thermal Expansion 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Redstone Block Shining Mod",
 "link":"http://bit.ly/19T3C9V",
 "desc":"Makes the vanilla Redstone Block emit light.",
@@ -15542,6 +15578,28 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1"]
+
+},{
+
+"name":"Thermal Expansion 4",
+"other":"(Beta)",
+"link":"http://bit.ly/1ztBBUh",
+"desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
+"author":["Team CoFH"],
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib","CodeChickenCore","Thermal Foundation"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Thermal Foundation",
+"other":"(Beta)",
+"link":"http://bit.ly/1uFXNvm",
+"desc":"Required for Thermal Expansion. Adds resources without requiring the technology included in Thermal Expansion.",
+"author":["Team CoFH"],
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core"],
+"versions":["1.7.10"]
 
 },{
 
