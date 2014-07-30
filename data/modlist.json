@@ -5116,6 +5116,16 @@
 
 },{
 
+"name":"Enhanced Biomes",
+"link":"http://bit.ly/1uFRsQF",
+"desc":"Adds over 80 new biomes, each with their own types of stones, trees and wood. Villages will use the materials from the biome they are on. Previously known as Better Biomes.",
+"author":["SMEZ1234"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Enhanced Books",
 "link":"http://bit.ly/VHGoPt",
 "desc":"",
