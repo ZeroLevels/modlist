@@ -12,6 +12,7 @@
 		+Added "Steve's Carts 2": Currently in Beta
 		+Added "Steve's Factory Manager": Currently in Alpha
 	+Added "Carpenter's Blocks"
+	+Added "CraftGuide"
 	+Added "Damage Indicators"
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
