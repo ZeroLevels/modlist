@@ -2964,7 +2964,7 @@
 "author":["TeamCoFH"],
 "source":"https://github.com/CoFH/CoFHCore",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","CoFH Lib"],
 "versions":["1.7.10"]
 
 },{
@@ -6954,18 +6954,7 @@
 "author":["LordDusk","NewcastleGeek","Vswe"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Hardcore Questing Mode",
-"other":"(HQM) (Alpha)",
-"link":"http://bit.ly/1n4H9ku",
-"desc":"Introduces the possibility to play a multi-life hardcore mode before perma-death/ban, and adds a quest system which allows the creation of quests by map makers and server owners.",
-"author":["LordDusk","NewcastleGeek","Vswe"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -9502,6 +9491,18 @@
 },{
 
 "name":"MineFactory Reloaded",
+"other":"(Beta)",
+"link":"http://bit.ly/1hyiLR0",
+"desc":"MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.",
+"author":["skyboy026"],
+"source":"https://github.com/skyboy/MineFactoryReloaded",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Lib","CoFH Core","CodeChickenCore"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"MineFactory Reloaded",
 "link":"http://bit.ly/1hyiLR0",
 "desc":"MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive. It also provides some additional support blocks and machines.",
 "author":["skyboy026"],
@@ -11181,6 +11182,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Nether Ores",
+"other":"(Beta)",
+"link":"http://bit.ly/1hyjzp8",
+"desc":"Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite. Non-vanilla ores only spawn if a mod that uses them exists. All nether ores turn into their surface counterparts in a furnace - some (like redstone or coal) may need to be smacked with a pick or macerated to be made useful.",
+"author":["skyboy026"],
+"source":"https://github.com/skyboy/NetherOres",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Lib","CoFH Core"],
+"versions":["1.7.10"]
 
 },{
 
@@ -13032,7 +13045,7 @@
 "author":["TeamCoFH"],
 "source":"https://github.com/CoFH/RedstoneArsenal",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","CoFH Lib","CodeChickenCore","Thermal Foundation","Thermal Expansion 4"],
+"dependencies":["Forge Required","CoFH Lib","CoFH Core","CodeChickenCore","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
 
 },{
@@ -15587,7 +15600,7 @@
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
 "author":["Team CoFH"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","CoFH Lib","CodeChickenCore","Thermal Foundation"],
+"dependencies":["Forge Required","CoFH Lib","CoFH Core","CodeChickenCore","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{

@@ -2,6 +2,7 @@
 	*Updated "ShinyFood" description
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
+	-Removed "Hardcore Questing Mode": Download no longer available
 
 (July/29/2014)
 	*Updated "Better World Generation 4" info: No longer in Beta
