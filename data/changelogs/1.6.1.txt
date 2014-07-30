@@ -1,3 +1,6 @@
+(July/30/2014)
+	*Updated "Damage Indicators" info: Clientside, server install not required
+
 (July/27/2014)
 	*Updated "TooManyItems" link
 

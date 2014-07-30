@@ -3987,9 +3987,19 @@
 "link":"http://bit.ly/WnybMA",
 "desc":"When anything living takes damage, the damage they took will bounce off their head, with a cool little effect. Also shows a mod portrait, with name, status",
 "author":["rich1051414"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
+
+},{
+
+"name":"Damage Indicators",
+"link":"http://bit.ly/WnybMA",
+"desc":"When anything living takes damage, the damage they took will bounce off their head, with a cool little effect. Also shows a mod portrait, with name, status",
+"author":["rich1051414"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -10760,7 +10770,7 @@
 "source":"https://bitbucket.org/YaLTeR/mouse-tweaks/overview",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -11109,6 +11119,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Mantle"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Natura",
+"other":"(Alpha)",
+"link":"http://bit.ly/1nTud1F",
+"desc":"A mod that aims to spice up the world with interesting worldgen. With a few small additions, hunger no longer has to be about hunting animals early game. The mod is mostly intuitive; everything should be sensible or explained in-game.",
+"author":["mDiyo","progwml6"],
+"source":"https://github.com/mDiyo/Natura",
+"type":["Universal"],
+"dependencies":["Forge Required","Mantle"],
+"versions":["1.7.10"]
 
 },{
 
@@ -12818,7 +12840,7 @@
 "source":"https://github.com/lumien231/Random-Things",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 

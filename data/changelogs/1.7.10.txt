@@ -11,9 +11,13 @@
 	+Added 2 mods by Vswe (Which are the following)
 		+Added "Steve's Carts 2": Currently in Beta
 		+Added "Steve's Factory Manager": Currently in Alpha
+	+Added "Damage Indicators"
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
 	+Added "Hardcore Questing Mode"
+	+Added "Mouse Tweaks"
+	+Added "Natura": Currently in Alpha
+	+Added "Random Things"
 	+Added "ShinyFood"
 
 (July/29/2014)
