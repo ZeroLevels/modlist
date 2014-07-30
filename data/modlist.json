@@ -3987,9 +3987,19 @@
 "link":"http://bit.ly/WnybMA",
 "desc":"When anything living takes damage, the damage they took will bounce off their head, with a cool little effect. Also shows a mod portrait, with name, status",
 "author":["rich1051414"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
+
+},{
+
+"name":"Damage Indicators",
+"link":"http://bit.ly/WnybMA",
+"desc":"When anything living takes damage, the damage they took will bounce off their head, with a cool little effect. Also shows a mod portrait, with name, status",
+"author":["rich1051414"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
