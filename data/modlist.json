@@ -2969,6 +2969,18 @@
 
 },{
 
+"name":"CoFH Lib",
+"other":"(Dependency) (Beta)",
+"link":"http://bit.ly/1qF9Uop",
+"desc":"Intended as a common framework for reusable common code.",
+"author":["TeamCoFH"],
+"source":"https://github.com/CoFH/CoFHCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"COFL's Simple Arrowblur",
 "link":"http://bit.ly/10ATG5R",
 "desc":"Adds dlordazgalor's Stadiametric Rangefinder without replacing the pumpkin blur texture. Conflicts with the GuiIngame class from Forge.",
@@ -13020,7 +13032,7 @@
 "author":["TeamCoFH"],
 "source":"https://github.com/CoFH/RedstoneArsenal",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib","CodeChickenCore","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
 
 },{
@@ -15575,7 +15587,7 @@
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
 "author":["Team CoFH"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","Thermal Foundation"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib","CodeChickenCore","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{

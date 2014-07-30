@@ -1,6 +1,7 @@
 (July/30/2014)
-	+Added 4 mods by TeamCoFH (Which are the following)
+	+Added 5 mods by TeamCoFH (Which are the following)
 		+Added "CoFH Core": Currently in Beta
+		+Added "CoFH Lib": Currently in Beta
 		+Added "Redstone Arsenal": Currently in Beta
 		+Added "Thermal Expansion 4": Currently in Beta
 		+Added "Thermal Foundation": Currently in Beta
