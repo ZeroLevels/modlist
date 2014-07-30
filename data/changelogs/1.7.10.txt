@@ -5,10 +5,12 @@
 		+Added "Redstone Arsenal": Currently in Beta
 		+Added "Thermal Expansion 4": Currently in Beta
 		+Added "Thermal Foundation": Currently in Beta
+	+Added 2 mods by skyboy026 (Which are the following)
+		+Added "MineFactory Reloaded": Currently in Beta
+		+Added "Nether Ores": Currently in Beta
 	+Added "Enhanced Biomes"
 	+Added "Factorization"
 	+Added "Hardcore Questing Mode"
-	+Added "MineFactory Reloaded"
 	+Added "ShinyFood"
 
 (July/29/2014)
