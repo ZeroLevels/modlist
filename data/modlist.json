@@ -2974,7 +2974,7 @@
 "link":"http://bit.ly/1qF9Uop",
 "desc":"Intended as a common framework for reusable common code.",
 "author":["TeamCoFH"],
-"source":"https://github.com/CoFH/CoFHCore",
+"source":"https://github.com/CoFH/CoFHLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
