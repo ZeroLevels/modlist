@@ -2490,6 +2490,16 @@
 
 },{
 
+"name":"CharacterOnGui",
+"link":"http://bit.ly/1xFd0cr",
+"desc":"Displays an animated character of the player on the top-left side of the screen, holding the items the player is holding.",
+"author":["samhalo007"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"ChargePads",
 "link":"http://bit.ly/UWuj7J",
 "desc":"Provides new blocks which, when stood upon, will recharge IC2 items that are held in your hand or worn (like batpacks or parts of a nanosuit).",

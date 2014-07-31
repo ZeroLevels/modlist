@@ -7,6 +7,7 @@
 	+Added 2 mods by MatrexsVigil (Which are the following)
 		+Added "Desert Craft"
 		+Added "HarvestCraft"
+	+Added "CharacterOnGui"
 	+Added "Coal 2 Charcoal"
 	+Added "VanillaPlus"
 
