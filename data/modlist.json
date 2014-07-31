@@ -846,7 +846,7 @@
 "source":"https://github.com/asiekierka/AsieLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -3264,6 +3264,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"Computronics",
+"link":"http://bit.ly/1n6kgrJ",
+"desc":"Adds computer peripherals such as tape drives, cameras, cipher blocks and radars. Compatible with ComputerCraft and OpenComputers.",
+"author":["asie"],
+"source":"https://github.com/asiekierka/computronics",
+"type":["Universal"],
+"dependencies":["Forge Required","AsieLib","OpenComputers"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -14553,6 +14564,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2"]
+
+},{
+
+"name":"Statues",
+"link":"http://bit.ly/1n6pdAO",
+"desc":"Sculpt statues out of various blocks, craft a showcase to show off your valuables. Ported from AUTOMATIC_MAIDEN's version.",
+"author":["asie","AUTOMATIC_MAIDEN"],
+"source":"https://github.com/asiekierka/Statues",
+"type":["Universal"],
+"dependencies":["Forge Required","AsieLib"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 

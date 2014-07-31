@@ -1,4 +1,7 @@
 (July/31/2014)
+	+Added 2 mods by asie (Which are the following)
+		+Added "Computronics"
+		+Added "Statues"
 	+Added "VanillaPlus"
 
 (July/30/2014)
