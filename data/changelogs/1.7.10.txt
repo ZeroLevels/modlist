@@ -1,5 +1,6 @@
 (July/31/2014)
 	*Updated "CoFH Lib" link
+	+Added "HarvestCraft"
 
 (July/30/2014)
 	+Added 5 mods by TeamCoFH (Which are the following)
