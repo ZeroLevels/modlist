@@ -1,4 +1,5 @@
 (July/31/2014)
+	+Added "Computronics"
 	+Added "VanillaPlus"
 
 (July/30/2014)

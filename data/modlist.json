@@ -3267,6 +3267,17 @@
 
 },{
 
+"name":"Computronics",
+"link":"http://bit.ly/1n6kgrJ",
+"desc":"Adds computer peripherals such as tape drives, cameras, cipher blocks and radars. Compatible with ComputerCraft and OpenComputers.",
+"author":["asie"],
+"source":"https://github.com/asiekierka/computronics",
+"type":["Universal"],
+"dependencies":["Forge Required","AsieLib","OpenComputers"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Condensed Blocks Mod",
 "link":"http://bit.ly/13J8a0U",
 "desc":"Lets you condense many blocks down into a single block for 3 levels, allowing you to store 46,656 in a single stack of blocks. Used in conjunction with Barrels from Factorization, this number can rise to 2,985,984 in total for a single block of storage. If we're talking metals or diamonds, this increases even further to 26,873,856 worth of ingots/diamonds. 26,873,856 ingots to 2,985,984 storage blocks to 331,776 condensed storage blocks, to 36,864 super condensed storage blocks, to 4,096 extreme condensed storage blocks to 1 barrel (64 stacks of 64) of extreme condensed storage blocks.",
