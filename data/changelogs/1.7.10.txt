@@ -1,6 +1,8 @@
 (July/31/2014)
 	*Updated "CoFH Lib" link
-	+Added "HarvestCraft"
+	+Added 2 mods by MatrexsVigil (Which are the following)
+		+Added "Desert Craft"
+		+Added "HarvestCraft"
 
 (July/30/2014)
 	+Added 5 mods by TeamCoFH (Which are the following)
