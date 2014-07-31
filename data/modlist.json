@@ -5346,6 +5346,17 @@
 
 },{
 
+"name":"Ex Nihilo",
+"link":"http://bit.ly/1s7iYDf",
+"desc":"Designed for Skyblock maps. Adds new blocks and items such as barrels, hammers, silkworms and dolls.",
+"author":["Erasmus_Crowley"],
+"source":"https://bitbucket.org/Erasmus_Crowley/ex-nihilo",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"ExpandedRedstone",
 "link":"http://bit.ly/17vAbJk",
 "desc":"Adds a few machines and tools that make redstone more useful and powerful.",

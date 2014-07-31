@@ -3,6 +3,7 @@
 		+Added "Computronics"
 		+Added "Statues"
 	+Added "CharacterOnGui"
+	+Added "Ex Nihilo"
 	+Added "VanillaPlus"
 
 (July/30/2014)
