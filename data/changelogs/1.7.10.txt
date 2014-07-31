@@ -1,5 +1,10 @@
 (July/31/2014)
 	*Updated "CoFH Lib" link
+	+Added 2 mods by MatrexsVigil (Which are the following)
+		+Added "Desert Craft"
+		+Added "HarvestCraft"
+	+Added "Coal 2 Charcoal"
+	+Added "VanillaPlus"
 
 (July/30/2014)
 	+Added 5 mods by TeamCoFH (Which are the following)
