@@ -14568,6 +14568,17 @@
 },{
 
 "name":"Statues",
+"link":"http://bit.ly/1n6pdAO",
+"desc":"Sculpt statues out of various blocks, craft a showcase to show off your valuables. Ported from AUTOMATIC_MAIDEN's version.",
+"author":["asie","AUTOMATIC_MAIDEN"],
+"source":"https://github.com/asiekierka/Statues",
+"type":["Universal"],
+"dependencies":["Forge Required","AsieLib"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Statues",
 "link":"http://bit.ly/XYb5z9",
 "desc":"Adds statue versions of mobs to the game.",
 "author":["TheOneAndOnly717"],

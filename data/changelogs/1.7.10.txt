@@ -1,8 +1,9 @@
 (July/31/2014)
 	*Updated "CoFH Lib" link
-	+Added 2 mods by asie (Which are the following)
+	+Added 3 mods by asie (Which are the following)
 		+Added "AsieLib"
 		+Added "Computronics"
+		+Added "Statues"
 	+Added 2 mods by MatrexsVigil (Which are the following)
 		+Added "Desert Craft"
 		+Added "HarvestCraft"
