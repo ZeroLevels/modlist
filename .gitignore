@@ -1,0 +1,9 @@
+/data/config.php
+/vendor
+/data/users.json
+/data/submissions.json
+/data/cache/*
+!/data/cache/.gitkeep
+.idea/*
+Vagrantfile
+.vagrant
