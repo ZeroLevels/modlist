@@ -1,5 +1,6 @@
 (August/01/2014)
 	+Added "Advanced HUD"
+	+Added "Advanced Dispensers": Currently in Beta
 	+Added "MusicCraft"
 
 (July/31/2014)
