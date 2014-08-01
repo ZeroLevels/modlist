@@ -123,14 +123,14 @@
 
 },{
 
-"name":"Advanced HUD Continuation",
+"name":"Advanced HUD",
 "link":"http://bit.ly/1152T69",
-"desc":"Continuation of Advanced HUD. Allows you to customize the in-game HUD.",
+"desc":"Continuation of TurboSlow's Advanced HUD. Allows you to customize the in-game HUD.",
 "author":["maxpowa"],
 "source":"https://github.com/maxpowa/AdvancedHUD",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
