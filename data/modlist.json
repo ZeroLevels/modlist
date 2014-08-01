@@ -10952,12 +10952,12 @@
 },{
 
 "name":"MusicCraft",
-"link":"http://bit.ly/199Exv6",
-"desc":"Adds musical instruments to the game.",
+"link":"http://bit.ly/1lhTNry",
+"desc":"Adds musical instruments to the game, such as pianos, guitars and drum kits.",
 "author":["Ktos94852"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 

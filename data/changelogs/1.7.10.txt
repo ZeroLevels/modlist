@@ -1,5 +1,6 @@
 (August/01/2014)
 	+Added "Advanced HUD"
+	+Added "MusicCraft"
 
 (July/31/2014)
 	*Updated "CoFH Lib" link
