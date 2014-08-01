@@ -1,9 +1,11 @@
 /data/config.php
 /vendor
+/data/404.json
 /data/users.json
 /data/submissions.json
 /data/cache/*
 !/data/cache/.gitkeep
+/config.php
 .idea/*
 Vagrantfile
 .vagrant
