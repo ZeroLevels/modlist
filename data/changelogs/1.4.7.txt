@@ -1,3 +1,6 @@
+(August/01/2014)
+	*Updated "MusicCraft" link and description
+
 (July/27/2014)
 	*Updated "TooManyItems" link
 

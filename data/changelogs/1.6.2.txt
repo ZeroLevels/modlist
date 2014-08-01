@@ -1,3 +1,7 @@
+(August/01/2014)
+	*Updated "Advanced HUD Continuation" name and description: Now "Advanced HUD"
+	*Updated "MusicCraft" link and description
+
 (July/30/2014)
 	*Updated "Damage Indicators" info: Clientside, server install not required
 	*Updated "Steve's Carts 2" link
