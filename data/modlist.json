@@ -103,6 +103,17 @@
 
 },{
 
+"name":"Advanced Dispensers",
+"other":"(Beta)",
+"link":"http://bit.ly/1cv9vAs",
+"desc":"Adds a new Dispenser, the Placer, which can plant seeds and place blocks. Useful for automatic Farms.",
+"author":["SuperManitu"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Advanced Genetics",
 "link":"http://bit.ly/15bQmOp",
 "desc":"Allows you to get the special abilities of a mob and to combine them with yourself. So it is possible to explode!",
