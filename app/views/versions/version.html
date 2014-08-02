@@ -1,0 +1,12 @@
+{% extends "layouts/modlist.html" %}
+
+{% block title %}Version {{ version.title }}{% endblock %}
+
+{% block content %}
+<h1>Mods for version {{ version.title }}</h1>
+<ul>
+	{% for mod in mods %}
+	<li>{{ mod.title }}</li>
+	{% endfor %}
+</ul>
+{% endblock %}
