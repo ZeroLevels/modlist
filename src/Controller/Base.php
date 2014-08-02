@@ -1,7 +1,9 @@
 <?php
-namespace Modlist;
+namespace Modlist\Controller;
 
-class Controller {
+use Klein;
+
+class Base {
 
 	/**
 	 * Request object from Klein
@@ -25,26 +27,17 @@ class Controller {
 	var $service;
 
 	/**
-	 * Generic variable
+	 * Initialize object with Klein objects
 	 *
-	 * @var App
+	 * @param Klein\Request  $request
+	 * @param Klein\Response $response
+	 * @param Klein\Service  $service
 	 */
-	var $app;
-
-	/**
-	 * Initialize controller with Klein objects.
-	 *
-	 * @param Request $request
-	 * @param Response $response
-	 * @param Service $service
-	 * @param App $app
-	 */
-	public function __construct($request, $response, $service, $app)
+	public function __construct(Klein\Request $request, Klein\Response $response, Klein\Service $service)
 	{
 		$this->request = $request;
 		$this->response = $response;
 		$this->service = $service;
-		$this->app = $app;
 	}
 
 }
