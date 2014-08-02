@@ -1,0 +1,12 @@
+{% extends "layouts/modlist.html" %}
+
+{% block title %}List of all versions{% endblock %}
+
+{% block content %}
+<h1>List of all of our versions</h1>
+<ul>
+	{% for version in versions %}
+	<li><a href="/versions/{{ version.version }}">{{ version.title }}</a></li>
+	{% endfor %}
+</ul>
+{% endblock %}
