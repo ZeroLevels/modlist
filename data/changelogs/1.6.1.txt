@@ -1,3 +1,6 @@
+(August/02/2014)
+	-Removed "CraftHeraldry": Download no longer available
+
 (July/30/2014)
 	*Updated "Damage Indicators" info: Clientside, server install not required
 

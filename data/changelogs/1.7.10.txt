@@ -1,3 +1,7 @@
+(August/02/2014)
+	+Added "CraftHeraldry"
+	+Added "Ping"
+
 (August/01/2014)
 	+Added "Advanced HUD"
 	+Added "Advanced Dispensers": Currently in Beta
