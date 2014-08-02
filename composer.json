@@ -10,7 +10,11 @@
     "autoload": {
         "psr-4": {
             "Modlist\\": "src/"
-        }
+        },
+        "classmap": [
+            "app/controllers",
+            "app/models"
+        ]
     },
     "license": "MIT",
         "authors": [

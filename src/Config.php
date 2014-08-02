@@ -36,7 +36,8 @@ class Config {
 	 */
 	public function setFromFile($file)
 	{
-		$configuration = array_dot(include_once($file));
+		$config = require_once($file);
+		$configuration = array_dot($config);
 		foreach ($configuration as $key => $value)
 		{
 			$this->set($key, $value);
