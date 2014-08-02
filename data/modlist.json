@@ -12182,6 +12182,17 @@
 
 },{
 
+"name":"Ping",
+"link":"http://bit.ly/1uTmdSo",
+"desc":"Allows players to notify others at a certain location with 4 different options. Similar to Portal 2's ping tool.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/Ping",
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Pirates",
 "other":"(WIP)",
 "link":"http://bit.ly/GMCEbb",
