@@ -1,0 +1,43 @@
+<?php
+namespace Modlist\Controller;
+
+use Klein;
+
+class Base {
+
+	/**
+	 * Request object from Klein
+	 *
+	 * @var Request
+	 */
+	var $request;
+
+	/**
+	 * Response object from Klein
+	 *
+	 * @var Response
+	 */
+	var $response;
+
+	/**
+	 * Service provider from Klein
+	 *
+	 * @var Service
+	 */
+	var $service;
+
+	/**
+	 * Initialize object with Klein objects
+	 *
+	 * @param Klein\Request  $request
+	 * @param Klein\Response $response
+	 * @param Klein\Service  $service
+	 */
+	public function __construct(Klein\Request $request, Klein\Response $response, Klein\Service $service)
+	{
+		$this->request = $request;
+		$this->response = $response;
+		$this->service = $service;
+	}
+
+}
