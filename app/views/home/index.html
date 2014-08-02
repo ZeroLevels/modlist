@@ -1,0 +1,20 @@
+{% extends "layouts/modlist.html" %}
+
+{% block title %}MCF Mod List{% endblock %}
+
+{% block content %}
+<div class="jumbotron">
+	<h1>MCF Modlist</h1>
+	<p>A list of Minecraft mods compiled by the community</p>
+	<p>
+		<a href="/version/latest" class="btn btn-primary btn-lg">Latest Mod List &raquo;</a>
+		<a href="/random" class="btn btn-default btn-lg">View Random Mod &raquo;</a>
+	</p>
+	<h2>Versions in our database:</h2>
+	<ul>
+		{% for version in versions %}
+			<li>{{ version.title }}</li>
+		{% endfor %}
+	</ul>
+</div>
+{% endblock %}

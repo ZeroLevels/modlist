@@ -1,5 +1,10 @@
 <?php
 
+require_once '../bootstrap.php';
+$router = new Modlist\Router();
+require_once __DIR__ . '/../app/Routes.php';
+$router->dispatch(); // Comment out this if you want to go back to old routing
+
 date_default_timezone_set('UTC');
 
 chdir('..');
