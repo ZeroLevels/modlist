@@ -1,7 +1,34 @@
 {
+    "name": "minecraftforum/widget",
     "require": {
+        "php": ">=5.4.0",
         "klein/klein": "2.*",
-        "phpmailer/phpmailer": "dev-master"
+        "nesbot/carbon": "1.*",
+        "twig/twig": "1.*",
+        "illuminate/database": "4.2.*"
     },
-    "minimum-stability": "dev"
+    "autoload": {
+        "psr-4": {
+            "Modlist\\": "src/"
+        },
+        "classmap": [
+            "app/controllers",
+            "app/models"
+        ]
+    },
+    "license": "MIT",
+        "authors": [
+        {
+            "name": "ZeroLevels",
+            "email": "zerolevels@yahoo.com"
+        },
+        {
+            "name": "Martin Krisnanto Putra",
+            "email": "grygrflzr@hotmail.com"
+        },
+        {
+            "name": "Samuel Ryan",
+            "email": "sam@samryan.co.uk"
+        }
+    ]
 }
