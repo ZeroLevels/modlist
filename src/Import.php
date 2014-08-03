@@ -21,7 +21,6 @@ class Import {
 	public function __construct($mod_list)
 	{
 		$this->mod_list = $mod_list;
-		$this->convert($this->mod_list);
 	}
 
 	public function convert()
