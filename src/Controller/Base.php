@@ -29,9 +29,9 @@ class Base {
 	/**
 	 * Initialize object with Klein objects
 	 *
-	 * @param Klein\Request  $request
-	 * @param Klein\Response $response
-	 * @param Klein\Service  $service
+	 * @param Klein\Request         $request
+	 * @param Klein\Response        $response
+	 * @param Klein\ServiceProvider $service
 	 */
 	public function __construct(Klein\Request $request, Klein\Response $response, Klein\ServiceProvider $service)
 	{
