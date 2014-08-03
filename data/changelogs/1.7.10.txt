@@ -1,3 +1,8 @@
+(August/03/2014)
+	*Updated "Forestry" link
+	+Added "Lycanite's Mobs"
+	+Added "Pixelmon"
+
 (August/02/2014)
 	+Added "CraftHeraldry"
 	+Added "Ping"
