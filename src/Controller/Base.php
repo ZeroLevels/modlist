@@ -38,6 +38,8 @@ class Base {
 		$this->request = $request;
 		$this->response = $response;
 		$this->service = $service;
+
+		if (method_exists($this, 'before')) $this->before();
 	}
 
 }
