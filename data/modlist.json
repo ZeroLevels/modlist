@@ -103,6 +103,17 @@
 
 },{
 
+"name":"Advanced Dispensers",
+"other":"(Beta)",
+"link":"http://bit.ly/1cv9vAs",
+"desc":"Adds a new Dispenser, the Placer, which can plant seeds and place blocks. Useful for automatic Farms.",
+"author":["SuperManitu"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Advanced Genetics",
 "link":"http://bit.ly/15bQmOp",
 "desc":"Allows you to get the special abilities of a mob and to combine them with yourself. So it is possible to explode!",
@@ -3564,12 +3575,12 @@
 
 "name":"CraftHeraldry",
 "link":"http://bit.ly/1aKmgFj",
-"desc":"Allows you to Craft Heraldry with over 800 icons in your game.",
+"desc":"Allows you to craft Heraldry (banners) with over 1200 different icons.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/CraftHeraldry",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -12168,6 +12179,17 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Ping",
+"link":"http://bit.ly/1uTmdSo",
+"desc":"Allows players to notify others at a certain location with 4 different options. Similar to Portal 2's ping tool.",
+"author":["dmillerw"],
+"source":"https://github.com/dmillerw/Ping",
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.10"]
 
 },{
 
