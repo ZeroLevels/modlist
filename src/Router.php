@@ -27,6 +27,30 @@ class Router extends Klein {
 	}
 
 	/**
+	 * Redirect matching requests with a status code
+	 *
+	 * @param string $path
+	 * @param string $destination
+	 * @param int $status
+	 *
+	 * @return callable
+	 */
+	public function redirect($path, $destination, $status = 301)
+	{
+		return $this->respond('GET', $path, function($request, $response) use ($status, $destination)
+		{
+			$parameters = [];
+			foreach ($request->paramsNamed() as $key => $value)
+			{
+				if ( ! is_int($key)) $parameters['{' . $key . '}'] = $value;
+			}
+
+			$destination = str_replace(array_keys($parameters), array_values($parameters), $destination);
+			return $this->response->redirect($destination, $status);
+		});
+	}
+
+	/**
 	 * Create a callback from a class name, named parameters are passed as
 	 * arguments in order
 	 *
