@@ -3,14 +3,30 @@
 use Modlist\Controller;
 
 class PanelController extends Controller\Twig {
+	
+	public function __construct(\Klein\Request $request, \Klein\Response $response, \Klein\ServiceProvider $service)
+	{
+		parent::__construct($request, $response, $service);
+		$authenticated = true;
+		
+		$login = (strpos($this->request->uri(), '/panel/login') === 0);
+		
+		if( ! $authenticated && ! $login ) {
+			$response->redirect('/panel/login');
+		}
+		
+		if( $authenticated && $login ) {
+			$response->redirect('/panel');
+		}
+	}
 
 	public function getIndex()
 	{
-		$authenticated = false;
-		
-		if($authenticated) {
-			return $this->make('panel/home.twig');
-                }
+		return $this->make('panel/home.twig');
+	}
+
+	public function getLogin()
+	{
 		return $this->make('panel/login.twig');
 	}
 
