@@ -33,7 +33,7 @@ class Base {
 	 * @param Klein\Response $response
 	 * @param Klein\Service  $service
 	 */
-	public function __construct(Klein\Request $request, Klein\Response $response, Klein\Service $service)
+	public function __construct(Klein\Request $request, Klein\Response $response, Klein\ServiceProvider $service)
 	{
 		$this->request = $request;
 		$this->response = $response;
