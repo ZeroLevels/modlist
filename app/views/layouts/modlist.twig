@@ -20,8 +20,8 @@
 	<link rel="dns-prefetch" href="//www.minecraftforum.net/"/>
 	<link rel="shortcut icon" href="/resources/images/favicon32x32.png">
 </head>
-<body>
-	<nav class="navbar navbar-inverse navbar-fixed-top ml-nav ml-nav-light" role="navigation">
+<body class="{% if meta.themed %}dark-body{% endif %}">
+	<nav class="navbar navbar-inverse navbar-fixed-top ml-nav {% if meta.themed %}ml-nav-dark{% else %}ml-nav-light{% endif %}" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
