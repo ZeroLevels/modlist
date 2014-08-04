@@ -15,7 +15,7 @@ class Twig extends Base {
 		
 		$data['meta']['uri']        = $this->request->uri();
 		$data['meta']['cachetime']  = filemtime(__DIR__ . '/../../public/resources/stylesheets/modlist.css');
-		$data['meta']['cookies']    = $this->request->cookies();
+		$data['meta']['themed']     = ( $this->request->cookies()->theme === 'dark' );
 		
 		return $this->twig->render($view, $data);
 	}

@@ -13,7 +13,12 @@ class VersionsController extends Controller\Twig {
 	public function getVersion($version)
 	{
 		$version = Version::where('version', $version)->first();
-		$mods = $version->mods()->get();
+		$mods = $version->mods()->with(
+			'mod',
+			'authors.author',
+			'dependencies.dependency',
+			'types.type')->get();
+		
 		return $this->make('versions/version.twig', compact('version', 'mods'));
 	}
 

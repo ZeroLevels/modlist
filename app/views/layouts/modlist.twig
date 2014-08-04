@@ -20,7 +20,56 @@
 	<link rel="dns-prefetch" href="//www.minecraftforum.net/"/>
 	<link rel="shortcut icon" href="/resources/images/favicon32x32.png">
 </head>
-<body>
+<body class="{% if meta.themed %}dark-body{% endif %}">
+	<nav class="navbar navbar-inverse navbar-fixed-top ml-nav {% if meta.themed %}ml-nav-dark{% else %}ml-nav-light{% endif %}" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/">MCF Modlist</a>
+			</div>
+			<div class="collapse navbar-collapse navbar-ex1-collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
+					<li class="dropdown">
+						<a href="/versions" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-list"></i> List <b class="caret"></b></a>
+						<ul class="dropdown-menu">
+						</ul>
+					</li>
+					<li><a href="/submit"><i class="fa fa-edit"></i> Submit Mods</a></li>
+					<li><a href="/faq"><i class="fa fa-question-circle"></i> FAQ</a></li>
+					<li class="dropdown">
+						<a href="/other" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-external-link"></i> More <b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="/random">Random Mod</a></li>
+							<li><a href="/api/v3/docs">API Docs</a></li>
+							<li><a href="/changelog">Changelog</a></li>
+							<li><a href="/banners">Banners</a></li>
+							<li><a href="/history">History</a></li>
+							<li><a href="/credits">Credits</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="https://twitter.com/MCFModlist"><i class="fa fa-tw"></i><span class="hidden-md-nav"> Twitter</span></a></li>
+					<li class="dropdown">
+						<a href="/options" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-gear"></i><span class="hidden-md-nav"> Options</span></a>
+						<ul class="dropdown-menu">
+							<li class="dropdown-header">Theme</li>
+							<li><a href="/options/theme/light">Light</a></li>
+							<li><a href="/options/theme/dark">Dark</a></li>
+							<li class="divider"></li>
+							<li><a href="/options">Options Page</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
 	<div class="container">
 		{% block content %}{% endblock %}
 	</div>
