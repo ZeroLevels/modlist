@@ -9,4 +9,9 @@ class ModAuthor extends Eloquent {
 		return $this->hasOne('Author','id','author_id');
 	}
 
+	public function mod()
+	{
+		return $this->hasOne('ModVersion','id','mod_version_id');
+	}
+
 }
