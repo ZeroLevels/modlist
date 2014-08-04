@@ -9,18 +9,14 @@
 	<li>
 		{{ mod.title }} by
 		{% for author in mod.authors %}
-			{%- if author is iterable -%}
-				<a href="/authors/{{ author.0.id }}">
-					{{- author.0.name -}}
-				</a>
-				{%- if not loop.last %}, {% endif -%}
-			{%- endif -%}
+			<a href="/authors/{{ author.author.id }}">
+				{{- author.author.name -}}
+			</a>
+			{%- if not loop.last %}, {% endif -%}
 		{%- endfor %}<br>
 		{% for type in mod.types %}
-			{%- if type is iterable -%}
-				{{- type.0.title -}}
-				{%- if not loop.last %}, {% endif -%}
-			{%- endif -%}
+			{{- type.type.title -}}
+			{%- if not loop.last %}, {% endif -%}
 		{% endfor %}
 	</li>
 	{% endfor %}
