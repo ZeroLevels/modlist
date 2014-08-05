@@ -1,3 +1,8 @@
+(August/05/2014)
+	+Added 2 mods by Darkhax (Which are the following)
+		+Added "More Swords Mod"
+		+Added "WAWLA"
+
 (August/03/2014)
 	*Updated "Forestry" link
 	+Added "Lycanite's Mobs"

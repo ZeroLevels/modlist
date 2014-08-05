@@ -1,3 +1,6 @@
+(August/05/2014)
+	+Added "More Swords Mod"
+
 (August/02/2014)
 	-Removed "CraftHeraldry": Download no longer available
 

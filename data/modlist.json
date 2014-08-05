@@ -10678,7 +10678,7 @@
 "source":"https://github.com/Darkhax/MoreSwordsMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -16922,6 +16922,18 @@
 "type":["Client"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"WAWLA",
+"other":"(What Are We Looking At)",
+"link":"http://bit.ly/UY2yjs",
+"desc":"An extension for Waila and NEI, providing additional information and support for mods such as Pixelmon.",
+"author":["Darkhax"],
+"source":"https://github.com/darkhax/WAWLA",
+"type":["Client"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items","Waila"],
+"versions":["1.7.10"]
 
 },{
 

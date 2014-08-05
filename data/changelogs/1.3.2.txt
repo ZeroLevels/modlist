@@ -1,3 +1,6 @@
+(August/05/2014)
+	+Added "More Swords Mod"
+
 (June/10/2014)
 	*Updated "Back Tools" info: Fixed dependencies - Requires ModLoader
 	+Added "Mutant Creatures"
