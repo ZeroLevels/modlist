@@ -125,7 +125,7 @@ class Import {
 				'mod_id' => $mod_id,
 				'version_id' => $this->versions[$version]->id,
 				'title' => $mod_data->name,
-				'description' => empty($mod_data->desc) ? $mod_data->desc : null,
+				'description' => empty($mod_data->desc) ? null : $mod_data->desc,
 				'link' => $mod_data->link,
 				'link_source' => isset($mod_data->source) ? $mod_data->source : null,
 				'forge' => isset($mod_data->dependencies['Forge Required']) ? true : false,
@@ -135,7 +135,7 @@ class Import {
 			]);
 			$this->addModVersionAuthors($mv->id, $mod_data->author);
 			$this->addModVersionTypes($mv->id, $mod_data->type);
-			$this->addModVersionDependencies($mv->id, $mod_data->dependencies);
+			$this->addModVersionDependencies($mv->id, $mv->version_id, $mod_data->dependencies);
 		}
 	}
 
@@ -164,17 +164,17 @@ class Import {
 		}
 	}
 
-	public function addModVersionDependencies($mod_version_id, $dependencies)
+	public function addModVersionDependencies($mod_version_id, $version_id, $dependencies)
 	{
 		foreach ($dependencies as $dependency_name)
 		{
 			if ($dependency_name == "Forge Compatible") continue;
-			if($dependency = ModVersion::where('title', $dependency_name)->first())
+			if($dependency = ModVersion::where('title', $dependency_name)->where('version_id', '=' , $version_id)->first())
 			{
 				ModVersionDependency::unguard();
 				ModVersionDependency::create([
 					'mod_version_id' => $mod_version_id,
-					'dependency_id' => $dependency->mod_id,
+					'dependency_id' => $dependency->id,
 					'order' => 1,
 					'notes' => null
 				]);

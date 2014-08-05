@@ -6,7 +6,7 @@ class ModVersionDependency extends Eloquent {
 
 	public function dependency()
 	{
-		return $this->hasOne('Mod','id','dependency_id');
+		return $this->hasOne('ModVersion','id','dependency_id');
 	}
 
 }

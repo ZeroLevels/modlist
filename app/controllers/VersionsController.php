@@ -14,10 +14,10 @@ class VersionsController extends Controller\Twig {
 	{
 		$version = Version::where('version', $version)->first();
 		$mods = $version->mods()->with(
-			'mod',
-			'authors.author',
-			'dependencies.dependency',
-			'types.type')->get();
+			'meta',
+			'authors',
+			'dependencies.meta',
+			'types')->get();
 		
 		return $this->make('versions/version.twig', compact('version', 'mods'));
 	}
