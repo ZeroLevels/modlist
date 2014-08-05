@@ -1,4 +1,6 @@
 (August/05/2014)
+	*Updated "Galacticraft" link
+	+Added "Micdoodle Core"
 	+Added "More Swords Mod"
 
 (August/02/2014)

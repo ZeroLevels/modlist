@@ -1,3 +1,8 @@
+(August/05/2014)
+	*Updated 2 mods by micdoodle8 (Which are the following)
+		*Updated "Galacticraft" link
+		*Updated "Micdoodle Core" link and info: Added source
+
 (August/02/2014)
 	+Added "CraftHeraldry"
 

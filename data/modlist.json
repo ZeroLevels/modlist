@@ -3761,7 +3761,7 @@
 "name":"Crossbow Mod 2",
 "link":"http://bit.ly/13drwdW",
 "desc":"",
-"author":["micdoodle8"],
+"author":["Micdoodle8"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
@@ -6449,13 +6449,37 @@
 },{
 
 "name":"Galacticraft",
-"link":"http://bit.ly/10jmPPP",
+"link":"http://bit.ly/1spJMxQ",
 "desc":"Lets you travel to new planets with your own spaceship.",
 "author":["Micdoodle8"],
 "source":"https://github.com/micdoodle8/Galacticraft",
 "type":["Universal"],
 "dependencies":["Forge Required","Micdoodle Core"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Galacticraft",
+"other":"(Beta)",
+"link":"http://bit.ly/1spJMxQ",
+"desc":"Lets you travel to new planets with your own spaceship.",
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/Galacticraft",
+"type":["Universal"],
+"dependencies":["Forge Required","Micdoodle Core"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Galacticraft Planets",
+"other":"(Beta)",
+"link":"http://bit.ly/1spJjvk",
+"desc":"Adds more planets for Galacticraft.",
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/Galacticraft",
+"type":["Universal"],
+"dependencies":["Forge Required","Micdoodle Core","Galacticraft"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -9325,12 +9349,25 @@
 
 "name":"Micdoodle Core",
 "other":"(Dependency)",
-"link":"http://bit.ly/174l9ZV",
+"link":"http://bit.ly/1spJjvk",
 "desc":"Core file for Galacticraft.",
-"author":["micdoodle8"],
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/MicdoodleCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Micdoodle Core",
+"other":"(Dependency) (Beta)",
+"link":"http://bit.ly/1spJjvk",
+"desc":"Core file for Galacticraft.",
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/MicdoodleCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
