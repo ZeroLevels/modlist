@@ -55,8 +55,8 @@
 					<strong>
 						<i class="pull-right">
 							{% for author in mod.authors %}
-								<a href="/authors/{{ author.author.id }}">
-									{{- author.author.name -}}
+								<a href="/authors/{{ author.id }}">
+									{{- author.name -}}
 								</a>
 								{%- if not loop.last %}, {% endif -%}
 							{%- endfor %}
@@ -77,7 +77,7 @@
 				</a>
 			{% endif %}
 			{% for type in mod.types %}
-				<span class="label label-default {{ type.type.title|lower }}">{{ type.type.title }}</span>
+				<span class="label label-default {{ type.title|lower }}">{{ type.title }}</span>
 			{% endfor %}
 			{% for dependency in mod.dependencies %}
 				<a href="#{{ dependency.dependency.slug }}" class="depends">

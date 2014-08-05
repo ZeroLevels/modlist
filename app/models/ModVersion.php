@@ -11,7 +11,7 @@ class ModVersion extends Eloquent {
 
 	public function authors()
 	{
-		return $this->hasMany('ModAuthor');
+		return $this->belongsToMany('Author','mod_authors','mod_version_id','author_id');
 	}
 
 	public function dependencies()
@@ -21,7 +21,7 @@ class ModVersion extends Eloquent {
 
 	public function types()
 	{
-		return $this->hasMany('ModVersionType');
+		return $this->belongsToMany('Type','mod_version_types','mod_version_id','type_id');
 	}
 
 }
