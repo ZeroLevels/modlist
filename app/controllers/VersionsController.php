@@ -6,7 +6,7 @@ class VersionsController extends Controller\Twig {
 
 	public function getIndex()
 	{
-		$versions = Version::all();
+		$versions = Version::with('mods')->get();
 		return $this->make('versions/versions.twig', compact('versions'));
 	}
 
