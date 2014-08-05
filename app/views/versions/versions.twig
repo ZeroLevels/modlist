@@ -3,10 +3,21 @@
 {% block title %}Version List{% endblock %}
 
 {% block content %}
-<h1>List of all of our versions</h1>
-<ul>
-	{% for version in versions %}
-	<li><a href="/versions/{{ version.version }}">{{ version.title }}</a></li>
-	{% endfor %}
-</ul>
+<h1>All Listed Versions</h1>
+<table class="table table-hover">
+	<thead>
+		<tr>
+			<th>Version</th>
+			<th>Mods Listed</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for version in versions -%}
+			<tr>
+				<td><a href="/versions/{{ version.version }}">{{ version.title }}</a></td>
+				<td>{{ version.mods|length }}</td>
+			</tr>
+		{%- endfor %}
+	</tbody>
+</table>
 {% endblock %}
