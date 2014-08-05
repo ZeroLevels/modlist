@@ -44,8 +44,8 @@ Capsule::schema()->create('mod_versions', function ($table)
 
 Capsule::schema()->create('mod_version_dependencies', function ($table)
 {
-	$table->integer('mod_version_id')->references('id')->on('mod_version');
-	$table->integer('dependency_id')->references('id')->on('mods');
+	$table->integer('mod_version_id')->references('id')->on('mod_versions');
+	$table->integer('dependency_id')->references('id')->on('mod_versions');
 	$table->integer('order')->default(1);
 	$table->text('notes')->nullable()->default(null);
 	$table->timestamps();
@@ -53,7 +53,7 @@ Capsule::schema()->create('mod_version_dependencies', function ($table)
 
 Capsule::schema()->create('mod_tags', function ($table)
 {
-	$table->integer('mod_version_id')->references('id')->on('mod_version');
+	$table->integer('mod_version_id')->references('id')->on('mod_versions');
 	$table->string('tag');
 	$table->integer('order')->default(1);
 	$table->text('notes')->nullable()->default(null);
@@ -72,7 +72,7 @@ Capsule::schema()->create('types', function ($table)
 
 Capsule::schema()->create('mod_version_types', function ($table)
 {
-	$table->integer('mod_version_id')->references('id')->on('mod_version');
+	$table->integer('mod_version_id')->references('id')->on('mod_versions');
 	$table->integer('type_id')->references('id')->on('types');
 	$table->integer('order')->default(1);
 	$table->timestamps();
@@ -97,7 +97,7 @@ Capsule::schema()->create('authors', function ($table)
 
 Capsule::schema()->create('mod_authors', function ($table)
 {
-	$table->integer('mod_version_id')->references('id')->on('mod_version');
+	$table->integer('mod_version_id')->references('id')->on('mod_versions');
 	$table->integer('author_id')->references('id')->on('author');
 	$table->text('meta')->nullable()->default(null);
 	$table->timestamps();
