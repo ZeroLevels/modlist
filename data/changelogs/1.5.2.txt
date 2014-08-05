@@ -1,3 +1,7 @@
+(August/05/2014)
+	*Updated "Galacticraft" link
+	+Added "Micdoodle Core"
+
 (August/02/2014)
 	-Removed "CraftHeraldry": Download no longer available
 
