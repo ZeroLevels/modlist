@@ -4,7 +4,7 @@ use Illuminate\Database\Eloquent\Model as Eloquent;
 
 class ModVersion extends Eloquent {
 
-	public function mod()
+	public function meta()
 	{
 		return $this->hasOne('Mod','id','mod_id');
 	}
@@ -16,7 +16,7 @@ class ModVersion extends Eloquent {
 
 	public function dependencies()
 	{
-		return $this->hasMany('ModVersionDependency');
+		return $this->belongsToMany('ModVersion','mod_version_dependencies','mod_version_id','dependency_id');
 	}
 
 	public function types()
