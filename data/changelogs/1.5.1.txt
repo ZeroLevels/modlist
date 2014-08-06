@@ -1,3 +1,7 @@
+(August/05/2014)
+	*Updated "Galacticraft" link
+	+Added "Micdoodle Core"
+
 (August/01/2014)
 	*Updated "MusicCraft" link and description
 

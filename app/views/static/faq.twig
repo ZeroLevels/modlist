@@ -1,0 +1,69 @@
+{% extends "layouts/modlist.twig" %}
+
+{% block title %}FAQ{% endblock %}
+
+{% block content %}
+<div class="page-header">
+	<h1>FAQ<br /><small>Things we get asked most</small></h1>
+</div>
+<div class="panel panel-default">
+	<div class="panel-heading">Where is 1.7.4/1.7.5/1.7.6/1.7.7/1.7.8/1.7.9?</div>
+	<div class="panel-body">
+		These versions have been skipped due to their short lifetimes and lack of Forge support.<br>
+		Forge is available for 1.7.2 and 1.7.10, which we are listing.
+	</div>
+</div>
+<div class="panel panel-default">
+	<div class="panel-heading">What is the mod list?</div>
+	<div class="panel-body">
+		The modlist was created to be a comprehensive list of as many mods as possible. The MCF Mods Forum is quite hectic and popular threads easily bury fresh, new ideas that pop up and never quite gain attention.<br />
+		Furthermore, searching within the forums was limited, as you could not accurately pinpoint mod versions, and each thread had its own format to display things. There was also the matter of compatibility and dependency.<br />
+		Thus the list was born.
+	</div>
+</div>
+<div class="panel panel-default" id="base-edit">
+	<div class="panel-heading">What's a base edit mod?</div>
+	<div class="panel-body">
+		A base edit mod changes files directly inside the Minecraft jar. This causes incompatibility with any mod that changes the same files, particularly big APIs like Forge.<br>
+		The installation method of a base edit mod is more complicated than a Forge mod installation, and will require special steps to get working.
+	</div>
+</div>
+<div class="panel panel-default">
+	<div class="panel-heading">Why has (insert mod name here) not been added to the list?</div>
+	<div class="panel-body">
+		First of all, there are only 2 people working on the list. We are also volunteers working on our own free time. Furthermore, we are not omniscient and cannot possibly know of every mod in existence.<br />
+		Mods might also not meet the requirements to be added yet.
+	</div>
+</div>
+<div class="panel panel-default">
+	<div class="panel-heading">What are the requirements for a mod to be added?</div>
+	<div class="panel-body">
+		Mods <em>must not</em> be created using a mod-maker program. This is to the sheer amount of such mods created, and such mods should have a dedicated list in the first place.<br />
+		Second, mod pages/threads must contain <em>working downloads</em> and <em>screenshots</em>. Video can be a replacement for screenshots if what the mod does cannot be displayed by a screenshot (example: modifying vanilla drops).<br />
+		Finally, mods <em>must have a description</em>. If the player doesn't know what it does, why would they ever use the mod?<br />
+		Working downloads means that the downloaded mod must be able to run. Some threads have screenshots but the download link they provide is either invalid or corrupted.<br />
+		WIP mods are allowed as long as these requirements are met. WIP mods that have no download links and screenshots are not accepted.<br />
+		Requirements may change without notice.
+	</div>
+</div>
+<div class="panel panel-default">
+	<div class="panel-heading">Why is there only one search bar? The old list had separate search bars and dropdowns...</div>
+	<div class="panel-body">
+		A new advanced search option is available! Simply change the <i>Search Mode</i> to <i>Advanced Search</i> to enable separate field searching.
+	</div>
+</div>
+<div class="panel panel-default">
+	<div class="panel-heading">What does an icon of a page with curly braces mean?</div>
+	<div class="panel-body">
+		That means the mod is <em>Open Source</em>! A blue icon indicates it's clickable and can lead to a page containing the source code, a black icon means the source code is either contained within the normal downloads or are only available by contacting the author.<br />
+		You can also look for <em>Open Source</em> using the search bar.<br />
+		This used to be a globe icon and was updated in June 2014 to reflect its nature better.
+	</div>
+</div>
+<div class="panel panel-default">
+	<div class="panel-heading">Is there an API for the modlist?</div>
+	<div class="panel-body">
+		Yes! We have a JSON API currently at version 3 and its documentation is available <a href="/api/v3/docs">here</a>.
+	</div>
+</div>
+{% endblock %}

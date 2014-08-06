@@ -44,9 +44,14 @@ class Import {
 		{
 			if ( ! isset($this->versions[$version]))
 			{
+				$separator = strrpos($version, '.');
+				$major = substr($version, 0, $separator);
+				$minor = substr($version, $separator + 1);
 				Version::unguard();
 				$v = Version::create([
 					'version' => $version,
+					'version_major' => $major,
+					'version_minor' => $minor,
 					'title' => $version,
 					'alias' => null,
 					'type' => 'release',
@@ -66,9 +71,15 @@ class Import {
 		{
 			if ( ! isset($this->authors[$author]))
 			{
+				// Must be unique or merge
+				// Check not required
+				// Fix different capitalizations in modlist.json before import
+				$slug = preg_replace('/[^A-Za-z0-9-]+/', '-', strtolower($author));
+				
 				Author::unguard();
 				$a = Author::create([
 					'name' => $author,
+					'slug' => $slug,
 					'about' => ''
 				]);
 				$this->authors[$author] = $a;
@@ -128,7 +139,7 @@ class Import {
 				'description' => empty($mod_data->desc) ? null : $mod_data->desc,
 				'link' => $mod_data->link,
 				'link_source' => isset($mod_data->source) ? $mod_data->source : null,
-				'forge' => isset($mod_data->dependencies['Forge Required']) ? true : false,
+				'forge' => in_array('Not Forge Compatible', $mod_data->dependencies) ? false : true,
 				'release' => null,
 				'notes' => isset($mod_data->other) ? $mod_data->other : false,
 				'approved' => 1
@@ -169,6 +180,11 @@ class Import {
 		foreach ($dependencies as $dependency_name)
 		{
 			if ($dependency_name == "Forge Compatible") continue;
+			if ($dependency_name == "Not Forge Compatible") continue;
+			if ($dependency_name == "Base Edit") continue;
+			if ($dependency_name == "Forge Required") {
+				$dependency_name = 'Forge';
+			}
 			if($dependency = ModVersion::where('title', $dependency_name)->where('version_id', '=' , $version_id)->first())
 			{
 				ModVersionDependency::unguard();
