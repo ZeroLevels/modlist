@@ -69,7 +69,7 @@ class Import {
 				// Must be unique or merge
 				// Check not required
 				// Fix different capitalizations in modlist.json before import
-				$slug = slug($author);
+				$slug = preg_replace('/[^A-Za-z0-9-]+/', '-', strtolower($author));
 				
 				Author::unguard();
 				$a = Author::create([
@@ -101,7 +101,7 @@ class Import {
 
 	public function addMod($mod)
 	{
-		$slug = slug($mod->name);
+		$slug = preg_replace('/[^A-Za-z0-9-]+/', '-', strtolower($mod->name));
 
 		while (true)
 		{
@@ -120,10 +120,6 @@ class Import {
 		]);
 
 		$this->addModVersions($m->id, $mod);
-	}
-	
-	public function slug($name) {
-		return preg_replace('/[^A-Za-z0-9-]+/', '-', strtolower($name));
 	}
 
 	public function addModVersions($mod_id, $mod_data)
