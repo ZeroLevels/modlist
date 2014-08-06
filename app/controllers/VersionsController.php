@@ -12,6 +12,10 @@ class VersionsController extends Controller\Twig {
 
 	public function getVersion($version)
 	{
+		if(strtolower($version) === 'latest') {
+			return $this->getLatestVersion();
+		}
+		
 		$version = Version::where('version', $version)->first();
 		$mods = $version->mods()->with(
 			'meta',
@@ -20,6 +24,13 @@ class VersionsController extends Controller\Twig {
 			'types')->get();
 		
 		return $this->make('versions/version.twig', compact('version', 'mods'));
+	}
+	
+	public function getLatestVersion()
+	{
+		$version = Version::where('public',true)->orderBy('version_major','version_minor')->first();
+		
+		$this->response->redirect('/versions/' . $version->version,302);
 	}
 
 }
