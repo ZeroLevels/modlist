@@ -91,6 +91,7 @@ Capsule::schema()->create('authors', function ($table)
 {
 	$table->increments('id');
 	$table->string('name');
+	$table->string('slug');
 	$table->text('about');
 	$table->timestamps();
 });
