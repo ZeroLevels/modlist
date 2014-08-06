@@ -1,3 +1,6 @@
+(August/05/2014)
+	-Removed "Crossbow Mod 2": Download no longer available
+
 (August/01/2014)
 	*Updated "MusicCraft" link and description
 

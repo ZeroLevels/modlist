@@ -3759,12 +3759,13 @@
 },{
 
 "name":"Crossbow Mod 2",
-"link":"http://bit.ly/13drwdW",
-"desc":"",
-"author":["micdoodle8"],
-"type":["SSP","SMP"],
+"link":"http://bit.ly/1spMZx6",
+"desc":"Adds customizable crossbows with 250 different combinations.",
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/Crossbow_Mod_2",
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -4889,7 +4890,7 @@
 "name":"Elementals",
 "link":"http://bit.ly/1g5cYTK",
 "desc":"A submission for ModJam 3. Adds new bosses to battle and special companions faithfully fight by the player.",
-"author":["ThisGuy1045","HoopAWolf","ShadowChild","Darkhax"],
+"author":["ThisGuy1045","HoopaWolf","ShadowChild","Darkhax"],
 "source":"https://github.com/ThisDarkShadow/Modjam3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5000,7 +5001,7 @@
 "name":"EnchantView",
 "link":"http://bit.ly/108x1gj",
 "desc":"Shows what the enchanting table will give you BEFORE you click on the enchantment, simply mouseover the enchant and a tooltip will appear.",
-"author":["Thebombzen"],
+"author":["thebombzen"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
@@ -5010,7 +5011,7 @@
 "name":"Ender Book",
 "link":"http://bit.ly/1rvdl05",
 "desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
-"author":["duke605"],
+"author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
 "versions":["1.7.10","1.7.2","1.6.4"]
@@ -6240,7 +6241,7 @@
 
 "name":"Forestry",
 "other":"(Development)",
-"link":"http://bit.ly/Sk5Snp",
+"link":"http://bit.ly/1sjjJsS",
 "desc":"Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.",
 "author":["SirSengir"],
 "source":"https://github.com/ForestryMC/ForestryMC",
@@ -6449,13 +6450,37 @@
 },{
 
 "name":"Galacticraft",
-"link":"http://bit.ly/10jmPPP",
+"link":"http://bit.ly/1spJMxQ",
 "desc":"Lets you travel to new planets with your own spaceship.",
 "author":["Micdoodle8"],
 "source":"https://github.com/micdoodle8/Galacticraft",
 "type":["Universal"],
 "dependencies":["Forge Required","Micdoodle Core"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Galacticraft",
+"other":"(Beta)",
+"link":"http://bit.ly/1spJMxQ",
+"desc":"Lets you travel to new planets with your own spaceship.",
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/Galacticraft",
+"type":["Universal"],
+"dependencies":["Forge Required","Micdoodle Core"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Galacticraft Planets",
+"other":"(Beta)",
+"link":"http://bit.ly/1spJjvk",
+"desc":"Adds more planets for Galacticraft.",
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/Galacticraft",
+"type":["Universal"],
+"dependencies":["Forge Required","Micdoodle Core","Galacticraft"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -8094,7 +8119,7 @@
 "name":"Jetpack, Parachute, Teleporter",
 "link":"http://bit.ly/10yLKkh",
 "desc":"",
-"author":["duke605"],
+"author":["Duke605"],
 "type":["N/A"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.2"]
@@ -8874,7 +8899,7 @@
 "author":["Lycanite"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9325,12 +9350,25 @@
 
 "name":"Micdoodle Core",
 "other":"(Dependency)",
-"link":"http://bit.ly/174l9ZV",
+"link":"http://bit.ly/1spJjvk",
 "desc":"Core file for Galacticraft.",
-"author":["micdoodle8"],
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/MicdoodleCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Micdoodle Core",
+"other":"(Dependency) (Beta)",
+"link":"http://bit.ly/1spJjvk",
+"desc":"Core file for Galacticraft.",
+"author":["Micdoodle8"],
+"source":"https://github.com/micdoodle8/MicdoodleCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -10678,7 +10716,7 @@
 "source":"https://github.com/Darkhax/MoreSwordsMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -11754,7 +11792,7 @@
 "name":"OpenXP",
 "link":"http://bit.ly/157oh6P",
 "desc":"An Open Source mod with goals of improving the experience point system with more features.",
-"author":["mikeemoo"],
+"author":["Mikeemoo"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
@@ -12210,7 +12248,7 @@
 "author":["epicSplashBattle"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -13335,7 +13373,7 @@
 "name":"Resonant Induction",
 "link":"http://bit.ly/1h26EkD",
 "desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","Aidancbrady","Unpairedbracket"],
+"author":["Calclavia","aidancbrady","Unpairedbracket"],
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity","ForgeMultipart"],
 "versions":["1.6.2"]
@@ -13345,7 +13383,7 @@
 "name":"Resonant Induction",
 "link":"http://bit.ly/1h26EkD",
 "desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","Aidancbrady","Unpairedbracket"],
+"author":["Calclavia","aidancbrady","Unpairedbracket"],
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity","Calclavia Core","ForgeMultipart"],
 "versions":["1.6.4"]
@@ -13609,7 +13647,7 @@
 "name":"Sealab's Commands",
 "link":"http://bit.ly/11KtO44",
 "desc":"Adds several commands to the game.",
-"author":["Sealab865"],
+"author":["sealab865"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
@@ -16922,6 +16960,18 @@
 "type":["Client"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"WAWLA",
+"other":"(What Are We Looking At)",
+"link":"http://bit.ly/UY2yjs",
+"desc":"An extension for Waila and NEI, providing additional information and support for mods such as Pixelmon.",
+"author":["Darkhax"],
+"source":"https://github.com/darkhax/WAWLA",
+"type":["Client"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items","Waila"],
+"versions":["1.7.10"]
 
 },{
 
