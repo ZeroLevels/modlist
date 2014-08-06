@@ -4890,7 +4890,7 @@
 "name":"Elementals",
 "link":"http://bit.ly/1g5cYTK",
 "desc":"A submission for ModJam 3. Adds new bosses to battle and special companions faithfully fight by the player.",
-"author":["ThisGuy1045","HoopAWolf","ShadowChild","Darkhax"],
+"author":["ThisGuy1045","HoopaWolf","ShadowChild","Darkhax"],
 "source":"https://github.com/ThisDarkShadow/Modjam3",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5001,7 +5001,7 @@
 "name":"EnchantView",
 "link":"http://bit.ly/108x1gj",
 "desc":"Shows what the enchanting table will give you BEFORE you click on the enchantment, simply mouseover the enchant and a tooltip will appear.",
-"author":["Thebombzen"],
+"author":["thebombzen"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
@@ -5011,7 +5011,7 @@
 "name":"Ender Book",
 "link":"http://bit.ly/1rvdl05",
 "desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
-"author":["duke605"],
+"author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
 "versions":["1.7.10","1.7.2","1.6.4"]
@@ -8119,7 +8119,7 @@
 "name":"Jetpack, Parachute, Teleporter",
 "link":"http://bit.ly/10yLKkh",
 "desc":"",
-"author":["duke605"],
+"author":["Duke605"],
 "type":["N/A"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.2"]
@@ -11792,7 +11792,7 @@
 "name":"OpenXP",
 "link":"http://bit.ly/157oh6P",
 "desc":"An Open Source mod with goals of improving the experience point system with more features.",
-"author":["mikeemoo"],
+"author":["Mikeemoo"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
@@ -13373,7 +13373,7 @@
 "name":"Resonant Induction",
 "link":"http://bit.ly/1h26EkD",
 "desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","Aidancbrady","Unpairedbracket"],
+"author":["Calclavia","aidancbrady","Unpairedbracket"],
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity","ForgeMultipart"],
 "versions":["1.6.2"]
@@ -13383,7 +13383,7 @@
 "name":"Resonant Induction",
 "link":"http://bit.ly/1h26EkD",
 "desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","Aidancbrady","Unpairedbracket"],
+"author":["Calclavia","aidancbrady","Unpairedbracket"],
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity","Calclavia Core","ForgeMultipart"],
 "versions":["1.6.4"]
@@ -13647,7 +13647,7 @@
 "name":"Sealab's Commands",
 "link":"http://bit.ly/11KtO44",
 "desc":"Adds several commands to the game.",
-"author":["Sealab865"],
+"author":["sealab865"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
