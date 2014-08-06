@@ -1,0 +1,29 @@
+{% extends "layouts/modlist.twig" %}
+
+{% block title %}Options{% endblock %}
+
+{% block content %}
+<h1>Options</h1>
+<hr>
+<h3 class="text-center">Theme</h3>
+<div class="row">
+	<div class="col-md-6">
+		<h4 class="text-center">Light</h4>
+		<a class="thumbnail" href="/options/theme/light">
+			<img class="visible-lg" alt="Light Theme - Large Preview"  src="/resources/images/preview/light-lg.png">
+			<img class="visible-md" alt="Light Theme - Medium Preview" src="/resources/images/preview/light-md.png">
+			<img class="visible-sm" alt="Light Theme - Small Preview"  src="/resources/images/preview/light-sm.png">
+			<img class="visible-xs" alt="Light Theme - Mobile Preview" src="/resources/images/preview/light-xs.png">
+		</a>
+	</div>
+	<div class="col-md-6">
+		<h4 class="text-center">Dark</h4>
+		<a class="thumbnail" href="/options/theme/dark">
+			<img class="visible-lg" alt="Dark Theme - Large Preview"  src="/resources/images/preview/dark-lg.png">
+			<img class="visible-md" alt="Dark Theme - Medium Preview" src="/resources/images/preview/dark-md.png">
+			<img class="visible-sm" alt="Dark Theme - Small Preview"  src="/resources/images/preview/dark-sm.png">
+			<img class="visible-xs" alt="Dark Theme - Mobile Preview" src="/resources/images/preview/dark-xs.png">
+		</a>
+	</div>
+</div>
+{% endblock %}

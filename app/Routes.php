@@ -13,6 +13,8 @@ $router->add('GET', '/panel/login', 'PanelController@getLogin');
 $router->add('GET', '/panel/submissions', 'PanelController@getSubmissionList');
 $router->add('GET', '/panel/submissions/[:id]', 'PanelController@getSubmission');
 
+$router->add('GET', '/options', 'OptionsController@getIndex');
+$router->add('GET', '/options/theme/[light|dark:color]', 'OptionsController@setTheme');
 
 $router->add('GET', '/[banners|credits|faq|history|other:page]', 'StaticController@getPage');
 
