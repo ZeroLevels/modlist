@@ -13,5 +13,8 @@ $router->add('GET', '/panel/login', 'PanelController@getLogin');
 $router->add('GET', '/panel/submissions', 'PanelController@getSubmissionList');
 $router->add('GET', '/panel/submissions/[:id]', 'PanelController@getSubmission');
 
+
+$router->add('GET', '/[banners|credits|faq|history|other:page]', 'StaticController@getPage');
+
 $router->redirect('/version', '/versions');
 $router->redirect('/version/[:version]', '/versions/{version}');
