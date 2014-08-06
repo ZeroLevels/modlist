@@ -30,7 +30,7 @@ class AuthorsController extends Controller\Twig {
 				$version_ids[] = $mod->version_id;
 			}
 		}
-		$versions = Version::whereIn('id',$version_ids)->get();
+		$versions = Version::whereIn('id',$version_ids)->orderBy('version_major','version_minor')->get();
 		
 		return $this->make('authors/author.twig', compact('author', 'mods', 'versions'));
 	}
