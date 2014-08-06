@@ -1,0 +1,70 @@
+{% extends "layouts/modlist.twig" %}
+
+{% block title %}Mod Authors{% endblock %}
+
+{% block content %}
+<div class="page-header">
+	<h1>Author: {{ author.name }}</h1>
+</div>
+{% for version in versions %}
+	<h3>Minecraft {{ version.title }}</h3>
+	<table id="modlist" class="table modlist-table">
+		<thead>
+			<tr>
+				<th>Mod Name <span class="pull-right">Author</span></th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for mod in mods %}
+			{% if mod.version_id == version.id %}
+			<tr id="{{ version.version }}-{{ mod.meta.slug }}">
+				<td>
+					<p>
+						<span>
+							<a href="{{ mod.link }}" target="_blank">{{ mod.title }}</a>
+							{% if mod.notes != "0" %}
+							{{ mod.notes }}
+							{% endif %}
+						</span>
+						<strong>
+							<i class="pull-right">
+								{% for author in mod.authors %}
+									<a href="/authors/{{ author.slug }}">
+										{{- author.name -}}
+									</a>
+									{%- if not loop.last %}, {% endif -%}
+								{%- endfor %}
+							</i>
+						</strong>
+					</p>
+				{% if mod.description is defined %}
+					<p>{{ mod.description }}</p>
+				{% endif %}
+					<p>
+				{% if mod.link_source is not empty %}
+					<a href="{{ mod.link_source }}">
+						<span class="fa-stack pull-right opensource">
+							<i class="fa fa-file-o fa-stack-1x"></i>
+							<strong class="fa-stack-1x fa-stack-text file-text"></strong>
+						</span>
+						<span class="sr-only">Open Source</span>
+					</a>
+				{% endif %}
+				{% for type in mod.types %}
+					<span class="label label-default {{ type.title|lower }}">{{ type.title }}</span>
+				{% endfor %}
+				{% for dependency in mod.dependencies %}
+					<a href="/versions/{{ version.version }}#{{ dependency.meta.slug }}" class="depends">
+						<span class="label label-warning dependency">{{ dependency.title }}</span>
+					</a>
+				{% endfor %}
+					</p>
+				</td>
+			</tr>
+			{% endif %}
+			{% endfor %}
+		</tbody>
+	</table>
+	<hr>
+{% endfor %}
+{% endblock %}

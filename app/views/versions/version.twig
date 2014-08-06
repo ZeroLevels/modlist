@@ -55,7 +55,7 @@
 					<strong>
 						<i class="pull-right">
 							{% for author in mod.authors %}
-								<a href="/authors/{{ author.id }}">
+								<a href="/authors/{{ author.slug }}">
 									{{- author.name -}}
 								</a>
 								{%- if not loop.last %}, {% endif -%}

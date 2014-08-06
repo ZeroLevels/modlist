@@ -1,0 +1,17 @@
+{% extends "layouts/modlist.twig" %}
+
+{% block title %}Mod Authors{% endblock %}
+
+{% block content %}
+<h1>We couldn't find the author you were looking for.</h1>
+{% if suggestions is not empty %}
+	<h2>Did you mean:</h2>
+	<ul>
+		{% for author in suggestions %}
+			<li>
+				<h3><a href='/authors/{{ author.slug }}'>{{ author.name }}</a></h3>
+			</li>
+		{% endfor %}
+	</ul>
+{% endif %}
+{% endblock %}

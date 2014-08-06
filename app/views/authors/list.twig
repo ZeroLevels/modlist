@@ -1,0 +1,35 @@
+{% extends "layouts/modlist.twig" %}
+
+{% block title %}Mod Authors{% endblock %}
+
+{% block content %}
+<div class="page-header">
+	<h1>List of mod authors</h1>
+</div>
+<table id="modlist" class="table table-hover modlist-table">
+	<thead>
+		<tr>
+			<th>Authors</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for author in authors %}
+		<tr id="{{ author.slug }}">
+			<td>
+				<p>
+					<span>
+						<a href="/authors/{{ author.slug }}">{{ author.name }}</a>
+					</span>
+				</p>
+			{% if author.about is defined %}
+				<p>{{ author.about }}</p>
+			{% endif %}
+				<p>
+					{{- author.mods|length }} mod versions listed.
+				</p>
+			</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endblock %}
