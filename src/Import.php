@@ -44,9 +44,14 @@ class Import {
 		{
 			if ( ! isset($this->versions[$version]))
 			{
+				$separator = strrpos($version, '.');
+				$major = substr($version, 0, $separator);
+				$minor = substr($version, $separator + 1);
 				Version::unguard();
 				$v = Version::create([
 					'version' => $version,
+					'version_major' => $major,
+					'version_minor' => $minor,
 					'title' => $version,
 					'alias' => null,
 					'type' => 'release',

@@ -6,6 +6,8 @@ Capsule::schema()->create('versions', function ($table)
 {
 	$table->increments('id');
 	$table->string('version');
+	$table->string('version_major');
+	$table->string('version_minor');
 	$table->string('title');
 	$table->integer('alias')->nullable()->default(null);
 	$table->enum('type', ['release', 'snapshot', 'pre-release']);
