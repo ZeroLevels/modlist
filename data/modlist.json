@@ -978,7 +978,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -1184,7 +1184,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -4153,7 +4153,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7105,7 +7105,7 @@
 "source":"https://github.com/iChun/Hats",
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -7125,7 +7125,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util","Hats"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -7557,7 +7557,7 @@
 "source":"https://github.com/iChun/iChunUtil",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -7996,7 +7996,7 @@
 "source":"https://github.com/iChun/ItFellFromTheSky",
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -9918,7 +9918,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9938,7 +9938,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -10779,6 +10779,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1"]
+
+},{
+
+"name":"Morph",
+"link":"http://bit.ly/ichun-morph",
+"desc":"Acquire most living mobs by killing them (a morph). This includes other players, silverfish, mobs from Twilight Forest, Mo' Creatures, Ore Spawn, and more! Use abilities that accompany morphs you acquire!",
+"author":["iChun"],
+"source":"https://github.com/iChun/Morph",
+"type":["Universal"],
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -12173,8 +12184,8 @@
 "author":["iChun"],
 "source":"https://github.com/iChun/Photoreal",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -12196,7 +12207,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -13710,8 +13721,8 @@
 "desc":"When you kill a mob the mob shatters.",
 "author":["iChun"],
 "type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -14802,7 +14813,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15044,8 +15055,8 @@
 "author":["iChun"],
 "source":"https://github.com/iChun/Sync",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"]
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -16151,7 +16162,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -16241,7 +16252,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 

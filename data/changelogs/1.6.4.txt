@@ -1,3 +1,9 @@
+(August/07/2014)
+	*Updated 3 mods by iChun (Which are the following)
+		*Updated "Photoreal" info: Requires "iChun Util"
+		*Updated "Shatter" info: Requires "iChun Util"
+		*Updated "Sync" info: Requires "iChun Util"
+
 (August/05/2014)
 	*Updated 2 mods by micdoodle8 (Which are the following)
 		*Updated "Galacticraft" link
