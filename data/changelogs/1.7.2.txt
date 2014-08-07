@@ -2,6 +2,9 @@
 	*Updated 2 mods by iChun (Which are the following)
 		*Updated "Photoreal" info: Requires "iChun Util"
 		*Updated "Shatter" info: Requires "iChun Util"
+	+Added 2 mods by spacechase0 (Which are the following)
+		+Added "Useful Pets"
+		+Added "Useful Pets Addon - Painterly Textures"
 	+Added "Sync"
 
 (August/05/2014)
