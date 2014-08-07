@@ -1,3 +1,26 @@
+(August/07/2014)
+	+Added 3 mods by Divisor (Which are the following)
+		+Added "Player API"
+		+Added "Render Player API"
+		+Added "Smart Moving"
+	+Added 16 mods by iChun (Which are the following)
+		+Added "Attachable Grinder"
+		+Added "Back Tools"
+		+Added "Death Counter"
+		+Added "Hats"
+		+Added "Hat Stand"
+		+Added "iChun Util"
+		+Added "It Fell From The Sky"
+		+Added "Mob Amputation"
+		+Added "Mob Dismemberment"
+		+Added "Morph"
+		+Added "Photoreal"
+		+Added "Shatter"
+		+Added "Streak"
+		+Added "Sync"
+		+Added "Torched"
+		+Added "Trail Mix"
+
 (August/05/2014)
 	+Added 2 mods by Darkhax (Which are the following)
 		+Added "More Swords Mod"
