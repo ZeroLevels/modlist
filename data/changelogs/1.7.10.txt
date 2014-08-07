@@ -1,3 +1,9 @@
+(August/07/2014)
+	+Added 3 mods by Divisor (Which are the following)
+		+Added "Player API"
+		+Added "Render Player API"
+		+Added "Smart Moving"
+
 (August/05/2014)
 	+Added 2 mods by Darkhax (Which are the following)
 		+Added "More Swords Mod"
