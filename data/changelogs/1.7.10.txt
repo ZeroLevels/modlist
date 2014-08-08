@@ -1,3 +1,11 @@
+(August/08/2014)
+	*Updated "MineFactory Reloaded" info: No longer requires "CodeChickenCore"
+	*Updated "Redstone Arsenal" info: No longer requires "CodeChickenCore"
+	*Updated "Simply Jetpacks" info: No longer requires "CodeChickenCore"
+	*Updated "Thermal Expansion 4" info: No longer requires "CodeChickenCore"
+	*Updated "Thermal Foundation" info: Requires "CoFH Lib"
+	+Added "FLORA"
+
 (August/07/2014)
 	+Added 3 mods by Divisor (Which are the following)
 		+Added "Player API"
