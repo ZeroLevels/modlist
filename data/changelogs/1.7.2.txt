@@ -1,3 +1,6 @@
+(August/09/2014)
+	+Added "Wall Jump"
+
 (August/07/2014)
 	*Updated 2 mods by iChun (Which are the following)
 		*Updated "Photoreal" info: Requires "iChun Util"

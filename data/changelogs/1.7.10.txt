@@ -7,6 +7,7 @@
 	*Updated "Thermal Expansion 4" info: No longer requires "CoFH Lib"
 	*Updated "Thermal Foundation" info: No longer requires "CoFH Lib"
 	+Added "Railcraft"
+	+Added "Wall Jump"
 
 (August/08/2014)
 	*Updated "MineFactory Reloaded" info: No longer requires "CodeChickenCore"
