@@ -8921,17 +8921,7 @@
 "author":["Mumfrey"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Macro/Keybind Mod and LiteLoader",
-"link":"http://bit.ly/WnFEuT",
-"desc":"",
-"author":["Mumfrey"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 

@@ -1,3 +1,6 @@
+(August/09/2014)
+	-Removed "Macro/Keybind Mod and LiteLoader": Download no longer available
+
 (August/05/2014)
 	-Removed "Crossbow Mod 2": Download no longer available
 
