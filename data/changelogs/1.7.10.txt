@@ -1,3 +1,6 @@
+(August/09/2014)
+	+Added "Railcraft"
+
 (August/08/2014)
 	*Updated "MineFactory Reloaded" info: No longer requires "CodeChickenCore"
 	*Updated "Redstone Arsenal" info: No longer requires "CodeChickenCore"
