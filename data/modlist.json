@@ -2985,7 +2985,7 @@
 "author":["TeamCoFH"],
 "source":"https://github.com/CoFH/CoFHCore",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib"],
+"dependencies":["Forge Required"],
 "versions":["1.7.10"]
 
 },{
@@ -6144,7 +6144,7 @@
 "author":["pixlepix"],
 "source":"https://github.com/pixlepix/FLORA",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core","Thermal Foundation","Thermal Expansion 4","Redstone Arsenal"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4","Redstone Arsenal"],
 "versions":["1.7.10"]
 
 },{
@@ -9600,7 +9600,7 @@
 "author":["skyboy026","TeamCoFH"],
 "source":"https://github.com/skyboy/MineFactoryReloaded",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core"],
+"dependencies":["Forge Required","CoFH Core"],
 "versions":["1.7.10"]
 
 },{
@@ -13182,7 +13182,7 @@
 "author":["TeamCoFH"],
 "source":"https://github.com/CoFH/RedstoneArsenal",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
 
 },{
@@ -14012,7 +14012,7 @@
 "author":["tonius11"],
 "source":"https://github.com/Tonius/SimplyJetpacks",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
 
 },{
@@ -15759,7 +15759,7 @@
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
 "author":["Team CoFH"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core","Thermal Foundation"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
@@ -15770,7 +15770,7 @@
 "desc":"Required for Thermal Expansion. Adds resources without requiring the technology included in Thermal Expansion.",
 "author":["Team CoFH"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core"],
+"dependencies":["Forge Required","CoFH Core"],
 "versions":["1.7.10"]
 
 },{
