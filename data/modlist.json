@@ -1198,6 +1198,16 @@
 
 },{
 
+"name":"Bagginses",
+"link":"http://bit.ly/1ygPhPT",
+"desc":"Adds 2 tiers of bags with 16 different colors, and a Void Bag that permanently removes items.",
+"author":["LordDusk"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Baked Goods Mod",
 "link":"http://bit.ly/WhCCtV",
 "desc":"Adds many food items and recipes to the game.",
