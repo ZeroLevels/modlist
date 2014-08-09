@@ -6,6 +6,7 @@
 	*Updated "Simply Jetpacks" info: No longer requires "CoFH Lib"
 	*Updated "Thermal Expansion 4" info: No longer requires "CoFH Lib"
 	*Updated "Thermal Foundation" info: No longer requires "CoFH Lib"
+	+Added "Blue Power": Currently in Alpha
 	+Added "Macro/Keybind Mod"
 	+Added "Railcraft"
 	+Added "Wall Jump"

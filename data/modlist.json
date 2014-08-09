@@ -1949,6 +1949,18 @@
 
 },{
 
+"name":"Blue Power",
+"other":"(Alpha)",
+"link":"http://bit.ly/1sHT750",
+"desc":"Adds a variety of ways to manipulate blocks and redstone signals.",
+"author":["quetzi","amadornes","K4Unl","MineMaarten","RavenWhitefang"],
+"source":"https://github.com/Qmunity/BluePower",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Blue Sky Mod",
 "link":"http://bit.ly/1cnbkNc",
 "desc":"Adds dimensions, many items,  and many blocks.",
