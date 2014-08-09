@@ -21,7 +21,7 @@
 },{
 
 "name":"4-Space",
-"link":"http://bit.ly/1fPfdzn",
+"link":"http://bit.ly/1ygJ9ax",
 "desc":"Adds many missing planets to Galacticraft.",
 "author":["Mattparks","Decaxon"],
 "type":["Universal"],
@@ -1198,6 +1198,16 @@
 
 },{
 
+"name":"Bagginses",
+"link":"http://bit.ly/1ygPhPT",
+"desc":"Adds 2 tiers of bags with 16 different colors, and a Void Bag that permanently removes items.",
+"author":["LordDusk"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Baked Goods Mod",
 "link":"http://bit.ly/WhCCtV",
 "desc":"Adds many food items and recipes to the game.",
@@ -1946,6 +1956,18 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Blue Power",
+"other":"(Alpha)",
+"link":"http://bit.ly/1sHT750",
+"desc":"Adds a variety of ways to manipulate blocks and redstone signals.",
+"author":["quetzi","amadornes","K4Unl","MineMaarten","RavenWhitefang"],
+"source":"https://github.com/Qmunity/BluePower",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
