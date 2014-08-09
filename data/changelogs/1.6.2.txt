@@ -1,3 +1,6 @@
+(August/09/2014)
+	+Added "Wall Jump"
+
 (August/07/2014)
 	*Updated "Sync" info: Requires "iChun Util"
 	*Updated "Useful Pets" info: Requires "SpaceCore"

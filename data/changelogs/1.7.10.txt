@@ -1,3 +1,15 @@
+(August/09/2014)
+	*Updated "CoFH Core" info: No longer requires "CoFH Lib"
+	*Updated "FLORA" info: No longer requires "CoFH Lib"
+	*Updated "MineFactory Reloaded" info: No longer requires "CoFH Lib"
+	*Updated "Redstone Arsenal" info: No longer requires "CoFH Lib"
+	*Updated "Simply Jetpacks" info: No longer requires "CoFH Lib"
+	*Updated "Thermal Expansion 4" info: No longer requires "CoFH Lib"
+	*Updated "Thermal Foundation" info: No longer requires "CoFH Lib"
+	+Added "Macro/Keybind Mod"
+	+Added "Railcraft"
+	+Added "Wall Jump"
+
 (August/08/2014)
 	*Updated "MineFactory Reloaded" info: No longer requires "CodeChickenCore"
 	*Updated "Redstone Arsenal" info: No longer requires "CodeChickenCore"
