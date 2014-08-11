@@ -1,5 +1,5 @@
 (August/11/2014)
-	+Added "Pneumatic Popcorn"
+	+Added "Pneumatic Cooking"
 
 (August/09/2014)
 	*Updated "CoFH Core" info: No longer requires "CoFH Lib"
