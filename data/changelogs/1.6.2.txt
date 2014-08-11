@@ -1,3 +1,10 @@
+(August/09/2014)
+	+Added "Wall Jump"
+
+(August/07/2014)
+	*Updated "Sync" info: Requires "iChun Util"
+	*Updated "Useful Pets" info: Requires "SpaceCore"
+
 (August/05/2014)
 	*Updated 2 mods by micdoodle8 (Which are the following)
 		*Updated "Galacticraft" link

@@ -1,3 +1,53 @@
+(August/09/2014)
+	*Updated "CoFH Core" info: No longer requires "CoFH Lib"
+	*Updated "FLORA" info: No longer requires "CoFH Lib"
+	*Updated "MineFactory Reloaded" info: No longer requires "CoFH Lib"
+	*Updated "Redstone Arsenal" info: No longer requires "CoFH Lib"
+	*Updated "Simply Jetpacks" info: No longer requires "CoFH Lib"
+	*Updated "Thermal Expansion 4" info: No longer requires "CoFH Lib"
+	*Updated "Thermal Foundation" info: No longer requires "CoFH Lib"
+	+Added "Bagginses"
+	+Added "Blue Power": Currently in Alpha
+	+Added "Macro/Keybind Mod"
+	+Added "Railcraft"
+	+Added "Wall Jump"
+
+(August/08/2014)
+	*Updated "MineFactory Reloaded" info: No longer requires "CodeChickenCore"
+	*Updated "Redstone Arsenal" info: No longer requires "CodeChickenCore"
+	*Updated "Simply Jetpacks" info: No longer requires "CodeChickenCore"
+	*Updated "Thermal Expansion 4" info: No longer requires "CodeChickenCore"
+	*Updated "Thermal Foundation" info: Requires "CoFH Lib"
+	+Added "FLORA"
+
+(August/07/2014)
+	+Added 3 mods by Divisor (Which are the following)
+		+Added "Player API"
+		+Added "Render Player API"
+		+Added "Smart Moving"
+	+Added 16 mods by iChun (Which are the following)
+		+Added "Attachable Grinder"
+		+Added "Back Tools"
+		+Added "Death Counter"
+		+Added "Hats"
+		+Added "Hat Stand"
+		+Added "iChun Util"
+		+Added "It Fell From The Sky"
+		+Added "Mob Amputation"
+		+Added "Mob Dismemberment"
+		+Added "Morph"
+		+Added "Photoreal"
+		+Added "Shatter"
+		+Added "Streak"
+		+Added "Sync"
+		+Added "Torched"
+		+Added "Trail Mix"
+	+Added 3 mods by spacechase0 (Which are the following)
+		+Added "SpaceCore"
+		+Added "Useful Pets"
+		+Added "Useful Pets Addon - Painterly Textures"
+	+Added "Translocator"
+
 (August/05/2014)
 	+Added 2 mods by Darkhax (Which are the following)
 		+Added "More Swords Mod"

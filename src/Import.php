@@ -17,6 +17,8 @@ class Import {
 	var $authors = [];
 
 	var $availabilities = [];
+	
+	var $dependencies = [];
 
 	public function __construct($mod_list)
 	{
@@ -36,6 +38,9 @@ class Import {
 		{
 			$this->addMod($mod);
 		}
+		
+		// Defer dependency resolution
+		$this->resolveModVersionDependencies();
 	}
 
 	public function addVersions($versions)
@@ -146,7 +151,24 @@ class Import {
 			]);
 			$this->addModVersionAuthors($mv->id, $mod_data->author);
 			$this->addModVersionTypes($mv->id, $mod_data->type);
-			$this->addModVersionDependencies($mv->id, $mv->version_id, $mod_data->dependencies);
+			$this->queueModVersionDependencies($mv->id, $mv->version_id, $mod_data->dependencies);
+		}
+	}
+	
+	public function queueModVersionDependencies($mod_version_id, $version_id, $dependencies) {
+		$this->dependencies[$mod_version_id] = [
+		    'version_id'   => $version_id,
+		    'dependencies' => $dependencies
+		];
+	}
+	
+	public function resolveModVersionDependencies() {
+		foreach($this->dependencies as $mod_version_id => $mod) {
+			$this->addModVersionDependencies(
+				$mod_version_id,
+				$mod['version_id'],
+				$mod['dependencies']
+				);
 		}
 	}
 
