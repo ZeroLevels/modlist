@@ -21,7 +21,7 @@
 },{
 
 "name":"4-Space",
-"link":"http://bit.ly/1fPfdzn",
+"link":"http://bit.ly/1ygJ9ax",
 "desc":"Adds many missing planets to Galacticraft.",
 "author":["Mattparks","Decaxon"],
 "type":["Universal"],
@@ -1198,6 +1198,16 @@
 
 },{
 
+"name":"Bagginses",
+"link":"http://bit.ly/1ygPhPT",
+"desc":"Adds 2 tiers of bags with 16 different colors, and a Void Bag that permanently removes items.",
+"author":["LordDusk"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Baked Goods Mod",
 "link":"http://bit.ly/WhCCtV",
 "desc":"Adds many food items and recipes to the game.",
@@ -1946,6 +1956,18 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Blue Power",
+"other":"(Alpha)",
+"link":"http://bit.ly/1sHT750",
+"desc":"Adds a variety of ways to manipulate blocks and redstone signals.",
+"author":["quetzi","amadornes","K4Unl","MineMaarten","RavenWhitefang"],
+"source":"https://github.com/Qmunity/BluePower",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -2985,7 +3007,7 @@
 "author":["TeamCoFH"],
 "source":"https://github.com/CoFH/CoFHCore",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib"],
+"dependencies":["Forge Required"],
 "versions":["1.7.10"]
 
 },{
@@ -6137,6 +6159,18 @@
 
 },{
 
+"name":"FLORA",
+"other":"(Fluids and Liquids on Ridiculous Armor)",
+"link":"http://bit.ly/1kML1qU",
+"desc":"Adds various fluid-based armors, which can be infused with liquids for buffs.",
+"author":["pixlepix"],
+"source":"https://github.com/pixlepix/FLORA",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4","Redstone Arsenal"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Flowercraft",
 "link":"http://bit.ly/UA9Aq0",
 "desc":"Adds 15 new flowers to the game with recipes for dyes, making it easier to acquire most of the combination dyes. Witness a biome filled with giant flowers!",
@@ -8909,17 +8943,7 @@
 "author":["Mumfrey"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Macro/Keybind Mod and LiteLoader",
-"link":"http://bit.ly/WnFEuT",
-"desc":"",
-"author":["Mumfrey"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -9588,7 +9612,7 @@
 "author":["skyboy026","TeamCoFH"],
 "source":"https://github.com/skyboy/MineFactoryReloaded",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core","CodeChickenCore"],
+"dependencies":["Forge Required","CoFH Core"],
 "versions":["1.7.10"]
 
 },{
@@ -12901,7 +12925,7 @@
 "author":["CovertJaguar"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -13170,7 +13194,7 @@
 "author":["TeamCoFH"],
 "source":"https://github.com/CoFH/RedstoneArsenal",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core","CodeChickenCore","Thermal Foundation","Thermal Expansion 4"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
 
 },{
@@ -14000,7 +14024,7 @@
 "author":["tonius11"],
 "source":"https://github.com/Tonius/SimplyJetpacks",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core","CodeChickenCore","Thermal Foundation","Thermal Expansion 4"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
 
 },{
@@ -14426,7 +14450,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -15747,7 +15771,7 @@
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
 "author":["Team CoFH"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core","CodeChickenCore","Thermal Foundation"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
@@ -16292,7 +16316,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -16672,8 +16696,18 @@
 "desc":"Allows you to level up tamable pets, as well as have them earn new skills, such as mountable, which lets you ride them. Works with wolves, cats, and pigs.",
 "author":["spacechase0"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"dependencies":["Forge Required","SpaceCore"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Useful Pets Addon - Painterly Textures",
+"link":"http://bit.ly/GInfcu",
+"desc":"Adds textures from the Painterly Pack for Useful Pets.",
+"author":["spacechase0"],
+"type":["Universal"],
+"dependencies":["Forge Required","SpaceCore","Useful Pets"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17003,7 +17037,7 @@
 "author":["NukeDuck"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
