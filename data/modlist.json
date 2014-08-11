@@ -12441,6 +12441,17 @@
 
 },{
 
+"name":"Pneumatic Popcorn",
+"link":"http://bit.ly/1q50Wgl",
+"desc":"Adds corn cobs and kernels, which can be placed in pressure chambers to produce popcorn.",
+"author":["J3FF97"],
+"source":"https://github.com/J3FF97/Pneumatic-Cooking",
+"type":["Universal"],
+"dependencies":["Forge Required","PneumaticCraft"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Podzol to Diamonds",
 "link":"http://bit.ly/1i0A9Qu",
 "desc":"Adds the ability to craft podzol into diamonds and vice versa. Dirt can also be crafted into diamonds.",
