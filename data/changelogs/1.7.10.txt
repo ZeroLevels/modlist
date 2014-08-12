@@ -1,6 +1,11 @@
 (August/12/2014)
 	*Updated "CraftHeraldry" link
+	+Added "Animal Bikes"
+	+Added "Backpacks (Eydamos)"
+	+Added "CrayCrafting"
+	+Added "DaBells"
 	+Added "Food Plus"
+	+Added "MCTwitter"
 
 (August/11/2014)
 	+Added "Pneumatic Cooking"

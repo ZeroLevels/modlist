@@ -1,7 +1,9 @@
 (August/12/2014)
+	*Updated "Backpacks (Eydamos)" info: Now in stable release
 	*Updated "CraftHeraldry" link
-	*Updated "Food Plus": Now in stable release
+	*Updated "Food Plus" info: Now in stable release
 	+Added "Buildcraft"
+	+Added "DaBells"
 
 (August/09/2014)
 	+Added "Wall Jump"

@@ -519,7 +519,7 @@
 "author":["Noppes"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -1153,18 +1153,7 @@
 "author":["Eydamos"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"Backpacks (Eydamos)",
-"other":"(Pre-release)",
-"link":"http://bit.ly/WmsjDo",
-"desc":"Adds dyable backpacks to the game for storing extra items. Backpack size is configurable.",
-"author":["Eydamos"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -3647,6 +3636,17 @@
 
 },{
 
+"name":"CrayCrafting",
+"link":"http://bit.ly/1BbvYfe",
+"desc":"Randomly swaps crafting recipes for each world.",
+"author":["DoubleDoorDevelopment","Claycorp","Dries007"],
+"source":"https://github.com/DoubleDoorDevelopment/CrayCrafting",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"crazyb's Mods",
 "link":"http://bit.ly/WDy7Ix",
 "desc":"",
@@ -4015,6 +4015,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"DaBells",
+"link":"http://bit.ly/1Bbt0Y7",
+"desc":"Adds bells, some of which are decorative, and others which give potion effects upon interaction.",
+"author":["SkynetAB Team"],
+"source":"https://github.com/SkyNetAB/DaBells",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -9201,6 +9212,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"MCTwitter",
+"link":"http://bit.ly/1Bbusd0",
+"desc":"Integrates Twitter into the ingame chat, allowing sending and receiving of messages.",
+"author":["wasliebob"],
+"source":"https://github.com/wasliebob/MCTwitter",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
