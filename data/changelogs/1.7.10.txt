@@ -2,6 +2,7 @@
 	*Updated "CraftHeraldry" link
 	+Added "Animal Bikes"
 	+Added "Backpacks (Eydamos)"
+	+Added "CrayCrafting"
 	+Added "DaBells"
 	+Added "Food Plus"
 	+Added "MCTwitter"

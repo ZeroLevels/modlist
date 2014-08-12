@@ -3636,6 +3636,17 @@
 
 },{
 
+"name":"CrayCrafting",
+"link":"http://bit.ly/1BbvYfe",
+"desc":"Randomly swaps crafting recipes for each world.",
+"author":["DoubleDoorDevelopment","Claycorp","Dries007"],
+"source":"https://github.com/DoubleDoorDevelopment/CrayCrafting",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"crazyb's Mods",
 "link":"http://bit.ly/WDy7Ix",
 "desc":"",
