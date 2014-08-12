@@ -9204,6 +9204,17 @@
 
 },{
 
+"name":"MCTwitter",
+"link":"http://bit.ly/1Bbusd0",
+"desc":"Integrates Twitter into the ingame chat, allowing sending and receiving of messages.",
+"author":["wasliebob"],
+"source":"https://github.com/wasliebob/MCTwitter",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Meat+",
 "link":"http://bit.ly/13dvAep",
 "desc":"",
