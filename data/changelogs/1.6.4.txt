@@ -1,3 +1,6 @@
+(August/12/2014)
+	*Updated "CraftHeraldry" link
+
 (August/09/2014)
 	*Updated "4-Space" link
 	+Added "Wall Jump"
