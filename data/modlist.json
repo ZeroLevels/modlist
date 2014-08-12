@@ -6237,18 +6237,7 @@
 "author":["JoseTheCrafter"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Food Plus",
-"other":"(Unstable)",
-"link":"http://bit.ly/151zCrn",
-"desc":"Adds more food so you can get more variety and options to eat.",
-"author":["JoseTheCrafter"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
