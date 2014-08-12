@@ -3,6 +3,7 @@
 	*Updated "CraftHeraldry" link
 	*Updated "Food Plus" info: Now in stable release
 	+Added "Buildcraft"
+	+Added "DaBells"
 
 (August/09/2014)
 	+Added "Wall Jump"

@@ -4007,6 +4007,17 @@
 
 },{
 
+"name":"DaBells",
+"link":"http://bit.ly/1Bbt0Y7",
+"desc":"Adds bells, some of which are decorative, and others which give potion effects upon interaction.",
+"author":["SkynetAB Team"],
+"source":"https://github.com/SkyNetAB/DaBells",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"DaFlight",
 "link":"http://bit.ly/1dTekhb",
 "desc":"A fly/sprint-mod with a simple fullbright feature.",
