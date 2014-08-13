@@ -8248,10 +8248,10 @@
 "link":"http://bit.ly/1ksAjD5",
 "desc":"Adds small and random features such as night vision goggles, meaty ores and an eyeball mob. Designed for use in modpacks.",
 "author":["JuiceGrape"],
-"source":"https://github.com/JuiceGrape/JuiceWares",
+"source":"https://github.com/JuiceGrape/JuiceWares172",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
