@@ -16952,6 +16952,16 @@
 
 },{
 
+"name":"Villager's Nose",
+"link":"http://bit.ly/1sYGLVv",
+"desc":"Allows shears to cut off a villager's nose, which can be worn or planted to grow a new villager. When equipped, the nose can be used to find emerald ores.",
+"author":["StarSheep"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Village Taverns Updated",
 "link":"http://bit.ly/MpdYcz",
 "desc":"Adds taverns and other craft and business type buildings, along with new villager types to populate those and offer unique trades.",
