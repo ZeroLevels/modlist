@@ -1,5 +1,6 @@
 (August/13/2014)
 	*Updated "PortaPortal" link
+	+Added "Villager's Nose"
 
 (August/12/2014)
 	*Updated "Backpacks (Eydamos)" info: Now in stable release
