@@ -1,4 +1,5 @@
 (August/13/2014)
+	*Updated "JuiceWares" info: Updated source
 	*Updated "PortaPortal" link
 	+Added "Villager's Nose"
 
