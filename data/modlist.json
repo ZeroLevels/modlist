@@ -877,7 +877,7 @@
 "author":["castielq"],
 "type":["Universal"],
 "dependencies":["Forge Required","Render Player API"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -7378,7 +7378,7 @@
 "source":"https://github.com/dries007/HoloInventory",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -16949,6 +16949,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Villager's Nose",
+"link":"http://bit.ly/1sYGLVv",
+"desc":"Allows shears to cut off a villager's nose, which can be worn or planted to grow a new villager. When equipped, the nose can be used to find emerald ores.",
+"author":["StarSheep"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
