@@ -1,3 +1,6 @@
+(August/15/2014)
+	+Added "vChat": Currently in pre-release
+
 (August/13/2014)
 	*Updated "JuiceWares" info: Updated source
 	*Updated "PortaPortal" link
