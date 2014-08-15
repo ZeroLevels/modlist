@@ -10201,6 +10201,16 @@
 
 },{
 
+"name":"Mod Control",
+"link":"http://bit.ly/1kGNDpT",
+"desc":"Allows servers to filter what mods clients are allowed to use.",
+"author":["lumien"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Mod Update Manager",
 "other":"(API)",
 "link":"http://bit.ly/WW9bhs",

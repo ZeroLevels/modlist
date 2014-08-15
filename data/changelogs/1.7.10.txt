@@ -1,5 +1,6 @@
 (August/15/2014)
 	+Added "RainbowCraft"
+	+Added "Mod Control"
 	+Added "vChat": Currently in pre-release
 
 (August/13/2014)
