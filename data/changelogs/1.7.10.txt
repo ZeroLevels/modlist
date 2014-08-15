@@ -1,5 +1,6 @@
 (August/15/2014)
 	+Added "RainbowCraft"
+	+Added "vChat"
 
 (August/13/2014)
 	*Updated "PortaPortal" link

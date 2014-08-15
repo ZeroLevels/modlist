@@ -16889,6 +16889,18 @@
 
 },{
 
+"name":"vChat",
+"other":"(Pre-release)",
+"link":"http://bit.ly/1vQJhl4",
+"desc":"Improves in-game chat with nicknames, clickable links, \"Message of the Day\", custom chat formatting, name highlighting and chat channels.",
+"author":["Vic_"],
+"source":"https://github.com/Victorious3/VChat",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"VeinMiner",
 "link":"http://bit.ly/1moK8zk",
 "desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
