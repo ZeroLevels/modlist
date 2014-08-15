@@ -12951,6 +12951,17 @@
 
 },{
 
+"name":"RainbowCraft",
+"link":"http://bit.ly/1pdPQZS",
+"desc":"Adds rainbow-colored blocks, items and tools. Magical plants grow into rainbow diamonds.",
+"author":["TheCricket26"],
+"source":"https://github.com/TheCricket/RainbowCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Rainbow XP Mod",
 "link":"http://bit.ly/VFLnjG",
 "desc":"Changes the colours of the xp orbs into a randomized colour.",
