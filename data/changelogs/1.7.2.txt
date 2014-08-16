@@ -1,3 +1,6 @@
+(August/16/2014)
+	+Added "Touhou Items Mod"
+
 (August/15/2014)
 	+Added "vChat": Currently in pre-release
 

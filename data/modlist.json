@@ -2103,7 +2103,7 @@
 "source":"https://github.com/BrainStone/brainstone",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -16286,10 +16286,10 @@
 "name":"Touhou Items Mod",
 "link":"http://bit.ly/XDfmMd",
 "desc":"Adds a lot of things such as weapons, foods, and some magic meterials into the game. In Touhou Style~!",
-"author":["Niconiko"],
+"author":["\u304f\u308d\u3042\u3093\u3053","Niconiko"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
