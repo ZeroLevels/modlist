@@ -1,3 +1,6 @@
+(August/16/2014)
+	*Updated "Touhou Items Mod" author: Added original author
+
 (August/09/2014)
 	-Removed "Macro/Keybind Mod and LiteLoader": Download no longer available
 
