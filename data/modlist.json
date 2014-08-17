@@ -8973,7 +8973,18 @@
 "author":["Mark719"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4"]
+
+},{
+
+"name":"Magical Crops",
+"other":"(Beta)",
+"link":"http://bit.ly/W9maB8",
+"desc":"Introduces lot of new crops that grow all sort of things, from new food like sweetcorn and strawberries to Coal essence and Diamond essence which can be crafting into Coal and Diamonds.",
+"author":["Mark719"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
