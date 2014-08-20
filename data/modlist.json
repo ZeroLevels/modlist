@@ -12040,6 +12040,18 @@
 
 },{
 
+"name":"OresPlus",
+"other":"(Beta)",
+"link":"http://bit.ly/1jkcE8G",
+"desc":"Generates ores in your world for future use by other mods. Allows you to control how they generate, and allows you to regenerate ores in existing worlds.",
+"author":["TheTorbinWren"],
+"source":"https://github.com/TheTorbinWren/OresPlus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Original Beacons",
 "link":"http://bit.ly/Vi5xyQ",
 "desc":"Optifine Required:See bit.ly/optifine(URL)Brings back the much loved spinning crystal inside the beacon block. Also, it fixes some z-fighting (obsidian and glass textures conflicting) with the bottom of the block.",
