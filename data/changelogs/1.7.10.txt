@@ -5,8 +5,10 @@
 	+Added "Big Reactors": Release Candidate
 	+Added "EnderTech"
 	+Added "FastCraft": Currently Experimental
+	+Added "Minecraft Selfies": Release Candidate
 	+Added "OpenBlocks": Currently in Beta
 	+Added "OpenModsLib": Currently in Beta
+	+Added "OresPlus": Currently in Beta
 
 (August/17/2014)
 	+Added "Magical Crops": Currently in Beta

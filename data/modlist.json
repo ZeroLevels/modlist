@@ -5183,6 +5183,7 @@
 "link":"http://bit.ly/XzrYpN",
 "desc":"Adds items, blocks and mechanics around ender-themed technology, such as a block-swapping Exchanger, an energy-transmitting Charge Pad and an Ender Tank for storing fluids.",
 "author":["Drayshak","Arkan","RWTema"],
+"source":"https://github.com/Drayshak/EnderTech",
 "type":["Universal"],
 "dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
@@ -9641,6 +9642,17 @@
 
 },{
 
+"name":"Minecraft Selfies",
+"other":"(Release Candidate)",
+"link":"http://bit.ly/Xztybk",
+"desc":"Adds a selfie camera which can be used to take pictures, uploaded to MinecraftSelfies.net",
+"author":["ZeuX"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Minecraft Tweaks",
 "link":"http://bit.ly/13Gwjqi",
 "desc":"Allows arrows to break through certain block. The player can climb blocks like fences, gates, and trapdoors. Adds the ability to grab items using a fishing rod, makes players and mobs have a chance to drop mob heads on death, and allows mobs to see through certain blocks.",
@@ -12025,6 +12037,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"OresPlus",
+"other":"(Beta)",
+"link":"http://bit.ly/1jkcE8G",
+"desc":"Generates ores in your world for future use by other mods. Allows you to control how they generate, and allows you to regenerate ores in existing worlds.",
+"author":["TheTorbinWren"],
+"source":"https://github.com/TheTorbinWren/OresPlus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
