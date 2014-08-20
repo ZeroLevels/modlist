@@ -9641,6 +9641,17 @@
 
 },{
 
+"name":"Minecraft Selfies",
+"other":"(Release Candidate)",
+"link":"http://bit.ly/Xztybk",
+"desc":"Adds a selfie camera which can be used to take pictures, uploaded to MinecraftSelfies.net",
+"author":["ZeuX"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Minecraft Tweaks",
 "link":"http://bit.ly/13Gwjqi",
 "desc":"Allows arrows to break through certain block. The player can climb blocks like fences, gates, and trapdoors. Adds the ability to grab items using a fishing rod, makes players and mobs have a chance to drop mob heads on death, and allows mobs to see through certain blocks.",
