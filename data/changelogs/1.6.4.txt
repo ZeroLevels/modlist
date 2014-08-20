@@ -1,6 +1,7 @@
 (August/20/2014)
 	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
 	*Updated "Tinkers' Mechworks" authors: Renamed Sunstrike to Arkan
+	+Added "Big Reactors": In Alpha, no longer supported
 
 (August/17/2014)
 	+Added "Magical Crops"

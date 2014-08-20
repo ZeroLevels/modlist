@@ -2,6 +2,7 @@
 	*Updated "Mantle" authors: Renamed Sunstrike to Arkan
 	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
 	*Updated "Tinkers' Mechworks" authors: Renamed Sunstrike to Arkan
+	+Added "Big Reactors": Release Candidate
 	+Added "EnderTech"
 	+Added "FastCraft": Currently Experimental
 	+Added "OpenBlocks": Currently in Beta

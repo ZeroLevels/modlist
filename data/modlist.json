@@ -1731,12 +1731,26 @@
 },{
 
 "name":"Big Reactors",
+"other":"(Alpha)",
 "link":"http://bit.ly/10PZyYH",
-"desc":"Designed to be a mid-to-late-game complement to less-realistic mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
+"desc":"Designed to be a mid-to-late-game complement to mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
 "author":["Erogenous Beef"],
+"source":"http://github.com/erogenousbeef/BigReactors",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"dependencies":["Forge Required","CoFH Core"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Big Reactors",
+"other":"(Release Candidate)",
+"link":"http://bit.ly/10PZyYH",
+"desc":"Designed to be a mid-to-late-game complement to mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
+"author":["Erogenous Beef"],
+"source":"http://github.com/erogenousbeef/BigReactors",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core"],
+"versions":["1.7.10"]
 
 },{
 
