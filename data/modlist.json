@@ -11811,6 +11811,18 @@
 
 },{
 
+"name":"OpenBlocks",
+"other":"(Beta)",
+"link":"http://bit.ly/1pZqMVU",
+"desc":"The idea of OpenBlocks is to add small and interesting utilities to minecraft to make the gameplay a little bit more enjoyable.",
+"author":["Mikeemoo"],
+"source":"https://github.com/OpenMods/OpenBlocks",
+"type":["Universal"],
+"dependencies":["Forge Required","OpenModsLib"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"OpenCCSensors",
 "link":"http://bit.ly/WpGBEI",
 "desc":"An open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them.",
@@ -11842,6 +11854,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"OpenModsLib",
+"other":"(Beta)",
+"link":"http://bit.ly/1pZqQVL",
+"desc":"Required library for most OpenMods.",
+"author":["Mikeemoo"],
+"source":"https://github.com/OpenMods/OpenModsLib",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
