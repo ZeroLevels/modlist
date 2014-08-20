@@ -1,3 +1,6 @@
+(August/20/2014)
+	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
+
 (August/05/2014)
 	*Updated "Galacticraft" link
 	+Added "Micdoodle Core"

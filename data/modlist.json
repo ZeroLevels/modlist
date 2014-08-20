@@ -5165,6 +5165,16 @@
 
 },{
 
+"name":"EnderTech",
+"link":"http://bit.ly/XzrYpN",
+"desc":"Adds items, blocks and mechanics around ender-themed technology, such as a block-swapping Exchanger, an energy-transmitting Charge Pad and an Ender Tank for storing fluids.",
+"author":["Drayshak","Arkan","RWTema"],
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Ender Utilities",
 "link":"http://bit.ly/1sJumHL",
 "desc":"Adds miscellaneous items and blocks with Ender-based mechanics. Entry for ModJam 4.",
@@ -9096,7 +9106,7 @@
 "other":"(Beta)",
 "link":"http://bit.ly/Z7xU26",
 "desc":"Required dependency for Tinkers' Construct.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/Mantle",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -16101,7 +16111,7 @@
 "name":"Tinkers' Construct",
 "link":"http://bit.ly/Z7xU26",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -16113,7 +16123,7 @@
 "other":"(Beta)",
 "link":"http://bit.ly/Z7xU26",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required","Mantle"],
@@ -16124,7 +16134,7 @@
 "name":"Tinkers' Mechworks",
 "link":"http://bit.ly/1ne7Cv9",
 "desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersMechworks",
 "type":["Universal"],
 "dependencies":["Forge Required","Tinkers' Construct","Mantle"],
@@ -16136,7 +16146,7 @@
 "other":"(Alpha)",
 "link":"http://bit.ly/1ne7Cv9",
 "desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersMechworks",
 "type":["Universal"],
 "dependencies":["Forge Required","Tinkers' Construct","Mantle"],
