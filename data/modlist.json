@@ -5183,6 +5183,7 @@
 "link":"http://bit.ly/XzrYpN",
 "desc":"Adds items, blocks and mechanics around ender-themed technology, such as a block-swapping Exchanger, an energy-transmitting Charge Pad and an Ender Tank for storing fluids.",
 "author":["Drayshak","Arkan","RWTema"],
+"source":"https://github.com/Drayshak/EnderTech",
 "type":["Universal"],
 "dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
