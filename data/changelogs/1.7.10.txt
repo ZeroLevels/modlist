@@ -1,4 +1,5 @@
 (August/20/2014)
+	+Added "FastCraft": Currently Experimental
 	+Added "OpenBlocks": Currently in Beta
 	+Added "OpenModsLib": Currently in Beta
 

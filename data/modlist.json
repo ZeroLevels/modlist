@@ -5864,6 +5864,17 @@
 
 },{
 
+"name":"FastCraft",
+"other":"(Experimental)",
+"link":"http://bit.ly/17xRlWR",
+"desc":"Improves client/server performance without affecting gameplay.",
+"author":["player"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Father Toast's Mods",
 "link":"http://bit.ly/VuOduI",
 "desc":"",
