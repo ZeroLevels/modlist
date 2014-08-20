@@ -1,3 +1,7 @@
+(August/20/2014)
+	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
+	-Removed "Big Reactors": Download no longer available
+
 (August/17/2014)
 	-Removed "Magical Crops": Download no longer available
 
