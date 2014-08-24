@@ -1,4 +1,5 @@
 (August/24/2014)
+	+Added "Arcane Scrolls"
 	+Added "Thaumcraft 4"
 	+Added "Thaumic Tinkerer"
 
@@ -6,7 +7,6 @@
 	*Updated "Mantle" authors: Renamed Sunstrike to Arkan
 	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
 	*Updated "Tinkers' Mechworks" authors: Renamed Sunstrike to Arkan
-	+Added "Arcane Scrolls"
 	+Added "Big Reactors": Release Candidate
 	+Added "EnderTech"
 	+Added "FastCraft": Currently Experimental
