@@ -651,7 +651,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -11196,7 +11196,7 @@
 
 "name":"Mystcraft",
 "link":"http://bit.ly/13ZCBTB",
-"desc":"Let's you write your own dimensions, known as ages. Inspired by the Myst videogame series.",
+"desc":"Lets you write your own dimensions, known as ages. Inspired by the Myst videogame series.",
 "author":["XCompWiz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -15377,7 +15377,7 @@
 "author":["Azanor"],
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -15431,7 +15431,7 @@
 "source":"https://github.com/Vazkii/ThaumicTinkerer",
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles","Thaumcraft 4"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
