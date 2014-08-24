@@ -1,3 +1,6 @@
+(August/24/2014)
+	+Added "Thaumcraft 4"
+
 (August/20/2014)
 	*Updated "Mantle" authors: Renamed Sunstrike to Arkan
 	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
