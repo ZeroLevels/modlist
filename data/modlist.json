@@ -11196,7 +11196,7 @@
 
 "name":"Mystcraft",
 "link":"http://bit.ly/13ZCBTB",
-"desc":"Let's you write your own dimensions, known as ages. Inspired by the Myst videogame series.",
+"desc":"Lets you write your own dimensions, known as ages. Inspired by the Myst videogame series.",
 "author":["XCompWiz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
