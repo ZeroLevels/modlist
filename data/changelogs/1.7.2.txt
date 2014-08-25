@@ -1,3 +1,6 @@
+(August/25/2014)
+	*Updated "ForgeMultipart" description
+
 (August/16/2014)
 	+Added "Touhou Items Mod"
 
