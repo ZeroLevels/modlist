@@ -6346,7 +6346,7 @@
 
 "name":"ForgeIRC",
 "link":"http://bit.ly/117XoSV",
-"desc":"Easily connect your entire server or just your client to an IRC channel",
+"desc":"Easily connect your entire server or just your client to an IRC channel. Not affiliated with Forge.",
 "author":["ShadwDrgn"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -6357,7 +6357,7 @@
 "name":"ForgeMultipart",
 "other":"(API)",
 "link":"http://bit.ly/1b2fybw",
-"desc":"An API for dynamically handling different functional parts in the one block space.",
+"desc":"An API for dynamically handling different functional parts in the one block space. Not affiliated with Forge.",
 "author":["chicken_bones"],
 "source":"https://github.com/Chicken-Bones/ForgeMultipart",
 "type":["Universal"],

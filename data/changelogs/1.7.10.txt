@@ -1,3 +1,6 @@
+(August/25/2014)
+	*Updated "ForgeMultipart" description
+
 (August/24/2014)
 	+Added "Arcane Scrolls"
 	+Added "Thaumcraft 4"
