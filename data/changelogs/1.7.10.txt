@@ -1,5 +1,8 @@
 (August/25/2014)
 	*Updated "ForgeMultipart" description
+	+Added 2 mods by ProfMobius (Which are the following)
+		+Added "MobiusCore"
+		+Added "Opis"
 
 (August/24/2014)
 	+Added "Arcane Scrolls"

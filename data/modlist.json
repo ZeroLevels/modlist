@@ -10052,7 +10052,7 @@
 "source":"https://bitbucket.org/ProfMobius/mobiuscore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11944,7 +11944,7 @@
 "source":"https://bitbucket.org/ProfMobius/opis",
 "type":["Server"],
 "dependencies":["Forge Required","MobiusCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
