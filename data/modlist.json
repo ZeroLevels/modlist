@@ -6407,6 +6407,17 @@
 "versions":["1.6.4"]
 
 },{
+	
+"name":"FoxLib",
+"link":"http://bit.ly/1labkHu",
+"desc":"Dependency for some of Kihira's mods.",
+"author":["Kihira"],
+"source":"https://github.com/kihira/FoxLib",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
 
 "name":"FPS++",
 "link":"http://bit.ly/117Lrwm",
@@ -15239,6 +15250,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"Tails",
+"link":"http://bit.ly/1laaKtf",
+"desc":"Adds customizable tails for players. Primarily client side.",
+"author":["Kihira","TTFTCUTS"],
+"source":"https://github.com/kihira/Tails",
+"type":["Universal"],
+"dependencies":["Forge Required","FoxLib"],
+"versions":["1.7.10"]
 
 },{
 
