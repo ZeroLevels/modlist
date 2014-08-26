@@ -13744,6 +13744,17 @@
 
 },{
 
+"name":"Sanguimancy",
+"link":"http://bit.ly/1la90Ac",
+"desc":"Provides more automation in Blood Magic using things such as Altar Emitters and Altar Diviners.",
+"author":["Tombenpotter"],
+"source":"https://github.com/Tombenpotter/Sanguimancy",
+"type":["Universal"],
+"dependencies":["Forge Required","Blood Magic"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"SaplingSpawn",
 "link":"http://bit.ly/13oNOKg",
 "desc":"Allows you to set custom drop chances for saplings and apples.",
