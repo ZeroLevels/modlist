@@ -1,6 +1,7 @@
 (August/26/2014)
 	*Updated "VeinMiner" info: No longer in Beta
 	+Added "ACT"
+	+Added "Sanguimancy"
 
 (August/25/2014)
 	*Updated "ForgeMultipart" description
