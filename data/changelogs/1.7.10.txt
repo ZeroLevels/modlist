@@ -4,6 +4,7 @@
 	+Added "FoxLib"
 	+Added "Sanguimancy"
 	+Added "Tails"
+	+Added "Underground Biomes Constructs": Currently in Beta
 
 (August/25/2014)
 	*Updated "ForgeMultipart" description
