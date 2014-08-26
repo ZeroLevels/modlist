@@ -16724,7 +16724,18 @@
 "author":["Zeno410","Grom PE","Exterminator Jeff"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Underground Biomes Constructs",
+"other":"(Beta)",
+"link":"http://bit.ly/1eM6ibr",
+"desc":"A revised extension of the original Underground Biomes mod. Adds Igneous, Metamorphic and Sedimentary rocks; fossil pieces; coal storage blocks and more.",
+"author":["Zeno410","Grom PE","Exterminator Jeff"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
