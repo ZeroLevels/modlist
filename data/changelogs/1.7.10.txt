@@ -1,3 +1,6 @@
+(August/27/2014)
+	*Updated "FastCraft" link
+
 (August/26/2014)
 	*Updated "VeinMiner" info: No longer in Beta
 	+Added "ACT"
