@@ -3209,6 +3209,18 @@
 
 },{
 
+"name":"CompactChests",
+"other":"(Beta)",
+"link":"http://bit.ly/1nIoya1",
+"desc":"Adds different tiers of chests with increased inventory space.",
+"author":["tattyseal"],
+"source":"https://github.com/tattyseal/CompactChests",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Compact Crafting",
 "link":"http://bit.ly/ZgsLaY",
 "desc":"Allows you to compact items and other blocks into Compact Blocks, making it much easier for you to carry things in your inventory!",
@@ -6076,9 +6088,10 @@
 "link":"http://bit.ly/13aYRXO",
 "desc":"A combination of Planes, Vehicles and WW2Guns rewritten with a whole load of awesome new features and designed to allow easy custom content creation by anyone. Flan's mod alone is useless, it requires content packs in order to be of any use.",
 "author":["jamioflan"],
+"source":"https://github.com/FlansMods/FlansMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7683,23 +7696,23 @@
 },{
 
 "name":"Iguana Tweaks",
-"link":"http://bit.ly/17nkepE",
-"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
-"author":["iguana_man"],
-"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
-"type":["Universal"],
-"dependencies":["Forge Required","Tinkers' Construct"],
-"versions":["1.6.4","1.6.2","1.5.2"]
-
-},{
-
-"name":"Iguana Tweaks",
 "link":"http://bit.ly/1dooEma",
 "desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
 "author":["iguana_man"],
 "source":"https://www.dropbox.com/sh/gl9sxgfbgt7tc0r/H4G3rPDfKF",
 "type":["Universal"],
 "dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Iguana Tweaks for Tinker's Construct",
+"link":"http://bit.ly/17nkepE",
+"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
+"author":["iguana_man"],
+"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct"],
 "versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
