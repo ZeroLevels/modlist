@@ -7796,7 +7796,7 @@
 "other":"(IC2) (Experimental)",
 "link":"http://bit.ly/1gfTRVe",
 "desc":"IC2 experimental is unstable, may break worlds and its API may change frequently. Create backups of your world when using it. Use at own risk if you can't wait for stable, non-experimental builds. Being Tested on Forgecraft 2. Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
-"author":["Alblaka","player"],
+"author":["Alblaka","player","Thunderdark","RichardG867","GregoriusT"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
@@ -8961,7 +8961,7 @@
 "author":["pifou92000"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
