@@ -1,3 +1,6 @@
+(August/28/2014)
+	*Updated "Flan's Mod" info: Added source
+
 (August/25/2014)
 	*Updated "ForgeIRC" description
 	*Updated "ForgeMultipart" description

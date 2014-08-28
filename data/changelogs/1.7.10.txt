@@ -1,3 +1,6 @@
+(August/28/2014)
+	+Added "Flan's Mod"
+
 (August/27/2014)
 	*Updated "FastCraft" link
 

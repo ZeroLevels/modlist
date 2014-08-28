@@ -1,3 +1,6 @@
+(August/28/2014)
+	*Updated "Flan's Mod" info: Added source
+
 (August/26/2014)
 	*Updated "Underground Biomes Constructs" info: Currently in Beta
 
