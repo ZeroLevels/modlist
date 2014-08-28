@@ -7684,23 +7684,23 @@
 },{
 
 "name":"Iguana Tweaks",
-"link":"http://bit.ly/17nkepE",
-"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
-"author":["iguana_man"],
-"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
-"type":["Universal"],
-"dependencies":["Forge Required","Tinkers' Construct"],
-"versions":["1.6.4","1.6.2","1.5.2"]
-
-},{
-
-"name":"Iguana Tweaks",
 "link":"http://bit.ly/1dooEma",
 "desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
 "author":["iguana_man"],
 "source":"https://www.dropbox.com/sh/gl9sxgfbgt7tc0r/H4G3rPDfKF",
 "type":["Universal"],
 "dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Iguana Tweaks for Tinker's Construct",
+"link":"http://bit.ly/17nkepE",
+"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
+"author":["iguana_man"],
+"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct"],
 "versions":["1.6.4","1.6.2","1.5.2"]
 
 },{

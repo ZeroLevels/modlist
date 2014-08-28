@@ -1,5 +1,6 @@
 (August/28/2014)
 	*Updated "Flan's Mod" info: Added source
+	*Updated "Iguana Tweaks" name: Now "Iguana Tweaks for Tinker's Construct"
 
 (August/25/2014)
 	*Updated "ForgeIRC" description
