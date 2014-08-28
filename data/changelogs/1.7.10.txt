@@ -1,3 +1,6 @@
+(August/29/2014)
+	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+
 (August/28/2014)
 	+Added "CompactChests": Currently in Beta
 	+Added "Flan's Mod"
