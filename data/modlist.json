@@ -8727,6 +8727,16 @@
 
 },{
 
+"name":"Link Info",
+"link":"http://bit.ly/1q8lsAZ",
+"desc":"Shows information on clickable links, such as the page title, options to view an image ingame, and information on YouTube videos.",
+"author":["Killjoy1221"],
+"type":["Universal"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Lion King Mod",
 "link":"http://bit.ly/RBR2XJ",
 "desc":"",

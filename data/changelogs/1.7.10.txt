@@ -2,6 +2,7 @@
 	+Added "CompactChests": Currently in Beta
 	+Added "Flan's Mod"
 	+Added "LibShapeDraw"
+	+Added "Link Info"
 
 (August/27/2014)
 	*Updated "FastCraft" link
