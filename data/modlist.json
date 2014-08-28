@@ -8655,6 +8655,17 @@
 
 },{
 
+"name":"LibShapeDraw",
+"link":"http://bit.ly/1q8ja4H",
+"desc":"Provides flexible drawing and animation APIs for other mods to use.",
+"author":["xaero_"],
+"source":"https://github.com/xaeroverse/LibShapeDraw",
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Light Bridges And Doors",
 "link":"http://bit.ly/IUXdn9",
 "desc":"Adds light bridges, light doors, and light rails based on the ones from the Halo series.",
