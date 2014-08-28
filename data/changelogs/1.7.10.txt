@@ -1,3 +1,74 @@
+(August/28/2014)
+	+Added "CompactChests": Currently in Beta
+	+Added "Flan's Mod"
+	+Added "LibShapeDraw"
+	+Added "Link Info"
+
+(August/27/2014)
+	*Updated "FastCraft" link
+
+(August/26/2014)
+	*Updated "VeinMiner" info: No longer in Beta
+	+Added "ACT"
+	+Added "FoxLib"
+	+Added "Sanguimancy"
+	+Added "Tails"
+	+Added "Underground Biomes Constructs": Currently in Beta
+
+(August/25/2014)
+	*Updated "ForgeMultipart" description
+	+Added 2 mods by ProfMobius (Which are the following)
+		+Added "MobiusCore"
+		+Added "Opis"
+
+(August/24/2014)
+	+Added "Arcane Scrolls"
+	+Added "Thaumcraft 4"
+	+Added "Thaumic Tinkerer"
+
+(August/20/2014)
+	*Updated "Mantle" authors: Renamed Sunstrike to Arkan
+	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
+	*Updated "Tinkers' Mechworks" authors: Renamed Sunstrike to Arkan
+	+Added "Big Reactors": Release Candidate
+	+Added "EnderTech"
+	+Added "FastCraft": Currently Experimental
+	+Added "Minecraft Selfies": Release Candidate
+	+Added "OpenBlocks": Currently in Beta
+	+Added "OpenModsLib": Currently in Beta
+	+Added "OresPlus": Currently in Beta
+
+(August/17/2014)
+	+Added "Magical Crops": Currently in Beta
+
+(August/16/2014)
+	+Added "BrainStoneMod": Currently in Beta
+	+Added "Touhou Items Mod"
+
+(August/15/2014)
+	+Added "RainbowCraft"
+	+Added "Mod Control"
+	+Added "vChat": Currently in pre-release
+
+(August/13/2014)
+	*Updated "PortaPortal" link
+	+Added "AssassinCraft"
+	+Added "HoloInventory"
+	+Added "JuiceWares"
+	+Added "Villager's Nose"
+
+(August/12/2014)
+	*Updated "CraftHeraldry" link
+	+Added "Animal Bikes"
+	+Added "Backpacks (Eydamos)"
+	+Added "CrayCrafting"
+	+Added "DaBells"
+	+Added "Food Plus"
+	+Added "MCTwitter"
+
+(August/11/2014)
+	+Added "Pneumatic Cooking"
+
 (August/09/2014)
 	*Updated "CoFH Core" info: No longer requires "CoFH Lib"
 	*Updated "FLORA" info: No longer requires "CoFH Lib"

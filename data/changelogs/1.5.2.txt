@@ -1,3 +1,21 @@
+(August/28/2014)
+	*Updated "Flan's Mod" info: Added source
+	*Updated "Iguana Tweaks" name: Now "Iguana Tweaks for Tinker's Construct"
+
+(August/25/2014)
+	*Updated "ForgeIRC" description
+	*Updated "ForgeMultipart" description
+
+(August/20/2014)
+	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
+	-Removed "Big Reactors": Download no longer available
+
+(August/17/2014)
+	-Removed "Magical Crops": Download no longer available
+
+(August/16/2014)
+	*Updated "Touhou Items Mod" author: Added original author
+
 (August/05/2014)
 	*Updated "Galacticraft" link
 	+Added "Micdoodle Core"

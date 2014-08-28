@@ -1,3 +1,25 @@
+(August/28/2014)
+	*Updated "Flan's Mod" info: Added source
+	*Updated "Iguana Tweaks" name: Now "Iguana Tweaks for Tinker's Construct"
+
+(August/25/2014)
+	*Updated "ForgeIRC" description
+	*Updated "ForgeMultipart" description
+
+(August/20/2014)
+	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
+	*Updated "Tinkers' Mechworks" authors: Renamed Sunstrike to Arkan
+	+Added "Big Reactors": In Alpha, no longer supported
+
+(August/17/2014)
+	+Added "Magical Crops"
+
+(August/16/2014)
+	*Updated "Touhou Items Mod" author: Added original author
+
+(August/12/2014)
+	*Updated "CraftHeraldry" link
+
 (August/09/2014)
 	*Updated "4-Space" link
 	+Added "Wall Jump"

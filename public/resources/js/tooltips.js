@@ -24,7 +24,7 @@ $('.smp').tooltip({
 });
 $('.opensource').tooltip({
     placement: "auto",
-    title: "Open Source Mod"
+    title: "Visible Source - may also be Open Source"
 });
 $('.base-edit').tooltip({
     placement: "auto",
@@ -32,7 +32,7 @@ $('.base-edit').tooltip({
 });
 $('.opensource-contained').tooltip({
     placement: "auto",
-    title: "This mod is open source, but the source code is obtained via PM or contained within the main download."
+    title: "This mod has a visible source, but the source code is obtained via PM or contained within the main download."
 });
 $('.cl-update').tooltip({
     placement: "auto",
