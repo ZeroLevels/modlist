@@ -1,4 +1,5 @@
 (August/28/2014)
+	+Added "CompactChests": Currently in Beta
 	+Added "Flan's Mod"
 
 (August/27/2014)
