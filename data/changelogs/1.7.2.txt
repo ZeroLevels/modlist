@@ -1,5 +1,11 @@
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+	+Added "Advanced Machines (immibis)"
+	+Added "Advanced Power Management"
+	+Added "Advanced Repulsion Systems"
+	+Added "Advanced Solar Panels"
+	+Added "Aquaculture"
+	+Added "The Farlanders"
 
 (August/28/2014)
 	*Updated "Flan's Mod" info: Added source

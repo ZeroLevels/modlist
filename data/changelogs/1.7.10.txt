@@ -1,6 +1,13 @@
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
 	+Added "Lots of Food"
+	+Added "Advanced Machines (immibis)"
+	+Added "Advanced Repulsion Systems"
+	+Added "Advanced Solar Panels"
+	+Added "Aquaculture"
+	+Added "Archimedes' Ships"
+	+Added "Primitive Mobs"
+	+Added "The Farlanders"
 
 (August/28/2014)
 	+Added "CompactChests": Currently in Beta

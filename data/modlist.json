@@ -14,6 +14,7 @@
 "link":"http://bit.ly/115IkVJ",
 "desc":"This mod now provides configuration options so you can make the items appear the way you want them to! 3D items in fast graphics, change render distance, item and block sizes, rotation and bobbing! Also, fixed vanilla bug where items were screwed up with HD texture packs!",
 "author":["Quintinity"],
+"source":"https://github.com/Quintinity/3DItems",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
@@ -24,6 +25,7 @@
 "link":"http://bit.ly/1ygJ9ax",
 "desc":"Adds many missing planets to Galacticraft.",
 "author":["Mattparks","Decaxon"],
+"source":"https://github.com/4-Space/4-Space",
 "type":["Universal"],
 "dependencies":["Forge Required","Galacticraft"],
 "versions":["1.6.4"]
@@ -162,7 +164,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -187,6 +189,17 @@
 
 },{
 
+"name":"Advanced Power Management",
+"link":"http://bit.ly/YZNpRm",
+"desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
+"author":["Pantheis", "Zuxelus"],
+"source":"https://github.com/pantheis/AdvancedPowerManagement",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Advanced Power Systems",
 "link":"http://bit.ly/XvyVks",
 "desc":"An addon that adds new power generation for buildcraft and machines for processing.",
@@ -203,7 +216,7 @@
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -213,7 +226,7 @@
 "author":["SeNtiMeL"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.6.2","1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -281,12 +294,23 @@
 
 "name":"Aether II",
 "other":"(Alpha)",
-"link":"http://bit.ly/185nvNY",
+"link":"http://bit.ly/YZNww0",
 "desc":"The Aether is a 'hostile paradise', composed of floating sky islands filled with strange creatures and great mysteries. Brave adventurers who wish to explore this forgotten paradise merely only have to compose a portal out of glowstone and ignite it with a bucket of water.",
 "author":["kingbdogz"],
 "type":["Universal"],
-"dependencies":["Forge Required","Player API","Render Player API"],
+"dependencies":["Forge Required","Player API","Render Player API","Threaded Lighting"],
 "versions":["1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Aether II",
+"other":"(Alpha)",
+"link":"http://bit.ly/YZNww0",
+"desc":"The Aether is a 'hostile paradise', composed of floating sky islands filled with strange creatures and great mysteries. Brave adventurers who wish to explore this forgotten paradise merely only have to compose a portal out of glowstone and ignite it with a bucket of water.",
+"author":["kingbdogz"],
+"type":["Universal"],
+"dependencies":["Forge Required","Threaded Lighting"],
+"versions":["1.6.4"]
 
 },{
 
@@ -326,7 +350,7 @@
 "desc":"Expands cooking, farming and the hunger system with new machines and recipes.",
 "author":["Odininon","RebelKeithy","Shadowclaimer"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
 
 },{
@@ -621,7 +645,17 @@
 "author":["Shadowclaimer","RebelKeithy"],
 "type":["Universal"],
 "dependencies":["Forge Required","KeithyUtils"],
-"versions":["1.6.2","1.5.2"]
+"versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Aquaculture",
+"link":"http://bit.ly/1cgXZmc",
+"desc":"An expansion of Minecraft's fishing system. You never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing.",
+"author":["Shadowclaimer","RebelKeithy","Lclc98"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -661,7 +695,7 @@
 "author":["BalkondeurAlpha"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -824,7 +858,7 @@
 "desc":"Adds powerful spells with a unique spell creation system and difficult bosses to fight.",
 "author":["Mithion"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","AnimationAPI"],
 "versions":["1.6.4"]
 
 },{
@@ -12887,7 +12921,17 @@
 "author":["Daveyx0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5","1.4.7"]
+"versions":["1.5.2","1.4.7"]
+
+},{
+
+"name":"Primitive Mobs",
+"link":"http://bit.ly/YZNFj8",
+"desc":"Adds numerous new mobs into your Minecraft world. However unlike some mods out there, this mod adds mobs which are familar to the regular Minecraft player. These mobs look like vanilla features however they add completely new features and behaviour which can benefit the player or the opposite. Before you start checking them out remember: You don't have to like them all, as mobs can be turned off.",
+"author":["Daveyx0"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -13917,6 +13961,7 @@
 "link":"http://bit.ly/Zg5DXK",
 "desc":"",
 "author":["Quintinity"],
+"source":"https://github.com/Quintinity/3DItems-Plus",
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
@@ -15721,7 +15766,7 @@
 "author":["Fabiulu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -16158,6 +16203,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Threaded Lighting",
+"other":"(Dependency)",
+"link":"http://bit.ly/YZNww0",
+"desc":"Required dependency for Aether II mod.",
+"author":["kingbdogz"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
