@@ -52,6 +52,13 @@ class Import {
 				$separator = strrpos($version, '.');
 				$major = substr($version, 0, $separator);
 				$minor = substr($version, $separator + 1);
+				
+				if($version === '1.5')
+				{
+					$major = '1.5';
+					$minor = '0';
+				}
+				
 				Version::unguard();
 				$v = Version::create([
 					'version' => $version,
