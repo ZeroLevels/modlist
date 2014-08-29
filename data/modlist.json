@@ -190,7 +190,7 @@
 },{
 
 "name":"Advanced Power Management",
-"link":"https://bitbucket.org/Zuxelus/ic2-advanced-power-management/downloads",
+"link":"http://bit.ly/YZNpRm",
 "desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
 "author":["Pantheis", "Zuxelus"],
 "source":"https://github.com/pantheis/AdvancedPowerManagement",
@@ -294,7 +294,7 @@
 
 "name":"Aether II",
 "other":"(Alpha)",
-"link":"http://bit.ly/1C8wUBt",
+"link":"http://bit.ly/YZNww0",
 "desc":"The Aether is a 'hostile paradise', composed of floating sky islands filled with strange creatures and great mysteries. Brave adventurers who wish to explore this forgotten paradise merely only have to compose a portal out of glowstone and ignite it with a bucket of water.",
 "author":["kingbdogz"],
 "type":["Universal"],
@@ -305,7 +305,7 @@
 
 "name":"Aether II",
 "other":"(Alpha)",
-"link":"http://bit.ly/1C8wUBt",
+"link":"http://bit.ly/YZNww0",
 "desc":"The Aether is a 'hostile paradise', composed of floating sky islands filled with strange creatures and great mysteries. Brave adventurers who wish to explore this forgotten paradise merely only have to compose a portal out of glowstone and ignite it with a bucket of water.",
 "author":["kingbdogz"],
 "type":["Universal"],
@@ -12926,7 +12926,7 @@
 },{
 
 "name":"Primitive Mobs",
-"link":"http://bit.ly/1orXqvj",
+"link":"http://bit.ly/YZNFj8",
 "desc":"Adds numerous new mobs into your Minecraft world. However unlike some mods out there, this mod adds mobs which are familar to the regular Minecraft player. These mobs look like vanilla features however they add completely new features and behaviour which can benefit the player or the opposite. Before you start checking them out remember: You don't have to like them all, as mobs can be turned off.",
 "author":["Daveyx0"],
 "type":["Universal"],
@@ -16208,8 +16208,8 @@
 
 "name":"Threaded Lighting",
 "other":"(Dependency)",
-"link":"http://bit.ly/1C8wUBt",
-"desc":"Required dependency for Aether II mod",
+"link":"http://bit.ly/YZNww0",
+"desc":"Required dependency for Aether II mod.",
 "author":["kingbdogz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
