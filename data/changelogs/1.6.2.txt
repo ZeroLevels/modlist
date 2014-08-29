@@ -1,5 +1,8 @@
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+	*Updated "Aether II" Link and Dependencies info
+	*Updated "Agriculture" Dependencies info
+	+Added "Threaded Lighting"
 
 (August/28/2014)
 	*Updated "Flan's Mod" info: Added source

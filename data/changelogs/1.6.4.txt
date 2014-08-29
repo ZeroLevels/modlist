@@ -1,5 +1,12 @@
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+	*Updated "Agriculture" Dependencies info
+	*Updated "Ars Magica 2" Dependencies info
+	*Updated "4-Space" info: Added source
+	+Added "Advanced Solar Panels"
+	+Added "Aether II"
+	+Added "Aquaculture"
+	+Added "Threaded Lighting"
 
 (August/28/2014)
 	*Updated "Flan's Mod" info: Added source

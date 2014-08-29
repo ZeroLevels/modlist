@@ -1,5 +1,7 @@
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+	*Updated "3D Items" info: Added source
+	*Updated "SettingsAPI" info: Added source
 
 (August/28/2014)
 	*Updated "Flan's Mod" info: Added source
