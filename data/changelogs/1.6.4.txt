@@ -2,15 +2,15 @@
 	*Updated "Buildcraft" authors: Added SpaceToad
 	*Updated "Compact Solars" link
 	*Updated "Dimensional Doors" authors: Added SenseiKiwi
-	*Updated "DivineRPG" link
-	*Updated "Elemental Creepers" renamed to "Elemental Creepers - Rebooted"
+	*Updated "Elemental Creepers" name: Now "Elemental Creepers - Rebooted"
 	*Updated "Enchanting Plus" info: Added source
+	*Updated "ExtraButtons" name: Now "Extra Buttons"
 	*Updated "FpsPlus" link and dependencies info
-	*Updated "Furniture Mod" renamed to "MrCrayfish's Furniture Mod" and deleted source link
-	*Updated "Gravestone Mod" dependencies info
-	*Updated "Iguana Tweaks" source link
-	*Updated "Iguana Tweaks for Tinker's Construct" source link
-	*Updated "Thaumic Tinkerer" source link
+	*Updated "Furniture Mod" name: Now "MrCrayfish's Furniture Mod", removed source
+	*Updated "Gravestone Mod" info: No longer requires "ModLoader" and "Player API"
+	*Updated "Iguana Tweaks": Updated source
+	*Updated "Iguana Tweaks for Tinker's Construct": Updated source
+	*Updated "Thaumic Tinkerer": Updated source
 	*Updated "ZZZZZ Custom Configs" info: Added source
 	+Added "CampCraft"
 	+Added "Cartographer"
@@ -18,7 +18,7 @@
 	+Added "Click Mining Fix Fix"
 	+Added "Combo Armors"
 	+Added "Custom Ore Generation: First Revival"
-	+Added "Enhanced Books"
+	+Added "Enhanced Books": Discontinued, no future updates from author
 	+Added "EssentialCraft 2"
 	+Added "Gravitation Suite"
 	+Added "GregTech-Addon"
@@ -30,7 +30,8 @@
 	+Added "Better Biomes"
 	+Added "Better Anvils"
 	+Added "Localized Weather & Stormfronts"
-	+Deleted "BetterFonts" downloads no longer available
+	-Removed "BetterFonts": Download no longer available
+	-Removed "DivineRPG": Download no longer available
 
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT

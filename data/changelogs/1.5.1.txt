@@ -5,7 +5,7 @@
 	*Updated "Elemental Creepers" info: Added source
 	*Updated "Enchanting Plus" info: Added source
 	+Added "Enhanced Books"
-	+Deleted "Gravestone Mod" downloads no longer available
+	-Removed "Gravestone Mod": Download no longer available
 
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT

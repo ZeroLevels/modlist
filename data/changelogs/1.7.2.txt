@@ -1,22 +1,23 @@
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
-	*Updated "Elemental Creepers" renamed to "Elemental Creepers - Rebooted"
+	*Updated "Elemental Creepers" name: Now "Elemental Creepers - Rebooted"
 	*Updated "Enchanting Plus" info: Added source
-	*Updated "Thaumic Tinkerer" source link
+	*Updated "ExtraButtons" name: Now "Extra Buttons"
+	*Updated "Furniture Mod" name: Now "MrCrayfish's Furniture Mod", removed source
+	*Updated "Thaumic Tinkerer": Updated source
 	*Updated "ZZZZZ Custom Configs" info: Added source
 	+Added "Click Mining Fix Fix"
 	+Added "Combo Armors"
 	+Added "Compact Solars"
 	+Added "Enhanced Portals 3"
 	+Added "FpsPlus"
-	+Added "MrCrayfish's Furniture Mod"
 	+Added "Gravestone Mod"
 	+Added "GregTech-Addon"
 	+Added "Iguana Tweaks"
 	+Added "Thaumcraft Mob Aspects"
 	+Added "Better Furnaces"
 	+Added "Localized Weather & Stormfronts"
-	+Deleted "BetterFonts" downloads no longer available
+	-Removed "BetterFonts": Download no longer available
 
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT

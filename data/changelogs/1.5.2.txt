@@ -3,14 +3,15 @@
 	*Updated "Compact Solars" link
 	*Updated "Dimensional Doors" authors: Added SenseiKiwi
 	*Updated "Enchanting Plus" info: Added source
-	*Updated "FpsPlus" link and dependencies info
-	*Updated "Iguana Tweaks" source link
-	*Updated "Iguana Tweaks for Tinker's Construct" source link
-	*Updated "Thaumic Tinkerer" source link
+	*Updated "ExtraButtons" name: Now "Extra Buttons"
+	*Updated "FpsPlus" link and info: Not Forge Compatible
+	*Updated "Iguana Tweaks": Updated source
+	*Updated "Iguana Tweaks for Tinker's Construct": Updated source
+	*Updated "Thaumic Tinkerer": Updated source
 	+Added "Click Mining Fix Fix"
 	+Added "Enhanced Books"
-	+Deleted "Gravestone Mod" downloads no longer available
-	+Deleted "Extra Bees" downloads no longer available
+	-Removed "Gravestone Mod": Download no longer available
+	-Removed "Extra Bees": Download no longer available
 
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT

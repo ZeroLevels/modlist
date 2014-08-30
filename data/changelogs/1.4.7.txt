@@ -3,14 +3,15 @@
 	*Updated "Click Mining Fix Fix" info
 	*Updated "Compact Solars" link
 	*Updated "Dimensional Doors" authors: Added SenseiKiwi
-	*Updated "DivineRPG" link
 	*Updated "Elemental Creepers" info: Added source
 	*Updated "Enchanting Plus" info: Added source
-	*Updated "Enhanced Books" info: Added source
+	*Updated "Enhanced Books" description and info: Added source
+	*Updated "ExtraButtons" name: Now "Extra Buttons"
 	*Updated "Xeno's Reliquary" info: Added source
 	+Added "CampCraft"
-	+Deleted "Gravestone Mod" downloads no longer available
-	+Deleted "Extra Bees" downloads no longer available
+	-Removed "Gravestone Mod": Download no longer available
+	-Removed "Extra Bees": Download no longer available
+	-Removed "DivineRPG": Download no longer available
 
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT

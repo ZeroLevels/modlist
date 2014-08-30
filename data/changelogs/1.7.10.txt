@@ -1,7 +1,7 @@
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
-	*Updated "Elemental Creepers" renamed to "Elemental Creepers - Rebooted"
-	*Updated "Thaumic Tinkerer" source link
+	*Updated "Elemental Creepers" name: Now "Elemental Creepers - Rebooted"
+	*Updated "Thaumic Tinkerer": Updated source
 	*Updated "ZZZZZ Custom Configs" info: Added source
 	+Added "Click Mining Fix Fix"
 	+Added "Compact Solars"
@@ -13,7 +13,6 @@
 	+Added "Enhanced Portals 3"
 	+Added "ExtraCells 2"
 	+Added "FpsPlus"
-	+Added "MrCrayfish's Furniture Mod"
 	+Added "Gravestone Mod"
 	+Added "Gravitation Suite"
 	+Added "GregTech-Addon"
