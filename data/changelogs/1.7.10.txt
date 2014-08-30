@@ -23,7 +23,6 @@
 	+Added "Modular Flower Pots"
 	+Added "Extra Buttons"
 	+Added "Binnie's Mods"
-	+Added "ExtraBiomesXL"
 	+Added "Balkon's WeaponMod"
 	+Added "MAtmos"
 	+Added "Localized Weather & Stormfronts"
