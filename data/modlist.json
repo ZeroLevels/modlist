@@ -1185,6 +1185,7 @@
 "link":"http://bit.ly/WmsjDo",
 "desc":"Adds dyable backpacks to the game for storing extra items. Backpack size is configurable.",
 "author":["Eydamos"],
+"source":"https://github.com/Eydamos/Minecraft-Backpack-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
@@ -1257,7 +1258,7 @@
 "author":["BalkondeurAlpha"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -1404,7 +1405,7 @@
 "author":["vdvman1"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.1","1.4.7"]
+"versions":["1.6.4","1.5.1","1.4.7"]
 
 },{
 
@@ -1434,7 +1435,7 @@
 "author":["SMEZ1234"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -1495,7 +1496,7 @@
 "author":["Chocolatin"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -1505,7 +1506,7 @@
 "author":["iBlackShadow"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7"]
+"versions":["1.6.2","1.5.1","1.4.7"]
 
 },{
 
@@ -1530,24 +1531,13 @@
 
 },{
 
-"name":"BetterFonts",
-"link":"http://bit.ly/GGBZc3",
-"desc":"Adds TrueType/OpenType font support. It will use the fonts installed on your system for drawing text instead of the built-in bitmap fonts.",
-"author":["thvortex","Suzutsuki"],
-"source":"https://github.com/secretdataz/BetterFonts",
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
-
-},{
-
 "name":"Better Furnaces",
 "link":"http://bit.ly/VDWVUH",
 "desc":"Adds some new Furnaces to the game!",
 "author":["TheFrogMC"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -1806,6 +1796,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Binnie's Mods",
+"link":"http://bit.ly/1zVU3mS",
+"desc":"Binnie's Mods is a collection of addons for Forestry. Binnie's Mods for 1.6.4 contains Extra Bees and Extra Trees addons. Binnie's Mods 2.0 for 1.7.10 contains two extra addons Botany and Genetics.",
+"author":["Binnie567"],
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -2283,7 +2283,7 @@
 "name":"Buildcraft",
 "link":"http://bit.ly/156o88k",
 "desc":"Adds machines which can be powered by engines and fuel to help build and/or dig!",
-"author":["SirSengir"],
+"author":["SirSengir","SpaceToad"],
 "source":"https://github.com/BuildCraft/BuildCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -2414,12 +2414,12 @@
 
 "name":"CampCraft",
 "other":"(Test version)",
-"link":"http://bit.ly/t-campcraft",
+"link":"http://bit.ly/1pcOIRS",
 "desc":"Adds many features for the purpose of camping, as well as adding mobs to further the ambiance of the outdoors.",
 "author":["tomtomtom09"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.6.4","1.4.7","1.4.2","1.3.2"]
 
 },{
 
@@ -2484,7 +2484,7 @@
 "author":["MelAlvarado"],
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -2819,6 +2819,16 @@
 
 },{
 
+"name":"Christmas Festivities Mod",
+"link":"http://bit.ly/10wokas",
+"desc":"",
+"author":["eekysam"],
+"type":["SMP"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Christmas Mod",
 "link":"http://bit.ly/10GzQEL",
 "desc":"",
@@ -2947,9 +2957,19 @@
 "link":"http://bit.ly/Xe7BZa",
 "desc":"Re-implements click mining. A bug back before 1.3 beta, that lets you start mining the next block faster.",
 "author":["IDontEvenKnow"],
-"type":["N/A"],
+"type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.7"]
+"versions":["1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Click Mining Fix Fix",
+"link":"http://bit.ly/1n4iOYi",
+"desc":"Re-implements click mining. A bug back before 1.3 beta, that lets you start mining the next block faster.",
+"author":["Kochu"],
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -3182,6 +3202,16 @@
 
 },{
 
+"name":"Combo Armors",
+"link":"http://bit.ly/1osI8GS",
+"desc":"Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
+"author":["UnixRano","Zuxelus"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Combustable Lemon Launcher",
 "link":"http://bit.ly/174msbk",
 "desc":"Adds a combustible lemon launcher (a 3D-Model designed by me in Blender) and (of course) lemons. You can bind your shooting-key in the controls to whatever key you like.",
@@ -3287,13 +3317,24 @@
 },{
 
 "name":"Compact Solars",
-"link":"http://bit.ly/16lF6Qc",
+"link":"http://bit.ly/1ocNbgl",
 "desc":"Adds Solar Arrays craftable using multiple IC2 Solar Panels.",
 "author":["cpw"],
 "source":"https://github.com/cpw/compactsolars",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Compact Solars",
+"link":"http://bit.ly/1ocNbgl",
+"desc":"Adds Solar Arrays craftable using multiple IC2 Solar Panels.",
+"author":["cpw","progwml6"],
+"source":"https://github.com/progwml6/compactsolars",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3437,6 +3478,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"ControlPack",
+"link":"http://bit.ly/Z0xL8g",
+"desc":"Adds controls/keybinding for such things as Auto Tool Selection, Auto Run, toggleable sneak and jump, Arrows Remaining Counter, etc..",
+"author":["julialy"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10"]
 
 },{
 
@@ -4025,6 +4076,15 @@
 "versions":["1.4.7"]
 
 },{
+"name":"Custom Ore Generation: First Revival",
+"link":"http://bit.ly/1lll2XE",
+"desc":"Allows the player to decide what ores are generated in their worlds and how they are distributed.  In addition to the vanilla \"cluster\" distribution it offers custom-written \"vein\" and \"cloud\" distributions.",
+"author":["noogenesis"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
+
+},{
 
 "name":"Custom Recipes",
 "link":"http://bit.ly/GDckRd",
@@ -4463,7 +4523,7 @@
 "name":"Dimensional Doors",
 "link":"http://bit.ly/VqmBTA",
 "desc":"Adds doors to Minecraft that open up to individual pocket dimensions. Allows reality manipulation, dimension linking, and more.",
-"author":["stevenrs11"],
+"author":["stevenrs11","SenseiKiwi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
@@ -4504,7 +4564,7 @@
 
 "name":"DivineRPG",
 "other":"(Beta)",
-"link":"http://bit.ly/RBORmX",
+"link":"http://bit.ly/1vujApj",
 "desc":"Adds new dimensions, mobs and items.",
 "author":["Xolova"],
 "type":["SSP"],
@@ -4624,7 +4684,7 @@
 "source":"http://ata4.info/downloads/apps/minecraft/mods/dragonmount/src/",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -4695,7 +4755,7 @@
 "author":["Stuuupiiid"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -4769,7 +4829,7 @@
 "source":"https://github.com/webbukkit/DynmapForge",
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -4933,13 +4993,14 @@
 "link":"http://bit.ly/11XsCcQ",
 "desc":"Adds creepers with different elements to the game.",
 "author":["xSmallDeadGuyx"],
+"source":"https://github.com/xSmallDeadGuyx/ElementalCreepers",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
-"name":"Elemental Creepers",
+"name":"Elemental Creepers - Rebooted",
 "link":"http://bit.ly/TrXrHO",
 "desc":"Adds creepers with different elements to the game. Rebooted from xSmallDeadGuyx's version.",
 "author":["Lomeli12"],
@@ -5085,6 +5146,7 @@
 "link":"http://bit.ly/GIvqWc",
 "desc":"Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.",
 "author":["mssodin28"],
+"source":"https://github.com/odininon/EnchantingPlus-Scala",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
@@ -5301,9 +5363,21 @@
 "link":"http://bit.ly/VHGoPt",
 "desc":"",
 "author":["sn0re"],
+"source":"https://github.com/aerobit/EnhancedBooks",
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.4.5"]
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Enhanced Books",
+"link":"http://bit.ly/1lA9dNA",
+"desc":"",
+"author":["zombiepig333"],
+"source":"https://github.com/zombiepig333/Enhanced-Books",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -5325,6 +5399,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"Enhanced Portals 3",
+"link":"http://bit.ly/1nK96KI",
+"desc":"Allows you to create any shape or size for portals. Portals can be made out of new materials and the portal itself can be dyed. Includes advanced dimensional and particle controls. New version of Enhanced Portals.",
+"author":["KzariusRex"],
+"source":"https://github.com/SkyNetAB/enhanced-portals",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -5407,6 +5492,16 @@
 "type":["SSP","SMP","LAN"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"EssentialCraft 2",
+"link":"http://bit.ly/108jRA3",
+"desc":"",
+"author":["Modbder"],
+"type":["SMP"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -5596,33 +5691,24 @@
 },{
 
 "name":"Extra Bees",
-"link":"http://bit.ly/13J9i4K",
-"desc":"",
-"author":["Binnie"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
-"name":"Extra Bees",
-"link":"http://bit.ly/WCTXws",
-"desc":"Extra bees for Forestry. Link leads to Hanfox's unofficial page as the official is currently down. Click the numbers to show information/downloads.",
+"link":"http://bit.ly/1pOQUps",
+"desc":"Extra bees for Forestry.",
 "author":["Binnie"],
 "type":["Universal"],
 "dependencies":["Forge Required","Forestry"],
-"versions":["1.6.2","1.5.2","1.4.7"]
+"versions":["1.6.4","1.5.2"]
 
 },{
 
 "name":"ExtraBiomesXL",
+"other":"1.7.10 download not available. It should be manually compiled from Github.",
 "link":"http://bit.ly/XCV19S",
 "desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
 "author":["MisterFiber"],
 "source":"https://github.com/ExtrabiomesXL/ExtrabiomesXL",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -5647,14 +5733,14 @@
 
 },{
 
-"name":"ExtraButtons",
+"name":"Extra Buttons",
 "link":"http://bit.ly/18pytfK",
 "desc":"Adds extra button and button-related blocks to Minecraft.",
 "author":["jaquadro"],
 "source":"https://github.com/jaquadro/ForgeMods",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.4.7"]
 
 },{
 
@@ -5677,7 +5763,7 @@
 "source":"https://github.com/M3gaFr3ak/ExtraCells2",
 "type":["Universal"],
 "dependencies":["Forge Required","Applied Energistics 2"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -6487,12 +6573,12 @@
 },{
 
 "name":"FpsPlus",
-"link":"http://bit.ly/17lVWub",
+"link":"http://bit.ly/1lvSFq3",
 "desc":"Changes how math is defined in minecraft and results in anywhere from 3-80 FPS gain, many different versions available and a version that removes alot more lag but that version has some incompatibilities while the rest will work with any mod.",
 "author":["abandenz"],
 "type":["Client"],
-"dependencies":["Forge Required","Base Edit"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -6546,11 +6632,10 @@
 
 },{
 
-"name":"Furniture Mod",
+"name":"MrCrayfish's Furniture Mod",
 "link":"http://bit.ly/12Y1tLl",
 "desc":"Adds in what Minecraft has been missing for years, furniture! It includes over 30 pieces of furniture to decorate your bedroom, kitchen, living room and even your garden! This mod also has an API which can be used in development of your mods to make them play more nicely alongside it.",
 "author":["Mr_Crayfish"],
-"source":"https://github.com/MrCrayfish/MrCrayfishFurnitureMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
@@ -6720,7 +6805,7 @@
 "source":"https://github.com/lawremi/PerFabricaAdAstra",
 "type":["Universal"],
 "dependencies":["Forge Required","Custom Ore Generation"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -6921,11 +7006,11 @@
 
 "name":"Gravestone Mod",
 "link":"http://bit.ly/XSirsO",
-"desc":"Adds a gravestone to the game, which spawns after player's death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot.The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.",
+"desc":"Adds a gravestone to the game, which spawns after player's death. This mod also generates two structures. The first is a cemetary. It generates in some villages. All graves contains some loot. The second is the Wither's Catacombs. This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a Wither Boss at the end.",
 "author":["NightKosh"],
 "type":["Universal"],
-"dependencies":["Forge Required","ModLoader","Player API"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -6935,7 +7020,7 @@
 "author":["SeNtiMeL"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -7006,7 +7091,7 @@
 "author":["GregoriusT"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -7603,7 +7688,7 @@
 "source":"https://github.com/jaquadro/ForgeMods",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -7733,10 +7818,21 @@
 "link":"http://bit.ly/1dooEma",
 "desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
 "author":["iguana_man"],
-"source":"https://www.dropbox.com/sh/gl9sxgfbgt7tc0r/H4G3rPDfKF",
+"source":"https://github.com/iguanaman/IguanaTweaks",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Iguana Tweaks",
+"link":"http://bit.ly/1llqFoC",
+"desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
+"author":["iguana_man","Parker8283"],
+"source":"https://github.com/Parker8283/IguanaTweaks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -7744,10 +7840,21 @@
 "link":"http://bit.ly/17nkepE",
 "desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
 "author":["iguana_man"],
-"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
+"source":"https://github.com/iguanaman/IguanaTweaksTConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required","Tinkers' Construct"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Iguanas Tinker Tweaks",
+"link":"http://bit.ly/1qMRX7D",
+"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
+"author":["boni"],
+"source":"https://github.com/SlimeKnights/IguanaTweaksTConstruct",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct"],
+"versions":["1.7.10"]
 
 },{
 
@@ -8956,15 +9063,25 @@
 
 },{
 
+"name":"Localized Weather & Stormfronts",
+"link":"http://bit.ly/1tM12ip",
+"desc":"Localized weather! See rain and nastier storms coming in from a distance.",
+"author":["Corosus"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"LomLib",
 "other":"(Dependency)",
-"link":"http://bit.ly/1dtIfx4",
+"link":"http://bit.ly/VWYn87",
 "desc":"A library used by mods created by Lomeli12.",
 "author":["Lomeli12"],
 "source":"https://github.com/Lomeli12/LomLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -9266,7 +9383,7 @@
 "source":"https://github.com/Hurricaaane/MAtmos",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -10288,7 +10405,7 @@
 "source":"https://github.com/jaquadro/ForgeMods",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15459,7 +15576,7 @@
 "author":["bioxx"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.6.4","1.4.7","1.4.5"]
 
 },{
 
@@ -15514,11 +15631,22 @@
 
 },{
 
+"name":"Thaumcraft Mob Aspects",
+"link":"http://bit.ly/1qNTRBi",
+"desc":"Adds Thaumcraft aspects to mobs from other mods: Lycanites Mobs, Mo' Creatures, Special Mobs and Twilight Forest.",
+"author":["iguana_man","XanderGryphon","Lycaon","Parker8283"],
+"source":"https://github.com/Parker8283/ThaumcraftMobAspects",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii"],
-"source":"https://github.com/Vazkii/ThaumicTinkerer",
+"source":"https://github.com/Thaumic-Tinkerer/ThaumicTinkerer",
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 3"],
 "versions":["1.5.2"]
@@ -15529,7 +15657,7 @@
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 4. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii","pixlepix","nekosune"],
-"source":"https://github.com/Vazkii/ThaumicTinkerer",
+"source":"https://github.com/Thaumic-Tinkerer/ThaumicTinkerer",
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
 "versions":["1.6.4","1.6.2"]
@@ -15540,7 +15668,7 @@
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 4. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii","pixlepix","nekosune"],
-"source":"https://github.com/Vazkii/ThaumicTinkerer",
+"source":"https://github.com/Thaumic-Tinkerer/ThaumicTinkerer",
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles","Thaumcraft 4"],
 "versions":["1.7.10","1.7.2"]
@@ -17739,9 +17867,21 @@
 "link":"http://bit.ly/XRhcab",
 "desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
 "author":["x3n0ph0b3"],
+"source":"https://github.com/x3n0ph0b3/Reliquary",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Xeno's Reliquary",
+"link":"http://bit.ly/ViLMM1",
+"desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
+"author":["x3n0ph0b3","TrainerGuy22"],
+"source":"https://github.com/x3n0ph0b3/Reliquary",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -18073,6 +18213,7 @@
 "link":"http://bit.ly/1m1kmFz",
 "desc":"Adds a configuration file that allows the addition and removal of recipes, blocking mobs from spawning and more.",
 "author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/ZZZZZ-Custom-Configs",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]

@@ -1,3 +1,8 @@
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Elemental Creepers" info: Added source
+	+Added "CampCraft"
+
 (August/05/2014)
 	+Added "More Swords Mod"
 

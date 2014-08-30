@@ -1,3 +1,12 @@
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Compact Solars" link
+	*Updated "Dimensional Doors" authors: Added SenseiKiwi
+	*Updated "Elemental Creepers" info: Added source
+	*Updated "Enchanting Plus" info: Added source
+	+Added "Enhanced Books"
+	+Deleted "Gravestone Mod" downloads no longer available
+
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
 

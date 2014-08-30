@@ -1,3 +1,12 @@
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "DivineRPG" link
+	*Updated "Elemental Creepers" info: Added source
+	*Updated "Enchanting Plus" info: Added source
+	*Updated "Enhanced Books" info: Added source
+	*Updated "Xeno's Reliquary" info: Added source
+	+Deleted "Extra Bees" downloads no longer available
+
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
 	*Updated "3D Items" info: Added source

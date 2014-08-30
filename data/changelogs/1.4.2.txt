@@ -1,3 +1,8 @@
+(August/30/2014)
+	*Updated "DivineRPG" link
+	*Updated "Enchanting Plus" info: Added source
+	+Added "CampCraft"
+
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
 

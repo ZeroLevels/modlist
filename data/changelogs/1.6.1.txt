@@ -1,3 +1,6 @@
+(August/30/2014)
+	*Updated "ZZZZZ Custom Configs" info: Added source
+
 (August/05/2014)
 	*Updated "Galacticraft" link
 	+Added "Micdoodle Core"

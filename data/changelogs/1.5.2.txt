@@ -1,3 +1,17 @@
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Compact Solars" link
+	*Updated "Dimensional Doors" authors: Added SenseiKiwi
+	*Updated "Enchanting Plus" info: Added source
+	*Updated "FpsPlus" link and dependencies info
+	*Updated "Iguana Tweaks" source link
+	*Updated "Iguana Tweaks for Tinker's Construct" source link
+	*Updated "Thaumic Tinkerer" source link
+	+Added "Click Mining Fix Fix"
+	+Added "Enhanced Books"
+	+Deleted "Gravestone Mod" downloads no longer available
+	+Deleted "Extra Bees" downloads no longer available
+
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
 	+Added "Primitive Mobs"

@@ -1,3 +1,35 @@
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Elemental Creepers" renamed to "Elemental Creepers - Rebooted"
+	*Updated "Thaumic Tinkerer" source link
+	*Updated "ZZZZZ Custom Configs" info: Added source
+	+Added "Click Mining Fix Fix"
+	+Added "Compact Solars"
+	+Added "ControlPack"
+	+Added "Custom Ore Generation: First Revival"
+	+Added "Dragon Mounts"
+	+Added "DungeonPack"
+	+Added "Dynmap"
+	+Added "Enhanced Portals 3"
+	+Added "ExtraCells 2"
+	+Added "FpsPlus"
+	+Added "MrCrayfish's Furniture Mod"
+	+Added "Gravestone Mod"
+	+Added "Gravitation Suite"
+	+Added "GregTech-Addon"
+	+Added "Iguana Tweaks"
+	+Added "Iguanas Tinker Tweaks"
+	+Added "Thaumcraft Mob Aspects"
+	+Added "Hunger Strike"
+	+Added "Modular Flower Pots"
+	+Added "Extra Buttons"
+	+Added "Binnie's Mods"
+	+Added "ExtraBiomesXL"
+	+Added "Balkon's WeaponMod"
+	+Added "MAtmos"
+	+Added "Localized Weather & Stormfronts"
+	+Added "LomLib"
+
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
 	+Added "Lots of Food"

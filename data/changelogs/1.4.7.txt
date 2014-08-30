@@ -1,3 +1,17 @@
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Click Mining Fix Fix" info
+	*Updated "Compact Solars" link
+	*Updated "Dimensional Doors" authors: Added SenseiKiwi
+	*Updated "DivineRPG" link
+	*Updated "Elemental Creepers" info: Added source
+	*Updated "Enchanting Plus" info: Added source
+	*Updated "Enhanced Books" info: Added source
+	*Updated "Xeno's Reliquary" info: Added source
+	+Added "CampCraft"
+	+Deleted "Gravestone Mod" downloads no longer available
+	+Deleted "Extra Bees" downloads no longer available
+
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
 	*Updated "3D Items" info: Added source
