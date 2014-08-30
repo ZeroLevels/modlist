@@ -1,3 +1,21 @@
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Compact Solars" link
+	*Updated "Enchanting Plus" info: Added source
+	*Updated "ExtraButtons" name: Now "Extra Buttons"
+	*Updated "FpsPlus" link and dependencies info
+	*Updated "Gravestone Mod" dependencies info
+	*Updated "Iguana Tweaks" source link
+	*Updated "Iguana Tweaks for Tinker's Construct" source link
+	*Updated "Thaumic Tinkerer" source link
+	*Updated "ZZZZZ Custom Configs" info: Added source
+	+Added "Cartographer"
+	+Added "Click Mining Fix Fix"
+	+Added "Better Farming"
+	-Removed "BetterFonts": Download no longer available
+	-Removed "Extra Bees": Download no longer available
+	-Removed "DivineRPG": Download no longer available
+
 (August/29/2014)
 	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
 	*Updated "Aether II" Link and Dependencies info
