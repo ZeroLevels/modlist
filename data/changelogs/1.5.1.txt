@@ -11,6 +11,7 @@
 	*Updated "LavaBoat" info: Added source
 	*Updated "Magic Bees" info: Added source
 	*Updated "Metallurgy 3": Updated source, Authors names
+	*Updated "Enchanting Plus": Updated source
 	+Added "Greg's Blocks"
 	+Added "Greg's Prospecting"
 	+Added "Whole Tree Axe"

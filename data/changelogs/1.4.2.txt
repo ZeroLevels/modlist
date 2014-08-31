@@ -1,6 +1,7 @@
 (August/31/2014)
 	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
 	*Updated "IronChests" link
+	*Updated "Enchanting Plus": Updated source
 	+Added "CodeChickenCore"
 	+Added "Ender Storage"
 	+Added "Not Enough Items"

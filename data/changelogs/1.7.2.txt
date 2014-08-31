@@ -3,6 +3,7 @@
 	*Updated "Not Enough Items" info: Added source
 	*Updated "IronChests": Updated source, Author name and link
 	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
+	*Updated "Enchanting Plus": Updated source
 	+Added "Fossils and Archeology Revival"
 	+Added "Falling Meteors Mod"
 	+Added "Greg's Blocks"
@@ -21,6 +22,21 @@
 	+Added "Backpack HUD"
 	+Added "Compact WaterMills"
 	+Added "IC2 Classic"
+	+Added "No Cubes"
+	+Added "New Dawn"
+	+Added "ATG - Alternate Terrain Generation"
+	+Added "Sound Filters"
+	+Added "Animals+"
+	+Added "Sophisticated Wolves"
+	+Added "NEI Addons"
+	+Added "BDLib"
+	+Added "Gendustry"
+	+Added "Pressure Pipes"
+	+Added "Iridium Mod"
+	+Added "The bearded potato!"
+	+Added "The Barrels Mod"
+	+Added "SimpleOres 2"
+	+Added "GregArmor Addon 2"
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad

@@ -9,6 +9,7 @@
 	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from author)
 	*Updated "InfiCraft" info: Added source (Discontinued, no future updates from author)
 	*Updated "IronChests" link
+	*Updated "Enchanting Plus": Updated source
 	+Added "ChickenChunks"
 	+Added "CodeChickenCore"
 	+Added "Ender Storage"
@@ -19,6 +20,8 @@
 	+Added "Whole Tree Axe"
 	+Added "Chest Transporter"
 	-Removed "Chickenbones Mods"
+	-Removed "Assembly Line": Download no longer available (Mod merged with Resonant Induction)
+	-Removed "Electric Expansion": Download no longer available
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad

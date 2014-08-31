@@ -21,6 +21,8 @@
 	*Updated "BiomeGenerators" dependencies info
 	*Updated "GoldenOrb" dependencies info
 	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
+	*Updated "Enchanting Plus": Updated source
+	*Updated "Additional Pipes" info: Added source
 	+Added "Whole Tree Axe"
 	+Added "Chest Transporter"
 	+Added "Bio Materials"
@@ -29,8 +31,10 @@
 	+Added "Portable Teleporter"
 	+Added "More Composite Armor"
 	+Added "DeFence"
+	+Added "NEI Addons"
 	-Removed "CubeX2's Mods"
 	-Removed "F4113nb34st's Addons"
+	-Removed "Better Third Person": Download no longer available
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
