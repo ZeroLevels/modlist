@@ -2,19 +2,17 @@
 	*Updated "ChickenChunks" info: Added source
 	*Updated "Ender Storage" info: Added source
 	*Updated "Not Enough Items" info: Added source
-	*Updated "Translocator" name: Now "Translocators"
-	*Updated "Translocators" info: Added source
+	*Updated "Translocator" name and info: Now "Translocators", Added source
 	*Updated "Fossils and Archeology Revival" info: Added source
-	*Updated "Greg's Lighting" description and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's Lighting" description and authors: Renamed "gcewing" to "Greg_Ewing"
 	*Updated "Greg's SG Craft" description
 	*Updated "HD Skins and Cloaks" link and info: Added source
-	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
-	*Updated "IronChests" link
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
 	*Updated "Magic Bees" info: Added source
-	*Updated "Metallurgy 3": Updated source, Authors names
-	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
+	*Updated "Metallurgy 3" authors and info: Updated source
+	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
 	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
-	*Updated "Enchanting Plus": Updated source
+	*Updated "Enchanting Plus" info: Updated source
 	*Updated "Additional Pipes" info: Added source
 	+Added "Falling Meteors Mod"
 	+Added "Wireless Redstone: Chicken Bones Edition"

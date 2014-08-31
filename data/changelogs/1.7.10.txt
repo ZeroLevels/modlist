@@ -1,10 +1,9 @@
 (August/31/2014)
 	*Updated "Ender Storage" info: Added source
 	*Updated "Not Enough Items" info: Added source
-	*Updated "Translocator" name: Now "Translocators"
-	*Updated "Translocators" info: Added source
-	*Updated "IronChests": Updated source, Author name and link
-	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
+	*Updated "Translocator" name and info: Now "Translocators", Added source
+	*Updated "IronChests" authors and info: Updated source
+	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
 	+Added "Fossils and Archeology Revival"
 	+Added "Falling Meteors Mod"
 	+Added "FinndusFillies"
@@ -29,7 +28,7 @@
 	+Added "ObsidiPlates"
 	+Added "Turbo"
 	+Added "Bio Materials"
-	+Added "IC2 Tweaks - Portable Teleporters!!!"
+	+Added "IC2 Tweaks"
 	+Added "IHL Tools & Machines"
 	+Added "Backpack HUD"
 	+Added "EnetBridge"

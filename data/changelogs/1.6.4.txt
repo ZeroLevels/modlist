@@ -2,18 +2,16 @@
 	*Updated "ChickenChunks" info: Added source
 	*Updated "Ender Storage" info: Added source
 	*Updated "Not Enough Items" info: Added source
-	*Updated "Translocator" name: Now "Translocators"
-	*Updated "Translocators" info: Added source
+	*Updated "Translocator" name and info: Now "Translocators", Added source
 	*Updated "HD Skins and Cloaks" link and info: Added source
-	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
-	*Updated "IronChests" link
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
 	*Updated "Magic Bees" info: Added source
-	*Updated "Metallurgy 3": Updated source, Authors names
-	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
+	*Updated "Metallurgy 3" authors and info: Updated source
+	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
 	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
 	*Updated "Enchanting Plus": Updated source
 	*Updated "SimpleOres" name: Now "SimpleOres 2"
-	*Updated "Power Converters" authors: Added portablejim and info: Added source
+	*Updated "Power Converters" authors and info: Added portablejim, Added source
 	*Updated "Additional Pipes" info: Added source
 	+Added "Fossils and Archeology Revival"
 	+Added "Ex Nihilo"
@@ -42,8 +40,8 @@
 	+Added "Resonant Induction"
 	+Added "Resonant Engine"
 	+Added "Modular Force Field System"
-	-Removed "Lantern Mod" by FLUFFY, use a replacement by -Reaper-
-	-Removed "Calclavia Core": Download no longer available (Replaced with Resonant Engine)
+	-Removed "Lantern Mod" by FLUFFY: No longer available, alternative version by -Reaper- is available
+	-Removed "Calclavia Core": Download no longer available - replaced with Resonant Engine
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
@@ -65,7 +63,7 @@
 	+Added "Click Mining Fix Fix"
 	+Added "Combo Armors"
 	+Added "Custom Ore Generation: First Revival"
-	+Added "Enhanced Books": Not really discontinued
+	+Added "Enhanced Books"
 	+Added "EssentialCraft 2"
 	+Added "Gravitation Suite"
 	+Added "GregTech-Addon"

@@ -1,15 +1,14 @@
 (August/31/2014)
 	*Updated "Falling Meteors Mod" info: Added source
-	*Updated "Greg's Blocks" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
-	*Updated "Greg's Lighting" description and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's Blocks" description, authors and info: Renamed "gcewing" to "Greg_Ewing", Added source
+	*Updated "Greg's Lighting" description and authors: Renamed "gcewing" to "Greg_Ewing"
 	*Updated "Greg's Prospecting" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
 	*Updated "Hawk's Machinery" description and info: Added source
 	*Updated "HD Skins and Cloaks" link and info: Added source
-	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
 	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from author)
 	*Updated "InfiCraft" info: Added source (Discontinued, no future updates from author)
-	*Updated "IronChests" link
-	*Updated "Enchanting Plus": Updated source
+	*Updated "Enchanting Plus" info: Updated source
 	+Added "ChickenChunks"
 	+Added "CodeChickenCore"
 	+Added "Ender Storage"

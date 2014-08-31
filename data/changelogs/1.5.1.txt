@@ -5,13 +5,12 @@
 	*Updated "Falling Meteors Mod" info: Added source
 	*Updated "Greg's Lighting" description and authors: renamed "gcewing" to "Greg_Ewing"
 	*Updated "Greg's SG Craft" description
-	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
 	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
-	*Updated "IronChests" link
 	*Updated "LavaBoat" info: Added source
 	*Updated "Magic Bees" info: Added source
-	*Updated "Metallurgy 3": Updated source, Authors names
-	*Updated "Enchanting Plus": Updated source
+	*Updated "Metallurgy 3" authors and info: Updated source
+	*Updated "Enchanting Plus" info: Updated source
 	+Added "Greg's Blocks"
 	+Added "Greg's Prospecting"
 	+Added "Whole Tree Axe"

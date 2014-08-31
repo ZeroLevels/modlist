@@ -2,10 +2,9 @@
 	*Updated "ChickenChunks" info: Added source
 	*Updated "Ender Storage" info: Added source
 	*Updated "Not Enough Items" info: Added source
-	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
 	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
-	*Updated "IronChests" link
-	*Updated "Enchanting Plus": Updated source
+	*Updated "Enchanting Plus" info: Updated source
 	+Added "FPS++"
 	+Added "Multi Page Chest"
 	+Added "Whole Tree Axe"

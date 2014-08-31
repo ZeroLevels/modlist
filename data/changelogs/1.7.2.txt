@@ -1,8 +1,8 @@
 (August/31/2014)
 	*Updated "Ender Storage" info: Added source
 	*Updated "Not Enough Items" info: Added source
-	*Updated "IronChests": Updated source, Author name and link
-	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
+	*Updated "IronChests" authors and info: Updated source
+	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
 	*Updated "Enchanting Plus": Updated source
 	+Added "Fossils and Archeology Revival"
 	+Added "Falling Meteors Mod"

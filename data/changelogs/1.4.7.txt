@@ -2,26 +2,24 @@
 	*Updated "ChickenChunks" info: Added source
 	*Updated "Ender Storage" info: Added source
 	*Updated "Not Enough Items" info: Added source
-	*Updated "Translocator" name: Now "Translocators"
-	*Updated "Translocators" info: Added source
+	*Updated "Translocator" name and info: Now "Translocators", Added source
 	*Updated "Fossils and Archeology Revival" info: Added source
 	*Updated "Falling Meteors Mod" info: Added source
-	*Updated "Greg's Blocks" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
-	*Updated "Greg's Lighting" description and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's Blocks" description, authors and info: Renamed "gcewing" to "Greg_Ewing", Added source
+	*Updated "Greg's Lighting" description and authors: Renamed "gcewing" to "Greg_Ewing"
 	*Updated "Greg's Prospecting" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
 	*Updated "Greg's SG Craft" description
 	*Updated "HD Skins and Cloaks" link and info: Added source
 	*Updated "Huge Trees are Huge" info: Added source
-	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
 	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
 	*Updated "Improved First Person" info: No longer requires "Player API"
 	*Updated "InfiCraft" info: Added source (Discontinued, no future updates from author)
-	*Updated "IronChests" link
 	*Updated "Magic Bees" info: Added source
 	*Updated "BiomeGenerators" dependencies info
 	*Updated "GoldenOrb" dependencies info
 	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
-	*Updated "Enchanting Plus": Updated source
+	*Updated "Enchanting Plus" info: Updated source
 	*Updated "Additional Pipes" info: Added source
 	+Added "Whole Tree Axe"
 	+Added "Chest Transporter"
