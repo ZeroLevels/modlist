@@ -14,6 +14,8 @@
 	*Updated "Metallurgy 3": Updated source, Authors names
 	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
 	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
+	*Updated "Enchanting Plus": Updated source
+	*Updated "Additional Pipes" info: Added source
 	+Added "Falling Meteors Mod"
 	+Added "Wireless Redstone: Chicken Bones Edition"
 	+Added "Greg's Blocks"
@@ -23,6 +25,9 @@
 	+Added "Modular Force Field System"
 	+Added "Mo' Food and Crops"
 	+Added "More Enchantments"
+	+Added "ATG - Alternate Terrain Generation"
+	+Added "Sophisticated Wolves"
+	+Added "NEI Addons"
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad

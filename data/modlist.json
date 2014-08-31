@@ -79,6 +79,7 @@
 "link":"http://bit.ly/1fMO3YI",
 "desc":"Adds additional piping options such as teleport pipes.",
 "author":["tcooc"],
+"source":"https://github.com/tcooc/AdditionalPipesBC",
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
@@ -123,6 +124,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+
+},{
+
+"name":"Advanced Generators",
+"link":"http://bdew.net/generators/",
+"desc":"Free Form Multi Block Modular Multi System Power Generators. Can produce RF, MJ and EU. Run on various liquid fuel types",
+"author":["bdew"],
+"source":"https://github.com/bdew/generators",
+"type":["Universal"],
+"dependencies":["Forge Required","BDLib"],
+"versions":["1.7.10"]
 
 },{
 
@@ -567,6 +579,16 @@
 
 },{
 
+"name":"Animals+",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282011-animals-sharks-piranhas-and-more-100-000-downloads",
+"desc":"Has travelling the Minecraft worlds gotten a tad stale for you? A lack of unique creatures, maybe? If so, Animals+ not only solves this problem, it even makes you forget you ever had it. With Animals+ you can see huge whales majestically swimming in the vast oceans. Snakes are in lurking in every dark corner in the overgrown forests. Meanwhile, in the graceful plains there are crickets scurrying at your feet and butterflies dancing around you.",
+"author":["Click_Me"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Animated Player",
 "link":"http://bit.ly/14rfMZG",
 "desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
@@ -945,16 +967,6 @@
 
 },{
 
-"name":"Assembly Line",
-"link":"http://calclavia.com/universalelectricity/?m=18&p=downloads",
-"desc":"",
-"author":["Calclavia"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
 "name":"AstralCraft",
 "link":"http://bit.ly/ZgbXys",
 "desc":"Once upon a time, before Steve came and before creepers could be seen resting from the daylight in the caves, there was a race of intelligent creatures, that inhabited this world. It was a technological race, which managed to advance in many superior technologies. But, due to unclear circumstances, the race disappeared, leaving nothing but mysterious traces of its existence. Now it's up to you to uncover the mystery and obtain the technologies of the ancients...",
@@ -962,6 +974,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"ATG - Alternate Terrain Generation",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291067-atg-alternate-terrain-generation",
+"desc":"ATG adds a new world type which entirely replaces the base method of creating the world.",
+"author":["TTFTCUTS"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -1358,6 +1380,18 @@
 
 },{
 
+"name":"BDLib",
+"other":"(Dependency)",
+"link":"http://bdew.net/gendustry/",
+"desc":"Required library for some bdew mods.",
+"author":["bdew"],
+"source":"https://github.com/bdew/bdlib",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Beam Me Up!",
 "link":"http://bit.ly/UnjZGc",
 "desc":"",
@@ -1681,16 +1715,6 @@
 "type":["Universal"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
-
-},{
-
-"name":"Better Third Person",
-"link":"http://bit.ly/ZtEOEa",
-"desc":"",
-"author":["QuantumMonkey"],
-"type":["Client"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.4.7"]
 
 },{
 
@@ -2389,16 +2413,6 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1"]
-
-},{
-
-"name":"Calclavia Core",
-"link":"http://bit.ly/1h0jtt8",
-"desc":"Required dependency for most of Calclavia's mods.",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4"]
 
 },{
 
@@ -5177,10 +5191,22 @@
 "link":"http://bit.ly/GIvqWc",
 "desc":"Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.",
 "author":["mssodin28"],
-"source":"https://github.com/odininon/EnchantingPlus-Scala",
+"source":"https://github.com/odininon/EnchantingPlus",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"Enchanting Plus",
+"other":"(Beta)",
+"link":"http://bit.ly/GIvqWc",
+"desc":"Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.",
+"author":["mssodin28"],
+"source":"https://github.com/odininon/EnchantingPlus-Scala",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -5426,7 +5452,7 @@
 
 "name":"Enhanced Books",
 "link":"https://bitbucket.org/Zuxelus/enhanced-books/downloads",
-"desc":"Adds blocks such as storage bookshelves. Discontinued.",
+"desc":"Adds blocks such as storage bookshelves.",
 "author":["zombiepig333","Zuxelus"],
 "source":"https://bitbucket.org/Zuxelus/enhanced-books/src",
 "type":["Universal"],
@@ -5484,6 +5510,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"EnviroMine",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048-enviromine-a-little-bit-of-realism-1-7-10-new",
+"desc":"A little bit of realism. New physics, Temperature, Hydration and more!",
+"author":["TimbuckTato","Funwayguy","GenDeathrow","thislooksfun"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -6426,16 +6462,6 @@
 
 },{
 
-"name":"Fluid Mechanics",
-"link":"http://bit.ly/Wug20i",
-"desc":"As for the Fluid part of the name, this mod is about managing and moving various liquids as needed. To do this, the mod adds pipes, tanks, and machines to handle the job. However, as for the Mechanics part of the name, this mod also offers ways to do simple mechanical power.",
-"author":["DarkGuardsman"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5"]
-
-},{
-
 "name":"Fly Mod",
 "link":"http://bit.ly/cjbmodsr",
 "desc":"Lets you fly by a simple button press. (Default F Key). It is possible to change the fly speed. There is also a button that makes you run faster (Press/Hold Left-Shift Key by default). You can also enable to fly up/down by using the mouse (disabled by default).",
@@ -6834,6 +6860,16 @@
 
 },{
 
+"name":"Gendustry",
+"link":"http://bdew.net/gendustry/",
+"desc":"Advanced powered apiary with tons of upgrades. Genetic manipulation of bees, trees and butterflies. Forced mutation. Construction of new organisms from genetic templates.",
+"author":["bdew"],
+"type":["Universal"],
+"dependencies":["Forge Required","BDLib","Forestry"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"GenCreator",
 "link":"http://bit.ly/11s6FCf",
 "desc":"A mod inspired by AtomicStryker's Ruins mod, but instead allows you to create the WorldGen structures from inside the game.",
@@ -7097,6 +7133,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.6.1","1.5.2","1.5.1"]
+
+},{
+
+"name":"GregArmor Addon 2",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10718",
+"desc":"An addon for GregTech-Addon. Adds meta-armors.",
+"author":["Reloque"],
+"type":["Universal"],
+"dependencies":["Forge Required","GregTech-Addon"],
+"versions":["1.7.2"]
 
 },{
 
@@ -8288,6 +8334,16 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Iridium Mod",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10700",
+"desc":"Adds iridium ore to the world generation.",
+"author":["DevilDead"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -10552,6 +10608,16 @@
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.5.2","1.5.1","1.4.7"]
 
+"name":"Modular Force Field System",
+"other":"(MFFS)",
+"link":"http://bit.ly/1rofdsN",
+"desc":"Adds force fields, high-tech machinery and defensive measures.",
+"author":["Calclavia"],
+"source":"https://github.com/calclavia/Modular-Force-Field-System",
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity","Resonant Engine"],
+"versions":["1.6.4"]
+
 },{
 
 "name":"Modular Force Field System",
@@ -11699,6 +11765,17 @@
 
 },{
 
+"name":"NEI Addons",
+"link":"http://bdew.net/neiaddons/",
+"desc":"Included addons: Forestry, Botany, Extra Bees, Applied Energistics, Misc Peripherals, Ex Nihilo.",
+"author":["bdew"],
+"source":"https://github.com/bdew/neiaddons",
+"type":["Universal"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
 "name":"NEI Plugins",
 "link":"http://bit.ly/14h8yXi",
 "desc":"Plugin for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct support in chicken_bones' Not Enough Items (NEI).",
@@ -11706,6 +11783,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"NEI Plugins",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294687-toniuss-mods-simply-jetpacks-nei-plugins",
+"desc":"Plugin for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct support in chicken_bones' Not Enough Items (NEI).",
+"author":["mistaqur","tonius11"],
+"type":["Universal"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11822,7 +11909,7 @@
 "source":"https://github.com/twothe/newdawn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -11853,6 +11940,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"No Cubes",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294958-no-cubes-breaks-the-laws-of-minecraft-option-gui",
+"desc":"No Cubes gives your Minecraft a new feeling of realism; a feeling of fear and happiness. Discover round caves, walk through fluent landscapes... in Minecraft. It will be an experience you've never had before.",
+"author":["Click_Me"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -13030,12 +13127,13 @@
 },{
 
 "name":"Power Converters",
-"link":"http://bit.ly/1gUxBqb",
-"desc":"A way to wrangle all those power systems into one central location. PowerConverters understands IC2, BuildCraft, and Railcraft steam.  These builds maintained by samrg472 while power crystals is on hiatus.",
-"author":["samrg472"],
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293983-powerconverters-originally-by-powercrystals",
+"desc":"A way to wrangle all those power systems into one central location. PowerConverters understands IC2, BuildCraft, Factorization, Thermal Expansion and Railcraft steam. These builds maintained by samrg472 and portablejim while power crystals is on hiatus.",
+"author":["samrg472","portablejim"],
+"source":"https://github.com/portablejim/PowerConverters",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -13125,6 +13223,16 @@
 
 },{
 
+"name":"Power Utilites",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10494",
+"desc":"",
+"author":["SeNtiMeL"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Prayers",
 "link":"http://bit.ly/1ccuDYb",
 "desc":"Created for the Ultra Hard Survival pack. The goal is to fill the gaping hole that is early-game regeneration with a limited item. It's not spammable, but until you get potions it is your only option for healing.",
@@ -13184,6 +13292,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"Pressure Pipes",
+"link":"http://bdew.net/pressure/",
+"desc":"Transfer any amount of fluid. Unlimited input/output. Works with all forge fluids and all pipe/tanks from other mods. Can transfer multiple liquids on the same pipe. Filtering by fluid type on input and outputs. Multiple inputs and outputs on the same pipe. Smart distribution between valid outputs",
+"author":["bdew"],
+"type":["Universal"],
+"dependencies":["Forge Required","BDLib"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -13912,10 +14030,21 @@
 },{
 
 "name":"Resonant Engine",
+"link":"http://bit.ly/1roaxTy",
+"desc":"A modding framework used to create blocks and prefabricated code.",
+"author":["Calclavia","DarkGuardsman"],
+"source":"https://github.com/Universal-Electricity/Resonant-Engine",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Resonant Engine",
 "other":"(Development)",
 "link":"http://bit.ly/1roaxTy",
 "desc":"A modding framework used to create blocks and prefabricated code.",
-"author":["Calclavia"],
+"author":["Calclavia","DarkGuardsman"],
 "source":"https://github.com/Universal-Electricity/Resonant-Engine",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13926,19 +14055,9 @@
 "name":"Resonant Induction",
 "link":"http://bit.ly/1h26EkD",
 "desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","aidancbrady","Unpairedbracket"],
+"author":["Calclavia","DarkGuardsman","Alex_hawks","Maxwolf"],
 "type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","ForgeMultipart"],
-"versions":["1.6.2"]
-
-},{
-
-"name":"Resonant Induction",
-"link":"http://bit.ly/1h26EkD",
-"desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","aidancbrady","Unpairedbracket"],
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","Calclavia Core","ForgeMultipart"],
+"dependencies":["Forge Required","Universal Electricity","ForgeMultipart","Resonant Engine"],
 "versions":["1.6.4"]
 
 },{
@@ -14460,7 +14579,17 @@
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"SimpleOres 2",
+"link":"http://bit.ly/U7gLWK",
+"desc":"Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no uber tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.",
+"author":["AleXndrTheGr8st"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -14906,7 +15035,17 @@
 "author":["metroidfood"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.1","1.4.7","1.4.5"]
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Sophisticated Wolves",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288717-nightkoshs-mods",
+"desc":"A mod that aims to improve wolves in the games through a series of gameplay tweaks, AI improvements, and added features. The focus is not to have overpowered items or crazy abilities, but rather balanced additions that make sense in the world of MC. Essentially, wolves should be able to better respond to your actions and take care of themselves, so you don't have to consider them a liability when mining, exploring or fighting.",
+"author":["NightKosh"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -14960,6 +15099,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Sound Filters",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2158080-sound-filters-a-client-side-mod-adds-reverb-to",
+"desc":"It adds 3 things right now: reverb in caves, muted sounds when underwater/in lava and, and muted sounds when the sound source is behind a wall.",
+"author":["Tmtravlr"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15876,7 +16025,7 @@
 "author":["Need4Poop402"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -15887,6 +16036,16 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"The bearded potato!",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10618",
+"desc":"This addon only adds a electric beacon (but it isn't a beacon as it doesn't have the ray-to-the-sky! [Actual beacons: Soon™])",
+"author":["MistrX"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.2"]
 
 },{
 

@@ -11,6 +11,10 @@
 	*Updated "Metallurgy 3": Updated source, Authors names
 	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
 	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
+	*Updated "Enchanting Plus": Updated source
+	*Updated "SimpleOres" name: Now "SimpleOres 2"
+	*Updated "Power Converters" authors: Added portablejim and info: Added source
+	*Updated "Additional Pipes" info: Added source
 	+Added "Fossils and Archeology Revival"
 	+Added "Ex Nihilo"
 	+Added "Falling Meteors Mod"
@@ -26,7 +30,20 @@
 	+Added "NumiRP"
 	+Added "Compact WaterMills"
 	+Added "IC2 Classic"
+	+Added "EnviroMine"
+	+Added "No Cubes"
+	+Added "ATG - Alternate Terrain Generation"
+	+Added "Sound Filters"
+	+Added "NEI Addons"
+	+Added "BDLib"
+	+Added "Gendustry"
+	+Added "Pressure Pipes"
+	+Added "Power Utilites"
+	+Added "Resonant Induction"
+	+Added "Resonant Engine"
+	+Added "Modular Force Field System"
 	-Removed "Lantern Mod" by FLUFFY, use a replacement by -Reaper-
+	-Removed "Calclavia Core": Download no longer available (Replaced with Resonant Engine)
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad

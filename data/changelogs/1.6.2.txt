@@ -11,6 +11,9 @@
 	*Updated "Metallurgy 3": Updated source, Authors names
 	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
 	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
+	*Updated "Enchanting Plus": Updated source
+	*Updated "SimpleOres" name: Now "SimpleOres 2"
+	*Updated "Additional Pipes" info: Added source
 	+Added "Forgotten Nature"
 	+Added "Falling Meteors Mod"
 	+Added "Greg's Blocks"
@@ -22,6 +25,9 @@
 	+Added "Magic Carpet Mod"
 	+Added "Moar Achievements Redux"
 	+Added "More Enchantments"
+	+Added "ATG - Alternate Terrain Generation"
+	+Added "Sophisticated Wolves"
+	+Added "NEI Addons"
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad

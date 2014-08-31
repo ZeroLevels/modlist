@@ -5,10 +5,12 @@
 	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
 	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
 	*Updated "IronChests" link
+	*Updated "Enchanting Plus": Updated source
 	+Added "FPS++"
 	+Added "Multi Page Chest"
 	+Added "Whole Tree Axe"
 	+Added "Chest Transporter"
+	-Removed "Fluid Mechanics": Download no longer available (Mod merged with Assembly Line)
 
 (August/30/2014)
 	*Updated "Elemental Creepers" info: Added source
