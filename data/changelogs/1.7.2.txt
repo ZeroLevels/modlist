@@ -4,6 +4,10 @@
 	*Updated "IronChests" authors and info: Updated source
 	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
 	*Updated "Enchanting Plus": Updated source
+	*Updated "Advanced Power Management" authors, description and source
+	*Updated "Combo Armors" authors, description and source
+	*Updated "Nuclear Control 2" description
+	*Updated "Aquaculture" info: Added source
 	+Added "Fossils and Archeology Revival"
 	+Added "Falling Meteors Mod"
 	+Added "Greg's Blocks"
@@ -37,6 +41,8 @@
 	+Added "The Barrels Mod"
 	+Added "SimpleOres 2"
 	+Added "GregArmor Addon 2"
+	+Added "Backpack Renderer addon"
+	+Added "Atum: Journey Into The Sands"
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad

@@ -13,6 +13,9 @@
 	*Updated "SimpleOres" name: Now "SimpleOres 2"
 	*Updated "Power Converters" authors and info: Added portablejim, Added source
 	*Updated "Additional Pipes" info: Added source
+	*Updated "Combo Armors" authors, description and source
+	*Updated "Agriculture" info: Added source
+	*Updated "Aquaculture" info: Added source
 	+Added "Fossils and Archeology Revival"
 	+Added "Ex Nihilo"
 	+Added "Falling Meteors Mod"
@@ -40,6 +43,8 @@
 	+Added "Resonant Induction"
 	+Added "Resonant Engine"
 	+Added "Modular Force Field System"
+	+Added "Backpack Renderer addon"
+	+Added "Atum: Journey Into The Sands"
 	-Removed "Lantern Mod" by FLUFFY: No longer available, alternative version by -Reaper- is available
 	-Removed "Calclavia Core": Download no longer available - replaced with Resonant Engine
 
