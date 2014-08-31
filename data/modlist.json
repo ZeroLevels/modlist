@@ -79,6 +79,7 @@
 "link":"http://bit.ly/1fMO3YI",
 "desc":"Adds additional piping options such as teleport pipes.",
 "author":["tcooc"],
+"source":"https://github.com/tcooc/AdditionalPipesBC",
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
@@ -123,6 +124,27 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+
+},{
+
+"name":"Advanced Generators",
+"link":"http://bit.ly/Y3bsP1",
+"desc":"Adds free-form multiblock power generators which can produce RF, MJ and EU. Run on various liquid fuel types.",
+"author":["bdew"],
+"source":"https://github.com/bdew/generators",
+"type":["Universal"],
+"dependencies":["Forge Required","BDLib"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Advanced Generators 2",
+"link":"http://bit.ly/1pwq1pC",
+"desc":"Adds new generators (Slag, Thermal, Turbine Solar and Slow Grinders) and other related blocks and items.",
+"author":["F4113nb34st"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","F4113nC0r3"],
+"versions":["1.4.7"]
 
 },{
 
@@ -557,6 +579,16 @@
 
 },{
 
+"name":"Animals+",
+"link":"http://bit.ly/1lCFqE0",
+"desc":"Adds animal mobs such as whales, snakes, crickets and sharks.",
+"author":["Click_Me"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Animated Player",
 "link":"http://bit.ly/14rfMZG",
 "desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
@@ -935,16 +967,6 @@
 
 },{
 
-"name":"Assembly Line",
-"link":"http://calclavia.com/universalelectricity/?m=18&p=downloads",
-"desc":"",
-"author":["Calclavia"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
 "name":"AstralCraft",
 "link":"http://bit.ly/ZgbXys",
 "desc":"Once upon a time, before Steve came and before creepers could be seen resting from the daylight in the caves, there was a race of intelligent creatures, that inhabited this world. It was a technological race, which managed to advance in many superior technologies. But, due to unclear circumstances, the race disappeared, leaving nothing but mysterious traces of its existence. Now it's up to you to uncover the mystery and obtain the technologies of the ancients...",
@@ -952,6 +974,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Alternate Terrain Generation",
+"other":"(ATG)",
+"link":"http://bit.ly/1sSOMKn",
+"desc":"Adds a new world type which considers height, temperature, and moisture to derive biomes.",
+"author":["TTFTCUTS"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -1161,13 +1194,13 @@
 
 },{
 
-"name":"Backpack HUD",
+"name":"IC2 Backpack HUD",
 "link":"http://bit.ly/Tqg4ra",
 "desc":"Draws an on-screen HUD that enables you to view armor item durability outside of the player inventory screen. The HUD can be positioned next to the hotbar on either side, or in any corner.",
 "author":["Mineshopper"],
 "type":["Client"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -1345,6 +1378,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"BDLib",
+"other":"(Dependency)",
+"link":"http://bit.ly/Y3ehQd",
+"desc":"Required library for some bdew mods.",
+"author":["bdew"],
+"source":"https://github.com/bdew/bdlib",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -1674,16 +1719,6 @@
 
 },{
 
-"name":"Better Third Person",
-"link":"http://bit.ly/ZtEOEa",
-"desc":"",
-"author":["QuantumMonkey"],
-"type":["Client"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.4.7"]
-
-},{
-
 "name":"Better Villages Mod",
 "link":"http://bit.ly/W5Qdde",
 "desc":"Improves villages in the following ways:<ul><li>Makes villages more common.</li><li>Villages spawn in a new cluster idea. If one village can spawn a couple more will spawn near-bye. (Can get completely ridiculous on flat worlds, See images for examples)</li><li>Villages can spawn in almost every biome.</li><li>Made village torch look cooler.</li><li>Made both type of wheat fields look better with a surrounding fence and torches.</li><li>Replace the dirt in the wood hut with cobblestone and made the surrounding highlight smooth stone.</li></ul>",
@@ -1823,8 +1858,8 @@
 "link":"http://bit.ly/XyJTXD",
 "desc":"",
 "author":["F4113nb34st"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required","IndustrialCraft 2"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","F4113nC0r3"],
 "versions":["1.4.7"]
 
 },{
@@ -1869,6 +1904,26 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Bio Materials",
+"link":"http://bit.ly/1pwuYic",
+"desc":"Adds new recipes to produce Industrial Diamonds out of carbon materials.",
+"author":["F4113nb34st"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","F4113nC0r3"],
+"versions":["1.4.7"]
+
+},{
+
+"name":"Bio Materials",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10801",
+"desc":"Adds new recipes to produce Industrial Diamonds out of carbon materials.",
+"author":["F4113nb34st"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","Turbo"],
+"versions":["1.7.10"]
 
 },{
 
@@ -2362,16 +2417,6 @@
 
 },{
 
-"name":"Calclavia Core",
-"link":"http://bit.ly/1h0jtt8",
-"desc":"Required dependency for most of Calclavia's mods.",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
 "name":"Calendar GUI",
 "link":"http://bit.ly/ZX0NOu",
 "desc":"Shows the real date and time of your minecraft world and adds two new items: The calendar and watch. It also adds a few chat commands that give better control over the time.",
@@ -2690,17 +2735,7 @@
 "author":["CubeX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Chickenbones Mods",
-"link":"http://bit.ly/cb-core",
-"desc":"",
-"author":["chicken_bones"],
-"type":["N/A"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -2708,9 +2743,10 @@
 "link":"http://bit.ly/IRSg84",
 "desc":"Adds a block called a chunkloader, when placed it will keep chunks around it loaded even if no players are nearby or even online. So now your plants can grow and your automatic quarries can run, even when you're not around. Works in singleplayer as well.",
 "author":["chicken_bones"],
+"source":"https://github.com/Chicken-Bones/ChickenChunks",
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -3041,7 +3077,7 @@
 "source":"https://github.com/Chicken-Bones/CodeChickenLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -3335,6 +3371,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Compact Watermills",
+"link":"http://bit.ly/1qXRK1F",
+"desc":"Adds compact Watermills. Inspired by CompactSolars/Advanced Solars.",
+"author":["luacs1998"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -3964,16 +4010,6 @@
 
 },{
 
-"name":"CubeX2's Mods",
-"link":"http://bit.ly/13dry5y",
-"desc":"",
-"author":["CubeX2"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7","1.3.2"]
-
-},{
-
 "name":"CUDA Shaders",
 "link":"http://bit.ly/1lywPBh",
 "desc":"Shaders designed to run on both older and modern PCs. Improves lighting and shadows.",
@@ -4113,7 +4149,7 @@
 "author":["CubeX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.4.7","1.3.2"]
 
 },{
 
@@ -4357,6 +4393,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"DeFence",
+"link":"http://bit.ly/1sSRjnE",
+"desc":"Adds chain link fences which can be electrified to increase damage rate.",
+"author":["F4113nb34st"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","F4113nC0r3"],
+"versions":["1.4.7"]
 
 },{
 
@@ -4968,6 +5014,17 @@
 
 },{
 
+"name":"Electric Fishing Rod",
+"link":"http://bit.ly/1pYqi3W",
+"desc":"Adds tesla coils which electrocute fish and magnetizers which attract fish, controlled by advanced circuits.",
+"author":["Zuxelus"],
+"source":"https://bitbucket.org/Zuxelus/ic2_electric_fishing_rod/src",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Elemental Arrows",
 "link":"http://bit.ly/WnSwBj",
 "desc":"Adds four new types of arrows; explosive arrows, fire arrows, ice arrows, and a joke weapon, egg arrows.",
@@ -5135,10 +5192,22 @@
 "link":"http://bit.ly/GIvqWc",
 "desc":"Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.",
 "author":["mssodin28"],
-"source":"https://github.com/odininon/EnchantingPlus-Scala",
+"source":"https://github.com/odininon/EnchantingPlus",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"Enchanting Plus",
+"other":"(Beta)",
+"link":"http://bit.ly/GIvqWc",
+"desc":"Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.",
+"author":["mssodin28"],
+"source":"https://github.com/odininon/EnchantingPlus-Scala",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -5240,9 +5309,10 @@
 "link":"http://bit.ly/UvpH6y",
 "desc":"EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch.",
 "author":["chicken_bones"],
+"source":"https://github.com/Chicken-Bones/EnderStorage",
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -5328,6 +5398,17 @@
 
 },{
 
+"name":"EnetBridge",
+"other":"(Experimental)",
+"link":"http://bit.ly/1B7FwqD",
+"desc":"Allows use of RF, MJ and FZ Charge APIs from the IC2 energy net. Transitions without converter blocks using the the IC2 energy net API.",
+"author":["Player"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Engineered Farm",
 "link":"http://bit.ly/16lJqz9",
 "desc":"Adds several machines that allow you alternate ways to harvest your vanilla minecraft ores and minerals.",
@@ -5367,6 +5448,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Enhanced Books",
+"link":"http://bit.ly/1tlKqiI",
+"desc":"Adds blocks such as storage bookshelves.",
+"author":["zombiepig333","Zuxelus"],
+"source":"https://bitbucket.org/Zuxelus/enhanced-books/src",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -5419,6 +5511,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"EnviroMine",
+"link":"http://bit.ly/1vYktny",
+"desc":"Adds more realistic mechanics such as physics, temperature, hydration and more.",
+"author":["TimbuckTato","Funwayguy","GenDeathrow","thislooksfun"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -5553,7 +5655,7 @@
 "source":"https://bitbucket.org/Erasmus_Crowley/ex-nihilo",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -5887,11 +5989,12 @@
 
 },{
 
-"name":"F4113nb34st's Addons",
-"link":"http://bit.ly/10uwXrr",
-"desc":"",
+"name":"F4113nC0r3",
+"other":"(Dependency)",
+"link":"http://bit.ly/1pgT3n0",
+"desc":"Required for most of F4113nb34st's mods.",
 "author":["F4113nb34st"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
 
@@ -5921,9 +6024,10 @@
 "link":"http://bit.ly/WCTavC",
 "desc":"Meteors Fall to the ground and explode, forming craters that house various minerals from space which can be used for a variety of things, such as new tools and armour. Also adds meteor shields to protect yourself with.",
 "author":["AlexDGr8r"],
+"source":"https://github.com/AlexDGr8r/MeteorsMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -6148,7 +6252,7 @@
 "author":["Myrathi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.10","1.6.4","1.6.2"]
 
 },{
 
@@ -6241,7 +6345,7 @@
 "author":["Myrathi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -6356,16 +6460,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
-
-},{
-
-"name":"Fluid Mechanics",
-"link":"http://bit.ly/Wug20i",
-"desc":"As for the Fluid part of the name, this mod is about managing and moving various liquids as needed. To do this, the mod adds pipes, tanks, and machines to handle the job. However, as for the Mechanics part of the name, this mod also offers ways to do simple mechanical power.",
-"author":["DarkGuardsman"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5"]
 
 },{
 
@@ -6493,7 +6587,7 @@
 "author":["Nightshade_Proleath"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.6.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -6512,9 +6606,10 @@
 "link":"http://bit.ly/ZJr4S7",
 "desc":"Adds fossils, dinosaurs, and tools for re-creating (cloning) them.",
 "author":["4f6f3b"],
+"source":"https://github.com/4f6f3b/FossilArcheology",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.4.7"]
 
 },{
 
@@ -6546,7 +6641,7 @@
 "author":["fishtaco567"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.7"]
+"versions":["1.5","1.4.7"]
 
 },{
 
@@ -6766,6 +6861,16 @@
 
 },{
 
+"name":"Gendustry",
+"link":"http://bit.ly/Y3ehQd",
+"desc":"Features upgradable powered apiaries, genetic manipulation, and mutation. Allows construction of new organisms from genetic templates.",
+"author":["bdew"],
+"type":["Universal"],
+"dependencies":["Forge Required","BDLib","Forestry"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"GenCreator",
 "link":"http://bit.ly/11s6FCf",
 "desc":"A mod inspired by AtomicStryker's Ruins mod, but instead allows you to create the WorldGen structures from inside the game.",
@@ -6945,8 +7050,8 @@
 "link":"http://bit.ly/ZPWbdH",
 "desc":"",
 "author":["F4113nb34st"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required","IndustrialCraft 2"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","F4113nC0r3"],
 "versions":["1.4.7"]
 
 },{
@@ -7032,44 +7137,56 @@
 
 },{
 
+"name":"GregArmor Addon 2",
+"link":"http://bit.ly/1lCIRKS",
+"desc":"Adds meta-armors such as suit armors and tinfoil hats.",
+"author":["Reloque"],
+"type":["Universal"],
+"dependencies":["Forge Required","GregTech-Addon"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Greg's Blocks",
 "link":"http://bit.ly/Zfrdvp",
-"desc":"",
-"author":["gcewing"],
-"type":["SSP","SMP"],
+"desc":"Provides a set of sloping blocks for making roofs and other angled structures.",
+"author":["Greg_Ewing"],
+"source":"http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsBlocks/#mozTocId598776",
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
 "name":"Greg's Lighting",
 "link":"http://bit.ly/117MwEs",
-"desc":"",
-"author":["gcewing"],
+"desc":"Provides high-powered floodlights which projects a beam of light up to 64 blocks.",
+"author":["Greg_Ewing"],
 "source":"http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/#mozTocId598776",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
 "name":"Greg's Prospecting",
 "link":"http://bit.ly/UCv9Gu",
-"desc":"",
-"author":["gcewing"],
-"type":["SSP","SMP"],
+"desc":"Adds Slimophones, which helps you track down those elusive slimes; and Mining Radars, which helps you find ores and other materials underground.",
+"author":["Greg_Ewing"],
+"source":"http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsProspecting/",
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
 "name":"Greg's SG Craft",
 "link":"http://bit.ly/10jRF7m",
-"desc":"Provides stargates, SG-1 style.",
+"desc":"This is a mod for the Minecraft. Currently it gives you SG-1 style stargates. In the future, it may include other things from the SG-1 universe.",
 "author":["Greg_Ewing"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -7171,7 +7288,7 @@
 "author":["UncleMion"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -7342,12 +7459,14 @@
 },{
 
 "name":"Hawk's Machinery",
+"other":"(Discontinued)",
 "link":"http://bit.ly/12A5oHW",
-"desc":"",
+"desc":"Adds machinery to be powered with Universal Electricity.",
 "author":["Elusivehawk"],
+"source":"https://github.com/Elusivehawk/Hawks-Machinery",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
+"dependencies":["Forge Required","Universal Electricity"],
+"versions":["1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -7372,12 +7491,12 @@
 },{
 
 "name":"HD Skins and Cloaks",
-"link":"http://bit.ly/VFC2bC",
-"desc":"A Forge CoreMod that gives you complete control over your player skin and cloak. Use any size skin or cloak!",
+"link":"http://bit.ly/1qY1rwQ",
+"desc":"Gives complete control over player skins and cloaks.",
 "author":["denoflions"],
 "source":"https://github.com/denoflionsx/HDSAC",
 "type":["Universal"],
-"dependencies":["Forge Compatible","denLib"],
+"dependencies":["Forge Required","denLib"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
 
 },{
@@ -7449,7 +7568,7 @@
 "author":["burnner_"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -7643,6 +7762,7 @@
 "link":"http://bit.ly/UkXqRU",
 "desc":"",
 "author":["Wrsford"],
+"source":"https://bitbucket.org/master801/huge-trees/src",
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.4.7"]
@@ -7720,10 +7840,32 @@
 
 },{
 
+"name":"IC2 Classic",
+"link":"http://bit.ly/1u2iVst",
+"desc":"Port of the original Industrial Craft 2 from 1.4.7.",
+"author":["immibis"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"IC2 Tweaks",
+"link":"http://bit.ly/1qsm7Mx",
+"desc":"Adds new blocks and items such as a creative EU source and portable teleporters.",
+"author":["F4113nb34st"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","Turbo"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"ICBM",
+"other":"(Discontinued)",
 "link":"http://bit.ly/1h221an",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
-"author":["Calclavia"],
+"author":["Calclavia","DarkGuardsman"],
+"source":"https://github.com/Universal-Electricity/ICBM",
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
@@ -7731,9 +7873,11 @@
 },{
 
 "name":"ICBM",
+"other":"(Discontinued)",
 "link":"http://bit.ly/1h221an",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
-"author":["Calclavia"],
+"author":["Calclavia","DarkGuardsman"],
+"source":"https://github.com/Universal-Electricity/ICBM",
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity","Calclavia Core"],
 "versions":["1.6.4"]
@@ -7762,6 +7906,16 @@
 
 },{
 
+"name":"IHL Tools & Machines",
+"link":"http://bit.ly/1tQejGu",
+"desc":"Features extended water physics, industrial fans and more.",
+"author":["Foghrye4"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Idfix",
 "link":"http://bit.ly/19Ob9oD",
 "desc":"Automatically resolves ID conflicts for blocks, items, and enchantments.",
@@ -7783,10 +7937,12 @@
 },{
 
 "name":"ID Resolver",
-"link":"http://bit.ly/IDResolver",
+"other":"(Discontinued)",
+"link":"http://bit.ly/1neWYRM",
 "desc":"Removes ID conflicts for blocks and items with mods, with extra options for detailed ID Reports and such.",
 "author":["ShaRose"],
-"type":["SSP","SMP"],
+"source":"https://github.com/ShaRose/ID-Resolver",
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.5","1.4.7","1.4.5"]
 
@@ -7902,11 +8058,21 @@
 
 "name":"Improved First Person",
 "link":"http://bit.ly/ZwJBVj",
-"desc":"See bit.ly/rplayerapiEnables rendering of the rest of the body in first person mode, making the game look more realistic and allowing players to see front of the player's model and skin in first person mode. This mod is unfinished and a work in progress.",
+"desc":"Enables rendering of the rest of the body in first person mode, making the game look more realistic and allowing players to see front of the player's model and skin in first person mode.",
 "author":["kes5219"],
 "type":["Client"],
-"dependencies":["Forge Required","Render Player API","Player API"],
-"versions":["1.4.7"]
+"dependencies":["Forge Required","Render Player API"],
+"versions":["1.5.2","1.4.7"]
+
+},{
+
+"name":"Improved First Person",
+"link":"http://bit.ly/1qsn5s8",
+"desc":"Enables rendering of the rest of the body in first person mode, making the game look more realistic and allowing players to see front of the player's model and skin in first person mode.",
+"author":["Zaggy1024"],
+"type":["Client"],
+"dependencies":["Forge Required","Render Player API"],
+"versions":["1.6.4"]
 
 },{
 
@@ -7947,7 +8113,8 @@
 "link":"http://bit.ly/117Nhxo",
 "desc":"",
 "author":["mDiyo"],
-"type":["N/A"],
+"source":"https://github.com/mDiyo/InfiCraft",
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
 
@@ -8171,6 +8338,16 @@
 
 },{
 
+"name":"Iridium Mod",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10700",
+"desc":"Adds iridium ore to the world generation.",
+"author":["DevilDead"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"IronChests",
 "link":"http://bit.ly/ironchests2",
 "desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
@@ -8178,7 +8355,18 @@
 "source":"https://github.com/cpw/ironchest",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"IronChests",
+"link":"http://bit.ly/ironchests2",
+"desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
+"author":["progwml6"],
+"source":"https://github.com/progwml6/ironchest",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -8524,7 +8712,7 @@
 "author":["RebelKeithy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2"]
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -8644,22 +8832,12 @@
 },{
 
 "name":"Lantern Mod",
-"link":"http://bit.ly/15aZxOU",
-"desc":"Adds candles and a portable light-source with 3D model to the game.",
-"author":["FLUFFY"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Lantern Mod",
 "link":"http://bit.ly/OWKVyk",
 "desc":"Adds a lantern which can be carried around and emits light.",
 "author":["-Reaper-"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -8677,9 +8855,10 @@
 "link":"http://bit.ly/Zr3bSi",
 "desc":"Adds a boat made of iron and obsidian that can sail through lava much like standard boats sail through water. When an Iron Boat is placed in water, it sinks (configurable). Great for getting around the nether!",
 "author":["NightKosh"],
+"source":"https://github.com/NightKosh/LavaBoat-mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -9031,6 +9210,17 @@
 
 },{
 
+"name":"Logistics Pipes",
+"other":"(Unstable)",
+"link":"http://bit.ly/12p1tyZ",
+"desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
+"author":["thezorro266"],
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Logitech LCD Application for Minecraft",
 "link":"http://bit.ly/11ZKJBw",
 "desc":"This application for the Logitech GameBoard Series allows you to display Minecraft game information on your GameBoard series LCD panel.",
@@ -9233,9 +9423,21 @@
 "link":"http://bit.ly/UAenLP",
 "desc":"Previously known as ThaumicBees. Adds several new bee species to Forestry that will assist in producing useful items for Thaumcraft. If you love Thaumcraft and Beekeeping, these new species will provide extra resources and benefits to those clever enough to obtain them.",
 "author":["MysteriousAges"],
+"source":"https://bitbucket.org/MysteriousAges/magic-bees/src",
 "type":["Universal"],
 "dependencies":["Forge Required","Forestry"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Magic Bees",
+"link":"http://bit.ly/1pgWkTk",
+"desc":"Previously known as ThaumicBees. Adds several new bee species to Forestry that will assist in producing useful items for Thaumcraft. If you love Thaumcraft and Beekeeping, these new species will provide extra resources and benefits to those clever enough to obtain them.",
+"author":["Arkandos","MysteriousAges"],
+"source":"https://bitbucket.org/Arkandos/magic-bees/src",
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry"],
+"versions":["1.7.10"]
 
 },{
 
@@ -9245,7 +9447,7 @@
 "author":["DrZhark"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1"]
+"versions":["1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -9422,7 +9624,7 @@
 "author":["Kahr"],
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.4","1.6.1","1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.1","1.5.2","1.4.7"]
 
 },{
 
@@ -9551,8 +9753,8 @@
 "name":"Metallurgy 3",
 "link":"http://bit.ly/17aSWTB",
 "desc":"Enhances the basic mining system, adding over 48 new metals such as copper, platinum and ceruclase. Allows a variety of different configurations due to its modular system.",
-"author":["Shadowclaimer"],
-"source":"https://github.com/RebelKeithy/Metallurgy3",
+"author":["mssodin28","JeanGlassmaker","RebelKeithy","Shadowclaimer"],
+"source":"https://github.com/TeamMetallurgy/Metallurgy",
 "type":["Universal"],
 "dependencies":["Forge Required","KeithyUtils"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
@@ -9654,7 +9856,7 @@
 "author":["Kinniken"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -9671,7 +9873,7 @@
 "name":"Mine & Blade: Battlegear 2",
 "link":"http://bit.ly/1ccxikD",
 "desc":"Provides new combat features such as dual-wielding and shield mechanics.  Also adds new weapons!",
-"author":["Nerd_Boy","Oliv1er"],
+"author":["Nerd_Boy","Oliv1er","GotoLink"],
 "source":"https://github.com/Mine-and-blade-admin/Battlegear2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9750,7 +9952,7 @@
 "author":["WildBamaBoy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -9802,7 +10004,7 @@
 "author":["silverwind213"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -10000,7 +10202,7 @@
 "source":"https://github.com/sobiohazardous/minestrappolation-recode",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -10140,11 +10342,21 @@
 
 "name":"Moar Achievements Redux",
 "link":"http://bit.ly/VPKx0W",
-"desc":"",
+"desc":"Adds more achievements for things like entering a cave/ravine, getting killed while stand on iron and more.",
 "author":["Sonicjumper"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.2"]
+"versions":["1.6.2","1.4.7","1.4.2"]
+
+},{
+
+"name":"Moar Achievements Redux",
+"link":"http://bit.ly/1nf16Bp",
+"desc":"Adds more achievements for things like entering a cave/ravine, getting killed while stand on iron and more.",
+"author":["Sonicjumper","master801"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10405,7 +10617,19 @@
 "source":"https://github.com/Minalien/ModularForceFieldSystem",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.5.1","1.4.7"]
+"versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Modular Force Field System",
+"other":"(MFFS)",
+"link":"http://bit.ly/1rofdsN",
+"desc":"Adds force fields, high-tech machinery and defensive measures.",
+"author":["Calclavia"],
+"source":"https://github.com/calclavia/Modular-Force-Field-System",
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity","Resonant Engine"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10439,7 +10663,7 @@
 "source":"https://github.com/MachineMuse/MachineMusePowersuits",
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -10478,9 +10702,19 @@
 "link":"http://bit.ly/WD4OGB",
 "desc":"",
 "author":["v3XzZ"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.5.2","1.4.7"]
+
+},{
+
+"name":"Mo' Food and Crops",
+"link":"http://bit.ly/Z3opbO",
+"desc":"Adds food items such as fries, pancakes, beef jerky, and cheeseburgers.",
+"author":["Leanardoe","master801"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10587,6 +10821,16 @@
 
 },{
 
+"name":"More Composite Armor",
+"link":"http://bit.ly/1nMZkre",
+"desc":"Adds more composite armors.",
+"author":["F4113nb34st"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","F4113nC0r3"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"More Cookable Food Mod",
 "link":"http://bit.ly/1a0wAtu",
 "desc":"Makes certain foods that previously unable to be cooked now able to do so, enabling further hunger regeneration from said food.",
@@ -10644,7 +10888,7 @@
 "author":["Lithial"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -10737,7 +10981,7 @@
 "author":["CubeX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -11241,7 +11485,7 @@
 "author":["CubeX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -11534,13 +11778,34 @@
 
 },{
 
+"name":"NEI Addons",
+"link":"http://bit.ly/Z3oFrc",
+"desc":"Adds NEI support for Forestry, Botany, Applied Energistics, Misc Peripherals, Ex Nihilo and more.",
+"author":["bdew"],
+"source":"https://github.com/bdew/neiaddons",
+"type":["Universal"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
 "name":"NEI Plugins",
 "link":"http://bit.ly/14h8yXi",
-"desc":"Plugin for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct support in chicken_bones' Not Enough Items (NEI).",
+"desc":"Adds NEI support for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct.",
 "author":["mistaqur"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"NEI Plugins",
+"link":"http://bit.ly/1k1nBLf",
+"desc":"Adds NEI support for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct.",
+"author":["mistaqur","tonius11"],
+"type":["Universal"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11657,7 +11922,7 @@
 "source":"https://github.com/twothe/newdawn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -11688,6 +11953,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"No Cubes",
+"link":"http://bit.ly/1CfZfWG",
+"desc":"Renders realistically, replacing cubes with more random, natural-looking landscape.",
+"author":["Click_Me"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11819,9 +12094,10 @@
 "link":"http://bit.ly/UvpH6y",
 "desc":"NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.",
 "author":["chicken_bones"],
+"source":"https://github.com/Chicken-Bones/NotEnoughItems",
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -11872,7 +12148,18 @@
 "source":"https://bitbucket.org/shedar/ic2-nuclear-control/",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.6.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Nuclear Control 2",
+"link":"http://bit.ly/1qYfse2",
+"desc":"Allows efficient monitoring and notifications of nuclear reactors. Also adds Howler Alarms and Industrial Alarms for an industrial-style notification/alarming system. Unoffical port of Shedan's Nuclear Control.",
+"author":["Zuxelus","xbony2"],
+"source":"https://github.com/xbony2/Nuclear-Control",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -11883,7 +12170,7 @@
 "source":"https://github.com/numerios/NumiRP",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.5"]
+"versions":["1.6.4","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -11944,7 +12231,7 @@
 "author":["Myrathi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -12791,6 +13078,16 @@
 
 },{
 
+"name":"Portable Teleporter",
+"link":"http://bit.ly/1qsqsiG",
+"desc":"Adds a portable teleporter which requires 1 million EU to teleport to a saved point instantly.",
+"author":["F4113nb34st"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","F4113nC0r3"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"Portal Gates",
 "link":"http://bit.ly/Wo1JKa",
 "desc":"",
@@ -12843,12 +13140,13 @@
 },{
 
 "name":"Power Converters",
-"link":"http://bit.ly/1gUxBqb",
-"desc":"A way to wrangle all those power systems into one central location. PowerConverters understands IC2, BuildCraft, and Railcraft steam.  These builds maintained by samrg472 while power crystals is on hiatus.",
-"author":["samrg472"],
+"link":"http://bit.ly/1nf5vnM",
+"desc":"Adds PowerConverters which can interact with IC2, BuildCraft, Factorization, Thermal Expansion and Railcraft steam. Continuation of power crystals' version.",
+"author":["samrg472","portablejim"],
+"source":"https://github.com/portablejim/PowerConverters",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -12938,6 +13236,16 @@
 
 },{
 
+"name":"Power Utilites",
+"link":"http://bit.ly/1vYr1CG",
+"desc":"Adds utlities such as a power converter which interacts with IC2 and Thermal Expansion.",
+"author":["SeNtiMeL"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Prayers",
 "link":"http://bit.ly/1ccuDYb",
 "desc":"Created for the Ultra Hard Survival pack. The goal is to fill the gaping hole that is early-game regeneration with a limited item. It's not spammable, but until you get potions it is your only option for healing.",
@@ -12997,6 +13305,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"Pressure Pipes",
+"link":"http://bit.ly/1ovQWf7",
+"desc":"Adds pipes which can transfer unlimited amounts of any kind of fluid, along with filters.",
+"author":["bdew"],
+"type":["Universal"],
+"dependencies":["Forge Required","BDLib"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -13725,10 +14043,21 @@
 },{
 
 "name":"Resonant Engine",
+"link":"http://bit.ly/1roaxTy",
+"desc":"A modding framework used to create blocks and prefabricated code.",
+"author":["Calclavia","DarkGuardsman"],
+"source":"https://github.com/Universal-Electricity/Resonant-Engine",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Resonant Engine",
 "other":"(Development)",
 "link":"http://bit.ly/1roaxTy",
 "desc":"A modding framework used to create blocks and prefabricated code.",
-"author":["Calclavia"],
+"author":["Calclavia","DarkGuardsman"],
 "source":"https://github.com/Universal-Electricity/Resonant-Engine",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13739,19 +14068,9 @@
 "name":"Resonant Induction",
 "link":"http://bit.ly/1h26EkD",
 "desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","aidancbrady","Unpairedbracket"],
+"author":["Calclavia","DarkGuardsman","Alex_hawks","Maxwolf"],
 "type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","ForgeMultipart"],
-"versions":["1.6.2"]
-
-},{
-
-"name":"Resonant Induction",
-"link":"http://bit.ly/1h26EkD",
-"desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","aidancbrady","Unpairedbracket"],
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","Calclavia Core","ForgeMultipart"],
+"dependencies":["Forge Required","Universal Electricity","ForgeMultipart","Resonant Engine"],
 "versions":["1.6.4"]
 
 },{
@@ -14273,7 +14592,17 @@
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"SimpleOres 2",
+"link":"http://bit.ly/U7gLWK",
+"desc":"Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no uber tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.",
+"author":["AleXndrTheGr8st"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -14719,7 +15048,17 @@
 "author":["metroidfood"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.1","1.4.7","1.4.5"]
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Sophisticated Wolves",
+"link":"http://bit.ly/1pYGqT0",
+"desc":"Improves wolves through gameplay tweaks, AI improvements, and new features.",
+"author":["NightKosh"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -14773,6 +15112,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Sound Filters",
+"link":"http://bit.ly/1pwM6EA",
+"desc":"Filters sounds with enhancements such as reverbs in caves, muted sounds in water and lava, and muted sounds behind walls.",
+"author":["Tmtravlr"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15689,7 +16038,7 @@
 "author":["Need4Poop402"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -15700,6 +16049,16 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"The bearded potato!",
+"link":"http://bit.ly/1lCNNQ1",
+"desc":"Adds an electric beacon. Does not contain potatoes.",
+"author":["MistrX"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.2"]
 
 },{
 
@@ -16045,7 +16404,7 @@
 "source":"https://github.com/sheenrox82/TheMistsOfRioV",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -16686,10 +17045,11 @@
 
 },{
 
-"name":"Translocator",
+"name":"Translocators",
 "link":"http://bit.ly/13nzgIr",
 "desc":"Adds an attachment for chests that cause contents in the chest to be moved to a different chest within a one block space.",
 "author":["chicken_bones"],
+"source":"https://github.com/Chicken-Bones/Translocators",
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
 "versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.4.7"]
@@ -16799,6 +17159,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"Turbo",
+"other":"(Dependency)",
+"link":"http://bit.ly/1pgYUIY",
+"desc":"New version of F4113nc0r3 with new features. Required for all of F4113nb34st's mods.",
+"author":["F4113nb34st"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17619,7 +17990,7 @@
 "author":["CubeX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -17682,7 +18053,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","ForgeMultipart"],
-"versions":["1.6.4","1.6.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 

@@ -1,3 +1,21 @@
+(August/31/2014)
+	*Updated "ChickenChunks" info: Added source
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "Falling Meteors Mod" info: Added source
+	*Updated "Greg's Lighting" description and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's SG Craft" description
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
+	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
+	*Updated "LavaBoat" info: Added source
+	*Updated "Magic Bees" info: Added source
+	*Updated "Metallurgy 3" authors and info: Updated source
+	*Updated "Enchanting Plus" info: Updated source
+	+Added "Greg's Blocks"
+	+Added "Greg's Prospecting"
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
 	*Updated "Compact Solars" link

@@ -1,3 +1,16 @@
+(August/31/2014)
+	*Updated "ChickenChunks" info: Added source
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
+	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
+	*Updated "Enchanting Plus" info: Updated source
+	+Added "FPS++"
+	+Added "Multi Page Chest"
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+	-Removed "Fluid Mechanics": Download no longer available (Mod merged with Assembly Line)
+
 (August/30/2014)
 	*Updated "Elemental Creepers" info: Added source
 	*Updated "Enchanting Plus" info: Added source

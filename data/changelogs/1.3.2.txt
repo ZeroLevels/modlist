@@ -1,3 +1,16 @@
+(August/31/2014)
+	+Added "CodeChickenCore"
+	+Added "Ender Storage"
+	+Added "Not Enough Items"
+	+Added "Hawk's Machinery"
+	+Added "IronChests"
+	+Added "Custom Stuff 2"
+	+Added "More Furnaces"
+	+Added "Multi Page Chest"
+	+Added "Whole Tree Axe"
+	-Removed "Chickenbones Mods"
+	-Removed "CubeX2's Mods"
+
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
 	*Updated "Elemental Creepers" info: Added source

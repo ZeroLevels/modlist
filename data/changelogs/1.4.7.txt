@@ -1,3 +1,39 @@
+(August/31/2014)
+	*Updated "ChickenChunks" info: Added source
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "Translocator" name and info: Now "Translocators", Added source
+	*Updated "Fossils and Archeology Revival" info: Added source
+	*Updated "Falling Meteors Mod" info: Added source
+	*Updated "Greg's Blocks" description, authors and info: Renamed "gcewing" to "Greg_Ewing", Added source
+	*Updated "Greg's Lighting" description and authors: Renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's Prospecting" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's SG Craft" description
+	*Updated "HD Skins and Cloaks" link and info: Added source
+	*Updated "Huge Trees are Huge" info: Added source
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
+	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
+	*Updated "Improved First Person" info: No longer requires "Player API"
+	*Updated "InfiCraft" info: Added source (Discontinued, no future updates from author)
+	*Updated "Magic Bees" info: Added source
+	*Updated "BiomeGenerators" dependencies info
+	*Updated "GoldenOrb" dependencies info
+	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
+	*Updated "Enchanting Plus" info: Updated source
+	*Updated "Additional Pipes" info: Added source
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+	+Added "Bio Materials"
+	+Added "F4113nC0r3"
+	+Added "Advanced Generators 2"
+	+Added "Portable Teleporter"
+	+Added "More Composite Armor"
+	+Added "DeFence"
+	+Added "NEI Addons"
+	-Removed "CubeX2's Mods"
+	-Removed "F4113nb34st's Addons"
+	-Removed "Better Third Person": Download no longer available
+
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
 	*Updated "Click Mining Fix Fix" info

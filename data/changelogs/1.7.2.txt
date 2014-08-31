@@ -1,3 +1,43 @@
+(August/31/2014)
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "IronChests" authors and info: Updated source
+	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
+	*Updated "Enchanting Plus": Updated source
+	+Added "Fossils and Archeology Revival"
+	+Added "Falling Meteors Mod"
+	+Added "Greg's Blocks"
+	+Added "Greg's Lighting"
+	+Added "Greg's SG Craft"
+	+Added "LavaBoat"
+	+Added "MCPatcher"
+	+Added "Minecraft Lighting Fix Mod"
+	+Added "More Enchantments"
+	+Added "Custom Stuff 2"
+	+Added "More Furnaces"
+	+Added "Multi Page Chest"
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+	+Added "Nuclear Control 2"
+	+Added "Backpack HUD"
+	+Added "Compact WaterMills"
+	+Added "IC2 Classic"
+	+Added "No Cubes"
+	+Added "New Dawn"
+	+Added "ATG - Alternate Terrain Generation"
+	+Added "Sound Filters"
+	+Added "Animals+"
+	+Added "Sophisticated Wolves"
+	+Added "NEI Addons"
+	+Added "BDLib"
+	+Added "Gendustry"
+	+Added "Pressure Pipes"
+	+Added "Iridium Mod"
+	+Added "The bearded potato!"
+	+Added "The Barrels Mod"
+	+Added "SimpleOres 2"
+	+Added "GregArmor Addon 2"
+
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
 	*Updated "Elemental Creepers" name: Now "Elemental Creepers - Rebooted"
