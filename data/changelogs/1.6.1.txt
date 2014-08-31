@@ -1,6 +1,8 @@
 (August/30/2014)
 	*Updated "ExtraButtons" name: Now "Extra Buttons"
 	*Updated "ZZZZZ Custom Configs" info: Added source
+	*Updated "IronChests" link
+	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
 
 (August/05/2014)
 	*Updated "Galacticraft" link

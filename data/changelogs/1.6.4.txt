@@ -1,3 +1,33 @@
+(August/31/2014)
+	*Updated "ChickenChunks" info: Added source
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "Translocator" name: Now "Translocators"
+	*Updated "Translocators" info: Added source
+	*Updated "HD Skins and Cloaks" link and info: Added source
+	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
+	*Updated "IronChests" link
+	*Updated "Magic Bees" info: Added source
+	*Updated "Metallurgy 3": Updated source, Authors names
+	*Updated "Mine & Blade: Battlegear 2": authors: Added GotoLink
+	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
+	+Added "Fossils and Archeology Revival"
+	+Added "Ex Nihilo"
+	+Added "Falling Meteors Mod"
+	+Added "Greg's Lighting"
+	+Added "Greg's SG Craft"
+	+Added "Improved First Person"
+	+Added "KeithyUtils"
+	+Added "LavaBoat"
+	+Added "Moar Achievements Redux"
+	+Added "Modular Powersuits"
+	+Added "Mo' Food and Crops"
+	+Added "Nuclear Control"
+	+Added "NumiRP"
+	+Added "Compact WaterMills"
+	+Added "IC2 Classic"
+	-Removed "Lantern Mod" by FLUFFY, use a replacement by -Reaper-
+
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
 	*Updated "Compact Solars" link
@@ -18,7 +48,7 @@
 	+Added "Click Mining Fix Fix"
 	+Added "Combo Armors"
 	+Added "Custom Ore Generation: First Revival"
-	+Added "Enhanced Books": Discontinued, no future updates from author
+	+Added "Enhanced Books": Not really discontinued
 	+Added "EssentialCraft 2"
 	+Added "Gravitation Suite"
 	+Added "GregTech-Addon"

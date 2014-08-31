@@ -1,3 +1,25 @@
+(August/31/2014)
+	*Updated "Falling Meteors Mod" info: Added source
+	*Updated "Greg's Blocks" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's Lighting" description and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's Prospecting" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Hawk's Machinery" description and info: Added source
+	*Updated "HD Skins and Cloaks" link and info: Added source
+	*Updated "ICBM" authors: Added DarkGuardsman and info: Added source (Discontinued, no future updates from authors)
+	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from author)
+	*Updated "InfiCraft" info: Added source (Discontinued, no future updates from author)
+	*Updated "IronChests" link
+	+Added "ChickenChunks"
+	+Added "CodeChickenCore"
+	+Added "Ender Storage"
+	+Added "Not Enough Items"
+	+Added "Wireless Redstone: Chicken Bones Edition"
+	+Added "More Furnaces"
+	+Added "Multi Page Chest"
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+	-Removed "Chickenbones Mods"
+
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad
 	*Updated "Elemental Creepers" info: Added source
