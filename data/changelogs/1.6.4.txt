@@ -3,6 +3,7 @@
 	*Updated "Usefulfood" info: Added source
 	*Updated "ICBM" dependencies info
 	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
+	*Updated "PneumaticCraft" info: Added source
 	+Added "Ice Cream Sandwich Creeper Mod"
 	+Added "The Necromancy Mod"
 	+Added "Mob Properties"

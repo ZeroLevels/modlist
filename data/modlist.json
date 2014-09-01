@@ -12996,6 +12996,7 @@
 "link":"http://bit.ly/16ltw7I",
 "desc":"A technical mod which introduces pressurized air, and adds Elevators, Pressure Chambers, Air Cannons, Pneumatic Armor, and much more.",
 "author":["MineMaarten"],
+"source":"https://github.com/MineMaarten/PneumaticCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]

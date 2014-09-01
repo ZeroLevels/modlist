@@ -4,6 +4,7 @@
 	*Updated "Minecraft Capes" info: Discontinued, no future updates from authors
 	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
 	*Updated "Watson" link
+	*Updated "PneumaticCraft" info: Added source
 	+Added "Artifice"
 	+Added "Ice Cream Sandwich Creeper Mod"
 	+Added "Thirst Mod"

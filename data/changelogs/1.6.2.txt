@@ -2,6 +2,7 @@
 	*Updated "Hunger Overhaul" info: Added source
 	*Updated "Usefulfood" info: Added source
 	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
+	*Updated "PneumaticCraft" info: Added source
 	+Added "The Necromancy Mod"
 	+Added "Mob Properties"
 	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
