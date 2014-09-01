@@ -2,7 +2,6 @@
 	*Updated "Nuclear Control 2" description
 	*Updated "Invincible Hamster" info: Discontinued, no future updates from authors
 	*Updated "Minecraft Capes" info: Discontinued, no future updates from authors
-	*Updated "SimpleEnderPouch" name: Now "Simple Ender Things"
 	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
 	*Updated "Watson" link
 	+Added "Artifice"

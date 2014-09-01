@@ -14550,17 +14550,6 @@
 
 },{
 
-"name":"Simple Ender Things",
-"link":"http://bit.ly/1hN6xI6",
-"desc":"Adds Ender Pouches, which allow players to access their Ender Chest inventory; and Ender Tomes, which allows players to return to their bed from any point in the world.",
-"author":["DemoXin"],
-"source":"https://github.com/DemoXinMC/SimpleEnderPouch",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
 "name":"SimpleGuns",
 "link":"http://bit.ly/YggI0F",
 "desc":"Adds guns to the game, meant to feel more at home in the world of minecraft. Adds such guns as a Flintlock Pistol/Musket, Blunderbuss, Revolver, Bolt-Action Rifle, Pistol, and more!",
