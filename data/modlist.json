@@ -31,13 +31,13 @@
 },{
 
 "name":"ACT",
-"other":"Admin Commands Toolbox",
+"other":"(Admin Commands Toolbox)",
 "link":"http://bit.ly/1loPKNA",
 "desc":"Adds a few commands to facilitate server administration, such as pre-generating chunks and unloading chunks from memory.",
 "author":["ProfMobius"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -519,7 +519,7 @@
 "author":["Noppes"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -651,7 +651,7 @@
 "author":["Duke605"],
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -877,7 +877,7 @@
 "author":["castielq"],
 "type":["Universal"],
 "dependencies":["Forge Required","Render Player API"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -1153,18 +1153,7 @@
 "author":["Eydamos"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"Backpacks (Eydamos)",
-"other":"(Pre-release)",
-"link":"http://bit.ly/WmsjDo",
-"desc":"Adds dyable backpacks to the game for storing extra items. Backpack size is configurable.",
-"author":["Eydamos"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -1742,12 +1731,26 @@
 },{
 
 "name":"Big Reactors",
+"other":"(Alpha)",
 "link":"http://bit.ly/10PZyYH",
-"desc":"Designed to be a mid-to-late-game complement to less-realistic mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
+"desc":"Designed to be a mid-to-late-game complement to mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
 "author":["Erogenous Beef"],
+"source":"http://github.com/erogenousbeef/BigReactors",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2"]
+"dependencies":["Forge Required","CoFH Core"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Big Reactors",
+"other":"(Release Candidate)",
+"link":"http://bit.ly/10PZyYH",
+"desc":"Designed to be a mid-to-late-game complement to mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
+"author":["Erogenous Beef"],
+"source":"http://github.com/erogenousbeef/BigReactors",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core"],
+"versions":["1.7.10"]
 
 },{
 
@@ -2114,7 +2117,7 @@
 "source":"https://github.com/BrainStone/brainstone",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -2250,7 +2253,7 @@
 "source":"https://github.com/BuildCraft/BuildCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -3206,6 +3209,18 @@
 
 },{
 
+"name":"CompactChests",
+"other":"(Beta)",
+"link":"http://bit.ly/1nIoya1",
+"desc":"Adds different tiers of chests with increased inventory space.",
+"author":["tattyseal"],
+"source":"https://github.com/tattyseal/CompactChests",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Compact Crafting",
 "link":"http://bit.ly/ZgsLaY",
 "desc":"Allows you to compact items and other blocks into Compact Blocks, making it much easier for you to carry things in your inventory!",
@@ -3596,7 +3611,7 @@
 },{
 
 "name":"CraftHeraldry",
-"link":"http://bit.ly/1aKmgFj",
+"link":"http://bit.ly/1r6Ldnx",
 "desc":"Allows you to craft Heraldry (banners) with over 1200 different icons.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/CraftHeraldry",
@@ -3644,6 +3659,17 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"CrayCrafting",
+"link":"http://bit.ly/1BbvYfe",
+"desc":"Randomly swaps crafting recipes for each world.",
+"author":["DoubleDoorDevelopment","Claycorp","Dries007"],
+"source":"https://github.com/DoubleDoorDevelopment/CrayCrafting",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -4015,6 +4041,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"DaBells",
+"link":"http://bit.ly/1Bbt0Y7",
+"desc":"Adds bells, some of which are decorative, and others which give potion effects upon interaction.",
+"author":["SkynetAB Team"],
+"source":"https://github.com/SkyNetAB/DaBells",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -5154,6 +5191,17 @@
 
 },{
 
+"name":"EnderTech",
+"link":"http://bit.ly/XzrYpN",
+"desc":"Adds items, blocks and mechanics around ender-themed technology, such as a block-swapping Exchanger, an energy-transmitting Charge Pad and an Ender Tank for storing fluids.",
+"author":["Drayshak","Arkan","RWTema"],
+"source":"https://github.com/Drayshak/EnderTech",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Ender Utilities",
 "link":"http://bit.ly/1sJumHL",
 "desc":"Adds miscellaneous items and blocks with Ender-based mechanics. Entry for ModJam 4.",
@@ -5853,6 +5901,17 @@
 
 },{
 
+"name":"FastCraft",
+"other":"(Experimental)",
+"link":"http://bit.ly/1q5sbeM",
+"desc":"Improves client/server performance without affecting gameplay.",
+"author":["player"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Father Toast's Mods",
 "link":"http://bit.ly/VuOduI",
 "desc":"",
@@ -6029,9 +6088,10 @@
 "link":"http://bit.ly/13aYRXO",
 "desc":"A combination of Planes, Vehicles and WW2Guns rewritten with a whole load of awesome new features and designed to allow easy custom content creation by anyone. Flan's mod alone is useless, it requires content packs in order to be of any use.",
 "author":["jamioflan"],
+"source":"https://github.com/FlansMods/FlansMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -6237,18 +6297,7 @@
 "author":["JoseTheCrafter"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
-
-},{
-
-"name":"Food Plus",
-"other":"(Unstable)",
-"link":"http://bit.ly/151zCrn",
-"desc":"Adds more food so you can get more variety and options to eat.",
-"author":["JoseTheCrafter"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -6310,7 +6359,7 @@
 
 "name":"ForgeIRC",
 "link":"http://bit.ly/117XoSV",
-"desc":"Easily connect your entire server or just your client to an IRC channel",
+"desc":"Easily connect your entire server or just your client to an IRC channel. Not affiliated with Forge.",
 "author":["ShadwDrgn"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -6321,7 +6370,7 @@
 "name":"ForgeMultipart",
 "other":"(API)",
 "link":"http://bit.ly/1b2fybw",
-"desc":"An API for dynamically handling different functional parts in the one block space.",
+"desc":"An API for dynamically handling different functional parts in the one block space. Not affiliated with Forge.",
 "author":["chicken_bones"],
 "source":"https://github.com/Chicken-Bones/ForgeMultipart",
 "type":["Universal"],
@@ -6369,6 +6418,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+	
+"name":"FoxLib",
+"link":"http://bit.ly/1labkHu",
+"desc":"Dependency for some of Kihira's mods.",
+"author":["Kihira"],
+"source":"https://github.com/kihira/FoxLib",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -7378,7 +7438,7 @@
 "source":"https://github.com/dries007/HoloInventory",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -7636,23 +7696,23 @@
 },{
 
 "name":"Iguana Tweaks",
-"link":"http://bit.ly/17nkepE",
-"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
-"author":["iguana_man"],
-"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
-"type":["Universal"],
-"dependencies":["Forge Required","Tinkers' Construct"],
-"versions":["1.6.4","1.6.2","1.5.2"]
-
-},{
-
-"name":"Iguana Tweaks",
 "link":"http://bit.ly/1dooEma",
 "desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
 "author":["iguana_man"],
 "source":"https://www.dropbox.com/sh/gl9sxgfbgt7tc0r/H4G3rPDfKF",
 "type":["Universal"],
 "dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Iguana Tweaks for Tinker's Construct",
+"link":"http://bit.ly/17nkepE",
+"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
+"author":["iguana_man"],
+"source":"https://www.dropbox.com/sh/xf7wgne3tz9r2j0/CrvFYIwSNN",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct"],
 "versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
@@ -8248,10 +8308,10 @@
 "link":"http://bit.ly/1ksAjD5",
 "desc":"Adds small and random features such as night vision goggles, meaty ores and an eyeball mob. Designed for use in modpacks.",
 "author":["JuiceGrape"],
-"source":"https://github.com/JuiceGrape/JuiceWares",
+"source":"https://github.com/JuiceGrape/JuiceWares172",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -8595,6 +8655,17 @@
 
 },{
 
+"name":"LibShapeDraw",
+"link":"http://bit.ly/1q8ja4H",
+"desc":"Provides flexible drawing and animation APIs for other mods to use.",
+"author":["xaero_"],
+"source":"https://github.com/xaeroverse/LibShapeDraw",
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Light Bridges And Doors",
 "link":"http://bit.ly/IUXdn9",
 "desc":"Adds light bridges, light doors, and light rails based on the ones from the Halo series.",
@@ -8653,6 +8724,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Link Info",
+"link":"http://bit.ly/1q8lsAZ",
+"desc":"Shows information on clickable links, such as the page title, options to view an image ingame, and information on YouTube videos.",
+"author":["Killjoy1221"],
+"type":["Universal"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -8973,7 +9054,18 @@
 "author":["Mark719"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4"]
+
+},{
+
+"name":"Magical Crops",
+"other":"(Beta)",
+"link":"http://bit.ly/W9maB8",
+"desc":"Introduces lot of new crops that grow all sort of things, from new food like sweetcorn and strawberries to Coal essence and Diamond essence which can be crafting into Coal and Diamonds.",
+"author":["Mark719"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -9074,7 +9166,7 @@
 "other":"(Beta)",
 "link":"http://bit.ly/Z7xU26",
 "desc":"Required dependency for Tinkers' Construct.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/Mantle",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9212,6 +9304,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"MCTwitter",
+"link":"http://bit.ly/1Bbusd0",
+"desc":"Integrates Twitter into the ingame chat, allowing sending and receiving of messages.",
+"author":["wasliebob"],
+"source":"https://github.com/wasliebob/MCTwitter",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -9581,6 +9684,17 @@
 "type":["N/A"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Minecraft Selfies",
+"other":"(Release Candidate)",
+"link":"http://bit.ly/Xztybk",
+"desc":"Adds a selfie camera which can be used to take pictures, uploaded to MinecraftSelfies.net",
+"author":["ZeuX"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -9983,7 +10097,7 @@
 "source":"https://bitbucket.org/ProfMobius/mobiuscore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -10187,6 +10301,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Mod Control",
+"link":"http://bit.ly/1kGNDpT",
+"desc":"Allows servers to filter what mods clients are allowed to use.",
+"author":["lumien"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11117,7 +11241,7 @@
 
 "name":"Mystcraft",
 "link":"http://bit.ly/13ZCBTB",
-"desc":"Let's you write your own dimensions, known as ages. Inspired by the Myst videogame series.",
+"desc":"Lets you write your own dimensions, known as ages. Inspired by the Myst videogame series.",
 "author":["XCompWiz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -11779,6 +11903,18 @@
 
 },{
 
+"name":"OpenBlocks",
+"other":"(Beta)",
+"link":"http://bit.ly/1pZqMVU",
+"desc":"The idea of OpenBlocks is to add small and interesting utilities to minecraft to make the gameplay a little bit more enjoyable.",
+"author":["Mikeemoo"],
+"source":"https://github.com/OpenMods/OpenBlocks",
+"type":["Universal"],
+"dependencies":["Forge Required","OpenModsLib"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"OpenCCSensors",
 "link":"http://bit.ly/WpGBEI",
 "desc":"An open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them.",
@@ -11813,6 +11949,18 @@
 
 },{
 
+"name":"OpenModsLib",
+"other":"(Beta)",
+"link":"http://bit.ly/1pZqQVL",
+"desc":"Required library for most OpenMods.",
+"author":["Mikeemoo"],
+"source":"https://github.com/OpenMods/OpenModsLib",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"OpenPeripheral",
 "link":"http://bit.ly/17cdajX",
 "desc":"Adds the ability to turn most blocks in the game into ComputerCraft peripherals, so you can just drop a computer next to a block and instantly have access to start calling lua functions on it. Also adds \"Terminal Glasses\". Think \"Google Glasses\", but for minecraft. If you know what you're doing, can be used for such things as telling you when you have a new tweet from twitter!",
@@ -11841,7 +11989,7 @@
 "source":"https://bitbucket.org/ProfMobius/opis",
 "type":["Server"],
 "dependencies":["Forge Required","MobiusCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11934,6 +12082,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"OresPlus",
+"other":"(Beta)",
+"link":"http://bit.ly/1jkcE8G",
+"desc":"Generates ores in your world for future use by other mods. Allows you to control how they generate, and allows you to regenerate ores in existing worlds.",
+"author":["TheTorbinWren"],
+"source":"https://github.com/TheTorbinWren/OresPlus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -12441,6 +12601,17 @@
 
 },{
 
+"name":"Pneumatic Cooking",
+"link":"http://bit.ly/1q50Wgl",
+"desc":"Adds corn cobs and kernels, which can be placed in pressure chambers to produce popcorn.",
+"author":["J3FF97"],
+"source":"https://github.com/J3FF97/Pneumatic-Cooking",
+"type":["Universal"],
+"dependencies":["Forge Required","PneumaticCraft"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Podzol to Diamonds",
 "link":"http://bit.ly/1i0A9Qu",
 "desc":"Adds the ability to craft podzol into diamonds and vice versa. Dirt can also be crafted into diamonds.",
@@ -12502,7 +12673,7 @@
 },{
 
 "name":"PortaPortal",
-"link":"http://bit.ly/UJyt7Q",
+"link":"http://bit.ly/1nNUUiG",
 "desc":"Adds Portable Portals which allow players to teleport other entities and themselves to a previous bound location. Works within item frames.",
 "author":["Unh0ly_Tigg"],
 "source":"https://bitbucket.org/Unh0ly_Tigg/portaportal/src",
@@ -12926,6 +13097,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"RainbowCraft",
+"link":"http://bit.ly/1pdPQZS",
+"desc":"Adds rainbow-colored blocks, items and tools. Magical plants grow into rainbow diamonds.",
+"author":["TheCricket26"],
+"source":"https://github.com/TheCricket/RainbowCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -13604,6 +13786,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Sanguimancy",
+"link":"http://bit.ly/1la90Ac",
+"desc":"Provides more automation in Blood Magic using things such as Altar Emitters and Altar Diviners.",
+"author":["Tombenpotter"],
+"source":"https://github.com/Tombenpotter/Sanguimancy",
+"type":["Universal"],
+"dependencies":["Forge Required","Blood Magic"],
+"versions":["1.7.10"]
 
 },{
 
@@ -15094,6 +15287,17 @@
 
 },{
 
+"name":"Tails",
+"link":"http://bit.ly/1laaKtf",
+"desc":"Adds customizable tails for players. Primarily client side.",
+"author":["Kihira","TTFTCUTS"],
+"source":"https://github.com/kihira/Tails",
+"type":["Universal"],
+"dependencies":["Forge Required","FoxLib"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"TaleCraft",
 "link":"http://bit.ly/14VSJTT",
 "desc":"TaleCraft gives you the tools and abilities to create more in-depth adventure maps, improve your control over the environment, and help tell an unique tale. Still in early development.",
@@ -15240,7 +15444,7 @@
 "author":["Azanor"],
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -15294,7 +15498,7 @@
 "source":"https://github.com/Vazkii/ThaumicTinkerer",
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles","Thaumcraft 4"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16012,7 +16216,7 @@
 "name":"Tinkers' Construct",
 "link":"http://bit.ly/Z7xU26",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -16024,7 +16228,7 @@
 "other":"(Beta)",
 "link":"http://bit.ly/Z7xU26",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required","Mantle"],
@@ -16035,7 +16239,7 @@
 "name":"Tinkers' Mechworks",
 "link":"http://bit.ly/1ne7Cv9",
 "desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersMechworks",
 "type":["Universal"],
 "dependencies":["Forge Required","Tinkers' Construct","Mantle"],
@@ -16047,7 +16251,7 @@
 "other":"(Alpha)",
 "link":"http://bit.ly/1ne7Cv9",
 "desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
-"author":["mDiyo","progwml6","Sunstrike","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersMechworks",
 "type":["Universal"],
 "dependencies":["Forge Required","Tinkers' Construct","Mantle"],
@@ -16243,10 +16447,10 @@
 "name":"Touhou Items Mod",
 "link":"http://bit.ly/XDfmMd",
 "desc":"Adds a lot of things such as weapons, foods, and some magic meterials into the game. In Touhou Style~!",
-"author":["Niconiko"],
+"author":["\u304f\u308d\u3042\u3093\u3053","Niconiko"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -16554,7 +16758,18 @@
 "author":["Zeno410","Grom PE","Exterminator Jeff"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Underground Biomes Constructs",
+"other":"(Beta)",
+"link":"http://bit.ly/1eM6ibr",
+"desc":"A revised extension of the original Underground Biomes mod. Adds Igneous, Metamorphic and Sedimentary rocks; fossil pieces; coal storage blocks and more.",
+"author":["Zeno410","Grom PE","Exterminator Jeff"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16856,6 +17071,18 @@
 
 },{
 
+"name":"vChat",
+"other":"(Pre-release)",
+"link":"http://bit.ly/1vQJhl4",
+"desc":"Improves in-game chat with nicknames, clickable links, \"Message of the Day\", custom chat formatting, name highlighting and chat channels.",
+"author":["Vic_"],
+"source":"https://github.com/Victorious3/VChat",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"VeinMiner",
 "link":"http://bit.ly/1moK8zk",
 "desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
@@ -16863,7 +17090,7 @@
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -16875,7 +17102,7 @@
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2"]
 
 },{
 
@@ -16927,6 +17154,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Villager's Nose",
+"link":"http://bit.ly/1sYGLVv",
+"desc":"Allows shears to cut off a villager's nose, which can be worn or planted to grow a new villager. When equipped, the nose can be used to find emerald ores.",
+"author":["StarSheep"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 

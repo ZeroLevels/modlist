@@ -1,3 +1,15 @@
+(August/28/2014)
+	*Updated "Flan's Mod" info: Added source
+
+(August/20/2014)
+	*Updated "Tinkers' Construct" authors: Renamed Sunstrike to Arkan
+
+(August/17/2014)
+	-Removed "Magical Crops": Download no longer available
+
+(August/16/2014)
+	*Updated "Touhou Items Mod" author: Added original author
+
 (August/09/2014)
 	-Removed "Macro/Keybind Mod and LiteLoader": Download no longer available
 

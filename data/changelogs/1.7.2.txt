@@ -1,3 +1,32 @@
+(August/28/2014)
+	*Updated "Flan's Mod" info: Added source
+	+Added "CompactChests": Currently in Beta
+	+Added "Link Info"
+
+(August/26/2014)
+	*Updated "Underground Biomes Constructs" info: Currently in Beta
+
+(August/25/2014)
+	*Updated "ForgeMultipart" description
+
+(August/16/2014)
+	+Added "Touhou Items Mod"
+
+(August/15/2014)
+	+Added "vChat": Currently in pre-release
+
+(August/13/2014)
+	*Updated "JuiceWares" info: Updated source
+	*Updated "PortaPortal" link
+	+Added "Villager's Nose"
+
+(August/12/2014)
+	*Updated "Backpacks (Eydamos)" info: Now in stable release
+	*Updated "CraftHeraldry" link
+	*Updated "Food Plus" info: Now in stable release
+	+Added "Buildcraft"
+	+Added "DaBells"
+
 (August/09/2014)
 	+Added "Wall Jump"
 

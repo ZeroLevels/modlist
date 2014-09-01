@@ -4,11 +4,11 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b0c652c486fec31a2c1ff69e54084783",
+    "hash": "a442a97a083fef1f14669800247d8f30",
     "packages": [
         {
             "name": "illuminate/container",
-            "version": "v4.2.7",
+            "version": "v4.2.8",
             "target-dir": "Illuminate/Container",
             "source": {
                 "type": "git",
@@ -49,17 +49,17 @@
         },
         {
             "name": "illuminate/database",
-            "version": "v4.2.7",
+            "version": "v4.2.8",
             "target-dir": "Illuminate/Database",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
-                "reference": "35adb30b2b9e26222e6c0803a5643e86674f13c1"
+                "reference": "0c4714accc27fa291789484e5a068a52ce7975d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/database/zipball/35adb30b2b9e26222e6c0803a5643e86674f13c1",
-                "reference": "35adb30b2b9e26222e6c0803a5643e86674f13c1",
+                "url": "https://api.github.com/repos/illuminate/database/zipball/0c4714accc27fa291789484e5a068a52ce7975d9",
+                "reference": "0c4714accc27fa291789484e5a068a52ce7975d9",
                 "shasum": ""
             },
             "require": {
@@ -103,21 +103,21 @@
                 "orm",
                 "sql"
             ],
-            "time": "2014-07-20 23:19:36"
+            "time": "2014-08-05 19:35:51"
         },
         {
             "name": "illuminate/events",
-            "version": "v4.2.7",
+            "version": "v4.2.8",
             "target-dir": "Illuminate/Events",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/events.git",
-                "reference": "c95614873f4e437ed7a723c1734197b51feaf991"
+                "reference": "3fd59a0dd07d2b569487d99a37011f33fc01aafd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/events/zipball/c95614873f4e437ed7a723c1734197b51feaf991",
-                "reference": "c95614873f4e437ed7a723c1734197b51feaf991",
+                "url": "https://api.github.com/repos/illuminate/events/zipball/3fd59a0dd07d2b569487d99a37011f33fc01aafd",
+                "reference": "3fd59a0dd07d2b569487d99a37011f33fc01aafd",
                 "shasum": ""
             },
             "require": {
@@ -146,21 +146,21 @@
                     "email": "taylorotwell@gmail.com"
                 }
             ],
-            "time": "2014-06-06 13:58:46"
+            "time": "2014-08-03 15:26:23"
         },
         {
             "name": "illuminate/support",
-            "version": "v4.2.7",
+            "version": "v4.2.8",
             "target-dir": "Illuminate/Support",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "b3d84fa93aa3f2081a935158f860de8308d62d5a"
+                "reference": "8702d655da1f7502037a2206df38399656ff35ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/b3d84fa93aa3f2081a935158f860de8308d62d5a",
-                "reference": "b3d84fa93aa3f2081a935158f860de8308d62d5a",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/8702d655da1f7502037a2206df38399656ff35ae",
+                "reference": "8702d655da1f7502037a2206df38399656ff35ae",
                 "shasum": ""
             },
             "require": {
@@ -194,7 +194,7 @@
                     "email": "taylorotwell@gmail.com"
                 }
             ],
-            "time": "2014-07-21 21:14:59"
+            "time": "2014-08-05 12:08:34"
         },
         {
             "name": "klein/klein",
@@ -252,16 +252,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "1.10.0",
+            "version": "1.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "9b42a1aec56011c2ac4d75c0ddad0794762344fc"
+                "reference": "2b60366be6dcb9f9cd3e244ab25eb98eaea99551"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/9b42a1aec56011c2ac4d75c0ddad0794762344fc",
-                "reference": "9b42a1aec56011c2ac4d75c0ddad0794762344fc",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/2b60366be6dcb9f9cd3e244ab25eb98eaea99551",
+                "reference": "2b60366be6dcb9f9cd3e244ab25eb98eaea99551",
                 "shasum": ""
             },
             "require": {
@@ -294,7 +294,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2014-07-18 03:44:47"
+            "time": "2014-08-26 03:18:44"
         },
         {
             "name": "twig/twig",
