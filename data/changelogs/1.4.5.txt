@@ -1,3 +1,10 @@
+(September/01/2014)
+	*Updated "Usefulfood" info: Added source
+	+Added "Lava Monsters"
+	+Added "Special Mobs"
+	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
+	-Removed Father Toast's Mods
+
 (August/31/2014)
 	*Updated "Falling Meteors Mod" info: Added source
 	*Updated "Greg's Blocks" description, authors and info: Renamed "gcewing" to "Greg_Ewing", Added source

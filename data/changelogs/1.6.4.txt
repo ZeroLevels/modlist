@@ -1,3 +1,16 @@
+(September/01/2014)
+	*Updated "Hunger Overhaul" info: Added source
+	*Updated "Usefulfood" info: Added source
+	*Updated "ICBM" dependencies info
+	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
+	+Added "Ice Cream Sandwich Creeper Mod"
+	+Added "The Necromancy Mod"
+	+Added "Mob Properties"
+	+Added "Natural Absorption"
+	+Added "XRay"
+	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
+	-Removed "More Nature" mod already exist with name "Animals+"
+
 (August/31/2014)
 	*Updated "ChickenChunks" info: Added source
 	*Updated "Ender Storage" info: Added source

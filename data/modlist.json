@@ -102,7 +102,7 @@
 "author":["SuperManitu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.5.2"]
 
 },{
 
@@ -123,7 +123,7 @@
 "author":["ObsiLP"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -434,7 +434,7 @@
 "author":["Ri5ux"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -514,7 +514,7 @@
 "author":["b1u3m0nk3","chilibomb"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.1","1.5.2"]
 
 },{
 
@@ -905,7 +905,7 @@
 "source":"https://github.com/Shukaro/Artifice",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -1018,26 +1018,6 @@
 "author":["ToxicGuyStudios"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Atomic Science",
-"link":"http://bit.ly/1h23rS9",
-"desc":"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
-
-},{
-
-"name":"Atomic Science",
-"link":"http://bit.ly/1h23rS9",
-"desc":"Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!",
-"author":["Calclavia"],
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","Calclavia Core"],
 "versions":["1.6.4"]
 
 },{
@@ -1163,7 +1143,7 @@
 "source":"https://github.com/thebombzen/AutoSwitch",
 "type":["Universal"],
 "dependencies":["Forge Required","ThebombzenAPI"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -1377,7 +1357,7 @@
 "author":["Mr. okushama"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -1717,7 +1697,7 @@
 "author":["chylex"],
 "type":["Client"],
 "dependencies":["Forge Required","Player API"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -2028,7 +2008,7 @@
 "author":["rangatangaa"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -2051,7 +2031,7 @@
 "source":"https://github.com/tankerkiller125/Bloody-Dimensions",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -2153,7 +2133,7 @@
 "author":["jamespicone"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -2573,7 +2553,7 @@
 "author":["TheMasterCaver"],
 "type":["Universal"],
 "dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3578,7 +3558,7 @@
 "author":["gudenau","shadowreaperx"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -3700,7 +3680,7 @@
 "source":"https://github.com/SackCastellon/CraftableHorseArmor",
 "type":["Universal"],
 "dependencies":["Forge Required","SKC Core"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -4036,12 +4016,12 @@
 },{
 
 "name":"CUDA Shaders",
-"link":"http://bit.ly/1lywPBh",
+"link":"http://bit.ly/1to8Mbw",
 "desc":"Shaders designed to run on both older and modern PCs. Improves lighting and shadows.",
 "author":["DeDelner"],
 "type":["Client"],
 "dependencies":["Forge Required","GLSL Shaders Mod"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -4347,7 +4327,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1"]
+"versions":["1.7.10","1.6.4","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -4670,7 +4650,7 @@
 "author":["mmdanggg2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -4690,7 +4670,7 @@
 "author":["BlackJar72"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -4795,7 +4775,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.4.7"]
+"versions":["1.6.4","1.5.2"]
 
 },{
 
@@ -4989,9 +4969,9 @@
 "link":"http://bit.ly/1cROTNI",
 "desc":"Allows you to cook eggs in a furnace to obtain Baked Eggs.",
 "author":["Senjin"],
-"type":["SSP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -5002,19 +4982,7 @@
 "source":"https://github.com/blay09/EiraIRC",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.5.2"]
-
-},{
-
-"name":"EiraIRC",
-"other":"(Beta)",
-"link":"http://bit.ly/1kTCYEf",
-"desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
-"author":["Blay09"],
-"source":"https://github.com/blay09/EiraIRC",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -5263,7 +5231,7 @@
 "source":"https://github.com/CrazyPants/EnderIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -5275,7 +5243,7 @@
 "source":"https://github.com/CrazyPants/EnderIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2"]
 
 },{
 
@@ -5782,7 +5750,7 @@
 "author":["Naruto1310"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -6073,7 +6041,7 @@
 "author":["pitman-87"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -6136,16 +6104,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
-
-},{
-
-"name":"Father Toast's Mods",
-"link":"http://bit.ly/VuOduI",
-"desc":"",
-"author":["FatherToast"],
-"type":["N/A"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
 
 },{
 
@@ -6736,7 +6694,7 @@
 "author":["Mr_Crayfish"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -6985,7 +6943,7 @@
 "source":"https://github.com/JamiesWhiteShirt/Glenns-Gases",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -7047,7 +7005,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/goblinsgiants",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -7376,7 +7334,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/harderpeaceful",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -7523,16 +7481,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
-
-},{
-
-"name":"Health Bars",
-"link":"http://bit.ly/VuOduI",
-"desc":"Adds customizable health bars to mobs.",
-"author":["FatherToast"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1"]
 
 },{
 
@@ -7709,7 +7657,7 @@
 "author":["FyberOptic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -7798,6 +7746,7 @@
 "link":"http://bit.ly/14yqAB6",
 "desc":"Ever thought hunger should be more integral to surviving?  This mod is meant to make hunger more of a challenge, rather than just a mild annoyance.",
 "author":["iguana_man"],
+"source":"https://github.com/iguanaman/HungerOverhaul",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
@@ -7836,7 +7785,7 @@
 },{
 
 "name":"HybridCraft: Refused",
-"link":"http://bit.ly/WdXKBQ",
+"link":"http://bit.ly/1w0ym4A",
 "desc":"Adds hybrid ores and tools to the game with a combination of materials. Previously known as HybridCraft.",
 "author":["Geforce132"],
 "type":["Universal"],
@@ -7894,7 +7843,7 @@
 "author":["Calclavia","DarkGuardsman"],
 "source":"https://github.com/Universal-Electricity/ICBM",
 "type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","Calclavia Core"],
+"dependencies":["Forge Required","Universal Electricity","Resonant Engine"],
 "versions":["1.6.4"]
 
 },{
@@ -7905,7 +7854,7 @@
 "author":["IrunoHatake"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -8098,7 +8047,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/ImprovedMobSpawn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -8323,6 +8272,7 @@
 },{
 
 "name":"Invincible Hamster",
+"other":"(Discontinued)",
 "link":"http://bit.ly/13b0vsE",
 "desc":"Lets hamsters spawn in your world. When you tame them with flowers, they become invincible hamsters, with a never ending hate for iron bars.",
 "author":["Ivorius"],
@@ -8538,7 +8488,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/jellycubes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -8559,7 +8509,7 @@
 "source":"https://github.com/sor1n/Modjam-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -8611,7 +8561,7 @@
 "source":"https://github.com/ljsimin/MinecraftJoypadSplitscreenMod",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -8810,7 +8760,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/koi",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -8820,7 +8770,7 @@
 "author":["Kwasti"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -8893,7 +8843,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -9295,7 +9245,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -9420,7 +9370,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/magicalexp",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -9951,7 +9901,7 @@
 },{
 
 "name":"Minecraft Capes",
-"other":"(MCCapes)",
+"other":"(MCCapes, Discontinued)",
 "link":"http://bit.ly/XD3gCF",
 "desc":"Everybody wants a cape and now you can get one! Create an account in ten seconds and login, upload a cape image or choose one from the gallery! All you have to do now After that, all you have to do is install the mod and you'll be able to see your cape!",
 "author":["cjz__"],
@@ -10196,7 +10146,7 @@
 "author":["YSPilot"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -10392,7 +10342,7 @@
 "source":"https://github.com/GoryMoon/MoarSigns",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -10474,6 +10424,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Mob Properties",
+"link":"http://bit.ly/1q2VKhn",
+"desc":"Allows mob customization with completely configurable drops, attributes, equipment, potion effects, and NBT data.",
+"author":["FatherToast"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -10751,6 +10711,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Mo' Furnaces",
+"link":"http://bit.ly/1nPkOnk",
+"desc":"Adds faster furnace variants made from more expensive materials such as iron, gold, diamond, etc..",
+"author":["Mattk10"],
+"source":"https://github.com/Mattkx4/MoFurnaces-v2",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11067,17 +11038,7 @@
 "author":["Kuuu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
-
-},{
-
-"name":"More Nature",
-"link":"http://bit.ly/1d675Yz",
-"desc":"Adds insects, birds, snakes, lizards and many more animals.",
-"author":["Click_Me"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -11149,7 +11110,7 @@
 "author":["Noppes"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -11521,7 +11482,7 @@
 "author":["fabricator77"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -11772,6 +11733,16 @@
 
 },{
 
+"name":"Natural Absorption",
+"link":"http://bit.ly/1q2VKhn",
+"desc":"Gives players permanent absorption health which regenerates over time. Also stacks with the absorption potion effect.",
+"author":["FatherToast"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
+
+},{
+
 "name":"Nearby Mob Finder",
 "link":"http://bit.ly/1jIxHxM",
 "desc":"Displays the location of hostile mobs when failing to sleep due to nearby mobs.",
@@ -11862,7 +11833,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/nethereye",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -11988,7 +11959,7 @@
 "source":"http://www.minecraftforum.net/topic/1571830-",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -12009,7 +11980,7 @@
 "source":"http://www.minecraftforum.net/topic/1571830-",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -12142,7 +12113,7 @@
 "author":["TheMasterCaver"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -12169,7 +12140,7 @@
 
 "name":"Nuclear Control 2",
 "link":"http://bit.ly/1qYfse2",
-"desc":"Allows efficient monitoring and notifications of nuclear reactors. Also adds Howler Alarms and Industrial Alarms for an industrial-style notification/alarming system. Unofficial port of Shedar's Nuclear Control.",
+"desc":"Allows efficient monitoring and notifications of nuclear reactors. Also adds Howler Alarms and Industrial Alarms for an industrial-style notification/alarming system.",
 "author":["Zuxelus","xbony2"],
 "source":"https://github.com/xbony2/Nuclear-Control",
 "type":["Universal"],
@@ -12236,7 +12207,7 @@
 "source":"https://github.com/Zilulil/obsidianboat",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -12329,7 +12300,7 @@
 "author":["zot201"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -12461,7 +12432,7 @@
 "source":"https://github.com/EXTER7/OreDictionaryConverter",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.4.7","1.4.5"]
 
 },{
 
@@ -12526,17 +12497,6 @@
 },{
 
 "name":"OresPlus",
-"link":"http://bit.ly/1jkcE8G",
-"desc":"Generates ores in your world for future use by other mods. Allows you to control how they generate, and allows you to regenerate ores in existing worlds.",
-"author":["TheTorbinWren"],
-"source":"https://github.com/TheTorbinWren/OresPlus",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
-
-},{
-
-"name":"OresPlus",
 "other":"(Beta)",
 "link":"http://bit.ly/1jkcE8G",
 "desc":"Generates ores in your world for future use by other mods. Allows you to control how they generate, and allows you to regenerate ores in existing worlds.",
@@ -12544,7 +12504,7 @@
 "source":"https://github.com/TheTorbinWren/OresPlus",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -12595,7 +12555,7 @@
 "source":"https://bitbucket.org/lKinx/paintball/src",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -12676,7 +12636,7 @@
 "author":["Ivorius"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -12717,7 +12677,7 @@
 "source":"https://github.com/m1k3s/parachute",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -12757,7 +12717,7 @@
 "author":["2BeCristi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -13319,7 +13279,7 @@
 "source":"http://ha3.eu/public/mc-mods/presencefootsteps.php#license",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -13476,7 +13436,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/snowgolem",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -13620,7 +13580,7 @@
 "source":"https://github.com/immediately/rancraftPeng172p",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -14052,7 +14012,7 @@
 "source":"https://github.com/m1k3s/reptiles",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -14402,7 +14362,7 @@
 "author":["Geforce132"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -14590,14 +14550,14 @@
 
 },{
 
-"name":"SimpleEnderPouch",
+"name":"Simple Ender Things",
 "link":"http://bit.ly/1hN6xI6",
 "desc":"Adds Ender Pouches, which allow players to access their Ender Chest inventory; and Ender Tomes, which allows players to return to their bed from any point in the world.",
 "author":["DemoXin"],
 "source":"https://github.com/DemoXinMC/SimpleEnderPouch",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -14669,7 +14629,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/SimpleRecipes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -14890,7 +14850,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/slimedungeons",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -15229,7 +15189,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -15585,7 +15545,7 @@
 "source":"https://github.com/Renkin42/Renkin42SWT_Gradle",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.2","1.5.2"]
 
 },{
 
@@ -15595,7 +15555,7 @@
 "author":["senpaisubaraki"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -15603,9 +15563,9 @@
 "link":"http://bit.ly/12NKHPd",
 "desc":"Adds more paintings to the game.",
 "author":["senpaisubaraki"],
-"type":["SSP","LAN"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.5.2","1.4.7"]
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2","1.4.7"]
 
 },{
 
@@ -15635,7 +15595,7 @@
 "author":["EdgarAllen"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -15746,7 +15706,7 @@
 "author":["Robosphinx"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -16104,7 +16064,7 @@
 "source":"https://github.com/thebombzen/ThebombzenAPI",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -16435,11 +16395,21 @@
 
 "name":"The Necromancy Mod",
 "link":"http://bit.ly/UAxW6Q",
-"desc":"",
+"desc":"Allows reanimation of stitched body parts from slain foes.",
 "author":["sirolf2009"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
+
+},{
+
+"name":"The Necromancy Mod",
+"link":"http://bit.ly/1w0z2qK",
+"desc":"Allows reanimation of stitched body parts from slain foes.",
+"author":["AtomicStryker"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16470,7 +16440,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/peacefulpackmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -16490,7 +16460,7 @@
 "author":["LiamR99"],
 "type":["SSP"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.2","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -16672,7 +16642,7 @@
 "author":["tarun1998"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -17458,9 +17428,21 @@
 "link":"http://bit.ly/WnXSfV",
 "desc":"The goal of this mod is to add as much useful food as possible to minecraft, without destroying the vanilla feeling of it. No extreme and complicated recipes! The mod is supposed to be simple and useful for the user, to make food from things you normally can't make food from and to add a large variety of food to make minecraft more interesting.",
 "author":["Silentspy"],
+"source":"https://github.com/Silentspy/UsefulFood",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Usefulfood",
+"link":"http://bit.ly/1qUCpes",
+"desc":"The goal of this mod is to add as much useful food as possible to minecraft, without destroying the vanilla feeling of it. No extreme and complicated recipes! The mod is supposed to be simple and useful for the user, to make food from things you normally can't make food from and to add a large variety of food to make minecraft more interesting. Unofficial port of Silentspy's Usefulfood.",
+"author":["Zuxelus"],
+"source":"https://bitbucket.org/Zuxelus/usefulfood/src",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17790,14 +17772,13 @@
 },{
 
 "name":"Voxel Player Models",
-"other":"(Beta)",
 "link":"http://bit.ly/1kiEwuN",
 "desc":"Allows players to use a custom player model in-game.",
 "author":["cazzar"],
 "source":"https://github.com/cazzar/VoxelPlayerModels/",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -17825,14 +17806,14 @@
 
 },{
 
-"name":"Walking Dead Mod",
+"name":"CrackedZombies",
 "link":"http://bit.ly/TGjeZl",
 "desc":"Zombies in the daytime! Walkers are everywhere, be careful. The walkers will attack players, chickens and pigs. There are options in the config file to allow or disallow spawning of zombies, skeletons, creepers, spiders, slime, and endermen.",
 "author":["crackedEgg"],
-"source":"https://github.com/m1k3s/walkingdead",
+"source":"https://github.com/m1k3s/crackedzombie",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -17929,13 +17910,13 @@
 },{
 
 "name":"Watson",
-"link":"http://bit.ly/1fjnPr9",
+"link":"http://bit.ly/1qvZt5H",
 "desc":"Visualizes LogBlock, CoreProtect and Prism query and inspector results in 3D.",
 "author":["totemo"],
 "source":"https://github.com/totemo/watson",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -18325,7 +18306,7 @@
 "author":["AmbientOcclusion"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -18407,7 +18388,7 @@
 "author":["Ivorius"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -18555,18 +18536,7 @@
 "source":"https://github.com/ga2mer/ZoomMod",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"ZoomMod",
-"link":"http://bit.ly/1i0Cs6h",
-"desc":"Allows you to zoom by holding a configurable button.",
-"author":["ga2mer"],
-"source":"https://github.com/ga2mer/ZoomMod",
-"type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -18589,7 +18559,7 @@
 "source":"https://github.com/Zyin055/zyinhud",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
