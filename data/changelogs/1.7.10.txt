@@ -55,7 +55,7 @@
 	+Added "Power Converters"
 	+Added "Backpacks (Brad16840)"
 	+Added "Balanced Exchange"
-	+Added "Backpack Renderer addon"
+	+Added "Backpack Renderer Add-on"
 	+Added "NuclearPan"
 	+Added "Atum: Journey Into The Sands"
 

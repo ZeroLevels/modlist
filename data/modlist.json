@@ -212,7 +212,7 @@
 },{
 
 "name":"Advanced Power Management",
-"link":"https://bitbucket.org/Zuxelus/ic2-advanced-power-management/src",
+"link":"http://bit.ly/1sTGsKc",
 "desc":"Adds several new blocks to IC2 to help you manage your energy grid. Unofficial port of Pantheis's Advanced Power Management.",
 "author":["Zuxelus"],
 "source":"https://github.com/pantheis/AdvancedPowerManagement",
@@ -1218,9 +1218,9 @@
 
 },{
 
-"name":"Backpack Renderer addon",
+"name":"Backpack Renderer Add-on",
 "link":"http://bit.ly/1fMM6M4",
-"desc":"The Backpack Renderer addon is a coremod that shows a backpack from your hotbar worn on your players back.",
+"desc":"Renders backpacks in the player hotbar.",
 "author":["Brad16840"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -8354,7 +8354,7 @@
 },{
 
 "name":"Iridium Mod",
-"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10700",
+"link":"http://bit.ly/1Chu0ul",
 "desc":"Adds iridium ore to the world generation.",
 "author":["DevilDead"],
 "type":["Universal"],
@@ -12179,7 +12179,7 @@
 },{
 
 "name":"NuclearPan",
-"link":"https://bitbucket.org/Zuxelus/ic2_electric_fishing_rod/downloads",
+"link":"http://bit.ly/1pYqi3W",
 "desc":"Standard cooking pan for nuclear reactors. Unofficial port of LostCoder's NuclearPan.",
 "author":["Zuxelus"],
 "type":["Universal"],
