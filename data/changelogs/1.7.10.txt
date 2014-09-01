@@ -63,7 +63,6 @@
 	+Added "Rancraft Penguins"
 	+Added "Reptile Mod"
 	+Added "SecurityCraft"
-	+Added "Simple Ender Things"
 	+Added "Simple Recipes"
 	+Added "Slime Dungeons"
 	+Added "Stuff Worth Throwing"
