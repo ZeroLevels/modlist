@@ -4,6 +4,10 @@
 	*Updated "Translocator" name and info: Now "Translocators", Added source
 	*Updated "IronChests" authors and info: Updated source
 	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
+	*Updated "Combo Armors" authors, description and source
+	*Updated "Electric Fishing Rod" description
+	*Updated "Nuclear Control 2" description
+	*Updated "Aquaculture" info: Added source
 	+Added "Fossils and Archeology Revival"
 	+Added "Falling Meteors Mod"
 	+Added "FinndusFillies"
@@ -49,6 +53,11 @@
 	+Added "The Barrels Mod"
 	+Added "SimpleOres 2"
 	+Added "Power Converters"
+	+Added "Backpacks (Brad16840)"
+	+Added "Balanced Exchange"
+	+Added "Backpack Renderer Add-on"
+	+Added "NuclearPan"
+	+Added "Atum: Journey Into The Sands"
 
 (August/30/2014)
 	*Updated "Buildcraft" authors: Added SpaceToad

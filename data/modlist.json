@@ -212,9 +212,9 @@
 },{
 
 "name":"Advanced Power Management",
-"link":"http://bit.ly/YZNpRm",
-"desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
-"author":["Pantheis", "Zuxelus"],
+"link":"http://bit.ly/1sTGsKc",
+"desc":"Adds several new blocks to IC2 to help you manage your energy grid. Unofficial port of Pantheis's Advanced Power Management.",
+"author":["Zuxelus"],
 "source":"https://github.com/pantheis/AdvancedPowerManagement",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
@@ -371,6 +371,7 @@
 "link":"http://bit.ly/1nWedZW",
 "desc":"Expands cooking, farming and the hunger system with new machines and recipes.",
 "author":["Odininon","RebelKeithy","Shadowclaimer"],
+"source":"https://github.com/TeamMetallurgy/Agriculture",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
@@ -675,6 +676,7 @@
 "link":"http://bit.ly/1cgXZmc",
 "desc":"An expansion of Minecraft's fishing system. You never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing.",
 "author":["Shadowclaimer","RebelKeithy"],
+"source":"https://github.com/TeamMetallurgy/Aquaculture",
 "type":["Universal"],
 "dependencies":["Forge Required","KeithyUtils"],
 "versions":["1.6.4","1.6.2","1.5.2"]
@@ -685,6 +687,7 @@
 "link":"http://bit.ly/1cgXZmc",
 "desc":"An expansion of Minecraft's fishing system. You never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing.",
 "author":["Shadowclaimer","RebelKeithy","Lclc98"],
+"source":"https://github.com/TeamMetallurgy/Aquaculture",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -1052,11 +1055,22 @@
 "name":"Atum: Journey Into The Sands",
 "link":"http://bit.ly/1536su4",
 "desc":"A new desert dimension that contains an eternal world full of sand, temples, and tons of new foes. Journey into Atum and discover ancient artifacts as you battle your way through vicious new enemies!",
-"author":["Shadowclaimer & RebelKeithy"],
-"source":"https://github.com/rebelkeithy/atum",
+"author":["Shadowclaimer","RebelKeithy"],
+"source":"https://github.com/TeamMetallurgy/Atum",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1"]
+"versions":["1.6.4","1.5.2","1.5.1"]
+
+},{
+
+"name":"Atum: Journey Into The Sands",
+"link":"http://bit.ly/1536su4",
+"desc":"A new desert dimension that contains an eternal world full of sand, temples, and tons of new foes. Journey into Atum and discover ancient artifacts as you battle your way through vicious new enemies!",
+"author":["Shadowclaimer","RebelKeithy","Lclc98"],
+"source":"https://github.com/TeamMetallurgy/Atum",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -1204,13 +1218,23 @@
 
 },{
 
+"name":"Backpack Renderer Add-on",
+"link":"http://bit.ly/1fMM6M4",
+"desc":"Renders backpacks in the player hotbar.",
+"author":["Brad16840"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Backpacks (Brad16840)",
 "link":"http://bit.ly/1fMM6M4",
 "desc":"Adds nestable backpacks that can be opened from inside other backpacks.",
 "author":["Brad16840"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -1281,7 +1305,7 @@
 "author":["Brad16840"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -3240,8 +3264,9 @@
 
 "name":"Combo Armors",
 "link":"http://bit.ly/1lnLcJs",
-"desc":"Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
-"author":["UnixRano","Zuxelus"],
+"desc":"Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2. Unofficial port of UnixRano's Combo Armors.",
+"author":["Zuxelus"],
+"source":"https://bitbucket.org/Zuxelus/ic2-combo-armors/src/",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.7.10","1.7.2","1.6.4"]
@@ -5004,19 +5029,9 @@
 
 },{
 
-"name":"Electric Expansion",
-"link":"http://bit.ly/1bbB9R3",
-"desc":"",
-"author":["Mattredsox","Alex_Hawks"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
 "name":"Electric Fishing Rod",
 "link":"http://bit.ly/1pYqi3W",
-"desc":"Adds tesla coils which electrocute fish and magnetizers which attract fish, controlled by advanced circuits.",
+"desc":"Adds tesla coils which electrocute fish and magnetizers which attract fish, controlled by advanced circuits. Unofficial port of Drashian's Electric Fishing Rod.",
 "author":["Zuxelus"],
 "source":"https://bitbucket.org/Zuxelus/ic2_electric_fishing_rod/src",
 "type":["Universal"],
@@ -8339,7 +8354,7 @@
 },{
 
 "name":"Iridium Mod",
-"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10700",
+"link":"http://bit.ly/1Chu0ul",
 "desc":"Adds iridium ore to the world generation.",
 "author":["DevilDead"],
 "type":["Universal"],
@@ -12154,12 +12169,22 @@
 
 "name":"Nuclear Control 2",
 "link":"http://bit.ly/1qYfse2",
-"desc":"Allows efficient monitoring and notifications of nuclear reactors. Also adds Howler Alarms and Industrial Alarms for an industrial-style notification/alarming system. Unoffical port of Shedan's Nuclear Control.",
+"desc":"Allows efficient monitoring and notifications of nuclear reactors. Also adds Howler Alarms and Industrial Alarms for an industrial-style notification/alarming system. Unofficial port of Shedar's Nuclear Control.",
 "author":["Zuxelus","xbony2"],
 "source":"https://github.com/xbony2/Nuclear-Control",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"NuclearPan",
+"link":"http://bit.ly/1pYqi3W",
+"desc":"Standard cooking pan for nuclear reactors. Unofficial port of LostCoder's NuclearPan.",
+"author":["Zuxelus"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10"]
 
 },{
 

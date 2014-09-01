@@ -11,6 +11,7 @@
 	*Updated "Magic Bees" info: Added source
 	*Updated "Metallurgy 3" authors and info: Updated source
 	*Updated "Enchanting Plus" info: Updated source
+	*Updated "Atum: Journey Into The Sands" info: Updated source
 	+Added "Greg's Blocks"
 	+Added "Greg's Prospecting"
 	+Added "Whole Tree Axe"

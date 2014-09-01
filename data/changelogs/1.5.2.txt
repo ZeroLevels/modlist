@@ -14,6 +14,8 @@
 	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
 	*Updated "Enchanting Plus" info: Updated source
 	*Updated "Additional Pipes" info: Added source
+	*Updated "Aquaculture" info: Added source
+	*Updated "Atum: Journey Into The Sands" info: Updated source
 	+Added "Falling Meteors Mod"
 	+Added "Wireless Redstone: Chicken Bones Edition"
 	+Added "Greg's Blocks"

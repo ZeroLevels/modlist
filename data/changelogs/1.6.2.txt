@@ -12,6 +12,8 @@
 	*Updated "Enchanting Plus" info: Updated source
 	*Updated "SimpleOres" name: Now "SimpleOres 2"
 	*Updated "Additional Pipes" info: Added source
+	*Updated "Agriculture" info: Added source
+	*Updated "Aquaculture" info: Added source
 	+Added "Forgotten Nature"
 	+Added "Falling Meteors Mod"
 	+Added "Greg's Blocks"
