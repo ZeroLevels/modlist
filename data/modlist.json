@@ -6024,16 +6024,6 @@
 
 },{
 
-"name":"Familiars",
-"link":"http://bit.ly/VNNZZT",
-"desc":"",
-"author":["pitman-87"],
-"type":["SSP","SMP","LAN"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.4.5"]
-
-},{
-
 "name":"Familiars Mod",
 "other":"(and API)",
 "link":"http://bit.ly/VNNZZT",
