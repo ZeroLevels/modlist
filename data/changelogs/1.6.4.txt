@@ -7,9 +7,7 @@
 	+Added "The Necromancy Mod"
 	+Added "Mob Properties"
 	+Added "Natural Absorption"
-	+Added "VeinMiner"
 	+Added "XRay"
-	+Added "ZoomMod"
 	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
 	-Removed "More Nature" mod already exist with name "Animals+"
 

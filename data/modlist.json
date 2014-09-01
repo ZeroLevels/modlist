@@ -4016,7 +4016,7 @@
 },{
 
 "name":"CUDA Shaders",
-"link":"http://dedelner.net/my-projects/cuda-shaders-for-1-7/",
+"link":"http://bit.ly/1to8Mbw",
 "desc":"Shaders designed to run on both older and modern PCs. Improves lighting and shadows.",
 "author":["DeDelner"],
 "type":["Client"],
@@ -7785,7 +7785,7 @@
 },{
 
 "name":"HybridCraft: Refused",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292329-1-7-2-forge-smp-hybridcraft-refused-adding-hybrid",
+"link":"http://bit.ly/1w0ym4A",
 "desc":"Adds hybrid ores and tools to the game with a combination of materials. Previously known as HybridCraft.",
 "author":["Geforce132"],
 "type":["Universal"],
@@ -10428,8 +10428,8 @@
 },{
 
 "name":"Mob Properties",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob",
-"desc":"This mod allows you to customize all mobs, vanilla or otherwise, with completely configurable drops, attributes, equipment, potion effects, and even NBT data.",
+"link":"http://bit.ly/1q2VKhn",
+"desc":"Allows mob customization with completely configurable drops, attributes, equipment, potion effects, and NBT data.",
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -10715,7 +10715,7 @@
 },{
 
 "name":"Mo' Furnaces",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189931-mo-furnaces-mod-v2-1-0",
+"link":"http://bit.ly/1nPkOnk",
 "desc":"Adds faster furnace variants made from more expensive materials such as iron, gold, diamond, etc..",
 "author":["Mattk10"],
 "source":"https://github.com/Mattkx4/MoFurnaces-v2",
@@ -11734,8 +11734,8 @@
 },{
 
 "name":"Natural Absorption",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob",
-"desc":"This small mod gives you permanent absorption health that regenerates over time.",
+"link":"http://bit.ly/1q2VKhn",
+"desc":"Gives players permanent absorption health which regenerates over time. Also stacks with the absorption potion effect.",
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -16395,7 +16395,7 @@
 
 "name":"The Necromancy Mod",
 "link":"http://bit.ly/UAxW6Q",
-"desc":"This mod is all about necromancy. Also known as the art of reanimation.",
+"desc":"Allows reanimation of stitched body parts from slain foes.",
 "author":["sirolf2009"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -16404,8 +16404,8 @@
 },{
 
 "name":"The Necromancy Mod",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294080-1-7-10-necromancy-sew-your-own-unholy-minions",
-"desc":"This mod is all about necromancy. Also known as the art of reanimation.",
+"link":"http://bit.ly/1w0z2qK",
+"desc":"Allows reanimation of stitched body parts from slain foes.",
 "author":["AtomicStryker"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -17436,7 +17436,7 @@
 },{
 
 "name":"Usefulfood",
-"link":"https://bitbucket.org/Zuxelus/usefulfood/downloads",
+"link":"http://bit.ly/1qUCpes",
 "desc":"The goal of this mod is to add as much useful food as possible to minecraft, without destroying the vanilla feeling of it. No extreme and complicated recipes! The mod is supposed to be simple and useful for the user, to make food from things you normally can't make food from and to add a large variety of food to make minecraft more interesting. Unofficial port of Silentspy's Usefulfood.",
 "author":["Zuxelus"],
 "source":"https://bitbucket.org/Zuxelus/usefulfood/src",
@@ -17653,15 +17653,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
-
-"name":"VeinMiner",
-"link":"http://bit.ly/1moK8zk",
-"desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
-"author":["portablejim"],
-"source":"https://github.com/portablejim/VeinMiner",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -17919,7 +17910,7 @@
 },{
 
 "name":"Watson",
-"link":"https://github.com/totemo/watson/releases",
+"link":"http://bit.ly/1qvZt5H",
 "desc":"Visualizes LogBlock, CoreProtect and Prism query and inspector results in 3D.",
 "author":["totemo"],
 "source":"https://github.com/totemo/watson",
@@ -18545,18 +18536,7 @@
 "source":"https://github.com/ga2mer/ZoomMod",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"ZoomMod",
-"link":"http://bit.ly/1i0Cs6h",
-"desc":"Allows you to zoom by holding a configurable button.",
-"author":["ga2mer"],
-"source":"https://github.com/ga2mer/ZoomMod",
-"type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -18569,17 +18549,6 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
-
-},{
-
-"name":"ZoomMod",
-"link":"http://bit.ly/1i0Cs6h",
-"desc":"Allows you to zoom by holding a configurable button.",
-"author":["ga2mer"],
-"source":"https://github.com/ga2mer/ZoomMod",
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4"]
 
 },{
 

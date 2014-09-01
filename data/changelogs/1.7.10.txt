@@ -1,5 +1,6 @@
 (September/01/2014)
 	*Updated "Nuclear Control 2" description
+	*Updated "ZoomMod" info: Now requires Forge, no longer base edit
 	+Added "Advanced Dispensers"
 	+Added "Advanced Genetics"
 	+Added "Aliens Vs Predator"
@@ -70,13 +71,11 @@
 	+Added "Surface Quartz"
 	+Added "ThebombzenAPI"
 	+Added "The Peacefulpack"
-	+Added "VeinMiner"
 	+Added "Voxel Player Models"
 	+Added "CrackedZombies"
 	+Added "Watson"
 	+Added "XRay"
 	+Added "Ye Gamol Chattels"
-	+Added "ZoomMod"
 	+Added "Zyin's HUD"
 	+Added "EnderIO" Release
 
