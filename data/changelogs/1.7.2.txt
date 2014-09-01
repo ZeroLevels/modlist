@@ -1,3 +1,19 @@
+(September/01/2014)
+	*Updated "Nuclear Control 2" description
+	*Updated "Invincible Hamster" info: Discontinued, no future updates from authors
+	*Updated "Minecraft Capes" info: Discontinued, no future updates from authors
+	*Updated "SimpleEnderPouch" name: Now "Simple Ender Things"
+	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
+	*Updated "Watson" link
+	+Added "Artifice"
+	+Added "Ice Cream Sandwich Creeper Mod"
+	+Added "Thirst Mod"
+	+Added "The Resident Evil Mod"
+	+Added "The Necromancy Mod"
+	+Added "Subaraki's Paintings ++"
+	+Added "Subaraki's Gravestone Mod"
+	-Removed "More Nature" mod already exist with name "Animals+"
+
 (August/31/2014)
 	*Updated "Ender Storage" info: Added source
 	*Updated "Not Enough Items" info: Added source

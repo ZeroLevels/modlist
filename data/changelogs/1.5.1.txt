@@ -1,3 +1,9 @@
+(September/01/2014)
+	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
+	*Updated "Usefulfood" info: Added source
+	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
+	-Removed "Health Bars": Download no longer available
+
 (August/31/2014)
 	*Updated "ChickenChunks" info: Added source
 	*Updated "Ender Storage" info: Added source
