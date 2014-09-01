@@ -77,6 +77,7 @@
 	+Added "Ye Gamol Chattels"
 	+Added "Zyin's HUD"
 	+Added "EnderIO" Release
+	+Added "Usefulfood"
 
 (August/31/2014)
 	*Updated "Ender Storage" info: Added source
