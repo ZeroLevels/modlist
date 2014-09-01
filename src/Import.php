@@ -1,6 +1,8 @@
 <?php
 namespace Modlist;
 
+use Illuminate\Database\Capsule\Manager as Capsule;
+
 use Author as Author;
 use Mod as Mod;
 use ModAuthor as ModAuthor;
@@ -27,20 +29,35 @@ class Import {
 
 	public function convert()
 	{
-		foreach ($this->mod_list as $mod)
+		$start = microtime(true);
+		Capsule::transaction(function()
 		{
-			$this->addVersions($mod->versions);
-			$this->addAuthors($mod->author);
-			$this->addTypes($mod->type);
-		}
-
-		foreach ($this->mod_list as $mod)
+			foreach ($this->mod_list as $mod)
+			{
+				$this->addVersions($mod->versions);
+				$this->addAuthors($mod->author);
+				$this->addTypes($mod->type);
+			}
+		});
+		echo "Processed versions, authors and types in " . (microtime(true) - $start) . " seconds\n";
+		$start = microtime(true);
+		
+		Capsule::transaction(function()
 		{
-			$this->addMod($mod);
-		}
+			foreach ($this->mod_list as $mod)
+			{
+				$this->addMod($mod);
+			}
+		});
+		echo "Processed mods in " . (microtime(true) - $start) . " seconds\n";
+		$start = microtime(true);
 		
 		// Defer dependency resolution
-		$this->resolveModVersionDependencies();
+		Capsule::transaction(function()
+		{
+			$this->resolveModVersionDependencies();
+		});
+		echo "Processed dependencies in " . (microtime(true) - $start) . " seconds\n";
 	}
 
 	public function addVersions($versions)
