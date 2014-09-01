@@ -78,6 +78,7 @@
 	+Added "Ye Gamol Chattels"
 	+Added "ZoomMod"
 	+Added "Zyin's HUD"
+	+Added "EnderIO" Release
 
 (August/31/2014)
 	*Updated "Ender Storage" info: Added source

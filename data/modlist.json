@@ -5231,7 +5231,7 @@
 "source":"https://github.com/CrazyPants/EnderIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -5243,7 +5243,7 @@
 "source":"https://github.com/CrazyPants/EnderIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.2"]
 
 },{
 
