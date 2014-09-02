@@ -1793,6 +1793,16 @@
 
 },{
 
+"name":"BiblioWoods Addons",
+"link":"http://www.bibliocraftmod.com/?page_id=50#bibliowoods",
+"desc":"These add-ons for BiblioCraft will allow the player to craft 8 of the wooden BiblioCraft blocks in the different woods provided by said mod.",
+"author":["Nuchaz"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"Big Reactors",
 "other":"(Alpha)",
 "link":"http://bit.ly/10PZyYH",
@@ -4751,11 +4761,21 @@
 
 "name":"DrZhark's MagicCarpet Mod",
 "link":"http://bit.ly/1ccyDI8",
-"desc":"Adds in Magic Carpets that allow you to fly.  Also works on 1.6.4.",
+"desc":"Adds in Magic Carpets that allow you to fly.",
 "author":["DrZhark"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Dual Hotbars",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2178797-dual-hotbars",
+"desc":"This mod gives you a 18 slot hot bar.",
+"author":["RebelKeithy"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -5549,6 +5569,17 @@
 
 },{
 
+"name":"Equivalent Exchange Reborn",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2174708-wip-equivalent-exchange-reborn",
+"desc":"Allows you to transmute materials into other materials.",
+"author":["ChatterComa"],
+"source":"https://github.com/multiplemonomials/Equivalent-Exchange-Reborn",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Essentia Everything",
 "link":"http://bit.ly/Xhovos",
 "desc":"This addon has two major features. Firstly, it automatically adds support for all ores, nuggets, ingots, and dusts registered with Forge's Ore Dictionary. Secondly, it adds the ability to add or adjust aspects for just about anything, vanilla or modded.",
@@ -5919,6 +5950,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"ExtraTiC",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445212-extratic-tinkers-construct-mod-support-add-on",
+"desc":"ExtraTiC is Mod add-on to bridge Tinkers' Construct and other mods.",
+"author":["JeanGlassmaker"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -6496,6 +6537,27 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Forestry Extras 2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294269-1-6-1-7-forestry-extras-2-2-3-1-added-vanilla",
+"desc":"Adding a lot of different stuff to Forestry like new Frames, Scoops, Grafters and more.",
+"author":["wasliebob"],
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Forestry Extras 2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294269-1-6-1-7-forestry-extras-2-2-3-1-added-vanilla",
+"desc":"Adding a lot of different stuff to Forestry like new Frames, Scoops, Grafters and more.",
+"author":["wasliebob"],
+"source":"https://github.com/wasliebob/FE2-1.7",
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -9147,21 +9209,12 @@
 
 "name":"Logistics Pipes",
 "link":"http://bit.ly/12p1tyZ",
-"desc":"",
-"author":["thezorro266"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
-"name":"Logistics Pipes",
-"link":"http://bit.ly/12p1tyZ",
 "desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
 "author":["thezorro266"],
+"source":"https://github.com/RS485/LogisticsPipes",
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft"],
-"versions":["1.6.4","1.5.2","1.4.7"]
+"versions":["1.6.4","1.5.2","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -9170,6 +9223,7 @@
 "link":"http://bit.ly/12p1tyZ",
 "desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
 "author":["thezorro266"],
+"source":"https://github.com/RS485/LogisticsPipes",
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft"],
 "versions":["1.7.10"]
@@ -10083,10 +10137,20 @@
 "name":"Minegicka II",
 "link":"http://bit.ly/16lJO0g",
 "desc":"Bring the aspects of Magicka into the game, with additional features.",
-"author":["Will.Eze"],
+"author":["WilliamLe"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Minegicka 3",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2158443-minegicka-3-detailed-guides-available",
+"desc":"Bring the aspects of Magicka into the game, with additional features.",
+"author":["WilliamLe"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -10106,7 +10170,7 @@
 "author":["Teotoo"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -10117,6 +10181,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Mine Little Pony: Friendship is Crafting",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2178137-mine-little-pony-friendship-is-crafting-v1-7-10-1",
+"desc":"Adds new player models and textures that make players look like ponies, in the style of the TV show My Little Pony: Friendship Is Magic. Once the mod is installed, you and all other players will look like ponies in both singleplayer and multiplayer. Players who aren't using a special pony skin will look like one of the background ponies from the show (as the default player skins are not fully compatible with this mod).",
+"author":["VoxelModPack"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -14987,6 +15061,29 @@
 
 },{
 
+"name":"Somnia",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291170-somnia-simulating-the-world-while-you-sleep",
+"desc":"Somnia simulates your world while you sleep, instead of magically jumping to daytime, everything progresses. Mobs will spawn and despawn, machines will run, ores will smelt.",
+"author":["kingrunes"],
+"source":"https://github.com/kingrunes/Somnia",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Somnia",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291170-somnia-simulating-the-world-while-you-sleep",
+"desc":"Somnia simulates your world while you sleep, instead of magically jumping to daytime, everything progresses. Mobs will spawn and despawn, machines will run, ores will smelt.",
+"author":["kingrunes"],
+"source":"https://github.com/kingrunes/Somnia",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Sonic Ether's Unbelievable Shaders",
 "link":"http://bit.ly/1jpjgCi",
 "desc":"Adds shaders and animation to Minecraft to make stunning videos and photos. Requires a powerful computer.",
@@ -15482,9 +15579,21 @@
 "link":"http://bit.ly/18jFY8E",
 "desc":"Adds a couple of recipes and items for alternative methods of acquiring redstone/glowstone dust.",
 "author":["Othlon"],
+"source":"https://github.com/Othlon/StopGap",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Storage Drawers",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14",
+"desc":"This mod adds new storage solutions to your workshops that resembles a mix of Jabba Barrels and Bibliocraft Shelves over traditional storage containers.",
+"author":["jaquadro"],
+"source":"https://github.com/jaquadro/StorageDrawers",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -15922,6 +16031,29 @@
 
 },{
 
+"name":"Thaumcraft Extras",
+"link":"http://bit.ly/1bNyb3j",
+"desc":"Thaumcraft Extras is an Addon for Thaumcraft 4 adding lots of stuff like Foci, Blocks, Items and more.",
+"author":["wasliebob"],
+"source":"https://github.com/wasliebob/ThaumcraftExtras",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Thaumcraft Extras 2",
+"other":"(Unstable)",
+"link":"http://bit.ly/1bNyb3j",
+"desc":"Thaumcraft Extras is an Addon for Thaumcraft 4 adding lots of stuff like Foci, Blocks, Items and more.",
+"author":["wasliebob"],
+"source":"https://github.com/wasliebob/ThaumcraftExtras2",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Thaumcraft Mob Aspects",
 "link":"http://bit.ly/1nWb2RM",
 "desc":"Adds Thaumcraft aspects to mobs from other mods: Lycanites Mobs, Mo' Creatures, Special Mobs and Twilight Forest.",
@@ -15941,6 +16073,40 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Thaumic Energistics",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics",
+"desc":"The goal of the mod is to serve as a bridge between Thaumcraft and Applied Energistics. The primary focus is essentia management, both in storage, transportation, and application.",
+"author":["Nividica"],
+"source":"https://github.com/Nividica/ThaumicEnergistics",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Thaumic Exploration",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft",
+"desc":"Thaumic Exploration is a Thaumcraft 4 addon, with the goal of simply adding more balanced Thaumcraft content of the quality you would expect from Azanor himself.",
+"author":["Flaxbeard"],
+"source":"https://github.com/Flaxbeard/Thaumic_Exploration",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Thaumic Exploration",
+"other":"(Unstable)",
+"link":"http://jenkins.nekokittygames.com:8080/view/Thaumic%20Explorer/job/Thaumic%20Explorer/",
+"desc":"Thaumic Exploration is a Thaumcraft 4 addon, with the goal of simply adding more balanced Thaumcraft content of the quality you would expect from Azanor himself.",
+"author":["nekosune"],
+"source":"https://github.com/nekosune/Thaumic_Exploration/",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
 
 },{
 
@@ -16765,6 +16931,28 @@
 
 },{
 
+"name":"Tinkers' Steelworks",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445710-1-6-4-tinkers-steelworks",
+"desc":"Tinkers' Steelworks aims to be a total expansion to Tinkers' Construct by adding new material processing concepts to early and late game.",
+"author":["Toops"],
+"source":"https://github.com/Toops/TinkersSteelworks",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Tinkers' Steelworks",
+"link":"https://github.com/Ephys/TinkersSteelworks/releases/",
+"desc":"Tinkers' Steelworks aims to be a total expansion to Tinkers' Construct by adding new material processing concepts to early and late game.",
+"author":["Ephys"],
+"source":"https://github.com/Toops/TinkersSteelworks",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct","Mantle"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Tinted Lamps",
 "link":"http://bit.ly/14chqKt",
 "desc":"Lets you dye Redstone Lamps into any of the 16 available colors.",
@@ -17081,6 +17269,26 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.2"]
+
+},{
+
+"name":"TragicMC",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292672-tragicmc-2-beta-for-1-7-2-and-1-7-10",
+"desc":"This mod adds multiple items and a bunch of new mobs, with a lot of weapons/items/blocks with special abilities. It also adds in some potion effects and enchants.",
+"author":["TragicNeko"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"TragicMC 2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292672-tragicmc-2-beta-for-1-7-2-and-1-7-10",
+"desc":"This mod adds multiple items and a bunch of new mobs, with a lot of weapons/items/blocks with special abilities. It also adds in some potion effects and enchants.",
+"author":["TragicNeko"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -17845,6 +18053,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"WaslieCore",
+"other":"(Dependency)",
+"link":"http://www.wasliebob.nl/wasliecore.php",
+"desc":"WaslieCore is a core mod needed for all wasliebob 1.7+ mods.",
+"author":["wasliebob"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10,"1.7.2]
 
 },{
 

@@ -1,3 +1,15 @@
+(September/02/2014)
+	*Updated "StopGap" info: Added source
+	+Added "TragicMC 2"
+	+Added "Somnia"
+	+Added "Minegicka 3"
+	+Added "Mine Little Pony: Friendship is Crafting"
+	+Added "Thaumic Energistics"
+	+Added "Thaumic Exploration"
+	+Added "Forestry Extras 2"
+	+Added "Thaumcraft Extras 2"
+	+Added "WaslieCore"
+
 (September/01/2014)
 	*Updated "Nuclear Control 2" description
 	*Updated "Invincible Hamster" info: Discontinued, no future updates from authors

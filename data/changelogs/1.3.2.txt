@@ -1,3 +1,7 @@
+(September/02/2014)
+	+Added "Mine Little Brony"
+	+Added "Logistics Pipes"
+
 (August/31/2014)
 	+Added "CodeChickenCore"
 	+Added "Ender Storage"

@@ -1,3 +1,10 @@
+(September/02/2014)
+	*Updated "DrZhark's MagicCarpet Mod" description
+	*Updated "Minegicka II" authors: Renamed Will.Eze to WilliamLe
+	+Added "Somnia"
+	+Added "Forestry Extras 2"
+	+Added "Thaumcraft Extras"
+
 (September/01/2014)
 	*Updated "Hunger Overhaul" info: Added source
 	*Updated "Usefulfood" info: Added source
