@@ -1,3 +1,21 @@
+(September/02/2014)
+	*Updated "StopGap" info: Added source
+	*Updated "Logistics Pipes" info: Added source
+	+Added "ExtraTiC": Currently in Alpha
+	+Added "Dual Hotbars"
+	+Added "TragicMC 2": Currently in Beta
+	+Added "Somnia"
+	+Added "Minegicka 3"
+	+Added "Storage Drawers"
+	+Added "Mine Little Pony: Friendship is Crafting"
+	+Added "Tinkers' Steelworks"
+	+Added "Equivalent Exchange Reborn": Currently WIP
+	+Added "Thaumic Energistics"
+	+Added "Thaumic Exploration"
+	+Added "Forestry Extras 2"
+	+Added "Thaumcraft Extras 2"
+	+Added "WaslieCore"
+
 (September/01/2014)
 	*Updated "Nuclear Control 2" description
 	*Updated "PneumaticCraft" info: Added source
