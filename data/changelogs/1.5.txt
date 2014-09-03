@@ -1,3 +1,7 @@
+(September/03/2014)
+	-Removed "ZombieCraft 3": Not available on this version
+	-Removed "Zombie Awareness": Not available on this version
+
 (September/01/2014)
 	+Added "Deadly World"
 

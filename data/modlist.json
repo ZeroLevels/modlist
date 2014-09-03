@@ -43,6 +43,17 @@
 
 },{
 
+"name":"AbyssalCraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287002-1-7-10-1-7-2-forge-ssp-lan-smp-abyssalcraft-v-1-7",
+"desc":"Fancy description here.",
+"author":["Shinoow"],
+"source":"https://github.com/Shinoow/AbyssalCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Additional Buildcraft Objects",
 "link":"http://bit.ly/13infK7",
 "desc":"Provides some additional pipes and objects for buildcraft.",
@@ -114,6 +125,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Advanced Fluxian Tools",
+"other":"(WIP)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091815-1-7-2-rf-wip-tech-advanced-fluxian-tools-expand",
+"desc":"The general design of the mod is meant towards advanced tools and machinery to be used in the world.",
+"author":["tgame14"],
+"source":"https://github.com/tgame14/Advanced-Fluxian-Tools",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -642,6 +665,17 @@
 
 },{
 
+"name":"Another One Bites the Dust 2",
+"other":"(AOBD 2)",
+"link":"http://bit.ly/UxbOKv",
+"desc":"This mod automatically detects every single ore from every single mod you have installed and creates the necessary dusts and etc in order for that metal to be processed on several mod's machines!",
+"author":["ganymedes01"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Aperture Science Turtle Upgrades",
 "link":"http://bit.ly/YBqlEd",
 "desc":"Includes many turtle upgrades varying from IDetecting turtles to batch turtles, you can enable the parts that you like",
@@ -691,6 +725,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Aquatic Abyss",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2151604-aquatic-abyss-v1-1-0-swordfish-and-serpents",
+"desc":"Fancy description here.",
+"author":["thehippomaster21"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -1115,6 +1159,17 @@
 
 },{
 
+"name":"Automagy",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-8",
+"desc":"An addon for Thaumcraft 4 focused on providing flexible and interesting tools for automation and logistics, plus a few other fun thaumic gadgets.",
+"author":["Tuhljin"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Automatic Wheat Farmer",
 "link":"http://bit.ly/Ty9cf2",
 "desc":"If you have seeds in your item bar, this mod will automatically plant them in any nearby farmland.  Optionally you can have it automatically harvest nearby ripe wheat as well (to prevent griefing, this is only possible with planting enabled).",
@@ -1175,6 +1230,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Вращение Земли Майнкрафтская",
+"other":"(B3M)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289314-1-4-7-1-7-10-vrashenie-zemli-majnkraftskaya",
+"desc":"This mod that lets you change the speed of the time in Minecraft, without the undesirable slow-motion effects on mobs, actions and plant growth that other such mods do.",
+"author":["Sedridor"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.4.7"]
 
 },{
 
@@ -2357,6 +2423,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"Buildcraft Additions",
+"link":"http://buildcraftadditions.wordpress.com/",
+"desc":"Extending Buildcraft with Fluid Canisters, Kinetic Capsules, Power Tools and much more!",
+"author":["AEnterprise"],
+"source":"https://github.com/AEnterprise/Buildcraft-Additions",
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3949,6 +4026,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"Creepypastacraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290374-creepypastacraft",
+"desc":"Adds creepypasta creations and creatures",
+"author":["ntzrmtthihu777"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -6469,6 +6556,16 @@
 
 },{
 
+"name":"FluidConverters",
+"link":"http://www.curse.com/mc-mods/minecraft/223737-fluidconverters",
+"desc":"This mod allows you to configure fluid groups in JSON config files that contain a set of fluids (with some optional properties) that can be converted to each other.",
+"author":["kroeser","rubensworks"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Fly Mod",
 "link":"http://bit.ly/cjbmodsr",
 "desc":"Lets you fly by a simple button press. (Default F Key). It is possible to change the fly speed. There is also a button that makes you run faster (Press/Hold Left-Shift Key by default). You can also enable to fly up/down by using the mouse (disabled by default).",
@@ -6803,6 +6900,39 @@
 "source":"https://github.com/micdoodle8/Galacticraft",
 "type":["Universal"],
 "dependencies":["Forge Required","Micdoodle Core","Galacticraft"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Gany's End",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291092-ganys-end-miscellaneous-ender-themed-additions",
+"desc":"Adds blocks and functionalities related to the End.",
+"author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/Gany-s-End",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Gany's Nether",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291095-ganys-nether-miscellaneous-nether-themed-additions",
+"desc":"Adds new blocks and functionalities related to the Nether.",
+"author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/Gany-s-Nether",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Gany's Surface",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291094-ganys-surface-miscellaneous-overworld-themed",
+"desc":"Adds new blocks and functionalities related to the Overworld.",
+"author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/Gany-s-Surface",
+"type":["Universal"],
+"dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
 
 },{
@@ -7429,6 +7559,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"HarvestCraft Waila Fixes",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294885-harvestcraft-waila-fixes-fix-for-missing-names",
+"desc":"A simple client-side add-on for Pam's HarvestCraft/Pam's Weee Flowers that fixes a few missing names/icons in Waila tooltips.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/HarvestCraftWaila",
+"type":["Client"],
+"dependencies":["Forge Required","Waila","HarvestCraft"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10534,6 +10675,7 @@
 },{
 
 "name":"MobTalker2",
+"other":"(Beta)",
 "link":"http://bit.ly/1iOyVvi",
 "desc":"Allows users to create visual novel styled adventure games in Minecraft, using a newly developed scripting language called MobTalkerScript.",
 "author":["Chimaine","xs2007"],
@@ -10664,6 +10806,30 @@
 
 "name":"Modular Force Field System",
 "other":"(MFFS)",
+"link":"http://minecraft.curseforge.com/mc-mods/59882-modular-forcefield-system",
+"desc":"Makes forcefields that you can make look like other blocks or hold mobs/players at bay with.",
+"author":["Minalien"],
+"source":"https://github.com/Minalien/ModularForceFieldSystem",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2","1.6.2"]
+
+},{
+
+"name":"Modular Force Field System",
+"other":"(MFFS)",
+"link":"http://minecraft.curseforge.com/mc-mods/59882-modular-forcefield-system",
+"desc":"Makes forcefields that you can make look like other blocks or hold mobs/players at bay with.",
+"author":["Minalien"],
+"source":"https://github.com/Minalien/ModularForceFieldSystem",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Modular Force Field System",
+"other":"(MFFS) (Alpha)",
 "link":"http://bit.ly/1rofdsN",
 "desc":"Adds force fields, high-tech machinery and defensive measures.",
 "author":["Calclavia"],
@@ -10839,7 +11005,17 @@
 "author":["TheRoBrit"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"More Backpacks",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288128-more-backpacks-2-2-0-forestry-addon",
+"desc":"This mod is an addon for Forestry, and adds a bunch of new backpacks, each on crafted just like the vanilla forestry ones.",
+"author":["LordBlackHole"],
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -12090,6 +12266,17 @@
 
 },{
 
+"name":"Nodal Mechanics",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2193499-thaumcraft-nodal-mechanics",
+"desc":"An addon for Thaumcraft which adds a new research item and several associated recipes which allow you to craft nodes using large quantities of vis.",
+"author":["Shukaro"],
+"source":"https://github.com/Shukaro/Nodal-Mechanics",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"NoSlowDown",
 "link":"http://bit.ly/13dyHCR",
 "desc":"Allows you to keep running while using a bow or eating in single player and multiplayer servers",
@@ -13064,7 +13251,7 @@
 "author":["denoflions"],
 "type":["Universal"],
 "dependencies":["Forge Required","Forestry","denLib"],
-"versions":["1.6.2"]
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -14617,6 +14804,17 @@
 
 },{
 
+"name":"Simple Fluid Tanks",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294146-simple-fluid-tanks",
+"desc":"This mod allows you to store fluids in an expandable multiblock structures.",
+"author":["Zarathul"],
+"source":"https://github.com/Zarathul/simplefluidtanks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"SimpleGuns",
 "link":"http://bit.ly/YggI0F",
 "desc":"Adds guns to the game, meant to feel more at home in the world of minecraft. Adds such guns as a Flintlock Pistol/Musket, Blunderbuss, Revolver, Bolt-Action Rifle, Pistol, and more!",
@@ -15063,6 +15261,27 @@
 
 },{
 
+"name":"Solar Expansion",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2188753-solar-expansion-v1-1a-thermal-expansion-4-addon",
+"desc":"Addon for Thermal Expansion 4 that adds Solar Panels that produce RF!",
+"author":["TedTheRusSB624"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Solar Flux",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2187592-solar-flux-a-k-a-compactsolars-for-redstone-flux",
+"desc":"Addon for Thermal Expansion 4 that adds Solar Panels that produce Redstone Flux.",
+"author":["Nauktis"],
+"source":"https://github.com/Nauktis/SolarFlux",
+"type":["Universal"],
+"dependencies":["Forge Required","Thermal Expansion 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Somnia",
 "other":"(Pre-release)",
 "link":"http://bit.ly/Z6rqs2",
@@ -15309,6 +15528,28 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.4.5","1.3.2"]
+
+},{
+
+"name":"Squake",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181015-squake-quake-style-movement-for-minecraft",
+"desc":"A Quake-style movement mod for Minecraft, mostly inspired by the movement in Fortress Forever/Team Fortress Classic.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/Squake",
+"type":["Universal"],
+"dependencies":["Forge Required","Player API"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Squeedometer",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181009-squeedometer-adds-a-speedometer-to-your-hud",
+"desc":"A simple client-side mod that adds a speedometer to the HUD.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/Squeedometer",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15913,6 +16154,16 @@
 
 },{
 
+"name":"Technomancy",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2127441-0-8-2-technomancy-an-expanded-bridge",
+"desc":"This addon based around combining magic and technology in a (hopefully) fun way.",
+"author":["Theflogat"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10","1.6.4"]
+
+},{
+
 "name":"Telecrapht",
 "link":"http://bit.ly/15hAyZ4",
 "desc":"Adds a block to view your Twitter feed and a command to post text and screenshots to Twitter.",
@@ -15993,6 +16244,17 @@
 
 },{
 
+"name":"tgame-core",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/220454-tgame-core",
+"desc":"Required dependency for tgame14's mods.",
+"author":["tgame14"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Texture Pack on Main Menu",
 "link":"http://bit.ly/YQZfbG",
 "desc":"Puts the texture Packs button back onto the main menu.",
@@ -16056,6 +16318,17 @@
 
 },{
 
+"name":"ThaumcraftGates",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292852-1-7-2-thaumcraftgates-v1-3-0-tc4-bc-added",
+"desc":"Thaumcraft gates is a small mod that adds a little bit of interaction between BuildCraft and Thaumcraft.",
+"author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/ThaumcraftGates",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4","Buildcraft"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Thaumcraft Mob Aspects",
 "link":"http://bit.ly/1nWb2RM",
 "desc":"Adds Thaumcraft aspects to mobs from other mods: Lycanites Mobs, Mo' Creatures, Special Mobs and Twilight Forest.",
@@ -16112,6 +16385,18 @@
 
 },{
 
+"name":"Thaumic Infusion",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445452-tc4-add-on-1-7-2-thaumic-infusion-endless",
+"desc":"Thaumic Infusion is a mod all about allowing you to alter the properties and purpose of a block, through the use of Thaumcraft Aspects.",
+"author":["DrunkMafia"],
+"source":"https://github.com/TheDrunkMafia/ThaumicInfusion",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
@@ -16142,6 +16427,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles","Thaumcraft 4"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Thaumic Warden",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445922-1-7-2-tc4addon-thaumic-warden-did-you-miss-me",
+"desc":"The mod aims to add more adventure and story to thaumcraft by adding some stuff I found to be neat while playing.",
+"author":["MasterAbdoTGM50"],
+"source":"https://github.com/MasterAbdoTGM50/ThaumicWarden",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.2"]
 
 },{
 
@@ -16704,6 +17001,17 @@
 
 },{
 
+"name":"The Spice of Life",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety",
+"desc":"A mod that encourages dietary variety through diminishing returns.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/SpiceOfLife",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"The Stalker Mod",
 "link":"http://bit.ly/VU1UkO",
 "desc":"",
@@ -16853,6 +17161,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"TiC Tooltips",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool",
+"desc":"A simple client-side add-on for Tinkers' Construct that adds relevant stats to all tool and tool part tooltips.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/TiC-Tooltips",
+"type":["Client"],
+"dependencies":["Forge Required","Tinkers' Construct"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17218,6 +17537,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
 "versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Transmute Liquids",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104667-1-7-2-transmute-liquids-thaumcraft-4-add-on",
+"desc":"Transmute Liquids is an add-on for Thaumcraft 4. It currently adds crucible recipes for liquid containers.",
+"author":["MrPenguin01"],
+"source":"https://github.com/MrPenguin01/Transmute-Liquids",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.2"]
 
 },{
 
@@ -17985,6 +18315,18 @@
 
 },{
 
+"name":"Waila Harvestability",
+"other":"(How can I harvest what I'm looking at?)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im",
+"desc":"A client-side add-on for Waila that adds information about the harvestability of what you are looking at.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/WailaHarvestability",
+"type":["Client"],
+"dependencies":["Forge Required","Waila"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"WAWLA",
 "other":"(What Are We Looking At)",
 "link":"http://bit.ly/UY2yjs",
@@ -18445,10 +18787,22 @@
 "link":"http://bit.ly/1lnQ01r",
 "desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
 "author":["x3n0ph0b3","TrainerGuy22"],
-"source":"https://github.com/x3n0ph0b3/Reliquary",
+"source":"https://github.com/TrainerGuy22/Reliquary",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Xeno's Reliquary",
+"other":"(Unstable)",
+"link":"https://drone.io/github.com/TrainerGuy22/Reliquary/files",
+"desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
+"author":["x3n0ph0b3","TrainerGuy22"],
+"source":"https://github.com/TrainerGuy22/Reliquary",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18716,7 +19070,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -18727,7 +19081,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 

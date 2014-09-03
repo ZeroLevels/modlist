@@ -1,3 +1,8 @@
+(September/03/2014)
+	+Added "Вращение Земли Майнкрафтская"
+	+Added "ZombieCraft 3"
+	+Added "Zombie Awareness"
+
 (September/02/2014)
 	*Updated "Logistics Pipes" info: Added source
 	+Added "Mine Little Brony"
