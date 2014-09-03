@@ -4,6 +4,7 @@
 	*Updated "Minegicka II" authors: Renamed Will.Eze to WilliamLe
 	*Updated "Logistics Pipes" info: Added source
 	+Added "Dual Hotbars"
+	+Added "ExtraTiC": Currently in Alpha
 	+Added "TragicMC"
 	+Added "Somnia"
 	+Added "Tinkers' Steelworks"
