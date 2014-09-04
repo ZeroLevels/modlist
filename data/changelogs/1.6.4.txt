@@ -1,5 +1,8 @@
 (September/04/2014)
+	*Updated "Cobblestone And Stone Armour" info: Universal
 	*Updated "Xeno's Reliquary" info: Updated source link
+	*Updated "RotaryCraft" info: Added source
+	*Updated "Better Anvils" info: Added source
 	+Added "Technomancy"
 	+Added "TiC Tooltips"
 	+Added "Waila Harvestability"
@@ -13,6 +16,14 @@
 	+Added "More Backpacks"
 	+Added "Simple Fluid Tanks"
 	+Added "AbyssalCraft"
+	+Added "Forbidden Magic" Prerelease
+	+Added "Electro-Magic Tools"
+	+Added "Thaumic Reliquary"
+	+Added "Hardcore Ender Expansion"
+	+Added "Better Villages Mod"
+	+Added "WorldEdit": Experimental build
+	+Added "QuarryPlus"
+	-Removed "Jagm's Randoms": Download no longer available
 
 (September/02/2014)
 	*Updated "StopGap" info: Added source

@@ -1,3 +1,6 @@
+(September/04/2014)
+	+Added "Better Villages Mod"
+
 (August/31/2014)
 	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
 	*Updated "Enchanting Plus": Updated source
