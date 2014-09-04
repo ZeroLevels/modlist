@@ -1,4 +1,5 @@
 (September/04/2014)
+	*Updated "Cobblestone And Stone Armour" info: Universal
 	*Updated "Xeno's Reliquary" info: Updated source link
 	*Updated "RotaryCraft" info: Added source
 	*Updated "Better Anvils" info: Added source
@@ -20,7 +21,7 @@
 	+Added "Thaumic Reliquary"
 	+Added "Hardcore Ender Expansion"
 	+Added "Better Villages Mod"
-	+Added "WorldEdit"
+	+Added "WorldEdit": Experimental build
 	+Added "QuarryPlus"
 	-Removed "Jagm's Randoms": Download no longer available
 

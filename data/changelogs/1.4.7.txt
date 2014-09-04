@@ -1,6 +1,8 @@
 (September/04/2014)
 	*Updated "RotaryCraft" info: Added source
 	*Updated "Better Anvils" info: Added source
+	*Updated "Better Villages Mod" description
+	*Updated "Cobblestone And Stone Armour" info: Requires ModLoader, not Forge
 	+Added "Time-Speed Mod"
 	+Added "ZombieCraft 3"
 	+Added "Zombie Awareness"

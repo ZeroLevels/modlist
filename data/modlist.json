@@ -1802,7 +1802,7 @@
 
 "name":"Better Villages Mod",
 "link":"http://bit.ly/W5Qdde",
-"desc":"Improves villages in the following ways:<ul><li>Makes villages more common.</li><li>Villages spawn in a new cluster idea. If one village can spawn a couple more will spawn near-bye. (Can get completely ridiculous on flat worlds, See images for examples)</li><li>Villages can spawn in almost every biome.</li><li>Made village torch look cooler.</li><li>Made both type of wheat fields look better with a surrounding fence and torches.</li><li>Replace the dirt in the wood hut with cobblestone and made the surrounding highlight smooth stone.</li></ul>",
+"desc":"Increases the chances of generating a village, clustering villages together and improving wheat fields.",
 "author":["Jstorey97"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -1812,7 +1812,7 @@
 
 "name":"Better Villages Mod",
 "link":"http://bit.ly/1qfAipJ",
-"desc":"Improves villages in the following ways:<ul><li>Makes villages more common.</li><li>Villages spawn in a new cluster idea. If one village can spawn a couple more will spawn near-bye. (Can get completely ridiculous on flat worlds, See images for examples)</li><li>Villages can spawn in almost every biome.</li><li>Made village torch look cooler.</li><li>Made both type of wheat fields look better with a surrounding fence and torches.</li><li>Replace the dirt in the wood hut with cobblestone and made the surrounding highlight smooth stone.</li></ul>",
+"desc":"Increases the chances of generating a village, clustering villages together and improving wheat fields.",
 "author":["GotoLink"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -3166,8 +3166,8 @@
 "desc":"Adds stone and cobblestone sets of armour as well as a cobblestone variant of the stone sword.",
 "author":["I_Iz_Shahid"],
 "type":["SSP","LAN"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.4.7"]
 
 },{
 
@@ -3177,7 +3177,7 @@
 "author":["I_Iz_Shahid"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -5139,7 +5139,7 @@
 
 "name":"Electro-Magic Tools",
 "link":"http://bit.ly/1qzBJxE",
-"desc":"This addon integrates Thaumcraft 4 with IndustrialCraft 2. It adds many cross-mods tools and items, alongside with magical solar panels, essentia generators and legendary items.",
+"desc":"Integrates Thaumcraft 4 with IndustrialCraft 2 by adding cross-mod tools and items, such as magic solar panels, essentia generators and legendary items.",
 "author":["Tombenpotter"],
 "source":"https://github.com/Tombenpotter/Electro-Magic-Tools",
 "type":["Universal"],
@@ -6652,7 +6652,7 @@
 "name":"Forbidden Magic",
 "other":"(Prerelease)",
 "link":"http://bit.ly/1qzBraf",
-"desc":"This is a small Thaumcraft 4 addon adds a little "darkness" to Thaumcraft.",
+"desc":"Adds new wand cores, enchantments and magical scribing tools. Themed around darkness.",
 "author":["SpitefulFox"],
 "source":"https://github.com/SpitefulFox/ForbiddenMagic",
 "type":["Universal"],
@@ -7106,7 +7106,7 @@
 
 "name":"GeoStrata",
 "link":"http://bit.ly/17vAbJk",
-"desc":"Diversifies underground world generation, making mining and caves more interesting, while simultaneously adding many aesthetic and functional building materials.",
+"desc":"Diversifies underground world generation and adds many aesthetic and functional building materials.",
 "author":["Reika"],
 "source":"https://github.com/ReikaKalseki/GeoStrata",
 "type":["Universal"],
@@ -7549,7 +7549,7 @@
 
 "name":"Hardcore Ender Expansion",
 "link":"http://bit.ly/10L8JDl",
-"desc":"Adds new content across the End. The dragon became a truly challenging boss with a great reward, but the adventure doesn't end there. The End is no longer just an island. Go investigate unique ores, battle new mobs, travel to new biomes, the death awaits you.",
+"desc":"Adds new content in the End such as Dragon Lairs, Ender Guardians and Ghost Amulets.",
 "author":["chylex"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -8316,7 +8316,7 @@
 
 "name":"Improving Minecraft",
 "link":"http://bit.ly/1qfv9xL",
-"desc":"This mod improves original game by adding little things and fixing inconsistencies.",
+"desc":"Implements miscellaneous additions based on vanilla, such as colored flower pots and health bonus enchantments.",
 "author":["pifou92000"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -16671,7 +16671,7 @@
 
 "name":"The Dalek Mod",
 "link":"http://bit.ly/WBHu2N",
-"desc":"Adds a bunch of creatures from the hit BBC show Doctor Who",
+"desc":"Adds creatures from the BBC show Doctor Who.",
 "author":["1WTC"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -18802,12 +18802,13 @@
 },{
 
 "name":"WorldEdit",
-"link":"http://bit.ly/ZLk1fs",
-"desc":"An easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer.",
+"other":"(Experimental)",
+"link":"http://bit.ly/1nylFce",
+"desc":"An in-game world editor.",
 "author":["sk89q"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.7.10","1.6.4","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 

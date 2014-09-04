@@ -1,4 +1,5 @@
 (September/04/2014)
+	*Updated "Cobblestone And Stone Armour" info: Universal
 	+Added "Logitech LCD Application for Minecraft"
 	+Added "Hardcore Ender Expansion"
 

@@ -1,7 +1,6 @@
 (September/04/2014)
 	*Updated "RotaryCraft" info: Added source
 	*Updated "Better Anvils" info: Added source
-	+Added "WorldEdit"
 	+Added "Essentia Everything"
 	+Added "Doggy Talents Mod"
 	-Removed "The Lord of the Rings Mod": Download no longer available
