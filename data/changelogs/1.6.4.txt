@@ -1,4 +1,4 @@
-(September/03/2014)
+(September/04/2014)
 	*Updated "Xeno's Reliquary" info: Updated source link
 	+Added "Technomancy"
 	+Added "TiC Tooltips"
@@ -7,7 +7,7 @@
 	+Added "The Spice of Life"
 	+Added "Squake"
 	+Added "Squeedometer"
-	+Added "Вращение Земли Майнкрафтская"
+	+Added "Time-Speed Mod"
 	+Added "MooFluids"
 	+Added "Plugins for Forestry 3"
 	+Added "More Backpacks"

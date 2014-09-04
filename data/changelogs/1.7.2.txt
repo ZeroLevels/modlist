@@ -1,4 +1,5 @@
-(September/03/2014)
+(September/04/2014)
+	+Added "Ars Magica 2"
 	+Added "Automagy": Currently in Beta
 	+Added "Buildcraft Additions"
 	+Added "Thaumic Infusion": Currently in Beta
@@ -14,13 +15,13 @@
 	+Added "The Spice of Life"
 	+Added "Squake"
 	+Added "Squeedometer"
-	+Added "Вращение Земли Майнкрафтская"
+	+Added "Time-Speed Mod"
 	+Added "More Backpacks"
 	+Added "Advanced Fluxian Tools"
 	+Added "tgame-core"
 	+Added "Zombie Awareness"
 	+Added "Simple Fluid Tanks"
-	+Added "Creepypastacraft"
+	+Added "CreepyPastaCraft"
 	+Added "AbyssalCraft"
 	+Added "Aquatic Abyss"
 

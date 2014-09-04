@@ -1,5 +1,5 @@
-(September/03/2014)
-	+Added "Вращение Земли Майнкрафтская"
+(September/04/2014)
+	+Added "Time-Speed Mod"
 	+Added "More Backpacks"
 
 (September/02/2014)

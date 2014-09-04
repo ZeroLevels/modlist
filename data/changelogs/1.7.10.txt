@@ -1,4 +1,4 @@
-(September/03/2014)
+(September/04/2014)
 	+Added "Automagy": Currently in Beta
 	+Added "Buildcraft Additions"
 	+Added "Nodal Mechanics"
@@ -13,7 +13,7 @@
 	+Added "The Spice of Life"
 	+Added "Squake"
 	+Added "Squeedometer"
-	+Added "Вращение Земли Майнкрафтская"
+	+Added "Time-Speed Mod"
 	+Added "More Backpacks"
 	+Added "Solar Expansion"
 	+Added "Solar Flux"
@@ -21,7 +21,7 @@
 	+Added "Xeno's Reliquary"
 	+Added "Simple Fluid Tanks"
 	+Added "FluidConverters"
-	+Added "Creepypastacraft"
+	+Added "CreepyPastaCraft"
 	+Added "AbyssalCraft"
 
 (September/02/2014)
