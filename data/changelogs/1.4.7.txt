@@ -1,4 +1,10 @@
 (September/04/2014)
+	*Updated "RotaryCraft" info: Added source
+	*Updated "Better Anvils" info: Added source
+	+Added "The Lord of the Rings Mod"
+	+Added "Hardcore Ender Expansion"
+
+(September/04/2014)
 	+Added "Time-Speed Mod"
 	+Added "ZombieCraft 3"
 	+Added "Zombie Awareness"

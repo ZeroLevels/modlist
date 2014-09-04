@@ -1,6 +1,10 @@
 (September/04/2014)
+	*Updated "RotaryCraft" info: Added source
 	+Added "Time-Speed Mod"
 	+Added "More Backpacks"
+	+Added "Hardcore Ender Expansion"
+	+Added "The Dalek Mod"
+	+Added "WorldEdit"
 
 (September/02/2014)
 	*Updated "DrZhark's MagicCarpet Mod" description

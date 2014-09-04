@@ -1,3 +1,7 @@
+(September/04/2014)
+	+Added "Logitech LCD Application for Minecraft"
+	+Added "Hardcore Ender Expansion"
+
 (September/02/2014)
 	+Added "Modular Force Field System"
 	+Added "More Backpacks"

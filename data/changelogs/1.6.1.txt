@@ -1,3 +1,6 @@
+(September/04/2014)
+	+Added "WorldEdit"
+
 (August/30/2014)
 	*Updated "ExtraButtons" name: Now "Extra Buttons"
 	*Updated "ZZZZZ Custom Configs" info: Added source

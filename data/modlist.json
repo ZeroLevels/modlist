@@ -1518,8 +1518,9 @@
 "link":"http://bit.ly/WzYYpw",
 "desc":"A small mod that just removes the anvil xp level limit.",
 "author":["vdvman1"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Compatible"],
+"source":"https://github.com/vdvman1/betterAnvil-forge",
+"type":["Universal"],
+"dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.1","1.4.7"]
 
 },{
@@ -1531,6 +1532,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Better Armor 2",
+"link":"http://bit.ly/1cRPBL8",
+"desc":"Adds 2 new sets of armor and 1 new set of tools. Aims to improve the current armor system.",
+"author":["jonessc2016"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -1795,7 +1806,17 @@
 "author":["Jstorey97"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"Better Villages Mod",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Improves villages in the following ways:<ul><li>Makes villages more common.</li><li>Villages spawn in a new cluster idea. If one village can spawn a couple more will spawn near-bye. (Can get completely ridiculous on flat worlds, See images for examples)</li><li>Villages can spawn in almost every biome.</li><li>Made village torch look cooler.</li><li>Made both type of wheat fields look better with a surrounding fence and torches.</li><li>Replace the dirt in the wood hut with cobblestone and made the surrounding highlight smooth stone.</li></ul>",
+"author":["GotoLink"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -3150,6 +3171,16 @@
 
 },{
 
+"name":"Cobblestone And Stone Armour",
+"link":"http://bit.ly/13jfCjM",
+"desc":"Adds stone and cobblestone sets of armour as well as a cobblestone variant of the stone sword.",
+"author":["I_Iz_Shahid"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"CocoaCraft",
 "link":"http://bit.ly/UCqHaw",
 "desc":"",
@@ -4297,16 +4328,6 @@
 
 },{
 
-"name":"Dalek Mod",
-"link":"http://bit.ly/WBHu2N",
-"desc":"Adds a bunch of creatures from the hit BBC show Doctor Who",
-"author":["1WTC"],
-"type":["Universal"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.4","1.6.2","1.5.1","1.4.7"]
-
-},{
-
 "name":"Damage Indicators",
 "link":"http://bit.ly/WnybMA",
 "desc":"When anything living takes damage, the damage they took will bounce off their head, with a cool little effect. Also shows a mod portrait, with name, status",
@@ -4755,9 +4776,10 @@
 "link":"http://bit.ly/137QH54",
 "desc":"Transform your wolves into dogs using a biscuit, and customize your dogs with specific traits.",
 "author":["ProPercivalalb"],
+"source":"https://github.com/ProPercivalalb/DoggyTalents",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -4800,7 +4822,7 @@
 "source":"https://github.com/ReikaKalseki/DragonAPI",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2"]
+"versions":["1.7.10","1.6.4","1.5.2"]
 
 },{
 
@@ -5112,6 +5134,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Electro-Magic Tools",
+"link":"http://bit.ly/1qzBJxE",
+"desc":"This addon integrates Thaumcraft 4 with IndustrialCraft 2. It adds many cross-mods tools and items, alongside with magical solar panels, essentia generators and legendary items.",
+"author":["Tombenpotter"],
+"source":"https://github.com/Tombenpotter/Electro-Magic-Tools",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","Thaumcraft 4"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -5674,7 +5707,7 @@
 "author":["Qwertygiy"],
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 3"],
-"versions":["1.4.7"]
+"versions":["1.5.1","1.4.7"]
 
 },{
 
@@ -5692,7 +5725,7 @@
 "link":"http://bit.ly/108jRA3",
 "desc":"",
 "author":["Modbder"],
-"type":["SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
 
@@ -6616,6 +6649,18 @@
 
 },{
 
+"name":"Forbidden Magic",
+"other":"(Prerelease)",
+"link":"http://bit.ly/1qzBraf",
+"desc":"This is a small Thaumcraft 4 addon adds a little "darkness" to Thaumcraft.",
+"author":["SpitefulFox"],
+"source":"https://github.com/SpitefulFox/ForbiddenMagic",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Forestry",
 "link":"http://bit.ly/Sk5Snp",
 "desc":"Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.",
@@ -7070,6 +7115,18 @@
 
 },{
 
+"name":"GeoStrata",
+"other":"(Beta)",
+"link":"http://bit.ly/17vAbJk",
+"desc":"Diversifies underground world generation, making mining and caves more interesting, while simultaneously adding many aesthetic and functional building materials.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/GeoStrata",
+"type":["Universal"],
+"dependencies":["Forge Required","DragonAPI"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Get all the Seeds!",
 "link":"http://bit.ly/1hJpF57",
 "desc":"Makes all the seeds in the game in addition to wheat drop from tall grass.",
@@ -7490,13 +7547,24 @@
 
 },{
 
-"name":"Hardcore Enderdragon",
+"name":"Hardcore Ender Expansion",
+"link":"http://bit.ly/10L8JDl",
+"desc":"Adds new content across the End. The dragon became a truly challenging boss with a great reward, but the adventure doesn't end there. The End is no longer just an island. Go investigate unique ores, battle new mobs, travel to new biomes, the death awaits you.",
+"author":["chylex"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Hardcore Ender Expansion",
+"other":"(Beta)",
 "link":"http://bit.ly/10L8JDl",
 "desc":"Makes the enderdragon fight much more challenging, giving it improved AI and abilities.",
 "author":["chylex"],
-"type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.1"]
+"type":["SSP","SMP"],
+"dependencies":["Forge Required"],
+"versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -8246,6 +8314,16 @@
 
 },{
 
+"name":"Improving Minecraft",
+"link":"http://bit.ly/1qfv9xL",
+"desc":"This mod improves original game by adding little things and fixing inconsistencies.",
+"author":["pifou92000"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"IndustrialCraft 2",
 "other":"(IC2) (Experimental)",
 "link":"http://bit.ly/1gfTRVe",
@@ -8618,16 +8696,6 @@
 "link":"http://bit.ly/1m1jlNQ",
 "desc":"Adds several gems which can be crafted into tools and armors.",
 "author":["Robosphinx"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Jagm's Randoms",
-"link":"http://bit.ly/1m1kWTT",
-"desc":"Adds random blocks and items such as marble, basalt, chalk and lamps, as well as a way to craft the nether star and other previously uncraftable things.",
-"author":["Jagm_11"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
@@ -9377,9 +9445,10 @@
 "link":"http://bit.ly/11ZKJBw",
 "desc":"This application for the Logitech GameBoard Series allows you to display Minecraft game information on your GameBoard series LCD panel.",
 "author":["Schravendeel"],
+"source":"https://github.com/hugothegamer693/Minecraft-LCD-App",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -9610,7 +9679,7 @@
 "source":"https://github.com/konwboj/MagicClover",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11650,7 +11719,7 @@
 "author":["coocoo617"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.4.7"]
+"versions":["1.7.10","1.7.2","1.5.2","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -13602,7 +13671,7 @@
 "link":"http://bit.ly/1tVXPJT",
 "desc":"A tech mod based on steam power, with alloys, pipes, gauges and more. Includes a Steam Exosuit.",
 "author":["Flaxbeard"],
-"source":"https://github.com/Flaxbeard/SteamCraft_1.7",
+"source":"https://github.com/Flaxbeard/Flaxbeards-Steam-Power",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -13705,11 +13774,12 @@
 
 "name":"QuarryPlus",
 "link":"http://bit.ly/11ZM7UK",
-"desc":"Adds markers for BuildCraft.",
+"desc":"Implements add-ons and improvements to BuildCraft quarries, such as pumps, enchantments, and increased maximum areas.",
 "author":["yogpstop"],
+"source":"https://github.com/yogpstop/QuarryPlus",
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft"],
-"versions":["1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -13916,6 +13986,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required","DragonAPI"],
 "versions":["1.6.4","1.5.2"]
+
+},{
+
+"name":"ReactorCraft",
+"other":"(Beta)",
+"link":"http://bit.ly/17vAbJk",
+"desc":"Adds realistic nuclear reactors.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/ReactorCraft",
+"type":["Universal"],
+"dependencies":["Forge Required","DragonAPI"],
+"versions":["1.7.10"]
 
 },{
 
@@ -14377,9 +14459,22 @@
 "link":"http://bit.ly/17vAbJk",
 "desc":"A mod akin to the likes of Buildcraft that adds many unique and useful machines to your game.",
 "author":["Reika"],
+"source":"https://github.com/ReikaKalseki/RotaryCraft",
 "type":["Universal"],
 "dependencies":["Forge Required","DragonAPI"],
 "versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"RotaryCraft",
+"other":"(Beta)",
+"link":"http://bit.ly/17vAbJk",
+"desc":"A mod akin to the likes of Buildcraft that adds many unique and useful machines to your game.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/RotaryCraft",
+"type":["Universal"],
+"dependencies":["Forge Required","DragonAPI"],
+"versions":["1.7.10"]
 
 },{
 
@@ -16385,6 +16480,17 @@
 
 },{
 
+"name":"Thaumic Reliquary",
+"link":"http://bit.ly/1qfqPyz",
+"desc":"Adds integration between (Xeno's) Reliquary and Thaumcraft.",
+"author":["Flaxbeard"],
+"source":"https://github.com/Flaxbeard/Thaumic_Reliquary",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
@@ -16426,7 +16532,7 @@
 "source":"https://github.com/MasterAbdoTGM50/ThaumicWarden",
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16560,6 +16666,16 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"The Dalek Mod",
+"link":"http://bit.ly/WBHu2N",
+"desc":"Adds a bunch of creatures from the hit BBC show Doctor Who",
+"author":["1WTC"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -16740,7 +16856,7 @@
 "author":["Mevans"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -18687,11 +18803,11 @@
 
 "name":"WorldEdit",
 "link":"http://bit.ly/ZLk1fs",
-"desc":"",
+"desc":"An easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer.",
 "author":["sk89q"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.7"]
+"versions":["1.7.10","1.6.4","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 

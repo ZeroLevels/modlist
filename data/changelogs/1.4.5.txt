@@ -1,3 +1,7 @@
+(September/04/2014)
+	+Added "Better Villages Mod"
+	+Added "Mo' Zombies"
+
 (September/02/2014)
 	*Updated "Logistics Pipes" info: Added source
 	+Added "Mine Little Brony"
