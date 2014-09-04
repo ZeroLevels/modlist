@@ -1,3 +1,19 @@
+(September/04/2014)
+	*Updated "Xeno's Reliquary" info: Updated source link
+	+Added "Technomancy"
+	+Added "TiC Tooltips"
+	+Added "Waila Harvestability"
+	+Added "HarvestCraft Waila Fixes"
+	+Added "The Spice of Life"
+	+Added "Squake"
+	+Added "Squeedometer"
+	+Added "Time-Speed Mod"
+	+Added "MooFluids"
+	+Added "Plugins for Forestry 3"
+	+Added "More Backpacks"
+	+Added "Simple Fluid Tanks"
+	+Added "AbyssalCraft"
+
 (September/02/2014)
 	*Updated "StopGap" info: Added source
 	*Updated "DrZhark's MagicCarpet Mod" description

@@ -1,3 +1,29 @@
+(September/04/2014)
+	+Added "Automagy": Currently in Beta
+	+Added "Buildcraft Additions"
+	+Added "Nodal Mechanics"
+	+Added "Another One Bites the Dust 2"
+	+Added "Gany's Nether"
+	+Added "Gany's End"
+	+Added "Gany's Surface"
+	+Added "Technomancy"
+	+Added "Modular Force Field System": Currently in Alpha
+	+Added "TiC Tooltips"
+	+Added "Waila Harvestability"
+	+Added "The Spice of Life"
+	+Added "Squake"
+	+Added "Squeedometer"
+	+Added "Time-Speed Mod"
+	+Added "More Backpacks"
+	+Added "Solar Expansion"
+	+Added "Solar Flux"
+	+Added "Zombie Awareness"
+	+Added "Xeno's Reliquary"
+	+Added "Simple Fluid Tanks"
+	+Added "FluidConverters"
+	+Added "CreepyPastaCraft"
+	+Added "AbyssalCraft"
+
 (September/02/2014)
 	*Updated "StopGap" info: Added source
 	*Updated "Logistics Pipes" info: Added source

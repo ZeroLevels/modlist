@@ -1,3 +1,30 @@
+(September/04/2014)
+	+Added "Ars Magica 2"
+	+Added "Automagy": Currently in Beta
+	+Added "Buildcraft Additions"
+	+Added "Thaumic Infusion": Currently in Beta
+	+Added "Thaumic Warden": Currently in Beta
+	+Added "Transmute Liquids"
+	+Added "Gany's Nether"
+	+Added "Gany's End"
+	+Added "Gany's Surface"
+	+Added "ThaumcraftGates"
+	+Added "Modular Force Field System": Currently in Alpha
+	+Added "TiC Tooltips"
+	+Added "Waila Harvestability"
+	+Added "The Spice of Life"
+	+Added "Squake"
+	+Added "Squeedometer"
+	+Added "Time-Speed Mod"
+	+Added "More Backpacks"
+	+Added "Advanced Fluxian Tools"
+	+Added "tgame-core"
+	+Added "Zombie Awareness"
+	+Added "Simple Fluid Tanks"
+	+Added "CreepyPastaCraft"
+	+Added "AbyssalCraft"
+	+Added "Aquatic Abyss"
+
 (September/02/2014)
 	*Updated "StopGap" info: Added source
 	+Added "TragicMC 2": Currently in Beta

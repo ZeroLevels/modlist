@@ -43,6 +43,17 @@
 
 },{
 
+"name":"AbyssalCraft",
+"link":"http://bit.ly/1uASuJJ",
+"desc":"Adds a new dimension called The Darklands, infesteed with undead creatures at night, and yet deserted at night.",
+"author":["Shinoow"],
+"source":"https://github.com/Shinoow/AbyssalCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Additional Buildcraft Objects",
 "link":"http://bit.ly/13infK7",
 "desc":"Provides some additional pipes and objects for buildcraft.",
@@ -114,6 +125,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Advanced Fluxian Tools",
+"other":"(WIP)",
+"link":"http://bit.ly/1CqxNpd",
+"desc":"Adds advanced tools and machinery such as Charge Platforms and Laser Drills.",
+"author":["tgame14"],
+"source":"https://github.com/tgame14/Advanced-Fluxian-Tools",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -642,6 +665,17 @@
 
 },{
 
+"name":"Another One Bites the Dust 2",
+"other":"(AOBD 2)",
+"link":"http://bit.ly/1w89TdQ",
+"desc":"Automatically detects ores from other mods and creates dust and clusters for processing with machines from other mods.",
+"author":["ganymedes01"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Aperture Science Turtle Upgrades",
 "link":"http://bit.ly/YBqlEd",
 "desc":"Includes many turtle upgrades varying from IDetecting turtles to batch turtles, you can enable the parts that you like",
@@ -691,6 +725,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Aquatic Abyss",
+"link":"http://bit.ly/1uBgDjk",
+"desc":"Populates oceans with mobs based on both mythical and real creatures, along with new world generation.",
+"author":["thehippomaster21"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -894,7 +938,7 @@
 "author":["Mithion"],
 "type":["Universal"],
 "dependencies":["Forge Required","AnimationAPI"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -1115,6 +1159,17 @@
 
 },{
 
+"name":"Automagy",
+"other":"(Beta)",
+"link":"http://bit.ly/1unfnkD",
+"desc":"Thaumcraft 4 addon focused on providing flexible and interesting tools for automation and logistics, plus a few thaumic gadgets.",
+"author":["Tuhljin"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Automatic Wheat Farmer",
 "link":"http://bit.ly/Ty9cf2",
 "desc":"If you have seeds in your item bar, this mod will automatically plant them in any nearby farmland.  Optionally you can have it automatically harvest nearby ripe wheat as well (to prevent griefing, this is only possible with planting enabled).",
@@ -1175,6 +1230,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Time-Speed Mod",
+"other":"(B3M)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289314-1-4-7-1-7-10-vrashenie-zemli-majnkraftskaya",
+"desc":"Allows control over the speed of day/night cycles.",
+"author":["Sedridor"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.4.7"]
 
 },{
 
@@ -2357,6 +2423,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"Buildcraft Additions",
+"link":"http://bit.ly/1rs42PS",
+"desc":"Adds Fluid Canisters, Kinetic Capsules, Power Tools and more.",
+"author":["AEnterprise"],
+"source":"https://github.com/AEnterprise/Buildcraft-Additions",
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3949,6 +4026,16 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"CreepyPastaCraft",
+"link":"http://bit.ly/1CrV7mo",
+"desc":"Adds creepypasta creations and creatures, such as Jeff the Killer, Smile.dog and The Rake.",
+"author":["ntzrmtthihu777"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -6469,6 +6556,16 @@
 
 },{
 
+"name":"FluidConverters",
+"link":"http://bit.ly/1nYPxhL",
+"desc":"Allows configuration of fluid groups in JSON config files that contain a set of fluids (with some optional properties) that can be converted to each other.",
+"author":["kroeser","rubensworks"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Fly Mod",
 "link":"http://bit.ly/cjbmodsr",
 "desc":"Lets you fly by a simple button press. (Default F Key). It is possible to change the fly speed. There is also a button that makes you run faster (Press/Hold Left-Shift Key by default). You can also enable to fly up/down by using the mouse (disabled by default).",
@@ -6803,6 +6900,39 @@
 "source":"https://github.com/micdoodle8/Galacticraft",
 "type":["Universal"],
 "dependencies":["Forge Required","Micdoodle Core","Galacticraft"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Gany's End",
+"link":"http://bit.ly/1oFkDu8",
+"desc":"Adds blocks and functionalities related to The End, such as Ender Pearl blocks.",
+"author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/Gany-s-End",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Gany's Nether",
+"link":"http://bit.ly/1nxvzLf",
+"desc":"Adds blocks and functionalities related to the Nether, such as melting blocks into lava and planting glowstone.",
+"author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/Gany-s-Nether",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Gany's Surface",
+"link":"http://bit.ly/1qpHrTV",
+"desc":"Adds blocks and functionalities related to the Overworld, such as wood armor and cups of tea.",
+"author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/Gany-s-Surface",
+"type":["Universal"],
+"dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
 
 },{
@@ -7429,6 +7559,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"HarvestCraft Waila Fixes",
+"link":"http://bit.ly/1nxvKGb",
+"desc":"Fixes Waila tooltips for HarvestCraft and Weee! Flowers.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/HarvestCraftWaila",
+"type":["Client"],
+"dependencies":["Forge Required","Waila","HarvestCraft"],
+"versions":["1.6.4"]
 
 },{
 
@@ -10534,6 +10675,7 @@
 },{
 
 "name":"MobTalker2",
+"other":"(Beta)",
 "link":"http://bit.ly/1iOyVvi",
 "desc":"Allows users to create visual novel styled adventure games in Minecraft, using a newly developed scripting language called MobTalkerScript.",
 "author":["Chimaine","xs2007"],
@@ -10664,6 +10806,18 @@
 
 "name":"Modular Force Field System",
 "other":"(MFFS)",
+"link":"http://bit.ly/1lAMktf",
+"desc":"Makes forcefields that can disguise as other blocks or hold mobs/players at bay.",
+"author":["Minalien"],
+"source":"https://github.com/Minalien/ModularForceFieldSystem",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2","1.6.2"]
+
+},{
+
+"name":"Modular Force Field System",
+"other":"(MFFS) (Alpha)",
 "link":"http://bit.ly/1rofdsN",
 "desc":"Adds force fields, high-tech machinery and defensive measures.",
 "author":["Calclavia"],
@@ -10839,7 +10993,17 @@
 "author":["TheRoBrit"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"More Backpacks",
+"link":"http://bit.ly/1qzbxmK",
+"desc":"Adds backpacks with different colors and functions, such as the Farmer's Backpack and the Redstone Engineer's Backpack.",
+"author":["LordBlackHole"],
+"type":["Universal"],
+"dependencies":["Forge Required","Forestry"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -12090,6 +12254,17 @@
 
 },{
 
+"name":"Nodal Mechanics",
+"link":"http://bit.ly/1qe46CU",
+"desc":"Adds a new research item and several associated recipes which allow crafting nodes using large quantities of vis.",
+"author":["Shukaro"],
+"source":"https://github.com/Shukaro/Nodal-Mechanics",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"NoSlowDown",
 "link":"http://bit.ly/13dyHCR",
 "desc":"Allows you to keep running while using a bow or eating in single player and multiplayer servers",
@@ -13064,7 +13239,7 @@
 "author":["denoflions"],
 "type":["Universal"],
 "dependencies":["Forge Required","Forestry","denLib"],
-"versions":["1.6.2"]
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -14617,6 +14792,17 @@
 
 },{
 
+"name":"Simple Fluid Tanks",
+"link":"http://bit.ly/1r4qevL",
+"desc":"Allows storage of fluids in expandable multiblock structures.",
+"author":["Zarathul"],
+"source":"https://github.com/Zarathul/simplefluidtanks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"SimpleGuns",
 "link":"http://bit.ly/YggI0F",
 "desc":"Adds guns to the game, meant to feel more at home in the world of minecraft. Adds such guns as a Flintlock Pistol/Musket, Blunderbuss, Revolver, Bolt-Action Rifle, Pistol, and more!",
@@ -15063,6 +15249,27 @@
 
 },{
 
+"name":"Solar Expansion",
+"link":"http://bit.ly/1BcsvMD",
+"desc":"Adds Solar Panels that produce Redstone Flux. Thermal Expansion 4 addon, but TE4 is not required.",
+"author":["TedTheRusSB624"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Solar Flux",
+"link":"http://bit.ly/1nxwlrm",
+"desc":"Adds 6 tiers of Solar Panels that produce Redstone Flux.",
+"author":["Nauktis"],
+"source":"https://github.com/Nauktis/SolarFlux",
+"type":["Universal"],
+"dependencies":["Forge Required","Thermal Expansion 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Somnia",
 "other":"(Pre-release)",
 "link":"http://bit.ly/Z6rqs2",
@@ -15309,6 +15516,28 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.4.5","1.3.2"]
+
+},{
+
+"name":"Squake",
+"link":"http://bit.ly/1qe5Iwu",
+"desc":"Implements Quake-style movement, mostly inspired by the movement in Fortress Forever/Team Fortress Classic.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/Squake",
+"type":["Universal"],
+"dependencies":["Forge Required","Player API"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Squeedometer",
+"link":"http://bit.ly/1tuQ3uU",
+"desc":"Adds a speedometer of the player speed to the HUD.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/Squeedometer",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15913,6 +16142,16 @@
 
 },{
 
+"name":"Technomancy",
+"link":"http://bit.ly/1qpJtDC",
+"desc":"Attempts to combine magic and technology. Adds blocks based on the Redstone Flux power system.",
+"author":["Theflogat"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10","1.6.4"]
+
+},{
+
 "name":"Telecrapht",
 "link":"http://bit.ly/15hAyZ4",
 "desc":"Adds a block to view your Twitter feed and a command to post text and screenshots to Twitter.",
@@ -15993,6 +16232,17 @@
 
 },{
 
+"name":"tgame-core",
+"other":"(Dependency)",
+"link":"http://bit.ly/Z7G3Lv",
+"desc":"Required dependency for tgame14's mods.",
+"author":["tgame14"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Texture Pack on Main Menu",
 "link":"http://bit.ly/YQZfbG",
 "desc":"Puts the texture Packs button back onto the main menu.",
@@ -16056,6 +16306,17 @@
 
 },{
 
+"name":"ThaumcraftGates",
+"link":"http://bit.ly/1Bctg8r",
+"desc":"Adds interaction between BuildCraft and Thaumcraft using Thaumium Pipes.",
+"author":["ganymedes01"],
+"source":"https://github.com/ganymedes01/ThaumcraftGates",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4","Buildcraft"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Thaumcraft Mob Aspects",
 "link":"http://bit.ly/1nWb2RM",
 "desc":"Adds Thaumcraft aspects to mobs from other mods: Lycanites Mobs, Mo' Creatures, Special Mobs and Twilight Forest.",
@@ -16112,6 +16373,18 @@
 
 },{
 
+"name":"Thaumic Infusion",
+"other":"(Beta)",
+"link":"http://bit.ly/1qpKlIz",
+"desc":"Allows alteration of the properties and purpose of a block through the use of Thaumcraft Aspects.",
+"author":["DrunkMafia"],
+"source":"https://github.com/TheDrunkMafia/ThaumicInfusion",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Thaumic Tinkerer",
 "link":"http://bit.ly/12L9teo",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
@@ -16142,6 +16415,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles","Thaumcraft 4"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Thaumic Warden",
+"other":"(Beta)",
+"link":"http://bit.ly/Wepko7",
+"desc":"Adds more adventure and story to Thaumcraft by adding new items such as Warden armor and swords, and a Ring of Love.",
+"author":["MasterAbdoTGM50"],
+"source":"https://github.com/MasterAbdoTGM50/ThaumicWarden",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.2"]
 
 },{
 
@@ -16704,6 +16989,17 @@
 
 },{
 
+"name":"The Spice of Life",
+"link":"http://bit.ly/1qpLaRq",
+"desc":"Encourages dietary variety through diminishing returns.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/SpiceOfLife",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"The Stalker Mod",
 "link":"http://bit.ly/VU1UkO",
 "desc":"",
@@ -16853,6 +17149,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"TiC Tooltips",
+"link":"http://bit.ly/1w8kjdf",
+"desc":"Displays relevant stats to tooltips for Tinkers' Construct tools and tool parts.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/TiC-Tooltips",
+"type":["Client"],
+"dependencies":["Forge Required","Tinkers' Construct"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17218,6 +17525,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
 "versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Transmute Liquids",
+"link":"http://bit.ly/1A7W3IF",
+"desc":"Adds crucible recipes for liquid containers, with support for Forestry Juice, Buildcraft Oil and Railcraft Creosote Oil.",
+"author":["MrPenguin01"],
+"source":"https://github.com/MrPenguin01/Transmute-Liquids",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.2"]
 
 },{
 
@@ -17985,6 +18303,17 @@
 
 },{
 
+"name":"Waila Harvestability",
+"link":"http://bit.ly/Z7KNko",
+"desc":"Adds information to Waila tooltips about the harvestability information of a block.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/WailaHarvestability",
+"type":["Client"],
+"dependencies":["Forge Required","Waila"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"WAWLA",
 "other":"(What Are We Looking At)",
 "link":"http://bit.ly/UY2yjs",
@@ -18445,10 +18774,22 @@
 "link":"http://bit.ly/1lnQ01r",
 "desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
 "author":["x3n0ph0b3","TrainerGuy22"],
-"source":"https://github.com/x3n0ph0b3/Reliquary",
+"source":"https://github.com/TrainerGuy22/Reliquary",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Xeno's Reliquary",
+"other":"(Unstable)",
+"link":"http://bit.ly/1uBoUnd",
+"desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
+"author":["x3n0ph0b3","TrainerGuy22"],
+"source":"https://github.com/TrainerGuy22/Reliquary",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18716,7 +19057,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -18727,7 +19068,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5"]
+"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
