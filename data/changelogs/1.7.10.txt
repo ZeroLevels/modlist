@@ -23,7 +23,6 @@
 	+Added "Modular Furnaces 2"
 	+Added "Mo' Villages"
 	+Added "Soul Shards: Reborn"
-	+Added "Eternal Isles"
 	+Added "Mo' Chickens"
 	+Added "Progressive Automation"
 	+Added "The RC Mod"
