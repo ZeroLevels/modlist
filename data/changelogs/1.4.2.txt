@@ -1,3 +1,11 @@
+(September/05/2014)
+	+Added "Wild Caves 3"
+	+Added "RadarBro"
+	+Added "ForgeIRC"
+	+Added "Recipe Remover"
+	+Added "Craftable Animals"
+	+Added "In-game NBTEdit"
+
 (September/04/2014)
 	+Added "Better Villages Mod"
 

@@ -1,3 +1,11 @@
+(September/05/2014)
+	+Added "OmniTools"
+	+Added "ForgeIRC"
+	-Removed "Better Animations Collection Revived": Download no longer available
+	-Removed "CrackedZombies": Download no longer available
+	-Removed "Parachute Mod": Download no longer available
+	-Removed "Reptile Mod": Download no longer available
+
 (September/04/2014)
 	*Updated "RotaryCraft" info: Added source
 	*Updated "Better Anvils" info: Added source

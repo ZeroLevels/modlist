@@ -1,3 +1,10 @@
+(September/05/2014)
+	+Added "RadarBro"
+	+Added "ForgeIRC"
+	+Added "Recipe Remover"
+	-Removed "Rediscovered Mod": Download no longer available
+	-Removed "crackedEgg's Mods": Download no longer available
+
 (September/04/2014)
 	+Added "Better Villages Mod"
 	+Added "Mo' Zombies"
