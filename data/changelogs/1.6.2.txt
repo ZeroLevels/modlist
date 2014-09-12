@@ -1,3 +1,23 @@
+(September/12/2014)
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	*Updated "RadarBro" description
+	*Updated "Rediscovered Mod" name: Now "The Rediscovered Mod"
+	*Updated "Universal Coins Mod" name: Now "Universal Coins"
+	+Added "Plants Vs Zombies Mod"
+	+Added "Wild Caves 3"
+	+Added "Better Grass & Leaves Mod"
+	+Added "Better Item Despawning"
+	+Added "Bacon Mod"
+	+Added "Redstone in Motion"
+	+Added "RPG Inventory Mod"
+	+Added "Transformer Converters"
+	+Added "Rails of War"
+	+Added "MC Heli Mod"
+	+Added "Tubes!"
+	-Removed "CrackedZombies": Download no longer available
+	-Removed "Parachute Mod": Download no longer available
+	-Removed "Reptile Mod": Download no longer available
+
 (September/04/2014)
 	*Updated "Cobblestone And Stone Armour" info: Universal
 	+Added "Logitech LCD Application for Minecraft"

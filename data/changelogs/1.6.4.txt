@@ -1,3 +1,40 @@
+(September/12/2014)
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	*Updated "Soul Shards" name: Now "Soul Shards 2"
+	*Updated "Universal Coins Mod" name: Now "Universal Coins"
+	*Updated "Modular Furnaces" name: Now "Modular Furnaces 2"
+	*Updated "Rediscovered Mod" name: Now "The Rediscovered Mod"
+	*Updated "Christmas Festivities Mod" name: Now "Christmas Festivities Mod 2"
+	*Updated "Batman Mod" info: No longer WIP
+	*Updated "Minecraft Comes Alive" info: Added source
+	*Updated "Christmas Festivities Mod 2" info: Added source
+	+Added "Plants Vs Zombies Mod"
+	+Added "Wild Caves 3"
+	+Added "Craftable Animals"
+	+Added "Better Grass & Leaves Mod"
+	+Added "Better Item Despawning"
+	+Added "B&I"
+	+Added "Bedrock Utilities Mod"
+	+Added "Bacon Mod"
+	+Added "Alchemy++"
+	+Added "Mariculture"
+	+Added "Redstone in Motion"
+	+Added "Remain in Motion"
+	+Added "Luppii's Ladders"
+	+Added "RPG Inventory Mod"
+	+Added "The Uncrafting Mod"
+	+Added "Transformer Converters"
+	+Added "Rails of War"
+	+Added "MC Heli Mod"
+	+Added "Tubes!"
+	+Added "AetherCraft"
+	+Added "Mo' Villages"
+	+Added "DivineRPG"
+	+Added "Mo' Chickens"
+	+Added "Ex Aliquo"
+	+Added "Hydraulicraft"
+	+Added "Village Info"
+
 (September/04/2014)
 	*Updated "Cobblestone And Stone Armour" info: Universal
 	*Updated "Xeno's Reliquary" info: Updated source link

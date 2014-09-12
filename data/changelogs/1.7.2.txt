@@ -1,3 +1,42 @@
+(September/12/2014)
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	*Updated "ElConQore" info
+	*Updated "Minecraft Comes Alive" info: Added source
+	+Added "Plant Mega Pack"
+	+Added "Plants Vs Zombies Mod"
+	+Added "Plants Vs Zombies: Minecraft Warfare"
+	+Added "Wild Caves 3"
+	+Added "Mine Painter"
+	+Added "The Kitchen Mod"
+	+Added "Craftable Animals"
+	+Added "Craft++"
+	+Added "Better Wood Mod"
+	+Added "Barrier"
+	+Added "Arcane Ascension"
+	+Added "Alice's Dolls"
+	+Added "AgeCraft"
+	+Added "Mariculture": Beta only
+	+Added "Remain in Motion"
+	+Added "Rei's Minimap"
+	+Added "Luppii's Green Mod"
+	+Added "Luppii's Ladders"
+	+Added "RPG Inventory Mod"
+	+Added "Rails of War"
+	+Added "MC Heli Mod"
+	+Added "Tubes!"
+	+Added "AetherCraft"
+	+Added "RadarBro"
+	+Added "Modular Furnaces 2"
+	+Added "Mo' Villages"
+	+Added "Soul Shards: Reborn"
+	+Added "Eternal Isles"
+	+Added "Mo' Chickens"
+	+Added "In-game NBTEdit"
+	+Added "Progressive Automation"
+	+Added "The RC Mod"
+	+Added "Hydraulicraft"
+	+Added "Village Info"
+
 (September/04/2014)
 	*Updated "Professor Flaxbeard's Wondrous Steam Power Mod" info: Updated source
 	+Added "Ars Magica 2"

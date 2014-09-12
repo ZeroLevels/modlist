@@ -1,3 +1,7 @@
+(September/05/2014)
+	+Added "Better Grass & Leaves Mod"
+	-Removed "Better Animations Collection Revived": Download no longer available
+
 (September/04/2014)
 	+Added "WorldEdit"
 

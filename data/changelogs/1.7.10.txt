@@ -1,3 +1,36 @@
+(September/12/2014)
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	*Updated "Professor Flaxbeard's Wondrous Steam Power Mod" info: Updated source
+	*Updated "Minecraft Comes Alive" info: Added source
+	+Added "Plants Vs Zombies: Minecraft Warfare"
+	+Added "Wild Caves 3"
+	+Added "Mine Painter"
+	+Added "The Kitchen Mod"
+	+Added "Craftable Animals"
+	+Added "Craft++"
+	+Added "BetterCraft"
+	+Added "Mariculture"
+	+Added "Remain in Motion"
+	+Added "Rei's Minimap"
+	+Added "MapWriter Minimap Mod"
+	+Added "Haycraft"
+	+Added "Flowercraft"
+	+Added "Slabcraft"
+	+Added "Staircraft"
+	+Added "MC Heli Mod"
+	+Added "Tubes!"
+	+Added "AetherCraft"
+	+Added "Modular Furnaces 2"
+	+Added "Mo' Villages"
+	+Added "Soul Shards: Reborn"
+	+Added "Mo' Chickens"
+	+Added "Progressive Automation"
+	+Added "The RC Mod"
+	+Added "Hydraulicraft"
+	+Added "Village Info"
+	-Removed "NuclearPan": Replaced with Ztech
+	-Removed "Electric Fishing Rod": Replaced with Ztech
+
 (September/04/2014)
 	*Updated "Professor Flaxbeard's Wondrous Steam Power Mod" info: Updated source
 	+Added "Automagy": Currently in Beta

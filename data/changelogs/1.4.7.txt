@@ -1,13 +1,29 @@
+(September/12/2014)
+	*Updated "RadarBro" description
+	+Added "ForgeIRC"
+	+Added "Recipe Remover"
+	+Added "The RC Mod"
+	+Added "DivineRPG"
+	*Updated "B.F.Mod" info: Discontinued, no future updates from author
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	-Removed "Rediscovered Mod": Download no longer available
+	-Removed "BetterPistons": Download no longer available
+	-Removed "Arcane Ascension"
+	-Removed "crackedEgg's Mods": Download no longer available
+	-Removed "ShadwDrgn's Mods"
+
 (September/04/2014)
 	*Updated "RotaryCraft" info: Added source
 	*Updated "Better Anvils" info: Added source
 	*Updated "Better Villages Mod" description
 	*Updated "Cobblestone And Stone Armour" info: Requires ModLoader, not Forge
+	+Added "The Lord of the Rings Mod"
+	+Added "Hardcore Ender Expansion"
+
+(September/04/2014)
 	+Added "Time-Speed Mod"
 	+Added "ZombieCraft 3"
 	+Added "Zombie Awareness"
-	+Added "The Lord of the Rings Mod"
-	+Added "Hardcore Ender Expansion"
 
 (September/02/2014)
 	*Updated "Logistics Pipes" info: Added source

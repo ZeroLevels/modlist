@@ -1,3 +1,22 @@
+(September/12/2014)
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	*Updated "RadarBro" description
+	+Added "Plants Vs Zombies Mod"
+	+Added "Wild Caves 3"
+	+Added "Better Grass & Leaves Mod"
+	+Added "Better Item Despawning"
+	+Added "Barrier"
+	+Added "Bacon Mod"
+	+Added "Rails of War"
+	+Added "OmniTools"
+	+Added "MC Heli Mod"
+	+Added "Universal Coins"
+	-Removed "CrackedZombies": Download no longer available
+	-Removed "Rediscovered Mod": Download no longer available
+	-Removed "Parachute Mod": Download no longer available
+	-Removed "Reptile Mod": Download no longer available
+	-Removed "Modular Furnaces": Download no longer available
+
 (September/04/2014)
 	*Updated "Cobblestone And Stone Armour" info: Universal
 	*Updated "RotaryCraft" info: Added source

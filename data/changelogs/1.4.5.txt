@@ -1,3 +1,13 @@
+(September/12/2014)
+	*Updated "Assassin'sCreed ++" info
+	+Added "ForgeIRC"
+	+Added "Recipe Remover"
+	+Added "Wild Caves 3"
+	+Added "Craftable Animals"
+	+Added "RadarBro"
+	-Removed "Arcane Ascension"
+	-Removed "The RC Mod": Download no longer available
+
 (September/04/2014)
 	+Added "Better Villages Mod"
 	+Added "Mo' Zombies"
@@ -11,7 +21,7 @@
 	+Added "Lava Monsters"
 	+Added "Special Mobs"
 	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
-	-Removed Father Toast's Mods
+	-Removed "Father Toast's Mods"
 
 (August/31/2014)
 	*Updated "Falling Meteors Mod" info: Added source
