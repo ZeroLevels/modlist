@@ -1,5 +1,6 @@
-(September/05/2014)
+(September/12/2014)
 	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	*Updated "RadarBro" description
 	*Updated "Rediscovered Mod" name: Now "The Rediscovered Mod"
 	*Updated "Universal Coins Mod" name: Now "Universal Coins"
 	+Added "Plants Vs Zombies Mod"
@@ -11,7 +12,7 @@
 	+Added "RPG Inventory Mod"
 	+Added "Transformer Converters"
 	+Added "Rails of War"
-	+Added "MC Heli mod"
+	+Added "MC Heli Mod"
 	+Added "Tubes!"
 	-Removed "CrackedZombies": Download no longer available
 	-Removed "Parachute Mod": Download no longer available

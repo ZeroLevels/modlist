@@ -1,4 +1,4 @@
-(September/05/2014)
+(September/12/2014)
 	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
 	*Updated "Soul Shards" name: Now "Soul Shards 2"
 	*Updated "Universal Coins Mod" name: Now "Universal Coins"
@@ -25,7 +25,7 @@
 	+Added "The Uncrafting Mod"
 	+Added "Transformer Converters"
 	+Added "Rails of War"
-	+Added "MC Heli mod"
+	+Added "MC Heli Mod"
 	+Added "Tubes!"
 	+Added "AetherCraft"
 	+Added "Mo' Villages"

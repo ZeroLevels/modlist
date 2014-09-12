@@ -1,4 +1,4 @@
-(September/05/2014)
+(September/12/2014)
 	*Updated "Assassin'sCreed ++" info
 	+Added "ForgeIRC"
 	+Added "Recipe Remover"
@@ -6,6 +6,7 @@
 	+Added "Craftable Animals"
 	+Added "RadarBro"
 	-Removed "Arcane Ascension"
+	-Removed "The RC Mod": Download no longer available
 
 (September/04/2014)
 	+Added "Better Villages Mod"

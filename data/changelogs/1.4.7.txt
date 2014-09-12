@@ -1,6 +1,8 @@
-(September/05/2014)
+(September/12/2014)
+	*Updated "RadarBro" description
 	+Added "ForgeIRC"
 	+Added "Recipe Remover"
+	+Added "The RC Mod"
 	+Added "DivineRPG"
 	*Updated "B.F.Mod" info: Discontinued, no future updates from author
 	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"

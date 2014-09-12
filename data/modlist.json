@@ -361,7 +361,7 @@
 
 "name":"AetherCraft",
 "link":"http://bit.ly/1lLmXVV",
-"desc":"Description needed.",
+"desc":"Adds aether, a substance that makes every object in existence. Allows conversion of items into pure Aether and Aether into items, or use Aether to charge certain tools.",
 "source":"https://github.com/iconmaster5326/AetherCraft",
 "author":["iconmaster"],
 "type":["Universal"],
@@ -373,7 +373,7 @@
 "name":"AgeCraft",
 "other":"(Alpha)",
 "link":"http://bit.ly/PzBm8C",
-"desc":"AgeCraft is a mod that adds Ages. The key word of this mod is evolution. Evolution is what gets you to new ages and helps you explore all the features of this mod.",
+"desc":"Adds ages and evolution mechanics, which limit or expand usable technology.",
 "author":["ItsMeElConquistador"],
 "source":"https://github.com/AgeCraft/AgeCraft",
 "type":["Universal"],
@@ -773,7 +773,7 @@
 },{
 
 "name":"Arcane Ascension",
-"other":"(Prerelease)",
+"other":"(Pre-release)",
 "link":"http://bit.ly/RAguNd",
 "desc":"Adds mystical floating islands, ores, trees, tools, armour, and plants.",
 "author":["calebmanley"],
@@ -1703,7 +1703,7 @@
 
 "name":"Better Grass & Leaves Mod",
 "link":"http://bit.ly/1lJOuHl",
-"desc":"This small mod extends grass and leaves by a few juicy pixels.",
+"desc":"Renders artifacts on grass and leaves to make them unique.",
 "author":["Poersch"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -2055,7 +2055,7 @@
 },{
 
 "name":"Bio Materials",
-"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10801",
+"link":"http://bit.ly/1qIzMjU",
 "desc":"Adds new recipes to produce Industrial Diamonds out of carbon materials.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -3780,7 +3780,7 @@
 
 "name":"Craft++",
 "link":"http://bit.ly/1t3Vygk",
-"desc":"Adds things that should be in vanilla but aren't. This includes dynamite, fried eggs, and new enchantments!",
+"desc":"Adds miscellaneous things such as obsidian boats, fried egg, squid tentacles and dynamite, along with new enchantments and tweaks.",
 "author":["Anon10W1z"],
 "source":"https://github.com/Anon10W1z/CraftPlusPlus",
 "type":["Universal"],
@@ -4772,7 +4772,7 @@
 
 "name":"DivineRPG",
 "link":"http://bit.ly/YhcGX7",
-"desc":"Adds new dimensions, mobs and items.",
+"desc":"Adds a magic system, along with new dimensions, mobs, and items.",
 "author":["Xolova","The_SlayerMC","BossLetsPlays","RadioactiveStud"],
 "source":"https://github.com/DivineRPG/DivineRPG",
 "type":["Universal"],
@@ -4784,8 +4784,8 @@
 "name":"DivineRPG",
 "other":"(Beta)",
 "link":"http://bit.ly/YhcGX7",
-"desc":"Adds new dimensions, mobs and items.",
-"author":["Xolova","The_SlayerMC","BossLetsPlays","RadioactiveStud"],\
+"desc":"Adds a magic system, along with new dimensions, mobs, and items.",
+"author":["Xolova","The_SlayerMC","BossLetsPlays","RadioactiveStud"],
 "source":"https://github.com/DivineRPG/DivineRPG",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5785,7 +5785,7 @@
 
 "name":"Eternal Isles",
 "link":"http://bit.ly/1t83M70",
-"desc":"Description needed.",
+"desc":"Adds new dimensions, mobs, bosses and unique AI, along with 300+ sounds.",
 "author":["Xolova"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5847,7 +5847,7 @@
 
 "name":"Ex Aliquo",
 "link":"http://bit.ly/YhhETz",
-"desc":"Addon for Ex Nihilo that adds support for more mods.",
+"desc":"Adds support for Ex Nihilo with other mods, such as Tinkers' Construct, Ars Magica 2, Thaumcraft 4 and Metallurgy 3.",
 "author":["Zerokyuuni"],
 "source":"https://github.com/Zerokyuuni/Ex-Aliquo",
 "type":["Universal"],
@@ -8132,7 +8132,7 @@
 
 "name":"Hydraulicraft",
 "link":"http://bit.ly/1t8bJZT",
-"desc":"A mod about using the powers of hydraulics to do stuff!",
+"desc":"Adds blocks and mechanics based around hydraulics.",
 "author":["K4Unl"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9643,7 +9643,7 @@
 
 "name":"Luppii's Ladders",
 "link":"http://bit.ly/YeRTU3",
-"desc":"This mod aim to make ladders more useful and a lot better looking.",
+"desc":"Adds rope ladders and sturdy ladders, along with a machine which can retract and extend ladders..",
 "author":["Luppii"],
 "source":"https://github.com/CodeAG/LLadders",
 "type":["Universal"],
@@ -9842,7 +9842,7 @@
 
 "name":"MapWriter Minimap Mod",
 "link":"http://bit.ly/13duyig",
-"desc":"A minimap mod that not only shows your surroundings, but everywhere you've been.",
+"desc":"Integrates a minimap which also shows locations that have been previously visited.",
 "author":["mapwriter"],
 "source":"https://github.com/daveyliam/mapwriter",
 "type":["Client"],
@@ -9884,7 +9884,7 @@
 
 "name":"Mariculture",
 "link":"http://bit.ly/1qAcFGI",
-"desc":"Main focus of this mod is the Aquatic Environment. It adds terrain generation to the oceans, with things like coral and kelp, to improve the visuals of the underwater world.",
+"desc":"Adds ocean terrain generation with coral and kelp, and various types of fishing rods. Implements fish breeding, enchantable jewelry and more.",
 "author":["joshie"],
 "source":"https://github.com/joshiejack/Mariculture",
 "type":["Universal"],
@@ -9896,7 +9896,7 @@
 "name":"Mariculture",
 "other":"(Beta)",
 "link":"http://bit.ly/1qAcFGI",
-"desc":"Main focus of this mod is the Aquatic Environment. It adds terrain generation to the oceans, with things like coral and kelp, to improve the visuals of the underwater world.",
+"desc":"Adds ocean terrain generation with coral and kelp, and various types of fishing rods. Implements fish breeding, enchantable jewelry and more.",
 "author":["joshie"],
 "source":"https://github.com/joshiejack/Mariculture",
 "type":["Universal"],
@@ -9957,9 +9957,9 @@
 
 },{
 
-"name":"MC Heli mod",
-"link":"http://forum.minecraftuser.jp/viewtopic.php?f=13&t=14837",
-"desc":"This mod adds flying vehicles like, planes, helicopters and UAV. It also adds some turrets.",
+"name":"MC Heli Mod",
+"link":"http://bit.ly/1nH6H3C",
+"desc":"Adds realistic planes and helicopters.",
 "author":["EMB4"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -10916,7 +10916,7 @@
 
 "name":"Mo' Chickens",
 "link":"http://bit.ly/YhdPhs",
-"desc":"This mod adds several new chickens that lay an item related to their kind.",
+"desc":"Adds several new chickens that lay items related to their kind.",
 "author":["saxon564"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -11154,7 +11154,7 @@
 
 "name":"Mo' Furnaces",
 "link":"http://bit.ly/1htXOaa",
-"desc":"Adds faster furnace variants made from more expensive materials such as iron, gold, diamond, etc..",
+"desc":"Adds faster furnace variants made from more expensive materials, such as iron, gold and diamond.",
 "author":["Mattkx4"],
 "source":"https://github.com/Mattkx4/MoreFurnaces",
 "type":["Universal"],
@@ -11165,18 +11165,7 @@
 
 "name":"Mo' Furnaces",
 "link":"http://bit.ly/1nPkOnk",
-"desc":"Adds faster furnace variants made from more expensive materials such as iron, gold, diamond, etc..",
-"author":["Mattk10"],
-"source":"https://github.com/Mattkx4/MoFurnaces-v2",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
-
-},{
-
-"name":"Mo' Furnaces",
-"link":"http://bit.ly/1nPkOnk",
-"desc":"Adds faster furnace variants made from more expensive materials such as iron, gold, diamond, etc..",
+"desc":"Adds faster furnace variants made from more expensive materials, such as iron, gold and diamond.",
 "author":["Mattk10"],
 "source":"https://github.com/Mattkx4/MoFurnaces-v2",
 "type":["Universal"],
@@ -11187,7 +11176,7 @@
 
 "name":"Mo' Villages",
 "link":"http://bit.ly/1t81Aww",
-"desc":"This mod makes villages more common, spawn in more biomes, and each biome has villages with custom looks!",
+"desc":"Makes villages more common and appear in more biomes, which custom looks for each biome.",
 "author":["Pigs_FTW"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13394,8 +13383,9 @@
 
 "name":"Plants Vs Zombies Mod",
 "link":"http://bit.ly/1nybCDO",
-"desc":"This mod utilizes the plants from the Plant-iverse to defend you and your home.",
+"desc":"Adds plant mobs and zombies from the game of the same name.",
 "author":["Country_Gamer"],
+"source":"https://github.com/TheCountryGamer/CountryGamer_PlantsVsZombies",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
@@ -13405,7 +13395,7 @@
 "name":"Plants Vs Zombies: Minecraft Warfare",
 "other":"(Alpha)",
 "link":"http://bit.ly/1nybZON",
-"desc":"This mod utilizes the plants from the Plant-iverse to defend you and your home.",
+"desc":"Adds plant mobs and zombies from the game of the same name.",
 "author":["CustomEpicness"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13860,7 +13850,7 @@
 
 "name":"Progressive Automation",
 "link":"http://bit.ly/Yhgojr",
-"desc":"This mod provides low tech automation tools for common tasks. The tools will be upgradable as the player progresses.",
+"desc":"Adds low tech automation tools for common tasks, upgradable as the player progresses.",
 "author":["Vanhal"],
 "source":"https://github.com/Vanhal/ProgressiveAutomation",
 "type":["Universal"],
@@ -14049,7 +14039,7 @@
 
 "name":"RadarBro",
 "link":"http://bit.ly/117W9Dg",
-"desc":"RadarBro gives you comfort by letting you know where nearby enemies and mobs are, as well as other entities.",
+"desc":"Displays the location of mobs, players and other entities on a configurable minimap.",
 "author":["Cali Alec"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
@@ -14059,7 +14049,7 @@
 
 "name":"RadarBro",
 "link":"http://bit.ly/117W9Dg",
-"desc":"RadarBro gives you comfort by letting you know where nearby enemies and mobs are, as well as other entities.",
+"desc":"Displays the location of mobs, players and other entities on a configurable minimap.",
 "author":["Cali Alec"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -14080,7 +14070,7 @@
 "name":"Rails of War",
 "other":"(WIP)",
 "link":"http://bit.ly/1nzXTMU",
-"desc":"This mod is about wide gauge, big turns, steam locomotives, trains, armoured trains, and other awesome stuff.",
+"desc":"Adds steam locomotives, armoured trains, and other train-related things.",
 "author":["Naiten"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -14308,7 +14298,7 @@
 
 "name":"Recipe Remover",
 "link":"http://bit.ly/1t7YqZH",
-"desc":"A tool for server admins that allows removing recipes for items or blocks.",
+"desc":"Allows removal of recipes for items or blocks.",
 "author":["ShadwDrgn"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -14523,7 +14513,7 @@
 
 "name":"Rei's Minimap",
 "link":"http://bit.ly/YePVTz",
-"desc":"Features: Fast processing, Beautiful map rendering, Expression of semitransparent blocks, Bump-map expression of height, Expression of dynamically changing lighting, Automatically generate the block colors from your texturepack, Biome color, Entities radar, Cave mapping, Waypoints (Can not teleport), Ingame keyconfig, ZanMinimap frame appearance, and Indication of slime spawning chunks. Unofficial port of ReiFNSK's Rei's Minimap.",
+"desc":"Unofficial port of ReiFNSK's Rei's Minimap. Features: Fast processing, Beautiful map rendering, Expression of semitransparent blocks, Bump-map expression of height, Expression of dynamically changing lighting, Automatically generate the block colors from your texturepack, Biome color, Entities radar, Cave mapping, Waypoints (Can not teleport), Ingame keyconfig, ZanMinimap frame appearance, and Indication of slime spawning chunks.",
 "author":["Harry_baggs"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -14533,7 +14523,7 @@
 
 "name":"Rei's Minimap",
 "link":"http://bit.ly/YeQc9c",
-"desc":"Features: Fast processing, Beautiful map rendering, Expression of semitransparent blocks, Bump-map expression of height, Expression of dynamically changing lighting, Automatically generate the block colors from your texturepack, Biome color, Entities radar, Cave mapping, Waypoints (Can not teleport), Ingame keyconfig, ZanMinimap frame appearance, and Indication of slime spawning chunks. Unofficial port of ReiFNSK's Rei's Minimap.",
+"desc":"Unofficial port of ReiFNSK's Rei's Minimap. Features: Fast processing, Beautiful map rendering, Expression of semitransparent blocks, Bump-map expression of height, Expression of dynamically changing lighting, Automatically generate the block colors from your texturepack, Biome color, Entities radar, Cave mapping, Waypoints (Can not teleport), Ingame keyconfig, ZanMinimap frame appearance, and Indication of slime spawning chunks.",
 "author":["Sedridor"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -14543,7 +14533,7 @@
 
 "name":"Remain in Motion",
 "link":"http://bit.ly/1qAda3P",
-"desc":"Description needed.",
+"desc":"Adds frame blocks which can move structures using engines. Based on Redstone in Motion.",
 "author":["Planetguy"],
 "source":"https://github.com/planetguy32/RemainInMotion",
 "type":["Universal"],
@@ -15738,7 +15728,7 @@
 "name":"Soul Shards: Reborn",
 "other":"(WIP)",
 "link":"http://bit.ly/1rPKdo4",
-"desc":"Allows you to create a Soul Shard, absorbing souls of slain monsters into Soul Cages - blocks that will spawn the absorbed monster.",
+"desc":"Remake of the original Soul Shards mod. Allows you to create a Soul Shard, absorbing souls of slain monsters into Soul Cages - blocks that will spawn the absorbed monster.",
 "author":["Moze_Intel"],
 "source":"https://github.com/MozeIntel/SSR_1.7.2",
 "type":["Universal"],
@@ -15969,7 +15959,7 @@
 
 "name":"Staircraft",
 "link":"http://bit.ly/UA9Aq0",
-"desc":"Adds dds 55 new Stairs to the game, most of retain the functionality of the respective material they're made from (redstone slab emits signal constantly, stairs made of wool are flammable, etc).",
+"desc":"Adds 55 new Stairs to the game, most of retain the functionality of the respective material they're made from (redstone slab emits signal constantly, stairs made of wool are flammable, etc).",
 "author":["Blubbeltasche"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -15979,7 +15969,7 @@
 
 "name":"Staircraft",
 "link":"http://bit.ly/UA9Aq0",
-"desc":"Adds dds 97 new Stairs to the game, most of retain the functionality of the respective material they're made from (redstone slab emits signal constantly, stairs made of wool are flammable, etc).",
+"desc":"Adds 97 new Stairs to the game, most of retain the functionality of the respective material they're made from (redstone slab emits signal constantly, stairs made of wool are flammable, etc).",
 "author":["Blubbeltasche"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -17302,25 +17292,14 @@
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
-
-"name":"The RC Mod",
-"link":"http://bit.ly/Yhhmfz",
-"desc":"Description needed.",
-"author":["Skerp"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.5"]
-
-},{
-
 "name":"The RC Mod",
 "other":"(Beta)",
 "link":"http://bit.ly/Yhhmfz",
-"desc":"Description needed.",
+"desc":"Adds remote controlled vehicles, such as planes, octocopters, tanks, and submarines.",
 "author":["Skerp"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.10","1.7.2","1.4.7"]
 
 },{
 
@@ -17957,7 +17936,7 @@
 
 "name":"Transformers",
 "link":"http://bit.ly/KurvKg",
-"desc":"Convert BuildCraft's MJ Energy to Industrial-Craft 2's EU Energy, and vice-versa!",
+"desc":"Allows conversion between BuildCraft's MJ Energy and Industrial-Craft 2's EU Energy",
 "author":["Snyke"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
@@ -17966,8 +17945,8 @@
 },{
 
 "name":"Transformer Converters",
-"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=9816",
-"desc":"Convert BuildCraft's MJ Energy to Industrial-Craft 2's EU Energy, and vice-versa!",
+"link":"http://bit.ly/1pV8sKc",
+"desc":"Allows conversion between BuildCraft's MJ Energy and Industrial-Craft 2's EU Energy",
 "author":["master801"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
@@ -18115,7 +18094,7 @@
 
 "name":"Tubes!",
 "link":"http://bit.ly/1lLmxyX",
-"desc":"Tubes aims to provide the best item transport and sorting solution using the awesome ForgeMultipart API.",
+"desc":"Adds pipes which can transport items and fluids, with NEI drag and drop integration.",
 "author":["Schmoller"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","ForgeMultipart"],
@@ -18320,7 +18299,7 @@
 
 "name":"Universal Coins",
 "link":"http://bit.ly/15wh04o",
-"desc":"A mod that makes coins work for you and u can buy and sell stuff through one block the trade station :)",
+"desc":"Allows trading of coins with almost any item using a Universal Trade Station.",
 "author":["TED_996"],
 "source":"https://github.com/TED-996/UniversalCoinsMod",
 "type":["Universal"],
@@ -18331,7 +18310,7 @@
 
 "name":"Universal Coins",
 "link":"http://bit.ly/1t87Lk3",
-"desc":"A mod that makes coins work for you and u can buy and sell stuff through one block the trade station :)",
+"desc":"Allows trading of coins with almost any item using a Universal Trade Station.",
 "author":["notabadminer"],
 "source":"https://github.com/notabadminer/UniversalCoinsMod",
 "type":["Universal"],
@@ -18668,7 +18647,7 @@
 
 "name":"Village Info",
 "link":"http://bit.ly/TGtW1L",
-"desc":"Shows some information about the village you're currently in.",
+"desc":"Displays information about the village you're currently in.",
 "author":["trunkz"],
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
@@ -18678,7 +18657,7 @@
 
 "name":"Village Info",
 "link":"http://bit.ly/TGtW1L",
-"desc":"Shows some information about the village you're currently in.",
+"desc":"Displays information about the village you're currently in.",
 "author":["trunkz"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
@@ -19034,7 +19013,7 @@
 
 "name":"Wild Caves 3",
 "link":"http://bit.ly/VVSHIm",
-"desc":"Gives some much needed love to vanilla caves, adding stalactites, stalagmites, vines, glowing mushrooms, icicles and other realistic and aesthetic features.",
+"desc":"Adds stalactites, stalagmites, vines, glowing mushrooms and more to caves.",
 "author":["Alexmania"],
 "source":"https://github.com/AlexmaniaWardz/WildCaves3",
 "type":["Universal"],
@@ -19045,7 +19024,7 @@
 
 "name":"Wild Caves 3",
 "link":"http://bit.ly/1qfAipJ",
-"desc":"Gives some much needed love to vanilla caves, adding stalactites, stalagmites, vines, glowing mushrooms, icicles and other realistic and aesthetic features.",
+"desc":"Adds stalactites, stalagmites, vines, glowing mushrooms and more to caves.",
 "author":["GotoLink"],
 "source":"https://github.com/GotoLink/WildCaves3",
 "type":["Universal"],
@@ -19441,7 +19420,7 @@
 "name":"Yet Another Backup Mod",
 "other":"(YABM)",
 "link":"http://bit.ly/1lLo8Vt",
-"desc":"Automatically backups saves and other stuff.",
+"desc":"Automatically backups saves with configurable settings. Supports FTP backups.",
 "author":["szernex_"],
 "source":"https://github.com/szernex/YetAnotherBackupMod",
 "type":["Universal"],
@@ -19611,8 +19590,8 @@
 },{
 
 "name":"Ztech",
-"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10932",
-"desc":"Collection of the small outdated IC2 addons in one place.",
+"link":"http://bit.ly/X4aReX",
+"desc":"Collection of the small outdated IC2 addons, such as Electric Fishing Pole, NuclearPan, SeedManager and NetworkAnchor.",
 "author":["Zuxelus"],
 "source":"https://bitbucket.org/Zuxelus/ic2_ztech/src",
 "type":["Universal"],

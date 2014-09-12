@@ -1,4 +1,5 @@
-(September/05/2014)
+(September/12/2014)
+	*Updated "RadarBro" description
 	+Added "OmniTools"
 	+Added "ForgeIRC"
 	-Removed "Better Animations Collection Revived": Download no longer available
