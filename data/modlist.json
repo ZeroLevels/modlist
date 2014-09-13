@@ -1952,11 +1952,11 @@
 
 "name":"BigTrees",
 "link":"http://bit.ly/UPCzHf",
-"desc":"The purpose of the mod is to create immersive forest environments, inspired by forests Karob has been to, yet modeled to suit the Minecraft universe.",
+"desc":"The purpose of the mod is to create immersive forest environments inspired by forests Karob has been to, yet modelled to suit the Minecraft universe.",
 "author":["Karob"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.2","1.3.2"]
 
 },{
 
