@@ -1,5 +1,6 @@
 (September/13/2014)
 	+Added "BigTrees"
+	+Added "Emotes"
 
 (September/12/2014)
 	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"

@@ -5343,6 +5343,17 @@
 
 },{
 
+"name":"Emotes",
+"link":"http://bit.ly/1BCmJ70",
+"desc":"Adds the ability to perform emotes, such as facepalm, wave, Gangnam Style, etc.",
+"author":["Vazkii"],
+"source":"https://github.com/Vazkii/Emotes",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Emoticons",
 "link":"http://bit.ly/10yxKac",
 "desc":"Adds smileys into Minecraft as pictures! Impress your friends and other players in the chat!",
