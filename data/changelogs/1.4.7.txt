@@ -1,3 +1,9 @@
+(September/14/2014)
+	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
+	+Added "Minechanics"
+	+Added "SteamShip, SteamBoat and Pirates"
+	+Added "CARuins, GreatWall and WalledCity Generator"
+
 (September/12/2014)
 	*Updated "RadarBro" description
 	+Added "ForgeIRC"
