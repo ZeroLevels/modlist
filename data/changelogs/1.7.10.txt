@@ -42,6 +42,8 @@
 	+Added "Void Monster"
 	+Added "Fluxed Trinkets"
 	+Added "More Pistons"
+	+Added "Numina"
+	+Added "Modular Powersuits"
 
 (September/13/2014)
 	+Added "BigTrees"

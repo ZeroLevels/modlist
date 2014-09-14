@@ -11319,7 +11319,18 @@
 "source":"https://github.com/MachineMuse/MachineMusePowersuits",
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Modular Powersuits",
+"link":"http://bit.ly/1h26dXw",
+"desc":"Modular Powersuits is a Minecraft mod based around the idea of an inventor who tinkers with high-tech electronics and makes a suit of powered armor chock-full of useful gadgets and features. Inspired by heroes like Iron Man, Megaman, and Samus Aran, as well as by the high-tech armor in mods like EE2 and IC2.",
+"author":["MachineMuse"],
+"source":"https://github.com/MachineMuse/MachineMusePowersuits",
+"type":["Universal"],
+"dependencies":["Forge Required","Numina"],
+"versions":["1.7.10","1.6.4","1.6.2"]
 
 },{
 
@@ -12937,9 +12948,21 @@
 
 },{
 
+"name":"Numina",
+"other":"(Dependency)",
+"link":"http://bit.ly/1h26dXw",
+"desc":"Required dependency for MachineMuse's Modular Powersuits.",
+"author":["MachineMuse"],
+"source":"https://github.com/MachineMuse/Numina",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4","1.6.2"]
+
+},{
+
 "name":"NumiRP",
 "link":"http://bit.ly/16lCAte",
-"desc":"Temporary replacement for world-gen and decorative blocks from RP2",
+"desc":"Temporary replacement for world-gen and decorative blocks from RP2.",
 "author":["Numerios"],
 "source":"https://github.com/numerios/NumiRP",
 "type":["Universal"],

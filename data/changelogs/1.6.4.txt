@@ -28,6 +28,7 @@
 	+Added "CritterPet"
 	+Added "LegacyCraft"
 	+Added "Void Monster"
+	+Added "Numina"
 
 (September/12/2014)
 	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
