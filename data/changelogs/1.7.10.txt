@@ -1,4 +1,4 @@
-(September/14/2014)
+(September/22/2014)
 	*Updated "FluidConverters" info: Added source
 	*Updated "Bagginses" info: Added source
 	+Added "ExtraBiomesXL": Currently in Beta
@@ -10,7 +10,7 @@
 	+Added "Minechem"
 	+Added "Nature Overhaul"
 	+Added "Lemon Land"
-	+Added "LevelUp !"
+	+Added "LevelUp!"
 	+Added "Minecessity"
 	+Added "NoMoreRecipeConflict"
 	+Added "Skill API"
@@ -41,9 +41,12 @@
 	+Added "LegacyCraft"
 	+Added "Void Monster"
 	+Added "Fluxed Trinkets"
-	+Added "More Pistons"
+	+Added "More Pistons Mod"
 	+Added "Numina"
 	+Added "Modular Powersuits"
+	+Added "Minestuck"
+	+Added "Cazzar Core Lib"
+	+Added "Jukebox Reloaded"
 
 (September/13/2014)
 	+Added "BigTrees"

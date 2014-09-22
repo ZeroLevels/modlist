@@ -1,9 +1,9 @@
-(September/14/2014)
+(September/22/2014)
 	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
 	+Added "Item Frame Lag Fix"
 	+Added "Advanced Darkness"
 	+Added "Nature Overhaul"
-	+Added "LevelUp !"
+	+Added "LevelUp!"
 	+Added "Minecessity"
 	+Added "NoMoreRecipeConflict"
 	+Added "Skill API"

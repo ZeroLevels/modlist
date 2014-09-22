@@ -1,5 +1,6 @@
-(September/14/2014)
+(September/22/2014)
 	*Updated "MineChem" name: Now "Minechem"
+	*Updated "IRCLinqed" info: Added source
 	+Added "Not Enough Keys"
 	+Added "Rotatable Blocks"
 	+Added "iPixeli's Gender Mod"
@@ -7,7 +8,7 @@
 	+Added "Unlit Torches"
 	+Added "Advanced Darkness"
 	+Added "Nature Overhaul"
-	+Added "LevelUp !"
+	+Added "LevelUp!"
 	+Added "Minecessity"
 	+Added "NoMoreRecipeConflict"
 	+Added "Skill API"
