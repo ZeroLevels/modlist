@@ -1,3 +1,13 @@
+(September/22/2014)
+	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
+	+Added "Nature Overhaul"
+	+Added "Minecessity"
+	+Added "NoMoreRecipeConflict"
+	+Added "SteamBikes and LawnMower"
+	+Added "SteamShip, SteamBoat and Pirates"
+	+Added "Quidcraft"
+	+Added "CARuins, GreatWall and WalledCity Generator"
+
 (September/12/2014)
 	*Updated "RadarBro" description
 	+Added "OmniTools"

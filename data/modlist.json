@@ -107,6 +107,16 @@
 
 },{
 
+"name":"Advanced Darkness",
+"link":"http://bit.ly/1ubzao4",
+"desc":"Decreases light levels to near-complete darkness in unlit caves and at night.",
+"author":["trentv4"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Advanced Dispensers",
 "link":"http://bit.ly/1cv9vAs",
 "desc":"Adds a new Dispenser, the Placer, which can plant seeds and place blocks. Useful for automatic Farms.",
@@ -1364,6 +1374,7 @@
 "link":"http://bit.ly/1ygPhPT",
 "desc":"Adds 2 tiers of bags with 16 different colors, and a Void Bag that permanently removes items.",
 "author":["LordDusk"],
+"source":"https://github.com/lorddusk/Bagginses",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
@@ -1831,6 +1842,16 @@
 "type":["Universal"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"Better Title Screen",
+"link":"http://bit.ly/1pf66Wj",
+"desc":"Provides customizations options for the ingame title screen.",
+"author":["amadornes"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -2571,7 +2592,18 @@
 "author":["RoboMat"],
 "type":["SSP"],
 "dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.5.1"]
+"versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"Calendar GUI",
+"link":"http://bit.ly/1qpsyBx",
+"desc":"Adds a configurable calendar block which displays the current world time.",
+"author":["zombiepig333"],
+"source":"https://github.com/Pigsco/Calendar-Gui",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -2681,6 +2713,17 @@
 
 },{
 
+"name":"CARuins, GreatWall and WalledCity Generator",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Creates ruins from cellular automata, generates customizable cities, walls, roads, and buildings.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/Generatormods",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
 "name":"Castle Defenders",
 "link":"http://bit.ly/UZFA7d",
 "desc":"Features new NPCs that will aid you against monsters.",
@@ -2688,6 +2731,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"Cave Control",
+"link":"http://bit.ly/1pf7UP7",
+"desc":"Allows control over cave generation and underground structures.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/CaveControl",
+"type":["Universal"],
+"dependencies":["Forge Required","DragonAPI"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -2726,10 +2780,21 @@
 "link":"http://bit.ly/1akA5ct",
 "desc":"Cazzar Core Lib is a core library required for all of Cazzar's mods.",
 "author":["cazzar"],
-"source":"https://bitbucket.org/cazzar/cazzarcorelib/",
+"source":"https://github.com/cazzar/CazzarCoreLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Cazzar Core Lib",
+"link":"http://bit.ly/1sh6yoV",
+"desc":"Cazzar Core Lib is a core library required for all of Cazzar's mods.",
+"author":["cazzar"],
+"source":"https://github.com/cazzar/CazzarCoreLib",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3021,6 +3086,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"ChromatiCraft",
+"link":"http://bit.ly/1ws33To",
+"desc":"A large exploration-based magic mod centered around harnessing and focusing the power of the 16 colors of crystal energy present in the world. Each color of energy is associated with certain traits, from light to protection to agility.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/ChromatiCraft",
+"type":["Universal"],
+"dependencies":["Forge Required","DragonAPI"],
+"versions":["1.7.10"]
 
 },{
 
@@ -3677,6 +3753,17 @@
 
 },{
 
+"name":"ControllerBlock",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds a Controller block which controls other blocks using redstone, and an Animator block, which works with a Remote item.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/ControllerBlock",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.2","1.5.2"]
+
+},{
+
 "name":"ControlPack",
 "link":"http://bit.ly/WjlRBm",
 "desc":"Adds controls/keybinding for such things as Auto Tool Selection, Auto Run, toggleable sneak and jump, Arrows Remaining Counter, etc..",
@@ -4106,6 +4193,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"CritterPet",
+"link":"http://bit.ly/1ws3X28",
+"desc":"Allows players to tame and ride spiders, both from mods and vanilla Minecraft.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/CritterPet",
+"type":["Universal"],
+"dependencies":["Forge Required","DragonAPI"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -4878,7 +4976,7 @@
 
 "name":"DragonAPI",
 "other":"(Dependency)",
-"link":"http://bit.ly/17vAbJk",
+"link":"http://bit.ly/1ws2zN7",
 "desc":"A function library and support mod which is relied upon by all of Reika's mods.",
 "author":["Reika"],
 "source":"https://github.com/ReikaKalseki/DragonAPI",
@@ -5011,6 +5109,7 @@
 },{
 
 "name":"DyeTrees",
+"other":"(Discontinued)",
 "link":"http://bit.ly/17vAbJk",
 "desc":"Adds one color of tree for each dye.",
 "author":["Reika"],
@@ -5197,6 +5296,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2","Thaumcraft 4"],
 "versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"ElectriCraft",
+"link":"http://bit.ly/1pf7fx7",
+"desc":"Adds electrical motors and generators, as well as several tiers of wires.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/ElectriCraft",
+"type":["Universal"],
+"dependencies":["Forge Required","RotaryCraft"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -5879,13 +5989,13 @@
 },{
 
 "name":"ExpandedRedstone",
-"link":"http://bit.ly/17vAbJk",
+"link":"http://bit.ly/1ws2o4j",
 "desc":"Adds a few machines and tools that make redstone more useful and powerful.",
 "author":["Reika"],
 "source":"https://github.com/ReikaKalseki/ExpandedRedstone",
 "type":["Universal"],
 "dependencies":["Forge Required","DragonAPI"],
-"versions":["1.6.4","1.5.2"]
+"versions":["1.7.10","1.6.4","1.5.2"]
 
 },{
 
@@ -6011,6 +6121,7 @@
 },{
 
 "name":"ExtraBiomesXL",
+"other":"(Beta)",
 "link":"http://bit.ly/XCV19S",
 "desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
 "author":["MisterFiber"],
@@ -6018,6 +6129,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"ExtraBiomesXL",
+"link":"http://bit.ly/1y0GWVT",
+"desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
+"author":["MisterFiber"],
+"source":"https://github.com/ExtrabiomesXL/ExtrabiomesXL",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -6364,37 +6486,6 @@
 
 },{
 
-"name":"Female Gender Option",
-"link":"http://bit.ly/108keKU",
-"desc":"Provides the option to turn the player into a female model while maintaining the minecraft style.",
-"author":["iPixeli"],
-"type":["Universal"],
-"dependencies":["Forge Required","Render Player API"],
-"versions":["1.6.4","1.6.2","1.5.2"]
-
-},{
-
-"name":"Female Gender Option",
-"link":"http://bit.ly/108keKU",
-"desc":"Provides the option to turn the player into a female model while maintaining the minecraft style.",
-"author":["iPixeli"],
-"type":["Universal"],
-"dependencies":["Forge Compatible","ModLoader","Render Player API"],
-"versions":["1.5","1.4.7"]
-
-},{
-
-"name":"Female Gender Option",
-"other":"(Beta)",
-"link":"http://bit.ly/108keKU",
-"desc":"Provides the option to turn the player into a female and/or child model while maintaining the minecraft style.",
-"author":["iPixeli"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
 "name":"Ferullo's Gun Mod",
 "link":"http://bit.ly/V23Ib8",
 "desc":"Adds a lot of modern guns to the game.",
@@ -6453,6 +6544,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"FiniteLiquid",
+"other":"(Experimental)",
+"link":"http://bit.ly/WzjD4q",
+"desc":"Forces liquids to be finite unless connected to an ocean. Adds pipes and pumps to interact with liquids.",
+"author":["djoslin"],
+"type":["Universal"],
+"dependencies":["Forge Required","Base Edit"],
+"versions":["1.5.2"]
 
 },{
 
@@ -6677,8 +6779,20 @@
 "link":"http://bit.ly/1nYPxhL",
 "desc":"Allows configuration of fluid groups in JSON config files that contain a set of fluids (with some optional properties) that can be converted to each other.",
 "author":["kroeser","rubensworks"],
+"source":"https://github.com/rubensworks/FluidConverters",
 "type":["Universal"],
 "dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Fluxed Trinkets",
+"link":"http://bit.ly/1pf8LPP",
+"desc":"Adds Redstone Flux powered Baubles, created using Trinket Assemblers.",
+"author":["jaredlll08"],
+"source":"https://github.com/jaredlll08/Fluxed-Trinkets",
+"type":["Universal"],
+"dependencies":["Forge Required","Baubles","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
 
 },{
@@ -6968,6 +7082,18 @@
 
 },{
 
+"name":"Fysiks Fun",
+"other":"(WIP)",
+"link":"http://bit.ly/Wzglhq",
+"desc":"Adds natural phenomenon such as physics and ecology effects, including plant life consuming water and finite liquid.",
+"author":["mbrx"],
+"source":"https://github.com/mbrx/FysiksFun",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"MrCrayfish's Furniture Mod",
 "link":"http://bit.ly/12Y1tLl",
 "desc":"Adds in what Minecraft has been missing for years, furniture! It includes over 30 pieces of furniture to decorate your bedroom, kitchen, living room and even your garden! This mod also has an API which can be used in development of your mods to make them play more nicely alongside it.",
@@ -7189,25 +7315,13 @@
 },{
 
 "name":"GeoStrata",
-"link":"http://bit.ly/17vAbJk",
+"link":"http://bit.ly/1pf7hFs",
 "desc":"Diversifies underground world generation and adds many aesthetic and functional building materials.",
 "author":["Reika"],
 "source":"https://github.com/ReikaKalseki/GeoStrata",
 "type":["Universal"],
 "dependencies":["Forge Required","DragonAPI"],
-"versions":["1.6.4","1.5.2"]
-
-},{
-
-"name":"GeoStrata",
-"other":"(Beta)",
-"link":"http://bit.ly/17vAbJk",
-"desc":"Diversifies underground world generation and adds many aesthetic and functional building materials.",
-"author":["Reika"],
-"source":"https://github.com/ReikaKalseki/GeoStrata",
-"type":["Universal"],
-"dependencies":["Forge Required","DragonAPI"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.6.4","1.5.2"]
 
 },{
 
@@ -8639,13 +8753,32 @@
 },{
 
 "name":"Invincible Hamster",
-"other":"(Discontinued)",
 "link":"http://bit.ly/13b0vsE",
 "desc":"Lets hamsters spawn in your world. When you tame them with flowers, they become invincible hamsters, with a never ending hate for iron bars.",
 "author":["Ivorius"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Invincible Hamster",
+"link":"http://bit.ly/1pf4Imw",
+"desc":"Lets hamsters spawn in your world. When you tame them with flowers, they become invincible hamsters, with a never ending hate for iron bars.",
+"author":["Endergriefer153"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"iPixeli's Gender Mod",
+"link":"http://bit.ly/108keKU",
+"desc":"Provides the option to turn the player into a female model while maintaining the minecraft style.",
+"author":["iPixeli"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -8664,6 +8797,7 @@
 "link":"http://bit.ly/irclinqed-dev",
 "desc":"Connect to IRC servers within the game. Similar to ForgeIRC, but offers more functionality.",
 "author":["bilde2910"],
+"source":"http://code.varden.info/repo/IRCLinqed/",
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
@@ -8708,7 +8842,7 @@
 "author":["chrisk123999"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.1","1.5"]
+"versions":["1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -8987,6 +9121,17 @@
 
 },{
 
+"name":"Jukebox Reloaded",
+"link":"http://bit.ly/1uR61wG",
+"desc":"Adds multiple records, auto play, repeat, and shuffle functions to the vanilla jukebox. Includes ComputerCraft integration.",
+"author":["cazzar"],
+"source":"https://github.com/cazzar/JukeboxReloaded",
+"type":["Universal"],
+"dependencies":["Forge Required","Cazzar Core Lib"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Katana Forge MMO",
 "link":"http://bit.ly/19mILA2",
 "desc":"Adds skills based on experience, much like those within RuneScape. Also adds hiscores to the user interface than can also be integrated on websites that are updated live.",
@@ -9234,6 +9379,17 @@
 
 },{
 
+"name":"LegacyCraft",
+"link":"http://bit.ly/1pf8oEU",
+"desc":"Configurable options to bring back behaviour from older versions of Minecraft.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/LegacyCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
+
+},{
+
 "name":"Legendary Beasts",
 "other":"(Alpha)",
 "link":"http://bit.ly/RBR2ai",
@@ -9271,7 +9427,18 @@
 "author":["TwistedCarny"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"LevelUp!",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds 12 skills to the game, which you can increase using skill points gained from leveling up.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/LevelUp",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9659,7 +9826,7 @@
 "source":"https://github.com/CodeAG/LLadders",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -9700,6 +9867,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Magic Wands",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds wands which can build houses, mine blocks, place torches and more.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/MagicWands",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9826,6 +10004,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Magitek",
+"other":"(Beta)",
+"link":"http://bit.ly/1ws0K2E",
+"desc":"Adds magic-like technology, which can shape the world, provide near-limitless powers or take down enemies.",
+"author":["Democretes"],
+"source":"https://github.com/Democretes/Magitek",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10176,6 +10366,17 @@
 
 },{
 
+"name":"MeteorCraft",
+"link":"http://bit.ly/1pf7tEB",
+"desc":"Adds falling meteors containing ores, destroying blocks upon impact.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/MeteorCraft",
+"type":["Universal"],
+"dependencies":["Forge Required","DragonAPI"],
+"versions":["1.7.10","1.6.4"]
+
+},{
+
 "name":"M-Food",
 "link":"http://bit.ly/16lHR4H",
 "desc":"",
@@ -10272,6 +10473,28 @@
 
 },{
 
+"name":"Minecessity",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds miscellaneous items such as particle guns, temporary torches and mob attractors.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/Minecessity",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Minechanics",
+"other":"(Alpha)",
+"link":"Modifies mechanics like water flow, water rendering, flooded caves and more.",
+"desc":"Description needed.",
+"author":["th3falc0n"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.4.7"]
+
+},{
+
 "name":"MineChem",
 "link":"http://bit.ly/13dKCkb",
 "desc":"Adds chemistry and machines that decompose items into elements and molecules. Also adds microscopes and synthesis machines to turn elements back into items.",
@@ -10283,7 +10506,7 @@
 
 },{
 
-"name":"MineChem",
+"name":"Minechem",
 "link":"http://bit.ly/1l0Sbql",
 "desc":"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!",
 "author":["jakimfett"],
@@ -10291,6 +10514,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Minechem",
+"link":"http://bit.ly/1l0Sbql",
+"desc":"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!",
+"author":["jakimfett"],
+"source":"https://github.com/jakimfett/MineChem",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10302,6 +10536,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"MinecraftLoader",
+"link":"http://bit.ly/1pf6fJi",
+"desc":"Adds a loading bar while the game is loading mods.",
+"author":["CreativeMD"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -10615,7 +10859,7 @@
 "source":"https://github.com/mraof/Minestuck/",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11093,12 +11337,23 @@
 
 "name":"Modular Powersuits",
 "link":"http://bit.ly/1h26dXw",
-"desc":"Modular Powersuits is a Minecraft mod based around the idea of an inventor who tinkers with high-tech electronics and makes a suit of powered armor chock-full of useful gadgets and features. Inspired by heroes like Iron Man, Megaman, and Samus Aran, as well as by the high-tech armor in mods like EE2 and IC2.",
+"desc":"Adds extensible powersuits with high-tech electronics and gadgets.",
 "author":["MachineMuse"],
 "source":"https://github.com/MachineMuse/MachineMusePowersuits",
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Modular Powersuits",
+"link":"http://bit.ly/1h26dXw",
+"desc":"Adds extensible powersuits with high-tech electronics and gadgets.",
+"author":["MachineMuse"],
+"source":"https://github.com/MachineMuse/MachineMusePowersuits",
+"type":["Universal"],
+"dependencies":["Forge Required","Numina"],
+"versions":["1.7.10","1.6.4","1.6.2"]
 
 },{
 
@@ -11337,6 +11592,17 @@
 
 },{
 
+"name":"MoreMinecraft!",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds miscellaneous additions, such as emerald armor, obsidian tools, beehives and diamond carrots.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/MoreMinecraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"More difficulties",
 "link":"http://bit.ly/18etZu4",
 "desc":"This mod add 10 levels of difficulty, difficulties level change mob speed, mob damage, and more. some difficulties remove the mob burning on sun and the player regeneration. this mod also modify some recipe, gold apple, speckled melon, and healing potion, and add an yellow diamond.",
@@ -11565,12 +11831,12 @@
 "name":"More Pistons Mod",
 "other":"(smeagolworms4)",
 "link":"http://bit.ly/15ykG7X",
-"desc":"Recompiled for 1.5.x from MontyPylon's More Pistons Mod. Adds pistons that can push up to 8 blocks away.",
+"desc":"Adds pistons that can push up to 8 blocks away.",
 "author":["smeagolworms4"],
 "source":"https://github.com/Smeagolworms4/More-Pistons",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -12100,11 +12366,22 @@
 
 "name":"Mystic Mods",
 "link":"http://bit.ly/16RPIWd",
-"desc":"There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience.Mystic Ores adds 4 nether ores and 7 overworld ores as well as 1 blastproof glass block into the game, some of which can be used to create some quite impressive tools!Mystic Ruins adds 2 new structures, some overworld ruins which can contain treasure chests, as well as massive underground dungeons that also double as mazes, as you can quite easily get lost in them!Mystic Stones adds 7 new stones to the game, as well as planks, bricks, and cobbled versions of each. It also adds reinforced bricks, a compatibility pack for Mystic Ores, which allows you to compress your gems/ingots from Mystic Ores into blocks, which double as beacon bases (currently bugged, fixing right now) and are blastproof. They cannot be uncrafted.",
+"desc":"There are 3 different Mystic mods. Each are optional, but installing all of them will deliver the full experience. Mystic Ores adds 4 nether ores and 7 overworld ores as well as 1 blastproof glass block into the game, some of which can be used to create some quite impressive tools!Mystic Ruins adds 2 new structures, some overworld ruins which can contain treasure chests, as well as massive underground dungeons that also double as mazes, as you can quite easily get lost in them!Mystic Stones adds 7 new stones to the game, as well as planks, bricks, and cobbled versions of each. It also adds reinforced bricks, a compatibility pack for Mystic Ores, which allows you to compress your gems/ingots from Mystic Ores into blocks, which double as beacon bases (currently bugged, fixing right now) and are blastproof. They cannot be uncrafted.",
 "author":["oitsjustjose"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Mystic Mods",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds new ores, stones and underground dungeon mazes.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/MysticMods",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -12210,6 +12487,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Mantle"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Nature Overhaul",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Enhances forests with growth, expansion and death. Saplings can form from existing trees, mushrooms respoduce and more.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/NatureOverhaul",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -12392,6 +12680,17 @@
 
 },{
 
+"name":"NewDungeons",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds randomized dungeons which are larger than vanilla structures.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/NewDungeons",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
+
+},{
+
 "name":"Nexion",
 "link":"http://bit.ly/16Q1Be1",
 "desc":"Adds new tools, dimensions, mods and much more.",
@@ -12515,6 +12814,17 @@
 
 },{
 
+"name":"NoMoreRecipeConflict",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Removes recipe conflicts by allowing identical crafting recipes to have different outputs.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/RecipeHandler",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
 "name":"NoSlowDown",
 "link":"http://bit.ly/13dyHCR",
 "desc":"Allows you to keep running while using a bow or eating in single player and multiplayer servers",
@@ -12575,6 +12885,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"Not Enough Keys",
+"link":"http://bit.ly/1y0Hr2e",
+"desc":"Organizes the keybinding GUI, organizing mods into their own category and sub menu.",
+"author":["Mr_okushama"],
+"source":"https://github.com/okushama/NotEnoughKeys",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -12640,9 +12961,21 @@
 
 },{
 
+"name":"Numina",
+"other":"(Dependency)",
+"link":"http://bit.ly/1h26dXw",
+"desc":"Required dependency for MachineMuse's Modular Powersuits.",
+"author":["MachineMuse"],
+"source":"https://github.com/MachineMuse/Numina",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4","1.6.2"]
+
+},{
+
 "name":"NumiRP",
 "link":"http://bit.ly/16lCAte",
-"desc":"Temporary replacement for world-gen and decorative blocks from RP2",
+"desc":"Temporary replacement for world-gen and decorative blocks from RP2.",
 "author":["Numerios"],
 "source":"https://github.com/numerios/NumiRP",
 "type":["Universal"],
@@ -14008,6 +14341,17 @@
 
 },{
 
+"name":"Quidcraft",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds brooms, quaffles, bludgers, beater bats, and the golden snitch from the Harry Potter series for a game of Quidditch.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/Quidcraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
 "name":"QuickCraft Mod",
 "link":"http://bit.ly/cjbmodsr",
 "desc":"This mod shows a somewhat XBOX 360 like GUI of crafting. Just with a few clicks you can craft a lot of items. Hover your mouse over the item you want to craft and it will show you the recipe and which items you still require and which items will be used from your inventory. You can also click one of the items in your inventory, this will show you all the recipes which requires that item. There are also 2 buttons, one to switch back to classic crafting and one to toggle to show only the recipes you can craft with the items you have in your inventory. It both works with SSP and SMP and even supports custom items.",
@@ -14204,25 +14548,13 @@
 },{
 
 "name":"ReactorCraft",
-"link":"http://bit.ly/17vAbJk",
+"link":"http://bit.ly/1pf7l7T",
 "desc":"Adds realistic nuclear reactors.",
 "author":["Reika"],
 "source":"https://github.com/ReikaKalseki/ReactorCraft",
 "type":["Universal"],
-"dependencies":["Forge Required","DragonAPI"],
-"versions":["1.6.4","1.5.2"]
-
-},{
-
-"name":"ReactorCraft",
-"other":"(Beta)",
-"link":"http://bit.ly/17vAbJk",
-"desc":"Adds realistic nuclear reactors.",
-"author":["Reika"],
-"source":"https://github.com/ReikaKalseki/ReactorCraft",
-"type":["Universal"],
-"dependencies":["Forge Required","DragonAPI"],
-"versions":["1.7.10"]
+"dependencies":["Forge Required","DragonAPI","RotaryCraft"],
+"versions":["1.7.10","1.6.4","1.5.2"]
 
 },{
 
@@ -14721,25 +15053,24 @@
 },{
 
 "name":"RotaryCraft",
-"link":"http://bit.ly/17vAbJk",
+"link":"http://bit.ly/1ws2tVN",
 "desc":"A mod akin to the likes of Buildcraft that adds many unique and useful machines to your game.",
 "author":["Reika"],
 "source":"https://github.com/ReikaKalseki/RotaryCraft",
 "type":["Universal"],
 "dependencies":["Forge Required","DragonAPI"],
-"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
-"name":"RotaryCraft",
-"other":"(Beta)",
-"link":"http://bit.ly/17vAbJk",
-"desc":"A mod akin to the likes of Buildcraft that adds many unique and useful machines to your game.",
-"author":["Reika"],
-"source":"https://github.com/ReikaKalseki/RotaryCraft",
+"name":"Rotatable Blocks",
+"link":"http://bit.ly/YeTp8J",
+"desc":"Allows rotation of most un-rotatable fully opaque blocks.",
+"author":["AlgorithmX2"],
+"source":"https://github.com/AlgorithmX2/RotatableBlocks",
 "type":["Universal"],
-"dependencies":["Forge Required","DragonAPI"],
-"versions":["1.7.10"]
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15318,6 +15649,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Skill API",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds a skill API used by other mods such as SkyrimCraft and Generic Skill Pack.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/SkillAPI",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -16106,6 +16448,39 @@
 
 },{
 
+"name":"SteamBikes and LawnMower",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds steam motorbikes and gardening vehicles.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/paraknight",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"SteamCraft",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds at least 10 new blocks, and at least 60 new items. Also changes how some items are crafted, such as redstone.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/Steamcraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"SteamShip, SteamBoat and Pirates",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds air balloons, engines and airships.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/pchan3",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
 "name":"Steve's Carts 2",
 "other":"(Alpha)",
 "link":"http://bit.ly/VK9ATv",
@@ -16542,7 +16917,7 @@
 "desc":"Attempts to combine magic and technology. Adds blocks based on the Redstone Flux power system.",
 "author":["Theflogat"],
 "type":["Universal"],
-"dependencies":["Forge Required","Thaumcraft 4"],
+"dependencies":["Forge Required","CoFH Core"],
 "versions":["1.7.10","1.6.4"]
 
 },{
@@ -16634,7 +17009,7 @@
 "author":["tgame14"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -18353,13 +18728,13 @@
 
 },{
 
-"name":"Unlit Torches and Lanterns",
+"name":"Unlit Torches",
 "link":"http://bit.ly/17nzzJN",
 "desc":"Makes it so that standard torches have a life span and eventually burn out, giving you unlit torches. Overrides torch crafting recipes to give you unlit torches instead. Adds lanterns that need fuel and eventually burn out.",
 "author":["pelep"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -18476,13 +18851,13 @@
 },{
 
 "name":"UsefulTNT",
-"link":"http://bit.ly/17vAbJk",
+"link":"http://bit.ly/1pf7o3Q",
 "desc":"Gives you an item, which when used on TNT, will set the TNT off in a way that is more useful to mining - it always drops items, and will not destroy existing items or xp, it will not hurt players, and it will not chain with other TNT.",
 "author":["Reika"],
 "source":"https://github.com/ReikaKalseki/UsefulTNT",
 "type":["Universal"],
 "dependencies":["Forge Required","DragonAPI"],
-"versions":["1.6.4","1.5.2"]
+"versions":["1.7.10","1.6.4","1.5.2"]
 
 },{
 
@@ -18727,6 +19102,17 @@
 
 },{
 
+"name":"Void Monster",
+"link":"http://bit.ly/1pf8AnA",
+"desc":"Adds a creature to the void which will pursue players for as long as it lives.",
+"author":["Reika"],
+"source":"https://github.com/ReikaKalseki/VoidMonster",
+"type":["Universal"],
+"dependencies":["Forge Required","DragonAPI"],
+"versions":["1.7.10","1.6.4"]
+
+},{
+
 "name":"VoxelCam",
 "link":"http://bit.ly/GZrktd",
 "desc":"Integration with vanilla screenshots, allowing you to take screenshots normally with F2. In-game screenshot manager with GUI, and the ability to take HUGE screenshots like back in early Beta.",
@@ -18948,6 +19334,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"WeCraft Mod",
+"link":"http://bit.ly/1qfAipJ",
+"desc":"Adds miscellaneous items, such as arrow sensors, conveyor belts and drills.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/wecraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
