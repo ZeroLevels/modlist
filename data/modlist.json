@@ -1870,7 +1870,7 @@
 
 "name":"Better Sugar Cane",
 "link":"http://bit.ly/1pbkEHD",
-"desc":"Adds extra uses to sugar cane.",
+"desc":"Adds extra uses to sugar cane, such as rods for stronger tools.",
 "author":["numbah90"],
 "source":"https://github.com/Numba90/BetterSugarCane",
 "type":["Universal"],
@@ -2224,7 +2224,7 @@
 
 "name":"Blood Utils",
 "link":"http://bit.ly/1pbiw2A",
-"desc":"An addon for Blood Magic that adding a few helpful utilities to make your blood magic experience even better!",
+"desc":"Addon for Blood Magic with items such as Divination Blocks, Blood Tomes and Ritual Sigils.",
 "author":["wasliebob"],
 "source":"https://github.com/wasliebob/BloodUtils",
 "type":["Universal"],
@@ -2981,7 +2981,7 @@
 "name":"Chemlab",
 "other":"(Alpha)",
 "link":"http://bit.ly/1pbipUx",
-"desc":"Increases SMP experience by overhauling and adding mechanic to create different types of survival activities for players.",
+"desc":"Adds material processing and advanced autonomous machinery with progressive tiers.",
 "author":["Itaros"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -4435,7 +4435,7 @@
 
 "name":"Custom Music Discs",
 "link":"http://bit.ly/1pbjhbL",
-"desc":"Allow to add custom music discs to the game, with configurable crafts and drops.",
+"desc":"Allows the addition of custom music discs with configurable recipes and drops.",
 "author":["pifou92000"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5611,7 +5611,7 @@
 "name":"Enchiridion",
 "other":"(Dependency)",
 "link":"http://bit.ly/1x4zB66",
-"desc":"Allows loading of custom books from zip files in the configs, handy for modpack creators or people who just want to let people know what's going on, with a mod.",
+"desc":"Allows customizable books loaded from zip files and adds book binders.",
 "author":["joshiejack"],
 "source":"https://github.com/joshiejack/Enchiridion",
 "type":["Universal"],
@@ -6083,7 +6083,7 @@
 
 "name":"Ex Astris",
 "link":"http://bit.ly/1si8zHk",
-"desc":"Adds support for Ex Nihilo with other mods, such as Tinkers' Construct, Thaumcraft 4, Thermal Expansion 4, Waila.",
+"desc":"Adds support for Ex Nihilo with other mods, such as Tinkers' Construct, Thaumcraft 4, Thermal Expansion 4, and Waila.",
 "author":["LoveHoly"],
 "source":"https://github.com/LoveHoly/Ex-Astris",
 "type":["Universal"],
@@ -8342,7 +8342,7 @@
 "name":"Hunger Overhaul",
 "other":"(Beta)",
 "link":"http://bit.ly/1mHdQGo",
-"desc":"Ever thought hunger should be more integral to surviving?  This mod is meant to make hunger more of a challenge, rather than just a mild annoyance.",
+"desc":"Tweaks food and hunger mechanics with food tooltips and more.",
 "author":["progwml6","Parker8283","squeek502"],
 "source":"https://github.com/progwml6/HungerOverhaul",
 "type":["Universal"],
@@ -9277,6 +9277,8 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Cazzar Core Lib"],
 "versions":["1.7.10","1.7.2"]
+
+},{
 
 "name":"JumpPad++",
 "link":"http://bit.ly/1x4NAsK",
@@ -14856,7 +14858,7 @@
 "author":["TehNut","Tombenpotter"],
 "source":"https://github.com/TehNut/RedstoneArmory",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","CoFH Lib],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib"],
 "versions":["1.7.10"]
 
 },{
@@ -17015,7 +17017,7 @@
 
 "name":"TabbyChat",
 "link":"http://bit.ly/SfA5UA",
-"desc":"Adds handy functionality to the Chat feature in minecraft. More particularly, it adds tabs.",
+"desc":"Improves chat with PM tabs, spellchecking, highlight notifications and more.",
 "author":["RocketMan10404"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
@@ -17025,7 +17027,7 @@
 
 "name":"TabbyChat",
 "link":"http://bit.ly/1B1WvJa",
-"desc":"Adds handy functionality to the Chat feature in minecraft. More particularly, it adds tabs.",
+"desc":"Improves chat with PM tabs, spellchecking, highlight notifications and more.",
 "author":["Killjoy1221"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
@@ -19547,7 +19549,7 @@
 "name":"What's This Pack",
 "other":"(WTP)",
 "link":"http://bit.ly/1x4HXdZ",
-"desc":"A simple modpack identifier for those who makes modpacks.",
+"desc":"Displays customizable text in the top-left of the main menu. Intended for modpacks.",
 "author":["Robosphinx"],
 "source":"https://github.com/robosphinx/ModpackID",
 "type":["Client"],
