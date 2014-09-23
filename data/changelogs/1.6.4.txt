@@ -1,3 +1,19 @@
+(September/23/2014)
+	*Updated "Zelda Sword Skills" name: Now "Zelda Sword Skills+"
+	*Updated "Dragon Mounts" source
+	*Updated "Minema" added source
+	*Updated "Mineshot" added source
+	*Updated "EnviroMine" added source
+	+Added "Wither Bow"
+	+Added "Utility Chests Mod"
+	+Added "Better Archery Mod"
+	+Added "Camo Lights Mod"
+	+Added "Project Zulu: Better Overworld"
+	+Added "Enchiridion"
+	+Added "Unique Artifacts"
+	+Added "JumpPad++"
+	-Removed "Painted Stone": Download no longer available
+
 (September/22/2014)
 	*Updated "MineChem" name: Now "Minechem"
 	*Updated "IRCLinqed" info: Added source

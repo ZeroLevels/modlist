@@ -1,3 +1,15 @@
+(September/23/2014)
+	*Updated "Dragon Mounts" source
+	*Updated "Minema" added source
+	*Updated "Mineshot" added source
+	+Added "Better Archery Mod"
+	+Added "Project Zulu: Better Overworld"
+	+Added "Camo Lights Mod"
+	+Added "Sports Mod"
+	+Added "Unique Artifacts"
+	+Added "JumpPad++"
+	-Removed "Painted Stone": Download no longer available
+
 (September/22/2014)
 	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
 	+Added "Item Frame Lag Fix"
