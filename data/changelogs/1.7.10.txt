@@ -73,7 +73,7 @@
 	+Added "Extractination II"
 	+Added "CookieCore"
 	+Added "Better Sugar Cane"
-	
+
 (September/22/2014)
 	*Updated "FluidConverters" info: Added source
 	*Updated "Bagginses" info: Added source
