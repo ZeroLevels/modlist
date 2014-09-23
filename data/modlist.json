@@ -3292,22 +3292,13 @@
 },{
 
 "name":"Climate Control",
-"link":"http://bit.ly/1kZZTjk",
+"other":"(Beta)",
+"link":"http://bit.ly/1rsWMnC",
 "desc":"Allows you to shrink, eliminate, and control the frequency of climate zones. Includes vast oceans and smaller lakes with a mixture of any island size.",
 "author":["Zeno410"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
-
-},{
-
-"name":"Climate Control",
-"link":"http://bit.ly/1wFZd6h",
-"desc":"Allows you to shrink, eliminate, and control the frequency of climate zones. Includes vast oceans and smaller lakes with a mixture of any island size.",
-"author":["Zeno410"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
