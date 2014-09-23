@@ -3,7 +3,7 @@
 	+Added "LanteaCraft"
 	+Added "Sports Mod"
 	+Added "Unique Artifacts"
-	
+
 (September/22/2014)
 	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
 	+Added "Calendar GUI"
