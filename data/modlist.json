@@ -475,6 +475,17 @@
 
 },{
 
+"name":"Alchemy++",
+"link":"http://bit.ly/1B1XoBv",
+"desc":"Implements new ways of potion brewing, combining potions together and getting potion effects not obtainable through vanilla alchemy. It also adds new ways of storing potions and some new blocks to decorate the alchemical lab.",
+"author":["jakimfett"],
+"source":"https://github.com/jakimfett/AlchemyPlusPlus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"AlgaeCraft",
 "link":"http://bit.ly/14dmq12",
 "desc":"Adds a large variety of new blocks, items, and food. Algae spawn in swamps, coral reef spawn in ocean biomes, and new mobs exist underwater.",
@@ -531,7 +542,7 @@
 "author":["mister_person"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -612,7 +623,7 @@
 "source":"https://github.com/shadowmage45/AncientWarfare",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.3.2"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.4.7","1.3.2"]
 
 },{
 
@@ -727,6 +738,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required","ComputerCraft"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"AppleCore",
+"other":"(Dependency)",
+"link":"http://bit.ly/1x4wNWI",
+"desc":"An API for modifying the food and hunger mechanics.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/AppleCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -1215,16 +1238,6 @@
 
 },{
 
-"name":"Automatic Wheat Farmer",
-"link":"http://bit.ly/Ty9cf2",
-"desc":"If you have seeds in your item bar, this mod will automatically plant them in any nearby farmland.  Optionally you can have it automatically harvest nearby ripe wheat as well (to prevent griefing, this is only possible with planting enabled).",
-"author":["MamiyaOtaru"],
-"type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.2","1.5.2","1.4.7"]
-
-},{
-
 "name":"Auto-shutdown",
 "link":"http://bit.ly/12i4AZ1",
 "desc":"This is a server-only mod used for automatic shutting down after specified time with no players online.",
@@ -1610,6 +1623,16 @@
 
 },{
 
+"name":"Better Archery Mod",
+"link":"http://bit.ly/18MTscl",
+"desc":"Adds two new bows, various new arrow types, and quivers to hold arrows and allow you to easily switch between arrow types to fire.",
+"author":["Zaggy1024"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Better Bows Mod",
 "link":"http://bit.ly/18MTscl",
 "desc":"Adds two new bows, various new arrow types, and quivers to hold arrows and allow you to easily switch between arrow types to fire.",
@@ -1668,6 +1691,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Better Dungeons",
+"link":"http://bit.ly/1B1XZ60",
+"desc":"Adds many, many new dungeons, challenges, and treasures to the game.",
+"author":["Chocolatin"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -1835,6 +1868,17 @@
 
 },{
 
+"name":"Better Sugar Cane",
+"link":"http://bit.ly/1pbkEHD",
+"desc":"Adds extra uses to sugar cane.",
+"author":["numbah90"],
+"source":"https://github.com/Numba90/BetterSugarCane",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Better Than Wolves Mod",
 "link":"http://bit.ly/UA8udT",
 "desc":"A mod that changes much of the functionality of Minecraft that makes Survival a lot less trivial, as well as mechanical additions that progress through ages.Not for the weak. Progression takes time, effort, and a lot of getting used to from the standard Minecraft.",
@@ -1849,9 +1893,10 @@
 "link":"http://bit.ly/1pf66Wj",
 "desc":"Provides customizations options for the ingame title screen.",
 "author":["amadornes"],
+"source":"https://github.com/GirafiStudios/BetterTitleScreen",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10"]
 
 },{
 
@@ -2051,7 +2096,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.6.4","1.6.2","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5","1.4.7"]
 
 },{
 
@@ -2177,6 +2222,17 @@
 
 },{
 
+"name":"Blood Utils",
+"link":"http://bit.ly/1pbiw2A",
+"desc":"An addon for Blood Magic that adding a few helpful utilities to make your blood magic experience even better!",
+"author":["wasliebob"],
+"source":"https://github.com/wasliebob/BloodUtils",
+"type":["Universal"],
+"dependencies":["Forge Required","Blood Magic"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Bloody Dimensions",
 "other":"(WIP)",
 "link":"http://bit.ly/1csapxF",
@@ -2237,7 +2293,7 @@
 "author":["SRJ 26","danieljohnson2"],
 "type":["Universal"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.6.4","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.1","1.5.2"]
 
 },{
 
@@ -2572,7 +2628,7 @@
 "author":["TyronX"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -2623,7 +2679,7 @@
 "author":["Sushen"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -2631,9 +2687,9 @@
 "link":"http://bit.ly/ZB4EWR",
 "desc":"Allows you to craft blocks with glowstone to make glowing blocks.",
 "author":["Phobophobe"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.1","1.5.2","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -2838,16 +2894,6 @@
 
 },{
 
-"name":"Chat Bubbles",
-"link":"http://bit.ly/Ty9cf2",
-"desc":"Displays what people say above their head. Useful for crowded servers where the chat lines fly by.  This way you can hold a conversation with people near you.",
-"author":["MamiyaOtaru"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.4.7"]
-
-},{
-
 "name":"Chat Damage Indicators",
 "link":"http://bit.ly/15WP3QX",
 "desc":"Displays damage indicators in chat. Configurable to show only mobs you hit or show all sources of damage. Cannot be used on servers without the mod.",
@@ -2929,6 +2975,17 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Chemlab",
+"other":"(Alpha)",
+"link":"http://bit.ly/1pbipUx",
+"desc":"Increases SMP experience by overhauling and adding mechanic to create different types of survival activities for players.",
+"author":["Itaros"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3169,7 +3226,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3241,6 +3298,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Climate Control",
+"link":"http://bit.ly/1wFZd6h",
+"desc":"Allows you to shrink, eliminate, and control the frequency of climate zones. Includes vast oceans and smaller lakes with a mixture of any island size.",
+"author":["Zeno410"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -3332,7 +3399,7 @@
 "other":"(Dependency) (Beta)",
 "link":"http://bit.ly/1qF9Uop",
 "desc":"Contains core functionality for all TeamCoFH mods.",
-"author":["TeamCoFH"],
+"author":["KingLemming","skyboy026","ZeldoKavira"],
 "source":"https://github.com/CoFH/CoFHCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -3344,7 +3411,7 @@
 "other":"(Dependency) (Beta)",
 "link":"http://bit.ly/1uG04Xo",
 "desc":"Intended as a common framework for reusable common code.",
-"author":["TeamCoFH"],
+"author":["KingLemming","skyboy026","ZeldoKavira"],
 "source":"https://github.com/CoFH/CoFHLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -3419,7 +3486,7 @@
 "author":["Torquebolt"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
 
 },{
 
@@ -3447,9 +3514,9 @@
 "link":"http://bit.ly/16ljxPS",
 "desc":"Adds colourful portals which can be created anywhere and teleport you from one to another based on colour (they also work between dimensions).  Also adds colourful water, which along with wool or stained clay, is used to create the portals.",
 "author":["Tmtravlr"],
-"type":["SSP","LAN"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -3491,7 +3558,7 @@
 "source":"https://github.com/iBuilder99/Combustible-Lemon-Launcher",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -3739,7 +3806,7 @@
 "author":["Mr_Crayfish"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -3791,6 +3858,18 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"CookieCore",
+"other":"(Dependency)",
+"link":"http://bit.ly/1pbkuQg",
+"desc":"Required dependency for Ephys's mods.",
+"author":["Ephys"],
+"source":"https://github.com/Ephys/CookieCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -4022,13 +4101,13 @@
 
 },{
 
-"name":"Crafting Pillar",
+"name":"Crafting Pillars mod",
 "link":"http://bit.ly/1imZLKP",
 "desc":"Adds blocks to make certain basic tasks in-game more aesthetically pleasing, such as crafting, smelting, or simply displaying blocks or items.",
 "author":["Dawars"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -4297,7 +4376,7 @@
 "source":"https://github.com/Darkhax-Modpack/Custom-Branding",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -4360,6 +4439,16 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Custom Music Discs",
+"link":"http://bit.ly/1pbjhbL",
+"desc":"Allow to add custom music discs to the game, with configurable crafts and drops.",
+"author":["pifou92000"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -4622,7 +4711,7 @@
 "author":["Coolthings42"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
 
 },{
 
@@ -5000,7 +5089,7 @@
 "link":"http://bit.ly/Shmlc3",
 "desc":"Allows you to hatch previously useless dragon eggs. Once fostered and tamed, they'll be your faithful companion in all situations and, of course, can be used for a ride!",
 "author":["BarracudaATA"],
-"source":"http://ata4.info/downloads/apps/minecraft/mods/dragonmount/src/",
+"source":"https://github.com/ata4/dragon-mounts",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
@@ -5131,6 +5220,17 @@
 
 },{
 
+"name":"Dynamic Tanks 2",
+"link":"http://bit.ly/1tVyX8y",
+"desc":"Adds multi-block structures which can store liquids.",
+"author":["DocRedstone","WingsOfLife"],
+"source":"https://github.com/WingsOfLife/DynamicLiquidTanks_v2.0",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
+
+},{
+
 "name":"Dynamic Mazes",
 "link":"http://bit.ly/ZfLJvR",
 "desc":"Adds Mazes filled with treasures, monsters and deadly traps! However, they are dynamically generated, so every maze differs from the others. They are quite rare, so be patient in searching  Also, there are newly added underground mazes! They are located under the largest surface mazes and are filled with even more dangers!",
@@ -5190,7 +5290,7 @@
 "source":"https://github.com/LepkoQQ/EasyCrafting",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -5517,6 +5617,18 @@
 
 },{
 
+"name":"Enchiridion",
+"other":"(Dependency)",
+"link":"http://bit.ly/1x4zB66",
+"desc":"Allows loading of custom books from zip files in the configs, handy for modpack creators or people who just want to let people know what's going on, with a mod.",
+"author":["joshiejack"],
+"source":"https://github.com/joshiejack/Enchiridion",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Ender Book",
 "link":"http://bit.ly/1rvdl05",
 "desc":"Allows you to teleport around your world quickly and easily using a variety of Ender Books.",
@@ -5566,7 +5678,7 @@
 "author":["Jeffrey6978"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.1","1.4.7"]
 
 },{
 
@@ -5814,6 +5926,7 @@
 "link":"http://bit.ly/1vYktny",
 "desc":"Adds more realistic mechanics such as physics, temperature, hydration and more.",
 "author":["TimbuckTato","Funwayguy","GenDeathrow","thislooksfun"],
+"source":"https://github.com/Funwayguy/EnviroMine-1.7",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.6.4"]
@@ -5941,7 +6054,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.6.4","1.6.2","1.5","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -5972,8 +6085,19 @@
 "author":["Zerokyuuni"],
 "source":"https://github.com/Zerokyuuni/Ex-Aliquo",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Ex Nihilo"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Ex Astris",
+"link":"http://bit.ly/1si8zHk",
+"desc":"Adds support for Ex Nihilo with other mods, such as Tinkers' Construct, Thaumcraft 4, Thermal Expansion 4, Waila.",
+"author":["LoveHoly"],
+"source":"https://github.com/LoveHoly/Ex-Astris",
+"type":["Universal"],
+"dependencies":["Forge Required","Ex Nihilo"],
+"versions":["1.7.10"]
 
 },{
 
@@ -6187,7 +6311,6 @@
 },{
 
 "name":"ExtraCells 2",
-"other":"(Alpha)",
 "link":"http://bit.ly/1ipKZ4t",
 "desc":"Adds new standard storage blocks and special storage blocks.",
 "author":["Leonelf"],
@@ -6219,13 +6342,23 @@
 
 },{
 
+"name":"Extractination II",
+"link":"http://bit.ly/1ug1oPW",
+"desc":"Transforms less useful resources into more useful ones using an Ore Extractinator.",
+"author":["Abcdmult"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Extra Diamonds Mod",
-"link":"http://bit.ly/10yej0f",
+"link":"http://bit.ly/1si9ckn",
 "desc":"Adds diamonds of different colors to the game.",
 "author":["abqzach3"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -6327,7 +6460,7 @@
 "author":["Fir3will"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -6874,7 +7007,7 @@
 "other":"(Development)",
 "link":"http://bit.ly/1sjjJsS",
 "desc":"Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.",
-"author":["SirSengir"],
+"author":["SirSengir","mezz","CovertJaguar"],
 "source":"https://github.com/ForestryMC/ForestryMC",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -6987,7 +7120,7 @@
 "source":"https://github.com/EXTER7/Foundry",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 	
@@ -7331,7 +7464,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -7349,9 +7482,10 @@
 "link":"http://bit.ly/10lcmoN",
 "desc":"Allows hiding items inside tools, adds a time travel device, a building tool, a bomb defuser, special fire and four explosive blocks.",
 "author":["Planetguy"],
+"source":"https://github.com/planetguy32/Gizmos",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -7577,7 +7711,7 @@
 "source":"http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/#mozTocId598776",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -7731,7 +7865,7 @@
 "author":["RazzleberryFox","Modochu","and P-there is"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -8148,7 +8282,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2"]
+"versions":["1.7.10","1.6.4","1.5.2"]
 
 },{
 
@@ -8211,6 +8345,29 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Hunger Overhaul",
+"other":"(Unstable)",
+"link":"http://bit.ly/1C5qQZM",
+"desc":"Ever thought hunger should be more integral to surviving?  This mod is meant to make hunger more of a challenge, rather than just a mild annoyance.",
+"author":["progwml6","Parker8283","squeek502"],
+"source":"https://github.com/progwml6/HungerOverhaul",
+"type":["Universal"],
+"dependencies":["Forge Required","AppleCore"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Hunger In Peace",
+"link":"http://bit.ly/1pbgn71",
+"desc":"Enables normal hunger/health regen in Peaceful mode.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/HungerInPeace",
+"type":["Universal"],
+"dependencies":["Forge Required","AppleCore"],
+"versions":["1.7.10"]
 
 },{
 
@@ -8915,7 +9072,7 @@
 "source":"https://github.com/mnn/jaffas",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -9096,7 +9253,7 @@
 "source":"https://github.com/JuiceGrape/JuiceWares",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -9129,6 +9286,14 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Cazzar Core Lib"],
 "versions":["1.7.10","1.7.2"]
+
+"name":"JumpPad++",
+"link":"http://bit.ly/1x4NAsK",
+"desc":"Adds pads which will throw items and players in the air.",
+"author":["T145"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9294,7 +9459,18 @@
 "source":"https://github.com/PC-Logix/LanteaCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
+"name":"LanteaCraft",
+"link":"http://bit.ly/1csezWr",
+"desc":"Adds Stargates and other Lantean based technology. Originally known as SGCraft Reloaded.",
+"author":["MichiyoRavencroft","AfterLifeLochie"],
+"source":"https://github.com/PC-Logix/LanteaCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -9415,9 +9591,9 @@
 "link":"http://bit.ly/16ndZWL",
 "desc":"Adds items from The Legend of Zelda to the game.",
 "author":["dude22072"],
-"type":["SSP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -9782,7 +9958,7 @@
 "author":["TheLarsinator"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -10089,7 +10265,7 @@
 "author":["joshie"],
 "source":"https://github.com/joshiejack/Mariculture",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Enchiridion"],
 "versions":["1.7.10","1.6.4"]
 
 },{
@@ -10101,7 +10277,7 @@
 "author":["joshie"],
 "source":"https://github.com/joshiejack/Mariculture",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Enchiridion"],
 "versions":["1.7.2"]
 
 },{
@@ -10561,13 +10737,24 @@
 },{
 
 "name":"Minecraft Comes Alive",
-"link":"http://bit.ly/mc-comes-alive",
+"link":"http://bit.ly/1x4Byzx",
 "desc":"Replaces villagers with male and female humans that have many unique skins. You may interact with the villagers in new ways, including hiring them to guard you, having them follow you, or setting down and starting a family with them.",
 "author":["WildBamaBoy"],
 "source":"https://github.com/WildBamaBoy/minecraft-comes-alive",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Minecraft Comes Alive",
+"link":"http://bit.ly/1x4Byzx",
+"desc":"Replaces villagers with male and female humans that have many unique skins. You may interact with the villagers in new ways, including hiring them to guard you, having them follow you, or setting down and starting a family with them.",
+"author":["WildBamaBoy"],
+"source":"https://github.com/WildBamaBoy/minecraft-comes-alive",
+"type":["Universal"],
+"dependencies":["Forge Required","RadixCore"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -10682,7 +10869,7 @@
 "author":["skyboy026","TeamCoFH"],
 "source":"https://github.com/skyboy/MineFactoryReloaded",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib"],
 "versions":["1.7.10"]
 
 },{
@@ -10804,6 +10991,7 @@
 "link":"http://bit.ly/15NF3LA",
 "desc":"Allows you to record jerk-free movies in Minecraft, no matter how slow your PC or how complex the scenery is. This is made possible by a temporary modification of the game timer that ensures a constant game time passed between each frame, disabling any synchronization with the actual time. In other words: performance doesn't matter for smooth videos anymore!",
 "author":["BarracudaATA"],
+"source":"https://github.com/ata4/minema",
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
@@ -10835,6 +11023,7 @@
 "link":"http://bit.ly/1fYILJP",
 "desc":"Allows you to create extremely detailed screenshots far beyond the size of your screen by combining multiple screenshots seamlessly from a virtual camera array. Theoretically, the dimensions are limited only by available memory, hard disk space and your patience.",
 "author":["BarracudaATA"],
+"source":"https://github.com/ata4/mineshot",
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
@@ -10870,7 +11059,7 @@
 "source":"https://github.com/MineMaarten/MinesweeperMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -11134,7 +11323,7 @@
 "author":["Davidee"],
 "type":["Universal"],
 "dependencies":["Forge Required","GuiLib"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -11867,7 +12056,7 @@
 "source":"https://github.com/Clashsoft/More-Potions-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -11980,7 +12169,7 @@
 "source":"https://github.com/Clashsoft/More-Tools-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -12676,7 +12865,7 @@
 "source":"https://github.com/twothe/newdawn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -12790,16 +12979,6 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.2","1.5.1"]
-
-},{
-
-"name":"No Slimes in Superflat",
-"link":"http://bit.ly/Ty9cf2",
-"desc":"Removes slimes in superflat worlds.",
-"author":["MamiyaOtaru"],
-"type":["SSP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -12929,16 +13108,6 @@
 
 },{
 
-"name":"No Voidfog or Dimming",
-"link":"http://bit.ly/Ty9cf2",
-"desc":"Removes the void fog and dimming when getting nearer to bedrock level.",
-"author":["MamiyaOtaru"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5"]
-
-},{
-
 "name":"Nuclear Control",
 "link":"http://bit.ly/IkHWHJ",
 "desc":"Allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system.",
@@ -13062,16 +13231,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.5.2"]
-
-},{
-
-"name":"Old North / Retro Sun Direction",
-"link":"http://bit.ly/Ty9cf2",
-"desc":"Makes the sun travel from north to south, to match the direction it went in Minecraft Beta.  With this mod, clouds go north and the sun goes west, just like it used to.",
-"author":["MamiyaOtaru"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -13296,7 +13455,7 @@
 "author":["CaveChild"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -13370,17 +13529,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.5.1","1.4.7","1.4.5"]
-
-},{
-
-"name":"Painted Stone",
-"link":"http://www.minecraftforum.net/topic/2118351-",
-"desc":"Adds colored versions of Stone blocks.  Works well with \"Carpenter's Blocks\" mod!",
-"author":["mDiyo"],
-"source":"https://github.com/mDiyo/PaintedStone",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -13511,7 +13659,7 @@
 "author":["Corosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -13656,9 +13804,9 @@
 "link":"http://bit.ly/GMCEbb",
 "desc":"Generates pirate ships in your world and adds a whole load of blocks and items to do with piracy and the sea itself.",
 "author":["Koadmaster"],
-"type":["SSP","LAN"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.10","1.6.4","1.6.2"]
 
 },{
 
@@ -14236,13 +14384,23 @@
 
 },{
 
-"name":"Project Zulu",
+"name":"Project Zulu: Better Overworld",
 "link":"http://bit.ly/18CdPZD",
 "desc":"Attempts to add flavor to minecraft by adding unique mobs, blocks, and structures to each Minecraft Biome.",
 "author":["Crudedragos"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Project Zulu: Better Overworld",
+"link":"http://bit.ly/1wG2iDr",
+"desc":"Attempts to add flavor to minecraft by adding unique mobs, blocks, and structures to each Minecraft Biome.",
+"author":["soultek101"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -14412,6 +14570,17 @@
 
 },{
 
+"name":"RadixCore",
+"link":"http://bit.ly/1x4Czrw",
+"desc":"A library/framework/API containing many different functions that will assist modders, both beginner and advanced, as they create and maintain their mods.",
+"author":["WildBamaBoy"],
+"source":"https://github.com/WildBamaBoy/radix-core",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Railcraft",
 "link":"http://bit.ly/13rWqzP",
 "desc":"Features a fully fleshed out tech tree, with great effort gone into providing a balanced gameplay based around rails and their creation.",
@@ -14471,7 +14640,7 @@
 "author":["Random_Additions"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -14690,13 +14859,24 @@
 
 },{
 
+"name":"Redstone Armory",
+"link":"http://bit.ly/1uOoB7y",
+"desc":"Adds various Gelid Enderium tools and items, upgrading Redstone Arsenal flux tools.",
+"author":["TehNut","Tombenpotter"],
+"source":"https://github.com/TehNut/RedstoneArmory",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Redstone Arsenal",
 "link":"http://bit.ly/1qF9Kxo",
 "desc":"Adds tools and weaponry which harness the power of Redstone Flux, the energy system added by CoFH and Thermal Expansion.",
 "author":["TeamCoFH"],
 "source":"https://github.com/CoFH/RedstoneArsenal",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib"],
 "versions":["1.6.4"]
 
 },{
@@ -14705,7 +14885,7 @@
 "other":"(Beta)",
 "link":"http://bit.ly/1qF9Kxo",
 "desc":"Adds tools and weaponry which harness the power of Redstone Flux, the energy system added by CoFH and Thermal Expansion.",
-"author":["TeamCoFH"],
+"author":["KingLemming","skyboy026","ZeldoKavira"],
 "source":"https://github.com/CoFH/RedstoneArsenal",
 "type":["Universal"],
 "dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
@@ -14754,7 +14934,7 @@
 },{
 
 "name":"Redstone in Motion",
-"link":"http://bit.ly/16yxsj5",
+"link":"http://bit.ly/1uSQ23k",
 "desc":"RedPower-type frames, blocks that can move whole cuboids, and blocks that pick up anything connected either on a face or in a direction. The engines that move the frames can move with the structure (or stay where they were).",
 "author":["Jakj"],
 "type":["Universal"],
@@ -14998,16 +15178,6 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.4.7"]
-
-},{
-
-"name":"Retro Fences",
-"link":"http://bit.ly/Ty9cf2",
-"desc":"Makes fences behave how they used to by making them connect only to themselves, and not other blocks.",
-"author":["MamiyaOtaru"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -15441,16 +15611,6 @@
 
 },{
 
-"name":"SimpleCraft",
-"link":"http://bit.ly/1fKD4Pz",
-"desc":"Adds recipes for things such as horse items, records, command block and so on.",
-"author":["McKiller5252"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
-
-},{
-
 "name":"SimpleEnderPouch",
 "link":"http://bit.ly/1hN6xI6",
 "desc":"Adds Ender Pouches, which allow players to access their Ender Chest inventory.",
@@ -15521,7 +15681,7 @@
 "source":"https://github.com/konwboj/SimplePortables",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -15531,7 +15691,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -15610,7 +15770,7 @@
 },{
 
 "name":"Sim-U-Kraft",
-"link":"http://bit.ly/17oiQoz",
+"link":"http://bit.ly/1uSQmiw",
 "desc":"Extends and modifies single player gameplay by adding aspects of Sim City and The Sims to the game.",
 "author":["Satscape"],
 "type":["SSP"],
@@ -16009,9 +16169,9 @@
 "link":"http://bit.ly/XDcOh6",
 "desc":"Adds Sonic the Hedgehog themed blocks, items, armor, and mobs.",
 "author":["MCVoxelSH"],
-"type":["SSP","LAN"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.5.2","1.4.7"]
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.4.7"]
 
 },{
 
@@ -16226,13 +16386,24 @@
 
 },{
 
+"name":"Spider Queen Reborn",
+"link":"http://bit.ly/1x4DDeT",
+"desc":"Reverses the role of the players by placing them in the role of a monster instead of a human.",
+"author":["WildBamaBoy"],
+"source":"https://github.com/WildBamaBoy/spider-queen-reborn",
+"type":["Universal"],
+"dependencies":["Forge Required","RadixCore"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Sports Mod",
-"link":"http://bit.ly/VFMccu",
-"desc":"",
+"link":"http://bit.ly/1pbhovO",
+"desc":"Adds balls to play Basketball, Football, Tennis and Baseball",
 "author":["nico910"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
+"type":["Universal"],
+"dependencies":["Forge Required","Player API"],
+"versions":["1.7.10","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -16735,7 +16906,7 @@
 "author":["colossali"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7","1.4.5"]
 
 },{
 
@@ -16861,6 +17032,16 @@
 
 },{
 
+"name":"TabbyChat",
+"link":"http://bit.ly/1B1WvJa",
+"desc":"Adds handy functionality to the Chat feature in minecraft. More particularly, it adds tabs.",
+"author":["Killjoy1221"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Tails",
 "link":"http://bit.ly/1laaKtf",
 "desc":"Adds customizable tails for players. Primarily client side.",
@@ -16908,7 +17089,7 @@
 "author":["pitman-87"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -16978,7 +17159,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16996,7 +17177,7 @@
 "link":"http://bit.ly/15c5F7g",
 "desc":"",
 "author":["bioxx"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.4.7","1.4.5"]
 
@@ -17438,9 +17619,9 @@
 "link":"http://bit.ly/Y56XzL",
 "desc":"An adaption of the old minecraft mod The Aether which adds a new dimension and a whole new adventure!",
 "author":["Damoniy"],
-"type":["SSP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -17613,7 +17794,7 @@
 "author":["CookieCake"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.7.10","1.4.7"]
 
 },{
 
@@ -17670,7 +17851,7 @@
 
 "name":"The Peacefulpack",
 "link":"http://bit.ly/19WWYBo",
-"desc":"This mod adds new ways to get all the mob drops. You can get them all without having to fight any monsters. This can be useful if you don't like monsters or if you just want more of the drops.Goes well with Harder Peaceful mod.",
+"desc":"This mod adds new ways to get all the mob drops. You can get them all without having to fight any monsters. This can be useful if you don't like monsters or if you just want more of the drops. Goes well with Harder Peaceful mod.",
 "author":["wuppy21"],
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/peacefulpackmod",
 "type":["Universal"],
@@ -17734,9 +17915,10 @@
 "other":"(Beta)",
 "link":"http://bit.ly/1ztBBUh",
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
-"author":["Team CoFH"],
+"author":["KingLemming","skyboy026","ZeldoKavira"],
+"source":"https://github.com/CoFH/ThermalExpansion",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","Thermal Foundation"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","CoFH Lib"],
 "versions":["1.7.10"]
 
 },{
@@ -17745,9 +17927,10 @@
 "other":"(Beta)",
 "link":"http://bit.ly/1uFXNvm",
 "desc":"Required for Thermal Expansion. Adds resources without requiring the technology included in Thermal Expansion.",
-"author":["Team CoFH"],
+"author":["KingLemming","skyboy026","ZeldoKavira"],
+"source":"https://github.com/CoFH/ThermalFoundation",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib"],
 "versions":["1.7.10"]
 
 },{
@@ -17809,7 +17992,18 @@
 "source":"https://github.com/squeek502/SpiceOfLife",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"The Spice of Life",
+"link":"http://bit.ly/1qpLaRq",
+"desc":"Encourages dietary variety through diminishing returns.",
+"author":["squeek502"],
+"source":"https://github.com/squeek502/SpiceOfLife",
+"type":["Universal"],
+"dependencies":["Forge Required","AppleCore"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17976,16 +18170,6 @@
 
 },{
 
-"name":"Timber!",
-"link":"http://bit.ly/13b9vxV",
-"desc":"Makes all the logs in a tree break when you hit the bottom block of the tree with an axe of any type. You can toggle this effect to safely remove logs by holding down the sneak key while chopping logs with your axe.",
-"author":["TehKrush"],
-"type":["SSP"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
-
-},{
-
 "name":"Time Keeper",
 "link":"http://bit.ly/1bLzDHv",
 "desc":"Keeps in-game time in sync with real life.",
@@ -18020,9 +18204,9 @@
 
 "name":"Tinkers' Construct",
 "other":"(Beta)",
-"link":"http://bit.ly/Z7xU26",
+"link":"http://bit.ly/1wFUL7y",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
-"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
+"author":["boni","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required","Mantle"],
@@ -18070,7 +18254,7 @@
 "author":["Ephys"],
 "source":"https://github.com/Ephys/TinkersSteelworks",
 "type":["Universal"],
-"dependencies":["Forge Required","Tinkers' Construct","Mantle"],
+"dependencies":["Forge Required","Tinkers' Construct","Mantle","CookieCore"],
 "versions":["1.7.10"]
 
 },{
@@ -18216,17 +18400,7 @@
 "author":["HitchH1k3r"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5","1.4.7"]
-
-},{
-
-"name":"Torch Placer",
-"link":"http://www.minecraftforum.net/topic/1938339-",
-"desc":"Adds a torch placer item similar to the Sojourner's Staff from Xeno's Reliquary.",
-"author":["McKiller5252"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5","1.4.7"]
 
 },{
 
@@ -18369,7 +18543,7 @@
 "source":"https://github.com/ProPercivalalb/Trapcraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.1","1.4.7"]
 
 },{
 
@@ -18597,7 +18771,7 @@
 "author":["Umbrosus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -18646,7 +18820,7 @@
 "other":"(Beta)",
 "link":"http://bit.ly/1eM6ibr",
 "desc":"A revised extension of the original Underground Biomes mod. Adds Igneous, Metamorphic and Sedimentary rocks; fossil pieces; coal storage blocks and more.",
-"author":["Zeno410","Grom PE","Exterminator Jeff"],
+"author":["Zeno410"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -18670,6 +18844,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Unique Artifacts",
+"link":"http://bit.ly/1pbi5oQ",
+"desc":"Adds huge amount of powerful, randomly generated Artifacts.",
+"author":["Draco18s"],
+"source":"https://github.com/Draco18s/Artifacts",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -18888,7 +19073,7 @@
 "author":["watkins577"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.4.7"]
+"versions":["1.6.4","1.6.2","1.4.7"]
 
 },{
 
@@ -18898,7 +19083,7 @@
 "author":["FatherToast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.6.4","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -18968,10 +19153,10 @@
 "link":"http://bit.ly/12XYGle",
 "desc":"Adds storage blocks (Much like iron/gold/diamond blocks) for both vanilla/modded materials, as well as some vanity blocks, like lavalamps.",
 "author":["AnarchySage"],
-"source":"https://github.com/AnarchySage/Vanityblocksmod",
+"source":"https://github.com/AnarchySage/VanityblocksDev/",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -19126,17 +19311,6 @@
 
 "name":"VoxelMap",
 "other":"(Zan's Minimap)",
-"link":"http://bit.ly/1pnVhD9",
-"desc":"A feature-packed minimap with many customizations.",
-"author":["MamiyaOtaru"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
-
-},{
-
-"name":"VoxelMap",
-"other":"(Zan's Minimap)",
 "link":"http://bit.ly/1pnVFkR",
 "desc":"A feature-packed minimap with many customizations.",
 "author":["MamiyaOtaru"],
@@ -19166,6 +19340,17 @@
 "type":["Client"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"Waila NBT",
+"link":"http://bit.ly/1pbhSlC",
+"desc":"Displays player defined specific NBT info on Waila.",
+"author":["exzhawk"],
+"source":"https://github.com/exzhawk/wailanbt",
+"type":["Client"],
+"dependencies":["Forge Required","Waila"],
+"versions":["1.7.10"]
 
 },{
 
@@ -19275,23 +19460,13 @@
 
 },{
 
-"name":"Water Shader Alpha",
-"link":"http://bit.ly/XK1K0y",
-"desc":"Adds advanced shaders to water, making it much more detailed in-game.",
-"author":["superbomb17"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7"]
-
-},{
-
 "name":"Water & Sun Proof Endermen Mod",
 "link":"http://bit.ly/V67BOd",
 "desc":"Allows Endermen to survive in water and direct sunlight.",
 "author":["Jeffrey6978"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -19354,7 +19529,7 @@
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -19375,6 +19550,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"What's This Pack",
+"other":"(WTP)",
+"link":"http://bit.ly/1x4HXdZ",
+"desc":"A simple modpack identifier for those who makes modpacks.",
+"author":["Robosphinx"],
+"source":"https://github.com/robosphinx/ModpackID",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -19510,17 +19697,7 @@
 "author":["DeStilleGast"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1"]
-
-},{
-
-"name":"Wolves+ Mod",
-"link":"http://bit.ly/TX0t2u",
-"desc":"",
-"author":["Willsr71"],
-"type":["N/A"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.6.4","1.5.2","1.5.1"]
 
 },{
 
@@ -19530,7 +19707,7 @@
 "author":["bl4ckscor3"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -19921,14 +20098,14 @@
 
 },{
 
-"name":"Zelda Sword Skills",
+"name":"Zelda Sword Skills+",
 "link":"http://bit.ly/1nJA5HK",
 "desc":"Includes MANY items from the Zelda games, as well as mobs, dungeons, sword attacks, quests, and more.",
 "author":["coolAlias"],
-"source":"https://github.com/coolAlias/ZeldaSwordSkills-1.6.4",
+"source":"https://github.com/coolAlias/ZeldaSwordSkills",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 

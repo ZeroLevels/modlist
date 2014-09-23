@@ -1,3 +1,7 @@
+(September/23/2014)
+	+Added "Project Zulu: Better Overworld"
+	-Removed "Painted Stone": Download no longer available
+
 (September/14/2014)
 	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
 

@@ -1,3 +1,79 @@
+(September/23/2014)
+	*Updated "Thermal Foundation" info
+	*Updated "Thermal Expansion 4" info
+	*Updated "CoFH Core" info
+	*Updated "CoFH Lib" info
+	*Updated "Redstone Arsenal" info
+	*Updated "Underground Biomes Constructs" authors
+	*Updated "Tinkers' Construct" info
+	*Updated "MineFactory Reloaded" info
+	*Updated "Dragon Mounts" source
+	*Updated "EnviroMine" added source
+	*Updated "Forestry" authors
+	+Added "Zelda Sword Skills+"
+	+Added "Wood Converter"
+	+Added "Weee! Flowers"
+	+Added "Water & Sun Proof Endermen Mod"
+	+Added "Trapcraft"
+	+Added "Torch Levers"
+	+Added "Redstone Armory"
+	+Added "Climate Control": Currently in Beta
+	+Added "Clay Spawn"
+	+Added "Get all the Seeds!"
+	+Added "Simple Recipes"
+	+Added "Temperate Plants"
+	+Added "Easy Crafting"
+	+Added "Project Zulu: Better Overworld"
+	+Added "All-U-Want Inventory Editor"
+	+Added "Better Title Screen"
+	+Added "Crafting Pillar"
+	+Added "Deconstruction Table"
+	+Added "Endermen Don't Pick Up Blocks Mod"
+	+Added "Greg's Lighting"
+	+Added "New Dawn"
+	+Added "Sonic the Hedgehog Mod"
+	+Added "Super Heroes in Minecraft"
+	+Added "TabbyChat"
+	+Added "Team Fortress 2 Mods"
+	+Added "The Ether Mod"
+	+Added "Vanity Blocks"
+	+Added "Alchemy++"
+	+Added "Ancient Warfare"
+	+Added "Better Dungeons"
+	+Added "Blue Vanilla"
+	+Added "Butterfly Mania"
+	+Added "Colorful Armor"
+	+Added "Colourful Portals Mod"
+	+Added "Ex Astris"
+	+Added "Extreme Blocks"
+	+Added "Foundry"
+	+Added "Gizmos"
+	+Added "Hostile Worlds"
+	+Added "LanteaCraft"
+	+Added "Legend of Zelda Mod"
+	+Added "LotsOMobs"
+	+Added "More Potions Mod"
+	+Added "More Tools Mod"
+	+Added "Particle Man"
+	+Added "Pirates"
+	+Added "Random Additions"
+	+Added "Simple Portables"
+	+Added "The Mining Mod"
+	+Added "AppleCore"
+	+Added "Hunger In Peace"
+	+Added "Enchiridion"
+	+Added "RadixCore"
+	+Added "Sports Mod"
+	+Added "Waila NBT"
+	+Added "What's This Pack"
+	+Added "Blood Utils"
+	+Added "Chemlab": Currently in Alpha
+	+Added "JumpPad++"
+	+Added "Custom Music Discs"
+	+Added "Extractination II"
+	+Added "CookieCore"
+	+Added "Better Sugar Cane"
+	
 (September/22/2014)
 	*Updated "FluidConverters" info: Added source
 	*Updated "Bagginses" info: Added source

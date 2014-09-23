@@ -1,3 +1,7 @@
+(September/23/2014)
+	+Added "Project Zulu: Better Overworld"
+	+Added "Sports Mod"
+
 (September/22/2014)
 	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
 	+Added "Nature Overhaul"
