@@ -4563,7 +4563,17 @@
 "author":["yarrmateys"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Cute Mob Models",
+"link":"http://bit.ly/Yc5uee",
+"desc":"Replaces generic models with designs recreated from Mobtalker.",
+"author":["yarrmateys"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
