@@ -1,25 +1,25 @@
 (September/25/2014)
-	*Updated "Railcraft" added source
 	*Updated "Applied Energistics 2" added source
 	*Updated "ExtraBiomesXL": Now Release Candidate
-	+Added "Custom Mob Spawner"
-	+Added "Mo' Creatures"
-	+Added "Modular Systems"
+	*Updated "Railcraft" added source
 	+Added "AE2 Tech Add-On": Currently in Beta
+	+Added "Cube World"
+	+Added "Custom Mob Spawner"
+	+Added "Custom Stuff 3": Currently WIP
+	+Added "Cute Mob Models"
 	+Added "Insta House Mod"
 	+Added "Intelligent Energistics": Currently in Alpha
 	+Added "Forge Essentials": Currently in Beta
 	+Added "Dense Ores"
 	+Added "Creeper Collateral"
 	+Added "INpureCore"
-	+Added "MobTalker2": Currently in Alpha
-	+Added "Cube World"
-	+Added "Custom Stuff 3": Currently WIP
-	+Added "Cute Mob Models"
 	+Added "MalisisCore"
 	+Added "Malisis' Doors"
+	+Added "MobTalker2": Currently in Alpha
+	+Added "Mo' Creatures"
+	+Added "Modular Systems"
 	+Added "The Amnesia Mod"
-	-Removed "No Cubes" not available on this version
+	-Removed "No Cubes": Not available on this version
 
 (September/23/2014)
 	*Updated "Thermal Foundation" info

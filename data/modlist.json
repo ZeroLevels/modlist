@@ -4198,19 +4198,19 @@
 },{
 
 "name":"Creeper Collateral",
-"link":"http://bit.ly/VFC2bC",
-"desc":"Exposes the rate at which explosions drop block items in a config file. Vanilla default is 0.3 while the mod's default is 1.0 so no block is ever completely destroyed by a creeper.",
+"link":"http://bit.ly/1ptUoY7",
+"desc":"Allows blocks destroyed by creeper explosions to drop as items with configurable drop rates.",
 "author":["denoflions"],
 "source":"https://github.com/denoflionsx/CreeperCollateral_Legacy",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.2"]
+"versions":["1.6.4","1.6.2","1.5.2"]
 
 },{
 
 "name":"Creeper Collateral",
 "link":"http://bit.ly/1vgRR9k",
-"desc":"Mod that modifies how explosions work so the process is similar to how it happens on bukkit servers.",
+"desc":"Allows blocks destroyed by creeper explosions to drop as items with configurable drop rates.",
 "author":["denoflions"],
 "source":"https://github.com/INpureProjects/CreeperCollateral",
 "type":["Universal"],
@@ -4366,7 +4366,7 @@
 
 "name":"Cube World",
 "link":"http://bit.ly/W1Y0Tw",
-"desc":"Custom terrain generator, which adds a new world type made up of floating glass boxes with different terrain inside of them, as well as cubes with dungeons and blazes inside. ",
+"desc":"Custom terrain generator, adding a new world type made of different terrains, dungeons, and blazes contained in glass boxes.",
 "author":["therealergo"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -4438,7 +4438,7 @@
 
 "name":"Custom Mob Spawner",
 "link":"http://bit.ly/XCTaBY",
-"desc":"Offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8. Every mod will have its individual spawning list, so other mods won't interfere with the spawning settings.",
+"desc":"Provides random mob spawning behavior from pre-Beta 1.8 for other mods, with individual spawning lists per mod.",
 "author":["DrZhark"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -4448,7 +4448,7 @@
 
 "name":"Custom Mob Spawner",
 "link":"http://bit.ly/1Cm1iaQ",
-"desc":"Offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8. Every mod will have its individual spawning list, so other mods won't interfere with the spawning settings.",
+"desc":"Provides random mob spawning behavior from pre-Beta 1.8 for other mods, with individual spawning lists per mod.",
 "author":["DrZhark"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -4458,7 +4458,7 @@
 
 "name":"Custom Mob Spawner",
 "link":"http://bit.ly/1u12ii1",
-"desc":"Offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8. Every mod will have its individual spawning list, so other mods won't interfere with the spawning settings.",
+"desc":"Provides random mob spawning behavior from pre-Beta 1.8 for other mods, with individual spawning lists per mod.",
 "author":["DrZhark"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -4558,8 +4558,8 @@
 },{
 
 "name":"Cute Mob Models",
-"link":"http://bit.ly/Yc5uee",
-"desc":"Replaces generic models with the designs used in Mobtalker mod.",
+"link":"http://bit.ly/1ptWRSq",
+"desc":"Replaces generic models with designs recreated from Mobtalker.",
 "author":["yarrmateys"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -4822,7 +4822,7 @@
 
 "name":"Dense Ores",
 "link":"http://bit.ly/ZekFog",
-"desc":"Adds 'dense' versions of the ores that will drop 3x the items that regular ore will.",
+"desc":"Adds dense versions of ores which drop 3x compared to original drop rates.",
 "author":["RWTema"],
 "source":"https://github.com/rwtema/DenseOres",
 "type":["Universal"],
@@ -8931,7 +8931,7 @@
 "name":"Intelligent Energistics",
 "other":"(Alpha)",
 "link":"http://bit.ly/1vgLcw3",
-"desc":"Addon for Applied Energistics 2. It is split into 3 child mods which add specific utilities.",
+"desc":"Addon for Applied Energistics 2, adding armors, disassemblers, new workbenches and more.",
 "author":["thatsIch"],
 "source":"https://github.com/thatsIch/IntelliE-Scala",
 "type":["Universal"],
@@ -11642,7 +11642,7 @@
 
 "name":"Modular Systems",
 "link":"http://bit.ly/15OxYvc",
-"desc":"Conceptual successor to Modular Furnaces 2. Its more of an expansion to the idea of modular multi-blocks.",
+"desc":"Conceptual successor to Modular Furnaces 2. Adds modular multi-block structures for furnaces, ore processing, and storage.",
 "author":["pauljoda"],
 "source":"https://github.com/pauljoda/ModularFurnace",
 "type":["Universal"],
@@ -17303,7 +17303,7 @@
 
 "name":"TerraFirmaCraft",
 "link":"http://bit.ly/15c5F7g",
-"desc":"Complete rework of survival. The world generation is very different from vanilla Minecraft, featuring a wide variety of environments, stone layers, and vegetation, and the technology tree is much richer, encompassing pottery, stone working, metallurgy and much more.",
+"desc":"Custom world generation with a variety of environments, stone layers, and vegetation. Adds a technology tree covering pottery, stone working, metallurgy and more.",
 "author":["Dunkleosteus","bioxx","emris"],
 "source":"https://github.com/Deadrik/TFCraft",
 "type":["Universal"],
@@ -17543,7 +17543,7 @@
 
 "name":"The Amnesia Mod",
 "link":"http://bit.ly/YcpkWO",
-"desc":"Adds dynamic light, decorative blocks, monsters, sanity, custom lockable doors from Amnesia: The Dark Descent.",
+"desc":"Adds dynamic lighting, decorative blocks, monsters, sanity, and custom lockable doors from Amnesia: The Dark Descent.",
 "author":["FLUFFY2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],

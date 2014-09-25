@@ -1,7 +1,9 @@
 (September/25/2014)
+	*Updated "Creeper Collateral" description
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
 	*Updated "Hunger Overhaul" info
-	+Added "Painter's Flower Pot"
 	+Added "Cube World"
+	+Added "Painter's Flower Pot"
 
 (September/23/2014)
 	+Added "Project Zulu: Better Overworld"

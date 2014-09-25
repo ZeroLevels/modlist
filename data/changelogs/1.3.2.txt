@@ -1,4 +1,5 @@
 (September/25/2014)
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
 	*Updated "Mining Mod" name: Now "The Mining Mod"
 	+Added "Cube World"
 

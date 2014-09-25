@@ -1,7 +1,8 @@
 (September/25/2014)
-	+Added "Painter's Flower Pot"
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
 	+Added "Cube World"
 	+Added "Custom Lan Port Mod"
+	+Added "Painter's Flower Pot"
 
 (September/23/2014)
 	+Added "Project Zulu: Better Overworld"

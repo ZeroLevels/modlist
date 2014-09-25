@@ -1,10 +1,11 @@
 (September/25/2014)
+	*Updated "Custom Mob Spawner" description
 	+Added "AE2 Tech Add-On"
-	+Added "Insta House Mod"
-	+Added "Dense Ores"
 	+Added "Cube World"
 	+Added "Custom Lan Port Mod"
 	+Added "Cute Mob Models"
+	+Added "Dense Ores"
+	+Added "Insta House Mod"
 	+Added "Magical Crops"
 	+Added "MalisisCore"
 	+Added "Malisis' Doors"
