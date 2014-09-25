@@ -1,3 +1,15 @@
+(September/25/2014)
+	*Updated "Custom Mob Spawner" description
+	+Added "AE2 Tech Add-On"
+	+Added "Cube World"
+	+Added "Custom Lan Port Mod"
+	+Added "Cute Mob Models"
+	+Added "Dense Ores"
+	+Added "Insta House Mod"
+	+Added "Magical Crops"
+	+Added "MalisisCore"
+	+Added "Malisis' Doors"
+
 (September/23/2014)
 	*Updated "Underground Biomes Constructs" authors
 	*Updated "Zelda Sword Skills" name: Now "Zelda Sword Skills+"

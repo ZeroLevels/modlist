@@ -1,3 +1,16 @@
+(September/25/2014)
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
+	*Updated "Hunger Overhaul" info
+	*Updated "TerraFirmaCraft" info
+	+Added "Creeper Collateral"
+	+Added "Cube World"
+	+Added "Custom Lan Port Mod"
+	+Added "Cute Mob Models"
+	+Added "Forge Essentials"
+	+Added "MalisisCore"
+	+Added "Malisis' Doors"
+	+Added "Painter's Flower Pot"
+
 (September/23/2014)
 	*Updated "Zelda Sword Skills" name: Now "Zelda Sword Skills+"
 	*Updated "Dragon Mounts" source
