@@ -1,3 +1,7 @@
+(September/25/2014)
+	*Updated "Mining Mod" name: Now "The Mining Mod"
+	+Added "Cube World"
+
 (September/12/2014)
 	+Added "Wild Caves 3"
 	+Added "RadarBro"

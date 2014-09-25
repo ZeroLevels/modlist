@@ -1,3 +1,14 @@
+(September/25/2014)
+	*Updated "Hunger Overhaul" info
+	*Updated "TerraFirmaCraft" info
+	+Added "Painter's Flower Pot"
+	+Added "Forge Essentials"
+	+Added "Cube World"
+	+Added "Custom Lan Port Mod"
+	+Added "Cute Mob Models"
+	+Added "MalisisCore"
+	+Added "Malisis' Doors"
+
 (September/23/2014)
 	*Updated "Zelda Sword Skills" name: Now "Zelda Sword Skills+"
 	*Updated "Dragon Mounts" source

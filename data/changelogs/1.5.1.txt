@@ -1,3 +1,8 @@
+(September/25/2014)
+	+Added "Painter's Flower Pot"
+	+Added "Cube World"
+	+Added "Custom Lan Port Mod"
+
 (September/23/2014)
 	+Added "Project Zulu: Better Overworld"
 	+Added "Sports Mod"

@@ -1,3 +1,8 @@
+(September/25/2014)
+	*Updated "Hunger Overhaul" info
+	+Added "Painter's Flower Pot"
+	+Added "Cube World"
+
 (September/23/2014)
 	+Added "Project Zulu: Better Overworld"
 	+Added "LanteaCraft"

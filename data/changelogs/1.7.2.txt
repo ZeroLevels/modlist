@@ -1,3 +1,14 @@
+(September/25/2014)
+	+Added "AE2 Tech Add-On"
+	+Added "Insta House Mod"
+	+Added "Dense Ores"
+	+Added "Cube World"
+	+Added "Custom Lan Port Mod"
+	+Added "Cute Mob Models"
+	+Added "Magical Crops"
+	+Added "MalisisCore"
+	+Added "Malisis' Doors"
+
 (September/23/2014)
 	*Updated "Underground Biomes Constructs" authors
 	*Updated "Zelda Sword Skills" name: Now "Zelda Sword Skills+"
