@@ -123,7 +123,7 @@
 "author":["SuperManitu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.5.2"]
+"versions":["1.7.2","1.5.2"]
 
 },{
 
@@ -344,6 +344,18 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"AE2 Tech Add-On",
+"other":"(Beta)",
+"link":"http://bit.ly/Zej0z8",
+"desc":"Adds new machines and items that are designed to interact with the AE2 Grid.",
+"author":["fireball1725"],
+"source":"https://bitbucket.org/FireBall1725/ae2techaddon",
+"type":["Universal"],
+"dependencies":["Forge Required","Applied Energistics 2"],
+"versions":["1.7.10"]
 
 },{
 
@@ -766,7 +778,8 @@
 "name":"Applied Energistics 2",
 "link":"http://bit.ly/1h40sSO",
 "desc":"Providing systems to store, process, and transport Energy. Supports ForgeMultipart and other automation mods. Incompatible with the original Applied Energistics mod.",
-"author":["AlgorithmX2"],
+"author":["AlgorithmX2","thatsIch"],
+"source":"https://github.com/AppliedEnergistics/Applied-Energistics-2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -4188,10 +4201,21 @@
 "link":"http://bit.ly/VFC2bC",
 "desc":"Exposes the rate at which explosions drop block items in a config file. Vanilla default is 0.3 while the mod's default is 1.0 so no block is ever completely destroyed by a creeper.",
 "author":["denoflions"],
-"source":"https://github.com/denoflionsx/CreeperCollateral",
+"source":"https://github.com/denoflionsx/CreeperCollateral_Legacy",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.5.2"]
+
+},{
+
+"name":"Creeper Collateral",
+"link":"http://bit.ly/1vgRR9k",
+"desc":"Mod that modifies how explosions work so the process is similar to how it happens on bukkit servers.",
+"author":["denoflions"],
+"source":"https://github.com/INpureProjects/CreeperCollateral",
+"type":["Universal"],
+"dependencies":["Forge Required","INpureCore"],
+"versions":["1.7.10"]
 
 },{
 
@@ -4342,11 +4366,11 @@
 
 "name":"Cube World",
 "link":"http://bit.ly/W1Y0Tw",
-"desc":"",
+"desc":"Custom terrain generator, which adds a new world type made up of floating glass boxes with different terrain inside of them, as well as cubes with dungeons and blazes inside. ",
 "author":["therealergo"],
-"type":["N/A"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.4.7","1.4.2","1.3.2"]
 
 },{
 
@@ -4397,8 +4421,8 @@
 "desc":"Allows for you to enter a custom port, IP, and MOTD for LAN!",
 "author":["CptHunter"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.4.7"]
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -4417,19 +4441,28 @@
 "desc":"Offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8. Every mod will have its individual spawning list, so other mods won't interfere with the spawning settings.",
 "author":["DrZhark"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+"dependencies":["Forge Required"],
+"versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
 "name":"Custom Mob Spawner",
-"other":"(Development)",
-"link":"http://bit.ly/UvyxRJ",
+"link":"http://bit.ly/1Cm1iaQ",
 "desc":"Offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8. Every mod will have its individual spawning list, so other mods won't interfere with the spawning settings.",
 "author":["DrZhark"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.7.2"]
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Custom Mob Spawner",
+"link":"http://bit.ly/1u12ii1",
+"desc":"Offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8. Every mod will have its individual spawning list, so other mods won't interfere with the spawning settings.",
+"author":["DrZhark"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -4503,6 +4536,17 @@
 
 },{
 
+"name":"Custom Stuff 3",
+"other":"(WIP)",
+"link":"http://bit.ly/Yc4p5Z",
+"desc":"Allows you to add content to minecraft with simple text files. You can also send your created content in a zip to your friends and they have only put this zip into the custom stuff 2 mods directory. You can create chests, furnaces, ladders, torches that can also be placed on the ceiling, armory, food, potions, crafting recipes and much more.",
+"author":["CubeX2"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"CustomVolume",
 "link":"http://bit.ly/11KGYwA",
 "desc":"",
@@ -4510,6 +4554,16 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"Cute Mob Models",
+"link":"http://bit.ly/Yc5uee",
+"desc":"Replaces generic models with the designs used in Mobtalker mod.",
+"author":["yarrmateys"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -4763,6 +4817,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft","denLib"],
 "versions":["1.6.2","1.5.2"]
+
+},{
+
+"name":"Dense Ores",
+"link":"http://bit.ly/ZekFog",
+"desc":"Adds 'dense' versions of the ores that will drop 3x the items that regular ore will.",
+"author":["RWTema"],
+"source":"https://github.com/rwtema/DenseOres",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -6236,7 +6301,6 @@
 },{
 
 "name":"ExtraBiomesXL",
-"other":"(Beta)",
 "link":"http://bit.ly/XCV19S",
 "desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
 "author":["MisterFiber"],
@@ -6248,6 +6312,7 @@
 },{
 
 "name":"ExtraBiomesXL",
+"other":"(Release Candidate)",
 "link":"http://bit.ly/1y0GWVT",
 "desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
 "author":["MisterFiber"],
@@ -7039,14 +7104,26 @@
 
 },{
 
-"name":"ForgeEssentials",
-"link":"http://bit.ly/VeIOSL",
+"name":"Forge Essentials",
+"link":"http://bit.ly/1vgNEmd",
 "desc":"Adds Bukkit-like functionality to Forge such as permissions, extra commands and player logging.",
-"author":["ForgeEssentials"],
+"author":["luacs1998","olee","RlonRyan","Helinus","Malkierian"],
 "source":"https://github.com/ForgeEssentials/ForgeEssentialsMain",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.4.7"]
+"versions":["1.6.4","1.5.2","1.4.7"]
+
+},{
+
+"name":"Forge Essentials",
+"other":"(Beta)",
+"link":"http://bit.ly/1vgNQSs",
+"desc":"Adds Bukkit-like functionality to Forge such as permissions, extra commands and player logging.",
+"author":["luacs1998","olee","RlonRyan","Helinus","Malkierian"],
+"source":"https://github.com/ForgeEssentials/ForgeEssentialsMain",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -8330,7 +8407,7 @@
 
 "name":"Hunger Overhaul",
 "link":"http://bit.ly/14yqAB6",
-"desc":"Ever thought hunger should be more integral to surviving?  This mod is meant to make hunger more of a challenge, rather than just a mild annoyance.",
+"desc":"Tweaks food and hunger mechanics with food tooltips and more.",
 "author":["iguana_man"],
 "source":"https://github.com/iguanaman/HungerOverhaul",
 "type":["Universal"],
@@ -8565,7 +8642,7 @@
 
 "name":"Iguana Tweaks for Tinker's Construct",
 "link":"http://bit.ly/17nkepE",
-"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
+"desc":"Makes some balance changes to Tinker's Construct, making progression through metals somewhat more difficult.",
 "author":["iguana_man"],
 "source":"https://github.com/iguanaman/IguanaTweaksTConstruct",
 "type":["Universal"],
@@ -8576,7 +8653,7 @@
 
 "name":"Iguanas Tinker Tweaks",
 "link":"http://bit.ly/1uaJ5s3",
-"desc":"Makes some balance changes to mDiyo's Tinker's Construct, making progression through metals somewhat more difficult.",
+"desc":"Makes some balance changes to Tinker's Construct, making progression through metals somewhat more difficult.",
 "author":["boni"],
 "source":"https://github.com/SlimeKnights/IguanaTweaksTConstruct",
 "type":["Universal"],
@@ -8829,13 +8906,37 @@
 
 },{
 
+"name":"INpureCore",
+"other":"(Dependency)",
+"link":"http://bit.ly/1vgRR9k",
+"desc":"Required dependency for INpure mods.",
+"author":["denoflions"],
+"source":"https://github.com/INpureProjects/INpureCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Insta House Mod",
 "link":"http://bit.ly/UN9Lyn",
 "desc":"Adds blocks that transform into houses when right-clicked with a staff.",
 "author":["Phobophobe"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.6.1","1.5.2","1.4.7","1.4.5"]
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.2","1.6.1","1.5.2","1.4.7","1.4.5"]
+
+},{
+
+"name":"Intelligent Energistics",
+"other":"(Alpha)",
+"link":"http://bit.ly/1vgLcw3",
+"desc":"Addon for Applied Energistics 2. It is split into 3 child mods which add specific utilities.",
+"author":["thatsIch"],
+"source":"https://github.com/thatsIch/IntelliE-Scala",
+"type":["Universal"],
+"dependencies":["Forge Required","Applied Energistics 2"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10067,7 +10168,7 @@
 "author":["Mark719"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -10185,6 +10286,28 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"MalisisCore",
+"link":"http://bit.ly/YcnhSv",
+"desc":"Required dependency for Malisis' Doors.",
+"author":["Ordinastie"],
+"source":"https://github.com/Ordinastie/MalisisCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Malisis' Doors",
+"link":"http://bit.ly/ZQs3Gw",
+"desc":"Adds new animations for doors, trap doors and fence gates. It also adds new several doors like glass doors, jail doors, laboratory doors, factory doors and garage doors that all have different and original animations.",
+"author":["Ordinastie"],
+"source":"https://github.com/Ordinastie/MalisisDoors",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11117,16 +11240,6 @@
 
 },{
 
-"name":"Mining Mod",
-"link":"http://bit.ly/YVCWyA",
-"desc":"",
-"author":["CookieCake"],
-"type":["SSP","SMP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.2"]
-
-},{
-
 "name":"Minions",
 "link":"http://bit.ly/1i8DAqb",
 "desc":"Allows you to summon minions that can (currently):follow you aroundbe sent to placeschop down most any kind of trees, including Jungle giantscarry you, animals and other playerspickup and carry Items in their inventorydig mineshafts complete with stairwelldig out a custom sized space you definemine ore veins you point out to themintelligently strip mine where you tell them toreturn their goods and loot to youor to a chest you pointed out",
@@ -11305,13 +11418,13 @@
 "desc":"Allows you to control where mobs can spawn.",
 "author":["Davidee"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
 "name":"Mob Spawn Controls 2",
-"link":"http://bit.ly/ZwUyGv",
+"link":"http://bit.ly/1soeEC2",
 "desc":"Allows you to control where mobs can spawn.",
 "author":["Davidee"],
 "type":["Universal"],
@@ -11322,7 +11435,7 @@
 
 "name":"Mob Talker",
 "link":"http://bit.ly/XD7dHH",
-"desc":"",
+"desc":"Allows users to create visual novel styled adventure games in Minecraft, using a newly developed scripting language called MobTalkerScript.",
 "author":["SCMowns"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
@@ -11332,12 +11445,23 @@
 
 "name":"MobTalker2",
 "other":"(Beta)",
-"link":"http://bit.ly/1iOyVvi",
+"link":"http://bit.ly/Yc0hTx",
 "desc":"Allows users to create visual novel styled adventure games in Minecraft, using a newly developed scripting language called MobTalkerScript.",
 "author":["Chimaine","xs2007"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"MobTalker2",
+"other":"(Alpha)",
+"link":"http://bit.ly/Yc0hTx",
+"desc":"Allows users to create visual novel styled adventure games in Minecraft, using a newly developed scripting language called MobTalkerScript.",
+"author":["Chimaine","xs2007"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11366,29 +11490,28 @@
 "desc":"Adds many, many creatures to the game, such as crocodiles, golems, wraiths and more.",
 "author":["DrZhark"],
 "type":["Universal"],
-"dependencies":["Forge Required","Custom Mob Spawner"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Mo' Creatures",
-"link":"http://bit.ly/UvyxRJ",
-"desc":"Adds many, many creatures to the game, such as crocodiles, golems, wraiths and more.",
-"author":["DrZhark"],
-"type":["Universal"],
 "dependencies":["Forge Required","GuiAPI","Custom Mob Spawner"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
 "name":"Mo' Creatures",
-"other":"(Development)",
-"link":"http://bit.ly/UvyxRJ",
+"link":"http://bit.ly/1Cm1iaQ",
 "desc":"Adds many, many creatures to the game, such as crocodiles, golems, wraiths and more.",
 "author":["DrZhark"],
 "type":["Universal"],
 "dependencies":["Forge Required","Custom Mob Spawner"],
-"versions":["1.7.2"]
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Mo' Creatures",
+"link":"http://bit.ly/1u12ii1",
+"desc":"Adds many, many creatures to the game, such as crocodiles, golems, wraiths and more.",
+"author":["DrZhark"],
+"type":["Universal"],
+"dependencies":["Forge Required","Custom Mob Spawner"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11514,6 +11637,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Modular Systems",
+"link":"http://bit.ly/15OxYvc",
+"desc":"Conceptual successor to Modular Furnaces 2. Its more of an expansion to the idea of modular multi-blocks.",
+"author":["pauljoda"],
+"source":"https://github.com/pauljoda/ModularFurnace",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -12909,7 +13043,7 @@
 "author":["Click_Me"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -13529,9 +13663,9 @@
 "link":"http://bit.ly/RQA8Vq",
 "desc":"",
 "author":["Mineshopper"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -14578,6 +14712,7 @@
 "link":"http://bit.ly/13rWqzP",
 "desc":"Features a fully fleshed out tech tree, with great effort gone into providing a balanced gameplay based around rails and their creation.",
 "author":["CovertJaguar"],
+"source":"https://github.com/CovertJaguar/Railcraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
@@ -17168,8 +17303,9 @@
 
 "name":"TerraFirmaCraft",
 "link":"http://bit.ly/15c5F7g",
-"desc":"",
-"author":["bioxx"],
+"desc":"Complete rework of survival. The world generation is very different from vanilla Minecraft, featuring a wide variety of environments, stone layers, and vegetation, and the technology tree is much richer, encompassing pottery, stone working, metallurgy and much more.",
+"author":["Dunkleosteus","bioxx","emris"],
+"source":"https://github.com/Deadrik/TFCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.4.7","1.4.5"]
@@ -17402,6 +17538,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"The Amnesia Mod",
+"link":"http://bit.ly/YcpkWO",
+"desc":"Adds dynamic light, decorative blocks, monsters, sanity, custom lockable doors from Amnesia: The Dark Descent.",
+"author":["FLUFFY2"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17787,7 +17933,7 @@
 "author":["CookieCake"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.4.7"]
+"versions":["1.7.10","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
