@@ -1,3 +1,20 @@
+(September/26/2014)
+	+Added "Aroma1997s Portable Recharger"
+	+Added "Fullscreen Windowed"
+	+Added "SteamCraft2": Currently in Beta
+	+Added "Geocraft: Better Ore Distribution 3"
+	+Added "Red Gear Core"
+	+Added "Pixelmon"
+	+Added "Brewcraft"
+	+Added "PokeRadar"
+	+Added "CraftingManager"
+	+Added "Extra Achievements"
+	+Added "World Generation Manager"
+	+Added "MC+ Mods"
+	+Added "TelePads"
+	+Added "ToolBelt"
+	+Added "JurassiCraft"
+
 (September/25/2014)
 	*Updated "Custom Mob Spawner" description
 	+Added "AE2 Tech Add-On"

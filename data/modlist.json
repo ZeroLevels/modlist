@@ -961,6 +961,16 @@
 
 },{
 
+"name":"Aroma1997s Portable Recharger",
+"link":"http://bit.ly/10mzNIz",
+"desc":"Adds a new kind of energy storages which will charge electric items in inventory.",
+"author":["Aroma1997"],
+"type":["Universal"],
+"dependencies":["Forge Required","Aroma1997Core",IndustrialCraft 2],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"AromaBackup",
 "link":"http://bit.ly/10mzNIz",
 "desc":"Enables automatically scheduled backups of a world.",
@@ -2464,6 +2474,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Brewcraft",
+"link":"http://bit.ly/1oj80WP",
+"desc":"Expansive project that has its sights set on making some major changes to the brewing system.",
+"author":["Enosphorous"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -4102,6 +4122,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"CraftingManager",
+"link":"http://bit.ly/1rpteH7",
+"desc":"Manager for all crafting recipes, disable and add recipes in-game.",
+"author":["CreativeMD"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -6300,6 +6330,16 @@
 
 },{
 
+"name":"Extra Achievements",
+"link":"http://bit.ly/YiWLXy",
+"desc":"Adds more achievements to the game.",
+"author":["dude22072"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"Extra Bees",
 "link":"http://bit.ly/1lnNyb1",
 "desc":"Extra bees for Forestry.",
@@ -7283,6 +7323,16 @@
 
 },{
 
+"name":"Fullscreen Windowed",
+"link":"http://bit.ly/186LbBI",
+"desc":"Description needed.",
+"author":["Shoukaseikyo"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"Furnace Fuels",
 "link":"http://bit.ly/186LbBI",
 "desc":"Adds many new fuels such as cactus, doors, ladders and even blaze powder! Most items that one would think are burnable now are.",
@@ -7511,6 +7561,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Geocraft: Better Ore Distribution 3",
+"link":"http://bit.ly/1fMpzP6",
+"desc":"Changes the way that Minecraft generates it's ores.",
+"author":["LordBlackHole"],
+"source":"https://github.com/RedGear/Geocraft",
+"type":["Universal"],
+"dependencies":["Forge Required","Red Gear Core"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9366,7 +9427,7 @@
 "source":"https://bitbucket.org/cazzar/jukebox-fix",
 "type":["Client"],
 "dependencies":["Forge Required","Cazzar Core Lib"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.6.2"]
 
 },{
 
@@ -9374,6 +9435,7 @@
 "link":"http://bit.ly/1akA5ct",
 "desc":"Adds multiple records, auto play, repeat, and shuffle functions to the vanilla jukebox. Includes ComputerCraft integration.",
 "author":["cazzar"],
+"source":"https://github.com/cazzar/JukeboxReloaded",
 "type":["Universal"],
 "dependencies":["Forge Required","Cazzar Core Lib"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
@@ -9398,6 +9460,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"JurassiCraft",
+"link":"http://bit.ly/1oj7vvW",
+"desc":"Brings dinosaurs to the game.",
+"author":["Kashmoney","iLexiconn","Thelarsinator","BobMowzie","TheGeekyGuy101","RafaMv0","Sulgran"],
+"source":"https://github.com/JurassiCraft/JurassiCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -10491,43 +10564,13 @@
 
 },{
 
-"name":"MC+ Blowpipe Mod",
+"name":"MC+ Mods",
 "link":"http://bit.ly/18ENZXN",
-"desc":"Adds an enchantable blowpipe to shoot seeds. Seeds have a small chance to spawn grass on grass blocks, dead bush on sand.",
-"author":["andykuo1"],
+"desc":"MC+ Mods enhances adventures in the Minecraft without making game too easy and at the same time keeping the original feel of Minecraft.",
+"author":["andykuo1","Tobyreed0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2"]
-
-},{
-
-"name":"MC+ QuartzTools Mod",
-"link":"http://bit.ly/18ENZXN",
-"desc":"Adds Quartz tools that are only efficient in the Nether.",
-"author":["andykuo1"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1"]
-
-},{
-
-"name":"MC+ Satchel Mod",
-"link":"http://bit.ly/18ENZXN",
-"desc":"Adds a satchel to carry around your stuff. They are also dyeable to any color, like leather armor.",
-"author":["andykuo1"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2"]
-
-},{
-
-"name":"Meat+",
-"link":"http://bit.ly/13dvAep",
-"desc":"",
-"author":["Inofficially"],
-"type":["SSP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -13852,6 +13895,17 @@
 
 },{
 
+"name":"Pet Buddy Mod",
+"link":"http://bit.ly/Yjc4Q3",
+"desc":"Adds a entity to the game that can be altered to any model you like.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/petBuddy",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Petroleum Generator",
 "link":"http://bit.ly/UnkbW8",
 "desc":"",
@@ -13953,7 +14007,7 @@
 "author":["epicSplashBattle"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -14172,6 +14226,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1","1.4.5"]
+
+},{
+
+"name":"PokeRadar",
+"link":"http://bit.ly/YiTHuu",
+"desc":"Detects pokemons in your area, specify what pokemon to detect, also detect shiny pokemon and Boss pokemon.",
+"author":["ChunkBin"],
+"type":["Universal"],
+"dependencies":["Forge Required","Pixelmon"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -14956,6 +15020,17 @@
 
 },{
 
+"name":"Red Gear Core",
+"other":"(Dependency)",
+"link":"http://bit.ly/1rpqYj4",
+"desc":"Required Dependency for Team Red Gear mods.",
+"author":["LordBlackHole"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"RedLogic",
 "link":"http://bit.ly/11Ej88y",
 "desc":"A replacement for the wiring, logic, control and lighting parts of Eloraam's Redpower 2.",
@@ -15068,6 +15143,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"RedStone Handguns",
+"link":"http://bit.ly/Zg02bn",
+"desc":"Adds 3D modeled guns to the game.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/redstone",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -16779,6 +16865,18 @@
 
 },{
 
+"name":"SteamCraft2",
+"other":"(Beta)",
+"link":"http://bit.ly/1DyXjZY",
+"desc":"Adds Steampunk themed machinery, tools, armor, and weapons.",
+"author":["BrassGoggledCoders"],
+"source":"https://github.com/BrassGoggledCoders/SteamCraft2",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"SteamShip, SteamBoat and Pirates",
 "link":"http://bit.ly/1qfAipJ",
 "desc":"Adds air balloons, engines and airships.",
@@ -17248,6 +17346,17 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"TelePads",
+"link":"http://bit.ly/Yj2pch",
+"desc":"Add pads which can teleport you to any registered telepad and even over dimensions.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/Telepads",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -18438,6 +18547,17 @@
 
 },{
 
+"name":"ToolBelt",
+"link":"http://bit.ly/Yj5lpr",
+"desc":"Adds a toolbelt to the player which shows of items you have in your inventory.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/toolbelts"
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"Tool Heads",
 "link":"http://bit.ly/1lezoX2",
 "desc":"Part of Duke605's Micro Series. Adds reusable tool heads that can pop off of tools when broken.",
@@ -18600,6 +18720,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Traffic Stuff Mod",
+"link":"http://bit.ly/1rpoDVA",
+"desc":"Adds asphalt blocks to make roads and other stuff.",
+"author":["TheTrollguy_"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -19268,6 +19398,17 @@
 
 },{
 
+"name":"Vanilla CubeItems",
+"link":"http://bit.ly/Yj44i2",
+"desc":"Turns all items into 3D models. Models can be customized.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/cubeItems",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"VanillaPlus",
 "link":"http://bit.ly/10su8kh",
 "desc":"Making the useless useful! Adds blocks and items that would normally fit into the game but just aren't there, and also gives the most useless items a use!",
@@ -19657,7 +19798,17 @@
 "author":["bannedtom"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Web Displays",
+"link":"http://bit.ly/1rpnZqV",
+"desc":"Allows accessing Internet from the game.",
+"author":["montoyo"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -19860,16 +20011,6 @@
 
 },{
 
-"name":"Wood Converter",
-"link":"http://bit.ly/ZWcNRL",
-"desc":"Allows you to convert wood into other types of wood.",
-"author":["Minecrafter1912"],
-"type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.1","1.5","1.4.7"]
-
-},{
-
 "name":"Wool To String Mod",
 "link":"http://bit.ly/YgpQwH",
 "desc":"Adds a simple crafting recipe to craft two wool blocks diagonally to get string.",
@@ -19930,6 +20071,16 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"World Generation Manager",
+"link":"http://bit.ly/YiYtIo",
+"desc":"Allows to regenerate a specific mod WorldGen.",
+"author":["CreativeMD"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 

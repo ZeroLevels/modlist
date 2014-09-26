@@ -1,3 +1,16 @@
+(September/26/2014)
+	+Added "Aroma1997s Portable Recharger"
+	+Added "WebChat"
+	+Added "Web Displays"
+	+Added "Fullscreen Windowed"
+	+Added "Geocraft: Better Ore Distribution 3"
+	+Added "Red Gear Core"
+	+Added "CraftingManager"
+	+Added "Extra Achievements"
+	+Added "World Generation Manager"
+	+Added "ToolBelt"
+	+Added "Pet Buddy Mod"
+
 (September/25/2014)
 	*Updated "Creeper Collateral" description
 	*Updated "Custom Mob Spawner" description and info: Requires Forge

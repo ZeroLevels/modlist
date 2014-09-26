@@ -1,3 +1,6 @@
+(September/26/2014)
+	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
+
 (September/25/2014)
 	*Updated "Custom Mob Spawner" description and info: Requires Forge
 	+Added "Cube World"

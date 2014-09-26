@@ -1,3 +1,9 @@
+(September/26/2014)
+	+Added "Aroma1997s Portable Recharger"
+	+Added "WebChat"
+	+Added "Red Gear Core"
+	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
+
 (September/25/2014)
 	*Updated "Creeper Collateral" description
 	*Updated "Custom Mob Spawner" description and info: Requires Forge

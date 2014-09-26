@@ -1,3 +1,24 @@
+(September/26/2014)
+	+Added "Aroma1997s Portable Recharger"
+	+Added "WebChat"
+	+Added "Web Displays"
+	+Added "Traffic Stuff Mod"
+	+Added "Fullscreen Windowed"
+	+Added "Geocraft: Better Ore Distribution 3"
+	+Added "Red Gear Core"
+	+Added "Brewcraft"
+	+Added "PokeRadar"
+	+Added "CraftingManager"
+	+Added "Extra Achievements"
+	+Added "World Generation Manager"
+	+Added "MC+ Mods"
+	+Added "TelePads"
+	+Added "Vanilla CubeItems"
+	+Added "ToolBelt"
+	+Added "RedStone Handguns"
+	+Added "Pet Buddy Mod"
+	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
+
 (September/25/2014)
 	*Updated "Custom Mob Spawner" description and info: Requires Forge
 	*Updated "Hunger Overhaul" info
