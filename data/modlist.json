@@ -7137,6 +7137,17 @@
 
 },{
 
+"name":"Forge Mod Loader (FML)",
+"link":"http://bit.ly/Forge-Mod-Loader",
+"desc":"CPW's Forge Mod Loader (a.k.a \"FML\") is the replacement for Risugami's Mod Loader as a dependency for Forge.  FML comes pre-packaged with Forge, so there is no need to download this if you're using Forge.",
+"author":["cpw","LexManos"],
+"source":"https://github.com/MinecraftForge/FML",
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
 "name":"ForgeIRC",
 "link":"http://bit.ly/117XoSV",
 "desc":"Easily connect your entire server or just your client to an IRC channel. Not affiliated with Forge.",
