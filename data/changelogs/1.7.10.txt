@@ -9,6 +9,9 @@
 	+Added "TelePads"
 	+Added "JurassiCraft"
 
+(October/03/2014)
+	+Added "Forge Mod Loader (FML)"
+
 (September/25/2014)
 	*Updated "Applied Energistics 2" added source
 	*Updated "ExtraBiomesXL": Now Release Candidate
