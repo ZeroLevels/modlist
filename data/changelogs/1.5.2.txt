@@ -1,7 +1,7 @@
-(September/26/2014)
+(October/09/2014)
 	+Added "Aroma1997s Portable Recharger"
-	+Added "WebChat"
 	+Added "Red Gear Core"
+	+Added "WebChat"
 	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
 
 (October/03/2014)

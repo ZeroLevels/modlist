@@ -1,13 +1,21 @@
-(September/26/2014)
-	+Added "SteamCraft2": Currently in Beta
-	+Added "Geocraft: Better Ore Distribution 3"
-	+Added "Red Gear Core"
+(October/09/2014)
+	*Updated "Underground Biomes Constructs" info: No longer in Beta
+	+Added "Ars Magica 2": Currently in Beta
+	+Added "ChickenChunks"
 	+Added "CraftingManager"
 	+Added "Extra Achievements"
-	+Added "World Generation Manager"
-	+Added "MC+ Mods"
-	+Added "TelePads"
+	+Added "Geocraft: Better Ore Distribution 3"
 	+Added "JurassiCraft"
+	+Added "MC+ Mods"
+	+Added "Plant Mega Pack"
+	+Added "Red Gear Core"
+	+Added "Spider Queen Reborn"
+	+Added "SteamCraft2": Currently in Beta
+	+Added "TelePads"
+	+Added "TerraFirmaCraft": Currently in Beta
+	+Added "TerraFirmaCraft NEI plugin"
+	+Added "Wireless Redstone: Chicken Bones Edition"
+	+Added "World Generation Manager"
 
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"
