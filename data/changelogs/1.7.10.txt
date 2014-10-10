@@ -1,15 +1,19 @@
 (October/10/2014)
+	*Updated "MalisisCore" description
 	*Updated "Underground Biomes Constructs" info: No longer in Beta
 	+Added "Ars Magica 2": Currently in Beta
 	+Added "ChickenChunks"
 	+Added "ComputerCraft"
 	+Added "CraftingManager"
+	+Added "Do It Yourself Decorative Blocks"
 	+Added "Extra Achievements": Currently in Alpha
 	+Added "Extra Peripherals"
 	+Added "Geocraft: Better Ore Distribution 3"
 	+Added "JurassiCraft"
 	+Added "MC+ Mods"
 	+Added "Plant Mega Pack"
+	+Added "Psychedelicraft"
+	+Added "Recurrent Complex"
 	+Added "Red Gear Core"
 	+Added "Spider Queen Reborn"
 	+Added "SteamCraft2": Currently in Beta
