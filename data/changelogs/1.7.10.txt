@@ -5,7 +5,7 @@
 	+Added "ComputerCraft"
 	+Added "CraftingManager"
 	+Added "Extra Achievements": Currently in Alpha
-	+Added "Extra Achievements"
+	+Added "Extra Peripherals"
 	+Added "Geocraft: Better Ore Distribution 3"
 	+Added "JurassiCraft"
 	+Added "MC+ Mods"
