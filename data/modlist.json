@@ -961,6 +961,16 @@
 
 },{
 
+"name":"Aroma1997s Portable Recharger",
+"link":"http://bit.ly/10mzNIz",
+"desc":"Adds different tiers of energy storage which charge electric items in the player's inventory.",
+"author":["Aroma1997"],
+"type":["Universal"],
+"dependencies":["Forge Required","Aroma1997Core","IndustrialCraft 2"],
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"AromaBackup",
 "link":"http://bit.ly/10mzNIz",
 "desc":"Enables automatically scheduled backups of a world.",
@@ -1020,6 +1030,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","AnimationAPI"],
 "versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Ars Magica 2",
+"other":"(Beta)",
+"link":"http://bit.ly/1m1nnFT",
+"desc":"Adds powerful spells with a unique spell creation system and difficult bosses to fight.",
+"author":["Mithion"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -2467,6 +2488,16 @@
 
 },{
 
+"name":"Brewcraft",
+"link":"http://bit.ly/1oj80WP",
+"desc":"Adds a new Brewery system to create new potions.",
+"author":["Enosphorous"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
 "name":"Brownies",
 "link":"http://bit.ly/VdSDpo",
 "desc":"",
@@ -3029,7 +3060,7 @@
 "source":"https://github.com/Chicken-Bones/ChickenChunks",
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -3749,7 +3780,7 @@
 "author":["dan200"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -4102,6 +4133,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"CraftingManager",
+"link":"http://bit.ly/1rpteH7",
+"desc":"Adds an interface to manage all crafting recipes in-game.",
+"author":["CreativeMD"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -5465,6 +5506,18 @@
 
 },{
 
+"name":"Electro-Magic Tools",
+"other":"(Alpha)",
+"link":"http://bit.ly/1uIc4WA",
+"desc":"Integrates Thaumcraft 4 with IndustrialCraft 2 by adding cross-mod tools and items, such as magic solar panels, essentia generators and legendary items.",
+"author":["Tombenpotter"],
+"source":"https://github.com/Tombenpotter/Electro-Magic-Tools",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","Thaumcraft 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"ElectriCraft",
 "link":"http://bit.ly/1pf7fx7",
 "desc":"Adds electrical motors and generators, as well as several tiers of wires.",
@@ -6297,6 +6350,16 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Extra Achievements",
+"link":"http://bit.ly/YiWLXy",
+"desc":"Adds new achievements for crafting new armor and tool tiers, creating a compass and more.",
+"author":["dude22072"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -7294,6 +7357,26 @@
 
 },{
 
+"name":"Fullscreen Windowed",
+"link":"http://bit.ly/1yRv493",
+"desc":"Allows Minecraft to display in a borderless fullscreen mode.",
+"author":["Shoukaseikyo"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Fullscreen Windowed",
+"link":"http://bit.ly/1yRv493",
+"desc":"Allows Minecraft to display in a borderless fullscreen mode.",
+"author":["Shoukaseikyo"],
+"type":["Client"],
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Furnace Fuels",
 "link":"http://bit.ly/186LbBI",
 "desc":"Adds many new fuels such as cactus, doors, ladders and even blaze powder! Most items that one would think are burnable now are.",
@@ -7522,6 +7605,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Geocraft: Better Ore Distribution 3",
+"link":"http://bit.ly/ZxpnNw",
+"desc":"Modifies ore generation to create mines and adds new kinds of stones.",
+"author":["LordBlackHole"],
+"source":"https://github.com/RedGear/Geocraft",
+"type":["Universal"],
+"dependencies":["Forge Required","Red Gear Core"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9377,7 +9471,7 @@
 "source":"https://bitbucket.org/cazzar/jukebox-fix",
 "type":["Client"],
 "dependencies":["Forge Required","Cazzar Core Lib"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.6.2"]
 
 },{
 
@@ -9385,6 +9479,7 @@
 "link":"http://bit.ly/1akA5ct",
 "desc":"Adds multiple records, auto play, repeat, and shuffle functions to the vanilla jukebox. Includes ComputerCraft integration.",
 "author":["cazzar"],
+"source":"https://github.com/cazzar/JukeboxReloaded",
 "type":["Universal"],
 "dependencies":["Forge Required","Cazzar Core Lib"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
@@ -9409,6 +9504,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"JurassiCraft",
+"link":"http://bit.ly/1oj7vvW",
+"desc":"Adds prehistoric creatures, fossils, eggs and more.",
+"author":["Kashmoney","iLexiconn","Thelarsinator","BobMowzie","TheGeekyGuy101","RafaMv0","Sulgran"],
+"source":"https://github.com/JurassiCraft/JurassiCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -10502,43 +10608,13 @@
 
 },{
 
-"name":"MC+ Blowpipe Mod",
+"name":"MC+ Mods",
 "link":"http://bit.ly/18ENZXN",
-"desc":"Adds an enchantable blowpipe to shoot seeds. Seeds have a small chance to spawn grass on grass blocks, dead bush on sand.",
-"author":["andykuo1"],
+"desc":"A collection of mods which adds miscellaneous things such as turtles, sweet potatoes, satchels and trapped ladders.",
+"author":["andykuo1","Tobyreed0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2"]
-
-},{
-
-"name":"MC+ QuartzTools Mod",
-"link":"http://bit.ly/18ENZXN",
-"desc":"Adds Quartz tools that are only efficient in the Nether.",
-"author":["andykuo1"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1"]
-
-},{
-
-"name":"MC+ Satchel Mod",
-"link":"http://bit.ly/18ENZXN",
-"desc":"Adds a satchel to carry around your stuff. They are also dyeable to any color, like leather armor.",
-"author":["andykuo1"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2"]
-
-},{
-
-"name":"Meat+",
-"link":"http://bit.ly/13dvAep",
-"desc":"",
-"author":["Inofficially"],
-"type":["SSP"],
-"dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -13863,6 +13939,17 @@
 
 },{
 
+"name":"Pet Buddy Mod",
+"link":"http://bit.ly/Yjc4Q3",
+"desc":"Adds an invincible companion entity which picks up items.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/petBuddy",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Petroleum Generator",
 "link":"http://bit.ly/UnkbW8",
 "desc":"",
@@ -13964,7 +14051,7 @@
 "author":["epicSplashBattle"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -14017,7 +14104,7 @@
 "author":["10paktimbits"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -14183,6 +14270,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1","1.4.5"]
+
+},{
+
+"name":"PokeRadar",
+"link":"http://bit.ly/YiTHuu",
+"desc":"Detects nearby Pokemon on minimaps, identifying legendaries and shiny Pokemon.",
+"author":["ChunkBin"],
+"type":["Universal"],
+"dependencies":["Forge Required","Pixelmon"],
+"versions":["1.7.2","1.6.4"]
 
 },{
 
@@ -14967,6 +15064,17 @@
 
 },{
 
+"name":"Red Gear Core",
+"other":"(Dependency)",
+"link":"http://bit.ly/1rpqYj4",
+"desc":"Required Dependency for Team Red Gear mods.",
+"author":["LordBlackHole"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"RedLogic",
 "link":"http://bit.ly/11Ej88y",
 "desc":"A replacement for the wiring, logic, control and lighting parts of Eloraam's Redpower 2.",
@@ -15079,6 +15187,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"RedStone Handguns",
+"link":"http://bit.ly/Zg02bn",
+"desc":"Adds 3D modeled guns which shoot objects as missiles.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/redstone",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -16542,7 +16661,7 @@
 "source":"https://github.com/WildBamaBoy/spider-queen-reborn",
 "type":["Universal"],
 "dependencies":["Forge Required","RadixCore"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16787,6 +16906,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"SteamCraft2",
+"other":"(Beta)",
+"link":"http://bit.ly/1DyXjZY",
+"desc":"Adds Steampunk themed machinery, tools, armor, and weapons.",
+"author":["BrassGoggledCoders"],
+"source":"https://github.com/BrassGoggledCoders/SteamCraft2",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -17262,6 +17393,17 @@
 
 },{
 
+"name":"TelePads",
+"link":"http://bit.ly/Yj2pch",
+"desc":"Add pads which teleports players to any registered telepad, including across dimensions.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/Telepads",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"Teleportation Stones",
 "link":"http://bit.ly/UvDkCW",
 "desc":"",
@@ -17330,6 +17472,28 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.4.7","1.4.5"]
+
+},{
+
+"name":"TerraFirmaCraft",
+"other":"(Beta)",
+"link":"http://bit.ly/15c5F7g",
+"desc":"Custom world generation with a variety of environments, stone layers, and vegetation. Adds a technology tree covering pottery, stone working, metallurgy and more.",
+"author":["Dunkleosteus","bioxx","emris"],
+"source":"https://github.com/Deadrik/TFCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"TerraFirmaCraft NEI plugin",
+"link":"http://bit.ly/Zu6aMx",
+"desc":"Adds custom NEI recipe handlers for TerraFirmaCraft.",
+"author":["Dries007"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18253,7 +18417,7 @@
 "author":["tarun1998"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -18449,6 +18613,17 @@
 
 },{
 
+"name":"ToolBelt",
+"link":"http://bit.ly/Yj5lpr",
+"desc":"Renders a toolbelt on players, displaying inventory items.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/toolbelts",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4","1.6.2"]
+
+},{
+
 "name":"Tool Heads",
 "link":"http://bit.ly/1lezoX2",
 "desc":"Part of Duke605's Micro Series. Adds reusable tool heads that can pop off of tools when broken.",
@@ -18611,6 +18786,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Traffic Stuff Mod",
+"link":"http://bit.ly/1rpoDVA",
+"desc":"Adds asphalt blocks to make roads, parking lots and other related items.",
+"author":["TheTrollguy_"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -18977,7 +19162,6 @@
 },{
 
 "name":"Underground Biomes Constructs",
-"other":"(Beta)",
 "link":"http://bit.ly/1eM6ibr",
 "desc":"A revised extension of the original Underground Biomes mod. Adds Igneous, Metamorphic and Sedimentary rocks; fossil pieces; coal storage blocks and more.",
 "author":["Zeno410"],
@@ -19276,6 +19460,17 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required","Buildcraft"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Vanilla CubeItems",
+"link":"http://bit.ly/Yj44i2",
+"desc":"Renders all items as customizable 3D models.",
+"author":["senpaisubaraki"],
+"source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/cubeItems",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
 
 },{
 
@@ -19668,7 +19863,17 @@
 "author":["bannedtom"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.1","1.4.7"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Web Displays",
+"link":"http://bit.ly/1rpnZqV",
+"desc":"Adds peripherals which can access and render web pages in-game.",
+"author":["montoyo"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -19826,7 +20031,7 @@
 "author":["chicken_bones"],
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","ForgeMultipart"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -19868,16 +20073,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
-
-},{
-
-"name":"Wood Converter",
-"link":"http://bit.ly/ZWcNRL",
-"desc":"Allows you to convert wood into other types of wood.",
-"author":["Minecrafter1912"],
-"type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -19941,6 +20136,16 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"World Generation Manager",
+"link":"http://bit.ly/YiYtIo",
+"desc":"Allows force re-generation of chunks using other mods.",
+"author":["CreativeMD"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 

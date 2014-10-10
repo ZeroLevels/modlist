@@ -1,3 +1,16 @@
+(October/10/2014)
+	+Added "Aroma1997s Portable Recharger"
+	+Added "CraftingManager"
+	+Added "Extra Achievements"
+	+Added "Fullscreen Windowed"
+	+Added "Geocraft: Better Ore Distribution 3"
+	+Added "Pet Buddy Mod"
+	+Added "Red Gear Core"
+	+Added "ToolBelt"
+	+Added "WebChat"
+	+Added "Web Displays"
+	+Added "World Generation Manager"
+
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"
 	

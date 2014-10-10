@@ -1,3 +1,21 @@
+(October/10/2014)
+	*Updated "Underground Biomes Constructs" info: No longer in Beta
+	+Added "Aroma1997s Portable Recharger"
+	+Added "Brewcraft"
+	+Added "CraftingManager"
+	+Added "Extra Achievements"
+	+Added "Fullscreen Windowed"
+	+Added "Geocraft: Better Ore Distribution 3"
+	+Added "JurassiCraft"
+	+Added "MC+ Mods"
+	+Added "Pixelmon"
+	+Added "PokeRadar"
+	+Added "Red Gear Core"
+	+Added "SteamCraft2": Currently in Beta
+	+Added "TelePads"
+	+Added "ToolBelt"
+	+Added "World Generation Manager"
+
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"
 	

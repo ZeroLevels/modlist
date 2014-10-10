@@ -1,3 +1,24 @@
+(October/10/2014)
+	+Added "Aroma1997s Portable Recharger"
+	+Added "Brewcraft"
+	+Added "CraftingManager"
+	+Added "Extra Achievements"
+	+Added "Fullscreen Windowed"
+	+Added "Geocraft: Better Ore Distribution 3"
+	+Added "MC+ Mods"
+	+Added "Pet Buddy Mod"
+	+Added "PokeRadar"
+	+Added "Red Gear Core"
+	+Added "RedStone Handguns"
+	+Added "TelePads"
+	+Added "ToolBelt"
+	+Added "Traffic Stuff Mod"
+	+Added "Vanilla CubeItems"
+	+Added "WebChat"
+	+Added "Web Displays"
+	+Added "World Generation Manager"
+	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
+
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"
 	
