@@ -963,7 +963,7 @@
 
 "name":"Aroma1997s Portable Recharger",
 "link":"http://bit.ly/10mzNIz",
-"desc":"Adds a new kind of energy storages which will charge electric items in inventory.",
+"desc":"Adds different tiers of energy storage which charge electric items in the player's inventory.",
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core","IndustrialCraft 2"],
@@ -2490,7 +2490,7 @@
 
 "name":"Brewcraft",
 "link":"http://bit.ly/1oj80WP",
-"desc":"Expansive project that has its sights set on making some major changes to the brewing system.",
+"desc":"Adds a new Brewery system to create new potions.",
 "author":["Enosphorous"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -3780,7 +3780,7 @@
 "author":["dan200"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -4138,7 +4138,7 @@
 
 "name":"CraftingManager",
 "link":"http://bit.ly/1rpteH7",
-"desc":"Manager for all crafting recipes, disable and add recipes in-game.",
+"desc":"Adds an interface to manage all crafting recipes in-game.",
 "author":["CreativeMD"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5506,6 +5506,18 @@
 
 },{
 
+"name":"Electro-Magic Tools",
+"other":"(Alpha)",
+"link":"http://bit.ly/1uIc4WA",
+"desc":"Integrates Thaumcraft 4 with IndustrialCraft 2 by adding cross-mod tools and items, such as magic solar panels, essentia generators and legendary items.",
+"author":["Tombenpotter"],
+"source":"https://github.com/Tombenpotter/Electro-Magic-Tools",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2","Thaumcraft 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"ElectriCraft",
 "link":"http://bit.ly/1pf7fx7",
 "desc":"Adds electrical motors and generators, as well as several tiers of wires.",
@@ -6343,7 +6355,7 @@
 
 "name":"Extra Achievements",
 "link":"http://bit.ly/YiWLXy",
-"desc":"Adds more achievements to the game.",
+"desc":"Adds new achievements for crafting new armor and tool tiers, creating a compass and more.",
 "author":["dude22072"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -7346,12 +7358,22 @@
 },{
 
 "name":"Fullscreen Windowed",
-"link":"http://bit.ly/186LbBI",
-"desc":"Description needed.",
+"link":"http://bit.ly/1yRv493",
+"desc":"Allows Minecraft to display in a borderless fullscreen mode.",
 "author":["Shoukaseikyo"],
 "type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Fullscreen Windowed",
+"link":"http://bit.ly/1yRv493",
+"desc":"Allows Minecraft to display in a borderless fullscreen mode.",
+"author":["Shoukaseikyo"],
+"type":["Client"],
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -7587,8 +7609,8 @@
 },{
 
 "name":"Geocraft: Better Ore Distribution 3",
-"link":"http://bit.ly/1fMpzP6",
-"desc":"Changes the way that Minecraft generates it's ores.",
+"link":"http://bit.ly/ZxpnNw",
+"desc":"Modifies ore generation to create mines and adds new kinds of stones.",
 "author":["LordBlackHole"],
 "source":"https://github.com/RedGear/Geocraft",
 "type":["Universal"],
@@ -9487,7 +9509,7 @@
 
 "name":"JurassiCraft",
 "link":"http://bit.ly/1oj7vvW",
-"desc":"Brings dinosaurs to the game.",
+"desc":"Adds prehistoric creatures, fossils, eggs and more.",
 "author":["Kashmoney","iLexiconn","Thelarsinator","BobMowzie","TheGeekyGuy101","RafaMv0","Sulgran"],
 "source":"https://github.com/JurassiCraft/JurassiCraft",
 "type":["Universal"],
@@ -10588,7 +10610,7 @@
 
 "name":"MC+ Mods",
 "link":"http://bit.ly/18ENZXN",
-"desc":"MC+ Mods enhances adventures in the Minecraft without making game too easy and at the same time keeping the original feel of Minecraft.",
+"desc":"A collection of mods which adds miscellaneous things such as turtles, sweet potatoes, satchels and trapped ladders.",
 "author":["andykuo1","Tobyreed0"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13919,7 +13941,7 @@
 
 "name":"Pet Buddy Mod",
 "link":"http://bit.ly/Yjc4Q3",
-"desc":"Adds a entity to the game that can be altered to any model you like.",
+"desc":"Adds an invincible companion entity which picks up items.",
 "author":["senpaisubaraki"],
 "source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/petBuddy",
 "type":["Universal"],
@@ -14253,7 +14275,7 @@
 
 "name":"PokeRadar",
 "link":"http://bit.ly/YiTHuu",
-"desc":"Detects pokemons in your area, specify what pokemon to detect, also detect shiny pokemon and Boss pokemon.",
+"desc":"Detects nearby Pokemon on minimaps, identifying legendaries and shiny Pokemon.",
 "author":["ChunkBin"],
 "type":["Universal"],
 "dependencies":["Forge Required","Pixelmon"],
@@ -15170,7 +15192,7 @@
 
 "name":"RedStone Handguns",
 "link":"http://bit.ly/Zg02bn",
-"desc":"Adds 3D modeled guns to the game.",
+"desc":"Adds 3D modeled guns which shoot objects as missiles.",
 "author":["senpaisubaraki"],
 "source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/redstone",
 "type":["Universal"],
@@ -17373,7 +17395,7 @@
 
 "name":"TelePads",
 "link":"http://bit.ly/Yj2pch",
-"desc":"Add pads which can teleport you to any registered telepad and even over dimensions.",
+"desc":"Add pads which teleports players to any registered telepad, including across dimensions.",
 "author":["senpaisubaraki"],
 "source":"https://github.com/ArtixAllMighty/Telepads",
 "type":["Universal"],
@@ -18395,7 +18417,7 @@
 "author":["tarun1998"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -18593,7 +18615,7 @@
 
 "name":"ToolBelt",
 "link":"http://bit.ly/Yj5lpr",
-"desc":"Adds a toolbelt to the player which shows of items you have in your inventory.",
+"desc":"Renders a toolbelt on players, displaying inventory items.",
 "author":["senpaisubaraki"],
 "source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/toolbelts",
 "type":["Universal"],
@@ -18769,7 +18791,7 @@
 
 "name":"Traffic Stuff Mod",
 "link":"http://bit.ly/1rpoDVA",
-"desc":"Adds asphalt blocks to make roads and other stuff.",
+"desc":"Adds asphalt blocks to make roads, parking lots and other related items.",
 "author":["TheTrollguy_"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -19443,7 +19465,7 @@
 
 "name":"Vanilla CubeItems",
 "link":"http://bit.ly/Yj44i2",
-"desc":"Turns all items into 3D models. Models can be customized.",
+"desc":"Renders all items as customizable 3D models.",
 "author":["senpaisubaraki"],
 "source":"https://github.com/ArtixAllMighty/mods/tree/master/mod/cubeItems",
 "type":["Universal"],
@@ -19847,7 +19869,7 @@
 
 "name":"Web Displays",
 "link":"http://bit.ly/1rpnZqV",
-"desc":"Allows accessing Internet from the game.",
+"desc":"Adds peripherals which can access and render web pages in-game.",
 "author":["montoyo"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -20119,7 +20141,7 @@
 
 "name":"World Generation Manager",
 "link":"http://bit.ly/YiYtIo",
-"desc":"Allows to regenerate a specific mod WorldGen.",
+"desc":"Allows force re-generation of chunks using other mods.",
 "author":["CreativeMD"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
