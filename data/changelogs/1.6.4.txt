@@ -18,6 +18,7 @@
 	+Added "Web Displays"
 	+Added "World Generation Manager"
 	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
+	-Removed "Plant Mega Pack": Mod abandoned
 
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"

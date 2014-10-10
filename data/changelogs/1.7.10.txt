@@ -23,6 +23,7 @@
 	+Added "Thirst Mod"
 	+Added "Wireless Redstone: Chicken Bones Edition"
 	+Added "World Generation Manager"
+	-Removed "Plant Mega Pack": Mod abandoned
 
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"
