@@ -10,6 +10,7 @@
 	+Added "MC+ Mods"
 	+Added "Pixelmon"
 	+Added "PokeRadar"
+	+Added "Psychedelicraft"
 	+Added "Red Gear Core"
 	+Added "SteamCraft2": Currently in Beta
 	+Added "TelePads"

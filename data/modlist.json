@@ -5118,6 +5118,17 @@
 
 },{
 
+"name":"Do It Yourself Decorative Blocks",
+"link":"http://bit.ly/17YP3A0",
+"desc":"Allows addition of custom decorative blocks using only textures and JSON files.",
+"author":["Ordinastie"],
+"source":"https://github.com/Ordinastie/DIYDecorativeBlocks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Doge Mod",
 "link":"http://bit.ly/1nDwIlL",
 "desc":"Adds doge related tools, weapons, and armor. Doge is an internet meme.",
@@ -10418,7 +10429,7 @@
 
 "name":"MalisisCore",
 "link":"http://bit.ly/YcnhSv",
-"desc":"Required dependency for Malisis' Doors.",
+"desc":"Required dependency for Ordinastie's mods.",
 "author":["Ordinastie"],
 "source":"https://github.com/Ordinastie/MalisisCore",
 "type":["Universal"],
@@ -14680,6 +14691,17 @@
 
 },{
 
+"name":"Psychedelicraft",
+"other":"(Adults Only)",
+"link":"http://bit.ly/13b0vsE",
+"desc":"Adds drugs which can be farmed, bought, and consumed. Includes visual effects that may induce dizziness.",
+"author":["Ivorius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Pumpkin-less Snow Golem",
 "link":"http://bit.ly/16UOXtd",
 "desc":"Removes the pumpkin from a snow golem's head.",
@@ -15061,6 +15083,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"Recurrent Complex",
+"link":"http://bit.ly/13b0vsE",
+"desc":"Generates structures and randomizes chest contents within them.",
+"author":["Ivorius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
