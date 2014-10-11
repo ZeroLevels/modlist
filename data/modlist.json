@@ -14109,16 +14109,6 @@
 
 },{
 
-"name":"Plant Mega Pack",
-"link":"http://bit.ly/1nWbFLd",
-"desc":"Adds over 370 new plants of all types into your worlds. Includes a huge variety of both common and rare plants from around the real world.",
-"author":["10paktimbits"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
-
-},{
-
 "name":"Plants Vs Zombies Mod",
 "link":"http://bit.ly/1nybCDO",
 "desc":"Adds plant mobs and zombies from the game of the same name.",

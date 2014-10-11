@@ -1,3 +1,6 @@
+(October/11/2014)
+	-Removed "Plant Mega Pack": Thread removed by author request
+
 (October/10/2014)
 	*Updated "Underground Biomes Constructs" info: No longer in Beta
 	+Added "Aroma1997s Portable Recharger"
