@@ -718,7 +718,7 @@
 "source":"https://github.com/Hunternif/AntiqueAtlas",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -12774,7 +12774,7 @@
 "author":["XCompWiz"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -14106,6 +14106,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Plant Mega Pack",
+"link":"http://bit.ly/1u9jWMH",
+"desc":"Adds over 370 new plants, with a variety of real plants from around the world.",
+"author":["10paktimbits"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -15487,7 +15497,7 @@
 "author":["Rodolphito"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -18045,7 +18055,7 @@
 "link":"http://bit.ly/1lJMQp1",
 "desc":"Adds customizable modular sandwiches that restore different amounts of hunger based on the items within them. Also adds a oven that allows you to cook up to 16 items of 4 different food types at a time using less coal and time then a vanilla one.",
 "author":["MrSpring"],
-"source":"https://github.com/MrSpring/ModJam4",
+"source":"https://github.com/MrSpring/TheKitchenMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -18549,7 +18559,6 @@
 },{
 
 "name":"Tinkers' Construct",
-"other":"(Beta)",
 "link":"http://bit.ly/1wFUL7y",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
 "author":["boni","progwml6","Arkan","fuj1n","pillbox"],

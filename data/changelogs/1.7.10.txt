@@ -1,3 +1,11 @@
+(October/17/2014)
+	*Updated "Tinkers' Construct" info: No longer in Beta
+	*Updated "The Kitchen Mod" source link
+	+Added "Antique Atlas"
+	+Added "Plant Mega Pack"
+	+Added "Mystcraft"
+	+Added "Rival Rebels"
+
 (October/11/2014)
 	-Removed "Plant Mega Pack": Thread removed by author request
 
