@@ -45,7 +45,7 @@
 
 "name":"AbyssalCraft",
 "link":"http://bit.ly/1uASuJJ",
-"desc":"Adds a new dimension called The Darklands, infesteed with undead creatures at night, and yet deserted at night.",
+"desc":"Adds a new dimension called The Darklands: deserted at day, yet infested with undead creatures at night.",
 "author":["Shinoow"],
 "source":"https://github.com/Shinoow/AbyssalCraft",
 "type":["Universal"],
@@ -12538,7 +12538,7 @@
 "author":["YaLTeR97"],
 "source":"https://bitbucket.org/YaLTeR/mouse-tweaks/overview",
 "type":["Client"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
@@ -17805,6 +17805,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"The Blocklings Mod",
+"link":"http://bit.ly/1woDCQv",
+"desc":"Adds small, tameable cube-shaped mobs which can hold items, use tools, and level up to larger sizes.",
+"author":["WillR273989372"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
