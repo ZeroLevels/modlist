@@ -11,6 +11,12 @@
 	*Updated "Slime Dungeons" info: Updated source
 	*Updated "The Peacefulpack" info: Updated source
 	*Updated "Minechanics" description and info: Updated source
+	*Updated "More Swords Mod" info: Updated source
+	*Updated "Modular Force Field System" info: Repository no longer available
+	*Updated "The Camping Mod" info: Repository no longer available
+	*Updated "TwitchTV IRC Mod" description
+	*Updated "TwitchTV IRC Mod Reborn" description and info: Repository no longer available
+	*Updated "Xeno's Reliquary" info: Repository no longer available
 
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"

@@ -1,3 +1,7 @@
+(October/28/2014)
+	*Updated "More Swords Mod" info: Updated source
+	*Updated "Xeno's Reliquary" info: Repository no longer available
+
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"
 	

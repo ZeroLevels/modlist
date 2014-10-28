@@ -10,6 +10,21 @@
 	*Updated "Simple Recipes" info: Updated source
 	*Updated "Slime Dungeons" info: Updated source
 	*Updated "The Peacefulpack" info: Updated source
+	*Updated "More Swords Mod" info: Updated source
+	*Updated "Parachute Mod" info: Repository no longer available
+	*Updated "Redstone Arsenal" info: Repository no longer available
+	*Updated "Extra Peripherals" info: Repository no longer available
+	*Updated "Elementals" info: Updated source
+	*Updated "Custom-Branding" info: Updated source
+	*Updated "Custom-Codex" info: Updated source
+	*Updated "Custom-Server" info: Updated source
+	*Updated "Reptile Mod" info: Repository no longer available
+	*Updated "The Camping Mod" info: Repository no longer available
+	*Updated "CrackedZombies" info: Repository no longer available
+	*Updated "The Camping Mod 2.0" info: Updated source
+	-Removed "CleanStartScreen": Download no longer available
+	-Removed "Reciper": Download no longer available
+	-Removed "Enhanced Books": Discontinued, Download no longer available, Continued by Zuxelus on 1.7.10
 
 (October/24/2014)
 	*Updated "AbyssalCraft" description

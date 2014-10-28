@@ -10,6 +10,15 @@
 	*Updated "Simple Recipes" info: Updated source
 	*Updated "Slime Dungeons" info: Updated source
 	*Updated "The Peacefulpack" info: Updated source
+	*Updated "More Swords Mod" info: Updated source
+	*Updated "Parachute Mod" info: Repository no longer available
+	*Updated "Redstone Arsenal" info: Repository no longer available
+	*Updated "Modular Force Field System" info: Repository no longer available
+	*Updated "Extra Peripherals" info: Repository no longer available
+	*Updated "Reptile Mod" info: Repository no longer available
+	*Updated "Stuff Worth Throwing" info: Updated source
+	*Updated "Thermal Expansion 4" info: Repository no longer available
+	*Updated "CrackedZombies" info: Repository no longer available
 
 (October/24/2014)
 	*Updated "AbyssalCraft" description

@@ -1,3 +1,6 @@
+(October/28/2014)
+	*Updated "More Swords Mod" info: Updated source
+
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"
 	
