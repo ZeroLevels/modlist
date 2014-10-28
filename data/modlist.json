@@ -10886,8 +10886,8 @@
 
 "name":"Minechanics",
 "other":"(Alpha)",
-"link":"Modifies mechanics like water flow, water rendering, flooded caves and more.",
-"desc":"Description needed.",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443056-1-4-6-smp-forge-minechanics-0-18alpha-realistic",
+"desc":"Modifies mechanics like water flow, water rendering, flooded caves and more.",
 "author":["th3falc0n"],
 "type":["Universal"],
 "dependencies":["Forge Required"],

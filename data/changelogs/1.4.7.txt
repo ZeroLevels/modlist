@@ -10,6 +10,7 @@
 	*Updated "Simple Recipes" info: Updated source
 	*Updated "Slime Dungeons" info: Updated source
 	*Updated "The Peacefulpack" info: Updated source
+	*Updated "Minechanics" description and info: Updated source
 
 (October/03/2014)
 	+Added "Forge Mod Loader (FML)"
