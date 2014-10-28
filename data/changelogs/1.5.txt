@@ -1,3 +1,7 @@
+(October/28/2014)
+	*Updated "TwitchTV IRC Mod" description
+	-Removed "Additional Crafting": Thread no longer available
+
 (October/10/2014)
 	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
 

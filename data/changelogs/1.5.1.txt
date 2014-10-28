@@ -10,6 +10,13 @@
 	*Updated "Simple Recipes" info: Updated source
 	*Updated "Slime Dungeons" info: Updated source
 	*Updated "The Peacefulpack" info: Updated source
+	*Updated "More Swords Mod" info: Updated source
+	*Updated "Modular Force Field System" info: Repository no longer available
+	*Updated "Reptile Mod" info: Repository no longer available
+	*Updated "The Camping Mod" info: Updated source
+	*Updated "TwitchTV IRC Mod" description
+	*Updated "TwitchTV IRC Mod Reborn" description and info: Repository no longer available
+	-Removed "Additional Crafting": Thread no longer available
 
 (October/10/2014)
 	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded

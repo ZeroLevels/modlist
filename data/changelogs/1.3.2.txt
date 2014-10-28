@@ -1,3 +1,6 @@
+(October/28/2014)
+	*Updated "More Swords Mod" info: Updated source
+
 (September/25/2014)
 	*Updated "Custom Mob Spawner" description and info: Requires Forge
 	*Updated "Mining Mod" name: Now "The Mining Mod"

@@ -1,3 +1,6 @@
+(October/28/2014)
+	*Updated "More Swords Mod" info: Updated source
+
 (September/26/2014)
 	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
 

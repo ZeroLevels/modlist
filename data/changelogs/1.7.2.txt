@@ -10,6 +10,16 @@
 	*Updated "Simple Recipes" info: Updated source
 	*Updated "Slime Dungeons" info: Updated source
 	*Updated "The Peacefulpack" info: Updated source
+	*Updated "More Swords Mod" info: Updated source
+	*Updated "Parachute Mod" info: Repository no longer available
+	*Updated "Mo' Furnaces" info: Repository no longer available
+	*Updated "Modular Force Field System" info: Repository no longer available
+	*Updated "Custom-Branding" info: Updated source
+	*Updated "Reptile Mod" info: Repository no longer available
+	*Updated "Stuff Worth Throwing" info: Updated source
+	*Updated "CrackedZombies" info: Repository no longer available
+	+Added "Custom-Collection": Collection of Darkhax's Custom-Branding, Custom-Codex and Custom-Server
+	-Removed "Reciper": Download no longer available
 
 (October/24/2014)
 	*Updated "AbyssalCraft" description
