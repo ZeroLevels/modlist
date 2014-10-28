@@ -1,3 +1,16 @@
+(October/28/2014)
+	*Updated "Goblins and Giants" info: Updated source
+	*Updated "Harder Peaceful" info: Updated source
+	*Updated "Improved Mob Spawn" info: Updated source
+	*Updated "Jelly Cubes" info: Updated source
+	*Updated "Koi" info: Updated source
+	*Updated "Magical Experience" info: Updated source
+	*Updated "Nether Eye" info: Updated source
+	*Updated "Pumpkin-less Snow Golem" info: Updated source
+	*Updated "Simple Recipes" info: Updated source
+	*Updated "Slime Dungeons" info: Updated source
+	*Updated "The Peacefulpack" info: Updated source
+
 (October/10/2014)
 	+Added "Aroma1997s Portable Recharger"
 	+Added "Red Gear Core"
