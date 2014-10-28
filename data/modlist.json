@@ -7769,7 +7769,7 @@
 "link":"http://j.mp/1ggQTVj",
 "desc":"Goblins And Giants is a WIP mod that adds a lot of new mobs and a dimension.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/goblinsgiants",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Goblins%20and%20Giants",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -8109,7 +8109,7 @@
 "link":"http://j.mp/1ahCYGm",
 "desc":"Harder Peaceful is a mod that will make peaceful a bit more like the other game modes. It causes like normal and you will no longer regenerate health when you are hurt and don't have enough food. Goes well with The Peacefulpack mod.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/harderpeaceful",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Harder%20Peaceful",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -8866,7 +8866,7 @@
 "link":"http://j.mp/HsPnRi",
 "desc":"This mod will change the mob spawn of several mobs. One example is that spider jockeys are 5 times less rare. There are also changes to the spawns of slime, cave spiders, blazes, silver fish and magma cubes.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/ImprovedMobSpawn",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Improved%20Mob%20Spawn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -9351,7 +9351,7 @@
 "link":"http://j.mp/1dXMNk3",
 "desc":"The jelly cubes mod adds a new type of food to the game. It's crafted with two slime balls and can be used in flatlands for food.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/jellycubes",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Jelly%20Cubes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -9656,7 +9656,7 @@
 "link":"http://j.mp/1f850t2",
 "desc":"Simply adds a fish mob to the game. It will spawn and swim around your world in water.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/koi",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Koi",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -10314,7 +10314,7 @@
 "link":"http://j.mp/16SqrJ9",
 "desc":"Magical Experience adds new ways to get experience. You can also craft all the spawner eggs with this mod and there are some very fun items that can destroy your world if you are not careful.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/magicalexp",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Magical%20Experience",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -13022,7 +13022,7 @@
 "link":"http://j.mp/1iAbbpH",
 "desc":"This mod adds the Nether Eye to the game. Use it to find your way to a nether fortress. Crafted with ender pearl and magma cream.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/nethereye",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Nether%20Eye",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -14706,7 +14706,7 @@
 "link":"http://j.mp/16UOXtd",
 "desc":"Removes the pumpkin from a snow golem's head.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/snowgolem",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Snow%20Golem",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -16009,7 +16009,7 @@
 "link":"http://j.mp/1d6dfb9",
 "desc":"Adds new crafting recipes for vanilla items.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/SimpleRecipes",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Simple%20Recipes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -16251,7 +16251,7 @@
 "link":"http://j.mp/16rWeUh",
 "desc":"Adds slime dungeons to your game. When you come across one, will have a lot of slimeballs.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/slimedungeons",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Slime%20Dungeon",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
@@ -18219,7 +18219,7 @@
 "link":"http://j.mp/19WWYBo",
 "desc":"This mod adds new ways to get all the mob drops. You can get them all without having to fight any monsters. This can be useful if you don't like monsters or if you just want more of the drops. Goes well with Harder Peaceful mod.",
 "author":["wuppy21"],
-"source":"https://github.com/wuppy29/WuppyMods/tree/master/peacefulpackmod",
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/PeacefulPack",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
