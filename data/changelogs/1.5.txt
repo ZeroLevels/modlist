@@ -1,3 +1,6 @@
+(October/30/2014)
+	*Updated "Space Marine Mod" link and info: Updated source
+
 (October/28/2014)
 	*Updated "TwitchTV IRC Mod" description
 	-Removed "Additional Crafting": Thread no longer available

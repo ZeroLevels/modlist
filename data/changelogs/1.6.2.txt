@@ -1,3 +1,9 @@
+(October/30/2014)
+	*Updated "No Fire Spread" info: Updated source
+	*Updated "No Ice Melt" info: Updated source
+	*Updated "Player Beacons" info: Updated source
+	*Updated "Space Marine Mod" link and info: Updated source
+
 (October/28/2014)
 	*Updated "Goblins and Giants" info: Updated source
 	*Updated "Harder Peaceful" info: Updated source

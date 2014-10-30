@@ -632,7 +632,6 @@
 "link":"http://j.mp/18jMpsq",
 "desc":"Adds Angry (hostile) variants of the friendly Overworld mobs at night that will attack you and other animals of the respective type.",
 "author":["TheKomputerKing"],
-"source":"https://bitbucket.org/TheKomputerKing/angrymobs",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
@@ -1461,7 +1460,7 @@
 "link":"http://j.mp/13GwCRK",
 "desc":"Adds an invisible, unbreakable barrier block into Minecraft. Can be used for specific-entry areas in servers.",
 "author":["TXX59"],
-"source":"https://www.dropbox.com/s/nekez5jz5a079hq/Barrier%20Source.zip",
+"source":"https://github.com/TXX59/Barrier",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.2","1.6.1","1.5.2"]
@@ -13132,7 +13131,7 @@
 "link":"http://j.mp/V1qVZv",
 "desc":"Prevents the spread of fire from all fire sources.",
 "author":["soccerguy3"],
-"source":"http://www.minecraftforum.net/topic/1571830-",
+"source":"https://onedrive.live.com/?cid=77b5e138e468ede3&id=77B5E138E468EDE3%21155",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Base Edit"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
@@ -13153,7 +13152,7 @@
 "link":"http://j.mp/V1qVZv",
 "desc":"Prevents ice from melting.",
 "author":["soccerguy3"],
-"source":"http://www.minecraftforum.net/topic/1571830-",
+"source":"https://onedrive.live.com/?cid=77b5e138e468ede3&id=77B5E138E468EDE3%21155",
 "type":["SSP"],
 "dependencies":["Forge Compatible","Base Edit"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
@@ -14147,7 +14146,7 @@
 "link":"http://j.mp/1iH6CwO",
 "desc":"Adds a new type of Beacon which applies effects to a specific player at any range.",
 "author":["Kihira"],
-"source":"https://bitbucket.org/Kihira/player-beacons",
+"source":"https://github.com/kihira/PlayerBeacons",
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.4","1.6.2"]
@@ -14489,7 +14488,7 @@
 "link":"http://j.mp/1gV7A6W",
 "desc":"A footstep sound enhancement mod that Presence Footsteps adds new sound effects; such as jumping, landing, walking on the edge of a block and foot shuffling when coming to a stop. Includes new sound effects and variations.",
 "author":["Hurricaaane"],
-"source":"http://ha3.eu/public/mc-mods/presencefootsteps.php#license",
+"source":"https://github.com/Hurricaaane/Presence-Footsteps",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.10","1.7.2"]
@@ -16563,10 +16562,10 @@
 },{
 
 "name":"Space Marine Mod",
-"link":"http://j.mp/13Gvpdd",
+"link":"http://senitiel.hol.es/space/",
 "desc":"Adds various science fiction weapons (blasters, lasers, plasma gun, power fist) and gadgets (mining laser, jet boots) to the game.",
 "author":["Senitiel"],
-"source":"http://www.senitiel.net/index.php?name=Commented_source_code",
+"source":"http://senitiel.hol.es/space/",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
@@ -19721,7 +19720,7 @@
 "link":"http://j.mp/UY2yjs",
 "desc":"An extension for Waila and NEI, providing additional information and support for mods such as Pixelmon.",
 "author":["Darkhax"],
-"source":"https://github.com/darkhax/WAWLA",
+"source":"https://github.com/Darkhax-Minecraft/WAWLA",
 "type":["Client"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items","Waila"],
 "versions":["1.7.10"]
@@ -20482,7 +20481,6 @@
 "link":"http://j.mp/1nWfiRk",
 "desc":"Allows enabling and disabling of rain and snow.",
 "author":["Robosphinx","Calisbeast"],
-"source":"http://minecraft.curseforge.com/mc-mods/zeus-downfall-control/",
 "type":["Server"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]

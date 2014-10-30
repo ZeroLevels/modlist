@@ -1,3 +1,9 @@
+(October/30/2014)
+	*Updated "No Fire Spread" info: Updated source
+	*Updated "No Ice Melt" info: Updated source
+	*Updated "Presence Footsteps" info: Updated source
+	*Updated "WAWLA" info: Updated source
+
 (October/28/2014)
 	*Updated "Goblins and Giants" info: Updated source
 	*Updated "Harder Peaceful" info: Updated source
