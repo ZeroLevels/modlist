@@ -1,3 +1,10 @@
+(October/30/2014)
+	*Updated "AngryMobs" info: Repository no longer available
+	*Updated "No Fire Spread" info: Updated source
+	*Updated "No Ice Melt" info: Updated source
+	*Updated "Player Beacons" info: Updated source
+	*Updated "Zeus" info: Repository no longer available
+
 (October/28/2014)
 	*Updated "Goblins and Giants" info: Updated source
 	*Updated "Harder Peaceful" info: Updated source
