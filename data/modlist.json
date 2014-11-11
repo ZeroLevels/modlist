@@ -3245,9 +3245,22 @@
 "link":"http://j.mp/13dqmPA",
 "desc":"So you're probably wondering to yourself A mod involving clay? No Way! I need all the grey goop I can get for my brick castle! Well put those tried, burnt hands to rest for a second and think about this: What if you could create your own miniature army out of clay and stage the most epic battles imaginable in a space small enough to be your backyard? Now before you accuse us of being a madman, take a look at this mod. Read ahead through the thread, and you'll see just what kind of violent mayhem you can cause with just a few simple materials plucked right from the ground.",
 "author":["SanAndreasP"],
+"source":"https://github.com/SanAndreasP/ClaySoldiersMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"Clay Soldiers Mod",
+"other":"(Beta)",
+"link":"http://j.mp/13dqmPA",
+"desc":"Adds miniature clay armies which can ride various mounts and fight against other clay armies.",
+"author":["SanAndreasP"],
+"source":"https://github.com/SanAndreasP/ClaySoldiersMod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 

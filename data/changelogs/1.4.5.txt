@@ -1,3 +1,6 @@
+(November/11/2014)
+	*Updated "Clay Soldiers Mod" info: Added source
+
 (October/28/2014)
 	*Updated "More Swords Mod" info: Updated source
 	*Updated "Xeno's Reliquary" info: Repository no longer available
