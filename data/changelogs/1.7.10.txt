@@ -1,3 +1,6 @@
+(November/11/2014)
+	+Added "Clay Soldiers Mod": Currently in beta
+
 (October/30/2014)
 	*Updated "No Fire Spread" info: Updated source
 	*Updated "No Ice Melt" info: Updated source
