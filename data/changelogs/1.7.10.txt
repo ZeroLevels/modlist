@@ -1,3 +1,8 @@
+(November/14/2014)
+	*Updated "Forbidden Magic" dependencies: Requires "Thaumcraft 4"
+	+Added "InstantBlocks"
+	+Added "OreSpawn": Currently in Development
+
 (November/11/2014)
 	+Added "Clay Soldiers Mod": Currently in beta
 
