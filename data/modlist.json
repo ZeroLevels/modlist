@@ -13690,6 +13690,17 @@
 
 },{
 
+"name":"OreSpawn",
+"other":"(Development Version)",
+"link":"http://www.orespawn.com/development-version.html",
+"desc":"Adds 30 new mobs, 3 new dimensions, new tools, armors and weapons. Also adds Flying dragons and a Kraken.",
+"author":["TheyCallMeDanger"],
+"type":["Universal"],
+"dependencies":["Forge Required","Optifine"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"OresPlus",
 "other":"(Beta)",
 "link":"http://j.mp/1jkcE8G",
