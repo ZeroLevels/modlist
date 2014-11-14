@@ -1,3 +1,6 @@
+(November/14/2014)
+	*Updated "Forbidden Magic" dependencies: Requires "Thaumcraft 4"
+
 (October/30/2014)
 	*Updated "AngryMobs" info: Repository no longer available
 	*Updated "No Fire Spread" info: Updated source

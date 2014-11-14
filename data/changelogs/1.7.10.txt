@@ -1,4 +1,5 @@
 (November/14/2014)
+	*Updated "Forbidden Magic" dependencies: Requires "Thaumcraft 4"
 	+Added "InstantBlocks"
 
 (November/11/2014)
