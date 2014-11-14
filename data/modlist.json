@@ -9058,9 +9058,10 @@
 "link":"http://j.mp/10wfidT",
 "desc":"Adds several craftable blocks to the game that create instant structures when placed and activated.",
 "author":["Slymask3"],
+"source":"https://github.com/slymask3/InstantBlocks",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1"]
+"versions":["1.7.10","1.6.2","1.5.2","1.5.1"]
 
 },{
 

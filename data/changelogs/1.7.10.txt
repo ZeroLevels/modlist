@@ -1,3 +1,6 @@
+(November/14/2014)
+	+Added "InstantBlocks"
+
 (November/11/2014)
 	+Added "Clay Soldiers Mod": Currently in beta
 
