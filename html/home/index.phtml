@@ -13,10 +13,10 @@
     } ?>
     <?php
     //TODO: Control from panel
-    $display_versions = array('1.7.10','1.7.2','1.6.4');
+    $display_versions = array('1.8','1.7.10','1.7.2','1.6.4');
     ?>
     <?php foreach($display_versions as $latest) { ?>
-    <div class="col-sm-6 col-lg-4">
+    <div class="col-sm-6">
         <h2><?php echo $latest; ?></h2>
         <p><i>Last Updated <?php echo changelogDate($latest) ?></i></p>
         <p><?php echo changelogParse($latest) ?></p>

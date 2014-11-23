@@ -1,3 +1,8 @@
+(November/23/2014)
+	*Updated "VoxelMap" link and info: Requires "LiteLoader"
+	+Added "Ellian's MaterialDetector"
+	+Added "ICBM": Currently in development
+
 (November/14/2014)
 	*Updated "Forbidden Magic" dependencies: Requires "Thaumcraft 4"
 	+Added "InstantBlocks"
