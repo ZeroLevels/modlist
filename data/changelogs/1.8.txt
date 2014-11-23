@@ -1,0 +1,28 @@
+(November/23/2014)
+	+Added "Ambient Birds"
+	+Added "Autofish"
+	+Added "Batty's Coordinates Mod"
+	+Added "Batty's Coordinates PLUS! Mod"
+	+Added "Biomes O' Plenty": Currently likely unstable and missing features.
+	+Added "Bison"
+	+Added "Bow Infinity Fix"
+	+Added "ChatLog"
+	+Added "ChunkBorders"
+	+Added "Convenient Recipes"
+	+Added "Dr. Cyano's Wonderful Wands & Wizarding Armor"
+	+Added "Ellian's MaterialDetector"
+	+Added "Floatable Rails"
+	+Added "GLSL Shaders Mod": Currently in alpha, may crash the game and corrupt save files.
+	+Added "InputFix"
+	+Added "LiteLoader": Currently in development
+	+Added "Mineralogy"
+	+Added "Morpheus": Currently in alpha
+	+Added "No Fire Spread"
+	+Added "No Ice Melt"
+	+Added "Optifine"
+	+Added "The Simple Xray Mod"
+	+Added "TooManyItems"
+	+Added "Uyjulian's X-ray Mod"
+	+Added "VoxelMap"
+	+Added "XRay"
+	+Added "ZapFill"

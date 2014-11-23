@@ -597,6 +597,16 @@
 
 },{
 
+"name":"Ambient Birds",
+"link":"https://www.reddit.com/r/Minecraft/comments/2fabek/18_mod_ambient_birds/",
+"desc":"Adds small birds of different colors.",
+"author":["the_tubes"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
+
+},{
+
 "name":"Amethyst Tools",
 "link":"http://j.mp/18EIrwG",
 "desc":"Adds Amethyst tools and armor.",
@@ -1235,7 +1245,7 @@
 "author":["troyboy50"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -1518,6 +1528,28 @@
 
 },{
 
+"name":"Batty's Coordinates Mod",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/58877-batty-coords",
+"desc":"Displays player coordinates and the direction the player is facing in a corner of the screen.",
+"author":["BatHeart"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.8"]
+
+},{
+
+"name":"Batty's Coordinates PLUS! Mod",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/59036-batty-ui",
+"desc":"Displays player coordinates, the direction the player is facing, the current biome and chunk information in a corner of the screen.",
+"author":["BatHeart"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.8"]
+
+},{
+
 "name":"Baubles",
 "modid":"Baubles",
 "other":"(API)",
@@ -1794,6 +1826,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"BetterLeather",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/223890-betterleather",
+"desc":"Adds leather weapons and armor, and new mobs.",
+"author":["tattyseal","Mark_R"],
+"source":"https://github.com/Workshop-Development/BetterLeather",
+"type":["Universal"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
 
 },{
 
@@ -2112,6 +2156,18 @@
 
 },{
 
+"name":"Biomes O' Plenty",
+"other":"(Unstable)",
+"link":"http://j.mp/106hnC2",
+"desc":"A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.",
+"author":["TDWP_FTW","ted80","Amnet","Adubbz"],
+"source":"https://github.com/BiomesOPlenty/BiomesOPlenty",
+"type":["Universal"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
+
+},{
+
 "name":"Biome Wand",
 "link":"http://j.mp/GIkO9W",
 "desc":"Adds a wand that lets you change a small area of land into a different biome. You must first sample a biome before it's usable.",
@@ -2159,6 +2215,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Bison",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2274056-bison",
+"desc":"Adds passive bisons which wander in savannahs aimlessly.",
+"author":["Paraphanalien"],
+"type":["Universal"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
 
 },{
 
@@ -2431,6 +2497,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Bow Infinity Fix",
+"link":"http://minecraft.curseforge.com/mc-mods/224713-bow-infinity-fix",
+"desc":"Allows use of Infinity bows without an arrow in the player inventory.",
+"author":["Parker8283"],
+"source":"https://github.com/Parker8283/BowInfinityFix",
+"type":["Universal"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
 
 },{
 
@@ -2946,6 +3023,16 @@
 
 },{
 
+"name":"ChatLog",
+"link":"http://j.mp/MFLZ7L",
+"desc":"Saves all chat to a dedicated 'chatlogs' folder.",
+"author":["bilde2910"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.8"]
+
+},{
+
 "name":"ChatlogToFile",
 "other":"(Mine Little Pony)",
 "link":"http://j.mp/16756dY",
@@ -3194,7 +3281,7 @@
 "author":["troyboy50"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -3882,6 +3969,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Convenient Recipes",
+"link":"http://minecraft.curseforge.com/mc-mods/223638-convenient-recipes",
+"desc":"Adds recipes for normally uncraftable items and alternative recipes for blocks such as glass and fences.",
+"author":["Jagm_11"],
+"type":["Universal"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
 
 },{
 
@@ -5225,6 +5322,17 @@
 
 },{
 
+"name":"Dr. Cyano's Wonderful Wands & Wizarding Armor",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2233889-dr-cyanos-wonderful-wands-and-wizarding-robes",
+"desc":"Adds dyeable wizard robes, magic hats, and magic wands.",
+"author":["DrCyano"],
+"source":"https://github.com/cyanobacterium/DrCyanosWonderfulWands",
+"type":["Universal"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
+
+},{
+
 "name":"Drinks Mod",
 "link":"http://j.mp/12TZ3gf",
 "desc":"A work in progress mod that adds drinks to Minecraft. You can craft a glass and start making all kinds of beverages.",
@@ -5629,7 +5737,17 @@
 "author":["Ellian"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"Ellian's MaterialDetector",
+"link":"http://j.mp/RBP6OY",
+"desc":"A material detector. It shows the surrounding material at your level/height map.",
+"author":["Ellian"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
 
 },{
 
@@ -6716,6 +6834,16 @@
 
 },{
 
+"name":"Fast Building",
+"link":"http://minecraft.curseforge.com/mc-mods/224081-fast-building",
+"desc":"Allows placement of multiple blocks in a row by holding a key.",
+"author":["chaseandrgn"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
+
+},{
+
 "name":"FastCraft",
 "other":"(Experimental)",
 "link":"http://j.mp/1q5sbeM",
@@ -6972,6 +7100,17 @@
 
 },{
 
+"name":"Floatable Rails",
+"link":"http://forum.minecraftuser.jp/viewtopic.php?f=13&t=22661",
+"desc":"Allows placement of rails in the air without supporting blocks. Adds a new type of powered rails which are always enabled.",
+"author":["MG001Maya"],
+"source":"https://github.com/bspkrs/FloatingRuins",
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
+
+},{
+
 "name":"FloatingRuins",
 "link":"http://j.mp/TWHHIG",
 "desc":"Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.",
@@ -7207,6 +7346,18 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"FML",
+"other":"(Forge Mod Loader)",
+"link":"http://files.minecraftforge.net/fml/1.8",
+"desc":"CPW's Forge Mod Loader is the replacement for Risugami's ModLoader as a dependency for Forge. Comes pre-packaged with Forge.",
+"author":["cpw","LexManos"],
+"source":"https://github.com/MinecraftForge/FML",
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.8"]
 
 },{
 
@@ -7740,6 +7891,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.4.7"]
+
+},{
+
+"name":"GLSL Shaders Mod",
+"other":"(Alpha)",
+"link":"http://j.mp/VK1Y3q",
+"desc":"Adds shaders that can be swapped in-game. Allows use of Depth of Field, Parallax Occlusion and other advanced shading. Continuation of daxnitro's GLSL Shaders.",
+"author":["karyonix"],
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.8"]
 
 },{
 
@@ -8658,6 +8820,18 @@
 
 },{
 
+"name":"ICBM",
+"other":"(Unstable)",
+"link":"http://builtbroken.com/icbm-downloads/",
+"desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
+"author":["Calclavia","DarkGuardsman"],
+"source":"https://github.com/Universal-Electricity/ICBM",
+"type":["Universal"],
+"dependencies":["Forge Required","Universal Electricity","Resonant Engine"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Ice Cream Sandwich Creeper Mod",
 "link":"http://j.mp/SfrAbZ",
 "desc":"Features 5 flavors of ice cream creating 6 types of ice cream sandwiches and 6 types of creepers! (Vanilla, Strawberry, Chocolate, Mint Chocolate Chip, Orange Sherbert, and Neapolitan) Killing a creeper earns yourself an ice cream sandwich of their flavor but, if you get too close, they explode into a pile of ice cream, but also do no damage to the environment, players, or other mobs (although there is an option in the properties file to turn on explosions). There is also a 1/100 chance for them to drop a decorative skull of their flavor.",
@@ -8967,6 +9141,16 @@
 
 },{
 
+"name":"Ingame Username Change",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2233908-ingame-username-change",
+"desc":"Allows changing usernames for offline servers.",
+"author":["rakion99"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
+
+},{
+
 "name":"Ingame Mod List",
 "link":"http://j.mp/13b09lQ",
 "desc":"",
@@ -9032,6 +9216,17 @@
 
 },{
 
+"name":"InputFix",
+"link":"http://minecraft.curseforge.com/mc-mods/71620-inputfix",
+"desc":"Allows typing ingame using Input Methods for languages such as Japanese, Chinese and Korean.",
+"author":["zlainsama"],
+"source":"https://github.com/zlainsama/InputFix",
+"type":["Client"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
+
+},{
+
 "name":"Insta House Mod",
 "link":"http://j.mp/UN9Lyn",
 "desc":"Adds blocks that transform into houses when right-clicked with a staff.",
@@ -9092,6 +9287,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1","1.4.7","1.4.2"]
+
+},{
+
+"name":"InventorySorter",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2203567-inventorysorter-middle-click-to-sort-v1-5-is-out",
+"desc":"Allows inventory sorting using the middle mouse button.",
+"author":["OndraSter"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
 
 },{
 
@@ -10000,6 +10205,18 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"LiteLoader",
+"other":"(API) (Development)",
+"link":"http://j.mp/18mKFgD",
+"desc":"A lightweight mod bootstrap designed to provide very basic loader functionality for mods which don't need to modify game mechanics. Designed to run alongside ModLoader and Minecraft Forge and will not conflict with ModLoader or Forge mods.",
+"author":["Mumfrey"],
+"source":"https://www.assembla.com/spaces/LiteLoader/stream",
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.8"]
 
 },{
 
@@ -11229,6 +11446,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Mineralogy",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2233909-mineralogy-mod",
+"desc":"Replaces underground stone with different types of stone inspired from real world examples.",
+"author":["DrCyano"],
+"source":"https://github.com/cyanobacterium/Minecraft_Mineralogy",
+"type":["Universal"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
 
 },{
 
@@ -12488,6 +12716,17 @@
 
 },{
 
+"name":"Morpheus",
+"other":"(Alpha)",
+"link":"http://j.mp/1jfKabN",
+"desc":"A sleep voting mod that notifies all players when a player sleeps.",
+"author":["quetzi"],
+"type":["Server"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
+
+},{
+
 "name":"MorpheusZero's Mods",
 "link":"http://j.mp/117U1v2",
 "desc":"",
@@ -13152,6 +13391,17 @@
 
 },{
 
+"name":"No Fire Spread",
+"link":"http://j.mp/V1qVZv",
+"desc":"Prevents the spread of fire from all fire sources.",
+"author":["soccerguy3"],
+"source":"https://onedrive.live.com/?cid=77b5e138e468ede3&id=77B5E138E468EDE3%21155",
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
+
+},{
+
 "name":"No Hotbar Scroll",
 "link":"http://j.mp/1o8zmkf",
 "desc":"Disables scrolling on the inventory hotbar.",
@@ -13170,6 +13420,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible","Base Edit"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"No Ice Melt",
+"link":"http://j.mp/V1qVZv",
+"desc":"Prevents ice from melting.",
+"author":["soccerguy3"],
+"source":"https://onedrive.live.com/?cid=77b5e138e468ede3&id=77B5E138E468EDE3%21155",
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
 
 },{
 
@@ -13615,7 +13876,7 @@
 "author":["sp614x"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -18311,6 +18572,16 @@
 
 },{
 
+"name":"The Simple Xray Mod",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293732-1-8-mod-version-2-0-the-simple-xray-mod-block",
+"desc":"Allows toggling visibility of select blocks.",
+"author":["thehen101"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.8"]
+
+},{
+
 "name":"The Soda Mod",
 "link":"http://j.mp/10Xbu4O",
 "desc":"Adds different drinks to your minecraft world! Also pigs are spawned everywhere but not just normal pigs, these are LEMONADE PIGS.",
@@ -18684,6 +18955,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"TooManyItems",
+"other":"(TMI)",
+"link":"http://j.mp/1nKYOOY",
+"desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
+"author":["Marglyph"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.8"]
 
 },{
 
@@ -19458,7 +19740,7 @@
 "source":"https://github.com/uyjulian/MinecraftX-RAY",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.10","1.7.2","1.6.2","1.6.1","1.5.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -19686,12 +19968,12 @@
 
 "name":"VoxelMap",
 "other":"(Zan's Minimap)",
-"link":"http://j.mp/1pnVFkR",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261180-voxelmap-1-8-a-minimap",
 "desc":"A feature-packed minimap with many customizations.",
 "author":["MamiyaOtaru"],
 "type":["Client"],
-"dependencies":["Forge Compatible"],
-"versions":["1.7.10"]
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -20299,7 +20581,7 @@
 "author":["AmbientOcclusion"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -20478,6 +20760,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"ZapFill",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2252655-zapfill-minecraft-vanilla-fill-command-overclocker",
+"desc":"Increases the maximum amount of blocks on the vanilla /fill command to 1048576 blocks.",
+"author":["Zapper49"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
 
 },{
 
