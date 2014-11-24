@@ -1,49 +1,37 @@
 $('.universal').tooltip({
-    placement: "auto",
     title: "Universal mods can be used on both client and server with the same file"
 });
 $('.client').tooltip({
-    placement: "auto",
     title: "Clientside mods only need to be installed on the client, usually providing display changes"
 });
 $('.server').tooltip({
-    placement: "auto",
     title: "Serverside mods only need to be installed on the server, usually providing extra commands or administration tools"
 });
 $('.ssp').tooltip({
-    placement: "auto",
     title: "SSP mods work in singleplayer and have their own mod file"
 });
 $('.lan').tooltip({
-    placement: "auto",
     title: "LAN mods can be used in LAN mode as long as the other player has the mod"
 });
 $('.smp').tooltip({
-    placement: "auto",
     title: "SMP mods work in multiplayer and have their own mod file"
 });
 $('.opensource').tooltip({
-    placement: "auto",
     title: "Visible Source - may also be Open Source"
 });
 $('.base-edit').tooltip({
-    placement: "auto",
     title: "This mod changes internal Minecraft files and are likely incompatible with other mods"
 });
 $('.opensource-contained').tooltip({
-    placement: "auto",
     title: "This mod has a visible source, but the source code is obtained via PM or contained within the main download."
 });
 $('.cl-update').tooltip({
-    placement: "auto",
     title: "Updated"
 });
 $('.cl-add').tooltip({
-    placement: "auto",
     title: "Added"
 });
 $('.cl-remove').tooltip({
-    placement: "auto",
     title: "Removed"
 });
 $('.forge-required').tooltip({
