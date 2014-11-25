@@ -1,3 +1,6 @@
+(November/25/2014)
+	*Updated "Forge Mod Loader (FML)" name: Now "FML"
+
 (November/23/2014)
 	*Updated "VoxelMap" link and info: Requires "LiteLoader"
 	+Added "Ellian's MaterialDetector"

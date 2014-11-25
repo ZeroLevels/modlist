@@ -2123,6 +2123,16 @@
 
 },{
 
+"name":"Biome Borders",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2278600-biome-borders-visually-represent-the-boundary-of",
+"desc":"Displays the boundaries between borders.",
+"author":["Urushibara"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.8"]
+
+},{
+
 "name":"BiomeGenerators",
 "link":"http://j.mp/XyJTXD",
 "desc":"",
@@ -4743,7 +4753,7 @@
 "author":["dags_"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -7101,11 +7111,10 @@
 },{
 
 "name":"Floatable Rails",
-"link":"http://forum.minecraftuser.jp/viewtopic.php?f=13&t=22661",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2224400-villagerinventoryviewer-floatablerails-and-more",
 "desc":"Allows placement of rails in the air without supporting blocks. Adds a new type of powered rails which are always enabled.",
-"author":["MG001Maya"],
-"source":"https://github.com/bspkrs/FloatingRuins",
-"type":["SSP"],
+"author":["Urushibara"],
+"type":["SSP","SMP","LAN"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.8"]
 
@@ -7338,9 +7347,10 @@
 
 },{
 
-"name":"Forge Mod Loader (FML)",
+"name":"FML",
+"other":"(Forge Mod Loader)",
 "link":"http://j.mp/Forge-Mod-Loader",
-"desc":"CPW's Forge Mod Loader (a.k.a \"FML\") is the replacement for Risugami's Mod Loader as a dependency for Forge.  FML comes pre-packaged with Forge, so there is no need to download this if you're using Forge.",
+"desc":"cpw's Forge Mod Loader is the replacement for Risugami's ModLoader as a dependency for Forge. Comes pre-packaged with Forge.",
 "author":["cpw","LexManos"],
 "source":"https://github.com/MinecraftForge/FML",
 "type":["Universal"],
@@ -7352,7 +7362,7 @@
 "name":"FML",
 "other":"(Forge Mod Loader)",
 "link":"http://files.minecraftforge.net/fml/1.8",
-"desc":"CPW's Forge Mod Loader is the replacement for Risugami's ModLoader as a dependency for Forge. Comes pre-packaged with Forge.",
+"desc":"cpw's Forge Mod Loader is the replacement for Risugami's ModLoader as a dependency for Forge. Comes pre-packaged with Forge.",
 "author":["cpw","LexManos"],
 "source":"https://github.com/MinecraftForge/FML",
 "type":["Universal"],
@@ -7644,6 +7654,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Gammabright",
+"other":"(Beta)",
+"link":"http://j.mp/13aZktd",
+"desc":"Allows you to change your in-game brightness beyond the default limits.",
+"author":["kymaster"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.8"]
 
 },{
 
@@ -10461,6 +10482,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"Macro/Keybind Mod",
+"other":"(Beta)",
+"link":"http://eq2.co.uk/minecraft/mods/prerelease/",
+"desc":"Take control of your Minecraft client. Bind keys to commands and automate simple or complex tasks. Design your own heads-up display and create your own interactive menus in-game quickly and easily. Perfect for use with WorldEdit, MCMMO, server administration, or trolling your friends. Plus it dispenses free cake.",
+"author":["Mumfrey"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.8"]
 
 },{
 
@@ -14561,6 +14593,16 @@
 
 },{
 
+"name":"Pop Enchant Tags",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2224400-villagerinventoryviewer-floatablerails-and-more",
+"desc":"Displays current tool enchantments above the player hotbar.",
+"author":["Urushibara"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.8"]
+
+},{
+
 "name":"Portable Teleporter",
 "link":"http://j.mp/1qsqsiG",
 "desc":"Adds a portable teleporter which requires 1 million EU to teleport to a saved point instantly.",
@@ -16487,6 +16529,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"SlimeChunkInfo",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2224400-villagerinventoryviewer-floatablerails-and-more",
+"desc":"Displays whether the current chunk will spawn slimes.",
+"author":["Urushibara"],
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.8"]
 
 },{
 
@@ -19903,6 +19955,16 @@
 
 },{
 
+"name":"Villagers Inventory Viewer",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2224400-villagerinventoryviewer-floatablerails-and-more",
+"desc":"Implements a GUI to view the inventory of a villager.",
+"author":["Urushibara"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.8"]
+
+},{
+
 "name":"Villagers Need Emeralds",
 "link":"http://j.mp/1cRLIFN",
 "desc":"Makes all villagers in the world LOVE emeralds and follow you if you're holding some.  They'll also pick up any emeralds from the floor, so be careful!",
@@ -20404,6 +20466,16 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"World Handler",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288381-1-8-2-7-world-handler-commands-made-easy-command",
+"desc":"Provides a GUI to use complex vanilla features such as scoreboards",
+"author":["Exopandora"],
+"type":["Client"],
+"dependencies":["Forge Compatible","FML"],
+"versions":["1.8"]
 
 },{
 
