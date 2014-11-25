@@ -1,3 +1,14 @@
+(November/25/2014)
+	*Updated "Floatable Rails" author, link and info: Compatible with SMP, using MCF details: "Urushibara" instead of "MG001Maya"
+	+Added "Biome Borders"
+	+Added "DaFlight"
+	+Added "Gammabright": Currently in Beta
+	+Added "Macro/Keybind Mod": Currently in beta
+	+Added "Pop Enchant Tags"
+	+Added "SlimeChunkInfo"
+	+Added "Villagers Inventory Viewer"
+	+Added "World Handler"
+
 (November/23/2014)
 	+Added "Ambient Birds"
 	+Added "Autofish"
