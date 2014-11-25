@@ -17649,6 +17649,17 @@
 
 },{
 
+"name":"Tabula",
+"link":"http://ichun.us/mods/tabula-minecraft-modeler/",
+"desc":"Ingame Minecraft Modeler based off Techne. Imports models directly from Minecraft, including mod models.",
+"author":["iChun"],
+"source":"https://github.com/iChun/Tabula",
+"type":["SSP"],
+"dependencies":["Forge Required","iChunUtil"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Tails",
 "link":"http://j.mp/1laaKtf",
 "desc":"Adds customizable tails for players. Primarily client side.",
