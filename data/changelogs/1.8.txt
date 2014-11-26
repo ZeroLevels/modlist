@@ -1,3 +1,6 @@
+(November/26/2014)
+	+Added "Forge": Currently in VERY early beta, expect crashes and corrupt save files
+
 (November/25/2014)
 	*Updated "Floatable Rails" author, link and info: Compatible with SMP, using MCF details: "Urushibara" instead of "MG001Maya"
 	+Added "Biome Borders"
