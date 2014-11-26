@@ -7324,6 +7324,18 @@
 
 },{
 
+"name":"Forge",
+"other":"(API) (Early Beta)",
+"link":"http://files.minecraftforge.net/minecraftforge/1.8",
+"desc":"Currently in Early Beta - EXPECT CRASHES AND CORRUPT SAVE FILES. Do not load worlds you intend to keep without first backing them up. A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
+"author":["LexManos"],
+"source":"https://github.com/MinecraftForge/MinecraftForge",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Forge Essentials",
 "link":"http://j.mp/1vgNEmd",
 "desc":"Adds Bukkit-like functionality to Forge such as permissions, extra commands and player logging.",
