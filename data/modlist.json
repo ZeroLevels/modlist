@@ -1270,6 +1270,16 @@
 
 },{
 
+"name":"Auto Sapling",
+"link":"http://minecraft.curseforge.com/mc-mods/222415-auto-sapling",
+"desc":"Plants sapling items that are not picked up intead of despawning.",
+"author":["Lemonszz"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Auto-shutdown",
 "link":"http://j.mp/12i4AZ1",
 "desc":"This is a server-only mod used for automatic shutting down after specified time with no players online.",
