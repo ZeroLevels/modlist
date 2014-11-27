@@ -1,4 +1,5 @@
 (November/27/2014)
+	*Updated "Biome Borders" description
 	+Added "Auto Sapling"
 	+Added "BedrockLayer"
 	+Added "Better Title Screen"
