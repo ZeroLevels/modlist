@@ -3150,12 +3150,12 @@
 
 "name":"ChickenShed",
 "link":"http://j.mp/1gPYMhn",
-"desc":"A simple two-class mod that makes chickens shed a feather every now and then. Upon death, they are guaranteed to drop at least one feather.",
+"desc":"A simple mod that makes chickens shed feathers every now and then, with configurable drop rates. Upon death, they are guaranteed to drop at least one feather.",
 "author":["Vazkii"],
 "source":"https://github.com/ZeroLevels/ChickenShed",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 

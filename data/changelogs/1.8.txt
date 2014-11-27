@@ -1,3 +1,6 @@
+(November/27/2014)
+	+Added "ChickenShed"
+
 (November/26/2014)
 	+Added "Forge": Currently in VERY early beta, expect crashes and corrupt save files
 
