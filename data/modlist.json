@@ -9440,11 +9440,11 @@
 "name":"IronChests",
 "link":"http://j.mp/ironchests2",
 "desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
-"author":["progwml6"],
+"author":["progwml6","cpw"],
 "source":"https://github.com/progwml6/ironchest",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 

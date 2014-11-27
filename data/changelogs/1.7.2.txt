@@ -1,5 +1,6 @@
 (November/27/2014)
 	*Updated "ChickenShed"
+	*Updated "IronChests" author
 
 (November/25/2014)
 	*Updated "Forge Mod Loader (FML)" name: Now "FML"
