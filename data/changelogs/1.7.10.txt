@@ -2,6 +2,8 @@
 	*Updated "ChickenShed"
 	*Updated "IronChests" author
 	+Added "Auto Sapling"
+	+Added "ColorChat"
+	+Added "K4Lib"
 
 (November/25/2014)
 	*Updated "Forge Mod Loader (FML)" name: Now "FML"
