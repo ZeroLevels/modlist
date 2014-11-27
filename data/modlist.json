@@ -1967,12 +1967,12 @@
 
 "name":"Better Title Screen",
 "link":"http://j.mp/1pf66Wj",
-"desc":"Provides customizations options for the ingame title screen.",
-"author":["amadornes"],
+"desc":"Provides customization options for the ingame title screen.",
+"author":["amadornes","Girafi"],
 "source":"https://github.com/GirafiStudios/BetterTitleScreen",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 

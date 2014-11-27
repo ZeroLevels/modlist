@@ -1,6 +1,7 @@
 (November/27/2014)
+	*Updated "Better Title Screen" authors
 	*Updated "ChickenShed"
-	*Updated "IronChests" author
+	*Updated "IronChests" authors
 	+Added "Auto Sapling"
 	+Added "ColorChat"
 	+Added "K4Lib"
