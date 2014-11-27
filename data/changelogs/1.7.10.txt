@@ -1,3 +1,12 @@
+(November/27/2014)
+	*Updated "Better Title Screen" authors
+	*Updated "ChickenShed"
+	*Updated "IronChests" authors
+	+Added "Auto Sapling"
+	+Added "ColorChat"
+	+Added "Enhanced Server Moderation"
+	+Added "K4Lib"
+
 (November/25/2014)
 	*Updated "Forge Mod Loader (FML)" name: Now "FML"
 	+Added "Tabula"

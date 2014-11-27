@@ -1,3 +1,13 @@
+(November/27/2014)
+	+Added "Auto Sapling"
+	+Added "Better Title Screen"
+	+Added "ChickenShed"
+	+Added "ColorChat"
+	+Added "Enhanced Server Moderation"
+	+Added "Inventory Tweaks"
+	+Added "IronChests"
+	+Added "K4Lib"
+
 (November/26/2014)
 	+Added "Forge": Currently in VERY early beta, expect crashes and corrupt save files
 

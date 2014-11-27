@@ -1270,6 +1270,16 @@
 
 },{
 
+"name":"Auto Sapling",
+"link":"http://minecraft.curseforge.com/mc-mods/222415-auto-sapling",
+"desc":"Plants sapling items that are not picked up intead of despawning.",
+"author":["Lemonszz"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Auto-shutdown",
 "link":"http://j.mp/12i4AZ1",
 "desc":"This is a server-only mod used for automatic shutting down after specified time with no players online.",
@@ -1957,12 +1967,12 @@
 
 "name":"Better Title Screen",
 "link":"http://j.mp/1pf66Wj",
-"desc":"Provides customizations options for the ingame title screen.",
-"author":["amadornes"],
+"desc":"Provides customization options for the ingame title screen.",
+"author":["amadornes","Girafi"],
 "source":"https://github.com/GirafiStudios/BetterTitleScreen",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -3150,12 +3160,12 @@
 
 "name":"ChickenShed",
 "link":"http://j.mp/1gPYMhn",
-"desc":"A simple two-class mod that makes chickens shed a feather every now and then. Upon death, they are guaranteed to drop at least one feather.",
+"desc":"A simple mod that makes chickens shed feathers every now and then, with configurable drop rates. Upon death, they are guaranteed to drop at least one feather.",
 "author":["Vazkii"],
 "source":"https://github.com/ZeroLevels/ChickenShed",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -3578,6 +3588,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"ColorChat",
+"link":"http://minecraft.curseforge.com/mc-mods/221276-colorchat",
+"desc":"Adds nicknames, colored names, and groups which are added as prefixes to names.",
+"author":["K4Unl"],
+"type":["Server"],
+"dependencies":["Forge Required","K4Lib"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -6146,6 +6166,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Enhanced Server Moderation",
+"link":"http://minecraft.curseforge.com/mc-mods/224460-enhanced-server-moderation",
+"desc":"Adds moderation groups with configurable permissions, adds colored names.",
+"author":["mysticdrew"],
+"source":"https://bitbucket.org/mysticdrew/enhancedservermanagment",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -9344,6 +9375,18 @@
 
 },{
 
+"name":"Inventory Tweaks",
+"other":"(Early Beta)",
+"link":"http://build.technicpack.net/job/Inventory-Tweaks/",
+"desc":"Currently in early beta, may crash and corrupt worlds. Allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will save you a massive amount of time!",
+"author":["Kobata"],
+"source":"https://github.com/Kobata/inventory-tweaks",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Invincible Hamster",
 "link":"http://j.mp/13b0vsE",
 "desc":"Lets hamsters spawn in your world. When you tame them with flowers, they become invincible hamsters, with a never ending hate for iron bars.",
@@ -9430,11 +9473,11 @@
 "name":"IronChests",
 "link":"http://j.mp/ironchests2",
 "desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
-"author":["progwml6"],
+"author":["progwml6","cpw"],
 "source":"https://github.com/progwml6/ironchest",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -9753,6 +9796,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"K4Lib",
+"link":"http://minecraft.curseforge.com/mc-mods/224740-k4lib",
+"desc":"Required library for other mods by K4Unl.",
+"author":["K4Unl"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
