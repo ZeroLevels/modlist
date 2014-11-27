@@ -2135,7 +2135,7 @@
 
 "name":"Biome Borders",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2278600-biome-borders-visually-represent-the-boundary-of",
-"desc":"Displays the boundaries between borders.",
+"desc":"Displays the boundaries between biomes.",
 "author":["Urushibara"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
