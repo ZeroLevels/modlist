@@ -3,6 +3,7 @@
 	+Added "Better Title Screen"
 	+Added "ChickenShed"
 	+Added "ColorChat"
+	+Added "Enhanced Server Moderation"
 	+Added "Inventory Tweaks"
 	+Added "IronChests"
 	+Added "K4Lib"

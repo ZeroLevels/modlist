@@ -6169,6 +6169,17 @@
 
 },{
 
+"name":"Enhanced Server Moderation",
+"link":"http://minecraft.curseforge.com/mc-mods/224460-enhanced-server-moderation",
+"desc":"Adds moderation groups with configurable permissions, adds colored names.",
+"author":["mysticdrew"],
+"source":"https://bitbucket.org/mysticdrew/enhancedservermanagment",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Enhanced Visuals",
 "link":"http://j.mp/13U7lTM",
 "desc":"Adds visuals to enhance the gameplay experience, such as screen going staticy when looking at enderman, blood splatter when attacked or attacking mobs, overlays for low health, burning, or splash potions, as well as sand and snow splats.",

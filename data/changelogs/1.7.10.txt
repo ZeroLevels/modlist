@@ -4,6 +4,7 @@
 	*Updated "IronChests" authors
 	+Added "Auto Sapling"
 	+Added "ColorChat"
+	+Added "Enhanced Server Moderation"
 	+Added "K4Lib"
 
 (November/25/2014)
