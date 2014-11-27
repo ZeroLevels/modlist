@@ -1,5 +1,6 @@
 (November/27/2014)
 	+Added "Auto Sapling"
+	+Added "BedrockLayer"
 	+Added "Better Title Screen"
 	+Added "ChickenShed"
 	+Added "ColorChat"
