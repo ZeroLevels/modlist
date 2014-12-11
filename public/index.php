@@ -381,7 +381,7 @@ $klein->respond('GET', '/submit', function ($request, $response, $service, $app)
 $klein->respond('GET', '/submit/[form|failed|success|incomplete:state]', function ($request, $response, $service, $app) {
     //TODO: Recode blacklist for panel access
     //TODO: Force blacklist on actual processing as well
-    $blacklist = array('66.58.219.148');
+    $blacklist = array('66.58.219.148','98.216.149.30');
     if(in_array($request->ip(),$blacklist)) {
         $service->render('html/submit/abuse.phtml');
     } else {
