@@ -5521,7 +5521,7 @@
 "source":"https://github.com/webbukkit/DynmapForge",
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.8]
+"versions":["1.8"]
 
 },{
 
@@ -17900,7 +17900,7 @@
 
 "name":"Texture Pack on Main Menu",
 "link":"http://j.mp/YQZfbG",
-"desc":"Puts the texture Packs button back onto the main menu.",
+"desc":"Puts the texture packs button back onto the main menu.",
 "author":["bmanrules"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
@@ -20162,7 +20162,7 @@
 
 "name":"WAILA Plugins",
 "link":"http://minecraft.curseforge.com/mc-mods/226119-waila-plugins",
-"desc":"Adds Waila plugins for many popular mods.",
+"desc":"Displays additional Waila information for many popular mods such as Blood Magic, Extra Utilities, and Forestry.",
 "author":["tterrag1098"],
 "source":"https://github.com/tterrag1098/WAILAPlugins",
 "type":["Client"],
