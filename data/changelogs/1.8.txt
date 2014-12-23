@@ -1,3 +1,26 @@
+(December/2?/2014)
+	+Added "AromaBackup"
+	+Added "Aroma1997Core"
+	+Added "BetterChests"
+	+Added "Dynamic Lights"
+	+Added "Waila"
+	+Added "MrCrayfish's Furniture Mod"
+	+Added "MumbleLink"
+	+Added "Zyin's HUD"
+	+Added "Morpheus"
+	+Added "Mod Control"
+	+Added "Parachute Mod"
+	+Added "Reptile Mod"
+	+Added "CrackedZombies"
+	+Added "Render Player API"
+	+Added "Player API"
+	+Added "Hardcore Darkness"
+	+Added "More Player Models 2": Currently in beta
+	+Added "Animal Bikes": Currently in beta
+	+Added "Yarr Cute Mob Models - Remake"
+	+Added "Extra Achievements"
+	+Added "Dynmap"
+
 (November/28/2014)
 	+Added "EiraIRC": Currently in beta
 
