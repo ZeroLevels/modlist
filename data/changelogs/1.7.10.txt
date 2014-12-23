@@ -1,3 +1,27 @@
+(December/24/2014)
+	*Updated "Big Reactors": Now in Alpha
+	*Updated "Electro-Magic Tools": No longer in Alpha
+	*Updated "Forestry": No longer in Development
+	*Updated "Enchanting Plus": No longer in Beta
+	+Added "The Erebus"
+	+Added "Cheating Essentials"
+	+Added "Cyan Warrior Swords Mod"
+	+Added "Bow Infinity Fix"
+	+Added "Hardcore Darkness"
+	+Added "AnimationAPI"
+	+Added "Mutant Creatures"
+	+Added "ThaumcraftGates"
+	+Added "Thaumic Infusion"
+	+Added "The Camping Mod"
+	+Added "QuiverBow"
+	+Added "Not Enough Keys"
+	+Added "Clienthax's ChocoCraft"
+	+Added "ttCore"
+	+Added "WAILA Plugins"
+	+Added "EnndsCore"
+	+Added "Truss Mod": Currently in Beta
+	-Removed "NEI Plugins": Replaced with NEI Integration
+
 (November/27/2014)
 	*Updated "Better Title Screen" authors
 	*Updated "ChickenShed"
@@ -14,7 +38,7 @@
 (November/23/2014)
 	*Updated "VoxelMap" link and info: Requires "LiteLoader"
 	+Added "Ellian's MaterialDetector"
-	+Added "ICBM": Currently in development
+	+Added "ICBM": Currently in Development
 
 (November/14/2014)
 	*Updated "Forbidden Magic" dependencies: Requires "Thaumcraft 4"
@@ -22,7 +46,7 @@
 	+Added "OreSpawn": Currently in Development
 
 (November/11/2014)
-	+Added "Clay Soldiers Mod": Currently in beta
+	+Added "Clay Soldiers Mod": Currently in Beta
 
 (October/30/2014)
 	*Updated "No Fire Spread" info: Updated source

@@ -44,7 +44,7 @@
 },{
 
 "name":"AbyssalCraft",
-"link":"http://j.mp/1uASuJJ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287002-1-7-10-1-7-2-forge-ssp-lan-smp-abyssalcraft-v-1-8",
 "desc":"Adds a new dimension called The Darklands: deserted at day, yet infested with undead creatures at night.",
 "author":["Shinoow"],
 "source":"https://github.com/Shinoow/AbyssalCraft",
@@ -382,18 +382,6 @@
 },{
 
 "name":"AgeCraft",
-"other":"(Alpha)",
-"link":"http://j.mp/PzBm8C",
-"desc":"Adds ages and evolution mechanics, which limit or expand usable technology.",
-"author":["ItsMeElConquistador"],
-"source":"https://github.com/AgeCraft/AgeCraft",
-"type":["Universal"],
-"dependencies":["Forge Required","ElConQore","ForgeMultipart"],
-"versions":["1.7.2"]
-
-},{
-
-"name":"AgeCraft",
 "other":"(Pre-Alpha)",
 "link":"http://j.mp/15btaAj",
 "desc":"A WIP Medieval-themed mod that adds things such as spears, tridents and other weapons! Soon to have a new biome and dragons as well!",
@@ -466,24 +454,13 @@
 },{
 
 "name":"Alchemy++",
-"link":"http://j.mp/YeIPyo",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294074-alchemyplusplus",
 "desc":"Implements new ways of potion brewing, combining potions together and getting potion effects not obtainable through vanilla alchemy. It also adds new ways of storing potions and some new blocks to decorate the alchemical lab.",
 "author":["jakimfett"],
 "source":"https://github.com/jakimfett/AlchemyPlusPlus",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Alchemy++",
-"link":"http://j.mp/1B1XoBv",
-"desc":"Implements new ways of potion brewing, combining potions together and getting potion effects not obtainable through vanilla alchemy. It also adds new ways of storing potions and some new blocks to decorate the alchemical lab.",
-"author":["jakimfett"],
-"source":"https://github.com/jakimfett/AlchemyPlusPlus",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -628,13 +605,24 @@
 },{
 
 "name":"Ancient Warfare",
-"link":"http://j.mp/VDWeuA",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1441547-1-7-10-ancient-warfare-forge-smp-wip-d-l",
 "desc":"This mod is dedicated to bringing all sorts of ancient-warfare related tools and machinery to the Minecraft world.",
 "author":["Shadowmage4513"],
 "source":"https://github.com/shadowmage45/AncientWarfare",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.4.7","1.3.2"]
+"versions":["1.6.4","1.6.2","1.5.2","1.4.7","1.3.2"]
+
+},{
+
+"name":"Ancient Warfare 2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1441547-1-7-10-ancient-warfare-forge-smp-wip-d-l",
+"desc":"This mod is dedicated to bringing all sorts of ancient-warfare related tools and machinery to the Minecraft world.",
+"author":["Shadowmage4513"],
+"source":"https://github.com/shadowmage45/AncientWarfare",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -655,6 +643,17 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"Animal Bikes",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278239-animal-bikes-added-wither-and-flower-bikes-1-8",
+"desc":"A multiplayer mod which allows you to ride animals.",
+"author":["Noppes"],
+"type":["Universal"],
+"dependencies":["Forge Compatible"],
+"versions":["1.8"]
 
 },{
 
@@ -689,7 +688,7 @@
 },{
 
 "name":"Animated Player",
-"link":"http://j.mp/14rfMZG",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288552-aesthetic-animated-player-compatibility-and",
 "desc":"Completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too!",
 "author":["thehippomaster21"],
 "type":["Client"],
@@ -699,13 +698,12 @@
 },{
 
 "name":"AnimationAPI",
-"link":"http://j.mp/1bNyxqy",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289836-animationapi-animate-your-entities-v1-2-3",
 "desc":"An API that allows mod makers to create animated entities more easily.",
 "author":["thehippomaster21"],
-"source":"",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -945,7 +943,7 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -975,7 +973,7 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -1261,7 +1259,7 @@
 
 "name":"Automagy",
 "other":"(Beta)",
-"link":"http://j.mp/1unfnkD",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-17",
 "desc":"Thaumcraft 4 addon focused on providing flexible and interesting tools for automation and logistics, plus a few thaumic gadgets.",
 "author":["Tuhljin"],
 "type":["Universal"],
@@ -1723,7 +1721,7 @@
 "author":["Aroma1997"],
 "type":["Universal"],
 "dependencies":["Forge Required","Aroma1997Core Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -2070,25 +2068,13 @@
 
 "name":"Big Reactors",
 "other":"(Alpha)",
-"link":"http://j.mp/10PZyYH",
+"link":"http://www.big-reactors.com/index.html#/",
 "desc":"Designed to be a mid-to-late-game complement to mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
 "author":["Erogenous Beef"],
 "source":"http://github.com/erogenousbeef/BigReactors",
 "type":["Universal"],
 "dependencies":["Forge Required","CoFH Core"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Big Reactors",
-"other":"(Release Candidate)",
-"link":"http://j.mp/10PZyYH",
-"desc":"Designed to be a mid-to-late-game complement to mods such as Thermal Expansion, BuildCraft, and Minefactory Reloaded. You will need other mods to play this effectively, such as mods that support power from BuildCraft or Universal Electricity.",
-"author":["Erogenous Beef"],
-"source":"http://github.com/erogenousbeef/BigReactors",
-"type":["Universal"],
-"dependencies":["Forge Required","CoFH Core"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -2527,7 +2513,7 @@
 "source":"https://github.com/Parker8283/BowInfinityFix",
 "type":["Universal"],
 "dependencies":["Forge Compatible","FML"],
-"versions":["1.8"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -2679,9 +2665,9 @@
 },{
 
 "name":"Buildcraft",
-"link":"http://j.mp/156o88k",
+"link":"http://www.mod-buildcraft.com/",
 "desc":"Adds machines which can be powered by engines and fuel to help build and/or dig!",
-"author":["SirSengir","SpaceToad"],
+"author":["SirSengir","SpaceToad","asiekierka"],
 "source":"https://github.com/BuildCraft/BuildCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -2690,7 +2676,7 @@
 },{
 
 "name":"Buildcraft Additions",
-"link":"http://j.mp/1rs42PS",
+"link":"https://buildcraftadditions.wordpress.com/",
 "desc":"Adds Fluid Canisters, Kinetic Capsules, Power Tools and more.",
 "author":["AEnterprise"],
 "source":"https://github.com/AEnterprise/Buildcraft-Additions",
@@ -3091,7 +3077,7 @@
 "source":"https://github.com/Kodehawa/Cheating-Essentials-Forge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -3099,7 +3085,6 @@
 "link":"http://j.mp/1h9JY1V",
 "desc":"Allows the player to cheat with Fly, X-ray and other cheat tools. Continuation of Kodehawa's Cheating Essentials.",
 "author":["godshawk"],
-"source":"https://github.com/godshawk/CheatingEssentials",
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
@@ -3439,6 +3424,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Clienthax's ChocoCraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2269183-clienthaxs-chococraft-happiness-distilled-into",
+"desc":"Adds a mob called Chocobo to the game. This includes different coloured mob types with different attributes in their grown-up and juvenile form.",
+"author":["clienthax"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -4725,13 +4720,13 @@
 
 },{
 
-"name":"Cute Mob Models",
+"name":"Yarr Cute Mob Models - Remake",
 "link":"http://j.mp/1ptWRSq",
 "desc":"Replaces generic models with designs recreated from Mobtalker.",
 "author":["yarrmateys"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -4746,13 +4741,12 @@
 },{
 
 "name":"Cyan Warrior Swords Mod",
-"other":"(Beta)",
 "link":"http://j.mp/10qFiXH",
 "desc":"New elemental swords with abilities! Mix and upgrade your swords to obtain a certain effect on the player and other mobs!",
 "author":["MustangXPress7"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -5472,7 +5466,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -5509,13 +5503,25 @@
 },{
 
 "name":"Dynmap",
-"link":"http://j.mp/VNNyib",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286593-dynmap-dynamic-web-based-maps-for-minecraft",
 "desc":"Real-time Minecraft maps: Dynmap provides an in-browser map, like Google Maps, of your Minecraft world. It updates the map in realtime while you have your browser opened and shows the current players, regions and in-game messages on top of the map. It also allows viewers of the map to chat from within their browser with players in-game.",
 "author":["mikeprimm"],
 "source":"https://github.com/webbukkit/DynmapForge",
 "type":["Server"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"Dynmap",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286593-dynmap-dynamic-web-based-maps-for-minecraft",
+"desc":"Real-time Minecraft maps: Dynmap provides an in-browser map, like Google Maps, of your Minecraft world. It updates the map in realtime while you have your browser opened and shows the current players, regions and in-game messages on top of the map. It also allows viewers of the map to chat from within their browser with players in-game.",
+"author":["mikeprimm"],
+"source":"https://github.com/webbukkit/DynmapForge",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -5644,18 +5650,6 @@
 
 },{
 
-"name":"ElConQore",
-"other":"(Dependency)",
-"link":"http://j.mp/PzBm8C",
-"desc":"Required dependency for ItsMeElConquistador's other mods.",
-"author":["ItsMeElConquistador"],
-"source":"https://github.com/ItsMeElConquistador/ElConQore",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.2"]
-
-},{
-
 "name":"Electro-Magic Tools",
 "link":"http://j.mp/1qzBJxE",
 "desc":"Integrates Thaumcraft 4 with IndustrialCraft 2 by adding cross-mod tools and items, such as magic solar panels, essentia generators and legendary items.",
@@ -5663,19 +5657,7 @@
 "source":"https://github.com/Tombenpotter/Electro-Magic-Tools",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2","Thaumcraft 4"],
-"versions":["1.7.2","1.6.4"]
-
-},{
-
-"name":"Electro-Magic Tools",
-"other":"(Alpha)",
-"link":"http://j.mp/1uIc4WA",
-"desc":"Integrates Thaumcraft 4 with IndustrialCraft 2 by adding cross-mod tools and items, such as magic solar panels, essentia generators and legendary items.",
-"author":["Tombenpotter"],
-"source":"https://github.com/Tombenpotter/Electro-Magic-Tools",
-"type":["Universal"],
-"dependencies":["Forge Required","IndustrialCraft 2","Thaumcraft 4"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -5875,25 +5857,13 @@
 },{
 
 "name":"Enchanting Plus",
-"link":"http://j.mp/GIvqWc",
+"link":"http://minecraft.curseforge.com/mc-mods/59413-enchanting-plus",
 "desc":"Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.",
-"author":["mssodin28"],
+"author":["mssodin28","Darkhax"],
 "source":"https://github.com/odininon/EnchantingPlus",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"Enchanting Plus",
-"other":"(Beta)",
-"link":"http://j.mp/GIvqWc",
-"desc":"Removes the randomness of enchanting, allowing you to choose what enchantments you want. Including enchantments added by other mods.",
-"author":["mssodin28"],
-"source":"https://github.com/odininon/EnchantingPlus-Scala",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -5909,7 +5879,7 @@
 
 "name":"Enchiridion",
 "other":"(Dependency)",
-"link":"http://j.mp/1x4zB66",
+"link":"http://minecraft.curseforge.com/mc-mods/76612-enchiridion",
 "desc":"Allows customizable books loaded from zip files and adds book binders.",
 "author":["joshiejack"],
 "source":"https://github.com/joshiejack/Enchiridion",
@@ -5939,10 +5909,10 @@
 
 },{
 
-"name":"EnderIO",
-"link":"http://j.mp/1dQXp2X",
+"name":"Ender IO",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291161-1-7-1-6-ender-io-how-many-pipes-in-one-block",
 "desc":"Multiple pipes in a single block. Buildcraft API and Forge Fluids compatible. Remote access to machines / inventories etc.",
-"author":["CrazyPants"],
+"author":["CrazyPants","tterrag1098"],
 "source":"https://github.com/CrazyPants/EnderIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5950,11 +5920,11 @@
 
 },{
 
-"name":"EnderIO",
+"name":"Ender IO",
 "other":"(Beta)",
-"link":"http://j.mp/1dQXp2X",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291161-1-7-1-6-ender-io-how-many-pipes-in-one-block",
 "desc":"Multiple pipes in a single block. Buildcraft API and Forge Fluids compatible. Remote access to machines / inventories etc.",
-"author":["CrazyPants"],
+"author":["CrazyPants","tterrag1098"],
 "source":"https://github.com/CrazyPants/EnderIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -6209,6 +6179,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"EnndsCore",
+"other":"(Dependency) (Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/223234-enndscore",
+"desc":"Core library/mod for the TechnoMagi mod.",
+"author":["ollieread"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -6525,12 +6506,12 @@
 },{
 
 "name":"Extra Achievements",
-"link":"http://j.mp/YiWLXy",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291405-1-8-update-december-6th-extra-achievements",
 "desc":"Adds new achievements for crafting new armor and tool tiers, creating a compass and more.",
 "author":["dude22072"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -6545,25 +6526,13 @@
 },{
 
 "name":"ExtraBiomesXL",
-"link":"http://j.mp/XCV19S",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282126-extrabiomesxl-universal-3-16-0-for-mc-1-7-10",
 "desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
 "author":["MisterFiber"],
 "source":"https://github.com/ExtrabiomesXL/ExtrabiomesXL",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
-
-},{
-
-"name":"ExtraBiomesXL",
-"other":"(Release Candidate)",
-"link":"http://j.mp/1y0GWVT",
-"desc":"Adds new biomes that enhance game play and make exploring fun and interesting.",
-"author":["MisterFiber"],
-"source":"https://github.com/ExtrabiomesXL/ExtrabiomesXL",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -7301,7 +7270,7 @@
 
 "name":"Forbidden Magic",
 "other":"(Prerelease)",
-"link":"http://j.mp/1qzBraf",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-551-prerelease",
 "desc":"Adds new wand cores, enchantments and magical scribing tools. Themed around darkness.",
 "author":["SpitefulFox"],
 "source":"https://github.com/SpitefulFox/ForbiddenMagic",
@@ -7312,25 +7281,13 @@
 },{
 
 "name":"Forestry",
-"link":"http://j.mp/Sk5Snp",
-"desc":"Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.",
-"author":["SirSengir"],
-"source":"https://github.com/ForestryMC/ForestryMC",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
-
-},{
-
-"name":"Forestry",
-"other":"(Development)",
-"link":"http://j.mp/1sjjJsS",
+"link":"http://forestry.sengir.net/wiki.new/doku.php",
 "desc":"Lets you create things such as automatic farms, intelligent backpacks, a mail system, and energy production. Also allows for such things as bee keeping/breeding and tree breeding.",
 "author":["SirSengir","mezz","CovertJaguar"],
 "source":"https://github.com/ForestryMC/ForestryMC",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -7620,7 +7577,7 @@
 "author":["Mr_Crayfish"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -8299,6 +8256,16 @@
 
 },{
 
+"name":"Hardcore Darkness",
+"link":"http://minecraft.curseforge.com/mc-mods/225957-hardcore-darkness",
+"desc":"Decreases light levels to near-complete darkness in unlit caves and at night.",
+"author":["Lumien"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Hardcore Ender Expansion",
 "link":"http://j.mp/10L8JDl",
 "desc":"Adds new content in the End such as Dragon Lairs, Ender Guardians and Ghost Amulets.",
@@ -8758,7 +8725,7 @@
 },{
 
 "name":"Hunger Overhaul",
-"link":"http://j.mp/14yqAB6",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289305-1-6-x-hunger-overhaul",
 "desc":"Tweaks food and hunger mechanics with food tooltips and more.",
 "author":["iguana_man"],
 "source":"https://github.com/iguanaman/HungerOverhaul",
@@ -8770,7 +8737,7 @@
 
 "name":"Hunger Overhaul",
 "other":"(Beta)",
-"link":"http://j.mp/1mHdQGo",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222904-1-7-10-hunger-overhaul",
 "desc":"Tweaks food and hunger mechanics with food tooltips and more.",
 "author":["progwml6","Parker8283","squeek502"],
 "source":"https://github.com/progwml6/HungerOverhaul",
@@ -8854,7 +8821,7 @@
 
 "name":"IC2 Classic",
 "link":"http://j.mp/1u2iVst",
-"desc":"Port of the original Industrial Craft 2 from 1.4.7.",
+"desc":"Port of the original IndustrialCraft 2 from 1.4.7.",
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -8873,7 +8840,6 @@
 },{
 
 "name":"ICBM",
-"other":"(Discontinued)",
 "link":"http://j.mp/1h221an",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
 "author":["Calclavia","DarkGuardsman"],
@@ -8885,8 +8851,7 @@
 },{
 
 "name":"ICBM",
-"other":"(Discontinued)",
-"link":"http://j.mp/1h221an",
+"link":"http://calclavia.com/icbm/",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
 "author":["Calclavia","DarkGuardsman"],
 "source":"https://github.com/Universal-Electricity/ICBM",
@@ -8909,7 +8874,7 @@
 },{
 
 "name":"Ice Cream Sandwich Creeper Mod",
-"link":"http://j.mp/SfrAbZ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286623-the-ice-cream-sandwich-creeper-mod-v1-0-9e-3-20",
 "desc":"Features 5 flavors of ice cream creating 6 types of ice cream sandwiches and 6 types of creepers! (Vanilla, Strawberry, Chocolate, Mint Chocolate Chip, Orange Sherbert, and Neapolitan) Killing a creeper earns yourself an ice cream sandwich of their flavor but, if you get too close, they explode into a pile of ice cream, but also do no damage to the environment, players, or other mobs (although there is an option in the properties file to turn on explosions). There is also a 1/100 chance for them to drop a decorative skull of their flavor.",
 "author":["IrunoHatake"],
 "type":["Universal"],
@@ -8983,7 +8948,7 @@
 },{
 
 "name":"Iguana Tweaks",
-"link":"http://j.mp/1dooEma",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291466-1-6-x-iguana-tweaks",
 "desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
 "author":["iguana_man"],
 "source":"https://github.com/iguanaman/IguanaTweaks",
@@ -8994,7 +8959,7 @@
 },{
 
 "name":"Iguana Tweaks",
-"link":"http://j.mp/1lnP78W",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295224-1-7-10-iguana-tweaks",
 "desc":"New weight restriction and encumbrance mechanic, configurable torch recipe (default 1 torch per coal), reduces all block/item stack sizes, makes smooth stone harder.",
 "author":["iguana_man","Parker8283"],
 "source":"https://github.com/Parker8283/IguanaTweaks",
@@ -9005,7 +8970,7 @@
 },{
 
 "name":"Iguana Tweaks for Tinker's Construct",
-"link":"http://j.mp/17nkepE",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291394-1-6-x-iguana-tweaks-for-tinkers-construct",
 "desc":"Makes some balance changes to Tinker's Construct, making progression through metals somewhat more difficult.",
 "author":["iguana_man"],
 "source":"https://github.com/iguanaman/IguanaTweaksTConstruct",
@@ -9016,7 +8981,7 @@
 },{
 
 "name":"Iguanas Tinker Tweaks",
-"link":"http://j.mp/1uaJ5s3",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855-iguanas-tinker-tweaks",
 "desc":"Makes some balance changes to Tinker's Construct, making progression through metals somewhat more difficult.",
 "author":["boni"],
 "source":"https://github.com/SlimeKnights/IguanaTweaksTConstruct",
@@ -9027,7 +8992,7 @@
 },{
 
 "name":"I Hate Liquids",
-"link":"http://j.mp/1m1eoEI",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294292-1-7-2-1-6-4-forge-i-hate-liquids",
 "desc":"Adds some physics to vanilla liquids and allows you to use a bucket remotely.",
 "author":["Foghrye4"],
 "source":"https://github.com/Foghrye4/I-Hate-Liquids",
@@ -9123,7 +9088,7 @@
 
 "name":"IndustrialCraft 2",
 "other":"(IC2) (Experimental)",
-"link":"http://j.mp/1gfTRVe",
+"link":"http://forum.industrial-craft.net/index.php?page=Index",
 "desc":"IC2 experimental is unstable, may break worlds and its API may change frequently. Create backups of your world when using it. Use at own risk if you can't wait for stable, non-experimental builds. Being Tested on Forgecraft 2. Adds many blocks and items for both crafting and to find whilst exploring, adding the ability to industrialize your Minecraft life with electricity and various means of increasing efficiency for the materials you've collected.",
 "author":["Alblaka","player","Thunderdark","RichardG867","GregoriusT"],
 "type":["Universal"],
@@ -9472,7 +9437,7 @@
 },{
 
 "name":"IronChests",
-"link":"http://j.mp/ironchests2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0",
 "desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
 "author":["cpw"],
 "source":"https://github.com/cpw/ironchest",
@@ -9483,7 +9448,7 @@
 },{
 
 "name":"IronChests",
-"link":"http://j.mp/ironchests2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0",
 "desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
 "author":["progwml6","cpw"],
 "source":"https://github.com/progwml6/ironchest",
@@ -9494,7 +9459,7 @@
 },{
 
 "name":"Item Frame Lag Fix",
-"link":"http://j.mp/ZO6xMj",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287525-1-6-2-item-frame-lag-fix",
 "desc":"Some people get major fps drops in areas with a lot of item frames.  This is a simple mod that changes how item frames are rendered depending on how far away you are.  This is really useful on servers that have economy / shop plugins that uses item frames. Works with Optifine as well.",
 "author":["chrisk123999"],
 "type":["Client"],
@@ -10392,25 +10357,13 @@
 },{
 
 "name":"Logistics Pipes",
-"link":"http://j.mp/12p1tyZ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289546-buildcraft-logistics-pipes",
 "desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
-"author":["thezorro266"],
+"author":["thezorro266","davboecki","ArtForz","AartBluestoke"],
 "source":"https://github.com/RS485/LogisticsPipes",
 "type":["Universal"],
 "dependencies":["Forge Required","Buildcraft"],
-"versions":["1.6.4","1.5.2","1.4.7","1.4.5","1.3.2"]
-
-},{
-
-"name":"Logistics Pipes",
-"other":"(Unstable)",
-"link":"http://j.mp/12p1tyZ",
-"desc":"An extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
-"author":["thezorro266"],
-"source":"https://github.com/RS485/LogisticsPipes",
-"type":["Universal"],
-"dependencies":["Forge Required","Buildcraft"],
-"versions":["1.7.10"]
+"versions":["1.7.10","1.6.4","1.5.2","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -12106,12 +12059,12 @@
 },{
 
 "name":"Mod Control",
-"link":"http://j.mp/1kGNDpT",
+"link":"http://minecraft.curseforge.com/mc-mods/223332-mod-control",
 "desc":"Allows servers to filter what mods clients are allowed to use.",
 "author":["lumien"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -12607,6 +12560,17 @@
 
 },{
 
+"name":"More Player Models 2",
+"other":"(Beta)",
+"link":"http://j.mp/1gnxUGQ",
+"desc":"Allows the user to customize their in-game player model by changing the scale and shape of each main bodypart, as well as adding other features like chat bubbles, rendering the first tool on your hotbar on your back, and animations such as sitting, dancing, and crawling.",
+"author":["Noppes"],
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.8"]
+
+},{
+
 "name":"More Potions Mod",
 "link":"http://j.mp/15hWEdV",
 "desc":"Adds the missing vanilla potions and base potions as well as custom potions to your game.",
@@ -12810,7 +12774,7 @@
 "author":["quetzi"],
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -13063,12 +13027,12 @@
 },{
 
 "name":"Mutant Creatures",
-"link":"http://j.mp/RBUH83",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284438-mutant-creatures-updated-v1-4-8",
 "desc":"Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!",
 "author":["thehippomaster21"],
 "type":["Universal"],
 "dependencies":["Forge Required","AnimationAPI"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -13301,6 +13265,16 @@
 
 },{
 
+"name":"NEI Integration",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294687-toniuss-mods-simply-jetpacks-nei-integration",
+"desc":"Adds NEI support for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct.",
+"author":["tonius11"],
+"type":["Universal"],
+"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"NEI Plugins",
 "link":"http://j.mp/14h8yXi",
 "desc":"Adds NEI support for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct.",
@@ -13308,16 +13282,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
-
-},{
-
-"name":"NEI Plugins",
-"link":"http://j.mp/1k1nBLf",
-"desc":"Adds NEI support for Railcraft, Buildcraft, Forestry, IC2, and Tinkers' Construct.",
-"author":["mistaqur","tonius11"],
-"type":["Universal"],
-"dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
-"versions":["1.7.10"]
 
 },{
 
@@ -13659,7 +13623,18 @@
 },{
 
 "name":"Not Enough Keys",
-"link":"http://j.mp/1y0Hr2e",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2277165-notenoughkeys",
+"desc":"Organizes the keybinding GUI, organizing mods into their own category and sub menu.",
+"author":["dmodoomsirius"],
+"source":"https://github.com/mod-warriors/NotEnoughKeys",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Not Enough Keys",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-not-enough-keys-making-pressing-buttons-easier",
 "desc":"Organizes the keybinding GUI, organizing mods into their own category and sub menu.",
 "author":["Mr_okushama"],
 "source":"https://github.com/okushama/NotEnoughKeys",
@@ -14235,12 +14210,12 @@
 },{
 
 "name":"Parachute Mod",
-"link":"http://j.mp/TGjeZl",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276594-parachute-mod-reptile-mod-crackedzombies",
 "desc":"Allows you to jump from high places and control your decent. Now Minecraft base jumping is possible! The parachute pretty much steers just like the boat. Only difference is that it's not as easy to tell where the front of the chute is.  The front of the parachute can be found by looking up or from third-person view. The parachute cords are more red on the right side of the parachute. It's fun! It only takes a few jumps to learn to skydive!",
 "author":["crackedEgg"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -14476,7 +14451,7 @@
 },{
 
 "name":"Plant Mega Pack",
-"link":"http://j.mp/1u9jWMH",
+"link":"http://minecraft.curseforge.com/mc-mods/70748-plant-mega-pack",
 "desc":"Adds over 370 new plants, with a variety of real plants from around the world.",
 "author":["10paktimbits"],
 "type":["Universal"],
@@ -14518,17 +14493,17 @@
 },{
 
 "name":"Player API",
-"link":"http://j.mp/WnR9CL",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-1-8-api-player-api",
 "desc":"Player API gives third party mods managed access to the main player classes.",
 "author":["Divisor"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
-"versions":["1.7.10","1.7.2"]
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
 "name":"Player API",
-"link":"http://j.mp/WnR9CL",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277996-1-8-api-player-api",
 "desc":"Player API gives third party mods managed access to the main player classes.",
 "author":["Divisor"],
 "type":["Universal"],
@@ -15184,17 +15159,17 @@
 },{
 
 "name":"QuiverBow",
-"link":"http://j.mp/GAGjto",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292078-quiverbow-ranged-weaponry-thought-up-by-steve",
 "desc":"Adds a variety of (mostly) ranged weaponry.  Everything is invented from the perspective of Steve?, to keep it lore friendly and balanced (if such things can be said to exist).",
 "author":["Domochevsky"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
 "name":"RadarBro",
-"link":"http://j.mp/117W9Dg",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281579-1-7-2-radarbro-gui-mob-player-radar",
 "desc":"Displays the location of mobs, players and other entities on a configurable minimap.",
 "author":["Cali Alec"],
 "type":["Client"],
@@ -15204,7 +15179,7 @@
 },{
 
 "name":"RadarBro",
-"link":"http://j.mp/117W9Dg",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281579-1-7-2-radarbro-gui-mob-player-radar",
 "desc":"Displays the location of mobs, players and other entities on a configurable minimap.",
 "author":["Cali Alec"],
 "type":["Client"],
@@ -15525,7 +15500,7 @@
 },{
 
 "name":"Redstone Arsenal",
-"link":"http://j.mp/1qF9Kxo",
+"link":"http://minecraft.curseforge.com/mc-mods/70631-redstone-arsenal",
 "desc":"Adds tools and weaponry which harness the power of Redstone Flux, the energy system added by CoFH and Thermal Expansion.",
 "author":["TeamCoFH"],
 "type":["Universal"],
@@ -15536,7 +15511,7 @@
 
 "name":"Redstone Arsenal",
 "other":"(Beta)",
-"link":"http://j.mp/1qF9Kxo",
+"link":"http://minecraft.curseforge.com/mc-mods/70631-redstone-arsenal",
 "desc":"Adds tools and weaponry which harness the power of Redstone Flux, the energy system added by CoFH and Thermal Expansion.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
 "type":["Universal"],
@@ -15738,19 +15713,19 @@
 
 },{
 
-"name":"RemoteIO",
+"name":"Remote IO",
 "link":"http://j.mp/1l0xvO4",
 "desc":"Allows access to remote blocks over great distances via the Remote Interface, linking blocks to other blocks or to player inventories.",
 "author":["dmillerw"],
 "source":"https://github.com/dmillerw/RemoteIO",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
 "name":"Render Player API",
-"link":"http://j.mp/13U9b8y",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1283669-1-8-api-render-player-api",
 "desc":"Render Player API gives third party mods managed access to the player render classes",
 "author":["Divisor"],
 "type":["Universal"],
@@ -15760,22 +15735,22 @@
 },{
 
 "name":"Render Player API",
-"link":"http://j.mp/13U9b8y",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1283669-1-8-api-render-player-api",
 "desc":"Render Player API gives third party mods managed access to the player render classes",
 "author":["Divisor"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
 "name":"Reptile Mod",
-"link":"http://j.mp/TGjeZl",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276594-parachute-mod-reptile-mod-crackedzombies",
 "desc":"Adds various reptile mobs to the game.",
 "author":["crackedEgg"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -16317,7 +16292,7 @@
 },{
 
 "name":"SimpleOres",
-"link":"http://j.mp/U7gLWK",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279863-alexndrthegr8sts-mods-simplecore-api-simpleores",
 "desc":"Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no uber tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
@@ -16327,7 +16302,7 @@
 },{
 
 "name":"SimpleOres 2",
-"link":"http://j.mp/U7gLWK",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279863-alexndrthegr8sts-mods-simplecore-api-simpleores",
 "desc":"Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no uber tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
@@ -17798,6 +17773,17 @@
 
 },{
 
+"name":"TechnoMagi",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2201572-wip-technomagi-highly-advanced-technology-giving",
+"desc":"Encompasses the automation and features of a technology, with the progression and abilities of a magic.",
+"author":["ollieread"],
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","EnndsCore"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Telecrapht",
 "link":"http://j.mp/15hAyZ4",
 "desc":"Adds a block to view your Twitter feed and a command to post text and screenshots to Twitter.",
@@ -17912,6 +17898,16 @@
 
 },{
 
+"name":"Texture Pack on Main Menu",
+"link":"http://j.mp/YQZfbG",
+"desc":"Puts the texture packs button back onto the main menu.",
+"author":["bmanrules"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.5"]
+
+},{
+
 "name":"tgame-core",
 "other":"(Dependency)",
 "link":"http://j.mp/Z7G3Lv",
@@ -17920,16 +17916,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
-
-},{
-
-"name":"Texture Pack on Main Menu",
-"link":"http://j.mp/YQZfbG",
-"desc":"Puts the texture Packs button back onto the main menu.",
-"author":["bmanrules"],
-"type":["Client"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.5"]
 
 },{
 
@@ -17987,13 +17973,13 @@
 },{
 
 "name":"ThaumcraftGates",
-"link":"http://j.mp/1Bctg8r",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292852-thaumcraftgates-tc4-bc6-thaumium-pipes",
 "desc":"Adds interaction between BuildCraft and Thaumcraft using Thaumium Pipes.",
 "author":["ganymedes01"],
 "source":"https://github.com/ganymedes01/ThaumcraftGates",
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4","Buildcraft"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -18020,7 +18006,7 @@
 },{
 
 "name":"Thaumic Energistics",
-"link":"http://j.mp/W9pqxl",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics",
 "desc":"Bridges Thaumcraft and Applied Energistics through essentia management in storage, transportation, and application.",
 "author":["Nividica"],
 "source":"https://github.com/Nividica/ThaumicEnergistics",
@@ -18031,7 +18017,7 @@
 },{
 
 "name":"Thaumic Exploration",
-"link":"http://j.mp/1rLSqtA",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft",
 "desc":"Adds new enchantments, transmutation recipes, and a new wand rod, along with new blocks and items.",
 "author":["Flaxbeard"],
 "source":"https://github.com/Flaxbeard/Thaumic_Exploration",
@@ -18055,13 +18041,13 @@
 
 "name":"Thaumic Infusion",
 "other":"(Beta)",
-"link":"http://j.mp/1qpKlIz",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445452-tc4-add-on-thaumic-infusion-public-beta-is-out",
 "desc":"Allows alteration of the properties and purpose of a block through the use of Thaumcraft Aspects.",
 "author":["DrunkMafia"],
 "source":"https://github.com/TheDrunkMafia/ThaumicInfusion",
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -18077,7 +18063,7 @@
 },{
 
 "name":"Thaumic Tinkerer",
-"link":"http://j.mp/12L9teo",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 3. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii"],
 "source":"https://github.com/Thaumic-Tinkerer/ThaumicTinkerer",
@@ -18088,7 +18074,7 @@
 },{
 
 "name":"Thaumic Tinkerer",
-"link":"http://j.mp/12L9teo",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 4. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii","pixlepix","nekosune"],
 "source":"https://github.com/Thaumic-Tinkerer/ThaumicTinkerer",
@@ -18099,7 +18085,7 @@
 },{
 
 "name":"Thaumic Tinkerer",
-"link":"http://j.mp/12L9teo",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge",
 "desc":"A spiritual successor to Elemental Tinkerer, this is a mod about tinkering with thaumic creations. It's an addon to azanor's Thaumcraft 4. The intention is to add new, and useful items you can create, using the knowledge you've acquired from the vanilla thaumcraft research. Research that comes from this mod are prefixed as [TT] for easy labelling.",
 "author":["Vazkii","pixlepix","nekosune"],
 "source":"https://github.com/Thaumic-Tinkerer/ThaumicTinkerer",
@@ -18111,13 +18097,25 @@
 
 "name":"Thaumic Warden",
 "other":"(Beta)",
-"link":"http://j.mp/Wepko7",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445922-1-7-10-tc4addon-thaumic-warden-the-rise-of",
 "desc":"Adds more adventure and story to Thaumcraft by adding new items such as Warden armor and swords, and a Ring of Love.",
 "author":["MasterAbdoTGM50"],
 "source":"https://github.com/MasterAbdoTGM50/ThaumicWarden",
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"ttCore",
+"other":"(Dependency) (Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/226082-ttcore",
+"desc":"Core lib for tterrag1098's mods.",
+"author":["tterrag1098"],
+"source":"https://github.com/tterrag1098/ttCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18233,23 +18231,13 @@
 },{
 
 "name":"The Camping Mod",
-"link":"http://j.mp/YeKc9x",
-"desc":"Adds many items to the game themed towards camping. Like Tents, campfires, and camping bags as well as a new inventory for better crafting and item management.",
-"author":["RikMuld"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
-
-},{
-
-"name":"The Camping Mod 2.0",
-"link":"http://j.mp/1m1mCwv",
+"link":"http://www.rikmuld.com/",
 "desc":"Adds campfires, tents, backpacks and new food items, such as marshmallows and radishes.",
 "author":["RikMuld"],
 "source":"https://github.com/Rikmuld/CampingMod-mcmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -18344,12 +18332,12 @@
 },{
 
 "name":"The Erebus",
-"link":"http://j.mp/WXtIlL",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2244153-0-2pre11c-the-erebus-dimension-of-the-arthopods",
 "desc":"In the vast caverns that were hidden below the bedrock in Minecraftia, nothing could live. At least, that was what people thought. But the roots of life planted their seeds in this place too, growing a huge vibrant world, with nothing in it, animal-wise.Explorers of the ancient ancestors of both Steve and the Villagers, entered this wonderful world, by using the most advanced spells they had. They did it before with the Nether and the End, so why not this new realm?Not only the humans entered this new world, which was called the Erebus, \"the Underground\". Various bugs traveled with them, hidden in their skin and inventory.The explorers build beautiful buildings, from small villages to huge pyramids. But the bugs... the overdose of oxygen, caused by the plants producing so much air that couldn't go anywhere else, caused them to mutate into much larger forms.Unfortunatly, this meant the end for these explorers. The ones that weren't eaten by the arthropods traveled back to the Overworld, leaving behind the temples they created to access the Erebus.Now, there is a world with dangerous arthropods, long abandonded by any form of vertebrate life, ready to be explored.",
 "author":["Dylan4ever"],
-"type":["N/A"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.7.10","1.6.4","1.6.2"]
 
 },{
 
@@ -18374,7 +18362,7 @@
 },{
 
 "name":"The Farlanders",
-"link":"http://j.mp/W1Ul84",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286213-the-farlanders-v1-2b-bug-fixes",
 "desc":"Adds more creatures to the game allowing the player to have more choices to trade and more enemies to battle.",
 "author":["Fabiulu"],
 "type":["Universal"],
@@ -19089,7 +19077,7 @@
 
 "name":"TooManyItems",
 "other":"(TMI)",
-"link":"http://j.mp/1nKYOOY",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272385-toomanyitems-the-inventory-editor-and-more-1-8-is",
 "desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
 "author":["Marglyph"],
 "type":["Client"],
@@ -19100,7 +19088,7 @@
 
 "name":"TooManyItems",
 "other":"(TMI)",
-"link":"http://j.mp/1nKYOOY",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272385-toomanyitems-the-inventory-editor-and-more-1-8-is",
 "desc":"Create and enchant items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Switch game modes, test mods, create huge survival worlds, and more. Updated quickly!",
 "author":["Marglyph"],
 "type":["Client"],
@@ -19314,7 +19302,7 @@
 },{
 
 "name":"Transmute Liquids",
-"link":"http://j.mp/1A7W3IF",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104667-1-7-2-transmute-liquids-thaumcraft-4-add-on",
 "desc":"Adds crucible recipes for liquid containers, with support for Forestry Juice, Buildcraft Oil and Railcraft Creosote Oil.",
 "author":["MrPenguin01"],
 "source":"https://github.com/MrPenguin01/Transmute-Liquids",
@@ -19420,13 +19408,13 @@
 
 "name":"Truss Mod",
 "other":"(Beta)",
-"link":"http://j.mp/15B33OG",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1444477-truss-mod-rp2-style-frames",
 "desc":"Adds motors that can move blocks and frames that can form big moving constructions. Inspired by Eloraam's Red Power 2.",
 "author":["RainWarrior"],
 "source":"http://sourceforge.net/p/trussmod/code/ci/master/tree/",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -20140,18 +20128,18 @@
 
 "name":"Waila",
 "other":"(What Am I Looking At)",
-"link":"http://j.mp/1ejbq9m",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1",
 "desc":"An extension for NEI. Shows what mod an item is from, allowing you to easily group items per mod. Capable of showing the name of blocks and mods in-game on top of your screen, including internal information of specific blocks from BuildCraft and IndustrialCraft 2.",
 "author":["ProfMobius"],
 "source":"https://bitbucket.org/ProfMobius/waila",
 "type":["Client"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
 "name":"Waila NBT",
-"link":"http://j.mp/1pbhSlC",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2220567-waila-nbt-display-player-defined-specific-nbt-info",
 "desc":"Displays player defined specific NBT info on Waila.",
 "author":["exzhawk"],
 "source":"https://github.com/exzhawk/wailanbt",
@@ -20162,7 +20150,7 @@
 },{
 
 "name":"Waila Harvestability",
-"link":"http://j.mp/Z7KNko",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im",
 "desc":"Adds information to Waila tooltips about the harvestability information of a block.",
 "author":["squeek502"],
 "source":"https://github.com/squeek502/WailaHarvestability",
@@ -20172,9 +20160,20 @@
 
 },{
 
+"name":"WAILA Plugins",
+"link":"http://minecraft.curseforge.com/mc-mods/226119-waila-plugins",
+"desc":"Displays additional Waila information for many popular mods such as Blood Magic, Extra Utilities, and Forestry.",
+"author":["tterrag1098"],
+"source":"https://github.com/tterrag1098/WAILAPlugins",
+"type":["Client"],
+"dependencies":["Forge Required","Waila","ttCore"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"WAWLA",
 "other":"(What Are We Looking At)",
-"link":"http://j.mp/UY2yjs",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2169830-wawla-what-are-we-looking-at",
 "desc":"An extension for Waila and NEI, providing additional information and support for mods such as Pixelmon.",
 "author":["Darkhax"],
 "source":"https://github.com/Darkhax-Minecraft/WAWLA",
@@ -20185,12 +20184,12 @@
 },{
 
 "name":"CrackedZombies",
-"link":"http://j.mp/TGjeZl",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276594-parachute-mod-reptile-mod-crackedzombies",
 "desc":"Zombies in the daytime! Walkers are everywhere, be careful. The walkers will attack players, chickens and pigs. There are options in the config file to allow or disallow spawning of zombies, skeletons, creepers, spiders, slime, and endermen.",
 "author":["crackedEgg"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -20423,7 +20422,7 @@
 },{
 
 "name":"Wild Caves 3",
-"link":"http://j.mp/VVSHIm",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442430-1-6-x-forge-wildcaves-3-v0-4-3-3",
 "desc":"Adds stalactites, stalagmites, vines, glowing mushrooms and more to caves.",
 "author":["Alexmania"],
 "source":"https://github.com/AlexmaniaWardz/WildCaves3",
@@ -20434,7 +20433,7 @@
 },{
 
 "name":"Wild Caves 3",
-"link":"http://j.mp/1qfAipJ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287599-gotolink-updates-minecessity-09-12-14",
 "desc":"Adds stalactites, stalagmites, vines, glowing mushrooms and more to caves.",
 "author":["GotoLink"],
 "source":"https://github.com/GotoLink/WildCaves3",
@@ -20455,17 +20454,17 @@
 },{
 
 "name":"Wireless Redstone",
-"link":"http://j.mp/V2vnJ7",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1273821-1-4-7-wireless-redstone-v1-6-1",
 "desc":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
 "author":["ali4z"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5","1.4.2"]
 
 },{
 
 "name":"Wireless Redstone",
-"link":"http://j.mp/10w7dWr",
+"link":"http://slimevoid.net/wireless-redstone/",
 "desc":"Adds two new blocks to Minecraft; the Wireless Transmitter and the Wireless Receiver. These blocks allow you to transmit a redstone signal wirelessly.",
 "author":["Eurymachus","SlimeVoid"],
 "source":"https://github.com/SlimeVoid/WirelessRedstone",
@@ -20488,7 +20487,7 @@
 
 "name":"Witchery",
 "other":"(Beta)",
-"link":"http://j.mp/GMCMro",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-21-0",
 "desc":"Adds different magical elements such as curses, rituals and brewed potions through natural magic present in the world.",
 "author":["Emoniph"],
 "type":["Universal"],
@@ -20653,35 +20652,24 @@
 },{
 
 "name":"Xeno's Reliquary",
-"link":"http://j.mp/XRhcab",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary",
 "desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
-"author":["x3n0ph0b3"],
+"author":["x3n0ph0b3","TrainerGuy22"],
+"source":"https://github.com/TrainerGuy22/Reliquary",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.7.10","1.5.2"]
 
 },{
 
 "name":"Xeno's Reliquary",
-"link":"http://j.mp/1lnQ01r",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293185-v1-1-2-reliquary",
 "desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
 "author":["x3n0ph0b3","TrainerGuy22"],
 "source":"https://github.com/TrainerGuy22/Reliquary",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
-
-},{
-
-"name":"Xeno's Reliquary",
-"other":"(Unstable)",
-"link":"http://j.mp/1uBoUnd",
-"desc":"Adds miscellaneous magical items to the game that may go well with certain other mods.",
-"author":["x3n0ph0b3","TrainerGuy22"],
-"source":"https://github.com/TrainerGuy22/Reliquary",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
 
 },{
 
@@ -20726,7 +20714,7 @@
 },{
 
 "name":"XP Bank",
-"link":"http://j.mp/ZQkw34",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278085-1-4-7-xp-bank-v5-3-now-smp-again",
 "desc":"",
 "author":["teken"],
 "type":["SSP","SMP"],
@@ -20740,7 +20728,7 @@
 "desc":"Allows you to see through blocks, make everything look like daytime, and fly as if you were in creative mode.",
 "author":["AmbientOcclusion"],
 "type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
+"dependencies":["Forge Compatible","Base Edit"],
 "versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
@@ -20791,9 +20779,9 @@
 "link":"http://j.mp/VaWuOD",
 "desc":"",
 "author":["Themathe1"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.5.2","1.4.7"]
 
 },{
 
@@ -20801,7 +20789,7 @@
 "link":"http://j.mp/UvFpi3",
 "desc":"",
 "author":["Soaryn"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7","1.4.5"]
 
@@ -20829,7 +20817,7 @@
 
 "name":"Yet Another Backup Mod",
 "other":"(YABM)",
-"link":"http://j.mp/1lLo8Vt",
+"link":"http://www.curse.com/mc-mods/minecraft/223260-yetanotherbackupmod",
 "desc":"Automatically backups saves with configurable settings. Supports FTP backups.",
 "author":["szernex_"],
 "source":"https://github.com/szernex/YetAnotherBackupMod",
@@ -20841,7 +20829,7 @@
 
 "name":"Yet Another Food Mod",
 "other":"(YAFM)",
-"link":"http://j.mp/1cXpx44",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292539-1-7-10-1-7-2-1-6-4-forge-yafm-yet-another-food",
 "desc":"Adds a few more food items that felt like they were missing from the base game: Mutton (sheep), squid, and fried eggs.",
 "author":["AiryBreath","skidznet"],
 "source":"https://github.com/airbreather/YAFM",
@@ -20853,7 +20841,7 @@
 
 "name":"Yet Another Leather Smelting Mod",
 "other":"(YALSM)",
-"link":"http://j.mp/16N0vBP",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291947-1-7-10-1-7-2-1-6-4-forge-yalsm-yet-another",
 "desc":"Adds recipes to smelt rotten flesh into leather. Conversion ratio is 5x Rotten Flesh = 1x Leather.",
 "author":["AiryBreath","skidznet"],
 "source":"https://github.com/airbreather/YALSM",
@@ -21009,7 +20997,7 @@
 },{
 
 "name":"Ztech",
-"link":"http://j.mp/X4aReX",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10932",
 "desc":"Collection of the small outdated IC2 addons, such as Electric Fishing Pole, NuclearPan, SeedManager and NetworkAnchor.",
 "author":["Zuxelus"],
 "source":"https://bitbucket.org/Zuxelus/ic2_ztech/src",
@@ -21020,23 +21008,23 @@
 },{
 
 "name":"Zyin's HUD",
-"link":"http://j.mp/12nyMm0",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291893-zyins-hud",
 "desc":"Adds your coordinates, a compass, calculates distances, shows nearby players, shows unsafe areas, shows potion duration, eating helper, weapon swapper, an fps counter, displays horse stats, and dynamically displays your equipment that is at less than 10% durability.",
 "author":["Zyin055"],
 "source":"https://github.com/Zyin055/zyinhud",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
-"name":"ZZZZZ Custom Configs",
-"link":"http://j.mp/1m1kmFz",
+"name":"ZZZZZ Custom Configs 2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293069-zzzzz-custom-configs-2-create-your-own-recipes",
 "desc":"Adds a configuration file that allows the addition and removal of recipes, blocking mobs from spawning and more.",
 "author":["ganymedes01"],
 "source":"https://github.com/ganymedes01/ZZZZZ-Custom-Configs",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.7.10","1.7.2"]
 
 }]
