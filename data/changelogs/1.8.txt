@@ -1,3 +1,25 @@
+(December/25/2014)
+	+Added "Better Sprinting"
+	+Added "Craft++"
+	+Added "Click Mining Fix Fix"
+	+Added "Essence of the Gods"
+	+Added "Ruins"
+	+Added "Infernal Mobs"
+	+Added "Stalker Creepers"
+	+Added "Multi Mine"
+	+Added "Nearby Mob Finder"
+	+Added "Harder Peaceful"
+	+Added "Nether Eye"
+	+Added "Jelly Cubes"
+	+Added "Koi"
+	+Added "Slime Dungeons"
+	+Added "Pumpkin-less Snow Golem"
+	+Added "Simple Recipes"
+	+Added "Sildur's shaders"
+	+Added "Wood Converter"
+	+Added "PermissionForge": Currently in Alpha
+	+Added "Wood Converter"
+
 (December/24/2014)
 	+Added "AromaBackup"
 	+Added "Aroma1997Core"

@@ -1,3 +1,11 @@
+(December/25/2014)
+	+Added "Super Mario Mod"
+	+Added "Roxa's Straw Mod"
+	+Added "Roxa's Fuel Mod"
+	+Added "Roxa's Stone Stair Mod"
+	+Added "Travelling House Mod"
+	-Removed "Gliby's Voice Chat Mod": Download no longer available
+
 (December/24/2014)
 	+Added "Xtracraft"
 

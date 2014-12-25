@@ -1,3 +1,28 @@
+(December/25/2014)
+	*Updated "Flaxbeard's Steam Power" info
+	*Updated Ivorius's mods: added sources
+	*Updated "Ars Magica 2": Now in Beta
+	+Added "Star Wars Mod"
+	+Added "Rougelike Dungeons Mod"
+	+Added "Super Mario Mod"
+	+Added "Thaumcraft NEI Plugin"
+	+Added "Essence of the Gods"
+	+Added "Roxa's Straw Mod"
+	+Added "Roxa's Experience Gem Mod"
+	+Added "Roxa's Fuel Mod"
+	+Added "Roxa's Stone Stair Mod"
+	+Added "Roxa's Tall Doors Mod"
+	+Added "The Ice Cream Mod"
+	+Added "Custom Chest Loot"
+	+Added "Gliby's Voice Chat Mod"
+	+Added "More Health Enhanced"
+	+Added "Sildur's shaders"
+	+Added "Show Durability"
+	+Added "Show Durability 2"
+	+Added "Primitive Mobs"
+	+Added "Iron Chest Minecarts"
+	-Removed "Hat Stand": Merged into Hats mod
+
 (November/27/2014)
 	*Updated "ChickenShed"
 	*Updated "IronChests" author

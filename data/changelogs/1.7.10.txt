@@ -1,3 +1,62 @@
+(December/25/2014)
+	*Updated "Cheating Essentials" authors
+	*Updated "OreSpawn": No longer in Development
+	*Updated "Flaxbeard's Steam Power" info
+	*Updated Ivorius's mods: added sources
+	*Updated "Ars Magica 2": Now requires AnimationAPI
+	+Added "Additional Buildcraft Objects"
+	+Added "Additional Pipes"
+	+Added "Throwable Bricks Mod"
+	+Added "Magic Wand Mod"
+	+Added "Super Mario Mod"
+	+Added "Convenient Recipes"
+	+Added "sprinkles_for_vanilla"
+	+Added "Growable Ores"
+	+Added "DummyCore"
+	+Added "EssentialCraft 3"
+	+Added "Essential Thaumaturgy"
+	+Added "Additional Pipes"
+	+Added "SquidUtils"
+	+Added "Brewcraft"
+	+Added "Thaumic Machina"
+	+Added "Thaumcraft NEI Plugin"
+	+Added "Thaumic Revelations"
+	+Added "No Cubes"
+	+Added "Project E"
+	+Added "AFSU Mod"
+	+Added "AgriCraft"
+	+Added "Chisel 2": Continuation of Chisel by pokefenn
+	+Added "Chisel Facades"
+	+Added "Funky Locomotion"
+	+Added "Framez"
+	+Added "Essence of the Gods"
+	+Added "Resonant Induction"
+	+Added "IvToolkit"
+	+Added "Rougelike Dungeons Mod"
+	+Added "Roxa's Straw Mod"
+	+Added "Roxa's Experience Gem Mod"
+	+Added "Roxa's Fuel Mod"
+	+Added "Roxa's Stone Stair Mod"
+	+Added "Roxa's Tall Doors Mod"
+	+Added "The Ice Cream Mod"
+	+Added "MineChess"
+	+Added "Minesweeper Mod"
+	+Added "In-Game Wiki Mod"
+	+Added "In-Game NBTEdit"
+	+Added "Custom Chest Loot"
+	+Added "Still Hungry!"
+	+Added "Gliby's Voice Chat Mod"
+	+Added "More Health Enhanced"
+	+Added "Sildur's shaders"
+	+Added "Show Durability 2"
+	+Added "Extra Food"
+	+Added "Steve's Addons"
+	+Added "iBench"
+	+Added "Iron Chest Minecarts"
+	+Added "Traveller's Gear"
+	+Added "PermissionForge": Currently in Beta
+	-Removed "Hat Stand": Merged into Hats mod
+
 (December/24/2014)
 	*Updated "Big Reactors": Now in Alpha
 	*Updated "Electro-Magic Tools": No longer in Alpha
