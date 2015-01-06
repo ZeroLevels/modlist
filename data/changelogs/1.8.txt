@@ -1,4 +1,4 @@
-(December/25/2014)
+(January/06/2015)
 	+Added "Better Sprinting"
 	+Added "Craft++"
 	+Added "Click Mining Fix Fix"
