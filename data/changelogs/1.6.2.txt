@@ -1,3 +1,12 @@
+(January/06/2015)
+	+Added "Super Mario Mod"
+	+Added "Roxa's Straw Mod"
+	+Added "Roxa's Experience Gem Mod"
+	+Added "Roxa's Fuel Mod"
+	+Added "Roxa's Stone Stair Mod"
+	+Added "Roxa's Tall Doors Mod"
+	+Added "Show Durability 2"
+
 (December/24/2014)
 	+Added "The Erebus"
 	-Removed "ZZZZZ Custom Configs": Download no longer available

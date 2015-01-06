@@ -1,3 +1,9 @@
+(January/06/2015)
+	+Added "Super Mario Mod"
+	+Added "Roxa's Straw Mod"
+	+Added "Roxa's Fuel Mod"
+	+Added "Roxa's Stone Stair Mod"
+
 (November/27/2014)
 	*Updated "ChickenShed"
 

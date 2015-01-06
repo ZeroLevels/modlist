@@ -1,3 +1,20 @@
+(January/06/2015)
+	+Added "Star Wars Mod"
+	+Added "Super Mario Mod"
+	+Added "MattparksCore"
+	+Added "Thaumcraft NEI Plugin"
+	+Added "Project Bench"
+	+Added "Crafting Suite"
+	+Added "Rougelike Dungeons Mod"
+	+Added "Gliby's Voice Chat Mod"
+	+Added "Gulliver the Resizing Mod"
+	+Added "Sildur's shaders"
+	+Added "Show Durability"
+	+Added "Show Durability 2"
+	+Added "Travelling House Mod"
+	-Removed "Dungeon Crawler": Download no longer available
+	-Removed "Hat Stand": Merged into Hats mod
+
 (December/24/2014)
 	+Added "The Erebus"
 	+Added "Remote IO"
