@@ -1,3 +1,19 @@
+(January/07/2015)
+	*Updated "Gammabright": No longer in Beta
+	*Updated "Waila": No longer depend on NEI and CCC
+	+Added "Version Checker"
+	+Added "AWH Haggis Mod"
+	+Added "RenderCore"
+	+Added "Light Level Overlay Reloaded"
+	+Added "Whitelister"
+	+Added "Hopper Ducts"
+	+Added "Not Enough Items"
+	+Added "CodeChickenCore"
+	+Added "SlimeVoid Library": Currently in Beta
+	+Added "Wireless Redstone Core": Currently in Alpha
+	+Added "Plant Mega Pack": Currently in Beta
+	+Added "Not Enough Keys": Currently in Alpha
+
 (January/06/2015)
 	+Added "Better Sprinting"
 	+Added "Craft++"
