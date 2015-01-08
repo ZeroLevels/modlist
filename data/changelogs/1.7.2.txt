@@ -1,3 +1,12 @@
+(January/08/2015)
+	*Updated "Enhanced Biomes": added source
+	*Updated "Essence of the Gods": SSP only
+	+Added "AWH Haggis Mod"
+	+Added "Floatable Rails"
+	+Added "Bleach Mod"
+	+Added "Better Dungeons"
+	+Added "Thaumic Pipes": WIP only
+
 (January/06/2015)
 	*Updated "Flaxbeard's Steam Power" info
 	*Updated Ivorius's mods: added sources

@@ -1,3 +1,11 @@
+(January/08/2015)
+	*Updated "Aether II": added source
+	+Added "AWH Haggis Mod"
+	+Added "Floatable Rails"
+	+Added "Bleach Mod"
+	+Added "Thaumic Pipes"
+	+Added "Whitelister": Alpha only
+
 (January/06/2015)
 	+Added "Star Wars Mod"
 	+Added "Super Mario Mod"

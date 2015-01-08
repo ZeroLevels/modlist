@@ -1,3 +1,45 @@
+(January/08/2015)
+	*Updated "Essence of the Gods": SSP only
+	*Updated "Not Enough Keys" authors
+	*Updated "Archimedes' Ships": added source
+	*Updated "Balkon's WeaponMod": added source
+	*Updated "Enhanced Biomes": added source
+	*Updated "Blue Power": Now in Beta, requires QmunityLib
+	*Updated "Waila": No longer depend on NEI and CCC
+	*Updated "ICBM": source and link
+	*Updated "Natura": No longer in Alpha
+	+Added "Adventure Backpack Mod": Currently WIP
+	+Added "Armourer's Workshop": Currently in Alpha
+	+Added "Better Furnaces"
+	+Added "Creeper Species"
+	+Added "Freerunner's Mod"
+	+Added "InfiniBows"
+	+Added "Sword Pedestal"
+	+Added "Better Sand"
+	+Added "BurpTech"
+	+Added "Alarmcraft"
+	+Added "Brewing Cauldron"
+	+Added "More Deadly Mobs"
+	+Added "Zipline"
+	+Added "Light Level Overlay Reloaded"
+	+Added "AWH Haggis Mod"
+	+Added "QmunityLib": Currently in Beta
+	+Added "LittleBlocks"
+	+Added "SlimeVoid Library"
+	+Added "Floatable Rails"
+	+Added "Bleach Mod"
+	+Added "Jaffas and More!"
+	+Added "Rails of War": Currently WIP
+	+Added "Realistic Pain"
+	+Added "Thaumic Pipes": Currently WIP
+	+Added "OmnisCore"
+	+Added "Tall Doors"
+	+Added "Move Plus"
+	+Added "ZombieCraft 3": Currently in Beta
+	+Added "WorldEdit": Currently in Beta
+	+Added "Whitelister": Beta only
+	-Removed "Rei's Minimap": Download no longer available
+
 (January/06/2015)
 	*Updated "Cheating Essentials" authors
 	*Updated "OreSpawn": No longer in Development

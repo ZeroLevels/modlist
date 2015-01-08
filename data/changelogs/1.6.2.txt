@@ -1,3 +1,7 @@
+(January/08/2015)
+	+Added "Floatable Rails"
+	+Added "Bleach Mod"
+
 (January/06/2015)
 	+Added "Super Mario Mod"
 	+Added "Roxa's Straw Mod"
