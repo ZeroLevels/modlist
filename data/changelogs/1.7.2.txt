@@ -1,4 +1,4 @@
-(January/07/2015)
+(January/08/2015)
 	*Updated "Enhanced Biomes": added source
 	*Updated "Essence of the Gods": SSP only
 	+Added "AWH Haggis Mod"

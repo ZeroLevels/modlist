@@ -1416,7 +1416,7 @@
 
 "name":"AWH Haggis Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293159-awh-haggis-mod",
-"desc":"Desc needed.",
+"desc":"Adds Haggis and Sheep Stomach as new food items. Haggis can be crafted from sheep stomach, mutton and wheat.",
 "author":["UltimateDillon"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -2688,7 +2688,7 @@
 
 "name":"Brewing Cauldron",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287599-gotolink-updates-with-custom-dimensions-support#BrewingCauldron",
-"desc":"No information available about this mod.",
+"desc":"Adds a brewing cauldron.",
 "author":["GotoLink"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -6427,19 +6427,19 @@
 "name":"Essence of the Gods",
 "other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2274016-essence-of-the-gods-v1-8-beta-v4-christmas-update",
-"desc":"Missing description.",
+"desc":"Adds new dimensions such as Frozen Lands and Euca; an island in the sky. New dust, ingots and items can be used to form new tools.",
 "author":["The_SlayerMC"],
 "source":"https://github.com/TheSlayerMC/Essence",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8"]
 
 },{
 
 "name":"Essence of the Gods",
 "other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2274016-essence-of-the-gods-v1-8-beta-v4-christmas-update",
-"desc":"Missing description.",
+"desc":"Adds new dimensions such as Frozen Lands and Euca; an island in the sky. New dust, ingots and items can be used to form new tools.",
 "author":["The_SlayerMC"],
 "source":"https://github.com/TheSlayerMC/Essence",
 "type":["SSP"],
@@ -8401,7 +8401,7 @@
 
 "name":"Growable Ores",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289513-1-5-1-7-10-forge-b0bgarys-growable-ores-mod",
-"desc":"Missing description.",
+"desc":"Ores such as iron and redstone can be grown as reeds. Supports ores from other mods such as Forestry and Simple Ores.",
 "author":["B0bGary"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -17826,7 +17826,7 @@
 "name":"Steve's Addons",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/226067-steves-addons",
-"desc":"Missing description.",
+"desc":"Adds RF support for Inventory Managers from Steve's Carts 2, and enables program duplication using Manager Duplicators.",
 "author":["hilburn"],
 "source":"https://github.com/hilburn/StevesAddons",
 "type":["Universal"],
