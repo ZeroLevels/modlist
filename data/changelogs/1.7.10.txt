@@ -8,6 +8,9 @@
 	*Updated "Waila": No longer depend on NEI and CCC
 	*Updated "ICBM": source and link
 	*Updated "Natura": No longer in Alpha
+	*Updated "Custom Ore Generation: First Revival": added source
+	*Updated "Hardcore Darkness": added source
+	*Updated "CompactStorage": No longer in Beta
 	+Added "Adventure Backpack Mod": Currently WIP
 	+Added "Armourer's Workshop": Currently in Alpha
 	+Added "Better Furnaces"
@@ -38,6 +41,20 @@
 	+Added "ZombieCraft 3": Currently in Beta
 	+Added "WorldEdit": Currently in Beta
 	+Added "Whitelister": Beta only
+	+Added "Alice's Dolls (Touhou)"
+	+Added "Ancient Trees"
+	+Added "Biome Wand"
+	+Added "Camera Studio"
+	+Added "Color Blocks 2"
+	+Added "Combustable Lemon Launcher"
+	+Added "MooFluids"
+	+Added "Realistic World Gen"
+	+Added "More Crafting Recipes Mod"
+	+Added "Oceancraft"
+	+Added "Survival Wings"
+	+Added "PoorOres"
+	+Added "Old World Gen"
+	+Added "World Downloader"
 	-Removed "Rei's Minimap": Download no longer available
 
 (January/06/2015)
