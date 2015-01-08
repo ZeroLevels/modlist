@@ -3337,7 +3337,7 @@
 "name":"Chisel 2",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2254671-chisel-2-2-1-3",
 "desc":"Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
-"author":["pokefenn","asie","TheCricket26"],
+"author":["pokefenn","asie","TheCricket26","tterrag1098"],
 "source":"https://github.com/TheCricket/Chisel-2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
