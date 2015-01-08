@@ -1,12 +1,10 @@
-(January/09/2015)
-	*Updated "Custom Ore Generation: First Revival": added source
-	+Added "Old World Gen"
-
 (January/08/2015)
 	*Updated "Aether II": added source
+	*Updated "Custom Ore Generation: First Revival": added source
 	+Added "AWH Haggis Mod"
 	+Added "Floatable Rails"
 	+Added "Bleach Mod"
+	+Added "Old World Gen"
 	+Added "Thaumic Pipes"
 	+Added "Whitelister": Alpha only
 

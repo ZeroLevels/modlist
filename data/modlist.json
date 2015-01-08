@@ -21259,7 +21259,7 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285484-world-downloader-mod",
 "desc":"Saves active chunks in multiplayer servers so they can be played in single player.",
 "author":["cubic72"],
-"source":"https://github.com/dslake/WorldDownloader"
+"source":"https://github.com/dslake/WorldDownloader",
 "type":["Client"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
@@ -21270,7 +21270,7 @@
 "link":"https://github.com/dslake/WorldDownloader/releases",
 "desc":"Saves active chunks in multiplayer servers so they can be played in single player.",
 "author":["cubic72"],
-"source":"https://github.com/dslake/WorldDownloader"
+"source":"https://github.com/dslake/WorldDownloader",
 "type":["Client"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.10"]

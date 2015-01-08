@@ -1,12 +1,8 @@
 (January/08/2015)
 	*Updated "Dynmap": No longer in Alpha
 	*Updated "Hardcore Darkness": added source
-	+Added "Sound Filters"
-	+Added "Custom NPCs": Currently in Alpha
-
-(January/08/2015)
 	*Updated "Gammabright": No longer in Beta
-	*Updated "Waila": No longer depend on NEI and CCC
+	*Updated "Waila": No longer depends on NEI and CCC
 	+Added "Baubles"
 	+Added "Version Checker"
 	+Added "AWH Haggis Mod"
@@ -20,6 +16,8 @@
 	+Added "Wireless Redstone Core": Currently in Alpha
 	+Added "Plant Mega Pack": Currently in Beta
 	+Added "Not Enough Keys": Currently in Alpha
+	+Added "Sound Filters"
+	+Added "Custom NPCs": Currently in Alpha
 
 (January/06/2015)
 	+Added "Better Sprinting"
