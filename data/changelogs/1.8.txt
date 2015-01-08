@@ -1,4 +1,10 @@
 (January/08/2015)
+	*Updated "Dynmap": No longer in Alpha
+	*Updated "Hardcore Darkness": added source
+	+Added "Sound Filters"
+	+Added "Custom NPCs": Currently in Alpha
+
+(January/08/2015)
 	*Updated "Gammabright": No longer in Beta
 	*Updated "Waila": No longer depend on NEI and CCC
 	+Added "Baubles"

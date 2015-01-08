@@ -1,3 +1,22 @@
+(January/09/2015)
+	*Updated "Custom Ore Generation: First Revival": added source
+	*Updated "Hardcore Darkness": added source
+	*Updated "CompactStorage": No longer in Beta
+	+Added "Alice's Dolls (Touhou)"
+	+Added "Ancient Trees"
+	+Added "Biome Wand"
+	+Added "Camera Studio"
+	+Added "Color Blocks 2"
+	+Added "Combustable Lemon Launcher"
+	+Added "MooFluids"
+	+Added "Realistic World Gen"
+	+Added "More Crafting Recipes Mod"
+	+Added "Oceancraft"
+	+Added "Survival Wings"
+	+Added "PoorOres"
+	+Added "Old World Gen"
+	+Added "World Downloader"
+
 (January/08/2015)
 	*Updated "Essence of the Gods": SSP only
 	*Updated "Not Enough Keys" authors

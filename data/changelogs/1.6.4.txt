@@ -1,3 +1,7 @@
+(January/09/2015)
+	*Updated "Custom Ore Generation: First Revival": added source
+	+Added "Old World Gen"
+
 (January/08/2015)
 	*Updated "Aether II": added source
 	+Added "AWH Haggis Mod"

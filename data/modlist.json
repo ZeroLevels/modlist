@@ -151,7 +151,7 @@
 
 "name":"Advanced Fluxian Tools",
 "other":"(WIP)",
-"link":"http://j.mp/1CqxNpd",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091815-1-7-2-rf-wip-tech-advanced-fluxian-tools-expand",
 "desc":"Adds advanced tools and machinery such as Charge Platforms and Laser Drills.",
 "author":["tgame14"],
 "source":"https://github.com/tgame14/Advanced-Fluxian-Tools",
@@ -545,12 +545,12 @@
 },{
 
 "name":"Alice's Dolls (Touhou)",
-"link":"http://j.mp/14i4Uu9",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279264-1-7-x-touhou-alices-doll-mod",
 "desc":"Adds craftable dolls from the Touhou game series, with Artificial Intelligence that help with a variety of tasks.",
 "author":["iwa_yukinoshita"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -671,6 +671,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"Ancient Trees",
+"link":"https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md",
+"desc":"Adds thirteen species of extinct trees to the world.",
+"author":["ScottKillen"],
+"source":"https://github.com/MinecraftModArchive/Dendrology",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -1207,7 +1218,7 @@
 
 "name":"Alternate Terrain Generation",
 "other":"(ATG)",
-"link":"http://j.mp/1sSOMKn",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291067-atg-alternate-terrain-generation",
 "desc":"Adds a new world type which considers height, temperature, and moisture to derive biomes.",
 "author":["TTFTCUTS"],
 "type":["Universal"],
@@ -1362,7 +1373,7 @@
 },{
 
 "name":"Auto-shutdown",
-"link":"http://j.mp/12i4AZ1",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286946-1-7-2-auto-shutdown-0-7-0-forge-server",
 "desc":"This is a server-only mod used for automatic shutting down after specified time with no players online.",
 "author":["monnef"],
 "source":"https://github.com/mnn/AutoShutdown",
@@ -1570,7 +1581,7 @@
 },{
 
 "name":"BaM's Grave",
-"link":"http://j.mp/1imXj76",
+"link":"http://minecraft.curseforge.com/mc-mods/78876-bams-grave",
 "desc":"Currently maintained by MrIbby.  Instead of dropping your inventory on death, a grave will be dug in which lies a buried chest with your inventory and experience. The grave will be inscribed with your name and time of death. This helps to keep your things from getting lost or despawning.",
 "author":["MrIbby","DerBaM"],
 "type":["Universal"],
@@ -2112,7 +2123,7 @@
 },{
 
 "name":"Better Wood Mod",
-"link":"http://j.mp/17N0aRZ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1444569-1-7-2-1-6-1-5-universal-forge-wip-better-wood-mod",
 "desc":"Allows the type of wood you use to affect the color of the tool and items you craft.",
 "author":["SackCastellon"],
 "type":["Universal"],
@@ -2122,17 +2133,17 @@
 },{
 
 "name":"Better World Generation 3",
-"link":"http://j.mp/WmtfYF",
-"desc":"",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-rwg-owg-bwg4",
+"desc":"Adds many world generation options regarding previous versions of Minecraft as well as making Vanilla ones much more customizable.",
 "author":["ted80"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.4.7","1.4.5","1.3.2"]
+"versions":["1.4.7"]
 
 },{
 
 "name":"Better World Generation 4",
-"link":"http://j.mp/WmtfYF",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-rwg-owg-bwg4",
 "desc":"Adds many world generation options regarding previous versions of Minecraft as well as making Vanilla ones much more customizable.",
 "author":["ted80"],
 "type":["Universal"],
@@ -2256,7 +2267,7 @@
 },{
 
 "name":"Biomes O' Plenty",
-"link":"http://j.mp/106hnC2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more",
 "desc":"A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.",
 "author":["TDWP_FTW","ted80","Amnet","Adubbz"],
 "source":"https://github.com/BiomesOPlenty/BiomesOPlenty",
@@ -2268,7 +2279,7 @@
 
 "name":"Biomes O' Plenty",
 "other":"(Unstable)",
-"link":"http://j.mp/106hnC2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more",
 "desc":"A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.",
 "author":["TDWP_FTW","ted80","Amnet","Adubbz"],
 "source":"https://github.com/BiomesOPlenty/BiomesOPlenty",
@@ -2291,12 +2302,12 @@
 },{
 
 "name":"Biome Wand",
-"link":"http://j.mp/GIkO9W",
+"link":"http://spacechase0.com/minecraft/mods/biome-wand/",
 "desc":"Adds a wand that lets you change a small area of land into a different biome. You must first sample a biome before it's usable.",
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5","1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5","1.4.7"]
 
 },{
 
@@ -2412,7 +2423,7 @@
 },{
 
 "name":"BlockPlacer",
-"link":"http://j.mp/1iH7xxe",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294412-1-6-2-1-6-4-1-7-2-forge-client-blockplacer-1-0-1",
 "desc":"A utility that gives the player control over which side of the target block the held block is placed against. Designed to be small, low footprint and unobtrusive until needed.",
 "author":["MudRaker"],
 "type":["Client"],
@@ -2834,7 +2845,7 @@
 },{
 
 "name":"Builder's Dream",
-"link":"http://j.mp/1cseXEv",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294096-builders-dream-survival-flying-un-crafting-walk-up",
 "desc":"Allows you to fly in survival at the cost of draining your XP. Gives easy access to the EnderChest inventory, allows de-crafting into materials, increased stack sizes and more.",
 "author":["Lothrazar"],
 "source":"https://github.com/PrinceOfAmber/BuildersDream_Minecraft",
@@ -2927,17 +2938,17 @@
 },{
 
 "name":"Camera Studio",
-"link":"http://j.mp/UCnV5m",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280280-camera-studio-v2-1710-standalone-modloader-forge",
 "desc":"A mod for recording timeplapses without the need of another player.",
 "author":["Sushen"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
 "name":"Camo Lights Mod",
-"link":"http://j.mp/ZB4EWR",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284560-1-7-2-camo-lights-mod-v-3-8-glowing-blocks",
 "desc":"Allows you to craft blocks with glowstone to make glowing blocks.",
 "author":["Phobophobe"],
 "type":["Universal"],
@@ -3220,7 +3231,7 @@
 },{
 
 "name":"Cheating Essentials",
-"link":"http://j.mp/1h9JY1V",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293889-cheating-essentials-1-4-ssp-cheating-as-never-seen",
 "desc":"Allows the player to cheat with Fly, X-ray and other cheat tools. Continuation of Kodehawa's Cheating Essentials.",
 "author":["godshawk"],
 "type":["Client"],
@@ -3727,7 +3738,7 @@
 },{
 
 "name":"Collaborative Mod",
-"link":"http://j.mp/1gVTmVi",
+"link":"http://slimevoid.net/the-collaborative-mod/",
 "desc":"Re-invents the Project Table from RedPower into a Collaborative Workbench with shareable Plans.",
 "author":["Eurymachus","SlimeVoid"],
 "source":"https://github.com/SlimeVoid/CollaborativeMod",
@@ -3737,13 +3748,13 @@
 
 },{
 
-"name":"ColorBlocks",
-"link":"http://j.mp/1jmxfaQ",
+"name":"Color Blocks 2",
+"link":"http://www.planetminecraft.com/mod/color-blocks/",
 "desc":"Adds blast-resistant decorative blocks that emit light. Useful for pixel art.",
 "author":["KeeperofMee"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -3849,13 +3860,13 @@
 },{
 
 "name":"Combustable Lemon Launcher",
-"link":"http://j.mp/174msbk",
+"link":"http://minecraft.curseforge.com/mc-mods/62429-combustible-lemon-launcher",
 "desc":"Adds a combustible lemon launcher (a 3D-Model designed by me in Blender) and (of course) lemons. You can bind your shooting-key in the controls to whatever key you like.",
 "author":["iBuilder99"],
 "source":"https://github.com/iBuilder99/Combustible-Lemon-Launcher",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -3909,18 +3920,6 @@
 
 },{
 
-"name":"CompactChests",
-"other":"(Beta)",
-"link":"http://j.mp/1nIoya1",
-"desc":"Adds different tiers of chests with increased inventory space.",
-"author":["tattyseal"],
-"source":"https://github.com/tattyseal/CompactChests",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
 "name":"Compact Crafting",
 "link":"http://j.mp/ZgsLaY",
 "desc":"Allows you to compact items and other blocks into Compact Blocks, making it much easier for you to carry things in your inventory!",
@@ -3932,7 +3931,7 @@
 },{
 
 "name":"Compact Display HUD",
-"link":"http://j.mp/Rm87XP",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292294-compact-display-hud-1-0-2-first-release",
 "desc":"Based on the style of TukMC with mods like Ars Magica and Damage Indicators in mind.",
 "author":["maxpowa"],
 "type":["Client"],
@@ -3942,7 +3941,7 @@
 },{
 
 "name":"Compact Mobs",
-"link":"http://j.mp/VMx3D4",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286616-1-5-2-buildcraft-compact-mobs-v1-4-1-buildcraft",
 "desc":"An addon that allows you to compress mobs into items.",
 "author":["itsZN"],
 "source":"https://github.com/itsZN/CompactMobs",
@@ -3970,6 +3969,17 @@
 "source":"https://github.com/progwml6/compactsolars",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"CompactStorage",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2193326-compactstorage-updated-02-01-2015-10000-downloads",
+"desc":"Adds different tiers of chests with increased inventory space.",
+"author":["tattyseal"],
+"source":"https://github.com/tattyseal/CompactStorage",
+"type":["Universal"],
+"dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
 
 },{
@@ -4037,7 +4047,7 @@
 },{
 
 "name":"ComputerCraft",
-"link":"http://j.mp/13aWXXd",
+"link":"http://www.computercraft.info/",
 "desc":"ComputerCraft adds programmable computers and robots.",
 "author":["dan200"],
 "type":["Universal"],
@@ -4047,7 +4057,7 @@
 },{
 
 "name":"Computronics",
-"link":"http://j.mp/1n6kgrJ",
+"link":"http://mc.shinonome.ch/doku.php?id=wiki:computronics",
 "desc":"Adds computer peripherals such as tape drives, cameras, cipher blocks and radars. Compatible with ComputerCraft and OpenComputers.",
 "author":["asie"],
 "source":"https://github.com/asiekierka/computronics",
@@ -4068,7 +4078,7 @@
 },{
 
 "name":"Condensed Potions",
-"link":"http://j.mp/19vtnkK",
+"link":"http://spacechase0.com/minecraft/mods/condensed-potions/",
 "desc":"Lets you condense 9 potions into a single one using a similar recipe to metal storage blocks.  Nine of the same potions in a crafting table will give you a single.  Depending on the type, this will also return the 9 bottles once you've used all 9 sips of the potion.",
 "author":["spacechase0"],
 "type":["Universal"],
@@ -4098,7 +4108,7 @@
 },{
 
 "name":"Construction Mod",
-"link":"http://j.mp/1hpEYGr",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292698-mrcrayfishs-construction-mod-v1-1-a-o-e-inspired",
 "desc":"Adds construction tools such as blueprints, planning tables, construction blocks and hammers.",
 "author":["Mr_Crayfish"],
 "type":["Universal"],
@@ -4295,7 +4305,7 @@
 },{
 
 "name":"Craftable End Portal",
-"link":"http://j.mp/1ebz2Ks",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287040-1-7-2-forge-universal-craftable-end-portal-cep",
 "desc":"Adds the ability to craft End Portal Frames.  Configurable normal and hard mode versions.",
 "author":["navybofus"],
 "type":["Universal"],
@@ -4700,7 +4710,7 @@
 },{
 
 "name":"Custom-Branding",
-"link":"http://j.mp/1dsHQ0K",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292860-1-7-2-forge-open-sourced-darkhaxs-custom",
 "desc":"Part of Darkhax's Custom Collection mods. A small mod that allows branding customization of the Minecraft main menu. Supports Minecraft formatting codes.",
 "author":["Darkhax"],
 "source":"https://github.com/Darkhax-Minecraft/Custom-Collection",
@@ -4753,7 +4763,7 @@
 },{
 
 "name":"Custom Lan Port Mod",
-"link":"http://j.mp/TGjnfh",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286897-custom-lan-mod-lan-at-your-fingertips-now-updated",
 "desc":"Allows for you to enter a custom port, IP, and MOTD for LAN!",
 "author":["CptHunter"],
 "type":["Client"],
@@ -4783,7 +4793,7 @@
 },{
 
 "name":"Custom Mob Spawner",
-"link":"http://j.mp/1Cm1iaQ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286897-custom-lan-mod-lan-at-your-fingertips-now-updated",
 "desc":"Provides random mob spawning behavior from pre-Beta 1.8 for other mods, with individual spawning lists per mod.",
 "author":["DrZhark"],
 "type":["Universal"],
@@ -4793,7 +4803,7 @@
 },{
 
 "name":"Custom Mob Spawner",
-"link":"http://j.mp/1u12ii1",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272337-mo-creatures-v6-2-1-with-ents-and-moles",
 "desc":"Provides random mob spawning behavior from pre-Beta 1.8 for other mods, with individual spawning lists per mod.",
 "author":["DrZhark"],
 "type":["Universal"],
@@ -4813,7 +4823,7 @@
 },{
 
 "name":"Custom NPCs",
-"link":"http://j.mp/ZwE4Os",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs",
 "desc":"This mod adds a set of tools to create npcs with different roles/jobs and other functions. It gives Creative Players a way to liven up their world with fully Customizable NPCs.",
 "author":["Noppes"],
 "type":["Universal"],
@@ -4822,8 +4832,19 @@
 
 },{
 
+"name":"Custom NPCs",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs",
+"desc":"This mod adds a set of tools to create npcs with different roles/jobs and other functions. It gives Creative Players a way to liven up their world with fully Customizable NPCs.",
+"author":["Noppes"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Custom Ore Generation",
-"link":"http://j.mp/VK0oyF",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282294-1-4-6-v2-custom-ore-generation-updated-jan-5th",
 "desc":"Allows the player to decide what ores are generated in their worlds and how they are distributed.  In addition to the vanilla \"cluster\" distribution it offers custom-written \"vein\" and \"cloud\" distributions.",
 "author":["JRoush"],
 "type":["SSP","SMP"],
@@ -4832,9 +4853,10 @@
 
 },{
 "name":"Custom Ore Generation: First Revival",
-"link":"http://j.mp/1lnLEay",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291128-custom-ore-generation-first-revival",
 "desc":"Allows the player to decide what ores are generated in their worlds and how they are distributed.  In addition to the vanilla \"cluster\" distribution it offers custom-written \"vein\" and \"cloud\" distributions.",
 "author":["noogenesis"],
+"source":"https://github.com/lawremi/CustomOreGen",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.6.4"]
@@ -5015,7 +5037,7 @@
 },{
 
 "name":"DayZ",
-"link":"http://j.mp/1diNcMg",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290149-1-2-5-1-7-2-forge-dayz-minecraft-100000-downloads",
 "desc":"Based on the original DayZ mod for ARMA 2. Adds a new world type to play, with new biomes, zombie mobs, effects and more.",
 "author":["HoBoS_TaCo"],
 "source":"https://github.com/DayZ-Minecraft/DayZ-Minecraft",
@@ -5693,19 +5715,7 @@
 "source":"https://github.com/webbukkit/DynmapForge",
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
-
-},{
-
-"name":"Dynmap",
-"other":"(Alpha)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286593-dynmap-dynamic-web-based-maps-for-minecraft",
-"desc":"Real-time Minecraft maps: Dynmap provides an in-browser map, like Google Maps, of your Minecraft world. It updates the map in realtime while you have your browser opened and shows the current players, regions and in-game messages on top of the map. It also allows viewers of the map to chat from within their browser with players in-game.",
-"author":["mikeprimm"],
-"source":"https://github.com/webbukkit/DynmapForge",
-"type":["Server"],
-"dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -5970,7 +5980,7 @@
 },{
 
 "name":"EmeraldMod",
-"link":"http://j.mp/1cRMrqB",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292502-emerald-mod-dimension-mobs-weapons-items",
 "desc":"Adds an emerald dimension and emerald mobs, tools and armor.",
 "author":["Hackbaellchen"],
 "type":["Universal"],
@@ -6189,7 +6199,7 @@
 },{
 
 "name":"EnderTanks",
-"link":"http://j.mp/11aPDJF",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287707-1-7-2-smp-forge-endertanks-ecu-approved",
 "desc":"Adds EnderTanks and EnderBuckets for storing and accessing liquids across dimensions.",
 "author":["ShetiPhian"],
 "type":["Universal"],
@@ -6532,7 +6542,7 @@
 },{
 
 "name":"Everlasting Tools",
-"link":"http://j.mp/15iwDMW",
+"link":"http://spacechase0.com/minecraft/mods/everlasting-tools/",
 "desc":"Adds an expensive enchantment that can be crafted onto a tool to give it infinite durability. Once created, it will no longer be capable of upgrades via the anvil aside from renaming, so enchant it to your liking before-hand.",
 "author":["spacechase0"],
 "type":["Universal"],
@@ -6845,7 +6855,7 @@
 },{
 
 "name":"Extra Diamonds Mod",
-"link":"http://j.mp/1si9ckn",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292424-1-6-4-1-7-2-forge-extra-diamond-mod-3-0-0",
 "desc":"Adds diamonds of different colors to the game.",
 "author":["abqzach3"],
 "type":["Universal"],
@@ -6916,7 +6926,7 @@
 },{
 
 "name":"Extra Uses",
-"link":"http://j.mp/1kBUlNw",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293462-1-7-2-extra-uses-0-9-machines-tools-foodstuffs",
 "desc":"Adds simple features to Minecraft to help players craft normally uncraftable things, and also adds new items and blocks.",
 "author":["LTLightning"],
 "type":["Universal"],
@@ -6956,7 +6966,7 @@
 },{
 
 "name":"Extreme Farming",
-"link":"http://j.mp/1douJOL",
+"link":"http://minecraft.carystanley.com/minecraft-extremefarming-mod/",
 "desc":"Adds TNT variants based on crops.  Explosions cause no landscape damage, but plant their respective crops.",
 "author":["carystanley"],
 "type":["SSP","LAN"],
@@ -7997,7 +8007,7 @@
 },{
 
 "name":"Gels+",
-"link":"http://j.mp/1ityuXD",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294243-1-7-2-1-6-x-gels-another-portal-gels-mod",
 "desc":"Adds Propulsion and Repulsion gels from Portal 2. Allows other mods to register custom gels.",
 "author":["Lomeli12"],
 "source":"https://github.com/Lomeli12/GelsPlus",
@@ -8441,7 +8451,7 @@
 },{
 
 "name":"GuiLib",
-"link":"http://j.mp/1hmEr5f",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290701-davidees-gui-library-create-better-guis-updated",
 "desc":"A library that allows modders to create more advanced GUIs through the use of Containers.  While it is not as powerful as <a href=\"http://j.mp/TGlcZA\">GuiAPI</a>, creating a GUI is done in a vanilla-style way and thus is very easy to do.",
 "author":["Davidee"],
 "source":"https://github.com/DavidGoldman/GuiLib",
@@ -8506,6 +8516,7 @@
 "link":"http://minecraft.curseforge.com/mc-mods/225957-hardcore-darkness",
 "desc":"Decreases light levels to near-complete darkness in unlit caves and at night.",
 "author":["Lumien"],
+"source":"https://github.com/lumien231/Hardcore-Darkness",
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10"]
@@ -8513,7 +8524,7 @@
 },{
 
 "name":"Hardcore Ender Expansion",
-"link":"http://j.mp/10L8JDl",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-7-170-000-dls",
 "desc":"Adds new content in the End such as Dragon Lairs, Ender Guardians and Ghost Amulets.",
 "author":["chylex"],
 "type":["Universal"],
@@ -8524,10 +8535,10 @@
 
 "name":"Hardcore Ender Expansion",
 "other":"(Beta)",
-"link":"http://j.mp/10L8JDl",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-7-170-000-dls",
 "desc":"Makes the enderdragon fight much more challenging, giving it improved AI and abilities.",
 "author":["chylex"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1","1.4.7"]
 
@@ -11004,7 +11015,7 @@
 },{
 
 "name":"MapWriter Minimap Mod",
-"link":"http://j.mp/13duyig",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286882-mapwriter-an-open-source-mini-map",
 "desc":"Integrates a minimap which also shows locations that have been previously visited.",
 "author":["mapwriter"],
 "source":"https://github.com/daveyliam/mapwriter",
@@ -11015,7 +11026,7 @@
 },{
 
 "name":"MapWriter Minimap Mod",
-"link":"http://j.mp/1qAejIt",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286882-mapwriter-an-open-source-mini-map?page=43#c855",
 "desc":"A minimap mod that not only shows your surroundings, but everywhere you've been. Unofficial port of mapwriter's MapWriter.",
 "author":["mapwriter"],
 "source":"https://github.com/daveyliam/mapwriter",
@@ -11046,7 +11057,7 @@
 },{
 
 "name":"Mariculture",
-"link":"http://j.mp/1qAcFGI",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292346-mariculture-1-2-4a-updated-07-01-2015-working-on-2",
 "desc":"Adds ocean terrain generation with coral and kelp, and various types of fishing rods. Implements fish breeding, enchantable jewelry and more.",
 "author":["joshie"],
 "source":"https://github.com/joshiejack/Mariculture",
@@ -11058,7 +11069,7 @@
 
 "name":"Mariculture",
 "other":"(Beta)",
-"link":"http://j.mp/1qAcFGI",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292346-mariculture-1-2-4a-updated-07-01-2015-working-on-2",
 "desc":"Adds ocean terrain generation with coral and kelp, and various types of fishing rods. Implements fish breeding, enchantable jewelry and more.",
 "author":["joshie"],
 "source":"https://github.com/joshiejack/Mariculture",
@@ -12492,12 +12503,12 @@
 },{
 
 "name":"MooFluids",
-"link":"http://j.mp/1nVOOzy",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293081-moofluids-cows-for-any-fluid",
 "desc":"Adds new types of cows for any fluid, including those from other mods.",
 "author":["TheRoBrit"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -12572,12 +12583,12 @@
 },{
 
 "name":"More Crafting Recipes Mod",
-"link":"http://j.mp/1nVWqlD",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292743-more-crafting-recipes-mod",
 "desc":"Adds more crafting recipes for things that are normally not craftable, such as creative-only blocks and items.",
 "author":["Manslaughter777"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -14091,17 +14102,28 @@
 },{
 
 "name":"Oceancraft",
-"link":"http://j.mp/1nDnXYX",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292144-oceancraft-mod-with-whales-sharks-crabs-and-more-1",
 "desc":"There is it finally, the new version of Oceancraft. This version adds\r\na lot more Mobs, Block's, Items and even beautiful world generatons\r\nlike Shell's SeaWeeds or PillarHouses!\r\nYou can even catch the Creatures with your FishingNet and put\r\nthem in your aquarium, You can Defeat the Cannibals or dive for oysters!",
 "author":["thomassu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.5.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
+
+},{
+
+"name":"Old World Gen",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-rwg-owg-bwg4",
+"desc":"Adds world gen from the old Minecraft versions.",
+"author":["ted80"],
+"source":"https://github.com/Ted80-Minecraft-Mods/Old-World-Gen",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
 "name":"OliveCraft",
-"link":"http://j.mp/OWODIp",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294136-joserichis-mods",
 "desc":"Adds olive trees, rods to obtain olive oil, new crafting recipes, a kitchen block, and more.",
 "author":["Joserichi"],
 "source":"https://github.com/Joserichi/OliveCraft",
@@ -14317,7 +14339,7 @@
 },{
 
 "name":"Oresmod",
-"link":"http://j.mp/1m1iM6D",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293607-1-7-2-forge-mp-sp-lan-oresmod-v2-1-new-ores-and",
 "desc":"Adds ores, tools, swords, armors out of Cobalt, Copper, Tin, Silver, Titan, Bronze, Lead and Thorium.",
 "author":["CaveChild"],
 "type":["Universal"],
@@ -14923,7 +14945,7 @@
 },{
 
 "name":"Podzol to Diamonds",
-"link":"http://j.mp/1i0A9Qu",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292461-1-7-2-podzol-to-diamonds-almost-first-1-7-mod",
 "desc":"Adds the ability to craft podzol into diamonds and vice versa. Dirt can also be crafted into diamonds.",
 "author":["immibis"],
 "type":["SSP"],
@@ -14933,7 +14955,7 @@
 },{
 
 "name":"Pointless Button Mod",
-"link":"http://j.mp/19T2vXv",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/mods-discussion/1406873-a-1-7-2-mod",
 "desc":"If you ever wanted a pointless button in your pause menu, this adds exactly that.",
 "author":["Clellan2451"],
 "type":["Client"],
@@ -14953,7 +14975,7 @@
 },{
 
 "name":"PokeRadar",
-"link":"http://j.mp/YiTHuu",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292572-pokeradar-for-pixelmon-1-7-2-3-1-4",
 "desc":"Detects nearby Pokemon on minimaps, identifying legendaries and shiny Pokemon.",
 "author":["ChunkBin"],
 "type":["Universal"],
@@ -14964,11 +14986,22 @@
 
 "name":"Poop",
 "link":"http://j.mp/WrhgtF",
-"desc":"Adds poop-related items into Minecraft.<br/><br/>. . . -sigh- . . .",
+"desc":"Adds poop-related items into Minecraft.",
 "author":["Tominator1"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"PoorOres",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2223889-poorores",
+"desc":"Adds customizable poor ores to worldgen. Inspired by the RWTema's DenseOres and by the Railcraft's poor ores.",
+"author":["Vexrath"],
+"source":"https://github.com/Xexanos/PoorOres",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -15322,9 +15355,10 @@
 },{
 
 "name":"Project Zulu: Better Overworld",
-"link":"http://j.mp/18CdPZD",
+"link":"http://projectzulu.blogspot.ca/p/project-zulu.html",
 "desc":"Attempts to add flavor to minecraft by adding unique mobs, blocks, and structures to each Minecraft Biome.",
 "author":["Crudedragos"],
+"source":"https://github.com/ProjectZulu/Project-Zulu",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
@@ -15332,9 +15366,10 @@
 },{
 
 "name":"Project Zulu: Better Overworld",
-"link":"http://j.mp/1wG2iDr",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2185602-better-overworld-project-zulu-1-7-10-mobs-blocks",
 "desc":"Attempts to add flavor to minecraft by adding unique mobs, blocks, and structures to each Minecraft Biome.",
 "author":["soultek101"],
+"source":"https://github.com/soultek101/projectzulu1.7.10",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
@@ -15697,6 +15732,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Realistic World Gen",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-rwg-owg-bwg4",
+"desc":"Adds a realistic world gen type to the game.",
+"author":["ted80"],
+"source":"https://github.com/Ted80-Minecraft-Mods/Realistic-World-Gen",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17389,12 +17435,12 @@
 },{
 
 "name":"Sound Filters",
-"link":"http://j.mp/1pwM6EA",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2158080-sound-filters-a-client-side-mod-adds-reverb-to",
 "desc":"Filters sounds with enhancements such as reverbs in caves, muted sounds in water and lava, and muted sounds behind walls.",
 "author":["Tmtravlr"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -18123,17 +18169,17 @@
 },{
 
 "name":"Survival Wings",
-"link":"http://j.mp/19vswR0",
+"link":"http://spacechase0.com/minecraft/mods/survival-wings/",
 "desc":"Adds degradeable sets of wings that can be crafted in Survival mode that let you fly.",
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
 "name":"Sweet Tea!",
-"link":"http://j.mp/1kTEeao",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289008-1-7-2-forge-universal-sweet-tea-mod-smp-tested",
 "desc":"Adds a Tea Plant, with the additional ability to create cups and brew tea.",
 "author":["navybofus"],
 "type":["Universal"],
@@ -19097,7 +19143,7 @@
 },{
 
 "name":"The Miner's Friend",
-"link":"http://j.mp/1gVWznR",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294509-1-7-2-the-miners-friend-v0-1-0-2-a-helpful-mod",
 "desc":"Adds new tools and features, such as Tool Belts and Utility Belts.",
 "author":["Eurymachus","SlimeVoid"],
 "source":"https://github.com/SlimeVoid/TheMinersFriend",
@@ -19211,7 +19257,7 @@
 },{
 
 "name":"The Resident Evil Mod",
-"link":"http://j.mp/YC10ax",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287846-the-resident-evil-mod-v1-1-0-new-mobs-blocks-and",
 "desc":"Adds much content based on the Resident Evil franchise of videogames.",
 "author":["LiamR99"],
 "type":["SSP"],
@@ -19648,7 +19694,7 @@
 },{
 
 "name":"Too Many Biomes",
-"link":"http://j.mp/OWKunC",
+"link":"http://minecraft.curseforge.com/mc-mods/60045-too-many-biomes",
 "desc":"Adds new biomes, mobs, blocks and plants. Rewrite of vanilla village and structure generation, and new villagers to trade with.",
 "author":["fabricator77"],
 "type":["Universal"],
@@ -19658,7 +19704,7 @@
 },{
 
 "name":"Too Many God Damn Ores!",
-"link":"http://j.mp/1mepi4J",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294853-1-7-2-forge-toomanygoddamnores-ore-dictionary",
 "desc":"Combines redundant ores from other mods by modifying ore drops. Different kinds of copper ores will only return 1 type when mined. Uses a configuration file to control exclusions and replacements.",
 "author":["ollieread"],
 "source":"https://github.com/ollieread/TooManyGodDamnOres",
@@ -19805,7 +19851,7 @@
 },{
 
 "name":"Toxic Rain",
-"link":"http://j.mp/GImEHT",
+"link":"http://spacechase0.com/minecraft/mods/toxic-rain/",
 "desc":"Makes vanilla rain poisonous.",
 "author":["spacechase0"],
 "type":["Universal"],
@@ -20146,7 +20192,7 @@
 },{
 
 "name":"Ultimate Tools",
-"link":"http://j.mp/108y7sm",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282276-ultimate-tools-1-12-0-2",
 "desc":"Adds a few new craftable Tools to Minecraft, the Paxe, the Povel, the Shaxe and the Ultimate. They are combinations of Shovel Pickaxe and Axe. You can do everything you could do with the part Tools with it. Harvest levels still apply (as in, iron still can't harvest obsidian).",
 "author":["Umbrosus"],
 "type":["Universal"],
@@ -20563,7 +20609,7 @@
 },{
 
 "name":"VeinMiner",
-"link":"http://j.mp/1moK8zk",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292260-1-5-x-1-6-x-vein-miner-quickly-mine-veins-of-ore",
 "desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
 "author":["portablejim"],
 "source":"https://github.com/portablejim/VeinMiner",
@@ -20575,7 +20621,7 @@
 
 "name":"VeinMiner",
 "other":"(Beta)",
-"link":"http://j.mp/1moK8zk",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292260-1-5-x-1-6-x-vein-miner-quickly-mine-veins-of-ore",
 "desc":"Helps mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end.",
 "author":["portablejim"],
 "source":"https://github.com/portablejim/VeinMiner",
@@ -20647,7 +20693,7 @@
 },{
 
 "name":"Villagers Need Emeralds",
-"link":"http://j.mp/1cRLIFN",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294071-1-7-2-vnm-villagers-need-emeralds-updated",
 "desc":"Makes all villagers in the world LOVE emeralds and follow you if you're holding some.  They'll also pick up any emeralds from the floor, so be careful!",
 "author":["anti_344"],
 "type":["Universal"],
@@ -20667,7 +20713,7 @@
 },{
 
 "name":"Village Taverns Updated",
-"link":"http://j.mp/MpdYcz",
+"link":"http://minecraft.curseforge.com/mc-mods/70482-village-taverns-updated",
 "desc":"Adds taverns and other craft and business type buildings, along with new villager types to populate those and offer unique trades.",
 "author":["AngleWyrm","Akjosch"],
 "source":"http://xn--vrnideas-b1a.de/minecraft/",
@@ -21064,7 +21110,7 @@
 
 "name":"WikiTool",
 "other":"(Alpha)",
-"link":"http://j.mp/1nyAqgO",
+"link":"https://mods.io/mods/1055-wikitool",
 "desc":"Displays wiki text for nearly everything ingame, including support for other mods.",
 "author":["maxpowa"],
 "type":["Universal"],
@@ -21210,12 +21256,24 @@
 },{
 
 "name":"World Downloader",
-"link":"http://j.mp/Wo8dJd",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285484-world-downloader-mod",
 "desc":"Saves active chunks in multiplayer servers so they can be played in single player.",
 "author":["cubic72"],
+"source":"https://github.com/dslake/WorldDownloader"
 "type":["Client"],
 "dependencies":["Not Forge Compatible","Base Edit"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"World Downloader",
+"link":"https://github.com/dslake/WorldDownloader/releases",
+"desc":"Saves active chunks in multiplayer servers so they can be played in single player.",
+"author":["cubic72"],
+"source":"https://github.com/dslake/WorldDownloader"
+"type":["Client"],
+"dependencies":["Not Forge Compatible","Base Edit"],
+"versions":["1.7.10"]
 
 },{
 
