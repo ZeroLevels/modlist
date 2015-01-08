@@ -11,6 +11,7 @@
 	*Updated "Custom Ore Generation: First Revival": added source
 	*Updated "Hardcore Darkness": added source
 	*Updated "CompactStorage": No longer in Beta
+	*Updated "Chisel 2": Added tterrag1098 as author
 	+Added "Adventure Backpack Mod": Currently WIP
 	+Added "Armourer's Workshop": Currently in Alpha
 	+Added "Better Furnaces"
