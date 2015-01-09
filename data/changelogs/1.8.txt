@@ -1,3 +1,6 @@
+(January/09/2015)
+	+Added "Village Info"
+
 (January/08/2015)
 	*Updated "Dynmap": No longer in Alpha
 	*Updated "Hardcore Darkness": added source
