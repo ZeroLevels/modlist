@@ -1,3 +1,23 @@
+(January/16/2015)
+	*Updated "Aliens Vs Predator": Added source
+	*Updated "Dense Ores": Updated link to CurseForge page
+	*Updated "Tinkers' Mechworks": Now in Beta
+	+Added "Bladecraft"
+	+Added "Better Anvils"
+	+Added "Better Rain"
+	+Added "Cogs of the Machine": Currently WIP
+	+Added "DecoCraft"
+	+Added "RFTools"
+	+Added "Garden Stuff"
+	+Added "Not Enough Resources": Currently in Alpha
+	+Added "Revamp: Enhanced Villager and Mob Performance"
+	+Added "Custom-Collection": Currently in Early Alpha
+	+Added "Kwasti Villagers"
+	+Added "RadarBro"
+	+Added "XtraBlocks Extreme Edition"
+	+Added "Rotten Flesh to Leather"
+	+Added "The Mists of RioV II - Shadow of Aun'Tun"
+
 (January/08/2015)
 	*Updated "Essence of the Gods": SSP only
 	*Updated "Not Enough Keys" authors

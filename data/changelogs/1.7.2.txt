@@ -1,3 +1,13 @@
+(January/16/2015)
+	*Updated "Dense Ores": Updated link to CurseForge page
+	+Added "Bladecraft"
+	+Added "Better Rain"
+	+Added "DecoCraft"
+	+Added "XtraBlocks Extreme Edition"
+	+Added "Kwasti Villagers"
+	+Added "Village Marker"
+	+Added "The Seasons Mod": Currently in Alpha
+
 (January/08/2015)
 	*Updated "Enhanced Biomes": added source
 	*Updated "Essence of the Gods": SSP only

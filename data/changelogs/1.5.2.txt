@@ -1,3 +1,8 @@
+(January/16/2015)
+	+Added "Bladecraft"
+	+Added "DecoCraft"
+	+Added "XtraBlocks Extreme Edition"
+
 (January/08/2015)
 	+Added "AWH Haggis Mod"
 

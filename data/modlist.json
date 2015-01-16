@@ -555,9 +555,10 @@
 },{
 
 "name":"Aliens Vs Predator",
-"link":"http://j.mp/1nWborA",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286419-forge-aliensvspredator-prometheus",
 "desc":"Adds mobs, entities, and blocks based on the Aliens Vs Predator movie series.",
 "author":["Ri5ux"],
+"source":"https://github.com/Ri5ux/AliensVsPredator",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
@@ -1751,13 +1752,23 @@
 },{
 
 "name":"Better Anvils",
-"link":"http://j.mp/WzYYpw",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286937-better-anvils-removes-the-level-limit",
 "desc":"A small mod that just removes the anvil xp level limit.",
 "author":["vdvman1"],
 "source":"https://github.com/vdvman1/betterAnvil-forge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.1","1.4.7"]
+
+},{
+
+"name":"Better Anvils",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286937-better-anvils-removes-the-level-limit?comment=491",
+"desc":"A small mod that just removes the anvil xp level limit.",
+"author":["vdvman1","Karma Dev Team"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -1982,6 +1993,16 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.4.7","1.3.2"]
+
+},{
+
+"name":"Better Rain",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2134067-better-rain-v0-15-bug-fixes",
+"desc":"Changes the vanilla rain to make it more relaxing. Lowers the rain volume and change it's textures.",
+"author":["Wirsbo"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -2362,12 +2383,12 @@
 },{
 
 "name":"Bladecraft",
-"link":"http://j.mp/Xc8Vf2",
-"desc":"",
-"author":["Darkhax"],
-"type":["SSP","SMP","LAN"],
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288864-bladecraft-customize-your-swords",
+"desc":"Gives the player complete color customization of their swords, providing a selection of infinite colors to choose from! It fits in with vanilla gameplay, adding a mechanic that doesn't over complicate the game, or change the medieval feel!",
+"author":["Darkhax","thisguy1045","ghostrec35"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
+"versions":["1.7.10","1.7.2","1.5.2","1.5.1","1.4.7","1.4.5"]
 
 },{
 
@@ -3337,7 +3358,7 @@
 "name":"Chisel 2",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2254671-chisel-2-2-1-3",
 "desc":"Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
-"author":["pokefenn","asie","TheCricket26","tterrag1098"],
+"author":["asie","CptSpaceToaster","Drullkus","pokefenn","TheCricket26","tterrag1098","warlordjones"],
 "source":"https://github.com/TheCricket/Chisel-2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -3728,12 +3749,13 @@
 },{
 
 "name":"Cogs of the Machine",
+"other":"(WIP)",
 "link":"http://j.mp/13tQtCX",
-"desc":"",
+"desc":"A technology mod which adds new mechanical machines and tools, such as cogwheels, gyrometers and portable saws.",
 "author":["Deatrathias"],
-"type":["N/A"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.7.10","1.4.7"]
 
 },{
 
@@ -4742,6 +4764,18 @@
 
 },{
 
+"name":"Custom-Collection",
+"other":"(Early Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292860-1-7-2-forge-open-sourced-darkhaxs-custom?comment=73",
+"desc":"A collection of mods. Allows branding customization of the Minecraft main menu. Gives a customizable book to players upon joining the world. Supports Minecraft formatting codes, author names and book names. Compilation of Custom-Branding, Custom-Codex and Custom-Server.",
+"author":["Darkhax"],
+"source":"https://github.com/Darkhax-Minecraft/Custom-Collection",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Custom Chest Loot",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob",
 "desc":"Adds ability to customize bonus starter chest, mod items in dungeons and etc.",
@@ -5117,6 +5151,16 @@
 
 },{
 
+"name":"DecoCraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292016-decocraft-decorations-and-props-for-minecraft-v1",
+"desc":"Adds over 200 decorative items such as stuffed creepers and teddy bears, clothes lines, plates and other kitchenware as well as kegs.",
+"author":["RazzleberryFox"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"Deconstruction Table",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288946-1-7-10-1-7-2-1-6-4-1-5-2-forge-deconstruction",
 "desc":"Adds a table used to deconstruct items from the game.",
@@ -5188,13 +5232,25 @@
 },{
 
 "name":"Dense Ores",
-"link":"http://j.mp/ZekFog",
+"link":"http://minecraft.curseforge.com/mc-mods/224942-dense-ores",
 "desc":"Adds dense versions of ores which drop 3x compared to original drop rates.",
 "author":["RWTema"],
 "source":"https://github.com/rwtema/DenseOres",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Dense Ores",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/224942-dense-ores",
+"desc":"Adds dense versions of ores which drop 3x compared to original drop rates.",
+"author":["RWTema"],
+"source":"https://github.com/rwtema/DenseOres",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -6815,7 +6871,7 @@
 "name":"Extra Food",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2213570-1-7-10-extra-food",
 "desc":"Adds 20+ new foods, that player can create and enjoy.",
-"author":["dmf444"],
+"author":["dmf444","mincrmatt12"],
 "source":"https://github.com/dmf444/ExtraFood1.7",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -7492,7 +7548,7 @@
 },{
 
 "name":"Food Plus",
-"link":"http://j.mp/151zCrn",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288375-food-plus-mod-more-food-than-you-can-imagine-v3",
 "desc":"Adds more food so you can get more variety and options to eat.",
 "author":["JoseTheCrafter"],
 "type":["Universal"],
@@ -7568,9 +7624,9 @@
 },{
 
 "name":"Forge",
-"other":"(API) (Early Beta)",
+"other":"(API) (Beta)",
 "link":"http://files.minecraftforge.net/minecraftforge/1.8",
-"desc":"Currently in Early Beta - EXPECT CRASHES AND CORRUPT SAVE FILES. Do not load worlds you intend to keep without first backing them up. A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
+"desc":"Currently in Beta - expect some issues. Backup worlds frequently. A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
 "author":["LexManos"],
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
@@ -7967,12 +8023,23 @@
 },{
 
 "name":"GardenCraft",
-"link":"http://j.mp/10TEH5C",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274938-1-6-2-gardencraft-v5-0-beta-release-out-for",
 "desc":"",
 "author":["LukeD1994"],
-"type":["N/A"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Garden Stuff",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14",
+"desc":"Adds several blocks that might help player to get a nicer garden and arrange flowers.",
+"author":["jaquadro"],
+"source":"https://github.com/jaquadro/GardenCollection",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10184,7 +10251,7 @@
 },{
 
 "name":"Kwasti Bust Monsters",
-"link":"http://j.mp/1b86C2p",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293398-kwasti-bust-monsters-v1-0-9",
 "desc":"Adds enhanced boss versions of vanilla mobs into the game with extra drops and buffs.",
 "author":["Kwasti"],
 "type":["Universal"],
@@ -10193,6 +10260,14 @@
 
 },{
 
+"name":"Kwasti Villagers",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294953-kwasti-villagers-v1-0-7",
+"desc":"Adds a few villagers to the game.",
+"author":["Kwasti"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+},{
 "name":"Ladder Kit",
 "link":"http://j.mp/146oXPg",
 "desc":"Adds two new blocks to the game: A retractable ladder machine and a rope ladder to fill it up with. It works in both the client and the server.",
@@ -13955,6 +14030,18 @@
 
 },{
 
+"name":"Not Enough Resources",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-not-enough-keys-making-pressing-buttons-easier",
+"desc":"Adds NEI integration for world resources like ores and mob drops.",
+"author":["Way2muchnoise","hilburn"],
+"source":"https://github.com/hilburn/NotEnoughResources",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Not in Minecraft Mod",
 "link":"http://j.mp/ZTnsQN",
 "desc":"",
@@ -15567,6 +15654,16 @@
 
 },{
 
+"name":"RadarBro",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281579-1-7-2-radarbro-gui-mob-player-radar?comment=826",
+"desc":"Displays the location of mobs, players and other entities on a configurable minimap.",
+"author":["Cali Alec","SpawnerCo"],
+"source":"https://github.com/SpawnerCo/RadarBro_1.7.10",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
 "name":"RadixCore",
 "link":"http://j.mp/1x4Czrw",
 "desc":"A library/framework/API containing many different functions that will assist modders, both beginner and advanced, as they create and maintain their mods.",
@@ -15633,7 +15730,7 @@
 },{
 
 "name":"Random Additions",
-"link":"http://j.mp/YDJ4zB",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288963-randomadditions-alpha-v0-9-4-updated-adding-a-new",
 "desc":"As the mod name suggests, the mod got its name after the author(s) just decided to add a load of random stuff in.",
 "author":["Random_Additions"],
 "type":["Universal"],
@@ -15643,7 +15740,7 @@
 },{
 
 "name":"Random Things",
-"link":"http://j.mp/18VZXc2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5",
 "desc":"Consists of random blocks and items which may interact with other mods, including fluid displays, block teleporters and more.",
 "author":["lumien"],
 "source":"https://github.com/lumien231/Random-Things",
@@ -15859,7 +15956,7 @@
 },{
 
 "name":"RedPower 2",
-"link":"http://j.mp/YyvGwu",
+"link":"http://www.eloraam.com/",
 "desc":"",
 "author":["Eloraam"],
 "type":["Universal"],
@@ -16220,17 +16317,28 @@
 },{
 
 "name":"Revamp: Enhanced Villager and Mob Performance",
-"link":"http://j.mp/11ZKqqp",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287045-revamp-rivvests-enhanced-villagers-and-mob",
 "desc":"Increased mob view/action distance; eliminates mob corner-crowding; improved villager home selection and spreading out into villages; cave villages; configurable door-to-villager ratio; miscellaneous other village-related tweaks",
 "author":["rivvest"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.7.10","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"RFTools",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-powerful",
+"desc":"Adds various tools that are related to RF (Redstone Flux) and technology in general. Major feature of this mod is the Dimension Builder which can be used to create dimensions for exploration, mining, building etc.",
+"author":["McJty"],
+"source":"https://github.com/McJty/RFTools",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
 "name":"Rival Rebels",
-"link":"http://j.mp/ZtOEQT",
+"link":"http://rivalrebels.blogspot.ru/",
 "desc":"A pvp war mod that adds powerful weapons and custom blocks to the game. Featuring the nuke, Tesla, the Plasma cannon on a structure of teams.",
 "author":["Rodolphito"],
 "type":["Universal"],
@@ -16283,12 +16391,24 @@
 },{
 
 "name":"Rotten Flesh to Leather",
-"link":"http://j.mp/YC90Zl",
+"other":"(DarrenPR)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288562-1-6-4-forge-rotten-flesh-to-leather",
 "desc":"Adds the ability to smelt rotten flesh into perfectly usable leather. Useful for aiding in getting enough books to power your enchantment table.",
 "author":["DarrenPR"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"Rotten Flesh to Leather",
+"other":"(EpicBlargh)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286064-rotten-flesh-to-leather-merry-christmas-now",
+"desc":"Adds the ability to smelt rotten flesh into perfectly usable leather. Useful for aiding in getting enough books to power your enchantment table.",
+"author":["EpicBlargh"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.5.2","1.5.1"]
 
 },{
 
@@ -19174,7 +19294,7 @@
 },{
 
 "name":"The Mists of RioV",
-"link":"http://j.mp/10qPe6k",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288222-the-mists-of-riov-v2-4-8-4-dimensions-factions",
 "desc":"The imagined world is called RioV, in the year of 1301 DoC (Death of Carigon.), the land of RioV is filled with Nizonians. A native creature that are basically giant beasts. In 1278 DoC the Natives found a new threat across the land called Granitions, another wild beast. For 10 years they fought and the Nirons arrived dealing poison to all races when fought with. Since then, the races have been weakened and new races have arrived, such as we humans. There is a myth that in 1310 a monster called a Huton will destroy the land of RioV and leave it in ashes. This is The Mists of RioV.",
 "author":["sheenrox82"],
 "source":"https://github.com/sheenrox82/TheMistsOfRioV",
@@ -19184,6 +19304,16 @@
 
 },{
 
+"name":"The Mists of RioV II - Shadow of Aun'Tun",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2291399-the-mists-of-riov-ii-shadow-of-auntun-v1-1-1-now",
+"desc":"Sequel to the The Mists of RioV. The imagined world is called RioV, in the year of 1301 DoC (Death of Carigon.), the land of RioV is filled with Nizonians. A native creature that are basically giant beasts. In 1278 DoC the Natives found a new threat across the land called Granitions, another wild beast. For 10 years they fought and the Nirons arrived dealing poison to all races when fought with. Since then, the races have been weakened and new races have arrived, such as we humans. There is a myth that in 1310 a monster called a Huton will destroy the land of RioV and leave it in ashes. This is The Mists of RioV.",
+"author":["sheenrox82"],
+"source":"https://github.com/sheenrox82/TheMistsOfRioVII",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
 "name":"The Necromancy Mod",
 "link":"http://j.mp/UAxW6Q",
 "desc":"Allows reanimation of stitched body parts from slain foes.",
@@ -19320,7 +19450,7 @@
 },{
 
 "name":"The Saturation Mod",
-"link":"http://j.mp/13RmUrs",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290208-1-6-2-tweak-the-saturation-mod-updated-v1-2-1000",
 "desc":"Displays a bar for player saturation, normally hidden in vanilla Minecraft.",
 "author":["Spencie37"],
 "type":["Client"],
@@ -19330,12 +19460,23 @@
 },{
 
 "name":"The Seasons Mod",
-"link":"http://j.mp/UvEbTZ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285986-the-seasons-mod-v1-15-1-now-ready-for-1-7-texture",
 "desc":"Adds the four seasons to Minecraft, each one with its own features and dangers (such as frostbite!)",
 "author":["The_WeatherPony"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.2"]
+
+},{
+
+"name":"The Seasons Mod",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285986-the-seasons-mod-v1-15-1-now-ready-for-1-7-texture?comment=1808",
+"desc":"Adds the four seasons to Minecraft, each one with its own features and dangers (such as frostbite!)",
+"author":["The_WeatherPony"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
 
 },{
 
@@ -19370,7 +19511,7 @@
 },{
 
 "name":"The Spice of Life",
-"link":"http://j.mp/1qpLaRq",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety",
 "desc":"Encourages dietary variety through diminishing returns.",
 "author":["squeek502"],
 "source":"https://github.com/squeek502/SpiceOfLife",
@@ -19381,7 +19522,7 @@
 },{
 
 "name":"The Spice of Life",
-"link":"http://j.mp/1qpLaRq",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety",
 "desc":"Encourages dietary variety through diminishing returns.",
 "author":["squeek502"],
 "source":"https://github.com/squeek502/SpiceOfLife",
@@ -19576,7 +19717,7 @@
 },{
 
 "name":"Tinkers' Construct",
-"link":"http://j.mp/Z7xU26",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
 "author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
@@ -19587,7 +19728,7 @@
 },{
 
 "name":"Tinkers' Construct",
-"link":"http://j.mp/1wFUL7y",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
 "author":["boni","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
@@ -19598,7 +19739,7 @@
 },{
 
 "name":"Tinkers' Mechworks",
-"link":"http://j.mp/1ne7Cv9",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1446244-1-6-4-tinkers-mechworks",
 "desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
 "author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/TinkersMechworks",
@@ -19609,10 +19750,10 @@
 },{
 
 "name":"Tinkers' Mechworks",
-"other":"(Alpha)",
-"link":"http://j.mp/1ne7Cv9",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks",
 "desc":"Adds drawbridges, igniters, signals, and cable buses to Tinkers' Construct.",
-"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox","JeanGlassmaker"],
 "source":"https://github.com/SlimeKnights/TinkersMechworks",
 "type":["Universal"],
 "dependencies":["Forge Required","Tinkers' Construct","Mantle"],
@@ -19621,7 +19762,7 @@
 },{
 
 "name":"Tinkers' Steelworks",
-"link":"http://j.mp/1uxjr0V",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445710-1-6-4-tinkers-steelworks",
 "desc":"Adds new material processing concepts to Tinkers' Construct in both early and late game.",
 "author":["Toops"],
 "source":"https://github.com/Toops/TinkersSteelworks",
@@ -19632,7 +19773,7 @@
 },{
 
 "name":"Tinkers' Steelworks",
-"link":"http://j.mp/1qZGmP8",
+"link":"https://github.com/Ephys/TinkersSteelworks/releases/",
 "desc":"Adds new material processing concepts to Tinkers' Construct in both early and late game.",
 "author":["Ephys"],
 "source":"https://github.com/Ephys/TinkersSteelworks",
@@ -20653,7 +20794,7 @@
 },{
 
 "name":"Village Info",
-"link":"http://j.mp/TGtW1L",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281986-1-8-1-1-8-jar-forge-village-info",
 "desc":"Displays information about the village you're currently in.",
 "author":["trunkz"],
 "type":["Universal"],
@@ -20663,22 +20804,32 @@
 },{
 
 "name":"Village Info",
-"link":"http://j.mp/TGtW1L",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281986-1-8-1-1-8-jar-forge-village-info",
 "desc":"Displays information about the village you're currently in.",
 "author":["trunkz"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
 "name":"Village Marker",
-"link":"http://j.mp/172h65A",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288327-village-marker-mod",
 "desc":"Allows the player to visualize villages by drawing dots on a sphere that represents the radius of the villages and drawing lines from all the doors that compose a village to the center of the village.  Features 6 colors to help distinguish villages.",
 "author":["KaboPC"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.6.2","1.5.1"]
+"versions":["1.6.4","1.6.2","1.5.1","1.5.1"]
+
+},{
+
+"name":"Village Marker",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288327-village-marker-mod",
+"desc":"Allows the player to visualize villages by drawing dots on a sphere that represents the radius of the villages and drawing lines from all the doors that compose a village to the center of the village.  Features 6 colors to help distinguish villages.",
+"author":["KaboPC"],
+"type":["SSP"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.7.2"]
 
 },{
 
@@ -21500,12 +21651,12 @@
 },{
 
 "name":"XtraBlocks",
-"link":"http://j.mp/VFNFzt",
-"desc":"",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284319-xtrablocks-extreme-edition-updated-2-august-2014",
+"desc":"Adds a wide variety of new blocks, lighting, liquids and items.",
 "author":["MindKrafter"],
-"type":["N/A"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -21668,7 +21819,7 @@
 },{
 
 "name":"Zenotek",
-"link":"http://j.mp/10o0de9",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288930-1-5-2-zenotek-interesting-new-things-of",
 "desc":"Adds random and potentially interesting things to the game.",
 "author":["Zeno_DreamingMage"],
 "type":["SSP","LAN"],

@@ -1,3 +1,7 @@
+(January/16/2015)
+	+Added "DecoCraft"
+	+Added "XtraBlocks Extreme Edition"
+
 (January/08/2015)
 	*Updated "Aether II": added source
 	*Updated "Custom Ore Generation: First Revival": added source
