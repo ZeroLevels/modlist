@@ -3749,12 +3749,13 @@
 },{
 
 "name":"Cogs of the Machine",
+"other":"(WIP)",
 "link":"http://j.mp/13tQtCX",
-"desc":"",
+"desc":"A technology mod which adds new mechanical machines and tools, such as cogwheels, gyrometers and portable saws.",
 "author":["Deatrathias"],
-"type":["N/A"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.4.7"]
+"versions":["1.7.10","1.4.7"]
 
 },{
 
@@ -5170,16 +5171,6 @@
 
 },{
 
-"name":"Deconstruction Table",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288946-1-7-10-1-7-2-1-6-4-1-5-2-forge-deconstruction",
-"desc":"Adds a table used to deconstruct items from the game.",
-"author":["bdkuhman"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
-
-},{
-
 "name":"Decorative Marble and Chimneys",
 "link":"http://j.mp/17iVTA4",
 "desc":"Two simple decorative mods that incorporate new base blocks, Chimneys, Fireplaces, and Mantels. They add several things including a stack of fire wood that can be ignited using flint and steal, Several new marble based blocks, Five mantel segments that can be connected in many different combinations, Chimney blocks that react to several other types of blocks, and finally the Chimney Top decorations used to finish off the top of your chimney.",
@@ -5241,13 +5232,25 @@
 },{
 
 "name":"Dense Ores",
-"link":"http://j.mp/ZekFog",
+"link":"http://minecraft.curseforge.com/mc-mods/224942-dense-ores",
 "desc":"Adds dense versions of ores which drop 3x compared to original drop rates.",
 "author":["RWTema"],
 "source":"https://github.com/rwtema/DenseOres",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Dense Ores",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/224942-dense-ores",
+"desc":"Adds dense versions of ores which drop 3x compared to original drop rates.",
+"author":["RWTema"],
+"source":"https://github.com/rwtema/DenseOres",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 

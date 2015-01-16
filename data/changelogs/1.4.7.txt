@@ -1,3 +1,6 @@
+(January/16/2015)
+	*Updated "Cogs of the Machine": Added description
+
 (January/06/2015)
 	+Added "Invincible Hamster"
 	+Added "Middleage Mod"

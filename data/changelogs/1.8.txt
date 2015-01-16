@@ -1,4 +1,5 @@
-(January/09/2015)
+(January/16/2015)
+	+Added "Dense Ores": Currently in Alpha
 	+Added "Village Info"
 
 (January/08/2015)

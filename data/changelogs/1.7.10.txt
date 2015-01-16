@@ -1,9 +1,11 @@
-(January/09/2015)
-	*Updated "Aliens Vs Predator": added source
+(January/16/2015)
+	*Updated "Aliens Vs Predator": Added source
+	*Updated "Dense Ores": Updated link to CurseForge page
 	*Updated "Tinkers' Mechworks": Now in Beta
 	+Added "Bladecraft"
 	+Added "Better Anvils"
 	+Added "Better Rain"
+	+Added "Cogs of the Machine": Currently WIP
 	+Added "DecoCraft"
 	+Added "RFTools"
 	+Added "Garden Stuff"
