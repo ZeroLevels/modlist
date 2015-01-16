@@ -7624,9 +7624,9 @@
 },{
 
 "name":"Forge",
-"other":"(API) (Early Beta)",
+"other":"(API) (Beta)",
 "link":"http://files.minecraftforge.net/minecraftforge/1.8",
-"desc":"Currently in Early Beta - EXPECT CRASHES AND CORRUPT SAVE FILES. Do not load worlds you intend to keep without first backing them up. A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
+"desc":"Currently in Beta - expect some issues. Backup worlds frequently. A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
 "author":["LexManos"],
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],

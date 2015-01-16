@@ -1,4 +1,5 @@
 (January/16/2015)
+	*Updated "Forge" description
 	+Added "Dense Ores": Currently in Alpha
 	+Added "Village Info"
 
