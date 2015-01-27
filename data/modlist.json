@@ -366,7 +366,7 @@
 "author":["Koslaw"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible"],
-"versions":["1.5.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -12747,7 +12747,7 @@
 "author":["NikolaiTheEpicGenius"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.2","1.5.1","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.6.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -19967,7 +19967,7 @@
 "source":"https://github.com/ArnoSaxena/chococraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -20819,7 +20819,7 @@
 "author":["KaboPC"],
 "type":["Universal"],
 "dependencies":["Not Forge Compatible"],
-"versions":["1.6.4","1.6.2","1.5.1","1.5.1"]
+"versions":["1.6.4","1.6.2","1.5.1"]
 
 },{
 
