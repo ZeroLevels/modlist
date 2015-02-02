@@ -6,6 +6,7 @@
 	+Added "Geochests"
 	+Added "MineTunes"
 	+Added "Colored Light"
+	+Added "CreepTech"
 	+Added "Wintercraft"
 	+Added "Fast Building"
 	+Added "Dynamic Sword Skills"

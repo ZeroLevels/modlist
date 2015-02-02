@@ -3,8 +3,16 @@
 	*Updated "Whitelister": No longer in Beta
 	*Updated "Project E": Now in Alpha
 	*Updated "SteamCraft 2": Authors, dependencies
+	*Updated "Project: Red": Dependencies
 	*Updated "FastCraft" description
+	*Updated "Redstone Arsenal": Added source
 	+Added "Endermanage"
+	+Added "Aura Cascade"
+	+Added "Better Sleeping"
+	+Added "CreepTech"
+	+Added "Fullscreen Windowed"
+	+Added "Glass Shards"
+	+Added "MrTJPCore"
 	+Added "BaM's Grave"
 	+Added "Compact Machines": Currently in Beta
 	+Added "Boilerplate"

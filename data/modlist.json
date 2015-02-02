@@ -1312,6 +1312,17 @@
 
 },{
 
+"name":"Aura Cascade",
+"link":"http://minecraft.curseforge.com/mc-mods/227099-aura-cascade",
+"desc":"A magic mod that challenges the player to think. At it's core is an innovative power system which is nearly impossible to fully optimize. All features are documented via an in-game book.",
+"author":["pixlepix"],
+"source":"https://github.com/pixlepix/Aura-Cascade",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Aurora Rubealis",
 "link":"http://j.mp/UirDkw",
 "desc":"Adds curvy undulating auroras to Minecraft.  They slowly become brighter as the sunsets, and fade out as the sun begins to rise. Like the Aurora Borealis of the real world, they will only spawn in the ?northern? cold climates.",
@@ -1807,6 +1818,7 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2192122-betterbeginnings-mod",
 "desc":"Extends the beginning portion of early game, increase the difficulty, all while staying true to the original feel of vanilla.",
 "author":["einsteinsci"],
+"source":"https://github.com/einsteinsci/betterbeginnings",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
@@ -2046,6 +2058,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.4.7"]
+
+},{
+
+"name":"Better Sleeping",
+"link":"http://minecraft.curseforge.com/mc-mods/227114-better-sleeping",
+"desc":"Modifies the way beds work and completely overhauls the sleeping system.",
+"author":["OndraSter"],
+"source":"https://github.com/OndraSter/BetterSleeping",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -4589,6 +4612,16 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible","ModLoader"],
 "versions":["1.5.1","1.4.7","1.3.2"]
+
+},{
+
+"name":"CreepTech",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2299288-creeptech-new-machines-viral-mobs-awesome-weapons",
+"desc":"Adds new technologies which allows player to do special things, such as triple ore output, create awesome armor that lets player teleport or makes him truly invisible to mobs and players, and special inventory pets that heal player when health becomes low, along with other unique buffs.",
+"author":["Purplicious_Cow"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -7943,7 +7976,18 @@
 },{
 
 "name":"Fullscreen Windowed",
-"link":"http://j.mp/1yRv493",
+"link":"http://minecraft.curseforge.com/mc-mods/227441-fullscreen-windowed-borderless-for-minecraft",
+"desc":"Allows Minecraft to display in a borderless fullscreen mode.",
+"author":["hancin"],
+"source":"https://github.com/hancin/Fullscreen-Windowed-Minecraft",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Fullscreen Windowed",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289363-1-7-2-fullscreen-windowed",
 "desc":"Allows Minecraft to display in a borderless fullscreen mode.",
 "author":["Shoukaseikyo"],
 "type":["Client"],
@@ -7953,7 +7997,7 @@
 },{
 
 "name":"Fullscreen Windowed",
-"link":"http://j.mp/1yRv493",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289363-1-7-2-fullscreen-windowed",
 "desc":"Allows Minecraft to display in a borderless fullscreen mode.",
 "author":["Shoukaseikyo"],
 "type":["Client"],
@@ -8002,6 +8046,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"MrTJPCore",
+"other":"(Dependency)",
+"link":"http://projectredwiki.com/wiki/MrTJPCore_version_archive",
+"desc":"Required dependency for Mr_TJP's mods.",
+"author":["Mr_TJP"],
+"source":"https://github.com/MrTJP/MrTJPCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -8318,6 +8374,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"Glass Shards",
+"link":"http://minecraft.curseforge.com/mc-mods/226834-glass-shards",
+"desc":"Makes glass drop shards when broken. Shards is compatible with Chisel, MineFactory Reloaded, Tinkers Construct and EnderIO glass if configured.",
+"author":["ljfa"],
+"source":"https://github.com/ljfa-ag/Glass-Shards",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -15639,7 +15706,7 @@
 "author":["Mr_TJP"],
 "source":"https://github.com/MrTJP/ProjectRed",
 "type":["Universal"],
-"dependencies":["Forge Required","CodeChickenCore","ForgeMultipart"],
+"dependencies":["Forge Required","CodeChickenCore","ForgeMultipart","MrTJPCore"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
@@ -16227,6 +16294,7 @@
 "link":"http://minecraft.curseforge.com/mc-mods/70631-redstone-arsenal",
 "desc":"Adds tools and weaponry which harness the power of Redstone Flux, the energy system added by CoFH and Thermal Expansion.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
+"source":"https://github.com/CoFH/RedstoneArsenal",
 "type":["Universal"],
 "dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
@@ -17707,7 +17775,7 @@
 },{
 
 "name":"Sophisticated Wolves",
-"link":"http://j.mp/VYkKr2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276521-1-6-2-ssp-sophisticated-wolves-v2-2-0",
 "desc":"A mod that aims to improve wolves in the games through a series of gameplay tweaks, AI improvements, and added features. The focus is not to have overpowered items or crazy abilities, but rather balanced additions that make sense in the world of MC. Essentially, wolves should be able to better respond to your actions and take care of themselves, so you don't have to consider them a liability when mining, exploring or fighting.",
 "author":["metroidfood"],
 "type":["SSP"],
@@ -17717,12 +17785,12 @@
 },{
 
 "name":"Sophisticated Wolves",
-"link":"http://j.mp/1pYGqT0",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288717-nightkoshs-mods",
 "desc":"Improves wolves through gameplay tweaks, AI improvements, and new features.",
 "author":["NightKosh"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 

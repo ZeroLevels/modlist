@@ -11,6 +11,8 @@
 	+Added "Joypad Mod"
 	+Added "InGameModConfigs"
 	+Added "Simply Hax"
+	+Added "Sophisticated Wolves"
+	+Added "Glass Shards"
 	+Added "Realms of Chaos"
 	+Added "Better Horse Hud"
 	+Added "The Ice Cream Sandwich Creeper Mod"
