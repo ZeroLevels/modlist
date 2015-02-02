@@ -1,3 +1,21 @@
+(February/02/2015)
+	*Updated "ChatLog": Added source, now requires Forge
+	+Added "Redstone Paste Mod"
+	+Added "BaM's Grave"
+	+Added "InGame Info XML"
+	+Added "Stackie"
+	+Added "LunatriusCore"
+	+Added "Talismans 2"
+	+Added "Dynamic Sword Skills"
+	+Added "Damage Indicators"
+	+Added "Joypad Mod"
+	+Added "InGameModConfigs"
+	+Added "Simply Hax"
+	+Added "Realms of Chaos"
+	+Added "Better Horse Hud"
+	+Added "The Ice Cream Sandwich Creeper Mod"
+	+Added "Schematica": Currently in Beta
+
 (January/16/2015)
 	*Updated "Forge" description
 	+Added "Dense Ores": Currently in Alpha
@@ -5,7 +23,7 @@
 
 (January/08/2015)
 	*Updated "Dynmap": No longer in Alpha
-	*Updated "Hardcore Darkness": added source
+	*Updated "Hardcore Darkness": Added source
 	*Updated "Gammabright": No longer in Beta
 	*Updated "Waila": No longer depends on NEI and CCC
 	+Added "Baubles"

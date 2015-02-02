@@ -1,3 +1,39 @@
+(February/02/2015)
+	*Updated "ChatLog": Added source
+	*Updated "Whitelister": No longer in Beta
+	*Updated "Project E": Now in Alpha
+	*Updated "SteamCraft 2": Authors, dependencies
+	*Updated "FastCraft" description
+	+Added "Endermanage"
+	+Added "BaM's Grave"
+	+Added "Compact Machines": Currently in Beta
+	+Added "Boilerplate"
+	+Added "Eternal Isles"
+	+Added "Ender Enhancement"
+	+Added "Myths and Monsters"
+	+Added "Wintercraft"
+	+Added "Profiles"
+	+Added "InGameModConfigs"
+	+Added "Voltz Engine": Currently in Alpha
+	+Added "Guilt Trip"
+	+Added "Dynamic Sword Skills"
+	+Added "Fast Building"
+	+Added "Realms of Chaos"
+	+Added "Geochests"
+	+Added "Better Horse Hud"
+	+Added "Custom Recipes"
+	+Added "BetterBeginnings": Currently WIP
+	+Added "GenCreator"
+	+Added "ReCubed"
+	+Added "MineTunes"
+	+Added "Enchiridion 2"
+	+Added "Colored Light": Currently in Beta
+	+Added "Pistronics 2": Currently in Development
+	+Added "Soul Shards: The Old Ways": Continuation of Soul Shards: Reborn
+	+Added "Sim-U-Kraft Reloaded": Currently in Beta
+	+Added "The Ice Cream Sandwich Creeper Mod"
+	+Added "The Seasons Mod": Currently in Beta
+
 (January/16/2015)
 	*Updated "Aliens Vs Predator": Added source
 	*Updated "Dense Ores": Updated link to CurseForge page
@@ -21,15 +57,15 @@
 (January/08/2015)
 	*Updated "Essence of the Gods": SSP only
 	*Updated "Not Enough Keys" authors
-	*Updated "Archimedes' Ships": added source
-	*Updated "Balkon's WeaponMod": added source
-	*Updated "Enhanced Biomes": added source
+	*Updated "Archimedes' Ships": Added source
+	*Updated "Balkon's WeaponMod": Added source
+	*Updated "Enhanced Biomes": Added source
 	*Updated "Blue Power": Now in Beta, requires QmunityLib
 	*Updated "Waila": No longer depend on NEI and CCC
 	*Updated "ICBM": source and link
 	*Updated "Natura": No longer in Alpha
-	*Updated "Custom Ore Generation: First Revival": added source
-	*Updated "Hardcore Darkness": added source
+	*Updated "Custom Ore Generation: First Revival": Added source
+	*Updated "Hardcore Darkness": Added source
 	*Updated "CompactStorage": No longer in Beta
 	*Updated "Chisel 2": Added tterrag1098 as author
 	+Added "Adventure Backpack Mod": Currently WIP
@@ -61,7 +97,7 @@
 	+Added "Move Plus"
 	+Added "ZombieCraft 3": Currently in Beta
 	+Added "WorldEdit": Currently in Beta
-	+Added "Whitelister": Beta only
+	+Added "Whitelister": Currently in Beta
 	+Added "Alice's Dolls (Touhou)"
 	+Added "Ancient Trees"
 	+Added "Biome Wand"
@@ -82,7 +118,7 @@
 	*Updated "Cheating Essentials" authors
 	*Updated "OreSpawn": No longer in Development
 	*Updated "Flaxbeard's Steam Power" info
-	*Updated Ivorius's mods: added sources
+	*Updated Ivorius's mods: Added sources
 	*Updated "Ars Magica 2": Now requires AnimationAPI
 	+Added "Additional Buildcraft Objects"
 	+Added "Additional Pipes"

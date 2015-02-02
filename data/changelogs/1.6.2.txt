@@ -1,3 +1,7 @@
+(February/02/2015)
+	+Added "Endermanage"
+	+Added "BaM's Grave"
+
 (January/16/2015)
 	+Added "DecoCraft"
 	+Added "XtraBlocks Extreme Edition"
