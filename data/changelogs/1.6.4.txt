@@ -1,16 +1,30 @@
+(February/03/2015)
+	*Updated "ChatLog": Added source
+	*Updated "Whitelister": No longer in Alpha
+	+Added "Endermanage"
+	+Added "BaM's Grave"
+	+Added "Geochests"
+	+Added "MineTunes"
+	+Added "Colored Light"
+	+Added "CreepTech"
+	+Added "Wintercraft"
+	+Added "Fast Building"
+	+Added "Dynamic Sword Skills"
+	+Added "Pistronics 2"
+
 (January/16/2015)
 	+Added "DecoCraft"
 	+Added "XtraBlocks Extreme Edition"
 
 (January/08/2015)
-	*Updated "Aether II": added source
-	*Updated "Custom Ore Generation: First Revival": added source
+	*Updated "Aether II": Added source
+	*Updated "Custom Ore Generation: First Revival": Added source
 	+Added "AWH Haggis Mod"
 	+Added "Floatable Rails"
 	+Added "Bleach Mod"
 	+Added "Old World Gen"
 	+Added "Thaumic Pipes"
-	+Added "Whitelister": Alpha only
+	+Added "Whitelister": Currently in Alpha
 
 (January/06/2015)
 	+Added "Star Wars Mod"

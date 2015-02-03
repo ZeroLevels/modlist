@@ -1,3 +1,15 @@
+(February/03/2015)
+	+Added "GenCreator"
+	+Added "ReCubed"
+	+Added "Myths and Monsters"
+	+Added "Geochests"
+	+Added "Better Horse Hud"
+	+Added "Wintercraft"
+	+Added "Fast Building"
+	+Added "Colored Light"
+	+Added "Ender Enhancement"
+	+Added "Pistronics 2"
+
 (January/16/2015)
 	*Updated "Dense Ores": Updated link to CurseForge page
 	+Added "Bladecraft"
@@ -9,7 +21,7 @@
 	+Added "The Seasons Mod": Currently in Alpha
 
 (January/08/2015)
-	*Updated "Enhanced Biomes": added source
+	*Updated "Enhanced Biomes": Added source
 	*Updated "Essence of the Gods": SSP only
 	+Added "AWH Haggis Mod"
 	+Added "Floatable Rails"
@@ -19,7 +31,7 @@
 
 (January/06/2015)
 	*Updated "Flaxbeard's Steam Power" info
-	*Updated Ivorius's mods: added sources
+	*Updated Ivorius's mods: Added sources
 	*Updated "Ars Magica 2": Now in Beta
 	+Added "Star Wars Mod"
 	+Added "Rougelike Dungeons Mod"

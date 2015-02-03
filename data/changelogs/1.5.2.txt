@@ -1,3 +1,6 @@
+(February/03/2015)
+	+Added "Myths and Monsters"
+
 (January/16/2015)
 	+Added "Bladecraft"
 	+Added "DecoCraft"
