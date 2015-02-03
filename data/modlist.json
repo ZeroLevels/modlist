@@ -1314,7 +1314,7 @@
 
 "name":"Aura Cascade",
 "link":"http://minecraft.curseforge.com/mc-mods/227099-aura-cascade",
-"desc":"A magic mod that challenges the player to think. At it's core is an innovative power system which is nearly impossible to fully optimize. All features are documented via an in-game book.",
+"desc":"A magic mod that challenges the player to think. At its core is an innovative power system, nearly impossible to fully optimize. All features are documented via an in-game book.",
 "author":["pixlepix"],
 "source":"https://github.com/pixlepix/Aura-Cascade",
 "type":["Universal"],
@@ -1816,7 +1816,7 @@
 "name":"BetterBeginnings",
 "other":"(WIP)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2192122-betterbeginnings-mod",
-"desc":"Extends the beginning portion of early game, increase the difficulty, all while staying true to the original feel of vanilla.",
+"desc":"Extends the beginning portion of early game, increasing the difficulty, all while staying true to the original feel of vanilla.",
 "author":["einsteinsci"],
 "source":"https://github.com/einsteinsci/betterbeginnings",
 "type":["Universal"],
@@ -3861,7 +3861,7 @@
 "name":"Colored Light",
 "other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445251-1-7-10-beta-wip-colored-light-progress-and",
-"desc":"Attempt to add three separate channels of colored lighting within blocks, so that they appear to spread around and mix Red, Green, and Blue channels!",
+"desc":"Adds three separate channels of colored lighting within blocks, mixing red, green, and blue channels.",
 "author":["CptSpaceToaster"],
 "source":"https://github.com/CptSpaceToaster/CptsModdingLight",
 "type":["Universal"],
@@ -4025,7 +4025,7 @@
 "name":"Compact Machines",
 "other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2220422-compact-machines-v1-17",
-"desc":"Adds new game mechanic: Small rooms inside of blocks. It basically gives player the ability to build contraptions inside of a single block.",
+"desc":"Adds a new game mechanic: small rooms inside of blocks, giving player the ability to build contraptions inside of a single block.",
 "author":["Davenonymous"],
 "source":"https://github.com/thraaawn/CompactMachines/",
 "type":["Universal"],
@@ -4617,7 +4617,7 @@
 
 "name":"CreepTech",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2299288-creeptech-new-machines-viral-mobs-awesome-weapons",
-"desc":"Adds new technologies which allows player to do special things, such as triple ore output, create awesome armor that lets player teleport or makes him truly invisible to mobs and players, and special inventory pets that heal player when health becomes low, along with other unique buffs.",
+"desc":"Adds new technologies which allows players to do special things, such as tripling ore output, create teleportation and invisibility armors, and special inventory pets that autoheal players, along with other unique buffs.",
 "author":["Purplicious_Cow"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5838,7 +5838,7 @@
 
 "name":"Dynamic Sword Skills",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294232-1-6-4-1-8-dynamic-sword-skills-full-release-for",
-"desc":"Will make player parrying, dodging, and attempting to perform strategic devastating attacks on enemies!",
+"desc":"Adds combat skills such as parrying and dodging.",
 "author":["coolAlias"],
 "source":"https://github.com/coolAlias/DynamicSwordSkills",
 "type":["Universal"],
@@ -6234,7 +6234,7 @@
 
 "name":"Enchiridion 2",
 "link":"http://minecraft.curseforge.com/mc-mods/76612-enchiridion-2",
-"desc":"New description?",
+"desc":"A sequel to the original Enchiridion. Features a Minecraftopedia for in-game documentation, a library to store books, and an in-game custom book editor.",
 "author":["joshiejack"],
 "source":"https://github.com/joshiejack/Enchiridion",
 "type":["Universal"],
@@ -6245,7 +6245,7 @@
 
 "name":"Ender Enhancement",
 "link":"http://minecraft.curseforge.com/mc-mods/223402-ender-enhancement",
-"desc":"Enhances Ender Pearls by adding Enderman farms and Ender armor.",
+"desc":"Enhances Ender Pearls by adding Endermen farms and Ender armor.",
 "author":["Wavebrother"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -6298,7 +6298,7 @@
 
 "name":"Endermanage",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293932-1-6-x-1-7-10-endermanage-mod",
-"desc":"Allows player to control which blocks Endermens are allowed to pick up and carry.",
+"desc":"Allows players to control which blocks Endermen are allowed to pick up and carry.",
 "author":["FyberOptic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -7282,7 +7282,7 @@
 "name":"FastCraft",
 "other":"(Experimental)",
 "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820",
-"desc":"Improves client/server performance without affecting gameplay. Compatible with mods like Optifine, Colored Light, FpsPlus.",
+"desc":"Improves client/server performance without affecting gameplay. Compatible with mods like Optifine, Colored Light, and FpsPlus.",
 "author":["player"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -7738,24 +7738,12 @@
 "name":"Forge",
 "other":"(API)",
 "link":"http://j.mp/forge-dl",
-"desc":"A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
+"desc":"A powerful, open source API used to develop mods as well as maintain compatibility with other mods for Minecraft.",
 "author":["LexManos"],
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
-
-},{
-
-"name":"Forge",
-"other":"(API) (Beta)",
-"link":"http://files.minecraftforge.net/minecraftforge/1.8",
-"desc":"Currently in Beta - expect some issues. Backup worlds frequently. A powerful, open source API used to develop mods as well as maintain compatibility with other mods for minecraft.",
-"author":["LexManos"],
-"source":"https://github.com/MinecraftForge/MinecraftForge",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -8253,7 +8241,7 @@
 
 "name":"GenCreator",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288665-gencreator-create-worldgen-structures-inside-the",
-"desc":"A mod inspired by AtomicStryker's Ruins mod, but instead allows you to create the WorldGen structures from inside the game.",
+"desc":"Allows you to create WorldGen structures in-game. Inspired by AtomicStryker's Ruins mod.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/GenCreator",
 "type":["Universal"],
@@ -8285,7 +8273,7 @@
 
 "name":"Geochests",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2263411-geochests-v1-2-0-take-the-world-with-you",
-"desc":"World eating Geochests let player pick up sections of the world, carry them in inventory and put them down again somewhere else.",
+"desc":"Adds Geochests, which can be used to pick up and carry sections of the world in inventory and place them in a different location.",
 "author":["Sirwol"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -8710,7 +8698,7 @@
 
 "name":"Guilt Trip",
 "link":"http://ichun.us/mods/guilt-trip/",
-"desc":"This mod tries to guilt players about the helpless creatures that they’ve killed by leaving a solemn reminder floating around their heads.",
+"desc":"This mod tries to guilt players about the helpless creatures that they've killed by leaving a solemn reminder floating around their heads.",
 "author":["iChun"],
 "source":"https://github.com/iChun/GuiltTrip",
 "type":["Universal"],
@@ -12178,7 +12166,7 @@
 
 "name":"MineTunes",
 "link":"http://forum.feed-the-beast.com/threads/minetunes-ingame-mp3-music-player.59123/",
-"desc":"Adds an in-game .mp3 music player.",
+"desc":"Adds an in-game MP3 music player.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/MineTunes",
 "type":["Universal"],
@@ -15062,7 +15050,7 @@
 "name":"Pistronics 2",
 "other":"(Development)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294844-pistronics-modular-pistons-rotators-and-statues-1",
-"desc":"Adds machines which can move and rotate structures of connected elements. They can also move blocks like Chests, Dispenser, etc.",
+"desc":"Adds machines which can move and rotate structures of connected elements, including special blocks such as chests and dispensers.",
 "author":["Letiu"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -16115,7 +16103,7 @@
 
 "name":"Realms of Chaos",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2242853-realms-of-chaos-1-1-1",
-"desc":"A huge adventure mod which adds, items, blocks, mobs and even dimensions. It currently has 8 new material sets to collect, as well as some new items made of vanilla materials.",
+"desc":"A huge adventure mod which adds items, blocks, mobs and dimensions. It currently has 8 new material sets to collect, as well as some new items made of vanilla materials.",
 "author":["Eternaldoom123"],
 "source":"https://github.com/Eternaldoom/Realms-of-Chaos",
 "type":["Universal"],
@@ -19481,7 +19469,7 @@
 
 "name":"The Ice Cream Sandwich Creeper Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286623-the-ice-cream-sandwich-creeper-mod-v1-0-9e-3-20",
-"desc":"Features 5 flavors of ice cream creating 6 types of ice cream sandwiches and 6 types of creepers! (Vanilla, Strawberry, Chocolate, Mint Chocolate Chip, Orange Sherbert, and Neapolitan) Killing a creeper earns yourself an ice cream sandwich of their flavor but, if you get too close, they explode into a pile of ice cream, but also do no damage to the environment, players, or other mobs (although there is an option in the properties file to turn on explosions). There is also a 1/100 chance for them to drop a decorative skull of their flavor.",
+"desc":"Adds creepers of various ice cream flavors, which drop ice cream sandwiches upon being slain or explode into a pile of ice cream.",
 "author":["xFyreStorm"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -19800,7 +19788,7 @@
 
 "name":"The Seasons Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285986-the-seasons-mod-v1-15-1-now-ready-for-1-7-texture",
-"desc":"Adds the four seasons to Minecraft, each one with its own features and dangers (such as frostbite!)",
+"desc":"Adds the four seasons to Minecraft, each one with its own features and dangers such as frostbite.",
 "author":["The_WeatherPony"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -21248,7 +21236,7 @@
 "name":"Voltz Engine",
 "other":"(Dependency) (Alpha)",
 "link":"http://minecraft.curseforge.com/mc-mods/227048-voltz-engine",
-"desc":"A basic content creation and management system for minecraft modding. It is designed to make creating new tiles and items as easy as possible.",
+"desc":"A basic content creation and management system for Minecraft modding. It is designed to make creating new tiles and items as easy as possible.",
 "author":["DarkGuardsman","dmodoomsirius"],
 "source":"https://github.com/BuiltBrokenModding/VoltzEngine",
 "type":["Universal"],

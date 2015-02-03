@@ -1,5 +1,6 @@
-(February/02/2015)
+(February/03/2015)
 	*Updated "ChatLog": Added source, now requires Forge
+	*Updated "Forge": No longer in beta
 	+Added "Redstone Paste Mod"
 	+Added "BaM's Grave"
 	+Added "InGame Info XML"
