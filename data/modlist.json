@@ -11741,7 +11741,7 @@
 },{
 
 "name":"Minechem",
-"link":"http://www.minechemmod.com/",
+"link":"http://jakimfett.github.io/Minechem/",
 "desc":"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!",
 "author":["jakimfett"],
 "source":"https://github.com/jakimfett/MineChem",
@@ -11752,12 +11752,12 @@
 },{
 
 "name":"Minechem",
-"link":"http://www.minechemmod.com/",
+"link":"http://jakimfett.github.io/Minechem/",
 "desc":"Add chemistry to your minecraft world. Craft machines that decompose minecraft items into elements and molecules. Use the microscope to discover new molecular structures. Operate the Chemical Synthesis Machine to turn elements back into items. Turn your coal, sugar or even spider eyes into diamonds!",
 "author":["jakimfett"],
 "source":"https://github.com/jakimfett/MineChem",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","CoFH Lib"],
 "versions":["1.7.10"]
 
 },{
