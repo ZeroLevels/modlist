@@ -1,5 +1,6 @@
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"
+	*Updated "Minechem" link and dependencies: Requires CoFH Lib
 	*Updated "SecurityCraft": Added source
 	+Added "SmoothBedrock"
 	+Added "SamCore"

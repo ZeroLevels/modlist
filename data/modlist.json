@@ -1713,7 +1713,7 @@
 
 "name":"Beacon",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2329001-beacon-easily-download-mods-for-your-favorite",
-"desc":"This mod looks at player's saved servers list, and if there are any outdated or missing mods in Minecraft installation, it will show them in a list. They can be downloaded straight from the in-game GUI.",
+"desc":"Detects outdated or missing mods from the player's multiplayer servers. Supports downloading a selection of mods ingame.",
 "author":["Geforce132"],
 "source":"https://github.com/Geforce132/Beacon",
 "type":["Universal"],
@@ -5472,7 +5472,7 @@
 
 "name":"Dessertcraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292636-dessertcraft-v1-4-1-8-update",
-"desc":"Adds desserts to the game.",
+"desc":"Adds desserts to the game, such as ice cream and chocolates.",
 "author":["JGSB"],
 "source":"https://github.com/JGSBroadcast/Dessertcraft",
 "type":["Universal"],
@@ -9339,7 +9339,7 @@
 "source":"https://github.com/jaquadro/ForgeMods",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8,"1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -9726,7 +9726,7 @@
 
 "name":"Ingame Account Switcher",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104621-1-6-4-forge-ingame-account-switcher",
-"desc":"Simple forge mod which allow player to switch between accounts without having to restart the game.",
+"desc":"Allows players to switch accounts ingame without restarting.",
 "author":["Elvm"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -9736,7 +9736,7 @@
 
 "name":"Ingame Account Switcher",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2257842-ingame-account-switcher-updated",
-"desc":"Simple forge mod which allow player to switch between accounts without having to restart the game.",
+"desc":"Allows players to switch accounts ingame without restarting.",
 "author":["Elvm","deFENCE_"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -11022,7 +11022,7 @@
 
 "name":"LoaderList",
 "link":"https://github.com/TehNut/LoaderList/blob/master/README.md",
-"desc":"Creates a .txt of a custom name in the world folder. Logs all activity of chunk loading and unloading (except players).",
+"desc":"Logs all activity of chunk loading and unloading (except players) in a text file, located in the world folder.",
 "author":["TehNut","Tombenpotter"],
 "source":"https://github.com/TehNut/LoaderList",
 "type":["Universal"],
@@ -11681,7 +11681,7 @@
 
 "name":"Memory Cleaner",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2345701-memory-cleaner-wipe-the-memory-of-your-game",
-"desc":"A simple mod that cleans unused variables and related from memory, allowing Minecraft to run smoother. It's very lightweight: no blocks, items, GUIs, just a config file and some commands.",
+"desc":"Cleans unused variables from memory, allowing Minecraft to run smoother. Lightweight, includes some configuration options and commands.",
 "author":["viniciuslrangel"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -16063,8 +16063,8 @@
 "desc":"Adds skeletons capable of holding and using the weaponry from QuiverBow mod.",
 "author":["Domochevsky"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2",]
+"dependencies":["Forge Required","QuiverBow"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -17191,7 +17191,7 @@
 
 "name":"SecurityCraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291001-v1-7-1-forge-v10-12-2-1145-securitycraft-keypads",
-"desc":"Adds keypads, laser tripwires, unbreakable blocks and more!",
+"desc":"Adds keypads, laser tripwires, unbreakable blocks and more.",
 "author":["Geforce132"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -17201,7 +17201,7 @@
 
 "name":"SecurityCraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291001-v1-7-1-forge-v10-12-2-1145-securitycraft-keypads",
-"desc":"Adds keypads, laser tripwires, unbreakable blocks and more!",
+"desc":"Adds keypads, laser tripwires, unbreakable blocks and more.",
 "author":["Geforce132"],
 "source":"https://github.com/Geforce132/SecurityCraft",
 "type":["Universal"],
@@ -17468,7 +17468,7 @@
 
 "name":"Simple Refinement",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2336584-simple-refinement",
-"desc":"Allows refining of iron and gold, while remaining compatible with the original ingots. Anything crafted with them becomes "refined", giving a durability bonus to weapons, tools and armor.",
+"desc":"Allows refining of iron and gold, while remaining compatible with the original ingots. Anything crafted with them becomes \"refined\", giving a durability bonus to weapons, tools and armor.",
 "author":["FyberOptic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -19956,7 +19956,7 @@
 
 "name":"The Vegan Option",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2339963-the-vegan-option-adds-vegan-alternatives-for-all",
-"desc":"Seeks to add vegan alternatives to all Minecraft mob/animal products.",
+"desc":"Adds vegan alternatives to Minecraft mob/animal products.",
 "author":["squeek502"],
 "source":"https://github.com/squeek502/VeganOption",
 "type":["Universal"],

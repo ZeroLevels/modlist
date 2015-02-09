@@ -1,4 +1,5 @@
 (February/09/2015)
+	*Updated "Minechem" link
 	+Added "Framez": Currently in Alpha
 	+Added "Ingame Account Switcher"
 	+Added "LaunchGUI"
