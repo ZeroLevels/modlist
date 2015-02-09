@@ -1,3 +1,8 @@
+(February/09/2015)
+	*Updated "Eternal Isles" name: Now "Nevermine"
+	*Updated "SecurityCraft": Added source
+	+Added "QuiverMob"
+
 (February/03/2015)
 	+Added "GenCreator"
 	+Added "ReCubed"
