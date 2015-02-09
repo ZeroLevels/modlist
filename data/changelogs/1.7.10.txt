@@ -1,3 +1,28 @@
+(February/09/2015)
+	*Updated "Eternal Isles" name: Now "Nevermine"
+	*Updated "SecurityCraft": Added source
+	+Added "SmoothBedrock"
+	+Added "SamCore"
+	+Added "Creative Blocks"
+	+Added "The Vegan Option"
+	+Added "Thermal Smeltery"
+	+Added "Beacon"
+	+Added "Ingame Account Switcher"
+	+Added "Fireplace Core"
+	+Added "Fast Food"
+	+Added "Simple Refinement"
+	+Added "QuiverMob"
+	+Added "The Reinforced Mod"
+	+Added "LoaderList"
+	+Added "LaunchGUI"
+	+Added "Memory Cleaner"
+	+Added "Dessertcraft"
+	+Added "Obsidian Utilities"
+	+Added "PeacefulSurface"
+	+Added "Camo Lights Mod"
+	+Added "Dr. Cyano's Wonderful Wands and Wizarding Robes"
+	+Added "TinyPockets": Currently in Beta
+
 (February/03/2015)
 	*Updated "ChatLog": Added source
 	*Updated "Whitelister": No longer in Beta

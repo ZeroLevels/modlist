@@ -1,3 +1,9 @@
+(February/09/2015)
+	+Added "Framez": Currently in Alpha
+	+Added "Ingame Account Switcher"
+	+Added "LaunchGUI"
+	+Added "Dr. Cyano's Wonderful Wands and Wizarding Robes"
+
 (February/03/2015)
 	*Updated "ChatLog": Added source
 	*Updated "Whitelister": No longer in Alpha

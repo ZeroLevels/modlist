@@ -1,3 +1,26 @@
+(February/09/2015)
+	*Updated "Dr. Cyano's Wonderful Wands and Wizarding Robes": Name, dependencies
+	+Added "SmoothBedrock": Currently in Beta
+	+Added "Hunger Strike"
+	+Added "SecurityCraft"
+	+Added "Beacon"
+	+Added "Ingame Account Switcher"
+	+Added "Command Syntax Highlighter"
+	+Added "Fireplace Core"
+	+Added "Extra Food Mod"
+	+Added "Fast Food"
+	+Added "Simple Refinement"
+	+Added "The Peacefulpack"
+	+Added "The Reinforced Mod"
+	+Added "LoaderList"
+	+Added "LaunchGUI"
+	+Added "Memory Cleaner"
+	+Added "Dessertcraft"
+	+Added "Obsidian Utilities"
+	+Added "PeacefulSurface"
+	+Added "Dr. Cyano's Lootable Bodies"
+	+Added "Aroma1997s Dimensional World"
+
 (February/03/2015)
 	*Updated "ChatLog": Added source, now requires Forge
 	*Updated "Forge": No longer in beta
