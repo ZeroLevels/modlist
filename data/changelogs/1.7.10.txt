@@ -1,3 +1,66 @@
+(February/12/2015)
+	*Updated "Redstone Arsenal" link (don't use Alpha builds from curseforge)
+	*Updated "Thermal Foundation" link (don't use Alpha builds from curseforge)
+	*Updated "Thermal Expansion 4" link (don't use Alpha builds from curseforge)
+	*Updated "CoFH Core" link (don't use Alpha builds from curseforge)
+	*Updated "CoFH Lib" link (don't use Alpha builds from curseforge)
+	*Updated "Nether Ores" link (don't use Alpha builds from curseforge)
+	*Updated "MineFactory Reloaded" link (don't use Alpha builds from curseforge)
+	*Updated "Hardcore Ender Expansion": Added source
+	*Updated "Pressure Pipes": Added source
+	*Updated "Gendustry": Added source
+	*Updated "AgriCraft": No longer in Beta
+	*Updated "Metallurgy 4": No longer in Beta
+	*Updated "Metallurgy Core": No longer in Beta
+	*Updated "It Fell From The Sky": Discontinued, no future updates from author
+	+Added "HxC-Blocks"
+	+Added "HxC-Core"
+	+Added "HxCEnchants"
+	+Added "HxCSkills": Currently in Alpha
+	+Added "HxCWorldGen"
+	+Added "Digimobs"
+	+Added "Realistic Deaths"
+	+Added "FlatBedrock Xplosion's Edition"
+	+Added "Multiplayer Profiles"
+	+Added "UltraTech": Discontinued, no future updates from author
+	+Added "World Handler"
+	+Added "Mineralogy"
+	+Added "Minecraft Lighting Fix Mod"
+	+Added "ItemPhysic"
+	+Added "Invasion Mod"
+	+Added "Instant Structures Mod"
+	+Added "Entity LagFix"
+	+Added "BugfixMod"
+	+Added "Floating Rails"
+	+Added "Ztones"
+	+Added "Weeping Angels"
+	+Added "Santa's Decor"
+	+Added "Santa's Toys"
+	+Added "Simply Paths"
+	+Added "LootBags"
+	+Added "Steve's Workshop"
+	+Added "Trophy Slots"
+	+Added "ExtensionFixer"
+	+Added "Prayers"
+	+Added "Origin"
+	+Added "Draconic Evolution"
+	+Added "FancyGrass"
+	+Added "Clockwork Phase"
+	+Added "Zombie Infection"
+	+Added "VeinMiner Mod Integration": Currently in Beta
+	+Added "Wildycraft"
+	+Added "Armor Effect Mod"
+	+Added "Epic Siege Mod"
+	+Added "Pearcel Mod"
+	+Added "Pig Manure Mod"
+	+Added "AE2 Stuff"
+	+Added "Monster Girl Mod"
+	+Added "MoreOredicts"
+	+Added "Apple & Milk & Tea"
+	+Added "Apple & Milk & Tea 2"
+	+Added "Horizontal Glass Panes"
+	+Added "InfiniteInvo"
+
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"
 	*Updated "Minechem" link and dependencies: Requires CoFH Lib

@@ -1,6 +1,24 @@
+(February/12/2015)
+	*Updated "Dimensional Doors": Added source
+	+Added "Digimobs"
+	+Added "FlatBedrock Xplosion's Edition"
+	+Added "Multiplayer Profiles"
+	+Added "UltraTech": Discontinued, no future updates from author
+	+Added "World Handler"
+	+Added "Invasion Mod"
+	+Added "Entity LagFix"
+	+Added "Weeping Angels"
+	+Added "Santa's Decor"
+	+Added "Santa's Toys"
+	+Added "Prayers"
+	+Added "Origin"
+	+Added "Wildycraft"
+	+Added "Ariadne's Thread"
+	+Added "Epic Siege Mod"
+
 (February/09/2015)
 	*Updated "Minechem" link
-	+Added "Framez": Currently in Alpha
+	+Added "Framez": Alpha only
 	+Added "Ingame Account Switcher"
 	+Added "LaunchGUI"
 	+Added "Dr. Cyano's Wonderful Wands and Wizarding Robes"

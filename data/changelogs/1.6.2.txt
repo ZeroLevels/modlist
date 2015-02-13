@@ -1,3 +1,11 @@
+(February/12/2015)
+	+Added "Digimobs"
+	+Added "Multiplayer Profiles"
+	+Added "World Handler"
+	+Added "Invasion Mod"
+	+Added "Prayers"
+	+Added "Apple & Milk & Tea"
+
 (February/03/2015)
 	+Added "Endermanage"
 	+Added "BaM's Grave"

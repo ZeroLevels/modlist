@@ -1,3 +1,25 @@
+(February/12/2015)
+	*Updated "TooManyItems" now Forge Compatible
+	*Updated "World Handler": Now requires Forge
+	*Updated "Mineralogy": Now requires Forge
+	*Updated "Biomes O' Plenty": Now requires Forge
+	*Updated "Convenient Recipes": Now requires Forge
+	*Updated "Inventory Tweaks": Now in Beta
+	*Updated "Morpheus": Added source
+	+Added "Yet Another Food Mod"
+	+Added "Yet Another Leather Smelting Mod"
+	+Added "HxC-Core"
+	+Added "Minecraft Lighting Fix Mod"
+	+Added "ItemPhysic"
+	+Added "Instant Structures Mod"
+	+Added "Trophy Slots"
+	+Added "Void Glasses"
+	+Added "ExtensionFixer"
+	+Added "Progressive Automation"
+	+Added "Zombie Infection"
+	+Added "Zombie Steaks"
+	+Added "Pig Manure Mod"
+
 (February/09/2015)
 	*Updated "Dr. Cyano's Wonderful Wands and Wizarding Robes": Name, dependencies
 	+Added "SmoothBedrock": Currently in Beta

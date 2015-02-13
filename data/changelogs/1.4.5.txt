@@ -1,3 +1,7 @@
+(February/12/2015)
+	+Added "Invasion Mod"
+	-Removed "rbdyck's Mods"
+
 (January/06/2015)
 	+Added "Invincible Hamster"
 	+Added "Middleage Mod"

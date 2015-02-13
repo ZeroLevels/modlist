@@ -1,3 +1,23 @@
+(February/12/2015)
+	*Updated "It Fell From The Sky": Discontinued, no future updates from author
+	+Added "Digimobs"
+	+Added "Realistic Deaths"
+	+Added "Multiplayer Profiles"
+	+Added "UltraTech": Discontinued, no future updates from author
+	+Added "World Handler"
+	+Added "ItemPhysic"
+	+Added "Invasion Mod"
+	+Added "Instant Structures Mod"
+	+Added "Entity LagFix"
+	+Added "BugfixMod"
+	+Added "Floating Rails"
+	+Added "Weeping Angels"
+	+Added "Origin"
+	+Added "Wildycraft"
+	+Added "Ariadne's Thread"
+	+Added "Monster Girl Mod"
+	+Added "Apple & Milk & Tea"
+
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"
 	*Updated "SecurityCraft": Added source
