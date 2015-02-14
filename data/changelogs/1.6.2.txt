@@ -1,10 +1,12 @@
-(February/12/2015)
+(February/15/2015)
 	+Added "Digimobs"
 	+Added "Multiplayer Profiles"
 	+Added "World Handler"
 	+Added "Invasion Mod"
 	+Added "Prayers"
 	+Added "Apple & Milk & Tea"
+	+Added "Kingdom Keys"
+	+Added "Netherrocks"
 
 (February/03/2015)
 	+Added "Endermanage"

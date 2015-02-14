@@ -1,4 +1,4 @@
-(February/12/2015)
+(February/15/2015)
 	*Updated "TooManyItems" now Forge Compatible
 	*Updated "World Handler": Now requires Forge
 	*Updated "Mineralogy": Now requires Forge
@@ -19,6 +19,9 @@
 	+Added "Zombie Infection"
 	+Added "Zombie Steaks"
 	+Added "Pig Manure Mod"
+	+Added "Second Screen for Minecraft"
+	+Added "KUDA Shaders"
+	+Added "WorldEditCUI"
 
 (February/09/2015)
 	*Updated "Dr. Cyano's Wonderful Wands and Wizarding Robes": Name, dependencies

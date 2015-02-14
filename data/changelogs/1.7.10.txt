@@ -1,4 +1,4 @@
-(February/12/2015)
+(February/15/2015)
 	*Updated "Redstone Arsenal" link (don't use Alpha builds from curseforge)
 	*Updated "Thermal Foundation" link (don't use Alpha builds from curseforge)
 	*Updated "Thermal Expansion 4" link (don't use Alpha builds from curseforge)
@@ -12,7 +12,10 @@
 	*Updated "AgriCraft": No longer in Beta
 	*Updated "Metallurgy 4": No longer in Beta
 	*Updated "Metallurgy Core": No longer in Beta
+	*Updated "SimpleOres 2": Dependencies
+	*Updated "Additional Pipes": link, source, dependencies
 	*Updated "It Fell From The Sky": Discontinued, no future updates from author
+	*Updated "Monster Spawn Highlighter": Discontinued, no future updates from author
 	+Added "HxC-Blocks"
 	+Added "HxC-Core"
 	+Added "HxCEnchants"
@@ -60,6 +63,19 @@
 	+Added "Apple & Milk & Tea 2"
 	+Added "Horizontal Glass Panes"
 	+Added "InfiniteInvo"
+	+Added "Kingdom Keys"
+	+Added "Scott's Tweaks"
+	+Added "Kore Sample"
+	+Added "Magia Naturalis": Currently in WIP
+	+Added "Shamanry": Currently in WIP
+	+Added "Second Screen for Minecraft"
+	+Added "Hungry Animals"
+	+Added "Integrated Circuits"
+	+Added "SimpleCore API"
+	+Added "Fusion"
+	+Added "Aesthetics"
+	+Added "akkamaddiCore"
+	+Added "Simple Tungsten"
 
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"

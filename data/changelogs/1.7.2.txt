@@ -1,4 +1,4 @@
-(February/12/2015)
+(February/15/2015)
 	*Updated "It Fell From The Sky": Discontinued, no future updates from author
 	+Added "Digimobs"
 	+Added "Realistic Deaths"
@@ -17,6 +17,10 @@
 	+Added "Ariadne's Thread"
 	+Added "Monster Girl Mod"
 	+Added "Apple & Milk & Tea"
+	+Added "Kingdom Keys"
+	+Added "Second Screen for Minecraft"
+	+Added "Fusion"
+	+Added "Netherrocks"
 
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"

@@ -98,12 +98,12 @@
 },{
 
 "name":"Additional Pipes",
-"link":"https://github.com/tcooc/AdditionalPipesBC/pull/104",
+"link":"https://github.com/tcooc/AdditionalPipesBC/releases",
 "desc":"Adds additional piping options such as teleport pipes.",
 "author":["tcooc","multiplemonomials"],
-"source":"https://github.com/multiplemonomials/AdditionalPipesBC",
+"source":"https://github.com/tcooc/AdditionalPipesBC",
 "type":["Universal"],
-"dependencies":["Forge Required","Buildcraft"],
+"dependencies":["Forge Required","Buildcraft","CoFH Core"],
 "versions":["1.7.10"]
 
 },{
@@ -429,6 +429,16 @@
 
 },{
 
+"name":"Aesthetics",
+"link":"http://minecraft.curseforge.com/mc-mods/227662-aesthetics",
+"desc":"Description needed.",
+"author":["AleXndrTheGr8st"],
+"type":["Universal"],
+"dependencies":["Forge Required","SimpleCore API"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"AFSU Mod",
 "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=11044",
 "desc":"An addon to IC2 that adds a tier five energy storage unit.",
@@ -490,6 +500,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"akkamaddiCore",
+"link":"http://minecraft.curseforge.com/mc-mods/224410-akkamaddis-additions",
+"desc":"Core classes used by most of the Additions. Required for all of the Additions except Ashenwheat.",
+"author":["Sinhika"],
+"type":["Universal"],
+"dependencies":["Forge Required","SimpleCore API","SimpleOres 2"],
+"versions":["1.7.10"]
 
 },{
 
@@ -3852,7 +3872,7 @@
 
 "name":"Cogs of the Machine",
 "other":"(WIP)",
-"link":"http://j.mp/13tQtCX",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442605-1-7-10-forge-cogs-of-the-machine-v0-1-4pre1-back",
 "desc":"A technology mod which adds new mechanical machines and tools, such as cogwheels, gyrometers and portable saws.",
 "author":["Deatrathias"],
 "type":["Universal"],
@@ -4876,16 +4896,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.4.7","1.4.2","1.3.2"]
-
-},{
-
-"name":"CUDA Shaders",
-"link":"http://dedelner.net/my-projects/cuda-shaders-for-1-7/",
-"desc":"Shaders designed to run on both older and modern PCs. Improves lighting and shadows.",
-"author":["DeDelner"],
-"type":["Client"],
-"dependencies":["Forge Required","GLSL Shaders Mod"],
-"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -8224,6 +8234,26 @@
 
 },{
 
+"name":"Fusion",
+"link":"http://minecraft.curseforge.com/mc-mods/226139-fusion",
+"desc":"The first official plugin for SimpleOres 2. Adds the fusion furnace and 3 new alloys.",
+"author":["AleXndrTheGr8st"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.4"]
+
+},{
+
+"name":"Fusion",
+"link":"http://minecraft.curseforge.com/mc-mods/226139-fusion",
+"desc":"The first official plugin for SimpleOres 2. Adds the fusion furnace and 3 new alloys.",
+"author":["AleXndrTheGr8st"],
+"type":["Universal"],
+"dependencies":["Forge Required","SimpleCore API"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Fysiks Fun",
 "other":"(WIP)",
 "link":"http://j.mp/Wzglhq",
@@ -9463,6 +9493,16 @@
 
 },{
 
+"name":"Hungry Animals",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2228763-hungry-animals-more-realistic-animals",
+"desc":"Changes vanilla animals feeding activity and AI.",
+"author":["a3626a"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Hurricaaane's Glitter Mods",
 "link":"http://j.mp/10uHyCG",
 "desc":"",
@@ -10091,6 +10131,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.2","1.6.1","1.5.2","1.4.7","1.4.5"]
+
+},{
+
+"name":"Integrated Circuits",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2352247-integrated-circuits-alpha-ics-for-minecraft",
+"desc":"Description needed.",
+"author":["Vic_"],
+"source":"https://github.com/Victorious3/Integrated-Circuits",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10731,6 +10783,17 @@
 
 },{
 
+"name":"Kingdom Keys",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290133-1-7-10-kingdom-keys-mod-v0-7-0-1-7-10-drive-forms",
+"desc":"Adds key blades from the game Kingdom Hearts and some other items. The key blades so far act just like swords. Also adds some of the bug blox from Kingdom Hearts Re:coded.",
+"author":["Wehavecookies56"],
+"source":"https://github.com/Wehavecookies56/Kingdom-Keys-1.7-",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"Kingdoms of Amalur",
 "link":"http://j.mp/YztVek",
 "desc":"Adds a new dimension, many weapons, items, lore, blocks, guis, and some new mechanics.",
@@ -10779,6 +10842,28 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Kore Sample",
+"other":"(Dependency)",
+"link":"https://github.com/MinecraftModArchive/KoreSample/blob/master/README.md",
+"desc":"Provides a set of tools and base classes for other mods which depend on it.",
+"author":["ScottKillen"],
+"source":"https://github.com/MinecraftModArchive/KoreSample",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"KUDA Shaders",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293662-kuda-shaders-v5-preview-2-years-anniversary",
+"desc":"Shaders designed to run on both older and modern PCs. Improves lighting and shadows.",
+"author":["DeDelner"],
+"type":["Client"],
+"dependencies":["Forge Required","GLSL Shaders Mod"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11473,6 +11558,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Magia Naturalis",
+"other":"(WIP)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2328507-wip-thaumcraft-4-2-addon-magia-naturalis-v0-1-2c",
+"desc":"Description needed.",
+"author":["TrinaryBrain"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
 
 },{
 
@@ -13189,6 +13285,7 @@
 },{
 
 "name":"Monster Spawn Highlighter",
+"other":"(Discontinued)",
 "link":"http://mc.lunatri.us/MonsterSpawnHighlighter",
 "desc":"Highlights any blocks where monsters can spawn.",
 "author":["Lunatrius"],
@@ -13200,6 +13297,7 @@
 },{
 
 "name":"Monster Spawn Highlighter",
+"other":"(Discontinued)",
 "link":"http://mc.lunatri.us/MonsterSpawnHighlighter",
 "desc":"Highlights any blocks where monsters can spawn.",
 "author":["Lunatrius"],
@@ -14391,6 +14489,26 @@
 
 },{
 
+"name":"Netherrocks",
+"link":"http://minecraft.curseforge.com/mc-mods/226140-netherrocks",
+"desc":"Description needed.",
+"author":["AleXndrTheGr8st"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2","1.6.2"]
+
+},{
+
+"name":"Netherrocks",
+"link":"http://minecraft.curseforge.com/mc-mods/226140-netherrocks",
+"desc":"Description needed.",
+"author":["AleXndrTheGr8st"],
+"type":["Universal"],
+"dependencies":["Forge Required","SimpleCore API"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Nether Star Tools",
 "link":"http://j.mp/1lyup5M",
 "desc":"Allows you to craft tools using nether star gems, which can be obtained by smelting nether stars.",
@@ -14911,11 +15029,11 @@
 },{
 
 "name":"OnlySilver",
-"link":"http://j.mp/1euHzY5",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291079-onlysilver-a-lost-ore-from-simpleores",
 "desc":"Re-adds the silver from SimpleOres, which removed silver in favor of tin.  Also adds a few other features based around Silver.",
 "author":["zot201"],
 "type":["Universal"],
-"dependencies":["Forge Compatible"],
+"dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
@@ -17493,6 +17611,17 @@
 
 },{
 
+"name":"Scott's Tweaks",
+"link":"https://github.com/MinecraftModArchive/ScottsTweaks/blob/master/README.md",
+"desc":"Description needed.",
+"author":["ScottKillen"],
+"source":"https://github.com/MinecraftModArchive/ScottsTweaks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Scrap Metal",
 "link":"http://j.mp/XyoYSF",
 "desc":"",
@@ -17510,6 +17639,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Second Screen for Minecraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295130-second-screen-for-minecraft-use-your-mobile-device",
+"desc":"Allows player to use mobile device as a "Second Screen" or a "Companion app". Device can show informations, like redstone status, time, online players or chat, from the Minecraft instance.",
+"author":["maxanier"],
+"source":"https://github.com/maxanier/MinecraftSecondScreenMod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17563,6 +17703,18 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Shamanry",
+"other":"(WIP)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2290204-wip-1-7-10-thaumcraft-4-2-addon-shamanry-become",
+"desc":"Seeks to add a Shamanry mechanic to the game.",
+"author":["Asyncronous"],
+"source":"https://github.com/s0cks/Shamanry",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17706,6 +17858,17 @@
 
 },{
 
+"name":"SimpleCore API",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/226136-simplecore-api",
+"desc":"Required dependency for SimpleOres 2 plugins.",
+"author":["AleXndrTheGr8st"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"SimpleEnderPouch",
 "link":"http://j.mp/1hN6xI6",
 "desc":"Adds Ender Pouches, which allow players to access their Ender Chest inventory.",
@@ -17749,23 +17912,23 @@
 
 },{
 
-"name":"SimpleOres",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279863-alexndrthegr8sts-mods-simplecore-api-simpleores",
+"name":"SimpleOres 2",
+"link":"http://minecraft.curseforge.com/mc-mods/226138-simpleores",
 "desc":"Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no uber tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.2","1.6.4","1.6.2"]
 
 },{
 
 "name":"SimpleOres 2",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279863-alexndrthegr8sts-mods-simplecore-api-simpleores",
+"link":"http://minecraft.curseforge.com/mc-mods/226138-simpleores",
 "desc":"Adds 5 new ores to Minecraft, along with their tools, armor and a few other things. Each ore type is unique, with their own strengths and weaknesses, meaning there is no uber tool. The basis for SimpleOres is that it adds more content that you are already familiar with, rather than having to learn a whole load of new stuff.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+"dependencies":["Forge Required","SimpleCore API"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17818,6 +17981,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10"]
+
+},{
+
+"name":"Simple Tungsten",
+"link":"http://minecraft.curseforge.com/mc-mods/224410-akkamaddis-additions",
+"desc":"Adds tungsten ore to the overworld and two alloys: Tungsten Carbide and Valfram.",
+"author":["Sinhika"],
+"type":["Universal"],
+"dependencies":["Forge Required","SimpleCore API","SimpleOres 2","Fusion","akkamaddiCore"],
+"versions":["1.7.10"]
 
 },{
 
@@ -20332,23 +20505,13 @@
 
 },{
 
-"name":"Thermal Expansion",
-"link":"http://j.mp/UxhiF3",
-"desc":"Adds machines with functionality to increase output, as well as ways to store and transport energy and liquids. Works well with Buildcraft, but it's not required!",
-"author":["KingLemmingCoFH"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.4.7","1.4.5"]
-
-},{
-
 "name":"Thermal Expansion 3",
 "link":"http://www.curse.com/mc-mods/minecraft/thermalexpansion",
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Formerly dependent on BuildCraft, this mod is now stand-alone, but uses the same power system as BuildCraft.",
 "author":["Team CoFH"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.5.2","1.5.1"]
+"versions":["1.6.4"]
 
 },{
 
@@ -22494,7 +22657,7 @@
 "source":"https://github.com/Mumfrey/WorldEditCUI",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 

@@ -1,4 +1,4 @@
-(February/12/2015)
+(February/15/2015)
 	*Updated "Dimensional Doors": Added source
 	+Added "Digimobs"
 	+Added "FlatBedrock Xplosion's Edition"
@@ -15,6 +15,9 @@
 	+Added "Wildycraft"
 	+Added "Ariadne's Thread"
 	+Added "Epic Siege Mod"
+	+Added "Kingdom Keys"
+	+Added "Second Screen for Minecraft"
+	+Added "Fusion"
 
 (February/09/2015)
 	*Updated "Minechem" link

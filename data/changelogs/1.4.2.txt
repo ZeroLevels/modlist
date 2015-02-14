@@ -1,3 +1,6 @@
+(February/15/2015)
+	-Removed "SimpleOres": Download no longer available
+
 (October/28/2014)
 	*Updated "More Swords Mod" info: Updated source
 
