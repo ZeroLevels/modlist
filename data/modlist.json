@@ -418,6 +418,18 @@
 
 },{
 
+"name":"Aether II",
+"other":"(Alpha)",
+"link":"http://www.aetherii.com/",
+"desc":"The Aether is a 'hostile paradise', composed of floating sky islands filled with strange creatures and great mysteries. Brave adventurers who wish to explore this forgotten paradise merely only have to compose a portal out of glowstone and ignite it with a bucket of water.",
+"author":["kingbdogz"],
+"source":"https://github.com/gildedgames/aether-open-source",
+"type":["Universal"],
+"dependencies":["Forge Required","Gilded Games Util"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"AetherCraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293204-aethercraft-1-4-5-aetheral-alchemy-turn-matter",
 "desc":"Adds aether, a substance that makes every object in existence. Allows conversion of items into pure Aether and Aether into items, or use Aether to charge certain tools.",
@@ -6936,6 +6948,16 @@
 
 },{
 
+"name":"Expanded Rails",
+"link":"http://www.planetminecraft.com/mod/162-expanded-rails-mod-v121/",
+"desc":"Adds a bunch of new aesthetic and functional rails.",
+"author":["BlazeAxtrius","Smokesick"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"ExpandedRedstone",
 "link":"https://sites.google.com/site/reikasminecraft/expanded-redstone",
 "desc":"Adds a few machines and tools that make redstone more useful and powerful.",
@@ -8574,8 +8596,20 @@
 
 },{
 
+"name":"Gilded Games Util",
+"other":"(Dependency)",
+"link":"http://www.aetherii.com/",
+"desc":"Required dependency for Gilded Games mods.",
+"author":["kingbdogz"],
+"source":"https://github.com/gildedgames/gilded-games-util",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Gizmos",
-"link":"http://j.mp/10lcmoN",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288998-1-7-10-gizmos-v3-2-some-random-stuff-new",
 "desc":"Allows hiding items inside tools, adds a time travel device, a building tool, a bomb defuser, special fire and four explosive blocks.",
 "author":["Planetguy"],
 "source":"https://github.com/planetguy32/Gizmos",
@@ -10790,7 +10824,18 @@
 "source":"https://github.com/Wehavecookies56/Kingdom-Keys-1.7-",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Kingdom Keys",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290133-1-7-10-kingdom-keys-mod-v0-7-0-1-7-10-drive-forms",
+"desc":"Adds key blades from the game Kingdom Hearts and some other items. The key blades so far act just like swords. Also adds some of the bug blox from Kingdom Hearts Re:coded.",
+"author":["Wehavecookies56"],
+"source":"https://github.com/Wehavecookies56/Kingdom-Keys-1.7-",
+"type":["Universal"],
+"dependencies":["Forge Required","Render Player API"],
+"versions":["1.7.10"]
 
 },{
 
@@ -14540,7 +14585,7 @@
 },{
 
 "name":"New Dawn",
-"link":"http://j.mp/1fBznMQ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1283481-1-7-10-forge-new-dawn-completely-new-terrain",
 "desc":"Implements a new terrain engine with shores, mountains, improved structure placement, and more. Compatible with Extra Biomes XL and provides and API.",
 "author":["TwoThe"],
 "source":"https://github.com/twothe/newdawn",
@@ -17749,12 +17794,22 @@
 },{
 
 "name":"ShinyFood",
-"link":"http://j.mp/1jIo0nd",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292293-shinyfood-more-golden-food",
 "desc":"Adds 22 new golden food items with its own special potion effects.",
 "author":["DmgVol"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Shipwrecks",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291627-shipwrecks-make-oceans-and-beaches-more",
+"desc":"Adds ships to the world generation, a piranha mob and a diving suit. Currently adds rowboats, sailboats (upright and sideways), sloops, schooners, and the Waverunner to oceans and beaches.",
+"author":["TheWinslow"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -19171,6 +19226,16 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Streams",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2346379-streams-real-flowing-rivers",
+"desc":"Introduces real flowing rivers, with a true current. These rivers are generated in the world using custom non-decaying flowing blocks and are much larger than anything the player could create using buckets.",
+"author":["delvr"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -22714,6 +22779,16 @@
 
 },{
 
+"name":"Xaero's Minimap",
+"link":"http://www.planetminecraft.com/mod/xaeros-minimap/",
+"desc":"Adds a simple minimap including waypoints and other features while keeping the vanilla feel.",
+"author":["Xaero96"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"XCommands",
 "link":"http://j.mp/14NgUUn",
 "desc":"A continuation of SinglePlayerConsole that adds new features not previously possible in SinglePlayerConsole. Access console with ~ key, supports WorldEdit, and adds 70+ new commands.",
@@ -23061,6 +23136,16 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2356160-zombie-steaks-for-minecraft-1-8-a-simple-new-use",
 "desc":"Lets player do some useful things with rotten flesh.",
 "author":["Jagm_11"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
+"name":"Zombie Sunscreen",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288889-zombie-sunscreen-the-mod-that-makes-zombies-and",
+"desc":"Makes zombies and skeletons immune to sun.",
+"author":["lasa11"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8"]

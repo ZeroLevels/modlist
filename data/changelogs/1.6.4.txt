@@ -18,6 +18,8 @@
 	+Added "Kingdom Keys"
 	+Added "Second Screen for Minecraft"
 	+Added "Fusion"
+	+Added "Shipwrecks"
+	+Added "Expanded Rails"
 
 (February/09/2015)
 	*Updated "Minechem" link

@@ -22,6 +22,10 @@
 	+Added "Second Screen for Minecraft"
 	+Added "KUDA Shaders"
 	+Added "WorldEditCUI"
+	+Added "Zombie Sunscreen"
+	+Added "Shipwrecks"
+	+Added "Xaero's Minimap"
+	+Added "Expanded Rails"
 
 (February/09/2015)
 	*Updated "Dr. Cyano's Wonderful Wands and Wizarding Robes": Name, dependencies

@@ -14,6 +14,7 @@
 	*Updated "Metallurgy Core": No longer in Beta
 	*Updated "SimpleOres 2": Dependencies
 	*Updated "Additional Pipes": link, source, dependencies
+	*Updated "New Dawn": Real 1.7.10 version is out
 	*Updated "It Fell From The Sky": Discontinued, no future updates from author
 	*Updated "Monster Spawn Highlighter": Discontinued, no future updates from author
 	+Added "HxC-Blocks"
@@ -76,6 +77,12 @@
 	+Added "Aesthetics"
 	+Added "akkamaddiCore"
 	+Added "Simple Tungsten"
+	+Added "Aether II"
+	+Added "Gilded Games Util"
+	+Added "Shipwrecks"
+	+Added "Streams"
+	+Added "Xaero's Minimap"
+	+Added "Expanded Rails"
 
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"

@@ -21,6 +21,8 @@
 	+Added "Second Screen for Minecraft"
 	+Added "Fusion"
 	+Added "Netherrocks"
+	+Added "Shipwrecks"
+	+Added "Expanded Rails"
 
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"

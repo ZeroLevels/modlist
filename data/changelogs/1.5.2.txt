@@ -5,6 +5,7 @@
 	+Added "Weeping Angels"
 	+Added "Apple & Milk & Tea"
 	+Added "Kingdom Keys"
+	+Added "Shipwrecks"
 	-Removed "Thermal Expansion 3": Download no longer available
 	-Removed "SimpleOres": Download no longer available
 
