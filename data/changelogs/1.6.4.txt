@@ -1,46 +1,62 @@
-(February/15/2015)
+(February/21/2015)
 	*Updated "Dimensional Doors": Added source
+	+Added "AllTheItems Mod"
+	+Added "Ariadne's Thread"
+	+Added "AutoFood"
+	+Added "Cloud Storage"
+	+Added "Connected Glass"
+	+Added "Coral Reef Mod"
 	+Added "Digimobs"
-	+Added "FlatBedrock Xplosion's Edition"
-	+Added "Multiplayer Profiles"
-	+Added "UltraTech": Discontinued, no future updates from author
-	+Added "World Handler"
-	+Added "Invasion Mod"
+	+Added "Electrical Age"
 	+Added "Entity LagFix"
-	+Added "Weeping Angels"
+	+Added "Epic Siege Mod"
+	+Added "Expanded Rails"
+	+Added "FlatBedrock Xplosion's Edition"
+	+Added "Fusion"
+	+Added "Growing Flowers"
+	+Added "Invasion Mod"
+	+Added "Just Another Spawner"
+	+Added "Kingdom Keys"
+	+Added "Monster Swarm"
+	+Added "More Minecraft 2"
+	+Added "Multiplayer Profiles"
+	+Added "OpenModsLib"
+	+Added "OpenPeripheralAddons"
+	+Added "OpenPeripheralCore"
+	+Added "OpenPeripheralIntegration"
+	+Added "Origin"
+	+Added "Prayers"
 	+Added "Santa's Decor"
 	+Added "Santa's Toys"
-	+Added "Prayers"
-	+Added "Origin"
-	+Added "Wildycraft"
-	+Added "Ariadne's Thread"
-	+Added "Epic Siege Mod"
-	+Added "Kingdom Keys"
 	+Added "Second Screen for Minecraft"
-	+Added "Fusion"
+	+Added "Ships Mod"
 	+Added "Shipwrecks"
-	+Added "Expanded Rails"
+	+Added "Simple Recycling"
+	+Added "UltraTech": Discontinued, no future updates from author
+	+Added "Weeping Angels"
+	+Added "Wildycraft"
+	+Added "World Handler"
 
 (February/09/2015)
 	*Updated "Minechem" link
+	+Added "Dr. Cyano's Wonderful Wands and Wizarding Robes"
 	+Added "Framez": Alpha only
 	+Added "Ingame Account Switcher"
 	+Added "LaunchGUI"
-	+Added "Dr. Cyano's Wonderful Wands and Wizarding Robes"
 
 (February/03/2015)
 	*Updated "ChatLog": Added source
 	*Updated "Whitelister": No longer in Alpha
-	+Added "Endermanage"
 	+Added "BaM's Grave"
+	+Added "Colored Light"
+	+Added "Dynamic Sword Skills"
+	+Added "CreepTech"
+	+Added "Endermanage"
+	+Added "Fast Building"
 	+Added "Geochests"
 	+Added "MineTunes"
-	+Added "Colored Light"
-	+Added "CreepTech"
-	+Added "Wintercraft"
-	+Added "Fast Building"
-	+Added "Dynamic Sword Skills"
 	+Added "Pistronics 2"
+	+Added "Wintercraft"
 
 (January/16/2015)
 	+Added "DecoCraft"
@@ -50,32 +66,32 @@
 	*Updated "Aether II": Added source
 	*Updated "Custom Ore Generation: First Revival": Added source
 	+Added "AWH Haggis Mod"
-	+Added "Floatable Rails"
 	+Added "Bleach Mod"
+	+Added "Floatable Rails"
 	+Added "Old World Gen"
 	+Added "Thaumic Pipes"
 	+Added "Whitelister": Currently in Alpha
 
 (January/06/2015)
-	+Added "Star Wars Mod"
-	+Added "Super Mario Mod"
-	+Added "MattparksCore"
-	+Added "Thaumcraft NEI Plugin"
-	+Added "Project Bench"
 	+Added "Crafting Suite"
-	+Added "Rougelike Dungeons Mod"
 	+Added "Gliby's Voice Chat Mod"
 	+Added "Gulliver the Resizing Mod"
+	+Added "MattparksCore"
+	+Added "Project Bench"
+	+Added "Rougelike Dungeons Mod"
 	+Added "Sildur's shaders"
 	+Added "Show Durability"
 	+Added "Show Durability 2"
+	+Added "Star Wars Mod"
+	+Added "Super Mario Mod"
+	+Added "Thaumcraft NEI Plugin"
 	+Added "Travelling House Mod"
 	-Removed "Dungeon Crawler": Download no longer available
 	-Removed "Hat Stand": Merged into Hats mod
 
 (December/24/2014)
-	+Added "The Erebus"
 	+Added "Remote IO"
+	+Added "The Erebus"
 	-Removed "ZZZZZ Custom Configs": Download no longer available
 
 (November/27/2014)

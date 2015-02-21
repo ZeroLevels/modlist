@@ -1,88 +1,136 @@
-(February/15/2015)
-	*Updated "Redstone Arsenal" link (don't use Alpha builds from curseforge)
-	*Updated "Thermal Foundation" link (don't use Alpha builds from curseforge)
-	*Updated "Thermal Expansion 4" link (don't use Alpha builds from curseforge)
+(February/21/2015)
+	*Updated "Additional Pipes": link, source, dependencies
+	*Updated "AgriCraft": No longer in Beta
 	*Updated "CoFH Core" link (don't use Alpha builds from curseforge)
 	*Updated "CoFH Lib" link (don't use Alpha builds from curseforge)
-	*Updated "Nether Ores" link (don't use Alpha builds from curseforge)
-	*Updated "MineFactory Reloaded" link (don't use Alpha builds from curseforge)
-	*Updated "Hardcore Ender Expansion": Added source
-	*Updated "Pressure Pipes": Added source
+	*Updated "Computronics": Authors
 	*Updated "Gendustry": Added source
-	*Updated "AgriCraft": No longer in Beta
+	*Updated "Hardcore Ender Expansion": Added source
+	*Updated "IndustrialCraft 2": Authors
+	*Updated "It Fell From The Sky": Discontinued, no future updates from author
 	*Updated "Metallurgy 4": No longer in Beta
 	*Updated "Metallurgy Core": No longer in Beta
-	*Updated "SimpleOres 2": Dependencies
-	*Updated "Additional Pipes": link, source, dependencies
-	*Updated "New Dawn": Real 1.7.10 version is out
-	*Updated "It Fell From The Sky": Discontinued, no future updates from author
+	*Updated "MineFactory Reloaded" link (don't use Alpha builds from curseforge)
 	*Updated "Monster Spawn Highlighter": Discontinued, no future updates from author
+	*Updated "Nether Ores" link (don't use Alpha builds from curseforge)
+	*Updated "New Dawn": Real 1.7.10 version is out
+	*Updated "OpenBlocks": No longer in Beta
+	*Updated "OpenModsLib": No longer in Beta
+	*Updated "Pressure Pipes": Added source
+	*Updated "Redstone Arsenal" link (don't use Alpha builds from curseforge)
+	*Updated "SimpleOres 2": Dependencies
+	*Updated "Thermal Expansion 4" link (don't use Alpha builds from curseforge)
+	*Updated "Thermal Foundation" link (don't use Alpha builds from curseforge)
+	+Added "Aesthetics"
+	+Added "Aether II"
+	+Added "Aether Aspects"
+	+Added "AE2 Stuff"
+	+Added "akkamaddiCore"
+	+Added "AllTheItems Mod"
+	+Added "Apple & Milk & Tea"
+	+Added "Apple & Milk & Tea 2"
+	+Added "Armor Effect Mod"
+	+Added "AutoFood"
+	+Added "AzhdevCore"
+	+Added "BetterBedrockGen"
+	+Added "BugfixMod"
+	+Added "Calculator"
+	+Added "Clay WorldGen"
+	+Added "Clockwork Phase"
+	+Added "Cloud Storage"
+	+Added "Connected Glass"
+	+Added "Craftable Horse Armour and Saddle"
+	+Added "Dense EB Ores"
+	+Added "Digimobs"
+	+Added "Draconic Evolution"
+	+Added "Electrical Age"
+	+Added "Enhanced Spawners 2"
+	+Added "Entity LagFix"
+	+Added "Epic Siege Mod"
+	+Added "Equivalence"
+	+Added "Expanded Rails"
+	+Added "ExtensionFixer"
+	+Added "FancyGrass"
+	+Added "Fire's Clay Spawn"
+	+Added "FlatBedrock Xplosion's Edition"
+	+Added "Floating Rails"
+	+Added "Fusion"
+	+Added "Gilded Games Util"
+	+Added "Growing Flowers"
+	+Added "GuiLib"
+	+Added "Horizontal Glass Panes"
+	+Added "Hotkey Ore Dictionary Converter"
+	+Added "Hungry Animals"
 	+Added "HxC-Blocks"
 	+Added "HxC-Core"
 	+Added "HxCEnchants"
 	+Added "HxCSkills": Currently in Alpha
 	+Added "HxCWorldGen"
-	+Added "Digimobs"
-	+Added "Realistic Deaths"
-	+Added "FlatBedrock Xplosion's Edition"
-	+Added "Multiplayer Profiles"
-	+Added "UltraTech": Discontinued, no future updates from author
-	+Added "World Handler"
-	+Added "Mineralogy"
-	+Added "Minecraft Lighting Fix Mod"
-	+Added "ItemPhysic"
-	+Added "Invasion Mod"
+	+Added "Immibis's Peripherals"
+	+Added "InfiniteInvo"
 	+Added "Instant Structures Mod"
-	+Added "Entity LagFix"
-	+Added "BugfixMod"
-	+Added "Floating Rails"
-	+Added "Ztones"
-	+Added "Weeping Angels"
-	+Added "Santa's Decor"
-	+Added "Santa's Toys"
-	+Added "Simply Paths"
+	+Added "Integrated Circuits": Currently in Alpha
+	+Added "Intermediary": Currently in Early Alpha
+	+Added "Invasion Mod"
+	+Added "ItemPhysic"
+	+Added "Just Another Crafting Bench"
+	+Added "Just Another Spawner"
+	+Added "Kingdom Keys"
+	+Added "Kore Sample"
+	+Added "LegendGear 2"
 	+Added "LootBags"
-	+Added "Steve's Workshop"
-	+Added "Trophy Slots"
-	+Added "ExtensionFixer"
-	+Added "Prayers"
+	+Added "Magia Naturalis": Currently WIP
+	+Added "Minecraft Lighting Fix Mod"
+	+Added "Mineralogy"
+	+Added "Mob Rebirth"
+	+Added "Mob Spawn Controls 2"
+	+Added "Monster Girl Mod"
+	+Added "Monster Swarm"
+	+Added "MoreChisels"
+	+Added "More Materials"
+	+Added "More Minecraft 2"
+	+Added "MoreOredicts"
+	+Added "Multiplayer Profiles"
+	+Added "OpenCCSensors"
+	+Added "OpenPeripheralAddons"
+	+Added "OpenPeripheralCore"
+	+Added "OpenPeripheralIntegration"
 	+Added "Origin"
-	+Added "Draconic Evolution"
-	+Added "FancyGrass"
-	+Added "Clockwork Phase"
-	+Added "Zombie Infection"
-	+Added "VeinMiner Mod Integration": Currently in Beta
-	+Added "Wildycraft"
-	+Added "Armor Effect Mod"
-	+Added "Epic Siege Mod"
 	+Added "Pearcel Mod"
 	+Added "Pig Manure Mod"
-	+Added "AE2 Stuff"
-	+Added "Monster Girl Mod"
-	+Added "MoreOredicts"
-	+Added "Apple & Milk & Tea"
-	+Added "Apple & Milk & Tea 2"
-	+Added "Horizontal Glass Panes"
-	+Added "InfiniteInvo"
-	+Added "Kingdom Keys"
+	+Added "Portable Craft Bench"
+	+Added "Prayers"
+	+Added "Realistic Deaths"
+	+Added "Ridiculous World"
+	+Added "Road Blocks"
+	+Added "Runic Dungeons"
+	+Added "Santa's Decor"
+	+Added "Santa's Toys"
 	+Added "Scott's Tweaks"
-	+Added "Kore Sample"
-	+Added "Magia Naturalis": Currently in WIP
-	+Added "Shamanry": Currently in WIP
 	+Added "Second Screen for Minecraft"
-	+Added "Hungry Animals"
-	+Added "Integrated Circuits"
-	+Added "SimpleCore API"
-	+Added "Fusion"
-	+Added "Aesthetics"
-	+Added "akkamaddiCore"
-	+Added "Simple Tungsten"
-	+Added "Aether II"
-	+Added "Gilded Games Util"
+	+Added "Shamanry": Currently WIP
+	+Added "ShinyStones Mod 2"
+	+Added "Ships Mod"
 	+Added "Shipwrecks"
+	+Added "SimpleCore API"
+	+Added "Simple Recycling"
+	+Added "Simple Tungsten"
+	+Added "Simply Paths"
+	+Added "Steve's Workshop"
 	+Added "Streams"
+	+Added "Thaumcraft Node Tracker"
+	+Added "Thaumic Horizons"
+	+Added "Trophy Slots"
+	+Added "UltraTech": Discontinued, no future updates from author
+	+Added "VeinMiner Mod Integration": Currently in Beta
+	+Added "Weeping Angels"
+	+Added "Wildycraft"
+	+Added "Wear Your Enemies"
+	+Added "World Handler"
 	+Added "Xaero's Minimap"
-	+Added "Expanded Rails"
+	+Added "Zombie Infection"
+	+Added "Ztones"
+	-Removed "Craft++": Download no longer available
 
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"

@@ -1,8 +1,10 @@
-(February/15/2015)
+(February/21/2015)
+	+Added "Coral Reef Mod"
 	+Added "Invasion Mod"
+	+Added "MoreFood"
 	-Removed "rbdyck's Mods"
-	-Removed "Thermal Expansion": Download no longer available
 	-Removed "SimpleOres": Download no longer available
+	-Removed "Thermal Expansion": Download no longer available
 
 (January/06/2015)
 	+Added "Invincible Hamster"

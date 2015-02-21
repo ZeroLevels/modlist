@@ -1,75 +1,106 @@
-(February/15/2015)
-	*Updated "TooManyItems" now Forge Compatible
-	*Updated "World Handler": Now requires Forge
-	*Updated "Mineralogy": Now requires Forge
+(February/21/2015)
 	*Updated "Biomes O' Plenty": Now requires Forge
 	*Updated "Convenient Recipes": Now requires Forge
 	*Updated "Inventory Tweaks": Now in Beta
+	*Updated "Mineralogy": Now requires Forge
 	*Updated "Morpheus": Added source
+	*Updated "TooManyItems" now Forge Compatible
+	*Updated "World Handler": Now requires Forge
+	+Added "AllTheItems Mod"
+	+Added "AzhdevCore": Currently in Alpha
+	+Added "BetterBedrockGen"
+	+Added "Better Foliage"
+	+Added "Bloodmoon"
+	+Added "C4Lib": Currently in Alpha
+	+Added "Clay WorldGen"
+	+Added "Craftable Horse Armour and Saddle"
+	+Added "Doggy Talents"
+	+Added "Enhanced Spawners 2": Currently in Alpha
+	+Added "Equivalence"
+	+Added "Expanded Rails"
+	+Added "ExtensionFixer"
+	+Added "Fast Leave Decay"
+	+Added "Fire's Clay Spawn": Currently in Beta
+	+Added "Galactic Colored Blocks": Currently in Beta
+	+Added "HxC-Core"
+	+Added "Instant Structures Mod"
+	+Added "Igneous Additions"
+	+Added "ItemPhysic"
+	+Added "Just Another Crafting Bench"
+	+Added "KUDA Shaders"
+	+Added "Laser Level"
+	+Added "MCPatcher"
+	+Added "Minecraft Lighting Fix Mod"
+	+Added "Mob Rebirth"
+	+Added "More Enchantments"
+	+Added "More Materials"
+	+Added "Mouse Tweaks"
+	+Added "OpenComputers": Currently in Beta
+	+Added "Paintball"
+	+Added "Pig Manure Mod"
+	+Added "Portable Craft Bench"
+	+Added "Progressive Automation"
+	+Added "Quick Hotbar Mod"
+	+Added "Road Blocks"
+	+Added "Roguelike Dungeons": Currently in Beta
+	+Added "Second Screen for Minecraft"
+	+Added "Shipwrecks"
+	+Added "TabbyChat 2": Currently in Beta
+	+Added "Trophy Slots"
+	+Added "Vein Miner": Currently in Beta
+	+Added "Void Glasses"
+	+Added "Wear Your Enemies"
+	+Added "WorldEditCUI"
+	+Added "Xaero's Minimap"
 	+Added "Yet Another Food Mod"
 	+Added "Yet Another Leather Smelting Mod"
-	+Added "HxC-Core"
-	+Added "Minecraft Lighting Fix Mod"
-	+Added "ItemPhysic"
-	+Added "Instant Structures Mod"
-	+Added "Trophy Slots"
-	+Added "Void Glasses"
-	+Added "ExtensionFixer"
-	+Added "Progressive Automation"
 	+Added "Zombie Infection"
 	+Added "Zombie Steaks"
-	+Added "Pig Manure Mod"
-	+Added "Second Screen for Minecraft"
-	+Added "KUDA Shaders"
-	+Added "WorldEditCUI"
 	+Added "Zombie Sunscreen"
-	+Added "Shipwrecks"
-	+Added "Xaero's Minimap"
-	+Added "Expanded Rails"
 
 (February/09/2015)
 	*Updated "Dr. Cyano's Wonderful Wands and Wizarding Robes": Name, dependencies
-	+Added "SmoothBedrock": Currently in Beta
-	+Added "Hunger Strike"
-	+Added "SecurityCraft"
+	+Added "Aroma1997s Dimensional World"
 	+Added "Beacon"
-	+Added "Ingame Account Switcher"
 	+Added "Command Syntax Highlighter"
-	+Added "Fireplace Core"
+	+Added "Dessertcraft"
+	+Added "Dr. Cyano's Lootable Bodies"
 	+Added "Extra Food Mod"
 	+Added "Fast Food"
-	+Added "Simple Refinement"
-	+Added "The Peacefulpack"
-	+Added "The Reinforced Mod"
-	+Added "LoaderList"
+	+Added "Fireplace Core"
+	+Added "Hunger Strike"
+	+Added "Ingame Account Switcher"
 	+Added "LaunchGUI"
+	+Added "LoaderList"
 	+Added "Memory Cleaner"
-	+Added "Dessertcraft"
 	+Added "Obsidian Utilities"
 	+Added "PeacefulSurface"
-	+Added "Dr. Cyano's Lootable Bodies"
-	+Added "Aroma1997s Dimensional World"
+	+Added "SecurityCraft"
+	+Added "Simple Refinement"
+	+Added "SmoothBedrock": Currently in Beta
+	+Added "The Peacefulpack"
+	+Added "The Reinforced Mod"
 
 (February/03/2015)
 	*Updated "ChatLog": Added source, now requires Forge
 	*Updated "Forge": No longer in beta
-	+Added "Redstone Paste Mod"
 	+Added "BaM's Grave"
-	+Added "InGame Info XML"
-	+Added "Stackie"
-	+Added "LunatriusCore"
-	+Added "Talismans 2"
-	+Added "Dynamic Sword Skills"
+	+Added "Better Horse Hud"
 	+Added "Damage Indicators"
-	+Added "Joypad Mod"
+	+Added "Dynamic Sword Skills"
+	+Added "Glass Shards"
+	+Added "InGame Info XML"
 	+Added "InGameModConfigs"
+	+Added "Joypad Mod"
+	+Added "LunatriusCore"
+	+Added "Realms of Chaos"
+	+Added "Redstone Paste Mod"
+	+Added "Schematica": Currently in Beta
 	+Added "Simply Hax"
 	+Added "Sophisticated Wolves"
-	+Added "Glass Shards"
-	+Added "Realms of Chaos"
-	+Added "Better Horse Hud"
+	+Added "Stackie"
+	+Added "Talismans 2"
 	+Added "The Ice Cream Sandwich Creeper Mod"
-	+Added "Schematica": Currently in Beta
 
 (January/16/2015)
 	*Updated "Forge" description
@@ -78,69 +109,68 @@
 
 (January/08/2015)
 	*Updated "Dynmap": No longer in Alpha
-	*Updated "Hardcore Darkness": Added source
 	*Updated "Gammabright": No longer in Beta
+	*Updated "Hardcore Darkness": Added source
 	*Updated "Waila": No longer depends on NEI and CCC
-	+Added "Baubles"
-	+Added "Version Checker"
 	+Added "AWH Haggis Mod"
-	+Added "RenderCore"
-	+Added "Light Level Overlay Reloaded"
-	+Added "Whitelister"
-	+Added "Hopper Ducts"
-	+Added "Not Enough Items"
+	+Added "Baubles"
 	+Added "CodeChickenCore"
-	+Added "SlimeVoid Library": Currently in Beta
-	+Added "Wireless Redstone Core": Currently in Alpha
-	+Added "Plant Mega Pack": Currently in Beta
-	+Added "Not Enough Keys": Currently in Alpha
-	+Added "Sound Filters"
 	+Added "Custom NPCs": Currently in Alpha
+	+Added "Hopper Ducts"
+	+Added "Light Level Overlay Reloaded"
+	+Added "Not Enough Items"
+	+Added "Not Enough Keys": Currently in Alpha
+	+Added "Plant Mega Pack": Currently in Beta
+	+Added "RenderCore"
+	+Added "SlimeVoid Library": Currently in Beta
+	+Added "Sound Filters"
+	+Added "Version Checker"
+	+Added "Whitelister"
+	+Added "Wireless Redstone Core": Currently in Alpha
 
 (January/06/2015)
 	+Added "Better Sprinting"
-	+Added "Craft++"
 	+Added "Click Mining Fix Fix"
+	+Added "Craft++"
 	+Added "Essence of the Gods"
-	+Added "Ruins"
-	+Added "Infernal Mobs"
-	+Added "Stalker Creepers"
-	+Added "Multi Mine"
-	+Added "Nearby Mob Finder"
 	+Added "Harder Peaceful"
-	+Added "Nether Eye"
+	+Added "Infernal Mobs"
 	+Added "Jelly Cubes"
 	+Added "Koi"
-	+Added "Slime Dungeons"
-	+Added "Pumpkin-less Snow Golem"
-	+Added "Simple Recipes"
-	+Added "Sildur's shaders"
-	+Added "Wood Converter"
+	+Added "Multi Mine"
+	+Added "Nearby Mob Finder"
+	+Added "Nether Eye"
 	+Added "PermissionForge": Currently in Alpha
+	+Added "Pumpkin-less Snow Golem"
+	+Added "Ruins"
+	+Added "Sildur's shaders"
+	+Added "Simple Recipes"
+	+Added "Slime Dungeons"
+	+Added "Stalker Creepers"
 	+Added "Wood Converter"
 
 (December/24/2014)
+	+Added "Animal Bikes": Currently in Beta
 	+Added "AromaBackup"
 	+Added "Aroma1997Core"
 	+Added "BetterChests"
+	+Added "CrackedZombies"
 	+Added "Dynamic Lights"
-	+Added "Waila"
+	+Added "Dynmap"
+	+Added "Extra Achievements"
+	+Added "Hardcore Darkness"
+	+Added "Mod Control"
+	+Added "More Player Models 2": Currently in Beta
+	+Added "Morpheus"
 	+Added "MrCrayfish's Furniture Mod"
 	+Added "MumbleLink"
-	+Added "Zyin's HUD"
-	+Added "Morpheus"
-	+Added "Mod Control"
 	+Added "Parachute Mod"
-	+Added "Reptile Mod"
-	+Added "CrackedZombies"
-	+Added "Render Player API"
 	+Added "Player API"
-	+Added "Hardcore Darkness"
-	+Added "More Player Models 2": Currently in beta
-	+Added "Animal Bikes": Currently in beta
+	+Added "Render Player API"
+	+Added "Reptile Mod"
+	+Added "Waila"
 	+Added "Yarr Cute Mob Models - Remake"
-	+Added "Extra Achievements"
-	+Added "Dynmap"
+	+Added "Zyin's HUD"
 
 (November/28/2014)
 	+Added "EiraIRC": Currently in beta

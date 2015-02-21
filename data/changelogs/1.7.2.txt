@@ -1,28 +1,45 @@
-(February/15/2015)
+(February/21/2015)
 	*Updated "It Fell From The Sky": Discontinued, no future updates from author
-	+Added "Digimobs"
-	+Added "Realistic Deaths"
-	+Added "Multiplayer Profiles"
-	+Added "UltraTech": Discontinued, no future updates from author
-	+Added "World Handler"
-	+Added "ItemPhysic"
-	+Added "Invasion Mod"
-	+Added "Instant Structures Mod"
-	+Added "Entity LagFix"
-	+Added "BugfixMod"
-	+Added "Floating Rails"
-	+Added "Weeping Angels"
-	+Added "Origin"
-	+Added "Wildycraft"
-	+Added "Ariadne's Thread"
-	+Added "Monster Girl Mod"
+	+Added "AllTheItems Mod"
 	+Added "Apple & Milk & Tea"
-	+Added "Kingdom Keys"
-	+Added "Second Screen for Minecraft"
-	+Added "Fusion"
-	+Added "Netherrocks"
-	+Added "Shipwrecks"
+	+Added "Ariadne's Thread"
+	+Added "AutoFood"
+	+Added "BetterBedrockGen"
+	+Added "BugfixMod"
+	+Added "Clay WorldGen"
+	+Added "Cloud Storage"
+	+Added "Connected Glass"
+	+Added "Craftable Horse Armour and Saddle"
+	+Added "Digimobs"
+	+Added "Electrical Age"
+	+Added "Enhanced Spawners 2"
+	+Added "Entity LagFix"
+	+Added "Equivalence"
 	+Added "Expanded Rails"
+	+Added "Floating Rails"
+	+Added "Fusion"
+	+Added "Growing Flowers"
+	+Added "Instant Structures Mod"
+	+Added "Invasion Mod"
+	+Added "ItemPhysic"
+	+Added "Just Another Spawner"
+	+Added "Kingdom Keys"
+	+Added "Monster Girl Mod"
+	+Added "MoreFood"
+	+Added "More Materials"
+	+Added "More Minecraft 2"
+	+Added "Multiplayer Profiles"
+	+Added "Netherrocks"
+	+Added "Origin"
+	+Added "Portable Craft Bench"
+	+Added "Realistic Deaths"
+	+Added "Second Screen for Minecraft"
+	+Added "Shipwrecks"
+	+Added "UltraTech": Discontinued, no future updates from author
+	+Added "Weeping Angels"
+	+Added "Wildycraft"
+	+Added "World Handler"
+	-Removed "Craft++": Download no longer available
 
 (February/09/2015)
 	*Updated "Eternal Isles" name: Now "Nevermine"
@@ -30,59 +47,59 @@
 	+Added "QuiverMob"
 
 (February/03/2015)
-	+Added "GenCreator"
-	+Added "ReCubed"
-	+Added "Myths and Monsters"
-	+Added "Geochests"
 	+Added "Better Horse Hud"
-	+Added "Wintercraft"
-	+Added "Fast Building"
 	+Added "Colored Light"
 	+Added "Ender Enhancement"
+	+Added "Fast Building"
+	+Added "GenCreator"
+	+Added "Geochests"
+	+Added "Myths and Monsters"
 	+Added "Pistronics 2"
+	+Added "ReCubed"
+	+Added "Wintercraft"
 
 (January/16/2015)
 	*Updated "Dense Ores": Updated link to CurseForge page
-	+Added "Bladecraft"
 	+Added "Better Rain"
+	+Added "Bladecraft"
 	+Added "DecoCraft"
-	+Added "XtraBlocks Extreme Edition"
 	+Added "Kwasti Villagers"
-	+Added "Village Marker"
 	+Added "The Seasons Mod": Currently in Alpha
+	+Added "Village Marker"
+	+Added "XtraBlocks Extreme Edition"
 
 (January/08/2015)
 	*Updated "Enhanced Biomes": Added source
 	*Updated "Essence of the Gods": SSP only
 	+Added "AWH Haggis Mod"
-	+Added "Floatable Rails"
-	+Added "Bleach Mod"
 	+Added "Better Dungeons"
+	+Added "Bleach Mod"
+	+Added "Floatable Rails"
 	+Added "Thaumic Pipes": WIP only
 
 (January/06/2015)
+	*Updated "Ars Magica 2": Now in Beta
 	*Updated "Flaxbeard's Steam Power" info
 	*Updated Ivorius's mods: Added sources
-	*Updated "Ars Magica 2": Now in Beta
-	+Added "Star Wars Mod"
-	+Added "Rougelike Dungeons Mod"
-	+Added "Super Mario Mod"
-	+Added "Thaumcraft NEI Plugin"
+	+Added "Custom Chest Loot"
 	+Added "Essence of the Gods"
-	+Added "Roxa's Straw Mod"
+	+Added "Gliby's Voice Chat Mod"
+	+Added "Iron Chest Minecarts"
+	+Added "More Health Enhanced"
+	+Added "Primitive Mobs"
+	+Added "Rougelike Dungeons Mod"
 	+Added "Roxa's Experience Gem Mod"
 	+Added "Roxa's Fuel Mod"
 	+Added "Roxa's Stone Stair Mod"
+	+Added "Roxa's Straw Mod"
 	+Added "Roxa's Tall Doors Mod"
-	+Added "The Ice Cream Mod"
-	+Added "Custom Chest Loot"
-	+Added "Gliby's Voice Chat Mod"
-	+Added "More Health Enhanced"
-	+Added "Sildur's shaders"
 	+Added "Show Durability"
 	+Added "Show Durability 2"
-	+Added "Primitive Mobs"
-	+Added "Iron Chest Minecarts"
+	+Added "Sildur's shaders"
+	+Added "Star Wars Mod"
+	+Added "Super Mario Mod"
+	+Added "Thaumcraft NEI Plugin"
+	+Added "The Ice Cream Mod"
 	-Removed "Hat Stand": Merged into Hats mod
 
 (November/27/2014)

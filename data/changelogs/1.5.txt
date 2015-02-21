@@ -1,6 +1,6 @@
-(February/15/2015)
-	+Added "Multiplayer Profiles"
+(February/21/2015)
 	+Added "Diving Gear Mod"
+	+Added "Multiplayer Profiles"
 
 (January/06/2015)
 	-Removed "Show Durability": Download no longer available

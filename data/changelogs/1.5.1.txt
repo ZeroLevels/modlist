@@ -1,16 +1,17 @@
-(February/15/2015)
-	+Added "Multiplayer Profiles"
-	+Added "World Handler"
+(February/21/2015)
 	+Added "Diving Gear Mod"
+	+Added "Growing Flowers"
+	+Added "Multiplayer Profiles"
 	+Added "Prayers"
-	-Removed "Thermal Expansion 3": Download no longer available
+	+Added "World Handler"
 	-Removed "SimpleOres": Download no longer available
+	-Removed "Thermal Expansion 3": Download no longer available
 
 (January/06/2015)
-	+Added "Super Mario Mod"
-	+Added "Roxa's Straw Mod"
 	+Added "Roxa's Fuel Mod"
 	+Added "Roxa's Stone Stair Mod"
+	+Added "Roxa's Straw Mod"
+	+Added "Super Mario Mod"
 
 (November/27/2014)
 	*Updated "ChickenShed"

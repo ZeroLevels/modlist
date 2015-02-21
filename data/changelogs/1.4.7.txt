@@ -1,12 +1,13 @@
-(February/15/2015)
-	+Added "Multiplayer Profiles"
-	+Added "Diving Gear Mod"
+(February/21/2015)
 	+Added "Ariadne's Thread"
-	-Removed "rbdyck's Mods"
-	-Removed "Kitchens": Download no longer available
+	+Added "Diving Gear Mod"
+	+Added "MoreFood"
+	+Added "Multiplayer Profiles"
 	-Removed "Epic Siege Mod": Download no longer available
-	-Removed "Thermal Expansion": Download no longer available
+	-Removed "Kitchens": Download no longer available
+	-Removed "rbdyck's Mods"
 	-Removed "SimpleOres": Download no longer available
+	-Removed "Thermal Expansion": Download no longer available
 
 (January/16/2015)
 	*Updated "Cogs of the Machine": Added description
