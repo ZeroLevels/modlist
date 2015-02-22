@@ -21133,9 +21133,9 @@
 "other":"(RC)",
 "link":"http://www.curse.com/mc-mods/minecraft/227443-thermal-dynamics",
 "desc":"Adds ducts and conduits from Thermal Expansion 3.",
-"author":["Team CoFH","CoFH Core","CoFH Lib","Thermal Foundation"],
+"author":["Team CoFH","RWTema","skyboy026"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
