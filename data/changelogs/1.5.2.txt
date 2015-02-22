@@ -1,3 +1,20 @@
+(February/22/2015)
+	+Added "Apple & Milk & Tea"
+	+Added "Coral Reef Mod"
+	+Added "Digimobs"
+	+Added "Growing Flowers"
+	+Added "Just Another Spawner"
+	+Added "Kingdom Keys"
+	+Added "Multiplayer Profiles"
+	+Added "OpenModsLib"
+	+Added "OpenPeripheralAddons"
+	+Added "OpenPeripheralIntegration"
+	+Added "Shipwrecks"
+	+Added "Weeping Angels"
+	+Added "World Handler"
+	-Removed "SimpleOres": Download no longer available
+	-Removed "Thermal Expansion 3": Download no longer available
+
 (February/03/2015)
 	+Added "Myths and Monsters"
 
@@ -10,10 +27,10 @@
 	+Added "AWH Haggis Mod"
 
 (January/06/2015)
-	+Added "Super Mario Mod"
-	+Added "Roxa's Straw Mod"
 	+Added "Roxa's Fuel Mod"
 	+Added "Roxa's Stone Stair Mod"
+	+Added "Roxa's Straw Mod"
+	+Added "Super Mario Mod"
 	+Added "Travelling House Mod"
 	-Removed "Gliby's Voice Chat Mod": Download no longer available
 
