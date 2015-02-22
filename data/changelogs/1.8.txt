@@ -1,4 +1,4 @@
-(February/21/2015)
+(February/22/2015)
 	*Updated "Biomes O' Plenty": Now requires Forge
 	*Updated "Convenient Recipes": Now requires Forge
 	*Updated "Inventory Tweaks": Now in Beta
@@ -21,6 +21,7 @@
 	+Added "ExtensionFixer"
 	+Added "Fast Leave Decay"
 	+Added "Fire's Clay Spawn": Currently in Beta
+	+Added "Frozencraft"
 	+Added "Galactic Colored Blocks": Currently in Beta
 	+Added "HxC-Core"
 	+Added "Instant Structures Mod"

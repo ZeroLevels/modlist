@@ -1,8 +1,8 @@
-(February/21/2015)
+(February/22/2015)
 	*Updated "Additional Pipes": link, source, dependencies
 	*Updated "AgriCraft": No longer in Beta
-	*Updated "CoFH Core" link (don't use Alpha builds from curseforge)
-	*Updated "CoFH Lib" link (don't use Alpha builds from curseforge)
+	*Updated "CoFH Core" link and info: Currently a release candidate
+	*Updated "CoFH Lib" link and info: Currently a release candidate
 	*Updated "Computronics": Authors
 	*Updated "Gendustry": Added source
 	*Updated "Hardcore Ender Expansion": Added source
@@ -17,10 +17,10 @@
 	*Updated "OpenBlocks": No longer in Beta
 	*Updated "OpenModsLib": No longer in Beta
 	*Updated "Pressure Pipes": Added source
-	*Updated "Redstone Arsenal" link (don't use Alpha builds from curseforge)
+	*Updated "Redstone Arsenal" link and info: Currently a release candidate
 	*Updated "SimpleOres 2": Dependencies
-	*Updated "Thermal Expansion 4" link (don't use Alpha builds from curseforge)
-	*Updated "Thermal Foundation" link (don't use Alpha builds from curseforge)
+	*Updated "Thermal Expansion 4" link and info: Currently a release candidate
+	*Updated "Thermal Foundation" link and info: Currently a release candidate
 	+Added "Aesthetics"
 	+Added "Aether II"
 	+Added "Aether Aspects"
@@ -54,6 +54,7 @@
 	+Added "Fire's Clay Spawn"
 	+Added "FlatBedrock Xplosion's Edition"
 	+Added "Floating Rails"
+	+Added "Frozencraft"
 	+Added "Fusion"
 	+Added "Gilded Games Util"
 	+Added "Growing Flowers"
@@ -120,6 +121,7 @@
 	+Added "Streams"
 	+Added "Thaumcraft Node Tracker"
 	+Added "Thaumic Horizons"
+	+Added "Thermal Dynamics": Currently a release candidate
 	+Added "Trophy Slots"
 	+Added "UltraTech": Discontinued, no future updates from author
 	+Added "VeinMiner Mod Integration": Currently in Beta

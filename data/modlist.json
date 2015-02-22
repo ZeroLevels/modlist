@@ -387,7 +387,7 @@
 "name":"AE2 Stuff",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff",
-"desc":"Adds various bits and machines to Applied Energistics 2.",
+"desc":"Adds Crystal Growth Chamber and Pattern Encoder blocks.",
 "author":["bdew"],
 "source":"https://github.com/bdew/ae2stuff",
 "type":["Universal"],
@@ -456,7 +456,7 @@
 
 "name":"Aesthetics",
 "link":"http://minecraft.curseforge.com/mc-mods/227662-aesthetics",
-"desc":"Description needed.",
+"desc":"Adds new bricks made out of copper, tin, mythril, and other materials.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required","SimpleCore API"],
@@ -530,7 +530,7 @@
 
 "name":"akkamaddiCore",
 "link":"http://minecraft.curseforge.com/mc-mods/224410-akkamaddis-additions",
-"desc":"Core classes used by most of the Additions. Required for all of the Additions except Ashenwheat.",
+"desc":"Core classes used by most of akkamaddi's 'Additions' mods. Required for all of the Additions except Ashenwheat.",
 "author":["Sinhika"],
 "type":["Universal"],
 "dependencies":["Forge Required","SimpleCore API","SimpleOres 2"],
@@ -899,7 +899,7 @@
 
 "name":"Apple & Milk & Tea",
 "link":"https://www.dropbox.com/sh/xye6lt6dl635k25/AADA_xlKuWg37EfORTWx_tFFa?dl=0",
-"desc":"Adds new drinks, food and interior blocks. Can be better?",
+"desc":"Adds new drinks, food and interior blocks.",
 "author":["defeatedcrow"],
 "source":"https://github.com/defeatedcrow/AppleMilkTea_1.7.X",
 "type":["Universal"],
@@ -910,7 +910,7 @@
 
 "name":"Apple & Milk & Tea 2",
 "link":"https://www.dropbox.com/sh/w1mrciofe19uyk7/AADnwzlVtSIvEHInhiCsbyAKa?dl=0",
-"desc":"Adds new drinks, food and interior blocks. Can be better?",
+"desc":"Adds new drinks, food and interior blocks.",
 "author":["defeatedcrow"],
 "source":"https://github.com/defeatedcrow/AppleMilkTea2_1.7.10",
 "type":["Universal"],
@@ -1453,7 +1453,7 @@
 
 "name":"AutoFood",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers",
-"desc":"Adds one block, that allows player to automatically feed himself.",
+"desc":"Adds a block that allows players to be automatically fed.",
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
@@ -1956,7 +1956,7 @@
 
 "name":"BetterBedrockGen",
 "link":"http://minecraft.curseforge.com/mc-mods/223275-betterbedrockgen",
-"desc":"Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.",
+"desc":"Makes the generation of bedrock completely flat without needing to generate a superflat world.",
 "author":["Gigabit101"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -1966,7 +1966,7 @@
 
 "name":"BetterBedrockGen",
 "link":"http://minecraft.curseforge.com/mc-mods/223275-betterbedrockgen",
-"desc":"Makes the generation of bedrock completely flat instead of scattered without needing to generate a superflat world.",
+"desc":"Makes the generation of bedrock completely flat without needing to generate a superflat world.",
 "author":["Gigabit101"],
 "type":["Universal"],
 "dependencies":["Forge Required","C4Lib"],
@@ -2660,7 +2660,7 @@
 
 "name":"Bloodmoon",
 "link":"http://minecraft.curseforge.com/mc-mods/226321-bloodmoon",
-"desc":"Adds a lunar event called "Bloodmoon", during which many more mobs will spawn than usual.",
+"desc":"Adds a lunar event called a \"Bloodmoon\", during which more hostile mobs will spawn than usual.",
 "author":["Lumien"],
 "source":"https://github.com/lumien231/Bloodmoon",
 "type":["Universal"],
@@ -3032,9 +3032,9 @@
 
 "name":"BugfixMod",
 "link":"https://williewillus.wordpress.com/bugfixmod/",
-"desc":"Fixes several bugs present in vanilla Minecraft.",
+"desc":"Fixes several issues present in vanilla Minecraft such as tools and boats desyncing.",
 "author":["williewillus"],
-"source":"https://github.com/BuildCraft/BuildCraft",
+"source":"https://github.com/williewillus/BugfixMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -3147,7 +3147,7 @@
 
 "name":"Calculator",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2251601-calculator-1-7-10-rf-generators-portable-crafting",
-"desc":"A Unique Crafting Mechanism with RF/EU generators, portable crafting, machines, landscaping, trees etc.",
+"desc":"A unique crafting mechanism with RF/EU generators, portable crafting, machines, landscaping, trees, etc.",
 "author":["SonarSonic"],
 "type":["Universal"],
 "dependencies":["Forge Required","CoFHCore","CoFHLib"],
@@ -3799,7 +3799,7 @@
 
 "name":"Clay WorldGen",
 "link":"http://minecraft.curseforge.com/mc-mods/227276-clay-worldgen",
-"desc":"Adds clay to the natural underground world generation.",
+"desc":"Clay blocks are naturally generated underground.",
 "author":["EwyBoy"],
 "source":"https://github.com/EwyBoy/Clay-WorldGen",
 "type":["Universal"],
@@ -3862,7 +3862,7 @@
 
 "name":"Clockwork Phase",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2288839-clockwork-phase-1-7-10_1-0-time-magic-all-wrapped",
-"desc":"Focuses on carefully crafting tools with a combination of metal gears. Player should carefully balance clockwork's speed with it's efficiency. Adds ability to create powerful, short-duration pickaxe, or a long-lasting pickaxe with a slower speed, the choice is player's.",
+"desc":"Adds time manipulation mechanics which allow for tool modifications, such as more durable pickaxes that mine more slowly.",
 "author":["Lumaceon"],
 "source":"https://github.com/Lumaceon/ClockworkPhase",
 "type":["Universal"],
@@ -3883,7 +3883,7 @@
 
 "name":"Cloud Storage",
 "link":"http://forum.feed-the-beast.com/threads/cloud-storage.40485/",
-"desc":"Allows players to store their items in a cloud network.",
+"desc":"Allows players to store their items in a network.",
 "author":["Immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
@@ -3966,7 +3966,7 @@
 },{
 
 "name":"CoFH Core",
-"other":"(Dependency) (Beta)",
+"other":"(Dependency) (RC)",
 "link":"http://www.curse.com/mc-mods/minecraft/cofhcore",
 "desc":"Contains core functionality for all TeamCoFH mods.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
@@ -3978,7 +3978,7 @@
 },{
 
 "name":"CoFH Lib",
-"other":"(Dependency) (Beta)",
+"other":"(Dependency) (RC)",
 "link":"http://www.curse.com/mc-mods/minecraft/220333-cofhlib",
 "desc":"Intended as a common framework for reusable common code.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
@@ -4398,7 +4398,7 @@
 "name":"Connected Glass",
 "other":"(spacechase0)",
 "link":"http://j.mp/1moHyta",
-"desc":"Connects textures for glass, stained glass and panes.",
+"desc":"Connects textures for glass, stained glass and glass panes.",
 "author":["spacechase0"],
 "type":["Client"],
 "dependencies":["Forge Required","SpaceCore"],
@@ -4647,7 +4647,7 @@
 
 "name":"Craftable Horse Armour and Saddle",
 "link":"http://minecraft.curseforge.com/mc-mods/224841-craftable-horse-armour-saddle-cha-s",
-"desc":"Allows horse armour and saddles crafting.",
+"desc":"Adds crafting recipes for horse armor and saddles.",
 "author":["EwyBoy"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5543,7 +5543,7 @@
 
 "name":"Dense EB Ores",
 "link":"http://minecraft.curseforge.com/mc-mods/227909-dense-eb-ores",
-"desc":"An addon for Enhanced Biomes and Dense Ores which allows for the generation of dense ores embedded inside the Enhanced Biomes stone variants.",
+"desc":"An addon for Enhanced Biomes and Dense Ores, which allows for the generation of dense ores embedded inside stone variants of Enhanced Biomes.",
 "author":["WhichOnesPink"],
 "source":"https://github.com/whichonespink44/DenseEBOres",
 "type":["Universal"],
@@ -5708,7 +5708,7 @@
 
 "name":"Digimobs",
 "link":"http://minecraft.curseforge.com/mc-mods/60565-digimobs",
-"desc":"Adds Digimon to the game.",
+"desc":"Adds monsters from the Digimon series to the game.",
 "author":["Cyan_the_Azure"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5749,7 +5749,7 @@
 
 "name":"Dimensional Pockets",
 "link":"http://minecraft.curseforge.com/mc-mods/226990-dimensional-pockets",
-"desc":"Description needed.",
+"desc":"Allows players to bring virtual dimensions in a single block.",
 "author":["NPException","Jezzadabomb338"],
 "source":"https://github.com/NPException42/Dimensional-Pockets",
 "type":["Universal"],
@@ -5909,7 +5909,7 @@
 
 "name":"Draconic Evolution",
 "link":"http://minecraft.curseforge.com/mc-mods/223565-draconic-evolution",
-"desc":"Adds a lot of high tier items such as tools and armor as well as some high tier energy storage and a lot of other features.",
+"desc":"Adds draconic-themed tools and items, energy core structures and other miscellaneous features.",
 "author":["brandon3055"],
 "source":"https://github.com/brandon3055/Draconic-Evolution",
 "type":["Universal"],
@@ -6301,7 +6301,7 @@
 "name":"Electrical Age",
 "other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104648-electrical-age-physics-electric-circuits-more",
-"desc":"A huge tech mod that incorporates over 150 new items, blocks and mechanics; all of which, have been in development for over a year. Its main purpose is to provide energy in the real form of electricity, unlike other mods that provide energy through a simplified model like EU, RF, etc.",
+"desc":"A huge tech mod that incorporates over 150 new items, blocks and mechanics. Provides energy in the form of electricity, unlike other mods that provide energy through simplified models.",
 "author":["ElectricalAge Team"],
 "source":"https://github.com/Dolu1990/ElectricalAge",
 "type":["Universal"],
@@ -6888,7 +6888,7 @@
 
 "name":"Entity LagFix",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2161485-1-6-4-or-1-7-2-or-1-7-10-forge-entity-lagfix-1-1",
-"desc":"Utility for operators to quickly identify and fix lag due to excessive entities such as after large explosions or mod malfunctions or neglected item generation equipment or even exploded storage containers.",
+"desc":"A utility used to quickly identify and fix lag due to excessive entities, such as after large explosions or mod malfunctions.",
 "author":["andrenoel"],
 "type":["Server"],
 "dependencies":["Forge Required"],
@@ -7651,7 +7651,7 @@
 
 "name":"FancyGrass",
 "link":"http://minecraft.curseforge.com/mc-mods/226959-fancygrass",
-"desc":"Forces the sides of grass blocks to look like they do on fancy graphics, even if the game is set to use fast graphics.",
+"desc":"Colors the sides of grass blocks according to the biome on Fast graphics.",
 "author":["tonius11"],
 "source":"https://github.com/Tonius/FancyGrass",
 "type":["Universal"],
@@ -7838,7 +7838,7 @@
 
 "name":"Fire's Clay Spawn",
 "link":"http://minecraft.curseforge.com/mc-mods/225539-fires-clay-spawn",
-"desc":"Adds underground veins of clay.",
+"desc":"Generates underground veins of clay.",
 "author":["The_Fireplace"],
 "type":["Universal"],
 "dependencies":["Forge Required","Fireplace Core"],
@@ -7849,7 +7849,7 @@
 "name":"Fire's Clay Spawn",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/225539-fires-clay-spawn",
-"desc":"Adds underground veins of clay.",
+"desc":"Generates underground veins of clay.",
 "author":["The_Fireplace"],
 "type":["Universal"],
 "dependencies":["Forge Required","Fireplace Core"],
@@ -8013,7 +8013,7 @@
 "name":"Floating Rails",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/227277-floating-rails",
-"desc":"Adds ability to place the rails directly on top of the water or lava.",
+"desc":"Adds ability to place the rails directly on top of water and lava.",
 "author":["EwyBoy"],
 "source":"https://github.com/EwyBoy/Floating-Rails",
 "type":["Universal"],
@@ -8431,6 +8431,17 @@
 
 },{
 
+"name":"Frozencraft",
+"link":"http://www.wuppy29.com/minecraft/mods/frozencraft/",
+"desc":"Adds characters, items and blocks based from the 2013 Disney movie Frozen.",
+"author":["wuppy21"],
+"source":"https://github.com/wuppy29/WuppyMods/tree/master/Frozencraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Fullscreen Windowed",
 "link":"http://minecraft.curseforge.com/mc-mods/227441-fullscreen-windowed-borderless-for-minecraft",
 "desc":"Allows Minecraft to display in a borderless fullscreen mode.",
@@ -8485,7 +8496,7 @@
 
 "name":"Fusion",
 "link":"http://minecraft.curseforge.com/mc-mods/226139-fusion",
-"desc":"The first official plugin for SimpleOres 2. Adds the fusion furnace and 3 new alloys.",
+"desc":"The first official plugin for SimpleOres 2. Adds fusion furnaces and 3 new alloys.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -8495,7 +8506,7 @@
 
 "name":"Fusion",
 "link":"http://minecraft.curseforge.com/mc-mods/226139-fusion",
-"desc":"The first official plugin for SimpleOres 2. Adds the fusion furnace and 3 new alloys.",
+"desc":"The first official plugin for SimpleOres 2. Adds fusion furnaces and 3 new alloys.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required","SimpleCore API"],
@@ -9168,7 +9179,7 @@
 
 "name":"Growing Flowers",
 "link":"http://minecraft.curseforge.com/mc-mods/222715-growing-flowers",
-"desc":"Allows player to breed all Minecraft flowers using seeds and some more flowers and plants. Player also able to cut a growing flower into stem and bloom and more.",
+"desc":"Adds seeds for all vanilla flowers and plants. Players can also cut growing flowers into stems, blooms and more.",
 "author":["gelber_kaktus"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9210,7 +9221,7 @@
 "name":"GuiLib",
 "other":"(Dependency)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290701-davidees-gui-library-create-better-guis-updated",
-"desc":"A library that allows modders to create more advanced GUIs through the use of Containers.  While it is not as powerful as <a href=\"http://j.mp/TGlcZA\">GuiAPI</a>, creating a GUI is done in a vanilla-style way and thus is very easy to do.",
+"desc":"A library that allows modders to create more advanced GUIs through the use of Containers.  While it is not as powerful as GuiAPI, creating a GUI is done in a vanilla-style way.",
 "author":["Davidee"],
 "source":"https://github.com/DavidGoldman/GuiLib",
 "type":["Client"],
@@ -9222,7 +9233,7 @@
 "name":"GuiLib",
 "other":"(Dependency)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290701-davidees-gui-library-create-better-guis-updated?comment=44",
-"desc":"A library that allows modders to create more advanced GUIs through the use of Containers.  While it is not as powerful as <a href=\"http://j.mp/TGlcZA\">GuiAPI</a>, creating a GUI is done in a vanilla-style way and thus is very easy to do.",
+"desc":"A library that allows modders to create more advanced GUIs through the use of Containers.  While it is not as powerful as GuiAPI, creating a GUI is done in a vanilla-style way.",
 "author":["Davidee"],
 "source":"https://github.com/DavidGoldman/GuiLib",
 "type":["Client"],
@@ -9664,7 +9675,7 @@
 
 "name":"Horizontal Glass Panes",
 "link":"http://minecraft.curseforge.com/mc-mods/227706-horizontal-glass-panes",
-"desc":"Simply adds horizontal versions of glass panes to the game.",
+"desc":"Adds horizontal versions of glass panes to the game.",
 "author":["tattyseal"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9704,7 +9715,7 @@
 
 "name":"Hotkey Ore Dictionary Converter",
 "link":"http://minecraft.curseforge.com/mc-mods/227563-hotkey-ore-dictionary-converter",
-"desc":"Allows to easily convert different types of ore dictionary'ed items between each other.",
+"desc":"Allows easy conversion between different types of items in the ore dictionary.",
 "author":["MattDahEpic"],
 "source":"https://github.com/MattDahEpic/OreDictConvert",
 "type":["Universal"],
@@ -9801,7 +9812,7 @@
 
 "name":"Hungry Animals",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2228763-hungry-animals-more-realistic-animals",
-"desc":"Changes vanilla animals feeding activity and AI.",
+"desc":"Modifies the AI and feeding behaviour of vanilla mobs.",
 "author":["a3626a"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9873,7 +9884,7 @@
 "name":"HxC-Core",
 "other":"(Dependency)",
 "link":"http://minecraft.curseforge.com/mc-mods/227594-hxc-core",
-"desc":"Adds a plethora of commands and some misc tweaks and such. Includes color chat and color nicking. Also extends the enchant array to 512.",
+"desc":"Adds a plethora of commands and some miscellaneous tweaks. Includes colored chat and colored nicknames, and extends the enchantment array to 512.",
 "author":["DeathToHerobrine","karelmikie3"],
 "source":"https://github.com/HxCKDMS/HxCCore",
 "type":["Universal"],
@@ -9884,7 +9895,7 @@
 
 "name":"HxCEnchants",
 "link":"http://minecraft.curseforge.com/mc-mods/227599-hxcenchants",
-"desc":"Adds a lot of enchants including Flight and Air Strider.",
+"desc":"Adds a lot of enchantments such as Flight and Air Strider.",
 "author":["DeathToHerobrine","karelmikie3"],
 "source":"https://github.com/HxCKDMS/HxCEnchants",
 "type":["Universal"],
@@ -10228,7 +10239,7 @@
 
 "name":"InfiniteInvo",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2336005-infiniteinvo-all-the-inventory-space-a-player",
-"desc":"Allows player to increase the size of the inventory as much as he like until either Java runs out of memory or hit the integer limit of ~2.14 billion.",
+"desc":"Allows player to increase the size of the inventory until either Java runs out of memory or hits the integer limit of around 2.14 billion.",
 "author":["Funwayguy"],
 "source":"https://github.com/Funwayguy/InfiniteInvo",
 "type":["Universal"],
@@ -10453,7 +10464,7 @@
 "name":"Integrated Circuits",
 "other":"(Alpha)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2352247-integrated-circuits-alpha-ics-for-minecraft",
-"desc":"Description needed.",
+"desc":"Adds blocks with integrated circuit layouts and 7 segment displays. Compatible with Project:RED, Minefactory Reloaded, Red Logic, Forge Multipart and ComputerCraft.",
 "author":["Vic_"],
 "source":"https://github.com/Victorious3/Integrated-Circuits",
 "type":["Universal"],
@@ -10479,7 +10490,7 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2360685-intermediary-run-minecraft-1-2-5-mods-in-1-7-10",
 "desc":"Allows to run 1.2.5 mods on Minecraft 1.7.10 without code modification. Very experimental.",
 "author":["FyberOptic"],
-"type":["Universal"],
+"type":["SSP","LAN"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
 
@@ -10499,7 +10510,7 @@
 "name":"Instant Structures Mod",
 "other":"(ISM)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2216378-instant-structures-mod-place-houses-by-1-click",
-"desc":"Adds structures which can be placed by one-click. Includes modern houses, modern structures, medieval buildings, Asia buildings, ships, vehicles and more.",
+"desc":"Adds structures which can be placed with one-click. Includes modern houses, modern structures, medieval buildings, Asian buildings, ships, vehicles and more.",
 "author":["MaggiCraft"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -10699,7 +10710,7 @@
 
 "name":"ItemPhysic",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic-1-1-2-more-realtistic-items-stone",
-"desc":"Makes dropped items/blocks look nicer! Also changes how items burn, float, etc.",
+"desc":"Animates dropped items, allows certain items to float in water and prevents others from burning in lava.",
 "author":["CreativeMD"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -11136,7 +11147,7 @@
 
 "name":"Kingdom Keys",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290133-1-7-10-kingdom-keys-mod-v0-7-0-1-7-10-drive-forms",
-"desc":"Adds key blades from the game Kingdom Hearts and some other items. The key blades so far act just like swords. Also adds some of the bug blox from Kingdom Hearts Re:coded.",
+"desc":"Adds keyblades from the Kingdom Hearts series and some other items. Also adds some of the bug blox from Kingdom Hearts Re:coded.",
 "author":["Wehavecookies56"],
 "source":"https://github.com/Wehavecookies56/Kingdom-Keys-1.7-",
 "type":["Universal"],
@@ -11147,7 +11158,7 @@
 
 "name":"Kingdom Keys",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290133-1-7-10-kingdom-keys-mod-v0-7-0-1-7-10-drive-forms",
-"desc":"Adds key blades from the game Kingdom Hearts and some other items. The key blades so far act just like swords. Also adds some of the bug blox from Kingdom Hearts Re:coded.",
+"desc":"Adds keyblades from the Kingdom Hearts series and some other items. Also adds some of the bug blox from Kingdom Hearts Re:coded.",
 "author":["Wehavecookies56"],
 "source":"https://github.com/Wehavecookies56/Kingdom-Keys-1.7-",
 "type":["Universal"],
@@ -11221,7 +11232,7 @@
 
 "name":"KUDA Shaders",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293662-kuda-shaders-v5-preview-2-years-anniversary",
-"desc":"Shaders designed to run on both older and modern PCs. Improves lighting and shadows.",
+"desc":"Shaders designed to run on both modern and older PCs. Improves lighting and shadows.",
 "author":["DeDelner"],
 "type":["Client"],
 "dependencies":["Forge Required","GLSL Shaders Mod"],
@@ -11304,7 +11315,7 @@
 
 "name":"Laser Level",
 "link":"https://mods.io/mods/1123-laser-level",
-"desc":"Add laser markers to make building (repetitive) structures easier.",
+"desc":"Add laser markers to make building repetitive structures easier.",
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/Laser-Level",
 "type":["Universal"],
@@ -11797,7 +11808,7 @@
 
 "name":"LootBags",
 "link":"http://minecraft.curseforge.com/mc-mods/225946-lootbags",
-"desc":"Adds loot bags which contains dungeon loot that are dropped from monsters, passive mobs and players. Highly configurable.",
+"desc":"Adds loot bags which contain dungeon loot dropped from monsters, passive mobs and players. Highly configurable.",
 "author":["Mal7690"],
 "source":"https://github.com/Malorolam/LootBags",
 "type":["Universal"],
@@ -11947,7 +11958,7 @@
 "name":"Magia Naturalis",
 "other":"(WIP)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2328507-wip-thaumcraft-4-2-addon-magia-naturalis-v0-1-2c",
-"desc":"Description needed.",
+"desc":"Adds alchemy stones, dark crystal goggles and other magical items.",
 "author":["TrinaryBrain"],
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
@@ -13257,7 +13268,7 @@
 
 "name":"Mob Rebirth",
 "link":"http://minecraft.curseforge.com/mc-mods/226212-mob-rebirth",
-"desc":"Allows mobs to come back to life after player kill them.",
+"desc":"Allows mobs to come back to life after players kill them.",
 "author":["The_Fireplace"],
 "type":["Universal"],
 "dependencies":["Forge Required","Fireplace Core"],
@@ -13288,7 +13299,7 @@
 
 "name":"Mob Spawn Controls",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286700-1-6-4-forge-modloader-mob-spawn-controls-control",
-"desc":"Allows you to control where mobs can spawn.",
+"desc":"Allows control over where mobs can spawn.",
 "author":["Davidee"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13298,7 +13309,7 @@
 
 "name":"Mob Spawn Controls 2",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290704-mob-spawn-controls-2-back-better-than-ever-updated",
-"desc":"Allows you to control where mobs can spawn.",
+"desc":"Allows control over where mobs can spawn.",
 "author":["Davidee"],
 "source":"https://github.com/DavidGoldman/MobSpawnControls2",
 "type":["Universal"],
@@ -13309,7 +13320,7 @@
 
 "name":"Mob Spawn Controls 2",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290704-mob-spawn-controls-2-back-better-than-ever-updated?comment=286",
-"desc":"Allows you to control where mobs can spawn.",
+"desc":"Allows control over where mobs can spawn.",
 "author":["Davidee"],
 "source":"https://github.com/DavidGoldman/MobSpawnControls2",
 "type":["Universal"],
@@ -13660,7 +13671,7 @@
 
 "name":"Monster Girl Mod",
 "link":"https://www.dropbox.com/sh/c8y01js16371n6f/AAAxjoRunoek3XAYb1szzbALa/MonsterGirlMod?dl=0",
-"desc":"Description needed.",
+"desc":"Adds female hostile mobs such as skeleton girls and squid girls.",
 "author":["\u30E1\u30C3\u304B\u306B\uFF0F\u6EC5\u87F9"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13704,7 +13715,7 @@
 
 "name":"Monster Swarm",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2342901-monster-swarm-lets-see-how-mob-proof-is-your-base",
-"desc":"Makes monsters very aggressive and gives them ability to dig through walls of player's base and build temporary bridges. By default active only during full moon night.",
+"desc":"Makes monsters very aggressive, allowing them to dig through walls and build temporary bridges. By default active only during a full moon.",
 "author":["Keray"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -13857,7 +13868,7 @@
 
 "name":"More Minecraft 2",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293243-more-minecraft-2-armor-tools-food-blocks",
-"desc":"Adds miscellaneous additions, such as Nether and End variants of ores, armor and tools made of different materials, beehives and food.",
+"desc":"Adds miscellaneous additions such as Nether and The End variants of ores, armors, tools, beehives and food.",
 "author":["2BeCristi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -14050,7 +14061,7 @@
 
 "name":"MoreOredicts",
 "link":"https://www.dropbox.com/sh/c8y01js16371n6f/AAAu8-2G-ent1ETSKHdvt75ua/MoreOredict?dl=0",
-"desc":"Adds Ore Dictionary support for many mods. Including: Hardcore Ender Expansion, ExtrabiomesXL, Primitive Mobs, Plant Mega Pack, Ye Gamol Chattels, PsychedeliCraft, Magical Crops, Natura, Gany's mods.",
+"desc":"Adds Ore Dictionary support for many mods, including: Hardcore Ender Expansion, ExtrabiomesXL, Primitive Mobs, Plant Mega Pack, Ye Gamol Chattels, PsychedeliCraft, Magical Crops, Natura, and Gany's mods.",
 "author":["\u30E1\u30C3\u304B\u306B\uFF0F\u6EC5\u87F9"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -14476,7 +14487,7 @@
 
 "name":"Multiplayer Profiles",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286535-1-7-10-multiplayer-profiles",
-"desc":"Allows player to use links that are json encoded and decode them in the client. Players are also able to create their own profiles for their own organized lists.",
+"desc":"Allows lists of servers to be loaded from a remote source. Players can also create their own lists.",
 "author":["Cory_","jrtc27"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -14925,7 +14936,7 @@
 
 "name":"Netherrocks",
 "link":"http://minecraft.curseforge.com/mc-mods/226140-netherrocks",
-"desc":"Description needed.",
+"desc":"Adds new ores which only spawn in the Nether, which can be smelted and crafted into tools and armor.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -14935,7 +14946,7 @@
 
 "name":"Netherrocks",
 "link":"http://minecraft.curseforge.com/mc-mods/226140-netherrocks",
-"desc":"Description needed.",
+"desc":"Adds new ores which only spawn in the Nether, which can be smelted and crafted into tools and armor.",
 "author":["AleXndrTheGr8st"],
 "type":["Universal"],
 "dependencies":["Forge Required","SimpleCore API"],
@@ -15552,7 +15563,7 @@
 
 "name":"OpenPeripheralAddons",
 "link":"http://www.openmods.info/",
-"desc":"Adds few peripherals, like Terminal Glasses, PIMs, Peripheral Proxies.",
+"desc":"Adds few peripherals such as Terminal Glasses, PIMs, and Peripheral Proxies.",
 "author":["boq","cybcaoyibo","Foone","Mikeemoo","SinZ","theoriginalbit"],
 "source":"https://github.com/OpenMods/OpenPeripheral-Addons",
 "type":["Universal"],
@@ -15563,7 +15574,7 @@
 
 "name":"OpenPeripheralCore",
 "link":"http://www.openmods.info/",
-"desc":"Provides simple ComputerCraft integration layer.",
+"desc":"Provides a simple ComputerCraft integration layer.",
 "author":["boq","Foone","Mikeemoo","SinZ","theoriginalbit"],
 "source":"https://github.com/OpenMods/OpenPeripheral",
 "type":["Universal"],
@@ -15914,7 +15925,7 @@
 
 "name":"Pearcel Mod",
 "link":"http://minecraft.curseforge.com/mc-mods/227627-pearcel-mod",
-"desc":"Adds a variety of pear-cel related items to the game, as well as compressed sugar cane.",
+"desc":"Adds a variety of pear-related items to the game, as well as compressed sugar cane.",
 "author":["MiningMark48","Numbah90"],
 "source":"https://github.com/MiningMark48/Pearcel-Mod",
 "type":["Universal"],
@@ -16065,7 +16076,7 @@
 
 "name":"Pig Manure Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2355152-pig-manure-mod-feb-12-2015",
-"desc":"Adds manure as pig drops, which can be used as bonemeal in the world, can be smelted into bricks, and can be used as brown dye in recipes.",
+"desc":"Adds manure as pig drops, which can be used as bonemeal in the world, smelted into bricks, or used as brown dye in recipes.",
 "author":["AiryBreath"],
 "source":"https://github.com/airbreather/pig-manure-mod/",
 "type":["Universal"],
@@ -17153,7 +17164,7 @@
 
 "name":"Realistic Deaths",
 "link":"http://minecraft.curseforge.com/mc-mods/221458-realistic-deaths",
-"desc":"Adds a new function to mob deaths: When they die there is now a quarter chance that they will drop a "body" or head.",
+"desc":"Adds a new function to mob deaths: Upon death there is a chance that they will drop body parts. Body parts can be carved to yield more loot.",
 "author":["deadrecon98"],
 "source":"https://github.com/deadrecon98/Realistic-Deaths",
 "type":["Universal"],
@@ -17360,7 +17371,7 @@
 },{
 
 "name":"Redstone Arsenal",
-"other":"(Beta)",
+"other":"(RC)",
 "link":"http://www.curse.com/mc-mods/minecraft/redstone-arsenal",
 "desc":"Adds tools and weaponry which harness the power of Redstone Flux, the energy system added by CoFH and Thermal Expansion.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
@@ -17702,7 +17713,7 @@
 
 "name":"Ridiculous World",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2152723-ridiculous-world-for-those-who-like-their-biomes",
-"desc":"Adds new biomes to the game. The aim of this mod is to make the world a little more interesting than just a few real-world biomes and trees.",
+"desc":"Adds new biomes to the game, such as spooky forests, ossuaries, rock candy mountains and mountains of madness.",
 "author":["SpitefulFox"],
 "source":"https://github.com/SpitefulFox/RidiculousWorld",
 "type":["Universal"],
@@ -18036,7 +18047,7 @@
 
 "name":"Santa's Decor",
 "link":"http://minecraft.curseforge.com/mc-mods/222394-santas-decor",
-"desc":"A mod based on decoration using mob drops and other resources.",
+"desc":"Adds decorations using mob drops and other resources.",
 "author":["SatanicSanta"],
 "source":"https://github.com/satanicsanta/SantasMods",
 "type":["Universal"],
@@ -18047,7 +18058,7 @@
 
 "name":"Santa's Toys",
 "link":"http://minecraft.curseforge.com/mc-mods/222682-santas-toys",
-"desc":"Cheaper single-use fire starters, infinite use guns that may cause 'splosions, and more.",
+"desc":"Cheaper single-use fire starters, infinite-use guns that may cause explosions, and more.",
 "author":["SatanicSanta"],
 "source":"https://github.com/satanicsanta/SantasMods",
 "type":["Universal"],
@@ -18122,7 +18133,7 @@
 
 "name":"Scott's Tweaks",
 "link":"https://github.com/MinecraftModArchive/ScottsTweaks/blob/master/README.md",
-"desc":"Description needed.",
+"desc":"Adds miscellaneous changes such as chickens dropping feathers, self-planting saplings and reduced squid spawning.",
 "author":["ScottKillen"],
 "source":"https://github.com/MinecraftModArchive/ScottsTweaks",
 "type":["Universal"],
@@ -18153,7 +18164,7 @@
 
 "name":"Second Screen for Minecraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295130-second-screen-for-minecraft-use-your-mobile-device",
-"desc":"Allows player to use mobile device as a "Second Screen" or a "Companion app". Device can show informations, like redstone status, time, online players or chat, from the Minecraft instance.",
+"desc":"Allows players to use a mobile device as a mirror of the screen or a companion app. The app displays information such as redstone status, the time, online players or chat.",
 "author":["maxanier"],
 "source":"https://github.com/maxanier/MinecraftSecondScreenMod",
 "type":["Universal"],
@@ -18218,7 +18229,7 @@
 "name":"Shamanry",
 "other":"(WIP)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2290204-wip-1-7-10-thaumcraft-4-2-addon-shamanry-become",
-"desc":"Seeks to add a Shamanry mechanic to the game.",
+"desc":"Adds Shamanry mechanics, which involves rituals and karma.",
 "author":["Asyncronous"],
 "source":"https://github.com/s0cks/Shamanry",
 "type":["Universal"],
@@ -18269,7 +18280,7 @@
 
 "name":"ShinyStones Mod 2",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2323075-1-7-10-shinystones-mod-2",
-"desc":"Adds elemental shinystones. They can be used as light source or can be putted in a furnace to make shiny dusts.",
+"desc":"Adds elemental shinystones, which can be used as light source or can be smelted into shiny dust.",
 "author":["xbony2"],
 "source":"https://github.com/xbony2/Shiny-Stones-2-Mod",
 "type":["Universal"],
@@ -18290,7 +18301,7 @@
 
 "name":"Shipwrecks",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291627-shipwrecks-make-oceans-and-beaches-more",
-"desc":"Adds ships to the world generation, a piranha mob and a diving suit. Currently adds rowboats, sailboats (upright and sideways), sloops, schooners, and the Waverunner to oceans and beaches.",
+"desc":"Adds ships to the world generation, piranhas, and diving suits. Currently adds rowboats, sailboats (upright and sideways), sloops, schooners, and the Waverunner to oceans and beaches.",
 "author":["TheWinslow"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -18599,7 +18610,7 @@
 
 "name":"Simply Paths",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2346138-simply-paths-the-mod-that-adds-paths",
-"desc":"Adds many paths based on vanilla and custom blocks.",
+"desc":"Adds slightly lowered vanilla and custom blocks for use as paths.",
 "author":["MomnopTheDwarf"],
 "source":"https://github.com/Zundrel/Simply-Paths",
 "type":["Universal"],
@@ -21118,6 +21129,17 @@
 
 },{
 
+"name":"Thermal Dynamics",
+"other":"(RC)",
+"link":"http://www.curse.com/mc-mods/minecraft/227443-thermal-dynamics",
+"desc":"Adds ducts and conduits from Thermal Expansion 3.",
+"author":["Team CoFH","CoFH Core","CoFH Lib","Thermal Foundation"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Thermal Expansion 3",
 "link":"http://www.curse.com/mc-mods/minecraft/thermalexpansion",
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Formerly dependent on BuildCraft, this mod is now stand-alone, but uses the same power system as BuildCraft.",
@@ -21129,12 +21151,12 @@
 },{
 
 "name":"Thermal Expansion 4",
-"other":"(Beta)",
+"other":"(RC)",
 "link":"http://www.curse.com/mc-mods/minecraft/thermalexpansion",
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","Thermal Foundation","CoFH Lib"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
@@ -21151,7 +21173,7 @@
 },{
 
 "name":"Thermal Foundation",
-"other":"(Beta)",
+"other":"(RC)",
 "link":"http://www.curse.com/mc-mods/minecraft/222880-thermal-foundation",
 "desc":"Required for Thermal Expansion. Adds resources without requiring the technology included in Thermal Expansion.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
@@ -21519,7 +21541,7 @@
 
 "name":"TinyCarts",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers",
-"desc":"Description needed.",
+"desc":"Adds tiny carts.",
 "author":["immibis"],
 "type":["Universal"],
 "dependencies":["Forge Required","Immibis Core"],
@@ -21925,7 +21947,7 @@
 
 "name":"Trophy Slots",
 "link":"https://lomeli12.net/minecraft-mods/trophy-slots/",
-"desc":"Simply locks away slots in player's inventory. To unlock those slots, player should complete achievements or use the aforementioned trophies.",
+"desc":"Locks away slots in the player's inventory. To unlock those slots, players must complete achievements or make use of trophies.",
 "author":["Lomeli12"],
 "source":"https://github.com/Lomeli12/TrophySlots",
 "type":["Universal"],
@@ -22091,7 +22113,7 @@
 "name":"UltraTech",
 "other":"(Discontinued)",
 "link":"http://minecraft.curseforge.com/mc-mods/70036-ultratech",
-"desc":"Adds technology and decoration, like a lot of futuristic blocks with two types, black and white and 14 colors per type. For technology, this adds a lot of machines to process ores, auto-craft, refine oil, auto-mine, create energy for others apis, etc. Ultratech has its own energy system but works with Redstone Flux and has an engine to create MJ energy.",
+"desc":"Adds technology and decoration, with 14 colors per type. Adds machines which process ores, auto-craft, refine oil, auto-mine, create energy, etc. Ultratech has its own energy system, but works with Redstone Flux and MJ energy.",
 "author":["Umbrosus"],
 "source":"https://github.com/cout970/UltraTech",
 "type":["Universal"],
@@ -22543,7 +22565,7 @@
 "name":"VeinMiner Mod Integration",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/227576-veinminer-mod-integration",
-"desc":"Adds additional requirements in order to VeinMine with VeinMiner.",
+"desc":"Adds additional requirements in order to mine using VeinMiner.",
 "author":["portablejim"],
 "source":"https://github.com/portablejim/VeinMinerModIntegration",
 "type":["Universal"],
@@ -22677,7 +22699,7 @@
 
 "name":"Void Glasses",
 "link":"https://lomeli12.net/minecraft-mods/void-glasses/",
-"desc":"Adds some special glasses as dungeon loot. These glasses let player pick and choose what shaders to view the world in!",
+"desc":"Adds special glasses as dungeon loot, which lets the player select shaders to view the world in.",
 "author":["Lomeli12"],
 "source":"https://github.com/Lomeli12/VoidGlasses",
 "type":["Universal"],
@@ -22928,7 +22950,7 @@
 "name":"Wear Your Enemies",
 "other":"(WYEM)",
 "link":"http://minecraft.curseforge.com/mc-mods/227664-wyem-wear-your-enemies-mod",
-"desc":"Adds craftable armor made from the parts of various mobs in the game, using these armor pieces grants special abilities akin to what those mobs had.",
+"desc":"Adds craftable armor made from the parts of various mobs, which grant special abilities related to the mob.",
 "author":["Gnomorian"],
 "source":"https://github.com/Gnomorian/WYE-Mod",
 "type":["Universal"],
@@ -23000,7 +23022,7 @@
 
 "name":"Weeping Angels",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277588-1-5-2-weeping-angels-v1-5-10-22-may-13-forge-sp",
-"desc":"Adds weeping angles to the game.",
+"desc":"Adds weeping angels from the Doctor Who series.",
 "author":["a_dizzle"],
 "source":"https://github.com/ynohtna92/WeepingAngels",
 "type":["Universal"],
@@ -23011,7 +23033,7 @@
 
 "name":"Weeping Angels",
 "link":"http://minecraft.curseforge.com/mc-mods/72505-weeping-angels",
-"desc":"Adds weeping angles to the game.",
+"desc":"Adds weeping angels from the Doctor Who series.",
 "author":["a_dizzle","Country_Gamer"],
 "source":"https://github.com/TheTemportalist/WeepingAngels",
 "type":["Universal"],
@@ -23715,7 +23737,7 @@
 
 "name":"Zombie Steaks",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2356160-zombie-steaks-for-minecraft-1-8-a-simple-new-use",
-"desc":"Lets player do some useful things with rotten flesh.",
+"desc":"Allows zombie flesh to be cleaned and cooked, removing the poison effects of normal zombie flesh.",
 "author":["Jagm_11"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -23725,7 +23747,7 @@
 
 "name":"Zombie Sunscreen",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288889-zombie-sunscreen-the-mod-that-makes-zombies-and",
-"desc":"Makes zombies and skeletons immune to sun.",
+"desc":"Zombies and skeletons become unaffected by daylight.",
 "author":["lasa11"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
