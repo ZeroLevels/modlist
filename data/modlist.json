@@ -2031,7 +2031,7 @@
 "desc":"This is about a Chest, that you can upgrade to how you want it to be. You can make a Cobblestone Generator out of it, you can make the Chest suck in nearby Items, or you can use the chest as a big furnace. There are many more upgrades.",
 "author":["Aroma1997"],
 "type":["Universal"],
-"dependencies":["Forge Required","Aroma1997Core Required"],
+"dependencies":["Forge Required","Aroma1997Core"],
 "versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
