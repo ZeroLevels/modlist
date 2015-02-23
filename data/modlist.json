@@ -4340,7 +4340,7 @@
 "author":["spacechase0"],
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.10","1.6.4","1.6.2"]
 
 },{
 
@@ -5447,7 +5447,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -5861,7 +5861,7 @@
 "author":["mmdanggg2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -7191,6 +7191,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"ExplorerCraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292179-1-7-2-1-6-x-1-5-2-explorercraft-0-9-multimap",
+"desc":"Provides new map recipes and items that make it easier to explore and manage maps.",
+"author":["Zeno410"],
+"type":["SSP"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -14502,7 +14512,7 @@
 "source":"http://github.com/maruohon/multishot",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
