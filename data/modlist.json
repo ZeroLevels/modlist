@@ -11689,7 +11689,7 @@
 
 "name":"LittleBlocks",
 "link":"http://slimevoid.net/littleblocks/",
-"desc":"Allows you to place blocks at a scale of 1/512, allowing for more creative builds and compact redstone circuitry.",
+"desc":"Allows you to place blocks at a scale of 1/8, allowing for more creative builds and compact redstone circuitry.",
 "author":["VengeurK","SlimeVoid"],
 "source":"https://github.com/SlimeVoid/LittleBlocks-FML",
 "type":["Universal"],
