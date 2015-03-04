@@ -1796,22 +1796,22 @@
 
 "name":"Batty's Coordinates Mod",
 "other":"(Beta)",
-"link":"http://minecraft.curseforge.com/mc-mods/58877-batty-coords",
+"link":"http://minecraft.curseforge.com/mc-mods/62484-battys-coordinates-mod-forge",
 "desc":"Displays player coordinates and the direction the player is facing in a corner of the screen.",
 "author":["BatHeart"],
 "type":["Client"],
-"dependencies":["Not Forge Compatible"],
+"dependencies":["Forge Required"],
 "versions":["1.8"]
 
 },{
 
 "name":"Batty's Coordinates PLUS! Mod",
 "other":"(Beta)",
-"link":"http://minecraft.curseforge.com/mc-mods/59036-batty-ui",
+"link":"http://minecraft.curseforge.com/mc-mods/62514-battys-ui-mod-forge",
 "desc":"Displays player coordinates, the direction the player is facing, the current biome and chunk information in a corner of the screen.",
 "author":["BatHeart"],
 "type":["Client"],
-"dependencies":["Not Forge Compatible"],
+"dependencies":["Forge Required"],
 "versions":["1.8"]
 
 },{
@@ -11352,7 +11352,7 @@
 "source":"https://github.com/NightKosh/LavaBoat-mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.8","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 

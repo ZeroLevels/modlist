@@ -1,7 +1,10 @@
 (March/04/2015)
+	*Updated "Batty's Coordinates Mod" link and info: Forge version available
+	*Updated "Batty's Coordinates PLUS! Mod" link and info: Forge version available
 	+Added "Back Tools"
 	+Added "Guilt Trip"
 	+Added "iChun Util"
+	+Added "LavaBoat"
 	+Added "Magic Yarn"
 	+Added "Minions"
 	+Added "Shatter"
