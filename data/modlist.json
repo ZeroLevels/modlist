@@ -1666,7 +1666,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -9259,7 +9259,7 @@
 "source":"https://github.com/iChun/GuiltTrip",
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -9999,7 +9999,7 @@
 "source":"https://github.com/iChun/iChunUtil",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -12109,7 +12109,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FMagicYarn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -13141,7 +13141,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FMinions",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -18254,7 +18254,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -18891,7 +18891,7 @@
 "author":["Divisor"],
 "type":["Universal"],
 "dependencies":["Forge Required","Player API"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -19741,7 +19741,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 

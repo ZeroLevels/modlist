@@ -1,3 +1,13 @@
+(March/04/2015)
+	+Added "Back Tools"
+	+Added "Guilt Trip"
+	+Added "iChun Util"
+	+Added "Magic Yarn"
+	+Added "Minions"
+	+Added "Shatter"
+	+Added "Smart Moving"
+	+Added "Streak"
+
 (February/23/2015)
 	+Added "Death Counter"
 	+Added "Doge Mod"
