@@ -1,3 +1,15 @@
+(March/05/2015)
+	+Added "Biota"
+	+Added "ChiselTones"
+	+Added "Custom Interaction Sounds"
+	+Added "Elemental Witch"
+	+Added "MFR Magical Crops Compatibility"
+	+Added "Peripherals++"
+	+Added "Thaumic Upholstry": Currently in Beta
+	+Added "UBC Ore Registrar": Currently in Beta
+	+Added "Where are you?": Currently in Beta
+	+Added "Witching Gadgets"
+
 (February/23/2015)
 	+Added "Component Equipment": Currently WIP
 	+Added "ExplorerCraft": Currently single-player only

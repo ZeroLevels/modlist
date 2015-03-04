@@ -590,6 +590,17 @@
 
 },{
 
+"name":"Alchemy Craft",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2363266-wip-alchemycraft-v-0-2-1alpha-forge-your-personal",
+"desc":"Description needed.",
+"author":["Dr_Schnauzer"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"AlgaeCraft",
 "link":"http://j.mp/14dmq12",
 "desc":"Adds a large variety of new blocks, items, and food. Algae spawn in swamps, coral reef spawn in ocean biomes, and new mobs exist underwater.",
@@ -2526,6 +2537,18 @@
 
 },{
 
+"name":"Biota",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/228227-biota",
+"desc":"Aims to make the Minecraft plant life less static. Ground will have nutrients that plants need to grow and live. The aim is to make this as close to reality as possible.",
+"author":["Dynious"],
+"source":"https://github.com/Dynious/Biota",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Bio Materials",
 "link":"http://j.mp/1pwuYic",
 "desc":"Adds new recipes to produce Industrial Diamonds out of carbon materials.",
@@ -3591,7 +3614,29 @@
 "author":["Choonster"],
 "source":"https://github.com/Choonster/ChiselFacades",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Buildcraft","Chisel"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Chisel Facades",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2158261-chisel-facades",
+"desc":"Compatibility mod that adds Chisel's blocks as BuildCraft Facades.",
+"author":["Choonster"],
+"source":"https://github.com/Choonster/ChiselFacades",
+"type":["Universal"],
+"dependencies":["Forge Required","Buildcraft","Chisel 2"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"ChiselTones",
+"link":"http://minecraft.curseforge.com/mc-mods/228004-chiseltones",
+"desc":"Adds Chisel compatibility for Ztones.",
+"author":["TehNut"],
+"source":"https://github.com/TehNut/ChiselTones",
+"type":["Universal"],
+"dependencies":["Forge Required","Chisel 2","Ztones"],
 "versions":["1.7.10"]
 
 },{
@@ -4687,7 +4732,7 @@
 },{
 
 "name":"CraftGuide",
-"link":"http://j.mp/ZfKdKh",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277913-craftguide-v1-6-8-1",
 "desc":"Quick access to a list of every crafting recipe in the game!",
 "author":["Uristqwerty"],
 "source":"https://github.com/Uristqwerty/CraftGuide",
@@ -5102,6 +5147,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"Custom Interaction Sounds",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2365875-custom-interaction-sounds",
+"desc":"Allows player to play own custom sounds when interact in Minecraft using the left and right click of mouse. These sounds are played to everyone when both server and clients have the mod installed.",
+"author":["zoonie"],
+"source":"https://github.com/zoonie/CustomInteractionSounds",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -6383,6 +6439,16 @@
 
 },{
 
+"name":"Elemental Witch",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2199940-1-7-2-1-7-10-v0-0-5-elemental-witch-mod-water",
+"desc":"Adds witches with elemental power like fire, water, earth, air together with pets and staves.",
+"author":["HoopaWolf"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"Elementals",
 "link":"http://j.mp/1g5cYTK",
 "desc":"A submission for ModJam 3. Adds new bosses to battle and special companions faithfully fight by the player.",
@@ -6705,13 +6771,25 @@
 },{
 
 "name":"Ender Utilities",
-"link":"http://j.mp/1sJumHL",
+"link":"http://minecraft.curseforge.com/mc-mods/224320-ender-utilities",
 "desc":"Adds miscellaneous items and blocks with Ender-based mechanics. Entry for ModJam 4.",
 "author":["masa_fi"],
-"source":"https://github.com/maruohon/modjam4",
+"source":"https://github.com/maruohon/enderutilities",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Ender Utilities",
+"other":"(Early Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/224320-ender-utilities",
+"desc":"Adds miscellaneous items and blocks with Ender-based mechanics. Entry for ModJam 4.",
+"author":["masa_fi"],
+"source":"https://github.com/maruohon/enderutilities",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -7043,7 +7121,7 @@
 "author":["Modbder","TheDen2099","MrDangerDen"],
 "source":"https://github.com/Modbder/EssentialThaumaturgy",
 "type":["Universal"],
-"dependencies":["Forge Required","Baubles","DummyCore","Thaumcraft 4"],
+"dependencies":["Forge Required","DummyCore","Thaumcraft 4"],
 "versions":["1.7.10"]
 
 },{
@@ -8526,13 +8604,24 @@
 
 "name":"Fysiks Fun",
 "other":"(WIP)",
-"link":"http://j.mp/Wzglhq",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443679-1-6-4-fysiks-fun-ssp-smp-forge-9-11-1",
 "desc":"Adds natural phenomenon such as physics and ecology effects, including plant life consuming water and finite liquid.",
 "author":["mbrx"],
 "source":"https://github.com/mbrx/FysiksFun",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"MFR Magical Crops Compatibility",
+"link":"http://minecraft.curseforge.com/mc-mods/227983-mfr-magical-crops-compatibility",
+"desc":"Adds Magical Crops compatibility for MFR planter and harvester.",
+"author":["portablejim"],
+"source":"https://github.com/portablejim/MFR-MagicalCrops-compatibility",
+"type":["Universal"],
+"dependencies":["Forge Required","Magical Crops","MineFactory Reloaded"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10190,7 +10279,7 @@
 "source":"https://github.com/wuppy29/WuppyMods/tree/master/Improved%20Mob%20Spawn",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -11812,7 +11901,7 @@
 "source":"https://github.com/Lomeli12/LomLib",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -11988,7 +12077,7 @@
 },{
 
 "name":"Magical Crops",
-"link":"http://j.mp/W9maB8",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with",
 "desc":"Introduces lot of new crops that grow all sort of things, from new food like sweetcorn and strawberries to Coal essence and Diamond essence which can be crafting into Coal and Diamonds.",
 "author":["Mark719"],
 "type":["Universal"],
@@ -11999,7 +12088,7 @@
 
 "name":"Magical Crops",
 "other":"(Beta)",
-"link":"http://j.mp/W9maB8",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with",
 "desc":"Introduces lot of new crops that grow all sort of things, from new food like sweetcorn and strawberries to Coal essence and Diamond essence which can be crafting into Coal and Diamonds.",
 "author":["Mark719"],
 "type":["Universal"],
@@ -12846,7 +12935,7 @@
 "author":["skyboy026","TeamCoFH"],
 "source":"https://github.com/skyboy/MineFactoryReloaded",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","CoFH Lib"],
+"dependencies":["Forge Required","CoFH Core"],
 "versions":["1.7.10"]
 
 },{
@@ -13156,8 +13245,8 @@
 },{
 
 "name":"MiscPeripherals",
-"link":"http://j.mp/TWGOzR",
-"desc":"Frickin' turtles with frickin' mining lasers attached to their frickin' side!",
+"link":"http://www.computercraft.info/forums2/index.php?/topic/4587-cc153mc152-miscperipherals-33/",
+"desc":"Heh, description needed.",
 "author":["RichardG867"],
 "type":["Universal"],
 "dependencies":["Forge Required","ComputerCraft"],
@@ -14917,7 +15006,7 @@
 "author":["skyboy026","TeamCoFH"],
 "source":"https://github.com/skyboy/NetherOres",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Lib","CoFH Core"],
+"dependencies":["Forge Required","CoFH Core"],
 "versions":["1.7.10"]
 
 },{
@@ -15952,6 +16041,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10","1.7.2"]
+
+},{
+
+"name":"Peripherals++",
+"link":"http://minecraft.curseforge.com/mc-mods/226687-peripherals",
+"desc":"Description needed.",
+"author":["austinv11"],
+"source":"https://github.com/austinv11/PeripheralsPlusPlus/",
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17106,7 +17206,7 @@
 "source":"https://github.com/lumien231/Random-Things",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -17387,7 +17487,7 @@
 "author":["KingLemming","skyboy026","ZeldoKavira"],
 "source":"https://github.com/CoFH/RedstoneArsenal",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
+"dependencies":["Forge Required","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
@@ -20304,7 +20404,7 @@
 },{
 
 "name":"Thaumcraft 3",
-"link":"http://j.mp/1bNyb3j",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-3-5-updated-2015-2-17",
 "desc":"Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
 "author":["Azanor"],
 "type":["Universal"],
@@ -20314,7 +20414,7 @@
 },{
 
 "name":"Thaumcraft 4",
-"link":"http://j.mp/1bNyb3j",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-3-5-updated-2015-2-17",
 "desc":"Adds Thaumaturgy, the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
 "author":["Azanor"],
 "type":["Universal"],
@@ -20324,7 +20424,7 @@
 },{
 
 "name":"Thaumcraft 4",
-"link":"http://j.mp/1bNyb3j",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-3-5-updated-2015-2-17",
 "desc":"Adds Thaumaturgy. Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This mod is all about drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
 "author":["Azanor"],
 "type":["Universal"],
@@ -20551,8 +20651,19 @@
 "author":["Vazkii","pixlepix","nekosune"],
 "source":"https://github.com/Thaumic-Tinkerer/ThaumicTinkerer",
 "type":["Universal"],
-"dependencies":["Forge Required","Baubles","Thaumcraft 4"],
+"dependencies":["Forge Required","Thaumcraft 4"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Thaumic Upholstry",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2365057-thaumic-upholstry",
+"desc":"Yeah, another description needed.",
+"author":["EtsyTheDragon"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
 
 },{
 
@@ -21145,7 +21256,7 @@
 "desc":"Adds ducts and conduits from Thermal Expansion 3.",
 "author":["Team CoFH","RWTema","skyboy026"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","CoFH Lib","Thermal Foundation"],
+"dependencies":["Forge Required","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
@@ -21166,7 +21277,7 @@
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","CoFH Lib","Thermal Foundation"],
+"dependencies":["Forge Required","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
@@ -21189,7 +21300,7 @@
 "author":["KingLemming","skyboy026","ZeldoKavira"],
 "source":"https://github.com/CoFH/ThermalFoundation",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","CoFH Lib"],
+"dependencies":["Forge Required","CoFH Core"],
 "versions":["1.7.10"]
 
 },{
@@ -22110,6 +22221,18 @@
 
 },{
 
+"name":"UBC Ore Registrar",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/227992-ubc-ore-registrar",
+"desc":"Adds UBC variants of modded ores.",
+"author":["mallrat208"],
+"source":"https://github.com/mallrat208/UBC-Ore-Registrar",
+"type":["Universal"],
+"dependencies":["Forge Required","Underground Biomes Constructs"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"UgoCraft",
 "link":"http://j.mp/ZnYmt1",
 "desc":"Allows you to smoothly move blocks and sets of blocks. Using the blocks in this mod, you can make your constructions come to life and move.Page is in Japanese. If your web browser is capable (such as Google Chrome) tell it to translate the page. The mod's download link can be found at the bottom of the page.",
@@ -22556,7 +22679,7 @@
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.8","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -22568,7 +22691,7 @@
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.2"]
+"versions":["1.7.2"]
 
 },{
 
@@ -23084,6 +23207,17 @@
 
 },{
 
+"name":"Where are you?",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/227544-where-are-you",
+"desc":"Description needed.",
+"author":["pauljoda"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Whitelister",
 "link":"http://minecraft.curseforge.com/mc-mods/224493-whitelister",
 "desc":"A simple whitelist fetching mod.",
@@ -23223,12 +23357,23 @@
 },{
 
 "name":"Witches and More",
-"link":"http://j.mp/WnYzWw",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284746-1-6-4-witches-and-more-v164dev12-by-chancebozey-a",
 "desc":"Adds a lot of mobs, such as witches, widows, knights and more. Also adds new biomes and structures.",
 "author":["Chancebozey"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"Witching Gadgets",
+"link":"http://minecraft.curseforge.com/mc-mods/228268-witching-gadgets",
+"desc":"Aims to be for one a more general expansion to Thaumcraft as well as a crossover mod between Thaumcraft and various others mods.",
+"author":["BluSunrize"],
+"source":"https://github.com/BluSunrize/WitchingGadgets",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
 
 },{
 

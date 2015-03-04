@@ -1,3 +1,12 @@
+(March/05/2015)
+	*Updated "Vein Miner": No longer in Beta
+	+Added "Alchemy Craft"
+	+Added "Custom Interaction Sounds"
+	+Added "Ender Utilities": Currently in Early Alpha
+	+Added "Improved Mob Spawn"
+	+Added "LomLib"
+	+Added "Random Things"
+
 (March/04/2015)
 	*Updated "Batty's Coordinates Mod" link and info: Forge version available
 	*Updated "Batty's Coordinates PLUS! Mod" link and info: Forge version available
