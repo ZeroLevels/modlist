@@ -1,6 +1,7 @@
 (March/05/2015)
 	*Updated "Vein Miner": No longer in Beta
 	+Added "Alchemy Craft"
+	+Added "Craftable Animals": Currently in Beta
 	+Added "Custom Interaction Sounds"
 	+Added "Ender Utilities": Currently in Early Alpha
 	+Added "Improved Mob Spawn"

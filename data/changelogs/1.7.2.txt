@@ -1,4 +1,5 @@
 (March/05/2015)
+	+Added "CJB Mod"
 	+Added "Elemental Witch"
 
 (February/22/2015)

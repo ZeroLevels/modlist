@@ -22,13 +22,24 @@
 },{
 
 "name":"4-Space",
-"link":"http://mattparks.hostei.com/Changelog.htm",
+"link":"http://4space.mods.center/#",
 "desc":"Adds many missing planets to Galacticraft.",
 "author":["Mattparks","Decaxon"],
 "source":"https://github.com/4-Space/4-Space-1.6.4",
 "type":["Universal"],
 "dependencies":["Forge Required","Galacticraft","MattparksCore"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"4-Space",
+"link":"http://4space.mods.center/#",
+"desc":"Adds many missing planets to Galacticraft.",
+"author":["Mattparks","Decaxon"],
+"source":"https://github.com/4-Space/4-Space-1.7",
+"type":["Universal"],
+"dependencies":["Forge Required","Galacticraft"],
+"versions":["1.7.10"]
 
 },{
 
@@ -183,7 +194,7 @@
 },{
 
 "name":"Advanced Generators 2",
-"link":"http://j.mp/1pwq1pC",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=2483",
 "desc":"Adds new generators (Slag, Thermal, Turbine Solar and Slow Grinders) and other related blocks and items.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -237,7 +248,7 @@
 },{
 
 "name":"Advanced Machines Original",
-"link":"http://j.mp/UvGdJ4",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=5077",
 "desc":"",
 "author":["Snyke"],
 "type":["SSP","SMP"],
@@ -247,7 +258,7 @@
 },{
 
 "name":"Advanced Power Management",
-"link":"http://j.mp/POXv1O",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900",
 "desc":"Adds several new blocks to IC2 to help you manage your energy grid.",
 "author":["Pantheis"],
 "source":"https://github.com/pantheis/AdvancedPowerManagement",
@@ -258,13 +269,25 @@
 },{
 
 "name":"Advanced Power Management",
-"link":"http://j.mp/1sTGsKc",
+"link":"https://bitbucket.org/Zuxelus/ic2-advanced-power-management/overview",
 "desc":"Adds several new blocks to IC2 to help you manage your energy grid. Unofficial port of Pantheis's Advanced Power Management.",
 "author":["Zuxelus"],
 "source":"https://github.com/pantheis/AdvancedPowerManagement",
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Advanced Power Management 2",
+"other":"(Unstable)",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&postID=180339#post180339",
+"desc":"This version is very buggy, be careful. Adds several new blocks to IC2 to help you manage your energy grid. Unofficial port of Pantheis's Advanced Power Management.",
+"author":["xbony2","Zuxelus"],
+"source":"https://github.com/xbony2/Advanced-Power-Management-2",
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10"]
 
 },{
 
@@ -289,7 +312,7 @@
 },{
 
 "name":"Advanced Solar Panels",
-"link":"http://j.mp/GELi8l",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291",
 "desc":"An addon meant to provide more advanced solar panels, both for keeping things compact and offering upgraded versions of solar helmets.",
 "author":["SeNtiMeL"],
 "type":["Universal"],
@@ -299,22 +322,13 @@
 },{
 
 "name":"Advanced Technologies",
-"link":"http://j.mp/UvGzzp",
+"other":"(Beta)",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8573",
 "desc":"",
 "author":["thebest108"],
 "type":["SSP","SMP"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
-
-},{
-
-"name":"AdvanceTime",
-"link":"http://j.mp/18pxYma",
-"desc":"A core mod that allows administrators to control the length of day for any dimension.",
-"author":["Neometron"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -602,7 +616,7 @@
 },{
 
 "name":"AlgaeCraft",
-"link":"http://j.mp/14dmq12",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287166-algaecraft-mod-sponges-seafood-coral-and-more",
 "desc":"Adds a large variety of new blocks, items, and food. Algae spawn in swamps, coral reef spawn in ocean biomes, and new mobs exist underwater.",
 "author":["Azaka7"],
 "type":["Universal"],
@@ -663,7 +677,7 @@
 },{
 
 "name":"All-U-Want Inventory Editor",
-"link":"http://j.mp/10HBIrf",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288788-all-u-want-create-and-edit-items-entities-spawners",
 "desc":"Allows you to give yourself almost every possible item in the game, including attribute modifiers, potions with all effects, items with enchantments and custom names with color and formatting.",
 "author":["mister_person"],
 "type":["Client"],
@@ -673,7 +687,7 @@
 },{
 
 "name":"All-U-Want Inventory Editor",
-"link":"http://j.mp/10HBIrf",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288788-all-u-want-create-and-edit-items-entities-spawners",
 "desc":"Allows you to not only give yourself any item in the game, but almost every possible kind of item.",
 "author":["mister_person"],
 "type":["Client"],
@@ -782,16 +796,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
-
-},{
-
-"name":"AngryMobs",
-"link":"http://j.mp/18jMpsq",
-"desc":"Adds Angry (hostile) variants of the friendly Overworld mobs at night that will attack you and other animals of the respective type.",
-"author":["TheKomputerKing"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4"]
 
 },{
 
@@ -1131,7 +1135,7 @@
 },{
 
 "name":"Armour and Tool Status HUD",
-"link":"http://j.mp/XgFJn4",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=6842",
 "desc":"",
 "author":["DoomFruit"],
 "type":["Client"],
@@ -1277,7 +1281,7 @@
 },{
 
 "name":"AsieLib",
-"link":"http://j.mp/1eEYqM7",
+"link":"http://wiki.vex.tty.sh/wiki:asielib",
 "desc":"Required dependency for asie's mods.",
 "author":["asie"],
 "source":"https://github.com/asiekierka/AsieLib",
@@ -1370,7 +1374,7 @@
 },{
 
 "name":"Atomicraft",
-"link":"http://j.mp/1m1j6lU",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293138-1-6-4-forge-atomicraft-adding-all-the-elements-of",
 "desc":"Adds elements from the periodic table into the game, plus many compounds, decorative blocks, machinery and other items.",
 "author":["ToxicGuyStudios"],
 "type":["Universal"],
@@ -1443,7 +1447,7 @@
 },{
 
 "name":"Auto Farmer",
-"link":"http://j.mp/ZOUv3Q",
+"link":"http://www.coros.us/mods/autofarmer",
 "desc":"Automatically harvests fully matured plants as well as automatically plant seeds.",
 "author":["Corosus"],
 "type":["SSP"],
@@ -1610,7 +1614,7 @@
 },{
 
 "name":"IC2 Backpack HUD",
-"link":"http://j.mp/Tqg4ra",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8495",
 "desc":"Draws an on-screen HUD that enables you to view armor item durability outside of the player inventory screen. The HUD can be positioned next to the hotbar on either side, or in any corner.",
 "author":["Mineshopper"],
 "type":["Client"],
@@ -1682,7 +1686,7 @@
 },{
 
 "name":"Bacon Mod",
-"link":"http://j.mp/13cbTU6",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286184-1-6-2-1-6-4-bacon-mod",
 "desc":"Incorporates everyone's favorite food into every aspect of Minecraft gameplay! Tools, armor, weapons, mobs, food, you name it! The wonderful world of bacon lies before you.",
 "author":["MinecraftWero"],
 "type":["Universal"],
@@ -1755,7 +1759,7 @@
 },{
 
 "name":"Basic Guns Mod",
-"link":"http://j.mp/13cFVtC",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287372-1-6-4-basic-guns-mod-1-8-update-in-progress",
 "desc":"Adds six different guns: a pistol, a shotgun, an assault rifle, a sniper rifle, a submachine gun, and a light machine gun. Includes weapons attachments, Kevlar armor and grenades.",
 "author":["ARandomHobo37"],
 "type":["Universal"],
@@ -1864,7 +1868,8 @@
 },{
 
 "name":"Beam Me Up!",
-"link":"http://j.mp/UnjZGc",
+"other":"(Early Alpha)",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8555",
 "desc":"",
 "author":["narc"],
 "type":["Universal"],
@@ -2485,7 +2490,7 @@
 },{
 
 "name":"BiomeGenerators",
-"link":"http://j.mp/XyJTXD",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=7515",
 "desc":"",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -2550,7 +2555,7 @@
 },{
 
 "name":"Bio Materials",
-"link":"http://j.mp/1pwuYic",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=2346",
 "desc":"Adds new recipes to produce Industrial Diamonds out of carbon materials.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -2560,7 +2565,7 @@
 },{
 
 "name":"Bio Materials",
-"link":"http://j.mp/1qIzMjU",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10801",
 "desc":"Adds new recipes to produce Industrial Diamonds out of carbon materials.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -2908,7 +2913,7 @@
 },{
 
 "name":"BrainTech Agricultures Datachip Package",
-"link":"http://j.mp/11sEN48",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=7490",
 "desc":"",
 "author":["I don't now"],
 "type":["N/A"],
@@ -3296,7 +3301,7 @@
 },{
 
 "name":"Cartographer",
-"link":"http://j.mp/YrLOkS",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288354-now-in-vanilla-1-6-4-1-4-7-ssp-smp-cartographer-1",
 "desc":"Lets you place your maps on Item Frames as you'd usually do, but with the slight difference that they will be as big as a block instead of small as the Item Frame.",
 "author":["MelAlvarado"],
 "type":["Client"],
@@ -3421,7 +3426,7 @@
 },{
 
 "name":"ChargePads",
-"link":"http://j.mp/UWuj7J",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&postID=77553",
 "desc":"Provides new blocks which, when stood upon, will recharge IC2 items that are held in your hand or worn (like batpacks or parts of a nanosuit).",
 "author":["Myrathi"],
 "type":["Universal"],
@@ -3695,7 +3700,7 @@
 },{
 
 "name":"Christmas Festivities Mod",
-"link":"http://j.mp/10wokas",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286971-christmas-festivities-mod-3?comment=523",
 "desc":"Adds decorations such as ornaments, candy logs, and snowglobes. Adds a new world called The Kringle which uses added blocks and items.",
 "author":["eekysam"],
 "type":["SSP","LAN"],
@@ -3705,13 +3710,24 @@
 },{
 
 "name":"Christmas Festivities Mod 2",
-"link":"http://j.mp/10wokas",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286971-christmas-festivities-mod-3?comment=523",
 "desc":"Adds decorations such as ornaments, candy logs, and snowglobes. Adds a new world called The Kringle which uses added blocks and items.",
 "author":["eekysam"],
 "source":"https://github.com/eekysam/ChristmasFestivitiesMod2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Christmas Festivities Mod 3",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286971-christmas-festivities-mod-3",
+"desc":"Adds decorations such as ornaments, candy logs, and snowglobes. Adds a new world called The Kringle which uses added blocks and items.",
+"author":["eekysam"],
+"source":"https://github.com/ZapCloud/Festivities3",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -3768,23 +3784,23 @@
 
 "name":"CJB API",
 "other":"(Dependency)",
-"link":"http://j.mp/cjbmodsr",
+"link":"http://cjbmods.com/mods/api/",
 "desc":"CJB API is required for any of CJB's mods work. It doesn't do anything on its own.",
 "author":["CJB"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
 "name":"CJB Mod",
 "other":"(Continued)",
-"link":"http://j.mp/Uvqy7h",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287252-continue-of-cjb-mod-fml-modloader",
 "desc":"A continuation of CJB's old 'CJB Mod'.",
 "author":["Harrison_TOM"],
 "type":["Client"],
 "dependencies":["Forge Compatible","Player API"],
-"versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7","1.3.2"]
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.4.7","1.3.2"]
 
 },{
 
@@ -4169,8 +4185,8 @@
 },{
 
 "name":"Combo Armors",
-"link":"http://j.mp/XRBmNs",
-"desc":"Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8861",
+"desc":"Lets player combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
 "author":["UnixRano"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
@@ -4179,8 +4195,8 @@
 },{
 
 "name":"Combo Armors",
-"link":"http://j.mp/1lnLcJs",
-"desc":"Lets you combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2. Unofficial port of UnixRano's Combo Armors.",
+"link":"https://bitbucket.org/Zuxelus/ic2-combo-armors/overview",
+"desc":"Lets player combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2. Unofficial port of UnixRano's Combo Armors.",
 "author":["Zuxelus"],
 "source":"https://bitbucket.org/Zuxelus/ic2-combo-armors/src/",
 "type":["Universal"],
@@ -4410,7 +4426,7 @@
 },{
 
 "name":"Computronics",
-"link":"http://mc.shinonome.ch/doku.php?id=wiki:computronics",
+"link":"http://wiki.vex.tty.sh/wiki:computronics",
 "desc":"Adds computer peripherals such as tape drives, cameras, cipher blocks and radars. Compatible with ComputerCraft and OpenComputers.",
 "author":["asie","Vexatos"],
 "source":"https://github.com/asiekierka/computronics",
@@ -4639,13 +4655,25 @@
 },{
 
 "name":"Craftable Animals",
-"link":"http://j.mp/ZwDikN",
-"desc":"Allows you to craft animals using the items they drop.",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278508-craftable-animals-v2-4-3-0-mocreature-extension-v1",
+"desc":"Allows player to craft animals using the items they drop.",
 "author":["Naruto1310"],
 "source":"https://www.dropbox.com/sh/ehhg0soxh10c5me/AAAS6rMgdmTi_g5_fnpsYEl-a/CraftableAnimals2/source",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.4.7","1.4.5","1.4.2","1.3.2"]
+
+},{
+
+"name":"Craftable Animals",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278508-craftable-animals-v2-4-3-0-mocreature-extension-v1",
+"desc":"Allows player to craft animals using the items they drop.",
+"author":["Naruto1310"],
+"source":"https://www.dropbox.com/sh/ehhg0soxh10c5me/AAAS6rMgdmTi_g5_fnpsYEl-a/CraftableAnimals2/source",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -4919,7 +4947,7 @@
 },{
 
 "name":"Creeper Collateral",
-"link":"http://j.mp/1ptUoY7",
+"link":"http://files.inpureprojects.info/archive/denoflionsx/CreeperCollateral/",
 "desc":"Allows blocks destroyed by creeper explosions to drop as items with configurable drop rates.",
 "author":["denoflions"],
 "source":"https://github.com/denoflionsx/CreeperCollateral_Legacy",
@@ -4930,7 +4958,7 @@
 },{
 
 "name":"Creeper Collateral",
-"link":"http://j.mp/1vgRR9k",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods",
 "desc":"Allows blocks destroyed by creeper explosions to drop as items with configurable drop rates.",
 "author":["denoflions"],
 "source":"https://github.com/INpureProjects/CreeperCollateral",
@@ -5172,7 +5200,7 @@
 },{
 
 "name":"Custom Machine Recipes",
-"link":"http://j.mp/XgF5Gl",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=6486",
 "desc":"",
 "author":["denoflions"],
 "type":["SSP","SMP"],
@@ -5568,7 +5596,7 @@
 },{
 
 "name":"DeFence",
-"link":"http://j.mp/1sSRjnE",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=2811",
 "desc":"Adds chain link fences which can be electrified to increase damage rate.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -6440,6 +6468,7 @@
 },{
 
 "name":"Elemental Witch",
+"other":"(WIP)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2199940-1-7-2-1-7-10-v0-0-5-elemental-witch-mod-water",
 "desc":"Adds witches with elemental power like fire, water, earth, air together with pets and staves.",
 "author":["HoopaWolf"],
@@ -6825,7 +6854,7 @@
 
 "name":"EnetBridge",
 "other":"(Experimental)",
-"link":"http://j.mp/1B7FwqD",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10864",
 "desc":"Allows use of RF, MJ and FZ Charge APIs from the IC2 energy net. Transitions without converter blocks using the the IC2 energy net API.",
 "author":["Player"],
 "type":["Universal"],
@@ -7200,10 +7229,10 @@
 },{
 
 "name":"Ex Astris",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2210492-ex-astris-1-12-ex-nihilo-addon-added-automatic",
+"link":"http://minecraft.curseforge.com/mc-mods/226340-ex-astris",
 "desc":"Adds support for Ex Nihilo with other mods, such as Tinkers' Construct, Thaumcraft 4, Thermal Expansion 4, and Waila.",
-"author":["LoveHoly"],
-"source":"https://github.com/LoveHoly/Ex-Astris",
+"author":["LoveHoly","insaneau"],
+"source":"https://github.com/MikeLydeamore/Ex-Astris",
 "type":["Universal"],
 "dependencies":["Forge Required","Ex Nihilo"],
 "versions":["1.7.10"]
@@ -7213,7 +7242,7 @@
 "name":"Ex Nihilo",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291850-ex-nihilo-the-skyblock-companion-mod",
 "desc":"Designed for Skyblock maps. Adds new blocks and items such as barrels, hammers, silkworms and dolls.",
-"author":["Erasmus_Crowley"],
+"author":["Erasmus_Crowley","insaneau"],
 "source":"https://bitbucket.org/Erasmus_Crowley/ex-nihilo",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -7635,7 +7664,7 @@
 
 "name":"F4113nC0r3",
 "other":"(Dependency)",
-"link":"http://j.mp/1pgT3n0",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=7385",
 "desc":"Required for most of F4113nb34st's mods.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -8194,16 +8223,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles","CoFH Core","Thermal Foundation","Thermal Expansion 4"],
 "versions":["1.7.10"]
-
-},{
-
-"name":"Fly Mod",
-"link":"http://j.mp/cjbmodsr",
-"desc":"Lets you fly by a simple button press. (Default F Key). It is possible to change the fly speed. There is also a button that makes you run faster (Press/Hold Left-Shift Key by default). You can also enable to fly up/down by using the mouse (disabled by default).",
-"author":["CJB"],
-"type":["SSP"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1"]
 
 },{
 
@@ -9093,7 +9112,7 @@
 },{
 
 "name":"GoldenOrb",
-"link":"http://j.mp/ZPWbdH",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=7538",
 "desc":"",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -9177,7 +9196,7 @@
 "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10718",
 "desc":"Adds meta-armors such as suit armors and tinfoil hats.",
 "author":["Reloque"],
-"type":["Universal"],
+"type":["SSP"],
 "dependencies":["Forge Required","GregTech-Addon"],
 "versions":["1.7.2"]
 
@@ -9575,7 +9594,7 @@
 },{
 
 "name":"HD Skins and Cloaks",
-"link":"http://j.mp/1qY1rwQ",
+"link":"http://files.inpureprojects.info/archive/denoflionsx/",
 "desc":"Gives complete control over player skins and cloaks.",
 "author":["denoflions"],
 "source":"https://github.com/denoflionsx/HDSAC",
@@ -9678,7 +9697,7 @@
 },{
 
 "name":"Highlands",
-"link":"http://j.mp/145GFhX",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287147-1-6-4-forge-highlands-1-7-2-pre-release-v2-2-0pre",
 "desc":"Adds more mountains and hills, with varied environments and sub-biomes like mountains, lakes, forest clearings, valleys and islands. Uses no modded blocks in world generation, allowing for vanilla compatible worlds.",
 "author":["sdj64"],
 "source":"https://github.com/sdj64/Highlands",
@@ -9689,7 +9708,7 @@
 },{
 
 "name":"Highlands",
-"link":"http://j.mp/1l0QbP7",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104582-forge-highlands-2-2-3-updated-february-19",
 "desc":"Adds more mountains and hills, with varied environments and sub-biomes like mountains, lakes, forest clearings, valleys and islands. Uses no modded blocks in world generation, allowing for vanilla compatible worlds.",
 "author":["fabricator77","sdj64"],
 "source":"https://github.com/fabricator77/Highlands",
@@ -10037,7 +10056,7 @@
 },{
 
 "name":"IC2 Tweaks",
-"link":"http://j.mp/1qsm7Mx",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10806",
 "desc":"Adds new blocks and items such as a creative EU source and portable teleporters.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -10093,7 +10112,7 @@
 },{
 
 "name":"IHL Tools & Machines",
-"link":"http://j.mp/1tQejGu",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10458",
 "desc":"Features extended water physics, industrial fans and more.",
 "author":["Foghrye4"],
 "type":["Universal"],
@@ -10755,7 +10774,7 @@
 },{
 
 "name":"Iridium Mod",
-"link":"http://j.mp/1Chu0ul",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10700",
 "desc":"Adds iridium ore to the world generation.",
 "author":["DevilDead"],
 "type":["Universal"],
@@ -11702,7 +11721,7 @@
 },{
 
 "name":"Liquid UU-Matter",
-"link":"http://j.mp/W2FIAu",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8269",
 "desc":"",
 "author":["narc"],
 "type":["Universal"],
@@ -13355,13 +13374,13 @@
 
 },{
 
-"name":"Mob Filter Mod",
-"link":"http://j.mp/cjbmodsr",
+"name":"Mob Filter",
+"link":"http://cjbmods.com/mods/mobfilter/",
 "desc":"Lets you choose mobs to keep the game from spawning.",
 "author":["CJB"],
-"type":["SSP"],
+"type":["Client"],
 "dependencies":["Forge Required","CJB API"],
-"versions":["1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -13578,7 +13597,7 @@
 
 "name":"Modular Force Field System",
 "other":"(MFFS)",
-"link":"http://j.mp/17lwlEj",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=9187&s=341dcfbbfff186693808d3a8afe25faf927b0a33",
 "desc":"Makes forcefields that you can make look like other blocks or hold mobs/players at bay with.",
 "author":["Minalien"],
 "type":["Universal"],
@@ -13589,7 +13608,7 @@
 
 "name":"Modular Force Field System",
 "other":"(MFFS)",
-"link":"http://j.mp/1lAMktf",
+"link":"http://minecraft.curseforge.com/mc-mods/59882-modular-forcefield-system",
 "desc":"Makes forcefields that can disguise as other blocks or hold mobs/players at bay.",
 "author":["Minalien"],
 "type":["Universal"],
@@ -13884,7 +13903,7 @@
 },{
 
 "name":"More Composite Armor",
-"link":"http://j.mp/1nMZkre",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=2382",
 "desc":"Adds more composite armors.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -14107,13 +14126,13 @@
 
 },{
 
-"name":"More Info Mod",
-"link":"http://j.mp/cjbmodsr",
+"name":"More Info",
+"link":"http://cjbmods.com/mods/moreinfo/",
 "desc":"Adds a lot more information to your screen. The information you want to see is easily configurable. Just press the I key to open the MoreInfo Options menu, here you can turn on or off the information you want to see. It's also possible to change in which corner the information must be shown.",
 "author":["CJB"],
 "type":["Client"],
 "dependencies":["Forge Required","CJB API"],
-"versions":["1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -14159,7 +14178,7 @@
 },{
 
 "name":"MoreOredicts",
-"link":"https://www.dropbox.com/sh/c8y01js16371n6f/AAAu8-2G-ent1ETSKHdvt75ua/MoreOredict?dl=0",
+"link":"https://www.dropbox.com/sh/c8y01js16371n6f/AAAfcg0p2yCTPHDaXXzkcs2Aa/OtherMod/MoreOredict?dl=0",
 "desc":"Adds Ore Dictionary support for many mods, including: Hardcore Ender Expansion, ExtrabiomesXL, Primitive Mobs, Plant Mega Pack, Ye Gamol Chattels, PsychedeliCraft, Magical Crops, Natura, and Gany's mods.",
 "author":["\u30E1\u30C3\u304B\u306B\uFF0F\u6EC5\u87F9"],
 "type":["Universal"],
@@ -15074,7 +15093,7 @@
 },{
 
 "name":"NetworkAnchor",
-"link":"http://j.mp/UvHNeb",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8513",
 "desc":"",
 "author":["LostCoder"],
 "type":["Universal"],
@@ -15350,7 +15369,7 @@
 
 "name":"Not Enough Resources",
 "other":"(Alpha)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-not-enough-keys-making-pressing-buttons-easier",
+"link":"http://minecraft.curseforge.com/mc-mods/225815-notenoughresources",
 "desc":"Adds NEI integration for world resources like ores and mob drops.",
 "author":["Way2muchnoise","hilburn"],
 "source":"https://github.com/hilburn/NotEnoughResources",
@@ -15391,7 +15410,7 @@
 },{
 
 "name":"Nuclear Control",
-"link":"http://j.mp/IkHWHJ",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915",
 "desc":"Allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system.",
 "author":["Shedar"],
 "source":"https://bitbucket.org/shedar/ic2-nuclear-control/",
@@ -15402,7 +15421,7 @@
 },{
 
 "name":"Nuclear Control 2",
-"link":"http://j.mp/1qYfse2",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10649",
 "desc":"Allows efficient monitoring and notifications of nuclear reactors. Also adds Howler Alarms and Industrial Alarms for an industrial-style notification/alarming system.",
 "author":["Zuxelus","xbony2"],
 "source":"https://github.com/xbony2/Nuclear-Control",
@@ -15746,7 +15765,7 @@
 },{
 
 "name":"OreDupeFix",
-"link":"http://j.mp/Wgp1TF",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8846",
 "desc":"Unifies output of crafting recipes, furnace recipes, dungeon loot, and IC2 machine recipes to a configurable preferred ore from each mod.",
 "author":["agaricus"],
 "type":["Universal"],
@@ -16112,7 +16131,7 @@
 },{
 
 "name":"Petroleum Generator",
-"link":"http://j.mp/UnkbW8",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8385",
 "desc":"",
 "author":["DrCeph"],
 "type":["SSP","SMP"],
@@ -16519,7 +16538,7 @@
 },{
 
 "name":"Portable Teleporter",
-"link":"http://j.mp/1qsqsiG",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=2397",
 "desc":"Adds a portable teleporter which requires 1 million EU to teleport to a saved point instantly.",
 "author":["F4113nb34st"],
 "type":["Universal"],
@@ -16992,7 +17011,7 @@
 },{
 
 "name":"QuantumPack",
-"link":"http://j.mp/UvGThA",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8052",
 "desc":"Adds storage for quantum energy.",
 "author":["LostCoder"],
 "type":["Universal"],
@@ -17044,13 +17063,13 @@
 
 },{
 
-"name":"QuickCraft Mod",
-"link":"http://j.mp/cjbmodsr",
+"name":"QuickCraft",
+"link":"http://cjbmods.com/mods/quickcraft/",
 "desc":"This mod shows a somewhat XBOX 360 like GUI of crafting. Just with a few clicks you can craft a lot of items. Hover your mouse over the item you want to craft and it will show you the recipe and which items you still require and which items will be used from your inventory. You can also click one of the items in your inventory, this will show you all the recipes which requires that item. There are also 2 buttons, one to switch back to classic crafting and one to toggle to show only the recipes you can craft with the items you have in your inventory. It both works with SSP and SMP and even supports custom items.",
 "author":["CJB"],
 "type":["Universal"],
 "dependencies":["Forge Required","CJB API"],
-"versions":["1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -19608,7 +19627,7 @@
 },{
 
 "name":"Statues",
-"link":"http://j.mp/1eRE40j",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292646-statues",
 "desc":"Sculpt statues out of various blocks, craft a showcase to show off your valuables. Originally by dolfinsbizou.",
 "author":["AUTOMATIC_MAIDEN"],
 "type":["Universal"],
@@ -19618,7 +19637,7 @@
 },{
 
 "name":"Statues",
-"link":"http://j.mp/1n6pdAO",
+"link":"http://wiki.vex.tty.sh/wiki:statues",
 "desc":"Sculpt statues out of various blocks, craft a showcase to show off your valuables. Ported from AUTOMATIC_MAIDEN's version.",
 "author":["asie","AUTOMATIC_MAIDEN"],
 "source":"https://github.com/asiekierka/Statues",
@@ -20742,7 +20761,7 @@
 },{
 
 "name":"The bearded potato!",
-"link":"http://j.mp/1lCNNQ1",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10618",
 "desc":"Adds an electric beacon. Does not contain potatoes.",
 "author":["MistrX"],
 "type":["Universal"],
@@ -21940,7 +21959,7 @@
 },{
 
 "name":"Transformers",
-"link":"http://j.mp/KurvKg",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=5789",
 "desc":"Allows conversion between BuildCraft's MJ Energy and Industrial-Craft 2's EU Energy",
 "author":["Snyke"],
 "type":["Universal"],
@@ -21950,7 +21969,7 @@
 },{
 
 "name":"Transformer Converters",
-"link":"http://j.mp/1pV8sKc",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=9816",
 "desc":"Allows conversion between BuildCraft's MJ Energy and Industrial-Craft 2's EU Energy",
 "author":["master801"],
 "type":["Universal"],
@@ -23639,14 +23658,14 @@
 
 },{
 
-"name":"X-Ray Mod",
+"name":"X-Ray",
 "other":"(CJB)",
-"link":"http://j.mp/cjbmodsr",
+"link":"http://cjbmods.com/mods/x-ray/",
 "desc":"This mod will show you all the blocks you want in the world. Simply head over to the CJB Option menu and  there you can you can mark the blocks red which you don't wanna see. Press the X-Ray key and voila you now will see all the blocks you want. There is also a Cave and nightvision option for you to use.",
 "author":["CJB"],
 "type":["Client"],
 "dependencies":["Forge Required","CJB API"],
-"versions":["1.5.1","1.5","1.4.7"]
+"versions":["1.7.10","1.6.4"]
 
 },{
 
@@ -23961,7 +23980,7 @@
 "author":["Zuxelus"],
 "source":"https://bitbucket.org/Zuxelus/ic2_ztech/src",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.7.10"]
 
 },{

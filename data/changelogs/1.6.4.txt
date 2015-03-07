@@ -1,5 +1,10 @@
 (March/05/2015)
 	+Added "Chisel Facades"
+	+Added "CJB API"
+	+Added "Mob Filter"
+	+Added "More Info"
+	+Added "QuickCraft"
+	+Added "X-Ray"
 
 (February/22/2015)
 	*Updated "Dimensional Doors": Added source
