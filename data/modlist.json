@@ -607,10 +607,10 @@
 "name":"Alchemy Craft",
 "other":"(Alpha)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2363266-wip-alchemycraft-v-0-2-1alpha-forge-your-personal",
-"desc":"Description needed.",
+"desc":"Adds mechanics to process materials into armor.",
 "author":["Dr_Schnauzer"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","BeardedLib"],
 "versions":["1.8"]
 
 },{
@@ -1394,7 +1394,7 @@
 },{
 
 "name":"Atum: Journey Into The Sands",
-"link":"http://minecraft.curseforge.com/mc-mods/59621-atum",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2373722-atum-journey-into-the-sands",
 "desc":"A new desert dimension that contains an eternal world full of sand, temples, and tons of new foes. Journey into Atum and discover ancient artifacts as you battle your way through vicious new enemies!",
 "author":["Shadowclaimer","RebelKeithy","Lclc98","JeanGlassmaker"],
 "source":"https://github.com/TeamMetallurgy/Atum",
@@ -1875,6 +1875,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"BeardedLib",
+"link":"http://www.curse.com/mc-mods/minecraft/228133-beardedlib",
+"desc":"A library mod required for Dr_Schnauzer's mods.",
+"author":["WiseClock"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -2545,7 +2555,7 @@
 "name":"Biota",
 "other":"(Alpha)",
 "link":"http://minecraft.curseforge.com/mc-mods/228227-biota",
-"desc":"Aims to make the Minecraft plant life less static. Ground will have nutrients that plants need to grow and live. The aim is to make this as close to reality as possible.",
+"desc":"Implements mechanics so that plants require nutrients from the ground to grow. Repeatedly going over patches of grass will eventually turn them dry.",
 "author":["Dynious"],
 "source":"https://github.com/Dynious/Biota",
 "type":["Universal"],
@@ -4186,7 +4196,7 @@
 
 "name":"Combo Armors",
 "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8861",
-"desc":"Lets player combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
+"desc":"Lets players combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2.",
 "author":["UnixRano"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
@@ -4196,7 +4206,7 @@
 
 "name":"Combo Armors",
 "link":"https://bitbucket.org/Zuxelus/ic2-combo-armors/overview",
-"desc":"Lets player combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2. Unofficial port of UnixRano's Combo Armors.",
+"desc":"Lets players combine such things as Lappack, Jetpack, Nano/Quantum armor from IndustrialCraft 2. Unofficial port of UnixRano's Combo Armors.",
 "author":["Zuxelus"],
 "source":"https://bitbucket.org/Zuxelus/ic2-combo-armors/src/",
 "type":["Universal"],
@@ -4656,7 +4666,7 @@
 
 "name":"Craftable Animals",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278508-craftable-animals-v2-4-3-0-mocreature-extension-v1",
-"desc":"Allows player to craft animals using the items they drop.",
+"desc":"Allows players to craft animals using the items they drop.",
 "author":["Naruto1310"],
 "source":"https://www.dropbox.com/sh/ehhg0soxh10c5me/AAAS6rMgdmTi_g5_fnpsYEl-a/CraftableAnimals2/source",
 "type":["Universal"],
@@ -4668,7 +4678,7 @@
 "name":"Craftable Animals",
 "other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278508-craftable-animals-v2-4-3-0-mocreature-extension-v1",
-"desc":"Allows player to craft animals using the items they drop.",
+"desc":"Allows players to craft animals using the items they drop.",
 "author":["Naruto1310"],
 "source":"https://www.dropbox.com/sh/ehhg0soxh10c5me/AAAS6rMgdmTi_g5_fnpsYEl-a/CraftableAnimals2/source",
 "type":["Universal"],
@@ -5180,7 +5190,7 @@
 
 "name":"Custom Interaction Sounds",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2365875-custom-interaction-sounds",
-"desc":"Allows player to play own custom sounds when interact in Minecraft using the left and right click of mouse. These sounds are played to everyone when both server and clients have the mod installed.",
+"desc":"Plays configurable custom sounds when interacting with blocks. These sounds are played to everyone when both server and clients have the mod installed.",
 "author":["zoonie"],
 "source":"https://github.com/zoonie/CustomInteractionSounds",
 "type":["Universal"],
@@ -6470,7 +6480,7 @@
 "name":"Elemental Witch",
 "other":"(WIP)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2199940-1-7-2-1-7-10-v0-0-5-elemental-witch-mod-water",
-"desc":"Adds witches with elemental power like fire, water, earth, air together with pets and staves.",
+"desc":"Adds witches with elemental powers, including fire, water, earth, air together with pets and staves.",
 "author":["HoopaWolf"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -7150,7 +7160,7 @@
 "author":["Modbder","TheDen2099","MrDangerDen"],
 "source":"https://github.com/Modbder/EssentialThaumaturgy",
 "type":["Universal"],
-"dependencies":["Forge Required","DummyCore","Thaumcraft 4"],
+"dependencies":["Forge Required","Baubles","DummyCore","Thaumcraft 4"],
 "versions":["1.7.10"]
 
 },{
@@ -8635,7 +8645,7 @@
 
 "name":"MFR Magical Crops Compatibility",
 "link":"http://minecraft.curseforge.com/mc-mods/227983-mfr-magical-crops-compatibility",
-"desc":"Adds Magical Crops compatibility for MFR planter and harvester.",
+"desc":"Adds Magical Crops compatibility for MFR planters and harvesters.",
 "author":["portablejim"],
 "source":"https://github.com/portablejim/MFR-MagicalCrops-compatibility",
 "type":["Universal"],
@@ -13263,16 +13273,6 @@
 
 },{
 
-"name":"MiscPeripherals",
-"link":"http://www.computercraft.info/forums2/index.php?/topic/4587-cc153mc152-miscperipherals-33/",
-"desc":"Heh, description needed.",
-"author":["RichardG867"],
-"type":["Universal"],
-"dependencies":["Forge Required","ComputerCraft"],
-"versions":["1.5.2","1.4.7"]
-
-},{
-
 "name":"Mithril",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286993-rbdycks-mods",
 "desc":"Introduces several ores and Mithril metal to the game.",
@@ -16065,7 +16065,7 @@
 
 "name":"Peripherals++",
 "link":"http://minecraft.curseforge.com/mc-mods/226687-peripherals",
-"desc":"Description needed.",
+"desc":"Adds ComputerCraft peripherals such as environmental scanners, smart helmets and speakers.",
 "author":["austinv11"],
 "source":"https://github.com/austinv11/PeripheralsPlusPlus/",
 "type":["Universal"],
@@ -20648,7 +20648,7 @@
 "author":["Vazkii"],
 "source":"https://github.com/Thaumic-Tinkerer/ThaumicTinkerer",
 "type":["Universal"],
-"dependencies":["Forge Required","Thaumcraft 3"],
+"dependencies":["Forge Required","Baubles","Thaumcraft 3"],
 "versions":["1.5.2"]
 
 },{
@@ -20678,10 +20678,10 @@
 "name":"Thaumic Upholstry",
 "other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2365057-thaumic-upholstry",
-"desc":"Yeah, another description needed.",
+"desc":"Adds stands to display Thaumcraft armor on, and allows armor to be dyed.",
 "author":["EtsyTheDragon"],
 "type":["Universal"],
-"dependencies":["Forge Required","Thaumcraft 4"],
+"dependencies":["Forge Required","Baubles","Thaumcraft 4"],
 "versions":["1.7.10"]
 
 },{
@@ -21275,7 +21275,7 @@
 "desc":"Adds ducts and conduits from Thermal Expansion 3.",
 "author":["Team CoFH","RWTema","skyboy026"],
 "type":["Universal"],
-"dependencies":["Forge Required","Thermal Foundation"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
@@ -21296,7 +21296,7 @@
 "desc":"Adds machines to automate some minor processes, increase efficiency and yield, and add some nice, useful features. Adds its own energy system.",
 "author":["KingLemming","skyboy026","ZeldoKavira"],
 "type":["Universal"],
-"dependencies":["Forge Required","Thermal Foundation"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation"],
 "versions":["1.7.10"]
 
 },{
@@ -22787,6 +22787,17 @@
 
 },{
 
+"name":"Villager Tweaks",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290617-villager-tweaks-v2-1-zombie-villagers-drop",
+"desc":"Adds miscellaneous villager-related features, such as zombie villagers dropping emeralds and nameable villagers.",
+"author":["sidben"],
+"source":"https://github.com/sidben/VillagerTweaks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Villagers Inventory Viewer",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2224400-villagerinventoryviewer-floatablerails-and-more",
 "desc":"Implements a GUI to view the inventory of a villager.",
@@ -23229,7 +23240,7 @@
 "name":"Where are you?",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/227544-where-are-you",
-"desc":"Description needed.",
+"desc":"Allows players to share their coordinates, displaying a beacon of light for the receiver to follow.",
 "author":["pauljoda"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -23387,11 +23398,11 @@
 
 "name":"Witching Gadgets",
 "link":"http://minecraft.curseforge.com/mc-mods/228268-witching-gadgets",
-"desc":"Aims to be for one a more general expansion to Thaumcraft as well as a crossover mod between Thaumcraft and various others mods.",
+"desc":"Expands on Thaumcraft content, with cross-mod support for mods such as Tinkers' Construct, Botania and Railcraft.",
 "author":["BluSunrize"],
 "source":"https://github.com/BluSunrize/WitchingGadgets",
 "type":["Universal"],
-"dependencies":["Forge Required","Thaumcraft 4"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thaumcraft 4"],
 "versions":["1.7.10"]
 
 },{
