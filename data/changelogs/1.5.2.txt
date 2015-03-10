@@ -1,3 +1,6 @@
+(March/05/2015)
+	-Removed "MiscPeripherals": Download no longer available, no longer maintained by author.
+
 (February/22/2015)
 	+Added "Apple & Milk & Tea"
 	+Added "Coral Reef Mod"

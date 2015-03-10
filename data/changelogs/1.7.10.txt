@@ -1,3 +1,29 @@
+(March/10/2015)
+	*Updated "AsieLib": link
+	*Updated "Computronics": link
+	*Updated "MoreOredicts": link
+	*Updated "Not Enough Resources": link
+	*Updated "Statues": link
+	+Added "4-Space"
+	+Added "Advanced Power Management 2": Currently Unstable
+	+Added "Biota": Currently in Alpha
+	+Added "ChiselTones"
+	+Added "Christmas Festivities Mod 3"
+	+Added "CJB API"
+	+Added "CJB Mod"
+	+Added "Custom Interaction Sounds"
+	+Added "Elemental Witch": Currently WIP
+	+Added "MFR Magical Crops Compatibility"
+	+Added "Mob Filter"
+	+Added "More Info"
+	+Added "Peripherals++"
+	+Added "QuickCraft"
+	+Added "Thaumic Upholstry": Currently in Beta
+	+Added "UBC Ore Registrar": Currently in Beta
+	+Added "Where are you?": Currently in Beta
+	+Added "Witching Gadgets"
+	+Added "X-Ray"
+
 (February/23/2015)
 	+Added "Component Equipment": Currently WIP
 	+Added "ExplorerCraft": Currently single-player only
