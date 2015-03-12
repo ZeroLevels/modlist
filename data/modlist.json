@@ -45,11 +45,11 @@
 
 "name":"ACT",
 "other":"(Admin Commands Toolbox)",
-"link":"http://mobiusstrip.eu/wiki/ACT",
+"link":"http://minecraft.curseforge.com/mc-mods/221584-admin-commands-toolbox",
 "desc":"Adds a few commands to facilitate server administration, such as pre-generating chunks and unloading chunks from memory.",
 "author":["ProfMobius"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","MobiusCore"],
 "versions":["1.7.10","1.6.4"]
 
 },{
@@ -727,12 +727,12 @@
 },{
 
 "name":"Amberoguia",
-"link":"http://j.mp/1fDGTBL",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293792-1-8-forge-ssp-smp-amberoguia-mod-v1-5-adds-armor",
 "desc":"Adds a farmable crop which drops a food item also usable for tools, armor, or blocks. Also adds small mobs.",
 "author":["b1u3m0nk3","chilibomb"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.1","1.5.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.1","1.5.2"]
 
 },{
 
@@ -1291,6 +1291,17 @@
 
 },{
 
+"name":"AsieTweaks",
+"link":"http://wiki.vex.tty.sh/wiki:asietweaks",
+"desc":"Adds graphite, as a replacement for ink sacs and many config options for vanilla mechanics. Also, allows players manipulate creative tabs and replaces them with faster implementation.",
+"author":["asie"],
+"source":"https://github.com/asiekierka/AsieTweaks2",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"AspectGuide for Thaumcraft",
 "link":"http://j.mp/16NnuMd",
 "desc":"Shows Thaumcraft aspects of items in CraftGuide.",
@@ -1805,7 +1816,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FBattleTowers",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.3.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.3.2"]
 
 },{
 
@@ -5833,11 +5844,23 @@
 "name":"Dimensional Doors",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287583-dimensional-doors-v2-2-4",
 "desc":"Adds doors to Minecraft that open up to individual pocket dimensions. Allows reality manipulation, dimension linking, and more.",
-"author":["stevenrs11","SenseiKiwi"],
+"author":["SenseiKiwi","stevenrs11"],
 "source":"https://github.com/StevenRS11/DimDoors",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Dimensional Doors",
+"other":"(Unstable)",
+"link":"https://github.com/CannibalVox/DimDoors/releases",
+"desc":"Adds doors to Minecraft that open up to individual pocket dimensions. Allows reality manipulation, dimension linking, and more.",
+"author":["CannibalVox","SenseiKiwi","stevenrs11"],
+"source":"https://github.com/CannibalVox/DimDoors",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -6365,19 +6388,7 @@
 "source":"https://github.com/blay09/EiraIRC",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
-
-},{
-
-"name":"EiraIRC",
-"other":"(Beta)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291581-eirairc-irc-twitch-screenshots-and-more",
-"desc":"Allows users to connect their client or server to IRC or Twitch Chat and adds some other community improvements, such as configurable automatic upload & sharing of screenshots, as well as name colors and notifications.",
-"author":["Blay09"],
-"source":"https://github.com/blay09/EiraIRC",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -6444,6 +6455,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Elemental Creepers - Rebooted",
+"link":"https://lomeli12.net/minecraft-mods/elemental-creepers-rebooted/",
+"desc":"Adds creepers with different elements to the game. Rebooted from xSmallDeadGuyx's version.",
+"author":["Lomeli12"],
+"source":"https://github.com/Lomeli12/ElementalCreepers-4",
+"type":["Universal"],
+"dependencies":["Forge Required","LomLib"],
+"versions":["1.8"]
 
 },{
 
@@ -6821,7 +6843,7 @@
 },{
 
 "name":"Ender Utilities",
-"other":"(Early Alpha)",
+"other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/224320-ender-utilities",
 "desc":"Adds miscellaneous items and blocks with Ender-based mechanics. Entry for ModJam 4.",
 "author":["masa_fi"],
@@ -7877,6 +7899,17 @@
 "type":["SSP","SMP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"FighterMobs",
+"link":"http://minecraft.curseforge.com/mc-mods/225639-fightermobs",
+"desc":"Adds random abilities to skeletons when player hit them. There are several abilities, such as teleportation, sprinting, immunity, healing, etc.",
+"author":["CoolSquid"],
+"source":"https://github.com/coolsquid/FighterMobs",
+"type":["Universal"],
+"dependencies":["Forge Required","SquidAPI"],
+"versions":["1.7.10"]
 
 },{
 
@@ -9245,6 +9278,18 @@
 
 },{
 
+"name":"Greg's Prospecting II",
+"other":"(Beta)",
+"link":"https://drone.io/github.com/Elecs-Mods/GregsProspecting-II/files",
+"desc":"Adds Slimophones, which helps you track down those elusive slimes; and Mining Radars, which helps you find ores and other materials underground.",
+"author":["Elec332"],
+"source":"https://github.com/Elecs-Mods/GregsProspecting-II",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Greg's SG Craft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287806-gregs-sg-craft-1-8-5-for-minecraft-1-7-10",
 "desc":"This is a mod for the Minecraft. Currently it gives you SG-1 style stargates. In the future, it may include other things from the SG-1 universe.",
@@ -9651,6 +9696,17 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5"]
+
+},{
+
+"name":"HelpFixer",
+"link":"http://minecraft.curseforge.com/mc-mods/223797-helpfixer",
+"desc":"Changes the /help command to go around the offending code and sort the commands by a method that will work. Also logs offending commands to the server log, allowing players to figure out which mod was causing the problem.",
+"author":["matthewprenger"],
+"source":"https://github.com/matthewprenger/HelpFixer",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -10602,7 +10658,7 @@
 },{
 
 "name":"Intelligent Energistics",
-"other":"(Alpha)",
+"other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/222848-intelligent-energistics",
 "desc":"Addon for Applied Energistics 2, adding armors, disassemblers, new workbenches and more.",
 "author":["thatsIch"],
@@ -10890,7 +10946,7 @@
 },{
 
 "name":"JABBA",
-"link":"http://j.mp/1g0MYdV",
+"link":"http://minecraft.curseforge.com/mc-mods/73510-jabba",
 "desc":"A storage mod aiming at making a better barrel than what is already out there.",
 "author":["ProfMobius"],
 "source":"https://bitbucket.org/ProfMobius/jabba",
@@ -11322,6 +11378,18 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"KitchenCraft",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/226688-kitchencraft",
+"desc":"Completely configurable food mod. Allows player to define custom foods and items, crafting recipes for them, what they drop from, and much more.",
+"author":["tterrag1098"],
+"source":"https://github.com/wyldmods/KitchenCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11838,12 +11906,22 @@
 },{
 
 "name":"littleMaidMob",
-"link":"http://j.mp/Xee3zn",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287042-littlemaidmobx-1-7-x_0-0-8pre-3-release-is-out-new",
 "desc":"Adds a (tameable) mob called the Little Maid, who can do a lot of stuff for you! The Maid can help you fight, cook meals, heal you, build and much more! If you forgot her salary, maid gets into strike, until you give her a cake.",
-"author":["MMM"],
+"author":["KuroNeko87"],
 "type":["SSP","LAN"],
 "dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.4.7","1.4.5"]
+
+},{
+
+"name":"littleMaidMob",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287042-littlemaidmobx-1-7-x_0-0-8pre-3-release-is-out-new",
+"desc":"Adds a (tameable) mob called the Little Maid, who can do a lot of stuff for you! The Maid can help you fight, cook meals, heal you, build and much more! If you forgot her salary, maid gets into strike, until you give her a cake.",
+"author":["KuroNeko87"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -12231,9 +12309,21 @@
 
 },{
 
+"name":"Magistics",
+"other":"(Pre-release)",
+"link":"https://github.com/T145/magistics/releases",
+"desc":"Description needed.",
+"author":["T145"],
+"source":"https://github.com/T145/magistics",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Magitek",
 "other":"(Beta)",
-"link":"http://j.mp/1ws0K2E",
+"link":"http://minecraft.curseforge.com/mc-mods/224193-magitek",
 "desc":"Adds magic-like technology, which can shape the world, provide near-limitless powers or take down enemies.",
 "author":["Democretes"],
 "source":"https://github.com/Democretes/Magitek",
@@ -12244,7 +12334,7 @@
 },{
 
 "name":"MalisisCore",
-"link":"http://j.mp/YcnhSv",
+"link":"http://minecraft.curseforge.com/mc-mods/223896-malisiscore",
 "desc":"Required dependency for Ordinastie's mods.",
 "author":["Ordinastie"],
 "source":"https://github.com/Ordinastie/MalisisCore",
@@ -12255,7 +12345,7 @@
 },{
 
 "name":"Malisis' Doors",
-"link":"http://j.mp/ZQs3Gw",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076338-malisisdoors-1-7-10-1-4-3-23-01-2015",
 "desc":"Adds new animations for doors, trap doors and fence gates. It also adds new several doors like glass doors, jail doors, laboratory doors, factory doors and garage doors that all have different and original animations.",
 "author":["Ordinastie"],
 "source":"https://github.com/Ordinastie/MalisisDoors",
@@ -12266,8 +12356,19 @@
 },{
 
 "name":"Mantle",
-"other":"(Beta)",
-"link":"http://j.mp/Z7xU26",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/74924-mantle",
+"desc":"Required dependency for Tinkers' Construct.",
+"author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
+"source":"https://github.com/SlimeKnights/Mantle",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"Mantle",
+"link":"http://minecraft.curseforge.com/mc-mods/74924-mantle",
 "desc":"Required dependency for Tinkers' Construct.",
 "author":["mDiyo","progwml6","Arkan","fuj1n","pillbox"],
 "source":"https://github.com/SlimeKnights/Mantle",
@@ -12363,7 +12464,18 @@
 },{
 
 "name":"MAtmos",
-"link":"http://j.mp/ZfUxlk",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274487-matmos-r26-environmental-sound-atmosphere",
+"desc":"MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirping in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.",
+"author":["Hurricaaane"],
+"source":"https://github.com/Hurricaaane/MAtmos",
+"type":["Client"],
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"MAtmos",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274487-matmos-r26-environmental-sound-atmosphere",
 "desc":"MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirping in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.",
 "author":["Hurricaaane"],
 "source":"https://github.com/Hurricaaane/MAtmos",
@@ -12374,13 +12486,14 @@
 },{
 
 "name":"MAtmos",
-"link":"http://j.mp/ZfUxlk",
+"other":"(Beta)",
+"link":"https://github.com/dags-/MAtmos/releases",
 "desc":"MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirping in the forest, rumbling noises near a lava lake or wind gusts on a hilltop. This fills out the perpetual silence of Minecraft.",
 "author":["Hurricaaane"],
-"source":"https://github.com/Hurricaaane/MAtmos",
+"source":"https://github.com/dags-/MAtmos",
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.8"]
 
 },{
 
@@ -12417,7 +12530,7 @@
 },{
 
 "name":"MC Heli Mod",
-"link":"http://forum.minecraftuser.jp/viewtopic.php?f=13&t=14837",
+"link":"http://mchelicoptermod.weebly.com/",
 "desc":"Adds realistic planes and helicopters.",
 "author":["EMB4"],
 "type":["Universal"],
@@ -13202,7 +13315,7 @@
 },{
 
 "name":"MineTweaker 3",
-"link":"http://j.mp/1jCBGMf",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your",
 "desc":"Allows you to add and remove recipes, item names, ore dictionary contents and more using a custom scripting language.",
 "author":["StanH"],
 "source":"https://github.com/stanhebben/MineTweaker3",
@@ -13395,6 +13508,7 @@
 },{
 
 "name":"MobiusCore",
+"other":"(Dependency)",
 "link":"http://minecraft.curseforge.com/mc-mods/76734-mobiuscore",
 "desc":"A coremod required for some of ProfMobius' mods.",
 "author":["ProfMobius"],
@@ -13563,29 +13677,39 @@
 },{
 
 "name":"ModTweaker",
-"other":"(Beta)",
-"link":"http://j.mp/1tpWfRL",
-"desc":"Supports tweaking mods with custom crafting handlers, such as for Blood Magic and Botania.",
-"author":["joshiejack"],
-"type":["Universal"],
-"dependencies":["Forge Required","MineTweaker 3"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
-"name":"ModTweaker",
 "other":"(Alpha)",
-"link":"http://j.mp/1tpWfRL",
+"link":"http://minecraft.curseforge.com/mc-mods/220954-modtweaker",
 "desc":"Supports tweaking mods with custom crafting handlers, such as for Blood Magic and Botania.",
-"author":["joshiejack"],
+"author":["joshiejack","SpitefulFox"],
 "type":["Universal"],
 "dependencies":["Forge Required","MineTweaker 3"],
 "versions":["1.6.4"]
 
 },{
 
+"name":"ModTweaker",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/220954-modtweaker",
+"desc":"Supports tweaking mods with custom crafting handlers, such as for Blood Magic and Botania.",
+"author":["jaredlll08","joshiejack","SpitefulFox"],
+"type":["Universal"],
+"dependencies":["Forge Required","MineTweaker 3"],
+"versions":["1.7.2"]
+
+},{
+
+"name":"ModTweaker",
+"link":"http://minecraft.curseforge.com/mc-mods/220954-modtweaker",
+"desc":"Supports tweaking mods with custom crafting handlers, such as for Blood Magic and Botania.",
+"author":["jaredlll08","joshiejack","SpitefulFox"],
+"type":["Universal"],
+"dependencies":["Forge Required","MineTweaker 3"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Modular Flower Pots",
-"link":"http://j.mp/P2jMdi",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294201-modular-flower-pots-updated-jul-04-14",
 "desc":"Adds a larger flower pot made from hardened clay.  They can hold most in-game plants including double-height and crops.  Adjacent compatible pots connect together into continuous planters.",
 "author":["jaquadro"],
 "source":"https://github.com/jaquadro/ForgeMods",
@@ -15774,6 +15898,17 @@
 
 },{
 
+"name":"OreRegen",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/228516-oreregen",
+"desc":"Generates replacement ore blocks for every ore registered with the game.",
+"author":["ProfMobius"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Ores drop Mores 2",
 "link":"http://j.mp/Vr5HVR",
 "desc":"A highly configurable mod that allows you to change how many ingots you'll get from a single ore as well as modify XP gain from mining ores. Also allows you to configure the harvest level of pickaxes (i.e. You could configure it so that you only need a stone pickaxe to mine gold).",
@@ -16115,7 +16250,7 @@
 "source":"https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FPetBat",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -18071,7 +18206,7 @@
 },{
 
 "name":"RPG Advanced Mod",
-"link":"http://j.mp/1k8c0wM",
+"link":"http://minecraft.curseforge.com/mc-mods/220611-rpg-advanced-mod",
 "desc":"Adds signs and poles which can be used as waypoints and display directions for players.",
 "author":["ProfMobius"],
 "type":["Universal"],
@@ -18207,12 +18342,22 @@
 },{
 
 "name":"Scenter",
-"link":"http://j.mp/11crmRJ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287428-scenter-3-3-0-scent-out-hidden-ores",
 "desc":"Lets you easily find nearby ores like coal, iron, diamond, and more. Just follow the colored particle trail that leads you directly to your target ore.",
 "author":["MickKay"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Scenter",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287428-scenter-3-3-0-scent-out-hidden-ores",
+"desc":"Lets you easily find nearby ores like coal, iron, diamond, and more. Just follow the colored particle trail that leads you directly to your target ore.",
+"author":["MickKay"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -19488,13 +19633,25 @@
 
 },{
 
+"name":"SquidAPI",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/227345-squidapi",
+"desc":"Required library for some CoolSquid's mods.",
+"author":["CoolSquid"],
+"source":"https://github.com/coolsquid/SquidAPI",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"SquidUtils",
 "link":"http://minecraft.curseforge.com/mc-mods/226025-squidutils",
 "desc":"Adds some config options to the vanilla game.",
 "author":["CoolSquid"],
 "source":"https://github.com/coolsquid/SquidUtils",
 "type":["Client"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","SquidAPI"],
 "versions":["1.7.10"]
 
 },{
@@ -19594,6 +19751,17 @@
 
 },{
 
+"name":"StarStones",
+"link":"http://minecraft.curseforge.com/mc-mods/227346-starstones",
+"desc":"Adds 5 different meteors to the game; Ice, Obsidian, Stone, Hell and End. Some of them set the world on fire, some of them drown the world.",
+"author":["CoolSquid"],
+"source":"https://github.com/coolsquid/StarStones",
+"type":["Universal"],
+"dependencies":["Forge Required","SquidAPI"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"StartingInventory",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing",
 "desc":"This mod gives you items and blocks each time you start a new world, just by editing a .txt file.",
@@ -19637,6 +19805,7 @@
 },{
 
 "name":"Statues",
+"other":"(Discontinued)",
 "link":"http://wiki.vex.tty.sh/wiki:statues",
 "desc":"Sculpt statues out of various blocks, craft a showcase to show off your valuables. Ported from AUTOMATIC_MAIDEN's version.",
 "author":["asie","AUTOMATIC_MAIDEN"],
@@ -19648,7 +19817,7 @@
 },{
 
 "name":"Statues",
-"link":"http://j.mp/XYb5z9",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287433-1-5-1-forge-statues-v3-now-rotate",
 "desc":"Adds statue versions of mobs to the game.",
 "author":["TheOneAndOnly717"],
 "type":["SSP"],
@@ -21042,8 +21211,19 @@
 
 },{
 
+"name":"The Kappa Experience",
+"link":"http://minecraft.curseforge.com/mc-mods/228353-the-kappa-experience",
+"desc":"Adds all the global Twitch-emotes to the game and makes them usable by their code (Kappa, Keepo, 4Head, ...).",
+"author":["Lordmau5"],
+"source":"https://github.com/Lordmau5/The-Kappa-Experience",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"The Kitchen Mod",
-"link":"http://j.mp/1lJMQp1",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091948-the-kitchen-mod-v1-3-8-modular-sandwiches",
 "desc":"Adds customizable modular sandwiches that restore different amounts of hunger based on the items within them. Also adds a oven that allows you to cook up to 16 items of 4 different food types at a time using less coal and time then a vanilla one.",
 "author":["MrSpring"],
 "source":"https://github.com/MrSpring/TheKitchenMod",
@@ -21065,7 +21245,7 @@
 
 "name":"The Lord of the Rings Mod",
 "other":"(Beta)",
-"link":"http://j.mp/11318S2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287390-the-lord-of-the-rings-mod-bringing-middle-earth-to",
 "desc":"Bringing middle-earth to minecraft, The Lord of the Rings mod adds a bunch of new items, mobs, blocks and a dimension from the Lord of the Rings series. This mod also adds a good and evil selection, plus quests ranging from small tasks to epic adventures.",
 "author":["Mevans"],
 "type":["Universal"],
@@ -22180,6 +22360,28 @@
 
 },{
 
+"name":"Turtle Gun",
+"link":"https://lomeli12.net/minecraft-mods/turtle-gun/",
+"desc":"Adds turtles and a shotgun that fires explosive turtles.",
+"author":["Lomeli12"],
+"source":"https://github.com/Lomeli12/TurtleGun",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Turtle Gun",
+"link":"https://lomeli12.net/minecraft-mods/turtle-gun/",
+"desc":"Adds turtles and a shotgun that fires explosive turtles.",
+"author":["Lomeli12"],
+"source":"https://github.com/Lomeli12/TurtleGun",
+"type":["Universal"],
+"dependencies":["Forge Required","LomLib"],
+"versions":["1.8"]
+
+},{
+
 "name":"Turtle Item Analyzer",
 "link":"http://j.mp/13lGl0I",
 "desc":"Adds an item analyzer for computer craft which allows Items to be analyzed by a turtle. The turtle is able to read the name, id, metadata (damage), and count of any item in the turtle's inventory. Also adds an analytical turtle which can be used to determine the block id or metadata of any block or item in its inventory.",
@@ -22924,7 +23126,7 @@
 "source":"https://bitbucket.org/ProfMobius/waila",
 "type":["Client"],
 "dependencies":["Forge Required","CodeChickenCore","Not Enough Items"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
+"versions":["1.7.2","1.6.4","1.6.2","1.6.1","1.5.2"]
 
 },{
 
@@ -23007,12 +23209,12 @@
 },{
 
 "name":"Wall Jump",
-"link":"http://j.mp/15eqeQI",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288388-wall-jump-1-2-2a-bounce-off-walls-over-450-000",
 "desc":"Allows you to bounce off walls just like Mario. By pressing a custom key you will jump off of any wall you jump into, turning 180 degrees as you do so. Jumps can be limited, shown on a movable bar or text. There are many settings to choose from to customize.",
 "author":["NukeDuck"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -23402,7 +23604,7 @@
 "author":["BluSunrize"],
 "source":"https://github.com/BluSunrize/WitchingGadgets",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thaumcraft 4"],
+"dependencies":["Forge Required","Thaumcraft 4","Traveller's Gear"],
 "versions":["1.7.10"]
 
 },{

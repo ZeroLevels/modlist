@@ -1,3 +1,22 @@
+(March/12/2015)
+	*Updated "Intelligent Energistics": Now in Beta
+	*Updated "Mantle": No longer in Beta
+	*Updated "ModTweaker": No longer in Beta
+	*Updated "Statues": Discontinued, no future updates from author
+	+Added "AsieTweaks"
+	+Added "Dimensional Doors": Currently Unstable
+	+Added "FighterMobs"
+	+Added "Greg's Prospecting II": Currently in Beta
+	+Added "HelpFixer"
+	+Added "KitchenCraft": Currently in Beta
+	+Added "littleMaidMob"
+	+Added "Magistics": Currently in Pre-release
+	+Added "OreRegen": Currently in Beta
+	+Added "SquidAPI"
+	+Added "StarStones"
+	+Added "The Kappa Experience"
+	+Added "Turtle Gun"
+
 (March/10/2015)
 	*Updated "AsieLib": link
 	*Updated "Computronics": link

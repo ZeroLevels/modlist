@@ -1,3 +1,7 @@
+(March/12/2015)
+	+Added "HelpFixer"
+	+Added "littleMaidMob"
+
 (March/10/2015)
 	+Added "Chisel Facades"
 	+Added "CJB API"
