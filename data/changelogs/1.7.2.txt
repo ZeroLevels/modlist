@@ -1,4 +1,5 @@
-(March/12/2015)
+(March/16/2015)
+	*Updated "Photoreal": Discontinued, no future updates from author
 	+Added "HelpFixer"
 	+Added "littleMaidMob"
 

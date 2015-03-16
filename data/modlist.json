@@ -1118,8 +1118,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -1129,8 +1129,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/ArmorStatusHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -3001,8 +3001,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","ModLoader"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -3013,8 +3013,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/bspkrsCore",
 "type":["Universal"],
-"dependencies":["Forge Compatible","ModLoader"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -5271,7 +5271,7 @@
 },{
 
 "name":"Custom NPCs",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs",
+"link":"http://minecraft.curseforge.com/mc-mods/221826-custom-npcs",
 "desc":"This mod adds a set of tools to create npcs with different roles/jobs and other functions. It gives Creative Players a way to liven up their world with fully Customizable NPCs.",
 "author":["Noppes"],
 "type":["Universal"],
@@ -5282,7 +5282,7 @@
 
 "name":"Custom NPCs",
 "other":"(Alpha)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs",
+"link":"http://minecraft.curseforge.com/mc-mods/221826-custom-npcs",
 "desc":"This mod adds a set of tools to create npcs with different roles/jobs and other functions. It gives Creative Players a way to liven up their world with fully Customizable NPCs.",
 "author":["Noppes"],
 "type":["Universal"],
@@ -5881,8 +5881,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
+"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -5892,8 +5892,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/DirectionHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
-"versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -8184,23 +8184,23 @@
 
 "name":"FloatingRuins",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing",
-"desc":"Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.",
-"author":["bspkrs"],
-"source":"https://github.com/bspkrs/FloatingRuins",
-"type":["Universal"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.10","1.7.2","1.6.4"]
-
-},{
-
-"name":"FloatingRuins",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing",
 "desc":"This mod has separate ModLoader and Forge versions. Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.",
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/FloatingRuins",
 "type":["Universal"],
 "dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"FloatingRuins",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing",
+"desc":"Floating islands taken from the ground with mini-ruins on top. The ruins' shape, material and mob spawners' choice of mobs are all biome-based.",
+"author":["bspkrs"],
+"source":"https://github.com/bspkrs/FloatingRuins",
+"type":["Universal"],
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -8255,6 +8255,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Flux Ducts",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2379480-flux-ducts",
+"desc":"Simple RF-based energy conduits, primarily for use with Progressive Automation.",
+"author":["FyberOptic"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -11122,6 +11132,17 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.6.2","1.6.1","1.5.2","1.4.7","1.3.2"]
+
+},{
+
+"name":"{ JSONAbles }",
+"link":"http://minecraft.curseforge.com/mc-mods/228458-jsonables",
+"desc":"Allows to add Tinker's Construct tools via json.",
+"author":["jaredlll08"],
+"source":"https://github.com/jaredlll08/JSON-ables",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct"],
+"versions":["1.7.10"]
 
 },{
 
@@ -14364,22 +14385,22 @@
 },{
 
 "name":"More Player Models 2",
-"link":"http://j.mp/1gnxUGQ",
+"link":"http://minecraft.curseforge.com/mc-mods/221939-more-player-models",
 "desc":"Allows the user to customize their in-game player model by changing the scale and shape of each main bodypart, as well as adding other features like chat bubbles, rendering the first tool on your hotbar on your back, and animations such as sitting, dancing, and crawling.",
 "author":["Noppes"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
 "name":"More Player Models 2",
 "other":"(Beta)",
-"link":"http://j.mp/1gnxUGQ",
+"link":"http://minecraft.curseforge.com/mc-mods/221939-more-player-models",
 "desc":"Allows the user to customize their in-game player model by changing the scale and shape of each main bodypart, as well as adding other features like chat bubbles, rendering the first tool on your hotbar on your back, and animations such as sitting, dancing, and crawling.",
 "author":["Noppes"],
-"type":["Client"],
-"dependencies":["Forge Compatible"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
 "versions":["1.8"]
 
 },{
@@ -16286,6 +16307,7 @@
 },{
 
 "name":"Photoreal",
+"other":"(Discontinued)",
 "link":"http://ichun.us/mods/photoreal/",
 "desc":"This mod adds a camera, as found in CorridorDigital's Photoreal, when snapped it forms a screen ahead of the player, showing the view that was just there. Kinda hard to explain.",
 "author":["iChun"],
@@ -19780,7 +19802,7 @@
 "source":"https://github.com/bspkrs/StartingInventory",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -19832,8 +19854,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
+"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -19843,8 +19865,8 @@
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/StatusEffectHUD",
 "type":["Client"],
-"dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
-"versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -22214,23 +22236,23 @@
 
 "name":"TreeCapitator",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing",
-"desc":"Allows you to chop down an entire tree (along with its leaves) by harvesting one of its logs. Supports logs/axes from many mods. Now damages axe per log chopped, unless configured otherwise.",
-"author":["bspkrs"],
-"source":"https://github.com/bspkrs/TreeCapitator",
-"type":["Universal"],
-"dependencies":["Forge Required","bspkrsCore"],
-"versions":["1.7.10","1.7.2","1.6.4"]
-
-},{
-
-"name":"TreeCapitator",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing",
 "desc":"This mod has separate ModLoader and Forge versions. Allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Forge version automatically detects logs/axes from many mods so that they work as well. Now damages axe per log chopped, unless configured otherwise. Highly configurable.",
 "author":["bspkrs"],
 "source":"https://github.com/bspkrs/TreeCapitator",
 "type":["Universal"],
 "dependencies":["Forge Compatible","ModLoader","bspkrsCore"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"TreeCapitator",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing",
+"desc":"Allows you to chop down an entire tree (along with its leaves) by harvesting one of its logs. Supports logs/axes from many mods. Now damages axe per log chopped, unless configured otherwise.",
+"author":["bspkrs"],
+"source":"https://github.com/bspkrs/TreeCapitator",
+"type":["Universal"],
+"dependencies":["Forge Required","bspkrsCore"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 

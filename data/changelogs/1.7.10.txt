@@ -1,13 +1,15 @@
-(March/12/2015)
+(March/16/2015)
 	*Updated "Intelligent Energistics": Now in Beta
 	*Updated "Mantle": No longer in Beta
 	*Updated "ModTweaker": No longer in Beta
+	*Updated "Photoreal": Discontinued, no future updates from author
 	*Updated "Statues": Discontinued, no future updates from author
 	+Added "AsieTweaks"
 	+Added "Dimensional Doors": Currently Unstable
 	+Added "FighterMobs"
 	+Added "Greg's Prospecting II": Currently in Beta
 	+Added "HelpFixer"
+	+Added "{ JSONAbles }"
 	+Added "KitchenCraft": Currently in Beta
 	+Added "littleMaidMob"
 	+Added "Magistics": Currently in Pre-release
