@@ -1,3 +1,23 @@
+(March/20/2015)
+	*Updated "EiraIRC": No longer in Beta
+	*Updated "Ender Utilities": Now in Beta
+	+Added "Amberoguia"
+	+Added "ArmorStatusHUD"
+	+Added "BattleTowers"
+	+Added "bspkrsCore"
+	+Added "DirectionHUD"
+	+Added "Elemental Creepers - Rebooted": Now requires LomLib
+	+Added "FloatingRuins"
+	+Added "Flux Ducts"
+	+Added "HelpFixer"
+	+Added "MAtmos": Currently in Beta
+	+Added "Pet Bat"
+	+Added "Scenter"
+	+Added "StartingInventory"
+	+Added "StatusEffectHUD"
+	+Added "Turtle Gun"
+	+Added "Wall Jump"
+
 (March/10/2015)
 	*Updated "Vein Miner": No longer in Beta
 	+Added "Alchemy Craft": Currently in Alpha

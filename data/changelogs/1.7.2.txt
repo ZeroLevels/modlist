@@ -1,3 +1,8 @@
+(March/20/2015)
+	*Updated "Photoreal": Discontinued, no future updates from author
+	+Added "HelpFixer"
+	+Added "littleMaidMob"
+
 (March/10/2015)
 	+Added "CJB Mod"
 	+Added "Elemental Witch"
