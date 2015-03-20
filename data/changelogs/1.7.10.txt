@@ -18,6 +18,7 @@
 	+Added "StarStones"
 	+Added "The Kappa Experience"
 	+Added "Turtle Gun"
+	-Removed "The Necromancy Mod": Duplicate entry for "Necromancy"
 
 (March/10/2015)
 	*Updated "AsieLib": link
