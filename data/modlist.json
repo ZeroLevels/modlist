@@ -18370,7 +18370,17 @@
 "author":["MickKay"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Scenter",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287428-scenter-3-3-0-scent-out-hidden-ores",
+"desc":"Lets you easily find nearby ores like coal, iron, diamond, and more. Just follow the colored particle trail that leads you directly to your target ore.",
+"author":["MickKay"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
