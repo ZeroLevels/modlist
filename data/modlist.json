@@ -18374,16 +18374,6 @@
 
 },{
 
-"name":"Scenter",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287428-scenter-3-3-0-scent-out-hidden-ores",
-"desc":"Lets you easily find nearby ores like coal, iron, diamond, and more. Just follow the colored particle trail that leads you directly to your target ore.",
-"author":["MickKay"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.8","1.7.10"]
-
-},{
-
 "name":"Schematica",
 "link":"https://mods.io/mods/1008-schematica",
 "desc":"Allows you to display a ghost image of a schematic file inside Minecraft to rebuild a structure or export any part of your world (or a server's world) into a schematic file. You're able to export parts of your world, too!",
