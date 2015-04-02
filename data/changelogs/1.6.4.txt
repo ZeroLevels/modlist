@@ -1,3 +1,9 @@
+(April/2/2015)
+	+Added "DummyCore"
+	+Added "HeldCore"
+	+Added "NEI Mystcraft Plugin"
+	+Added "Terra Arts"
+
 (March/20/2015)
 	*Updated "Photoreal": Discontinued, no future updates from author
 	+Added "HelpFixer"

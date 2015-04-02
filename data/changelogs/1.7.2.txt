@@ -1,3 +1,8 @@
+(April/2/2015)
+	+Added "Mo' Bends": Currently WIP
+	+Added "Richard's Coffee And Tea Mod"
+	+Added "ThePhysician2000's Furniture Mod"
+
 (March/20/2015)
 	*Updated "Photoreal": Discontinued, no future updates from author
 	+Added "HelpFixer"

@@ -1,3 +1,27 @@
+(April/2/2015)
+	*Updated "Buildcraft Additions": Now requires Eureka
+	*Updated "Fast Food": Now in Beta
+	*Updated "Nevermine" name: Now "Nevermine 2"
+	*Updated "Tinkers' Mechworks": No longer in Beta
+	+Added "Alternate Terrain Generation"
+	+Added "Aqua Creepers": Currently in Beta
+	+Added "Better PvP"
+	+Added "Buffed Tools"
+	+Added "Ender Zoo"
+	+Added "Eureka"
+	+Added "Grimoire of Gaia 3"
+	+Added "Guide API"
+	+Added "MineFX"
+	+Added "Mo' Bends": Currently WIP
+	+Added "NEI Mystcraft Plugin"
+	+Added "Richard's Coffee And Tea Mod"
+	+Added "SpACore"
+	+Added "Terra Arts"
+	+Added "The Elements Mod"
+	+Added "ThePhysician2000's Furniture Mod"
+	+Added "The Walking Dead"
+	+Added "Werkbench"
+
 (March/20/2015)
 	*Updated "Intelligent Energistics": Now in Beta
 	*Updated "Mantle": No longer in Beta

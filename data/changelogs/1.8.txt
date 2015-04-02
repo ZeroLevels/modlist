@@ -1,3 +1,22 @@
+(April/2/2015)
+	*Updated "Fast Food": Now in Beta
+	*Updated "Inventory Tweaks": No longer in Beta
+	*Updated "MrCrayfish's Furniture Mod": Added source
+	*Updated "Plant Mega Pack": No longer in Beta
+	*Updated "Schematica": No longer in Beta
+	+Added "Better PvP"
+	+Added "CrystalWing"
+	+Added "Decoration Mega Pack"
+	+Added "Enchanting Plus": Currently in Alpha
+	+Added "Ender Zoo": Currently in Beta
+	+Added "Entity LagFix"
+	+Added "iPixeli's Gender Mod"
+	+Added "Magic Clover"
+	+Added "MineFX"
+	+Added "Pixelmon"
+	+Added "Tabula"
+	+Added "The Elements Mod"
+
 (March/20/2015)
 	*Updated "EiraIRC": No longer in Beta
 	*Updated "Ender Utilities": Now in Beta
