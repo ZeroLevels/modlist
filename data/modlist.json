@@ -6024,6 +6024,16 @@
 
 },{
 
+"name":"Doors",
+"link":"http://ichun.us/mods/doors/",
+"desc":"Adds a couple of doors of different styles to the game.",
+"author":["iChun"],
+"type":["Universal"],
+"dependencies":["Forge Required","iChunUtil"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Doubledoor",
 "other":"(BaM's)",
 "link":"http://j.mp/VK1yu3",
@@ -8681,6 +8691,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10"]
+
+},{
+
+"name":"Full Chests",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/229162-full-chests",
+"desc":"Fixes Minecraft double chests to allow proper inventory interactions.",
+"author":["hilburn"],
+"source":"https://github.com/hilburn/FullChests",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11640,6 +11662,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8"]
+
+},{
+
+"name":"Lattice Mod",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2397204-lattice-mod",
+"desc":"Adds lattice blocks, basic crossed segments of wood which are capable of interconnecting vertically with fence posts, as well as other configurable blocks, to achieve a wide variety of visual effects.",
+"author":["FyberOptic"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17532,6 +17564,17 @@
 
 },{
 
+"name":"Randomite",
+"link":"http://minecraft.curseforge.com/mc-mods/228475-randomite",
+"desc":"Continuation of True Randomite. Adds a single ore that drops random items. Compatible with texture packs (uses stone texture from your texture pack) and other mods (drops items generated in the world by other mods) out of the box.",
+"author":["AUTOMATIC_MAIDEN"],
+"source":"https://github.com/TheCricket/Randomite",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"RareOres",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288085-1-6-4-forge-universal-rareores-version-1-7",
 "desc":"Adds new ores, tools and tier systems, 2 of which are found in the Nether. Aims to be balanced and adds end game items.",
@@ -18431,6 +18474,17 @@
 "author":["MrComputerGhost"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"SafeChat",
+"link":"http://minecraft.curseforge.com/mc-mods/227785-safechat",
+"desc":"Blocks inappropriate words from the chat and from usernames.",
+"author":["CoolSquid"],
+"source":"https://github.com/coolsquid/SafeChat",
+"type":["Universal"],
+"dependencies":["Forge Required","SquidAPI"],
 "versions":["1.7.10"]
 
 },{
@@ -19823,6 +19877,18 @@
 
 },{
 
+"name":"Squidless",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/226115-squidless",
+"desc":"Simple serverside bugfix which prevents squids spawning in regions where they would instantly despawn.",
+"author":["hilburn"],
+"source":"https://github.com/hilburn/Squidless",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"SquidUtils",
 "link":"http://minecraft.curseforge.com/mc-mods/226025-squidutils",
 "desc":"Adds some config options to the vanilla game.",
@@ -20383,9 +20449,9 @@
 },{
 
 "name":"Super Massive Tech",
-"link":"http://j.mp/1yTCtlH",
+"link":"http://minecraft.curseforge.com/mc-mods/224363-super-massive-tech",
 "desc":"Adds blocks and items related with stars and black holes, with waypoints, explosions and gravity armor.",
-"author":["Tterrag"],
+"author":["tterrag1098"],
 "source":"https://github.com/tterrag1098/SuperMassiveTech",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -20450,6 +20516,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Switches Continued",
+"link":"http://minecraft.curseforge.com/mc-mods/228865-switches-continued",
+"desc":"A complete rewrite of Switches for new Minecraft versions. Inspired by SethBling's Bite-Sized Minecraft episodes, Switches are placed and respond just like vanilla levers. Piston extensions click switches face-on and flip levers away (or pull levers back, if a sticky piston retracts)",
+"author":["insaneau"],
+"source":"https://github.com/MikeLydeamore/SwitchesContinued",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -22477,7 +22554,7 @@
 },{
 
 "name":"Tropicraft",
-"link":"http://j.mp/10865gJ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1275897-tropicraft-v5-1-7-tropical-realm-palm-trees",
 "desc":"Adds a new dimension centered around tropical biomes and exotic creatures.  The ultimate vacation from the overworld with its own adventures and dangers.",
 "author":["Cojomax99"],
 "type":["Universal"],
@@ -22487,12 +22564,23 @@
 },{
 
 "name":"True Randomite",
-"link":"http://j.mp/10ec5Ok",
-"desc":"Ore that drops random items. Compatible with texture packs (uses stone texture from your texture pack) and other mods (drops items generated in the world by other mods) out of the box.",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288629-1-6-4-smp-forge-true-randomite",
+"desc":"Adds a single ore that drops random items. Compatible with texture packs (uses stone texture from your texture pack) and other mods (drops items generated in the world by other mods) out of the box.",
 "author":["AUTOMATIC_MAIDEN"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1"]
+
+},{
+
+"name":"True Tier System",
+"link":"http://minecraft.curseforge.com/mc-mods/224749-true-tier-system",
+"desc":"Adds tiered progression system to the game.",
+"author":["Theray070696"],
+"source":"https://github.com/Theray070696/Tier_System_Mod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 

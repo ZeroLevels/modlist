@@ -7,19 +7,27 @@
 	+Added "Aqua Creepers": Currently in Beta
 	+Added "Better PvP"
 	+Added "Buffed Tools"
+	+Added "Doors"
 	+Added "Ender Zoo"
 	+Added "Eureka"
+	+Added "Full Chests": Currently in Beta
 	+Added "Grimoire of Gaia 3"
 	+Added "Guide API"
+	+Added "Lattice Mod"
 	+Added "MineFX"
 	+Added "Mo' Bends": Currently WIP
 	+Added "NEI Mystcraft Plugin"
+	+Added "Randomite"
 	+Added "Richard's Coffee And Tea Mod"
+	+Added "SafeChat"
 	+Added "SpACore"
+	+Added "Squidless": Currently in Beta
+	+Added "Switches Continued"
 	+Added "Terra Arts"
 	+Added "The Elements Mod"
 	+Added "ThePhysician2000's Furniture Mod"
 	+Added "The Walking Dead"
+	+Added "True Tier System"
 	+Added "Werkbench"
 
 (March/20/2015)
