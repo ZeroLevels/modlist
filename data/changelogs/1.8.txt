@@ -4,16 +4,24 @@
 	*Updated "MrCrayfish's Furniture Mod": Added source
 	*Updated "Plant Mega Pack": No longer in Beta
 	*Updated "Schematica": No longer in Beta
+	+Added "Backpacks" by Brad16840: Currently in Beta
+	+Added "Backpacks" by Eydamos: Currently in Beta
 	+Added "Better PvP"
 	+Added "CrystalWing"
 	+Added "Decoration Mega Pack"
+	+Added "DungeonPack"
 	+Added "Enchanting Plus": Currently in Alpha
 	+Added "Ender Zoo": Currently in Beta
 	+Added "Entity LagFix"
 	+Added "iPixeli's Gender Mod"
+	+Added "Keygrip – Mocap"
 	+Added "Magic Clover"
 	+Added "MineFX"
+	+Added "Music Choices"
+	+Added "NeoTech"
 	+Added "Pixelmon"
+	+Added "Ragdoll Corpses": Currently in Beta
+	+Added "Realistic Pain"
 	+Added "Tabula"
 	+Added "The Elements Mod"
 

@@ -2,21 +2,30 @@
 	*Updated "Buildcraft Additions": Now requires Eureka
 	*Updated "Fast Food": Now in Beta
 	*Updated "Nevermine" name: Now "Nevermine 2"
+	*Updated "Redstone Armory": Now depend on ttCore too
 	*Updated "Tinkers' Mechworks": No longer in Beta
 	+Added "Alternate Terrain Generation"
 	+Added "Aqua Creepers": Currently in Beta
 	+Added "Better PvP"
+	+Added "BiomeTweaker"
 	+Added "Buffed Tools"
 	+Added "Doors"
 	+Added "Ender Zoo"
 	+Added "Eureka"
 	+Added "Full Chests": Currently in Beta
+	+Added "Gravity Gun": Currently in Beta
 	+Added "Grimoire of Gaia 3"
 	+Added "Guide API"
+	+Added "Keygrip – Mocap": Currently in Beta, incompatible with iChun's mods
 	+Added "Lattice Mod"
 	+Added "MineFX"
 	+Added "Mo' Bends": Currently WIP
+	+Added "Music Choices"
 	+Added "NEI Mystcraft Plugin"
+	+Added "New Biospheres"
+	+Added "PortalGun": Currently in Beta
+	+Added "Progression"
+	+Added "Ragdoll Corpses": Currently in Beta
 	+Added "Randomite"
 	+Added "Richard's Coffee And Tea Mod"
 	+Added "SafeChat"
@@ -27,6 +36,9 @@
 	+Added "The Elements Mod"
 	+Added "ThePhysician2000's Furniture Mod"
 	+Added "The Walking Dead"
+	+Added "ThutCore"
+	+Added "Thut's Elevators"
+	+Added "Tropicraft"
 	+Added "True Tier System"
 	+Added "Werkbench"
 

@@ -779,9 +779,9 @@
 },{
 
 "name":"Ancient Warfare 2",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1441547-1-7-10-ancient-warfare-forge-smp-wip-d-l",
+"link":"http://minecraft.curseforge.com/mc-mods/224602-ancient-warfare-2",
 "desc":"This mod is dedicated to bringing all sorts of ancient-warfare related tools and machinery to the Minecraft world.",
-"author":["Shadowmage4513"],
+"author":["Shadowmage4513","GotoLink"],
 "source":"https://github.com/shadowmage45/AncientWarfare",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -790,7 +790,7 @@
 },{
 
 "name":"Animal Bikes",
-"link":"http://j.mp/WmrV81",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278239-animal-bikes-added-wither-and-flower-bikes-1-8",
 "desc":"A multiplayer mod which allows you to ride animals.",
 "author":["Noppes"],
 "type":["Universal"],
@@ -1656,8 +1656,9 @@
 
 },{
 
-"name":"Backpacks (Brad16840)",
-"link":"http://j.mp/1fMM6M4",
+"name":"Backpacks",
+"other":"(Brad16840)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291844-backpacks-by-brad16840",
 "desc":"Adds nestable backpacks that can be opened from inside other backpacks.",
 "author":["Brad16840"],
 "type":["Universal"],
@@ -1666,14 +1667,38 @@
 
 },{
 
-"name":"Backpacks (Eydamos)",
-"link":"http://j.mp/WmsjDo",
+"name":"Backpacks",
+"other":"(Brad16840) (Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291844-backpacks-by-brad16840",
+"desc":"Adds nestable backpacks that can be opened from inside other backpacks.",
+"author":["Brad16840"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
+"name":"Backpacks",
+"other":"(Eydamos)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124-1-6-x-1-7-x-backpacks-v-2-0-1",
 "desc":"Adds dyable backpacks to the game for storing extra items. Backpack size is configurable.",
 "author":["Eydamos"],
 "source":"https://github.com/Eydamos/Minecraft-Backpack-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"Backpacks",
+"other":"(Eydamos) (Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124-1-6-x-1-7-x-backpacks-v-2-0-1",
+"desc":"Adds dyable backpacks to the game for storing extra items. Backpack size is configurable.",
+"author":["Eydamos"],
+"source":"https://github.com/Eydamos/Minecraft-Backpack-Mod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -2531,6 +2556,17 @@
 
 },{
 
+"name":"BiomeTweaker",
+"link":"http://minecraft.curseforge.com/mc-mods/228895-biometweaker",
+"desc":"Allows to tweak, add and remove biomes.",
+"author":["superckl"],
+"source":"https://github.com/superckl/BiomeTweaker",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Biomes O' Plenty",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more",
 "desc":"A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.",
@@ -2565,8 +2601,8 @@
 },{
 
 "name":"Biosphere",
-"link":"http://j.mp/WnSwBj",
-"desc":"This is a new generator. You may select this generator in More World Options when creating world. In this generator, the world is made up of massive spheres with glass domes. Inside these spheres are random biomes. There is a random chance of a lake being placed in the center of each sphere. Usually water, but rarely lava. Bordering this lake you will find sand for water, or gravel for lava. Connecting each sphere is a wooden bridge with fence rail. Beside each sphere is a smaller sphere, which is where you will find diamond and lapis lazuli. These ores only occur here, the others are equally spread throughout the spheres. The cave generator used here is a modified Nether cave generator, where like on the surface, will generate lava below a certain level. If this lava reaches the outside, an obsidian wall will be made to hold it in.",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated",
+"desc":"Adds a new world generator. In this generator, the world is made up of massive spheres with glass domes. Inside these spheres are random biomes. There is a random chance of a lake being placed in the center of each sphere. Usually water, but rarely lava. Bordering this lake you will find sand for water, or gravel for lava. Connecting each sphere is a wooden bridge with fence rail. Beside each sphere is a smaller sphere, which is where you will find diamond and lapis lazuli. These ores only occur here, the others are equally spread throughout the spheres. The cave generator used here is a modified Nether cave generator, where like on the surface, will generate lava below a certain level. If this lava reaches the outside, an obsidian wall will be made to hold it in.",
 "author":["Risugami"],
 "type":["SSP"],
 "dependencies":["Forge Compatible"],
@@ -6222,7 +6258,7 @@
 "author":["Stuuupiiid"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -7278,6 +7314,17 @@
 
 },{
 
+"name":"NeoTech",
+"other":"(Formerly JATM)",
+"link":"http://minecraft.curseforge.com/mc-mods/228643-neotech-formerly-jatm",
+"desc":"Description needed.",
+"author":["Dyonovan","pauljoda"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Nevermine 2",
 "other":"(Advent of Ascension)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286381-advent-of-ascension-16-new-dimensions-250-mobs",
@@ -8058,7 +8105,7 @@
 },{
 
 "name":"FinndusFillies",
-"link":"http://j.mp/1gUE04p",
+"link":"http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/",
 "desc":"Makes horses provide meat (yum!) and a renewable source of glue (slimeballs).",
 "author":["Myrathi"],
 "type":["Universal"],
@@ -8095,17 +8142,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Fireplace Core"],
 "versions":["1.8","1.7.10"]
-
-},{
-
-"name":"Fire's Clay Spawn",
-"other":"(Beta)",
-"link":"http://minecraft.curseforge.com/mc-mods/225539-fires-clay-spawn",
-"desc":"Generates underground veins of clay.",
-"author":["The_Fireplace"],
-"type":["Universal"],
-"dependencies":["Forge Required","Fireplace Core"],
-"versions":["1.8"]
 
 },{
 
@@ -9347,6 +9383,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"Gravity Gun",
+"other":"(Beta)",
+"link":"http://ichun.us/mods/gravity-gun/",
+"desc":"Adds the Gravity Gun from Half Life 2 to Minecraft.",
+"author":["iChun"],
+"type":["Universal"],
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.10"]
 
 },{
 
@@ -11450,6 +11497,29 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Keygrip – Mocap",
+"other":"(Beta)",
+"link":"http://ichun.us/mods/keygrip-mocap/",
+"desc":"Allows players to record and rerecord over their previous recordings to create a scene full of life and people. Incompatible with other iChun's mods.",
+"author":["iChun"],
+"source":"https://github.com/iChun/Keygrip",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Keygrip – Mocap",
+"link":"http://ichun.us/mods/keygrip-mocap/",
+"desc":"Allows players to record and rerecord over their previous recordings to create a scene full of life and people.",
+"author":["iChun"],
+"source":"https://github.com/iChun/Keygrip",
+"type":["Universal"],
+"dependencies":["Forge Required","iChunUtil"],
+"versions":["1.8"]
 
 },{
 
@@ -14448,7 +14518,7 @@
 },{
 
 "name":"M-Ore Mod",
-"link":"http://j.mp/Zg0tLh",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286912-m-ore-5-0",
 "desc":"If you are tired of the old ore OR if you just want more ores, this mod is for you!",
 "author":["Kuuu"],
 "type":["Universal"],
@@ -14956,8 +15026,18 @@
 
 },{
 
+"name":"Music Choices",
+"link":"http://minecraft.curseforge.com/mc-mods/224584-music-choices",
+"desc":"Changes music plays in-game based on biomes, dimensions, day, night etc.",
+"author":["Tmtravlr"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.6.4"]
+
+},{
+
 "name":"MusicCraft",
-"link":"http://j.mp/1lhTNry",
+"link":"http://musiccraft.org/",
 "desc":"Adds musical instruments to the game, such as pianos, guitars and drum kits.",
 "author":["Ktos94852"],
 "type":["Universal"],
@@ -15423,6 +15503,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.5.2","1.4.7"]
+
+},{
+
+"name":"New Biospheres",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2236413-new-biospheres-mod",
+"desc":"Desc should be improved version of Risugami's Biosphere.",
+"author":["BrainSlugs83"],
+"source":"https://github.com/BrainSlugs83/NewBiospheresMod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -16894,11 +16985,22 @@
 
 "name":"PortalGun",
 "link":"http://ichun.us/mods/portalgun/",
-"desc":"Lets you think with portals. In Minecraft.",
+"desc":"Adds the portalgun, as well as several other portal-related aspects to the game.",
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"PortalGun",
+"other":"(Beta)",
+"link":"http://ichun.us/mods/portalgun/",
+"desc":"Adds the portalgun, as well as several other portal-related aspects to the game.",
+"author":["iChun"],
+"type":["Universal"],
+"dependencies":["Forge Required","iChun Util"],
+"versions":["1.7.10"]
 
 },{
 
@@ -17188,6 +17290,17 @@
 
 },{
 
+"name":"Progression",
+"link":"http://minecraft.curseforge.com/mc-mods/229495-progression",
+"desc":"Allows players to control how they can interact with the world or the things they can craft, at the basic level.",
+"author":["joshiejack"],
+"source":"https://github.com/joshiejack/Progression",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Progressive Automation",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation-upgradeable-machines",
 "desc":"Adds low tech automation tools for common tasks, upgradable as the player progresses.",
@@ -17204,7 +17317,7 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2246930-flaxbeards-steam-power-beta-0-27-3-updated-dec-23",
 "desc":"A tech mod based on steam power, with alloys, pipes, gauges and more. Includes a Steam Exosuit.",
 "author":["Flaxbeard","SatanicSanta","xbony2"],
-"source":"https://github.com/Flaxbeard/Flaxbeards-Steam-Power",
+"source":"https://github.com/Esteemed-Innovation/Flaxbeards-Steam-Power",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -17479,13 +17592,24 @@
 
 },{
 "name":"RadixCore",
-"link":"http://j.mp/1x4Czrw",
+"link":"http://www.radix-shock.com/rc--overview.html",
 "desc":"A library/framework/API containing many different functions that will assist modders, both beginner and advanced, as they create and maintain their mods.",
 "author":["WildBamaBoy"],
 "source":"https://github.com/WildBamaBoy/radix-core",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Ragdoll Corpses",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2399756-ragdoll-corpses-new-exciting-death-effect-with",
+"desc":"Adds ragdoll physics to the game. These physics currently apply to only zombies and pigs.",
+"author":["GobBob14"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -17654,7 +17778,7 @@
 "author":["pauljoda"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -17814,7 +17938,7 @@
 },{
 
 "name":"Redstone Armory",
-"link":"http://j.mp/1uOoB7y",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2111983-redstone-armory-enhancing-the-flux-revolution-1-7",
 "desc":"Adds various Gelid Enderium tools and items, upgrading Redstone Arsenal flux tools.",
 "author":["TehNut","Tombenpotter"],
 "source":"https://github.com/TehNut/RedstoneArmory",
@@ -17825,12 +17949,12 @@
 },{
 
 "name":"Redstone Armory",
-"link":"http://j.mp/1uOoB7y",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2111983-redstone-armory-enhancing-the-flux-revolution-1-7",
 "desc":"Adds various Gelid Enderium tools and items, upgrading Redstone Arsenal flux tools.",
 "author":["TehNut","Tombenpotter"],
 "source":"https://github.com/TehNut/RedstoneArmory",
 "type":["Universal"],
-"dependencies":["Forge Required","CoFH Core","CoFH Lib"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib","ttCore"],
 "versions":["1.7.10"]
 
 },{
@@ -21143,6 +21267,27 @@
 
 },{
 
+"name":"ThutCore",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/224428-thutcore",
+"desc":"Required dependency for Thut's mods.",
+"author":["Thutmose"],
+"type":["Universal"],
+"dependencies":["Forge Required","ForgeMultipart"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Thut's Elevators",
+"link":"http://minecraft.curseforge.com/mc-mods/224375-thuts-elevators",
+"desc":"Adds dynamic elevators to the game.",
+"author":["Thutmose"],
+"type":["Universal"],
+"dependencies":["Forge Required","ThutCore"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"ttCore",
 "other":"(Dependency) (Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/226082-ttcore",
@@ -21937,7 +22082,7 @@
 },{
 
 "name":"The Walking Dead",
-"link":http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443735-1-7-10-the-walking-dead-mod-65-000-downloads",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443735-1-7-10-the-walking-dead-mod-65-000-downloads",
 "desc":"Based of the hit TV series 'The Walking Dead'. Adds 'walkers', structures and characters from the show.",
 "author":["MobApocalypse"],
 "type":["Universal"],
@@ -22559,7 +22704,7 @@
 "author":["Cojomax99"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.4.7","1.4.5","1.4.2"]
+"versions":["1.7.10","1.6.4","1.4.7","1.4.5","1.4.2"]
 
 },{
 

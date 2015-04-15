@@ -1,6 +1,7 @@
 (April/2/2015)
 	+Added "DummyCore"
 	+Added "HeldCore"
+	+Added "Music Choices"
 	+Added "NEI Mystcraft Plugin"
 	+Added "Terra Arts"
 
