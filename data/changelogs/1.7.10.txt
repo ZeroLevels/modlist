@@ -1,5 +1,6 @@
 (April/2/2015)
 	*Updated "Buildcraft Additions": Now requires Eureka
+	*Updated "ExtraTiC": Now in Beta
 	*Updated "Fast Food": Now in Beta
 	*Updated "Nevermine" name: Now "Nevermine 2"
 	*Updated "Redstone Armory": Now depend on ttCore too
@@ -9,6 +10,7 @@
 	+Added "Better PvP"
 	+Added "BiomeTweaker"
 	+Added "Buffed Tools"
+	+Added "Deathways"
 	+Added "Doors"
 	+Added "Ender Zoo"
 	+Added "Eureka"
@@ -16,6 +18,7 @@
 	+Added "Gravity Gun": Currently in Beta
 	+Added "Grimoire of Gaia 3"
 	+Added "Guide API"
+	+Added "Industrial Technologies and More Mod"
 	+Added "Keygrip – Mocap": Currently in Beta, incompatible with iChun's mods
 	+Added "Lattice Mod"
 	+Added "MineFX"
@@ -38,6 +41,7 @@
 	+Added "The Walking Dead"
 	+Added "ThutCore"
 	+Added "Thut's Elevators"
+	+Added "Trade Booth Mod"
 	+Added "Tropicraft"
 	+Added "True Tier System"
 	+Added "Werkbench"

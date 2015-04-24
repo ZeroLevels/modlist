@@ -8,20 +8,27 @@
 	+Added "Backpacks" by Eydamos: Currently in Beta
 	+Added "Better PvP"
 	+Added "CrystalWing"
+	+Added "Custom Mob Spawner"
+	+Added "Dark Roleplay": Currently WIP
 	+Added "Decoration Mega Pack"
 	+Added "DungeonPack"
 	+Added "Enchanting Plus": Currently in Alpha
 	+Added "Ender Zoo": Currently in Beta
 	+Added "Entity LagFix"
+	+Added "Flower Tea"
 	+Added "iPixeli's Gender Mod"
 	+Added "Keygrip – Mocap"
 	+Added "Magic Clover"
 	+Added "MineFX"
+	+Added "Mo' Creatures": Currently in Beta
 	+Added "Music Choices"
 	+Added "NeoTech"
+	+Added "Peaceful Plus"
+	+Added "Picture-in-Picture"
 	+Added "Pixelmon"
 	+Added "Ragdoll Corpses": Currently in Beta
 	+Added "Realistic Pain"
+	+Added "Squeedometer"
 	+Added "Tabula"
 	+Added "The Elements Mod"
 

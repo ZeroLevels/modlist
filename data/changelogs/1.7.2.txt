@@ -3,6 +3,7 @@
 	+Added "New Biospheres"
 	+Added "Richard's Coffee And Tea Mod"
 	+Added "ThePhysician2000's Furniture Mod"
+	+Added "Trade Booth Mod"
 
 (March/20/2015)
 	*Updated "Photoreal": Discontinued, no future updates from author

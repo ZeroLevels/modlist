@@ -4,6 +4,7 @@
 	+Added "Music Choices"
 	+Added "NEI Mystcraft Plugin"
 	+Added "Terra Arts"
+	+Added "Trade Booth Mod"
 
 (March/20/2015)
 	*Updated "Photoreal": Discontinued, no future updates from author
