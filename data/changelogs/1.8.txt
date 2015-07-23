@@ -1,4 +1,4 @@
-(April/2/2015)
+(July/23/2015)
 	*Updated "Fast Food": Now in Beta
 	*Updated "Inventory Tweaks": No longer in Beta
 	*Updated "MrCrayfish's Furniture Mod": Added source
