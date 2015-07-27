@@ -1,3 +1,26 @@
+(July/26/2015)
+	*Updated "Decoration Mega Pack" link
+	*Updated "Forge Essentials": No longer in Beta
+	*Updated "KitchenCraft": Now requires EnderCore
+	*Updated "MineFactory Reloaded": No longer in Beta
+	*Updated "Nether Ores": No longer in Beta
+	*Updated "Not Enough Resources": Now in Beta
+	*Updated "Plant Mega Pack" link
+	*Updated "Redstone Armory": Now requires EnderCore
+	*Updated "The Camping Mod": Now requires RikMuld's Core
+	*Updated "WAILA Plugins": Now requires EnderCore
+	+Added "Another One Bites the Dust: Berry Bushes"
+	+Added "Aquatic Abyss"
+	+Added "DivineRPG"
+	+Added "EnderCore": Currently in Alpha
+	+Added "Et Futurum"
+	+Added "Immersive Engineering"
+	+Added "Not Enough IDs"
+	+Added "Potion Packs"
+	+Added "RikMuld's Core"
+	+Added "Superheroes Unlimited"
+	+Added "Wood Stuff"
+
 (July/23/2015)
 	*Updated "Buildcraft Additions": Now requires Eureka
 	*Updated "ExtraTiC": Now in Beta
