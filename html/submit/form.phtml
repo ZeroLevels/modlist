@@ -23,6 +23,11 @@ TODO: alerts
     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
     <strong>Uh oh!</strong> You haven't filled out all the required fields!
 </div>
+<?php } else { ?>
+<div class="alert alert-dismissable alert-info">
+    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+    We do not update the mods themselves, we only list them! Asking us to update the mod will not have any effect on the mod.
+</div>
 <?php } ?>
 <form role="form" method="POST" action="complete">
     <div class="form-group">
@@ -31,7 +36,7 @@ TODO: alerts
                 <input type="radio" name="request-type" id="new" value="new" checked> New Mod
             </label>
             <label>
-                <input type="radio" name="request-type" id="old" value="old"> Update Request
+                <input type="radio" name="request-type" id="old" value="old"> Update Info
             </label>
         </div>
     </div>
