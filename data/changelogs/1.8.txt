@@ -1,4 +1,4 @@
-(July/26/2015)
+(July/28/2015)
 	*Updated "Animal Bikes": No longer in Beta
 	*Updated "GLSL Shaders Mod": No longer in Alpha
 	*Updated "OpenComputers": No longer in Beta

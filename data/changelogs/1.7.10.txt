@@ -1,4 +1,4 @@
-(July/26/2015)
+(July/28/2015)
 	*Updated "Decoration Mega Pack" link
 	*Updated "Forge Essentials": No longer in Beta
 	*Updated "KitchenCraft": Now requires EnderCore
