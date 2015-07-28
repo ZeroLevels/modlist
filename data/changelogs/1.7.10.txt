@@ -1,4 +1,5 @@
 (July/28/2015)
+	*Updated "Clay Soldiers Mod": Now requires SanAndreasP's Manager Pack
 	*Updated "Decoration Mega Pack" link
 	*Updated "Forge Essentials": No longer in Beta
 	*Updated "KitchenCraft": Now requires EnderCore
@@ -6,18 +7,30 @@
 	*Updated "Nether Ores": No longer in Beta
 	*Updated "Not Enough Resources": Now in Beta
 	*Updated "Plant Mega Pack" link
+	*Updated "Project E": No longer in Alpha
 	*Updated "Redstone Armory": Now requires EnderCore
 	*Updated "The Camping Mod": Now requires RikMuld's Core
 	*Updated "WAILA Plugins": Now requires EnderCore
+	*Updated "WorldEdit": No longer in Beta
 	+Added "Another One Bites the Dust: Berry Bushes"
 	+Added "Aquatic Abyss"
+	+Added "Better Boat"
+	+Added "BetterFps"
+	+Added "Big Doors"
 	+Added "DivineRPG"
 	+Added "EnderCore": Currently in Alpha
 	+Added "Et Futurum"
+	+Added "Harvest the Nether"
 	+Added "Immersive Engineering"
+	+Added "Immersive Integration"
+	+Added "Magneticraft"
+	+Added "MapWriter 2"
+	+Added "Matter Overdrive"
 	+Added "Not Enough IDs"
 	+Added "Potion Packs"
+	+Added "Project Bench": Currently in Beta
 	+Added "RikMuld's Core"
+	+Added "SanAndreasP's Manager Pack"
 	+Added "Superheroes Unlimited"
 	+Added "Wood Stuff"
 
