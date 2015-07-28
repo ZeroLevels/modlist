@@ -809,13 +809,13 @@
 
 },{
 
-"name":"Animals+",
+"name":"Animals Plus",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282011-animals-sharks-piranhas-and-more-100-000-downloads",
 "desc":"Adds animal mobs such as whales, snakes, crickets and sharks.",
 "author":["Click_Me"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -850,13 +850,13 @@
 },{
 
 "name":"Antique Atlas",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-1-7-2-1-6-4-1-5-2-forge-antique-atlas",
+"link":"http://minecraft.curseforge.com/mc-mods/227795-antique-atlas",
 "desc":"Adds an Antique Atlas, an antique-looking map which saves all visited locations for easy browsing. Maps are generated around the player, based on chunk-average biome.",
 "author":["Hunternif"],
 "source":"https://github.com/Hunternif/AntiqueAtlas",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -1403,7 +1403,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -2082,6 +2082,17 @@
 
 },{
 
+"name":"Better Boat",
+"link":"http://minecraft.curseforge.com/mc-mods/230898-better-boat",
+"desc":"Fixes several aspects of vanilla boats, including: Client-Server desync, boats won't drop planks and sticks anymore, boats won't crash when colliding with an animal/mob.",
+"author":["SanAndreasP"],
+"source":"https://github.com/SanAndreasP/BetterBoat",
+"type":["Universal"],
+"dependencies":["Forge Required","SanAndreasP's Manager Pack"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Better Bows Mod",
 "link":"http://j.mp/18MTscl",
 "desc":"Adds two new bows, various new arrow types, and quivers to hold arrows and allow you to easily switch between arrow types to fire.",
@@ -2171,6 +2182,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"BetterFps",
+"link":"http://minecraft.curseforge.com/mc-mods/229876-betterfps",
+"desc":"Changes how the game calculates sine & cosine, giving a performance boost.",
+"author":["Guichaguri"],
+"source":"https://github.com/Guichaguri/BetterFps",
+"type":["Client"],
+"dependencies":["Forge Compatible"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -2493,6 +2515,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","BiblioCraft"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Big Doors",
+"link":"http://minecraft.curseforge.com/mc-mods/232398-big-doors",
+"desc":"An addon for Malisis' Doors. Adds 3x3 versions of vanilla doors.",
+"author":["jaquadro"],
+"source":"https://github.com/jaquadro/BigDoors",
+"type":["Universal"],
+"dependencies":["Forge Required","MalisisCore","Malisis' Doors"],
+"versions":["1.7.10"]
 
 },{
 
@@ -3245,12 +3278,12 @@
 },{
 
 "name":"Butterfly Mania",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284684-v1-2-1-butterfly-mania-150-unique-butterflies",
+"link":"http://minecraft.curseforge.com/mc-mods/225748-butterfly-mania",
 "desc":"Adds over 150 unique, naturally spawning Butterflies with semi-intelligent behaviors that you can collect and decorate your home with. Research spawning grounds and catalog your catches in your encyclopedia!",
 "author":["TyronX"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4","1.5.2","1.5.1","1.4.7"]
+"versions":["1.8","1.7.10","1.6.4","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -3749,6 +3782,16 @@
 
 },{
 
+"name":"Chisels & Bits",
+"link":"http://minecraft.curseforge.com/mc-mods/231095-chisels-bits",
+"desc":"Adds chisels, a wrench and ways to copy designs and store bits.",
+"author":["AlgorithmX2"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Chocolatecraft",
 "link":"http://j.mp/Sfotkx",
 "desc":"Adds chocolate-based items to Minecraft, like chocolate bars, hot cocoa, and other items that you can find on your own. There are no blocks added yet, and I will not add any new blocks without a temporary crafting recipe with the ore dictionary or vanilla blocks.",
@@ -3921,12 +3964,12 @@
 
 "name":"Clay Soldiers Mod",
 "other":"(Beta)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280625-clay-soldiers-mod-v-2-0-0-beta-2",
+"link":"http://minecraft.curseforge.com/mc-mods/227543-clay-soldiers-mod",
 "desc":"Adds miniature clay armies which can ride various mounts and fight against other clay armies.",
 "author":["SanAndreasP"],
 "source":"https://github.com/SanAndreasP/ClaySoldiersMod",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","SanAndreasP's Manager Pack"],
 "versions":["1.7.10"]
 
 },{
@@ -5363,7 +5406,7 @@
 },{
 
 "name":"Custom NPCs",
-"other":"(Alpha)",
+"other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/221826-custom-npcs",
 "desc":"This mod adds a set of tools to create npcs with different roles/jobs and other functions. It gives Creative Players a way to liven up their world with fully Customizable NPCs.",
 "author":["Noppes"],
@@ -7496,10 +7539,22 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291850-ex-nihilo-the-skyblock-companion-mod",
 "desc":"Designed for Skyblock maps. Adds new blocks and items such as barrels, hammers, silkworms and dolls.",
 "author":["Erasmus_Crowley","insaneau"],
-"source":"https://bitbucket.org/Erasmus_Crowley/ex-nihilo",
+"source":"https://bitbucket.org/MikeLydeamore/ex-nihilo",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Ex Nihilo 2",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/230745-ex-nihilo-2",
+"desc":"Continuation of Ex Nihilo. Designed for Skyblock maps. Adds new blocks and items such as barrels, hammers, silkworms and dolls.",
+"author":["Erasmus_Crowley"],
+"source":"https://bitbucket.org/Erasmus_Crowley/ex-nihilo-2/src",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -9476,7 +9531,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+"versions":["1.8","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
 
 },{
 
@@ -9846,6 +9901,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"Harvest the Nether",
+"link":"http://minecraft.curseforge.com/mc-mods/231262-pams-harvest-the-nether",
+"desc":"Adds trees, fruits, bushes, crops, glow flowers, and survival recipes to the Nether.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10360,7 +10425,7 @@
 "source":"https://github.com/HxCKDMS/HxCEnchants",
 "type":["Universal"],
 "dependencies":["Forge Required","HxC-Core"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -10431,9 +10496,9 @@
 
 "name":"ICBM",
 "other":"(Alpha)",
-"link":"http://builtbroken.com/pages/icbm/1.7/downloads.php",
+"link":"http://minecraft.curseforge.com/mc-mods/225502-icbm",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
-"author":["Calclavia","DarkGuardsman","dmodoomsirius"],
+"author":["Calclavia","DarkGuardsman","dmodoomsirius","Snowfox811"],
 "source":"https://github.com/BuiltBrokenModding/ICBM",
 "type":["Universal"],
 "dependencies":["Forge Required","Voltz Engine"],
@@ -10578,6 +10643,17 @@
 "source":"https://github.com/BluSunrize/ImmersiveEngineering",
 "type":["Universal"],
 "dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Immersive Integration",
+"link":"http://minecraft.curseforge.com/mc-mods/232159-immersive-integration",
+"desc":"Integrates Immersive Engineering with other mods.",
+"author":["UnwrittenFun"],
+"source":"https://github.com/UnwrittenFun/ImmersiveIntegration",
+"type":["Universal"],
+"dependencies":["Forge Required","Immersive Engineering"],
 "versions":["1.7.10"]
 
 },{
@@ -11222,7 +11298,7 @@
 },{
 
 "name":"IvToolkit",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276287-ivorius-mods-structures-dungeons-drugs-statues",
+"link":"http://minecraft.curseforge.com/mc-mods/224535-ivtoolkit",
 "desc":"Framework used by Ivorius's mods.",
 "author":["Ivorius"],
 "source":"https://github.com/Ivorforce/IvToolkit",
@@ -12665,6 +12741,16 @@
 
 },{
 
+"name":"Magneticraft",
+"link":"http://minecraft.curseforge.com/mc-mods/224808-magneticraft",
+"desc":"Adds its own RF-compatible energy system, multiblock constructions, ore duplication and more.",
+"author":["cout970"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"MalisisCore",
 "link":"http://minecraft.curseforge.com/mc-mods/223896-malisiscore",
 "desc":"Required dependency for Ordinastie's mods.",
@@ -12720,7 +12806,7 @@
 
 },{
 
-"name":"MapWriter Minimap Mod",
+"name":"MapWriter",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286882-mapwriter-an-open-source-mini-map",
 "desc":"Integrates a minimap which also shows locations that have been previously visited.",
 "author":["mapwriter"],
@@ -12731,7 +12817,7 @@
 
 },{
 
-"name":"MapWriter Minimap Mod",
+"name":"MapWriter",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286882-mapwriter-an-open-source-mini-map?page=43#c855",
 "desc":"A minimap mod that not only shows your surroundings, but everywhere you've been. Unofficial port of mapwriter's MapWriter.",
 "author":["mapwriter"],
@@ -12739,6 +12825,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"MapWriter 2",
+"link":"http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2",
+"desc":"Continuation of MapWriter. A minimap mod that not only shows your surroundings, but everywhere you've been. Unofficial port of mapwriter's MapWriter.",
+"author":["VectronDiablon"],
+"source":"https://github.com/Vectron/mapwriter",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -12826,6 +12923,18 @@
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
 "versions":["1.8"]
+
+},{
+
+"name":"Matter Overdrive",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/229694-matter-overdrive",
+"desc":"Inspired by the popular Sci-Fi TV series Star Trek. It dwells in the concept of replicating and transforming one type matter into another.",
+"author":["shadowfactsmc","X_Simeon"],
+"source":"https://github.com/simeonradivoev/MatterOverdrive",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -13804,7 +13913,7 @@
 "author":["iChun"],
 "type":["Client"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -16482,23 +16591,23 @@
 
 "name":"Pandora's Box",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276287-ivorius-mods-structures-dungeons-drugs-statues",
-"desc":"Adds Pandora's box, an artifact containing all the evils of the world. The box is craftable and spawns in dungeons.",
-"author":["Ivorius"],
-"source":"https://github.com/Ivorforce/PandorasBox",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
-"name":"Pandora's Box",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276287-ivorius-mods-structures-dungeons-drugs-statues",
 "desc":"Adds a new Item, the Pandora's box. It is now craftable, and spawns in dungeons, or you can just cheat it in if you want some... interesting times.",
 "author":["Ivorius"],
 "source":"https://github.com/Ivorforce/PandorasBox",
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.2","1.4.7","1.4.5"]
+
+},{
+
+"name":"Pandora's Box",
+"link":"http://minecraft.curseforge.com/mc-mods/222896-pandoras-box",
+"desc":"Adds Pandora's box, an artifact containing all the evils of the world. The box is craftable and spawns in dungeons.",
+"author":["Ivorius"],
+"source":"https://github.com/Ivorforce/PandorasBox",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -17440,8 +17549,19 @@
 
 },{
 
+"name":"Project Bench",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/230706-project-bench",
+"desc":"Adds one thing to the game, the Project Bench. It's a simple block that is one part crafting bench, one part chest. It gives you the ability to place a recipe in the crafting area and make it multiple times with the supplies from the chest portion of it. There are 18 total spaces that will supply items to craft for the recipe if it is needed.",
+"author":["_bau5"],
+"source":"https://github.com/bau5/ProjectBench",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Project E",
-"other":"(Alpha)",
 "link":"http://minecraft.curseforge.com/mc-mods/226410-projecte",
 "desc":"A complete rewrite of EE2 for the new Minecraft versions.",
 "author":["MozeIntel","sinkillerj"],
@@ -17449,6 +17569,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Project E",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/226410-projecte",
+"desc":"A complete rewrite of EE2 for the new Minecraft versions.",
+"author":["MozeIntel","sinkillerj"],
+"source":"https://github.com/sinkillerj/ProjectE",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -18746,6 +18878,18 @@
 "desc":"Required library for Samtrion's mods",
 "author":["Samtrion"],
 "source":"https://github.com/Samtrion/SamCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"SanAndreasP's Manager Pack",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/226994-sanandreasps-manager-pack",
+"desc":"Required library for SanAndreasP's mods.",
+"author":["SanAndreasP"],
+"source":"https://github.com/SanAndreasP/SAPManagerPack",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
@@ -20091,7 +20235,7 @@
 "source":"https://github.com/squeek502/Squake",
 "type":["Universal"],
 "dependencies":["Forge Required","Player API"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -22584,7 +22728,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -22685,7 +22829,7 @@
 "author":["iChun"],
 "type":["Universal"],
 "dependencies":["Forge Required","iChun Util"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -24287,8 +24431,8 @@
 },{
 
 "name":"WorldEdit",
-"other":"(Experimental)",
-"link":"http://www.enginehub.org/worldedit",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/225608-worldedit",
 "desc":"An in-game world editor.",
 "author":["sk89q"],
 "source":"https://github.com/sk89q/WorldEdit",
@@ -24299,14 +24443,13 @@
 },{
 
 "name":"WorldEdit",
-"other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/225608-worldedit",
 "desc":"An in-game world editor.",
 "author":["sk89q"],
 "source":"https://github.com/sk89q/WorldEdit",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
