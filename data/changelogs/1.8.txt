@@ -1,28 +1,47 @@
 (July/28/2015)
 	*Updated "Animal Bikes": No longer in Beta
+	*Updated "Custom NPCs": Now in Beta
 	*Updated "GLSL Shaders Mod": No longer in Alpha
 	*Updated "OpenComputers": No longer in Beta
+	+Added "Animals Plus"
+	+Added "Antique Atlas"
+	+Added "Attachable Grinder"
 	+Added "Bad Mobs"
+	+Added "BetterFps"
+	+Added "Butterfly Mania"
 	+Added "Chameleon"
+	+Added "Chisels & Bits"
 	+Added "Cyclops Core": Currently in Beta
 	+Added "Doomlike Dungeons"
 	+Added "EvilCraft": Currently in Beta
+	+Added "Ex Nihilo 2": Currently in Beta
 	+Added "Extended Workbench": Currently in Beta
 	+Added "Extra Food": Currently in Alpha
 	+Added "Forge Essentials": Currently in Alpha
+	+Added "HxCEnchants"
 	+Added "Fullscreen Windowed"
 	+Added "Gliby's Voice Chat Mod"
+	+Added "Gravity Gun"
 	+Added "In-Game Wiki Mod"
 	+Added "JourneyMap": Currently in Beta
+	+Added "MapWriter 2"
 	+Added "MineChess"
 	+Added "Minecraft Comes Alive"
 	+Added "Minestuck"
 	+Added "Minesweeper Mod"
+	+Added "Mob Amputation"
+	+Added "Pandora's Box"
+	+Added "Project Bench": Currently in Beta
+	+Added "Project E": Currently in Beta
 	+Added "RadixCore"
 	+Added "RikMuld's Core"
+	+Added "Squake"
 	+Added "Storage Drawers"
 	+Added "The Camping Mod"
+	+Added "Torched"
 	+Added "TreeCapitator"
+	+Added "Trail Mix"
+	+Added "WorldEdit"
 
 (July/23/2015)
 	*Updated "Fast Food": Now in Beta
