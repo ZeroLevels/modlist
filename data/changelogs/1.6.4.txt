@@ -1,3 +1,6 @@
+(July/28/2015)
+	*Updated "Haunted": Source no longer available, repository removed
+
 (July/23/2015)
 	+Added "DummyCore"
 	+Added "HeldCore"

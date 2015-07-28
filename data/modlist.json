@@ -1627,6 +1627,17 @@
 
 },{
 
+"name":"Bad Mobs",
+"link":"http://minecraft.curseforge.com/mc-mods/233258-bad-mobs-rid-your-world-of-unwanted-pests",
+"desc":"Disables spawning for specified mobs and retroactively removes existing ones from worlds.",
+"author":["DarkHax"],
+"source":"https://github.com/Darkhax-Minecraft/BadMobs",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"IC2 Backpack HUD",
 "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8495",
 "desc":"Draws an on-screen HUD that enables you to view armor item durability outside of the player inventory screen. The HUD can be positioned next to the hotbar on either side, or in any corner.",
@@ -9875,7 +9886,6 @@
 "link":"http://j.mp/1g54Wuj",
 "desc":"Successor to Darkhax's first mod idea known as Ethereal. Haunted focuses on adding some more spooky/dark aspects into the game.",
 "author":["Darkhax"],
-"source":"https://github.com/Darkhax/HAUNTED",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]

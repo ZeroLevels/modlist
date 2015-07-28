@@ -2,6 +2,7 @@
 	*Updated "Animal Bikes": No longer in Beta
 	*Updated "GLSL Shaders Mod": No longer in Alpha
 	*Updated "OpenComputers": No longer in Beta
+	+Added "Bad Mobs"
 	+Added "Chameleon"
 	+Added "Cyclops Core": Currently in Beta
 	+Added "Doomlike Dungeons"
