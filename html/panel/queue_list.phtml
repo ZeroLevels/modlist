@@ -48,9 +48,6 @@
                     <span>
                         <a href="<?=$mod['link'] ?>"><?=$mod['name'] ?></a>
                         <?php if (isset($mod['other'])) { echo $mod['other']; } ?>
-                        <?php if (strpos($mod['link'],'bit.ly') === false) { ?>
-                        <span class="text-danger"><strong>NOT</strong> a bit.ly link</span>
-                        <?php } ?>
                     </span>
                     <strong>
                         <i class="pull-right"><?php if(count($mod['author']) === 1) { echo $mod['author'][0]; } else { echo implode(", ", $mod['author']); } ?></i>

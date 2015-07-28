@@ -48,13 +48,6 @@
                         <a href="<?php echo safehtml($this->submission['edit_data']['link']); ?>">
                             <i class="fa fa-external-link"></i>
                         </a>
-                        <?php if($this->permissions->canAccess('panel.submission.bitly.shorten')) { ?>
-                        <a id="bitly-link">
-                            <button type="button" class="btn btn-default btn-xs pull-right">
-                                bit.ly this link &raquo;
-                            </button>
-                        </a>
-                        <?php } ?>
                         <input type="url" class="form-control" name="link" id="link" placeholder="Link to the site, page or thread of the mod" value="<?php echo safehtml($this->submission['edit_data']['link']); ?>">
                     </div>
                     <div class="form-group">
