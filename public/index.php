@@ -450,53 +450,55 @@ $klein->respond('POST', '/submit/complete', function ($request, $response, $serv
     $encoded_data = json_encode($submissions_data, JSON_UNESCAPED_SLASHES);
     file_put_contents($submissions, $encoded_data);
     
-    //Create new PHPMailer instance
-    $mail = new PHPMailer();
-    $mail->isSMTP();
-    $mail->SMTPDebug    = 0;
-    $mail->Host         = 'smtp.gmail.com';
-    $mail->Port         = 587;
-    $mail->SMTPSecure   = 'tls';
-    $mail->SMTPAuth     = true;
-    $mail->Username     = GMAIL_USER;
-    $mail->Password     = GMAIL_PASS;
-    $mail->setFrom(GMAIL_USER, GMAIL_NAME);
-    $mail->addReplyTo(GMAIL_USER, GMAIL_NAME);
-    
-    //Load e-mails to send to
-    $users_cache = 'data/users.json';
-    if(file_exists($users_cache)) {
-        $users = json_decode(file_get_contents($users_cache), 1);
-        foreach($users as $user) {
-            if($user['send_email'] === true) {
-                if(isset($user['alt_email'])) {
-                    $mail->addAddress($user['alt_email'], $user['user']);
-                } else {
-                    $mail->addAddress($user['email'], $user['user']);
-                }
-            }
-        }
-    }
-    
-    //Select type of Subject
-    if($request->param('request-type') === 'new') {
-        $mail->Subject  = 'New Mod - ' . $request->param('name');
-    } else {
-        $mail->Subject  = 'Update Request - ' . $request->param('name');
-    }
-    
-    //Use Klein to render partial and extract render
-    $service->partial('html/layouts/mail.phtml',array('mod' => $mod));
-    $mail->msgHTML(ob_get_clean());
-    
-    $service->partial('html/layouts/mail_alt.phtml',array('mod' => $mod));
-    $mail->AltBody = ob_get_clean();
-    
-    if(!$mail->Send()) {
-        $response->redirect('/submit/failed');
-    } else {
-        $response->redirect('/submit/success');
-    }
+    // TODO: Fix mail notifications
+//    //Create new PHPMailer instance
+//    $mail = new PHPMailer();
+//    $mail->isSMTP();
+//    $mail->SMTPDebug    = 0;
+//    $mail->Host         = 'smtp.gmail.com';
+//    $mail->Port         = 587;
+//    $mail->SMTPSecure   = 'tls';
+//    $mail->SMTPAuth     = true;
+//    $mail->Username     = GMAIL_USER;
+//    $mail->Password     = GMAIL_PASS;
+//    $mail->setFrom(GMAIL_USER, GMAIL_NAME);
+//    $mail->addReplyTo(GMAIL_USER, GMAIL_NAME);
+//    
+//    //Load e-mails to send to
+//    $users_cache = 'data/users.json';
+//    if(file_exists($users_cache)) {
+//        $users = json_decode(file_get_contents($users_cache), 1);
+//        foreach($users as $user) {
+//            if($user['send_email'] === true) {
+//                if(isset($user['alt_email'])) {
+//                    $mail->addAddress($user['alt_email'], $user['user']);
+//                } else {
+//                    $mail->addAddress($user['email'], $user['user']);
+//                }
+//            }
+//        }
+//    }
+//    
+//    //Select type of Subject
+//    if($request->param('request-type') === 'new') {
+//        $mail->Subject  = 'New Mod - ' . $request->param('name');
+//    } else {
+//        $mail->Subject  = 'Update Request - ' . $request->param('name');
+//    }
+//    
+//    //Use Klein to render partial and extract render
+//    $service->partial('html/layouts/mail.phtml',array('mod' => $mod));
+//    $mail->msgHTML(ob_get_clean());
+//    
+//    $service->partial('html/layouts/mail_alt.phtml',array('mod' => $mod));
+//    $mail->AltBody = ob_get_clean();
+//    
+//    if(!$mail->Send()) {
+//        $response->redirect('/submit/failed');
+//    } else {
+//        $response->redirect('/submit/success');
+//    }
+    $response->redirect('/submit/success');
     $response->send();
     exit();
 });
