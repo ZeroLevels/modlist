@@ -23,7 +23,7 @@
                                 <input type="radio" name="request-type" id="new" value="new"<?php if($this->submission['edit_data']['mode'] === 'New Mod') { echo ' checked'; } ?>> New Mod
                             </label>
                             <label<?php if($this->submission['edit_data']['mode'] === 'Update Request') { echo ' class="active"'; } ?>>
-                                <input type="radio" name="request-type" id="old" value="old"<?php if($this->submission['edit_data']['mode'] === 'Update Request') { echo ' checked'; } ?>> Update Request
+                                <input type="radio" name="request-type" id="old" value="old"<?php if($this->submission['edit_data']['mode'] === 'Update Request') { echo ' checked'; } ?>> Update Info
                             </label>
                         </div>
                         <?php if($this->permissions->canAccess('panel.submission.edit')) { ?>
