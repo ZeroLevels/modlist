@@ -183,12 +183,12 @@
 },{
 
 "name":"Advanced Generators",
-"link":"http://bdew.net/generators/",
+"link":"http://minecraft.curseforge.com/mc-mods/223622-advanced-generators",
 "desc":"Adds free-form multiblock power generators which can produce RF, MJ and EU. Run on various liquid fuel types.",
 "author":["bdew"],
 "source":"https://github.com/bdew/generators",
 "type":["Universal"],
-"dependencies":["Forge Required","BDLib"],
+"dependencies":["Forge Required","BdLib"],
 "versions":["1.7.10"]
 
 },{
@@ -399,13 +399,12 @@
 },{
 
 "name":"AE2 Stuff",
-"other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff",
 "desc":"Adds Crystal Growth Chamber and Pattern Encoder blocks.",
 "author":["bdew"],
 "source":"https://github.com/bdew/ae2stuff",
 "type":["Universal"],
-"dependencies":["Forge Required","Applied Energistics 2","BDLib"],
+"dependencies":["Forge Required","Applied Energistics 2","BdLib"],
 "versions":["1.7.10"]
 
 },{
@@ -1882,8 +1881,7 @@
 },{
 
 "name":"Baubles",
-"modid":"Baubles",
-"other":"(API)",
+"other":"(Dependency)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-10-updated-5-12-2014",
 "desc":"An API that adds 4 bauble slots to player inventories; consisting of an amulet slot, belt slot and 2 ring slots.",
 "author":["Azanor"],
@@ -1894,9 +1892,9 @@
 
 },{
 
-"name":"BDLib",
+"name":"BdLib",
 "other":"(Dependency)",
-"link":"http://bdew.net/gendustry/",
+"link":"http://minecraft.curseforge.com/mc-mods/70496-bdlib",
 "desc":"Required library for some bdew's mods.",
 "author":["bdew"],
 "source":"https://github.com/bdew/bdlib",
@@ -5521,7 +5519,7 @@
 },{
 
 "name":"Cyclops Core",
-"other":"(Dependency) (Beta)",
+"other":"(Dependency)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445975-evilcraft-open-source-v0-7-0b",
 "desc":"Required library for CyclopsMC's mods.",
 "author":["kroeser","Immortaleeb"],
@@ -7493,7 +7491,6 @@
 },{
 
 "name":"EvilCraft",
-"other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445975-evilcraft-open-source-v0-7-0b",
 "desc":"Truly evil. Really. This adds various evil things to Minecraft, from creatures such as little flying monster that will follow you around and try to poison you, to bottles that allow you to store and control the weather.",
 "author":["kroeser","Immortaleeb"],
@@ -7530,6 +7527,17 @@
 "desc":"Adds support for Ex Nihilo with other mods, such as Tinkers' Construct, Thaumcraft 4, Thermal Expansion 4, and Waila.",
 "author":["LoveHoly","insaneau"],
 "source":"https://github.com/MikeLydeamore/Ex-Astris",
+"type":["Universal"],
+"dependencies":["Forge Required","Ex Nihilo"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Ex Astris Rebirth",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2424837-ex-astris-rebirth-mod-compatability-for-your",
+"desc":"Continuation of Ex Astris. Adds support for Ex Nihilo with other mods, such as Tinkers' Construct, Thaumcraft 4, Thermal Expansion 4, and Waila.",
+"author":["LoveHoly","insaneau"],
+"source":"https://github.com/Ex-Astris-Rebirth/Ex-Astris-Rebirth",
 "type":["Universal"],
 "dependencies":["Forge Required","Ex Nihilo"],
 "versions":["1.7.10"]
@@ -7597,6 +7605,27 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Exp Chest",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282384-forge-ssp-1-6-4-exp-chest-v3",
+"desc":"A simple experience chest. Best used if you are a high level and don't want to take a chance at losing your exp when you go adventuring. Also good if you just want so save up your exp without having the risk of one of those pesky creepers killing you while you're just getting a few resources.",
+"author":["jamolnng"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
+"name":"Exp Translation",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2473208-exp-translation-v1-0-0-bottle-up-your-experience",
+"desc":"Allows to bottle up player experience for further use.",
+"author":["gruntpie224"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -9213,12 +9242,12 @@
 },{
 
 "name":"Gendustry",
-"link":"http://bdew.net/gendustry/",
+"link":"http://minecraft.curseforge.com/mc-mods/70492-gendustry",
 "desc":"Features upgradable powered apiaries, genetic manipulation, and mutation. Allows construction of new organisms from genetic templates.",
 "author":["bdew"],
 "source":"https://github.com/bdew/gendustry",
 "type":["Universal"],
-"dependencies":["Forge Required","BDLib","Forestry"],
+"dependencies":["Forge Required","BdLib","Forestry"],
 "versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
@@ -12981,6 +13010,17 @@
 
 },{
 
+"name":"McJtyLib",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/233105-mcjtylib",
+"desc":"Required library for McJty's mods.",
+"author":["McJty"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"MCPatcher",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1226351-1-8-1-1-7-10-and-earlier-update-11-24-mcpatcher",
 "desc":"Enhanced colors, animations, mipmapping, textures and font support. Includes Connected Textures and RandomMobs.",
@@ -14693,13 +14733,14 @@
 
 },{
 
-"name":"More Herobrines Mod",
+"name":"More Herobrine",
+"other":"(Beta)",
 "link":"http://www.planetminecraft.com/mod/more-herobrines-125-11-kinds-of-herobrine-and-new-swords/",
-"desc":"",
+"desc":"Adds over 20 new kinds of Herobrine.",
 "author":["7ggw88"],
-"type":["SSP"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.4.7"]
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -15533,7 +15574,7 @@
 },{
 
 "name":"NEI Addons",
-"link":"http://bdew.net/neiaddons/",
+"link":"http://minecraft.curseforge.com/mc-mods/63352-nei-addons",
 "desc":"Adds NEI support for Forestry, Botany, Applied Energistics, Misc Peripherals, Ex Nihilo and more.",
 "author":["bdew"],
 "source":"https://github.com/bdew/neiaddons",
@@ -17431,12 +17472,12 @@
 },{
 
 "name":"Pressure Pipes",
-"link":"http://bdew.net/pressure/",
+"link":"http://minecraft.curseforge.com/mc-mods/221214-pressure-pipes",
 "desc":"Adds pipes which can transfer unlimited amounts of any kind of fluid, along with filters.",
 "author":["bdew"],
 "source":"https://github.com/bdew/pressure",
 "type":["Universal"],
-"dependencies":["Forge Required","BDLib"],
+"dependencies":["Forge Required","BdLib"],
 "versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
@@ -17593,6 +17634,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required","CodeChickenCore","ForgeMultipart","MrTJPCore"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"ProjectXY",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/233296-projectxy",
+"desc":"Re-creation of the beloved mod XyCraft. Adds aesthetic blocks and simple machines.",
+"author":["xy_project"],
+"source":"https://github.com/xy-project/Project-XY",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18544,7 +18597,7 @@
 "author":["McJty"],
 "source":"https://github.com/McJty/RFTools",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","McJtyLib"],
 "versions":["1.7.10"]
 
 },{
@@ -18574,8 +18627,8 @@
 "name":"RikMuld's Core",
 "other":"(Dependency)",
 "link":"http://www.rikmuld.com/",
-"desc":"Required dependency for RikMuld's mods.",
-"author":["RikMuld"],
+"desc":"Required dependency for rikmuld's mods.",
+"author":["rikmuld"],
 "source":"https://github.com/Rikmuld/RikMuldsCore-mcmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -21688,7 +21741,7 @@
 "name":"The Camping Mod",
 "link":"http://www.rikmuld.com/",
 "desc":"Adds campfires, tents, backpacks and new food items, such as marshmallows and radishes.",
-"author":["RikMuld"],
+"author":["rikmuld"],
 "source":"https://github.com/Rikmuld/CampingMod-mcmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -21699,7 +21752,7 @@
 "name":"The Camping Mod",
 "link":"http://www.rikmuld.com/",
 "desc":"Adds campfires, tents, backpacks and new food items, such as marshmallows and radishes.",
-"author":["RikMuld"],
+"author":["rikmuld"],
 "source":"https://github.com/Rikmuld/CampingMod-mcmod",
 "type":["Universal"],
 "dependencies":["Forge Required","RikMuld's Core"],
@@ -22585,6 +22638,17 @@
 "source":"https://github.com/Samtrion/TinyPockets",
 "type":["Universal"],
 "dependencies":["Forge Required","SamCore"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Tiny Storage",
+"link":"http://minecraft.curseforge.com/mc-mods/227712-tiny-storage",
+"desc":"Adds smaller, cuter and more compact storage options.",
+"author":["TimtheBrick"],
+"source":"https://github.com/Tim020/Tiny-Storage",
+"type":["Universal"],
+"dependencies":["Forge Required"],
 "versions":["1.7.10"]
 
 },{
@@ -23863,7 +23927,7 @@
 "name":"Waila",
 "other":"(What Am I Looking At)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1",
-"desc":"An extension for NEI. Shows what mod an item is from, allowing you to easily group items per mod. Capable of showing the name of blocks and mods in-game on top of your screen, including internal information of specific blocks from BuildCraft and IndustrialCraft 2.",
+"desc":"Shows what mod an item is from, allowing you to easily group items per mod. Capable of showing the name of blocks and mods in-game on top of your screen, including internal information of specific blocks from BuildCraft and IndustrialCraft 2.",
 "author":["ProfMobius"],
 "source":"https://bitbucket.org/ProfMobius/waila",
 "type":["Client"],
@@ -23872,14 +23936,27 @@
 
 },{
 
-"name":"Waila NBT",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2220567-waila-nbt-display-player-defined-specific-nbt-info",
-"desc":"Displays player defined specific NBT info on Waila.",
-"author":["exzhawk"],
-"source":"https://github.com/exzhawk/wailanbt",
+"name":"Waila Features",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/229625-waila-features",
+"desc":"Adds some extra features to Waila.",
+"author":["Way2muchnoise"],
+"source":"https://github.com/way2muchnoise/WAILA-features",
 "type":["Client"],
 "dependencies":["Forge Required","Waila"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Waila Features",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/229625-waila-features",
+"desc":"Adds some extra features to Waila.",
+"author":["Way2muchnoise"],
+"source":"https://github.com/way2muchnoise/WAILA-features",
+"type":["Client"],
+"dependencies":["Forge Required","Waila"],
+"versions":["1.8"]
 
 },{
 
@@ -23891,6 +23968,17 @@
 "type":["Client"],
 "dependencies":["Forge Required","Waila"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Waila NBT",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2220567-waila-nbt-display-player-defined-specific-nbt-info",
+"desc":"Displays player defined specific NBT info on Waila.",
+"author":["exzhawk"],
+"source":"https://github.com/exzhawk/wailanbt",
+"type":["Client"],
+"dependencies":["Forge Required","Waila"],
+"versions":["1.7.10"]
 
 },{
 
@@ -23912,7 +24000,7 @@
 "author":["Darkhax"],
 "source":"https://github.com/Darkhax-Minecraft/WAWLA",
 "type":["Client"],
-"dependencies":["Forge Required","CodeChickenCore","Not Enough Items","Waila"],
+"dependencies":["Forge Required","Waila"],
 "versions":["1.7.10"]
 
 },{
@@ -24212,6 +24300,18 @@
 
 },{
 
+"name":"WIIEMC",
+"other":"(What Is Its EMC)",
+"link":"http://minecraft.curseforge.com/mc-mods/232271-what-is-its-emc",
+"desc":"A plugin for Waila which displays EMC value of the blocks.",
+"author":["Lomeli12"],
+"source":"https://github.com/Lomeli12/WIIEMC",
+"type":["Client"],
+"dependencies":["Forge Required","Waila","Equivalent Exchange 3"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"WikiTool",
 "other":"(Alpha)",
 "link":"https://mods.io/mods/1055-wikitool",
@@ -24507,6 +24607,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","bspkrsCore"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"World Sync",
+"link":"http://minecraft.curseforge.com/mc-mods/233339-world-sync",
+"desc":"Allows for easy syncing of worlds between computers and storing worlds online from in-game.",
+"author":["rikmuld"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
