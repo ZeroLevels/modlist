@@ -119,6 +119,16 @@
 
 },{
 
+"name":"Admin Weapons",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2232900-admin-weapons-weapons-for-server-operator",
+"desc":"Adds 11 new weapons for those players who have the rank "Administrator" on server.",
+"author":["elias54"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Advanced Agriculture",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287771-1-5-1-forge-smp-advanced-agriculture-1-1-2",
 "desc":"A tech-mod that will make your minecraft tech-life a lot more fun. It originally started with an idea to make farming more fun, interesting and specifically useful, but has grown out to be a mod way more than that.",
@@ -969,6 +979,17 @@
 
 },{
 
+"name":"AquaTweaks",
+"link":"http://minecraft.curseforge.com/mc-mods/231659-aquatweaks",
+"desc":"Makes fluids a little prettier.",
+"author":["BluSunrize"],
+"source":"https://github.com/BluSunrize/AquaTweaks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Aquaculture",
 "link":"http://minecraft.curseforge.com/mc-mods/60028-aquaculture",
 "desc":"An expansion of Minecraft's fishing system. You never know what you'll catch. Every biome is home to tons of unique fish you can only catch in that biome, and there's a myriad of new loot items you can randomly catch while fishing.",
@@ -1344,6 +1365,16 @@
 
 },{
 
+"name":"Assembly Mod",
+"link":"http://tennoxmods.blogspot.de/p/assembly-mod.html",
+"desc":"Adds assemblies (Normal, Sorter, Furnace, Propeller, Counter, Chester and etc) and a Digger.",
+"author":["TeNNoX"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
 "name":"AstralCraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287146-1-5-1-4-forge-ssp-smp-astralcraft-pre2",
 "desc":"Once upon a time, before Steve came and before creepers could be seen resting from the daylight in the caves, there was a race of intelligent creatures, that inhabited this world. It was a technological race, which managed to advance in many superior technologies. But, due to unclear circumstances, the race disappeared, leaving nothing but mysterious traces of its existence. Now it's up to you to uncover the mystery and obtain the technologies of the ancients...",
@@ -1623,6 +1654,27 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.6.1"]
+
+},{
+
+"name":"Back in Slime",
+"link":"http://minecraft.curseforge.com/mc-mods/232264-back-in-slime-slime-blocks-for-1-7",
+"desc":"Adds slime blocks and slime pistons from MC 1.8 into 1.7.10.",
+"author":["don_bruce"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Bacteria Mod",
+"link":"http://tennoxmods.blogspot.de/p/bacteria-mod.html",
+"desc":"Adds bacteria colonies into the world. Players can let them eat the world or just kill them.",
+"author":["TeNNoX"],
+"source":"https://github.com/TeNNoX-Mods/Bacteria-Mod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5"]
 
 },{
 
@@ -2018,6 +2070,16 @@
 
 },{
 
+"name":"Better Archery Mod",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289058-better-archery-v1-6-2-adds-new-bows-arrows-quivers",
+"desc":"Adds two new bows, various new arrow types, and quivers to hold arrows and allow you to easily switch between arrow types to fire.",
+"author":["Zaggy1024"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4","1.6.2"]
+
+},{
+
 "name":"Better Arrows",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286713-1-4-7-works-in-mp-clientside-tweaks-better-third",
 "desc":"Titled FLAMING Arrows on the thread: Adds flame and smoke trails for flaming arrows, as well as the look of a chunk coming out of a wall (done with particles) when an arrow hits it.",
@@ -2067,16 +2129,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
-
-},{
-
-"name":"Better Archery Mod",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289058-better-archery-v1-6-2-adds-new-bows-arrows-quivers",
-"desc":"Adds two new bows, various new arrow types, and quivers to hold arrows and allow you to easily switch between arrow types to fire.",
-"author":["Zaggy1024"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
 
 },{
 
@@ -2139,6 +2191,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.6.4"]
+
+},{
+
+"name":"Better Creative Inventory",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2361034-better-creative-inventory-command-blocks-barriers",
+"desc":"Adds all missing blocks and items to the creative inventory, including: Command Blocks, Barriers, the Dragon Egg etc. Additionally it adds a new creative tab containing Monster Spawners for every available entity.",
+"author":["CrushedPixel"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -2257,6 +2319,16 @@
 
 },{
 
+"name":"Better Liquids",
+"link":"http://doomria.com/mod/",
+"desc":"Adds more interesting liquids to the game and a new item set.",
+"author":["TheDoomBringer"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Better Login",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285257-1-4-7-better-login-insures-you-login-to-a-server",
 "desc":"Ensures you log into any server whether it is full, or if it is even offline. In other words, this mod saves you from spamming the Refresh button when you cannot connect to a server. This mod does it for you. All you need to do is wait.",
@@ -2291,6 +2363,17 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2134067-better-rain-v0-15-bug-fixes",
 "desc":"Changes the vanilla rain to make it more relaxing. Lowers the rain volume and change it's textures.",
 "author":["Wirsbo"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Better Records",
+"link":"http://minecraft.curseforge.com/mc-mods/222722-better-records",
+"desc":"Adds the ability to download songs from the internet directly into the game.",
+"author":["Stumblinbear"],
+"source":"https://github.com/stumblinbear/BetterRecords",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -2421,6 +2504,16 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10"]
+
+},{
+
+"name":"BetterVanilla",
+"link":"http://minecraft.curseforge.com/mc-mods/223124-bettervanilla",
+"desc":"Attempts to improve vanilla gameplay by changing existing mechanics and expanding upon existing content.",
+"author":["Agadar"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -3546,6 +3639,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8"]
+
+},{
+
+"name":"Chameleon Blocks",
+"link":"http://tennoxmods.blogspot.de/p/chameleon-blocks.html",
+"desc":"Adds blocks with changeable texture and shape. These blocks are pretty easy to use, player should place one of these blocks on the side of a normal block and it will instantly fade to recreate the block it's placed next to.",
+"author":["TeNNoX"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -5353,6 +5456,17 @@
 
 },{
 
+"name":"Custom Main Menu",
+"link":"http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu",
+"desc":"Allows players to modify the main menu using a simple json file.",
+"author":["Lumien"],
+"source":"https://github.com/lumien231/Custom-Main-Menu",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Custom Mob Spawner",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282021-1-6-2-custom-mob-spawner",
 "desc":"Provides random mob spawning behavior from pre-Beta 1.8 for other mods, with individual spawning lists per mod.",
@@ -5443,6 +5557,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Custom Selection Box",
+"link":"http://tennoxmods.blogspot.de/p/custom-selection-box-mod.html",
+"desc":"Allows players to customize the selection box around the block they are looking at.",
+"author":["TeNNoX"],
+"source":"https://github.com/TeNNoX-Mods/CustomSelectionBox",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -5670,6 +5795,16 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Dead Mess",
+"link":"http://minecraft.curseforge.com/mc-mods/228652-dead-mess",
+"desc":"Overrides several world generation features in the game, thus giving it an empty feel. There are no more trees, flowers or cacti, only dirt. The rivers have been replaced by a custom fluid known as "blood".",
+"author":["dmf444","mincrmatt12"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -8054,6 +8189,28 @@
 
 },{
 
+"name":"Fake Ores",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104647-fake-ores-moved",
+"desc":"Adds fake ores to the world which will spawn hostile entities. Also adds a new dimension called "Fake Ores Dimension".",
+"author":["elias54"],
+"source":"https://github.com/elias54/FakeOres",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Fake Ores 2",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2461487-fake-ores2-now-available-for-minecraft-1-8",
+"desc":"Adds fake ores to the world which will spawn hostile entities. Also adds a new dimension called "Fake Ores Dimension".",
+"author":["elias54"],
+"source":"https://github.com/elias54/Fake-Ores-2",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Falling Meteors Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280918-falling-meteors-mod-v2-14-2",
 "desc":"Meteors Fall to the ground and explode, forming craters that house various minerals from space which can be used for a variety of things, such as new tools and armour. Also adds meteor shields to protect yourself with.",
@@ -8098,12 +8255,23 @@
 
 "name":"FanAPI",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291382-1-6-4-fanapi-moba-in-minecraft-based-on-dota-lol",
-"desc":"Extensively changes the game into a new world based on the MOBA games LoL, DotA, DotA 2 and Smite. Adds tons of new items as well as spells and the like, giving you additional power like more HP, Mana, Attack Damage, Armor, etc.. Its also made as an API so creating custom Items is possible even without much java knowledge. Note that this mod is subject to large scale changes and improvements, as it is currently still in alpha stage.",
+"desc":"Adds a lot of new combat stats (attack damage, mana, attack speed and etc) to the player to completely change the PvP system. Adds tons of new items as well as spells and the like, giving you additional power like more HP, Mana, Attack Damage, Armor, etc.. Its also made as an API so creating custom Items is possible even without much java knowledge. Note that this mod is subject to large scale changes and improvements, as it is currently still in alpha stage.",
 "author":["Stuuupiiid"],
 "source":"https://github.com/Stuuupiiid/fanapi",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"FanAPI",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2447630-opensource-api-content-pack-system-fanapi-spell",
+"desc":"Adds a lot of new combat stats (attack damage, mana, attack speed and etc) to the player to completely change the PvP system. Adds tons of new items as well as spells and the like, giving you additional power like more HP, Mana, Attack Damage, Armor, etc.. Its also made as an API so creating custom Items is possible even without much java knowledge.",
+"author":["Stuuupiiid"],
+"source":"https://github.com/Stuuupiiid/fanapi",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -8114,6 +8282,18 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Fancy Fluid Storage",
+"other":"(FFS)",
+"link":"http://minecraft.curseforge.com/mc-mods/232683-ffs-fancy-fluid-storage",
+"desc":"Allows to build microblock structures up to 32x32x32 size which will store fluids.",
+"author":["Lordmau5","maxpowa"],
+"source":"https://github.com/Lordmau5/FFS",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -9915,22 +10095,22 @@
 },{
 
 "name":"HarvestCraft",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-oct-19th-harvestcraft-1-7-10c-config",
-"desc":"Adds in over 250 new foods and recipes using new cooking tools using only vanilla Minecraft materials and crops.",
-"author":["MatrexsVigil"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
-"name":"HarvestCraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274678-1-6-x-1-5-2-others-pams-mods-feb-9th-im-back",
 "desc":"Adds in over 250 new foods and recipes using new cooking tools using only vanilla Minecraft materials and crops.",
 "author":["MatrexsVigil"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
+"name":"HarvestCraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-oct-19th-harvestcraft-1-7-10c-config",
+"desc":"Adds in over 250 new foods and recipes using new cooking tools using only vanilla Minecraft materials and crops.",
+"author":["MatrexsVigil"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -11445,13 +11625,36 @@
 },{
 
 "name":"JewelryCraft",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293063-1-7-10-sp-mp-lan-jewelrycraft-custom-molten-metal",
+"link":"http://minecraft.curseforge.com/mc-mods/70819-jewelrycraft",
 "desc":"Allows the creation of jewelery, which can be customized to apply buffs and debuffs to its wearer. A submission for ModJam 3.",
-"author":["sor1n","bspkrs"],
+"author":["OnyxDarkKnight","bspkrs"],
 "source":"https://github.com/sor1n/Modjam-Mod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"JewelryCraft 2",
+"link":"http://minecraft.curseforge.com/mc-mods/229927-jewelrycraft-2",
+"desc":"Allows the creation of jewelery, which can be customized to apply buffs and debuffs to its wearer.",
+"author":["OnyxDarkKnight"],
+"source":"https://github.com/sor1n/Modjam-Mod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"JoelGodOfWar's Simple Coordinates Mod",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/230599-joelgodofwars-simple-coordinates-mod",
+"desc":"Adds various utilities and enhancements to make player's life easier.",
+"author":["joelstoner"],
+"source":"https://github.com/JoelGodOfwar/joelsimplecoords",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -11639,6 +11842,17 @@
 
 },{
 
+"name":"Just Another Fun Food Addon",
+"other":"(JAFFA)",
+"link":"http://minecraft.curseforge.com/mc-mods/232717-jaffa-foods-a-harvestcraft-addon",
+"desc":"Adds 40+ more foods into the game! It utilizes the ingredients from HarvestCraft, and adds in additional food.",
+"author":["Murdy007"],
+"type":["Universal"],
+"dependencies":["Forge Required","HarvestCraft"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Just Another Spawner",
 "other":"(JAS)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288431-just-another-spawner-jas-v0-14",
@@ -11648,6 +11862,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.5.2"]
+
+},{
+
+"name":"Just Backpacks",
+"link":"http://minecraft.curseforge.com/mc-mods/233064-just-backpacks",
+"desc":"Adds four tiers of backpacks to help players on their journeys. They can be named using an anvil, and colored with dye the same as with leather armor (and removed via a cauldron of water).",
+"author":["FyberOptic"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -11720,6 +11944,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Key and Code Lock",
+"link":"http://tennoxmods.blogspot.de/p/key-and-code-lock.html",
+"desc":"Allows players to secure their house, basement or farm.",
+"author":["TeNNoX"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1"]
 
 },{
 
@@ -14146,6 +14380,16 @@
 
 },{
 
+"name":"Model Citizens",
+"link":"http://minecraft.curseforge.com/mc-mods/230864-model-citizens",
+"desc":"Allows players to place player or skeleton character models into the world which can be fully posed, wear armor, hold items, and have a complete inventory that players can loot. Player textures can be customized.",
+"author":["FyberOptic"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"ModLoader",
 "other":"(API)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated",
@@ -16229,6 +16473,16 @@
 
 },{
 
+"name":"Old Guns Mod",
+"link":"http://minecraft.curseforge.com/mc-mods/232682-old-guns-mod",
+"desc":"Adds matchlock and flintlock firearms, their parts and their bullets.",
+"author":["Zach2039"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Old World Gen",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-rwg-owg-bwg4",
 "desc":"Adds world gen from the old Minecraft versions.",
@@ -16244,7 +16498,6 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294136-joserichis-mods",
 "desc":"Adds olive trees, rods to obtain olive oil, new crafting recipes, a kitchen block, and more.",
 "author":["Joserichi"],
-"source":"https://github.com/Joserichi/OliveCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
@@ -16957,6 +17210,17 @@
 "type":["N/A"],
 "dependencies":["Forge Required"],
 "versions":["1.4.5","1.4.2"]
+
+},{
+
+"name":"Planetoids",
+"link":"http://tennoxmods.blogspot.de/p/planetoid.html",
+"desc":"Adds world generator that creates an infinite world of little floating planetoids.",
+"author":["TeNNoX"],
+"source":"https://github.com/TeNNoX-Mods/Planetoids",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -19344,6 +19608,17 @@
 
 },{
 
+"name":"Simple Condensers",
+"link":"http://minecraft.curseforge.com/mc-mods/231153-simple-condensers",
+"desc":"Adds 3 tiers of condensers, one for each of the alchemical dusts.",
+"author":["Lomeli12"],
+"source":"https://github.com/Lomeli12/SimpleCondenser",
+"type":["Universal"],
+"dependencies":["Forge Required","LomLib","Equivalent Exchange 3"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"SimpleCore API",
 "other":"(Dependency)",
 "link":"http://minecraft.curseforge.com/mc-mods/226136-simplecore-api",
@@ -19705,7 +19980,7 @@
 
 "name":"Slender Chicken",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1444711-1-6-2-the-slender-chicken-mod-alpha-v0-0-2",
-"desc":"Adds the Slenderchicken mob and the Slenderchicken dimension, wich will be played like the game Slender.",
+"desc":"Adds the Slenderchicken mob and the Slenderchicken dimension, which will be played like the game Slender.",
 "author":["buster_the_dog"],
 "source":"https://github.com/buster-the-dog/slenderchicken",
 "type":["Universal"],
@@ -19850,6 +20125,16 @@
 
 },{
 
+"name":"SmeltCycle",
+"link":"http://minecraft.curseforge.com/mc-mods/231200-smeltcycle",
+"desc":"Allows players to smelt all tools, armor and weapons made of iron, gold or diamond back into parts.",
+"author":["QueenNuffer"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Smiley Gem Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290224-1-7-2-1-6-2-1-6-1-1-5-2-txxs-mods-forge",
 "desc":"Adds smiley gems that can be crafted into tools or alloys.",
@@ -19988,6 +20273,18 @@
 
 },{
 
+"name":"Somnia",
+"other":"(Unstable)",
+"link":"http://www.codeheist.net:8080/job/Somnia/",
+"desc":"Simulates the world while sleeping instead of skipping nighttime. Mobs will spawn and despawn, machines will run, and ores will smelt.",
+"author":["kingrunes"],
+"source":"https://github.com/kingrunes/Somnia",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Sonic Ether's Unbelievable Shaders",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280299-sonic-ethers-unbelievable-shaders-v10-1",
 "desc":"Adds shaders and animation to Minecraft to make stunning videos and photos. Requires a powerful computer.",
@@ -20022,6 +20319,7 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288717-nightkoshs-mods",
 "desc":"Improves wolves through gameplay tweaks, AI improvements, and new features.",
 "author":["NightKosh"],
+"source":"https://github.com/NightKosh/Sophisticated-wolves",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10","1.7.2"]
@@ -20036,6 +20334,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2"]
+
+},{
+
+"name":"Soul Forest",
+"link":"http://minecraft.curseforge.com/mc-mods/231109-soul-forest-mod-1-9-7",
+"desc":"Adds a whole new dimension with mobs, biomes, vines and other stuff.",
+"author":["OwnAgePau"],
+"source":"https://github.com/OwnAgePau/Soul-Forest",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -21684,6 +21993,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"The Better Banners Mod",
+"link":"http://minecraft.curseforge.com/mc-mods/231773-the-better-banners-mod-preview",
+"desc":"Adds a new banner that allows you to change the texture as opposed to creating a pre-determined pattern with vanilla banner.",
+"author":["TheDubsteppingNinja"],
+"type":["SSP"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -24108,6 +24427,17 @@
 
 },{
 
+"name":"Waterproof",
+"link":"http://minecraft.curseforge.com/mc-mods/231879-waterproof",
+"desc":"Makes Redstone and Rails not be destroyed by water. You can add more blocks in the config file the mod provides.",
+"author":["Vazkii"],
+"source":"https://github.com/Vazkii/Waterproof",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Watson",
 "link":"https://github.com/totemo/watson",
 "desc":"Visualizes LogBlock, CoreProtect and Prism query and inspector results in 3D.",
@@ -24620,6 +24950,16 @@
 
 },{
 
+"name":"Worms Mod",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2479341-worms-mod-adds-a-chance-for-tasty-worms-to-drop",
+"desc":"Adds a chance for edible worms to drop when digging dirt.",
+"author":["Mr_Pike"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"XACT: Xhamolk_'s Advanced Crafting Table",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442410-xact-xhamolk_s-advanced-crafting-table-mc-1-6-4",
 "desc":"Adds an advanced crafting table that saves you from having to learn every crafting recipe as well as adding the ability for the vanilla crafting table to keep its inventory after closing the GUI.",
@@ -24845,6 +25185,17 @@
 "desc":"Adds recipes to smelt rotten flesh into leather. Conversion ratio is 5x Rotten Flesh = 1x Leather.",
 "author":["AiryBreath","skidznet"],
 "source":"https://github.com/airbreather/YALSM",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"YUNoMakeGoodMap",
+"link":"http://files.minecraftforge.net/YUNoMakeGoodMap/",
+"desc":"Adds Void map. Used for building Skyblock-like worlds.",
+"author":["LexManos"],
+"source":"https://github.com/LexManos/YUNoMakeGoodMap",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10","1.7.2","1.6.4"]

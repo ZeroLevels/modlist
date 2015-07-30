@@ -1,3 +1,21 @@
+(July/31/2015)
+	+Added "Admin Weapons"
+	+Added "Bacteria Mod"
+	+Added "Better Creative Inventory"
+	+Added "Custom Main Menu"
+	+Added "Custom Selection Box"
+	+Added "Dead Mess"
+	+Added "Fake Ores 2"
+	+Added "FanAPI"
+	+Added "JoelGodOfWar's Simple Coordinates Mod": Currently in Beta
+	+Added "Just Backpacks"
+	+Added "Old Guns Mod"
+	+Added "SmeltCycle"
+	+Added "Somnia": Currently Unstable
+	+Added "The Better Banners Mod"
+	+Added "Worms Mod"
+	+Added "YUNoMakeGoodMap"
+
 (July/30/2015)
 	*Updated "Cyclops Core": No longer in Beta
 	*Updated "EvilCraft": No longer in Beta

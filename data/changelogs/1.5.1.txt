@@ -1,3 +1,6 @@
+(July/31/2015)
+	+Added "Key and Code Lock"
+
 (July/23/2015)
 	+Added "NEI Mystcraft Plugin"
 

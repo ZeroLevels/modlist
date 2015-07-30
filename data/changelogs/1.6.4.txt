@@ -1,3 +1,11 @@
+(July/31/2015)
+	+Added "Assembly Mod"
+	+Added "Bacteria Mod"
+	+Added "BetterVanilla"
+	+Added "Custom Selection Box"
+	+Added "Key and Code Lock"
+	+Added "Planetoids"
+
 (July/28/2015)
 	*Updated "Haunted": Source no longer available, repository removed
 

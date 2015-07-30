@@ -1,3 +1,14 @@
+(July/31/2015)
+	+Added "Assembly Mod"
+	+Added "Bacteria Mod"
+	+Added "Better Records"
+	+Added "BetterVanilla"
+	+Added "Chameleon Blocks"
+	+Added "Custom Selection Box"
+	+Added "Key and Code Lock"
+	+Added "Planetoids"
+	+Added "YUNoMakeGoodMap"
+
 (July/23/2015)
 	+Added "Mo' Bends": Currently WIP
 	+Added "New Biospheres"

@@ -1,3 +1,28 @@
+(July/31/2015)
+	+Added "Admin Weapons"
+	+Added "AquaTweaks"
+	+Added "Assembly Mod"
+	+Added "Back in Slime"
+	+Added "Bacteria Mod"
+	+Added "Better Liquids"
+	+Added "Better Records"
+	+Added "BetterVanilla"
+	+Added "Chameleon Blocks"
+	+Added "Custom Main Menu"
+	+Added "Custom Selection Box"
+	+Added "Dead Mess"
+	+Added "Fake Ores"
+	+Added "Fancy Fluid Storage"
+	+Added "JewelryCraft 2"
+	+Added "Just Another Fun Food Addon"
+	+Added "Key and Code Lock"
+	+Added "Model Citizens"
+	+Added "Planetoids"
+	+Added "Simple Condensers"
+	+Added "Soul Forest"
+	+Added "Waterproof"
+	+Added "YUNoMakeGoodMap"
+
 (July/30/2015)
 	*Updated "AE2 Stuff": No longer in Beta
 	*Updated "RFTools": Now requires McJtyLib
