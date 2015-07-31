@@ -121,7 +121,7 @@
 
 "name":"Admin Weapons",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2232900-admin-weapons-weapons-for-server-operator",
-"desc":"Adds 11 new weapons for those players who have the rank "Administrator" on server.",
+"desc":"Adds 11 new weapons for those players who have the rank \"Administrator\" on server.",
 "author":["elias54"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -5800,7 +5800,7 @@
 
 "name":"Dead Mess",
 "link":"http://minecraft.curseforge.com/mc-mods/228652-dead-mess",
-"desc":"Overrides several world generation features in the game, thus giving it an empty feel. There are no more trees, flowers or cacti, only dirt. The rivers have been replaced by a custom fluid known as "blood".",
+"desc":"Overrides several world generation features in the game, thus giving it an empty feel. There are no more trees, flowers or cacti, only dirt. The rivers have been replaced by a custom fluid known as \"blood\".",
 "author":["dmf444","mincrmatt12"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -8191,7 +8191,7 @@
 
 "name":"Fake Ores",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104647-fake-ores-moved",
-"desc":"Adds fake ores to the world which will spawn hostile entities. Also adds a new dimension called "Fake Ores Dimension".",
+"desc":"Adds fake ores to the world which will spawn hostile entities. Also adds a new dimension called \"Fake Ores Dimension\".",
 "author":["elias54"],
 "source":"https://github.com/elias54/FakeOres",
 "type":["Universal"],
@@ -8202,7 +8202,7 @@
 
 "name":"Fake Ores 2",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2461487-fake-ores2-now-available-for-minecraft-1-8",
-"desc":"Adds fake ores to the world which will spawn hostile entities. Also adds a new dimension called "Fake Ores Dimension".",
+"desc":"Adds fake ores to the world which will spawn hostile entities. Also adds a new dimension called \"Fake Ores Dimension\".",
 "author":["elias54"],
 "source":"https://github.com/elias54/Fake-Ores-2",
 "type":["Universal"],
