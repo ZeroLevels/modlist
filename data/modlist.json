@@ -645,7 +645,7 @@
 
 },{
 
-"name":"Alloy Mod",
+"name":"Alloys Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294219-discontinued-forge-4000-downloads-alloys-mod-add",
 "desc":"Adds alloys to the game. Alloys are created by putting together materials and smelting them. Using these alloys you can make tools, blocks, and more!",
 "author":["nosirrbro"],
@@ -844,7 +844,7 @@
 "author":["thehippomaster21"],
 "type":["Client"],
 "dependencies":["Forge Required","AnimationAPI"],
-"versions":["1.7.2"]
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -904,7 +904,7 @@
 },{
 
 "name":"Aperture Science Turtle Upgrades",
-"link":"http://goo.gl/XRLv9",
+"link":"http://www.computercraft.info/forums2/index.php?/topic/2942-cc-148-mc-147-aperture-science-turtle-upgrades/",
 "desc":"Includes many turtle upgrades varying from IDetecting turtles to batch turtles, you can enable the parts that you like",
 "author":["Hackingroelz"],
 "type":["Universal"],
@@ -1226,7 +1226,7 @@
 "source":"https://github.com/ShadowBlade50/ArrowCam",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.8","1.7.2"]
 
 },{
 
@@ -1242,7 +1242,7 @@
 },{
 
 "name":"Arrow Golems",
-"link":"http://goo.gl/4HaJ7",
+"link":"http://www.planetminecraft.com/mod/132-arrow-golems/",
 "desc":"Adds a new mob called the \"Arrow Golem\" which can spawn with a Spawn Egg in creative mode, or just create the statue needed to spawn it. It does not spawn by itself. It will shoot arrows at any monster except for Creepers and Ghasts.",
 "author":["sed11"],
 "type":["SSP"],
@@ -2654,7 +2654,7 @@
 },{
 
 "name":"Binnie's Mods",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284348-1-7-10-1-6-4-forestry-binnies-mods-1-8-0-2-0-dev",
+"link":"http://minecraft.curseforge.com/mc-mods/223525-binnies-mods",
 "desc":"Binnie's Mods is a collection of addons for Forestry. Binnie's Mods for 1.6.4 contains Extra Bees and Extra Trees addons. Binnie's Mods 2.0 for 1.7.10 contains two extra addons Botany and Genetics.",
 "author":["Binnie567"],
 "type":["Universal"],
@@ -2880,6 +2880,17 @@
 
 },{
 
+"name":"Blood Arsenal",
+"link":"http://minecraft.curseforge.com/mc-mods/228823-blood-magic-addon-blood-arsenal",
+"desc":"An addon for Blood Magic. Adds in many useful items such as mundane tools, more bound tools, sigils, rituals and decor blocks.",
+"author":["Arcaratus"],
+"source":"https://github.com/Arcaratus/BloodArsenal",
+"type":["Universal"],
+"dependencies":["Forge Required","Blood Magic"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Blood Magic",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-3-0b-updated-jan-16",
 "desc":"An arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly.",
@@ -2908,7 +2919,7 @@
 "author":["wasliebob"],
 "source":"https://github.com/wasliebob/BloodUtils",
 "type":["Universal"],
-"dependencies":["Forge Required","Blood Magic"],
+"dependencies":["Forge Required","Blood Magic","WaslieCore"],
 "versions":["1.7.10"]
 
 },{
@@ -3143,7 +3154,7 @@
 "author":["cruXcon"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2"]
+"versions":["1.8","1.7.2"]
 
 },{
 
@@ -3264,7 +3275,7 @@
 },{
 
 "name":"Buffed Tools",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2286105-dt-mods-essentialcraft-3-essential-thaumaturgy",
+"link":"http://minecraft.curseforge.com/mc-mods/230222-buffed-tools",
 "desc":"Adds random buffs to any tools crafted in the game with up to 43 different buffs.",
 "author":["Modbder","TheDen2099","MrDangerDen"],
 "type":["Universal"],
@@ -3393,7 +3404,7 @@
 "desc":"A unique crafting mechanism with RF/EU generators, portable crafting, machines, landscaping, trees, etc.",
 "author":["SonarSonic"],
 "type":["Universal"],
-"dependencies":["Forge Required","CoFHCore","CoFHLib"],
+"dependencies":["Forge Required","CoFH Core","CoFH Lib"],
 "versions":["1.7.10"]
 
 },{
@@ -4096,7 +4107,7 @@
 },{
 
 "name":"Clay Tools",
-"link":"http://goo.gl/TLw8T",
+"link":"http://www.planetminecraft.com/mod/clay-tools-/",
 "desc":"",
 "author":["condo97"],
 "type":["SSP","SMP"],
@@ -4541,6 +4552,17 @@
 "type":["Client"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2","1.6.4","1.5.2"]
+
+},{
+
+"name":"Compacter",
+"link":"http://minecraft.curseforge.com/mc-mods/231549-compacter",
+"desc":"Adds a single simple block - the Compacter.",
+"author":["bdew"],
+"source":"https://github.com/bdew/compacter",
+"type":["Universal"],
+"dependencies":["Forge Required","BdLib","CoFH Core"],
+"versions":["1.7.10"]
 
 },{
 
@@ -5908,6 +5930,18 @@
 
 },{
 
+"name":"Deep Resonance",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/233398-deep-resonance",
+"desc":"A power generation mod that meant for both early game power as well as high end and more complicated end game power. Current release only adds ore generation.",
+"author":["McJty"],
+"source":"https://github.com/McJty/DeepResonance",
+"type":["Universal"],
+"dependencies":["Forge Required","McJtyLib"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"DeFence",
 "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=2811",
 "desc":"Adds chain link fences which can be electrified to increase damage rate.",
@@ -6445,7 +6479,7 @@
 
 "name":"DummyCore",
 "other":"(Dependency)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2286105-dt-mods-essentialcraft-3-essential-thaumaturgy",
+"link":"http://minecraft.curseforge.com/mc-mods/230103-dummycore",
 "desc":"An API required to launch mods made by DummyThinking Team.",
 "author":["Modbder","TheDen2099","MrDangerDen"],
 "source":"https://github.com/Modbder/DummyCore",
@@ -6675,7 +6709,7 @@
 },{
 
 "name":"Eggy Goodness",
-"link":"http://goo.gl/Yz424P",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293937-eggy-goodness",
 "desc":"Allows you to cook eggs in a furnace to obtain Baked Eggs.",
 "author":["Senjin"],
 "type":["Universal"],
@@ -7289,10 +7323,10 @@
 },{
 
 "name":"Enhanced Portals 3",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2178842-enhanced-portals-3",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292751-enhancedportals-3",
 "desc":"Allows you to create any shape or size for portals. Portals can be made out of new materials and the portal itself can be dyed. Includes advanced dimensional and particle controls. New version of Enhanced Portals.",
-"author":["KzariusRex"],
-"source":"https://github.com/SkyNetAB/enhanced-portals",
+"author":["Alz454","KzariusRex"],
+"source":"https://github.com/enhanced-portals/enhanced-portals",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
@@ -7516,7 +7550,7 @@
 },{
 
 "name":"EssentialCraft 3",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2286105-dt-mods-essentialcraft-3-essential-thaumaturgy",
+"link":"http://minecraft.curseforge.com/mc-mods/230148-essentialcraft-3",
 "desc":"Magic-themed industrial-type mod, that adds to the game lots of new devices and items. It also adds new energy type - MRU.",
 "author":["Modbder","TheDen2099","MrDangerDen"],
 "source":"https://github.com/Modbder/EssentialCraft3",
@@ -7527,12 +7561,12 @@
 },{
 
 "name":"Essential Thaumaturgy",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2286105-dt-mods-essentialcraft-3-essential-thaumaturgy",
+"link":"http://minecraft.curseforge.com/mc-mods/230171-essential-thaumaturgy",
 "desc":"A cross-addon to both EssentialCraft3 and Thaumcraft4, that adds some devices and items, that work with both mods.",
 "author":["Modbder","TheDen2099","MrDangerDen"],
 "source":"https://github.com/Modbder/EssentialThaumaturgy",
 "type":["Universal"],
-"dependencies":["Forge Required","Baubles","DummyCore","Thaumcraft 4"],
+"dependencies":["Forge Required","Baubles","DummyCore","Thaumcraft 4","EssentialCraft 3"],
 "versions":["1.7.10"]
 
 },{
@@ -8712,12 +8746,35 @@
 
 },{
 
+"name":"FloodLights",
+"link":"http://minecraft.curseforge.com/mc-mods/224728-floodlights",
+"desc":"Adds electric floodlights powered by RF, UE and EU.",
+"author":["Keridos"],
+"source":"https://github.com/Keridos/FloodLights",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"FLORA",
 "other":"(Fluids and Liquids on Ridiculous Armor)",
 "link":"http://minecraft.curseforge.com/mc-mods/222901-flora",
 "desc":"Adds various fluid-based armors, which can be infused with liquids for buffs.",
 "author":["pixlepix"],
 "source":"https://github.com/pixlepix/FLORA",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4","Redstone Arsenal"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"FLORA Reborn",
+"other":"(Fluids and Liquids on Ridiculous Armor Reborn)",
+"link":"http://minecraft.curseforge.com/mc-mods/231631-flora-reborn",
+"desc":"Continuation of FLORA. Adds various fluid-based armors, which can be infused with liquids for buffs.",
+"author":["dmf444"],
+"source":"https://github.com/dmf444/FLORA",
 "type":["Universal"],
 "dependencies":["Forge Required","CoFH Core","Thermal Foundation","Thermal Expansion 4","Redstone Arsenal"],
 "versions":["1.7.10"]
@@ -8856,7 +8913,7 @@
 "author":["wasliebob"],
 "source":"https://github.com/wasliebob/FE2-1.7",
 "type":["Universal"],
-"dependencies":["Forge Required","Forestry"],
+"dependencies":["Forge Required","Forestry","WaslieCore"],
 "versions":["1.7.10","1.7.2"]
 
 },{
@@ -10445,6 +10502,28 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.6.4","1.5.2"]
+
+},{
+
+"name":"Auto Ore Dictionary Converter",
+"link":"http://minecraft.curseforge.com/mc-mods/232650-auto-ore-dictionary-converter",
+"desc":"Automatically converts items to their configured ore dictionary counterparts.",
+"author":["MattDahEpic"],
+"source":"https://github.com/MattDahEpic/AutoOreDictConvert1.7",
+"type":["Universal"],
+"dependencies":["Forge Required","MattDahEpic Core"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Auto Ore Dictionary Converter",
+"link":"http://minecraft.curseforge.com/mc-mods/232650-auto-ore-dictionary-converter",
+"desc":"Automatically converts items to their configured ore dictionary counterparts.",
+"author":["MattDahEpic"],
+"source":"https://github.com/MattDahEpic/AutoOreDictConvert1.8",
+"type":["Universal"],
+"dependencies":["Forge Required","MattDahEpic Core"],
+"versions":["1.8"]
 
 },{
 
@@ -13190,6 +13269,30 @@
 
 },{
 
+"name":"MattDahEpic Core",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/229595-mattdahepic-core",
+"desc":"Required library for MattDahEpic's mods.",
+"author":["MattDahEpic"],
+"source":"https://github.com/MattDahEpic/MDECore1.7.10",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"MattDahEpic Core",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/229595-mattdahepic-core",
+"desc":"Required library for MattDahEpic's mods.",
+"author":["MattDahEpic"],
+"source":"https://github.com/MattDahEpic/MDECore1.8",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Matter Overdrive",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/229694-matter-overdrive",
@@ -13511,7 +13614,7 @@
 },{
 
 "name":"Millenaire",
-"link":"http://goo.gl/3Z1y7",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272755-millenaire-npc-village-new-villagers-in-players",
 "desc":"This mod aims to fill the emptyness of Minecraft worlds by adding NPC villages to it, with loose 11th-century Norman, Japanese and Mayan themes and additional cultures planned.Villages are populated with men, women and children of various kinds, who perform tasks such as trading with the player, expending current buildings or improving existing ones, cultivating crops such as wheat in Norman villages and rice in Indian ones, crafting tools and powerful amulets, etc. As the village expends, the number of villagers increases as couples have children who grow up into new adults.Help villages grow by trading with them and be rewarded with unique items such as Normand and Indian food or statues and tapestries to decorate your house with. And if they start liking you enough, they might even build you a house of your own.",
 "author":["Kinniken"],
 "type":["Universal"],
@@ -13751,17 +13854,6 @@
 "type":["N/A"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
-
-},{
-
-"name":"Minecraft Selfies",
-"other":"(Release Candidate)",
-"link":"http://minecraftselfies.net/",
-"desc":"Adds a selfie camera which can be used to take pictures, uploaded to MinecraftSelfies.net",
-"author":["ZeuX"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
 
 },{
 
@@ -14618,23 +14710,12 @@
 },{
 
 "name":"Mo' Furnaces",
-"link":"http://goo.gl/zEE7yE",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295112-forge-1-7-2-mo-furnaces-v1",
 "desc":"Adds faster furnace variants made from more expensive materials, such as iron, gold and diamond.",
 "author":["Mattkx4"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
-
-},{
-
-"name":"Mo' Furnaces",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189931-mo-furnaces-mod-v2-1-0",
-"desc":"Adds faster furnace variants made from more expensive materials, such as iron, gold and diamond.",
-"author":["Mattk10"],
-"source":"https://github.com/Mattkx4/MoFurnaces-v2",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.7.10"]
 
 },{
 
@@ -16323,6 +16404,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.6.1","1.5.2"]
+
+},{
+
+"name":"NOVA",
+"link":"http://minecraft.curseforge.com/mc-mods/229664-nova",
+"desc":"An addon for Blood Magic. Adds many new rituals and some weapons.",
+"author":["TeamDman","guikentsuori"],
+"source":"https://github.com/TeamDman/NOVA",
+"type":["Universal"],
+"dependencies":["Forge Required","Blood Magic"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18170,7 +18262,7 @@
 },{
 
 "name":"Railcraft",
-"link":"http://goo.gl/18GC9",
+"link":"http://www.railcraft.info/",
 "desc":"Features a fully fleshed out tech tree, with great effort gone into providing a balanced gameplay based around rails and their creation.",
 "author":["CovertJaguar"],
 "source":"https://github.com/CovertJaguar/Railcraft",
@@ -18411,7 +18503,7 @@
 },{
 
 "name":"Recipe Remover",
-"link":"http://goo.gl/2kOHZ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287961-1-6-4-samrg472s-mods-powerconverters-alpha-builds",
 "desc":"Remove recipes based on output ID. It can remove smelting and crafting recipes for any recipe that uses the vanilla crafting handler. It can remove a specific ID with a metadata or the entire range. Synchronizes server removed recipes to the client.",
 "author":["samrg472"],
 "type":["Universal"],
@@ -18568,7 +18660,7 @@
 },{
 
 "name":"Redstone Energy Field",
-"link":"http://goo.gl/2kOHZ",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287961-1-6-4-samrg472s-mods-powerconverters-alpha-builds",
 "desc":"Adds blocks where you can have energy fields of redstone. This allows you to power many things at once without having to always manually place down levers all over the place.",
 "author":["samrg472"],
 "type":["Universal"],
@@ -18625,6 +18717,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Redstonic",
+"link":"http://minecraft.curseforge.com/mc-mods/227716-redstonic",
+"desc":"Adds different Redstone Flux powered tools such as drills and swords.",
+"author":["Raizunne"],
+"source":"https://github.com/Raizunne/Redstonic",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18852,6 +18955,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
+
+},{
+
+"name":"RFDrills",
+"link":"http://minecraft.curseforge.com/mc-mods/229846-rfdrills",
+"desc":"Adds RF-powered tools to Thermal Expansion and EnderIO.",
+"author":["GoldenAppleMinecraft"],
+"source":"https://github.com/goldenapple3/RFDrills",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core"],
+"versions":["1.7.10"]
 
 },{
 
@@ -19230,6 +19344,18 @@
 "desc":"Provides more automation in Blood Magic using things such as Altar Emitters and Altar Diviners.",
 "author":["Tombenpotter"],
 "source":"https://github.com/Tombenpotter/Sanguimancy",
+"type":["Universal"],
+"dependencies":["Forge Required","Blood Magic"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Sanguine Utilities",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/225413-sanguine-utilities",
+"desc":"An addon for Blood Magic. Adds certain utilities that makes things a bit less tedious.",
+"author":["Alex_hawks"],
+"source":"https://github.com/Alex-hawks/Sanguine-Extras",
 "type":["Universal"],
 "dependencies":["Forge Required","Blood Magic"],
 "versions":["1.7.10"]
@@ -20230,9 +20356,9 @@
 },{
 
 "name":"Solar Expansion",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2188753-active-solar-expansion-v1-4c-now-back-and-better",
+"link":"http://minecraft.curseforge.com/mc-mods/223583-solar-expansion",
 "desc":"Adds Solar Panels that produce Redstone Flux. Thermal Expansion 4 addon, but TE4 is not required.",
-"author":["TedTheRusSB624"],
+"author":["Shad0wB1ade"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
@@ -20240,7 +20366,7 @@
 },{
 
 "name":"Solar Flux",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2187592-solar-flux-a-k-a-compactsolars-for-redstone-flux",
+"link":"http://minecraft.curseforge.com/mc-mods/223548-solar-flux",
 "desc":"Adds 6 tiers of Solar Panels that produce Redstone Flux.",
 "author":["Nauktis"],
 "source":"https://github.com/Nauktis/SolarFlux",
@@ -21368,6 +21494,16 @@
 
 },{
 
+"name":"Tainted Magic",
+"link":"http://minecraft.curseforge.com/mc-mods/231061-tainted-magic-1-1-5-4",
+"desc":"Brings an elaboration of the dark side of Thaumcraft, along with some random useful things.",
+"author":["yorkeMC"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Tall Doors",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1444924-1-7-10-forge-tall-doors-v0-5-2-now-with-first",
 "desc":"Adds modular doors which can be assembled out of the basic modules just as player want.",
@@ -21564,7 +21700,7 @@
 },{
 
 "name":"Terra Arts",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2286105-dt-mods-essentialcraft-3-essential-thaumaturgy",
+"link":"http://minecraft.curseforge.com/mc-mods/230410-terraarts",
 "desc":"Adds artifacts from Terraria to Minecraft.",
 "author":["Modbder","TheDen2099","MrDangerDen"],
 "type":["Universal"],
@@ -21668,18 +21804,6 @@
 
 },{
 
-"name":"Thaumcraft Extras 2",
-"other":"(Unstable)",
-"link":"http://forum.feed-the-beast.com/threads/thaumcraft-extras-2-1-7-2-completly-redone.44623/",
-"desc":"Addon for Thaumcraft 4 adding lots of stuff like foci, blocks, items and more.",
-"author":["wasliebob"],
-"source":"https://github.com/wasliebob/ThaumcraftExtras2",
-"type":["Universal"],
-"dependencies":["Forge Required","Thaumcraft 4"],
-"versions":["1.7.10","1.7.2"]
-
-},{
-
 "name":"ThaumcraftGates",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292852-thaumcraftgates-tc4-bc6-thaumium-pipes",
 "desc":"Adds interaction between BuildCraft and Thaumcraft using Thaumium Pipes.",
@@ -21734,6 +21858,28 @@
 
 },{
 
+"name":"Thaumic Alchemy",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/233427-thaumic-alchemy",
+"desc":"Aims to expand alchemy. Currently only adds the Essentia Amalgamator, which allows essentia to be combined into compound aspects and some extra Alchemical Duplication and Alchemical Manufacture recipes.",
+"author":["Codasylph"],
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Thaumic Bases",
+"link":"http://minecraft.curseforge.com/mc-mods/232192-thaumic-bases",
+"desc":"Aims to add some missing features from Thaumcraft, like Thaumic Nature. Also adds a bunch of random content too, like spikes.",
+"author":["Modbder"],
+"source":"https://github.com/Modbder/ThaumicBases",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4","DummyCore"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Thaumic Energistics",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics",
 "desc":"Bridges Thaumcraft and Applied Energistics through essentia management in storage, transportation, and application.",
@@ -21742,6 +21888,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Thaumic Expansion",
+"link":"http://minecraft.curseforge.com/mc-mods/228696-thaumic-expansion",
+"desc":"Takes the hassle of scanning things in Thaumcraft. Adds Thaumic Analyzer that can scan things automagically.",
+"author":["TheTemportalist"],
+"source":"https://github.com/TheTemportalist/ThaumicExpansion",
+"type":["Universal"],
+"dependencies":["Forge Required","Thaumcraft 4","Origin"],
+"versions":["1.7.10"]
 
 },{
 
@@ -21779,14 +21936,13 @@
 },{
 
 "name":"Thaumic Infusion",
-"other":"(Beta)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445452-tc4-add-on-thaumic-infusion-public-beta-is-out",
+"link":"http://minecraft.curseforge.com/mc-mods/220308-thaumic-infusion",
 "desc":"Allows alteration of the properties and purpose of a block through the use of Thaumcraft Aspects.",
 "author":["DrunkMafia"],
 "source":"https://github.com/TheDrunkMafia/ThaumicInfusion",
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.7.10"]
 
 },{
 
@@ -22530,6 +22686,17 @@
 
 },{
 
+"name":"Thermal Casting",
+"link":"http://minecraft.curseforge.com/mc-mods/228537-thermal-casting",
+"desc":"Allows to make blocks from molten metals faster.",
+"author":["insaneau"],
+"source":"https://github.com/MikeLydeamore/ThermalCasting",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","Thermal Expansion","Tinkers' Construct"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Thermal Dynamics",
 "other":"(RC)",
 "link":"http://www.curse.com/mc-mods/minecraft/227443-thermal-dynamics",
@@ -22558,6 +22725,18 @@
 "author":["KingLemming","skyboy026","ZeldoKavira"],
 "type":["Universal"],
 "dependencies":["Forge Required","CoFH Core","Thermal Foundation"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Thermal Recycling",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/229666-thermal-recycling",
+"desc":"Adds several machines that can process excessive stuff to produce raw materials and do useful things.",
+"author":["OreCruncher"],
+"source":"https://github.com/OreCruncher/ThermalRecycling",
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core","Thermal Expansion 4"],
 "versions":["1.7.10"]
 
 },{
@@ -22873,6 +23052,18 @@
 
 },{
 
+"name":"Tinker I/O",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o",
+"desc":"Extends TConstruct Smeltery by adding Solid Fuel, Fuel Input Machine and Smart Output.",
+"author":["GKB","frank89722","tokomikea"],
+"source":"https://github.com/gkbm2013/tinker-IO",
+"type":["Universal"],
+"dependencies":["Forge Required","Tinkers' Construct"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Tinkers' Construct",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct",
 "desc":"A mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever.",
@@ -22891,6 +23082,17 @@
 "source":"https://github.com/SlimeKnights/TinkersConstruct",
 "type":["Universal"],
 "dependencies":["Forge Required","Mantle"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Tinkers' Defense",
+"link":"http://minecraft.curseforge.com/mc-mods/226910-tinkers-defense",
+"desc":"Allows to make Mine & Blade: Battlegear 2 shields using Tinkers' Construct parts!.",
+"author":["Lance5057"],
+"source":"https://github.com/Lance5057/Tinkers-Defense",
+"type":["Universal"],
+"dependencies":["Forge Required","Mantle","Tinkers' Construct","Mine & Blade: Battlegear 2"],
 "versions":["1.7.10"]
 
 },{
@@ -22983,7 +23185,7 @@
 },{
 
 "name":"TNT Mod",
-"link":"http://goo.gl/qb42V",
+"link":"http://www.planetminecraft.com/mod/nukeminerfirebombnapalm-tnt-mod/",
 "desc":"",
 "author":["Navist"],
 "type":["SSP"],
@@ -23647,6 +23849,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Unicode Font Fixer",
+"link":"http://minecraft.curseforge.com/mc-mods/233069-unicode-font-fixer",
+"desc":"Fixes unreadable text caused by small unicode font.",
+"author":["oldjunyi"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -24398,7 +24610,7 @@
 
 "name":"WaslieCore",
 "other":"(Dependency)",
-"link":"http://www.wasliebob.nl/wasliecore.php",
+"link":"https://www.dropbox.com/sh/azmc3epe4c974b6/AAAvN8VFp7sHkOE0VWa4vFKKa?dl=0",
 "desc":"Required for all mods by Wasliebob.",
 "author":["wasliebob"],
 "type":["Universal"],

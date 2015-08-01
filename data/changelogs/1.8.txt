@@ -1,4 +1,10 @@
 (July/31/2015)
+	+Added "Arrow Camera"
+	+Added "Auto Ore Dictionary Converter"
+	+Added "BreedingViewer"
+	+Added "MattDahEpic Core"
+
+(July/31/2015)
 	+Added "Admin Weapons"
 	+Added "Bacteria Mod"
 	+Added "Better Creative Inventory"

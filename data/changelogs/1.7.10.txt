@@ -1,4 +1,30 @@
 (July/31/2015)
+	+Added "Animated Player"
+	+Added "Auto Ore Dictionary Converter"
+	+Added "Blood Arsenal"
+	+Added "Compacter"
+	+Added "Deep Resonance": Currently in Alpha
+	+Added "FloodLights"
+	+Added "FLORA Reborn"
+	+Added "MattDahEpic Core"
+	+Added "NOVA"
+	+Added "Redstonic"
+	+Added "RFDrills"
+	+Added "Sanguine Utilities": Currently in Beta
+	+Added "Tainted Magic"
+	+Added "Thaumic Alchemy": Currently in Alpha
+	+Added "Thaumic Bases"
+	+Added "Thaumic Expansion"
+	+Added "Thermal Casting"
+	+Added "Thermal Recycling": Currently in Beta
+	+Added "Tinker I/O"
+	+Added "Tinkers' Defense"
+	+Added "Unicode Font Fixer"
+	-Removed "Minecraft Selfies": Download no longer available
+	-Removed "Mo' Furnaces": Download no longer available
+	-Removed "Thaumcraft Extras 2": Download no longer available
+
+(July/31/2015)
 	+Added "Admin Weapons"
 	+Added "AquaTweaks"
 	+Added "Assembly Mod"
