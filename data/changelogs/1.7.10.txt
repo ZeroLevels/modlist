@@ -1,14 +1,23 @@
 (July/31/2015)
+	*Updated "Modular Systems": link, authors, now requires Bookshelf API
 	+Added "Animated Player"
 	+Added "Auto Ore Dictionary Converter"
 	+Added "Blood Arsenal"
+	+Added "Bookshelf API"
 	+Added "Compacter"
+	+Added "Crossbow Mod 2"
 	+Added "Deep Resonance": Currently in Alpha
+	+Added "Dr. Cyano's Lootable Bodies"
 	+Added "FloodLights"
 	+Added "FLORA Reborn"
+	+Added "GoodyBags"
+	+Added "Loot++"
 	+Added "MattDahEpic Core"
 	+Added "NOVA"
+	+Added "Pokecube - Revival"
 	+Added "Redstonic"
+	+Added "ResourcefulCrops": Currently in Alpha
+	+Added "Restricted Saplings"
 	+Added "RFDrills"
 	+Added "Sanguine Utilities": Currently in Beta
 	+Added "Tainted Magic"

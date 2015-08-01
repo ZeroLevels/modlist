@@ -2,7 +2,12 @@
 	+Added "Arrow Camera"
 	+Added "Auto Ore Dictionary Converter"
 	+Added "BreedingViewer"
+	+Added "Dr. Cyano's Base Metals"
+	+Added "GoodyBags"
+	+Added "Loot++"
 	+Added "MattDahEpic Core"
+	+Added "ResourcefulCrops": Currently in Alpha
+	+Added "Restricted Saplings"
 
 (July/31/2015)
 	+Added "Admin Weapons"

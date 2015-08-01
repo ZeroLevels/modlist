@@ -3020,6 +3020,18 @@
 
 },{
 
+"name":"Bookshelf API",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/232784-bookshelf-api-library",
+"desc":"Required library for TeamCoS and TeamBR mods.",
+"author":["Dyonovan","pauljoda"],
+"source":"https://github.com/TeamBR-Modding/Bookshelf",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Bookz",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285530-0-9-9-1-6-2-bookz-still-the-best-book-editor",
 "desc":"Wrote a book with 40 pages of text? Want to delete the first? Want to copy the book? Want to save it to your disk and use it later? Want to swap pages? Want to copy books from one server to another? Want to copy a long, long text into a book? Stop dreaming - use Bookz.",
@@ -5316,7 +5328,7 @@
 "source":"https://github.com/micdoodle8/Crossbow_Mod_2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.7.10","1.6.4","1.6.2"]
 
 },{
 
@@ -6403,6 +6415,28 @@
 
 },{
 
+"name":"Dr. Cyano's Base Metals",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2352456-drcyanos-base-metals",
+"desc":"Adds lots of new metals to the game and also adds a new tool (the crack hammer) that allows to pulverize ores into dust.",
+"author":["DrCyano"],
+"source":"https://github.com/cyanobacterium/BaseMetals",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
+"name":"Dr. Cyano's Lootable Bodies",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2298198-dr-cyanos-lootable-bodies-save-your-inventory-on-a",
+"desc":"Protects items from despawning when player dies by storing them on a dead body that can be looted.",
+"author":["DrCyano"],
+"source":"https://github.com/cyanobacterium/DrCyanos_Lootable-Bodies",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Dr. Cyano's Wonderful Wands and Wizarding Robes",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2233889-dr-cyanos-wonderful-wands-and-wizarding-robes",
 "desc":"Adds dyeable wizard robes, magic hats, and magic wands.",
@@ -6411,17 +6445,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10","1.6.4"]
-
-},{
-
-"name":"Dr. Cyano's Lootable Bodies",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2298198-dr-cyanos-lootable-bodies-save-your-inventory-on-a",
-"desc":"Protects items from despawning when player dies by storing them on a dead body that can be looted.",
-"author":["DrCyano"],
-"source":"https://github.com/cyanobacterium/DrCyanosWonderfulWands",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.8"]
 
 },{
 
@@ -9741,6 +9764,17 @@
 
 },{
 
+"name":"GoodyBags",
+"link":"http://minecraft.curseforge.com/mc-mods/231028-goodybags",
+"desc":"Allows to create custom loot bags (similar to the Thaumcraft loot bags) through JSON files.",
+"author":["TehNut"],
+"source":"https://github.com/TehNut/GoodyBags",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Grave",
 "other":"(BaM's)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278764-1-5-2-bams-mods-now-also-for-1-4-7",
@@ -12774,6 +12808,16 @@
 
 },{
 
+"name":"Loot++",
+"link":"http://minecraft.curseforge.com/mc-mods/225880-loot",
+"desc":"Allows to customize chest loot among other things.",
+"author":["Tmtravlr"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"LootBags",
 "link":"http://minecraft.curseforge.com/mc-mods/225946-lootbags",
 "desc":"Adds loot bags which contain dungeon loot dropped from monsters, passive mobs and players. Highly configurable.",
@@ -14605,7 +14649,7 @@
 },{
 
 "name":"Modular Furnaces 2",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291862-modular-systems-formally-modular-furnace",
+"link":"http://minecraft.curseforge.com/mc-mods/68528-modular-systems",
 "desc":"Create your own furnace and ore processing multi-block structures.",
 "author":["pauljoda"],
 "source":"https://github.com/pauljoda/ModularFurnace",
@@ -14616,12 +14660,12 @@
 },{
 
 "name":"Modular Systems",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291862-modular-systems-formally-modular-furnace",
+"link":"http://minecraft.curseforge.com/mc-mods/68528-modular-systems",
 "desc":"Conceptual successor to Modular Furnaces 2. Adds modular multi-block structures for furnaces, ore processing, and storage.",
-"author":["pauljoda"],
-"source":"https://github.com/pauljoda/ModularFurnace",
+"author":["Dyonovan","pauljoda"],
+"source":"https://github.com/TeamCoS/Modular-Systems",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Bookshelf API"],
 "versions":["1.7.10"]
 
 },{
@@ -17524,6 +17568,16 @@
 
 },{
 
+"name":"Pokecube - Revival",
+"link":"http://minecraft.curseforge.com/mc-mods/224362-pokecube-revival",
+"desc":"Continuation of Pokecube. Adds Pokemon to the game that provides the user with a real time battle system and a world full of Pokemon to explore.",
+"author":["Thutmose"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"PokeRadar",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292572-pokeradar-for-pixelmon-1-7-2-3-1-4",
 "desc":"Detects nearby Pokemon on minimaps, identifying legendaries and shiny Pokemon.",
@@ -18935,6 +18989,40 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"ResourcefulCrops",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/232365-resourcefulcrops",
+"desc":"Allows to create custom resource crops through JSON files.",
+"author":["TehNut"],
+"source":"https://github.com/TehNut/ResourcefulCrops",
+"type":["Universal"],
+"dependencies":["Forge Required","EnderCore"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"ResourcefulCrops",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/232365-resourcefulcrops",
+"desc":"Allows to create custom resource crops through JSON files.",
+"author":["TehNut"],
+"source":"https://github.com/TehNut/ResourcefulCrops",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
+"name":"Restricted Saplings",
+"link":"http://minecraft.curseforge.com/mc-mods/232166-restricted-saplings",
+"desc":"Blocks saplings from growing anywhere outside their native biomes.",
+"author":["Lothrazar"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
