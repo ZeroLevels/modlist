@@ -1,4 +1,4 @@
-(July/31/2015)
+(August/02/2015)
 	*Updated "Modular Systems": link, authors, now requires Bookshelf API
 	+Added "Animated Player"
 	+Added "Auto Ore Dictionary Converter"
