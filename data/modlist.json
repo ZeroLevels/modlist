@@ -5396,7 +5396,7 @@
 
 "name":"Custom Backgrounds",
 "link":"http://minecraft.curseforge.com/mc-mods/225928-custom-backgrounds",
-"desc":"This small client side mod allows you to change the boring old dirt background of your minecraft menu to something nicer.",
+"desc":"Allows the dirt menu background to use other textures instead.",
 "author":["Lumien"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -19038,7 +19038,7 @@
 
 "name":"Resource Loader",
 "link":"http://minecraft.curseforge.com/mc-mods/226447-resource-loader",
-"desc":"This mod is meant to be used together with Custom Main Menu and Custom Backgrounds but it can be used with any other mod that can take resource locations for config options.",
+"desc":"Adds additional paths to load resources from. Meant to be used together with Custom Main Menu and Custom Backgrounds, but it can be used with any other mod that can take resource locations for config options.",
 "author":["Lumien"],
 "type":["Client"],
 "dependencies":["Forge Required"],
@@ -25477,7 +25477,7 @@
 
 "name":"YAMPST",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091766-yampst-ultimate-statistics-tool-for-mod-packs-1",
-"desc":"A statistics tool for mod packs. It helps mod pack creators keep track of just how popular their pack is. Some of the things we measure is the amount of installs a mod pack gets and how many times it's run.",
+"desc":"A statistics tool for mod pack creators which keeps track of information such as the number of installations and startups.",
 "author":["bilde2910","Commador"],
 "source":"https://code.yampst.net/repo/",
 "type":["Universal"],
