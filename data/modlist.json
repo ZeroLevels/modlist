@@ -1569,7 +1569,7 @@
 "source":"https://github.com/thebombzen/AutoSwitch",
 "type":["Universal"],
 "dependencies":["Forge Required","ThebombzenAPI"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -3676,12 +3676,12 @@
 },{
 
 "name":"CharacterOnGui",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163876-4400-downloads-character-on-gui-show-your",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163876-updated-for-minecraft-1-8-character-on-gui-show",
 "desc":"Displays an animated character of the player on the top-left side of the screen, holding the items the player is holding.",
 "author":["samhalo007"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -4811,12 +4811,12 @@
 },{
 
 "name":"ControlPack",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274134-controlpack-autosneak-run-autotool-smartfurnace?comment=2393",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2469613-controlpack",
 "desc":"Adds controls/keybinding for such things as Auto Tool Selection, Auto Run, toggleable sneak and jump, Arrows Remaining Counter, etc..",
 "author":["julialy"],
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -5391,6 +5391,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.4.7","1.4.2","1.3.2"]
+
+},{
+
+"name":"Custom Backgrounds",
+"link":"http://minecraft.curseforge.com/mc-mods/225928-custom-backgrounds",
+"desc":"This small client side mod allows you to change the boring old dirt background of your minecraft menu to something nicer.",
+"author":["Lumien"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -6213,6 +6223,16 @@
 
 },{
 
+"name":"Ding",
+"link":"http://minecraft.curseforge.com/mc-mods/231275-ding",
+"desc":"Plays a configurable sound when Minecraft loads and reaches the Main Menu.",
+"author":["iChun"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"DirectionHUD",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud",
 "desc":"Displays your magnetic compass heading at the top of your screen.",
@@ -7020,8 +7040,8 @@
 "desc":"Shows what the enchanting table will give you BEFORE you click on the enchantment, simply mouseover the enchant and a tooltip will appear.",
 "author":["thebombzen"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.5.1"]
+"dependencies":["Forge Required","ThebombzenAPI"],
+"versions":["1.8","1.7.10","1.5.1"]
 
 },{
 
@@ -10009,7 +10029,7 @@
 "source":"https://github.com/TeamAmeriFrance/Guide-API",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -15639,7 +15659,7 @@
 "source":"https://sourceforge.net/projects/modmumblelink/",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1"]
 
 },{
 
@@ -19016,6 +19036,16 @@
 
 },{
 
+"name":"Resource Loader",
+"link":"http://minecraft.curseforge.com/mc-mods/226447-resource-loader",
+"desc":"This mod is meant to be used together with Custom Main Menu and Custom Backgrounds but it can be used with any other mod that can take resource locations for config options.",
+"author":["Lumien"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Restricted Saplings",
 "link":"http://minecraft.curseforge.com/mc-mods/232166-restricted-saplings",
 "desc":"Blocks saplings from growing anywhere outside their native biomes.",
@@ -22271,13 +22301,14 @@
 },{
 
 "name":"ThebombzenAPI",
+"other":"(Dependency)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278132-thebombzens-mods",
 "desc":"Required dependency for thebombzen's mods.",
 "author":["thebombzen"],
 "source":"https://github.com/thebombzen/ThebombzenAPI",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -25441,6 +25472,17 @@
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.1","1.4.7"]
+
+},{
+
+"name":"YAMPST",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091766-yampst-ultimate-statistics-tool-for-mod-packs-1",
+"desc":"A statistics tool for mod packs. It helps mod pack creators keep track of just how popular their pack is. Some of the things we measure is the amount of installs a mod pack gets and how many times it's run.",
+"author":["bilde2910","Commador"],
+"source":"https://code.yampst.net/repo/",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
