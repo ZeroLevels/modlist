@@ -1,4 +1,4 @@
-﻿(September/15/2015)
+(September/15/2015)
 	+Added "AutoSwitch"
 	+Added "CharacterOnGui"
 	+Added "ControlPack"
@@ -10,7 +10,7 @@
 	+Added "Resource Loader"
 	+Added "ThebombzenAPI"
 	+Added "YAMPST"
-	
+
 (August/02/2015)
 	+Added "Arrow Camera"
 	+Added "Auto Ore Dictionary Converter"
