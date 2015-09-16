@@ -1,4 +1,13 @@
-﻿(September/15/2015)
+(September/17/2015)
+	*Updated "ZapFill": Added extreme version in desc
+	+Added "ForgeAutoShutdown"
+	+Added "OP Diamond Items"
+	+Added "PvPTime"
+	+Added "Random Peripherals"
+	+Added "Real Blocks"
+	+Added "VanillaPlus"
+
+(September/15/2015)
 	+Added "AutoSwitch"
 	+Added "CharacterOnGui"
 	+Added "ControlPack"
