@@ -369,7 +369,6 @@ $this->respond('GET', '/elevate/[*:user]/[*:level]', function ($request, $respon
     foreach($userlist as &$user) {
         if($user['user'] === $request->param('user')) {
             $user['access_level'] = $request->param('level');
-            break;
         }
     }
     
