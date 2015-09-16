@@ -1,3 +1,9 @@
+(August/18/2015)
+	+Added "Warp Drive"
+	+Added "Warp Drive Core"
+	-Removed "Modular Force Field System" (Calclavia): Download no longer available
+	-Removed "Resonant Induction": Download no longer available
+
 (July/31/2015)
 	+Added "Assembly Mod"
 	+Added "Bacteria Mod"

@@ -234,6 +234,17 @@
 
 },{
 
+"name":"Advanced Inventory",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2390302-advanced-inventory-0-5-11-updated-to-minecraft-1-8",
+"desc":"Allows players to upgrade inventory with up to six areas that consist of 9 slots each.",
+"author":["CubeX2"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Advanced Machines",
 "other":"(AtomicStryker)",
 "link":"http://www.atomicstryker.net/advancedmachines.php",
@@ -559,6 +570,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Alarmcraft",
+"link":"https://www.dropbox.com/sh/8gh30gwevjk1cz0/AADqyhp8L8h5gcoc8Ypi2K0ca/1.8?dl=0",
+"desc":"Adds a red box to the game that sounds off an array of different alarm sound effects when it receives a redstone pulse/signal.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/Alarmcraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -1102,6 +1124,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Armor Effect Mod",
+"link":"https://www.dropbox.com/sh/8gh30gwevjk1cz0/AADqyhp8L8h5gcoc8Ypi2K0ca/1.8?dl=0",
+"desc":"Allows player to associate a set of potion effects with any assortment of armor in the game.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/ArmorEffectMod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -1685,7 +1718,7 @@
 "source":"https://github.com/Darkhax-Minecraft/BadMobs",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -2111,14 +2144,14 @@
 },{
 
 "name":"BetterBeginnings",
-"other":"(WIP)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2192122-betterbeginnings-mod",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/230120-betterbeginnings-mod",
 "desc":"Extends the beginning portion of early game, increasing the difficulty, all while staying true to the original feel of vanilla.",
 "author":["einsteinsci"],
 "source":"https://github.com/einsteinsci/betterbeginnings",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -2538,6 +2571,17 @@
 
 },{
 
+"name":"Better Villages Mod",
+"link":"https://www.dropbox.com/sh/8gh30gwevjk1cz0/AADqyhp8L8h5gcoc8Ypi2K0ca/1.8?dl=0",
+"desc":"Increases the chances of generating a village, clustering villages together and improving wheat fields.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/BetterVillages",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Better Wood Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1444569-1-7-2-1-6-1-5-universal-forge-wip-better-wood-mod",
 "desc":"Allows the type of wood you use to affect the color of the tool and items you craft.",
@@ -2902,6 +2946,18 @@
 
 },{
 
+"name":"Blood Magic",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-3-0b-updated-jan-16",
+"desc":"An arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly.",
+"author":["WayofTime"],
+"source":"https://github.com/WayofTime/BloodMagic",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Bloodmoon",
 "link":"http://minecraft.curseforge.com/mc-mods/226321-bloodmoon",
 "desc":"Adds a lunar event called a \"Bloodmoon\", during which more hostile mobs will spawn than usual.",
@@ -3028,7 +3084,7 @@
 "source":"https://github.com/TeamBR-Modding/Bookshelf",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -3147,6 +3203,18 @@
 "type":["N/A"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Brandon's Core",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/231382-brandons-core",
+"desc":"Required library for brandon3055's mods.",
+"author":["brandon3055"],
+"source":"https://github.com/brandon3055/BrandonsCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -5547,7 +5615,7 @@
 "author":["pifou92000"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -5953,13 +6021,13 @@
 },{
 
 "name":"Deep Resonance",
-"other":"(Alpha)",
+"other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/233398-deep-resonance",
 "desc":"A power generation mod that meant for both early game power as well as high end and more complicated end game power. Current release only adds ore generation.",
 "author":["McJty"],
 "source":"https://github.com/McJty/DeepResonance",
 "type":["Universal"],
-"dependencies":["Forge Required","McJtyLib"],
+"dependencies":["Forge Required","McJtyLib","ElecCore"],
 "versions":["1.7.10"]
 
 },{
@@ -6386,7 +6454,7 @@
 "author":["brandon3055"],
 "source":"https://github.com/brandon3055/Draconic-Evolution",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Brandon's Core"],
 "versions":["1.7.10"]
 
 },{
@@ -6772,6 +6840,18 @@
 
 },{
 
+"name":"ElecCore",
+"other":"(Dependency) (Dimension API)",
+"link":"http://minecraft.curseforge.com/mc-mods/227391-eleccore-dimensionapi",
+"desc":"Required library for Elec332's and some other mods.",
+"author":["Elec332"],
+"source":"https://github.com/Elecs-Mods/ElecCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Electro-Magic Tools",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292998-industrialcraft-2-thaumcraft-4-electro-magic",
 "desc":"Integrates Thaumcraft 4 with IndustrialCraft 2 by adding cross-mod tools and items, such as magic solar panels, essentia generators and legendary items.",
@@ -7139,19 +7219,7 @@
 "source":"https://github.com/SleepyTrousers/EnderZoo",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
-
-},{
-
-"name":"Ender Zoo",
-"other":"(Beta)",
-"link":"http://minecraft.curseforge.com/mc-mods/225247-ender-zoo",
-"desc":"New mobs in keep with 'native' minecraft mobs. Companion to Ender IO.",
-"author":["CrazyPants","tterrag1098"],
-"source":"https://github.com/SleepyTrousers/EnderZoo",
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -7628,12 +7696,12 @@
 
 "name":"NeoTech",
 "other":"(Formerly JATM)",
-"link":"http://minecraft.curseforge.com/mc-mods/228643-neotech-formerly-jatm",
+"link":"http://minecraft.curseforge.com/mc-mods/228643-neotech",
 "desc":"A RF tech mod adding generators, tanks, cables and more.",
 "author":["Dyonovan","pauljoda"],
 "source":"https://github.com/TeamBR-Modding/NeoTech",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","Bookshelf API"],
 "versions":["1.8"]
 
 },{
@@ -8629,7 +8697,7 @@
 "source":"https://github.com/FlansMods/FlansMod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -9917,7 +9985,7 @@
 "author":["Elec332"],
 "source":"https://github.com/Elecs-Mods/GregsProspecting-II",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","ElecCore"],
 "versions":["1.7.10"]
 
 },{
@@ -10006,9 +10074,21 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286298-growthcraft-jul-15-2014-proper-1-7-10-release",
 "desc":"A compilation of mods created by one developer which aims to add more features and improve the agriculture/farming aspect of Minecraft while still keeping its simplicity and avoiding overcomplicating it.",
 "author":["Gwafu"],
+"source":"https://github.com/Gwafu/Growthcraft-1.7",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.5.2","1.5.1"]
+
+},{
+
+"name":"Growthcraft Community Edition",
+"link":"http://minecraft.curseforge.com/mc-mods/235092-growthcraft-community-edition",
+"desc":"Community Edition of Gwafu's Growthcraft mod. Aims to add more features and improve the agriculture/farming aspect of Minecraft while still keeping its simplicity and avoiding overcomplicating it.",
+"author":["Gwafu","IceDragon200","alatyami","Sunconure11"],
+"source":"https://github.com/alatyami/Growthcraft-1.7",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10446,6 +10526,17 @@
 
 },{
 
+"name":"Highlands",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2494877-highlands-uncharted-territory-finally-for",
+"desc":"Adds more mountains and hills, with varied environments and sub-biomes like mountains, lakes, forest clearings, valleys and islands. Uses no modded blocks in world generation, allowing for vanilla compatible worlds.",
+"author":["sdj64"],
+"source":"https://github.com/sdj64/Highlands",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"HighlightTips",
 "link":"https://github.com/agaricusb/HighlightTips",
 "desc":"Show information about the block highlighted at your cursor tip.",
@@ -10684,7 +10775,7 @@
 "author":["a3626a"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -10819,7 +10910,7 @@
 "link":"http://sourceforge.net/projects/guardsmanmcm/files/icbm/",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
 "author":["Calclavia","DarkGuardsman"],
-"source":"https://github.com/Universal-Electricity/ICBM",
+"source":"https://github.com/BuiltBrokenModding/ICBM",
 "type":["Universal"],
 "dependencies":["Forge Required","Universal Electricity"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
@@ -10827,12 +10918,13 @@
 },{
 
 "name":"ICBM",
-"link":"http://sourceforge.net/projects/guardsmanmcm/files/icbm/",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/225502-icbm",
 "desc":"Introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!",
-"author":["Calclavia","DarkGuardsman"],
+"author":["Calclavia","DarkGuardsman","dmodoomsirius","Snowfox811"],
 "source":"https://github.com/BuiltBrokenModding/ICBM",
 "type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","Resonant Engine"],
+"dependencies":["Forge Required"],
 "versions":["1.6.4"]
 
 },{
@@ -11081,7 +11173,7 @@
 "author":["pifou92000"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -11953,12 +12045,11 @@
 },{
 
 "name":"JurassiCraft",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2320045-jurassicraft-1-3-2-the-flesh-eating-bull-update",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2444641-jurassicraft-bringing-dinosaurs-to-life",
 "desc":"Adds prehistoric creatures, fossils, eggs and more.",
-"author":["Kashmoney","iLexiconn","Thelarsinator","BobMowzie","TheGeekyGuy101","RafaMv0","Sulgran"],
-"source":"https://github.com/JurassiCraft/JurassiCraft",
+"author":["JurassiCraft Team"],
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","LLibrary"],
 "versions":["1.7.10","1.7.2"]
 
 },{
@@ -12271,6 +12362,16 @@
 
 },{
 
+"name":"LAN Host Skin Fix",
+"link":"http://minecraft.curseforge.com/mc-mods/229933-lan-host-skin-fix",
+"desc":"Fixes the LAN world host's skin not displaying for all connecting players.",
+"author":["Parker8283"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"LanteaCraft",
 "other":"(RC)",
 "link":"http://lanteacraft.com/",
@@ -12477,6 +12578,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2"]
+
+},{
+
+"name":"Level Up!",
+"link":"https://www.dropbox.com/sh/8gh30gwevjk1cz0/AADqyhp8L8h5gcoc8Ypi2K0ca/1.8?dl=0",
+"desc":"Adds 12 skills to the game, which you can increase using skill points gained from leveling up.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/LevelUp",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -12741,6 +12853,18 @@
 
 },{
 
+"name":"LLibrary",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/230798-llibrary",
+"desc":"Contains the most contemporary and advanced modding tools which are essential for any modder looking for an easier experience and a new standard of content.",
+"author":["iLexiconn","gegy1000","FiskFille","BobMowzie"],
+"source":"https://github.com/iLexiconn/LLibrary",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"LoaderList",
 "link":"https://github.com/TehNut/LoaderList/blob/master/README.md",
 "desc":"Logs all activity of chunk loading and unloading (except players) in a text file, located in the world folder.",
@@ -12770,6 +12894,27 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2","1.5.2"]
+
+},{
+
+"name":"Login Shield",
+"link":"http://minecraft.curseforge.com/mc-mods/233255-login-shield",
+"desc":"Simple server side mod that protects players from damage during login.",
+"author":["Glasspelican"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Login Shield",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/233255-login-shield",
+"desc":"Simple server side mod that protects players from damage during login.",
+"author":["Glasspelican"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -12876,7 +13021,7 @@
 "author":["pifou92000"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -13601,17 +13746,6 @@
 
 },{
 
-"name":"Metal Mechanics",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287886-1-5-2-forge-discontinued-metal-mechanics",
-"desc":"Discontinued mod. Brings the power of Universal Electricity to the world of Metallurgy!",
-"author":["Lycanite"],
-"source":"https://github.com/Lycanite/MetalMech",
-"type":["Universal"],
-"dependencies":["Forge Required","Metallurgy 3","Universal Electricity"],
-"versions":["1.5.2","1.5.1"]
-
-},{
-
 "name":"Metal Rods",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284056-1-6-2-vanilla-with-sprinkles-mods-built-to-fit",
 "desc":"Adds iron trapdoors and new iron and gold rods which can be used to crafted enhanced tools and weapons.",
@@ -13876,6 +14010,17 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Minecraft IO",
+"link":"http://minecraft.curseforge.com/mc-mods/234958-minecraft-io",
+"desc":"Allows to host LAN servers without port forwarding.",
+"author":["dmf444"],
+"source":"https://github.com/dmf444/MinecraftIO",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -14644,30 +14789,6 @@
 
 },{
 
-"name":"Modular Force Field System",
-"other":"(MFFS) (Alpha)",
-"link":"http://calclavia.com/mffs/",
-"desc":"Adds force fields, high-tech machinery and defensive measures.",
-"author":["Calclavia"],
-"source":"https://github.com/calclavia/Modular-Force-Field-System",
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","Resonant Engine"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Modular Force Field System",
-"other":"(MFFS) (Development)",
-"link":"http://calclavia.com/mffs/",
-"desc":"Adds force fields, high-tech machinery and defensive measures.",
-"author":["Calclavia"],
-"source":"https://github.com/calclavia/Modular-Force-Field-System",
-"type":["Universal"],
-"dependencies":["Forge Required","Resonant Engine"],
-"versions":["1.7.10"]
-
-},{
-
 "name":"Modular Furnaces 2",
 "link":"http://minecraft.curseforge.com/mc-mods/68528-modular-systems",
 "desc":"Create your own furnace and ore processing multi-block structures.",
@@ -14969,6 +15090,17 @@
 
 },{
 
+"name":"More Deadly Mobs",
+"link":"https://www.dropbox.com/sh/8gh30gwevjk1cz0/AADqyhp8L8h5gcoc8Ypi2K0ca/1.8?dl=0",
+"desc":"Aims to aid player's desire for the fray of combat. With an improved pathfinding algorithm, and added behaviour, the seemingly dumb mobs are now much more intelligent.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/MoreDeadlyMobs",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"More Materials",
 "link":"http://minecraft.curseforge.com/mc-mods/226917-more-materials",
 "desc":"Adds several new decorative materials such as coloured bricks and thatch.",
@@ -15098,7 +15230,7 @@
 "author":["CubeX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -15559,10 +15691,23 @@
 
 },{
 
+"name":"MovingWorld",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/230495-movingworld",
+"desc":"Required library for bk1325's mods.",
+"author":["bk1325"],
+"source":"https://github.com/darkevilmac/movingworld",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Mo' Zombies",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1275819-mo-zombies-2-1-0",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1275819-mo-zombies-2-1-1",
 "desc":"Adds more zombies to the game. Currently there are 13 new zombies with plans for further expansion.",
 "author":["coocoo617"],
+"source":"https://github.com/ehea617/mo-zombies",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.5.2","1.4.7","1.4.5","1.3.2"]
@@ -15606,7 +15751,7 @@
 "author":["CubeX2"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -16331,6 +16476,17 @@
 
 },{
 
+"name":"NoMoreRecipeConflict",
+"link":"https://www.dropbox.com/sh/8gh30gwevjk1cz0/AADqyhp8L8h5gcoc8Ypi2K0ca/1.8?dl=0",
+"desc":"Removes recipe conflicts by allowing identical crafting recipes to have different outputs.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/RecipeHandler",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"NoSlowDown",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287172-1-6-2-noslowdown-works-in-smp",
 "desc":"Allows you to keep running while using a bow or eating in single player and multiplayer servers",
@@ -16406,14 +16562,13 @@
 },{
 
 "name":"Not Enough Keys",
-"other":"(Alpha)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2277165-notenoughkeys",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-not-enough-keys-making-pressing-buttons-easier",
 "desc":"Organizes the keybinding GUI, organizing mods into their own category and sub menu.",
-"author":["dmodoomsirius","Parker8283"],
-"source":"https://github.com/mod-warriors/NotEnoughKeys",
+"author":["Mr_okushama"],
+"source":"https://github.com/okushama/NotEnoughKeys",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.6.4"]
 
 },{
 
@@ -16429,13 +16584,14 @@
 },{
 
 "name":"Not Enough Keys",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-not-enough-keys-making-pressing-buttons-easier",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2277165-notenoughkeys",
 "desc":"Organizes the keybinding GUI, organizing mods into their own category and sub menu.",
-"author":["Mr_okushama"],
-"source":"https://github.com/okushama/NotEnoughKeys",
+"author":["dmodoomsirius","Parker8283"],
+"source":"https://github.com/mod-warriors/NotEnoughKeys",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4"]
+"versions":["1.8"]
 
 },{
 
@@ -17839,7 +17995,7 @@
 },{
 
 "name":"Prayers",
-"link":"https://twitter.com/tterrag1098/status/563446294870765569",
+"link":"https://github.com/tterrag1098/Prayers/releases",
 "desc":"Created for the Ultra Hard Survival pack. The goal is to fill the gaping hole that is early-game regeneration with a limited item. It's not spammable, but until you get potions it is your only option for healing.",
 "author":["mDiyo","tterrag1098"],
 "source":"https://github.com/tterrag1098/Prayers",
@@ -18960,7 +19116,8 @@
 },{
 
 "name":"Resonant Engine",
-"link":"http://resonantengine.com/resonant-engine/",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/225489-resonant-engine",
 "desc":"A modding framework used to create blocks and prefabricated code.",
 "author":["Calclavia","DarkGuardsman"],
 "source":"https://github.com/Universal-Electricity/Resonant-Engine",
@@ -18971,33 +19128,13 @@
 },{
 
 "name":"Resonant Engine",
-"other":"(Development)",
-"link":"http://resonantengine.com/resonant-engine/",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/225489-resonant-engine",
 "desc":"A modding framework used to create blocks and prefabricated code.",
 "author":["Calclavia","DarkGuardsman"],
 "source":"https://github.com/Universal-Electricity/Resonant-Engine",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
-
-},{
-
-"name":"Resonant Induction",
-"link":"http://calclavia.com/resonant-induction/",
-"desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","DarkGuardsman","Alex_hawks","Maxwolf"],
-"type":["Universal"],
-"dependencies":["Forge Required","Universal Electricity","ForgeMultipart","Resonant Engine"],
-"versions":["1.6.4"]
-
-},{
-
-"name":"Resonant Induction",
-"link":"http://calclavia.com/resonant-induction/",
-"desc":"Focuses on the manipulation of electricity and wireless technology.",
-"author":["Calclavia","DarkGuardsman","Alex_hawks","Maxwolf"],
-"type":["Universal"],
-"dependencies":["Forge Required","ForgeMultipart","Resonant Engine"],
 "versions":["1.7.10"]
 
 },{
@@ -20148,6 +20285,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"SkinPort",
+"link":"http://minecraft.curseforge.com/mc-mods/234948-skinport",
+"desc":"Adds rendering support for the new skin format introduced in MC 1.8.",
+"author":["ZLainSama"],
+"source":"https://github.com/zlainsama/SkinPort",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -24048,7 +24196,6 @@
 "link":"http://resonantengine.com/downloads/",
 "desc":"Universal Electricity is a modular coding framework that allows the use of electricity in Minecraft. Mods which uses the Universal Electricity API have the ability to communicate and be compatible with each other.",
 "author":["Calclavia"],
-"source":"https://github.com/Universal-Electricity/Universal-Electricity",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5"]
@@ -24060,7 +24207,6 @@
 "link":"http://resonantengine.com/downloads/",
 "desc":"Universal Electricity is a modular coding framework that allows the use of electricity in Minecraft. Mods which uses the Universal Electricity API have the ability to communicate and be compatible with each other.",
 "author":["Calclavia"],
-"source":"https://github.com/Universal-Electricity/Universal-Electricity",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
@@ -24707,6 +24853,39 @@
 
 },{
 
+"name":"Warp Drive",
+"link":"http://minecraft.curseforge.com/mc-mods/233565-warpdrive",
+"desc":"Brings Warp Drive and similar Science fiction technologies to the game included but not limited to resource collection, transportation and combat.",
+"author":["LemADEC","TheNumenorean","Cr0s","DarkholmeTenk"],
+"source":"https://github.com/LemADEC/WarpDrive",
+"type":["Universal"],
+"dependencies":["Forge Required","Warp Drive Core","CoFH Core"],
+"versions":["1.6.4"]
+
+},{
+
+"name":"Warp Drive",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/233565-warpdrive",
+"desc":"Brings Warp Drive and similar Science fiction technologies to the game included but not limited to resource collection, transportation and combat.",
+"author":["LemADEC","TheNumenorean"],
+"source":"https://github.com/LemADEC/WarpDrive",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Warp Drive Core",
+"link":"http://minecraft.curseforge.com/mc-mods/233565-warpdrive",
+"desc":"Required library for Warp Drive mod.",
+"author":["LemADEC","TheNumenorean","Cr0s","DarkholmeTenk"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.6.4"]
+
+},{
+
 "name":"WarZ Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/mods-discussion/1397232-minecraft-1-5-1-warz-mod-will-be-updated-soon",
 "desc":"The WarZ Mod includes the game WarZ into Minecraft. It has over 20 new Items and is also Multiplayer compatible.",
@@ -25003,6 +25182,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Wild Caves 3",
+"link":"https://www.dropbox.com/sh/8gh30gwevjk1cz0/AADqyhp8L8h5gcoc8Ypi2K0ca/1.8?dl=0",
+"desc":"Adds stalactites, stalagmites, vines, glowing mushrooms and more to caves.",
+"author":["GotoLink"],
+"source":"https://github.com/GotoLink/WildCaves3",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 

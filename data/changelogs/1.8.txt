@@ -1,3 +1,29 @@
+(September/16/2015)
+	*Updated "Ender Zoo": no longer in Beta
+	*Updated "NeoTech": now requires Bookshelf API
+	+Added "Advanced Inventory": Currently in Beta
+	+Added "Alarmcraft"
+	+Added "Armor Effect Mod"
+	+Added "BetterBeginnings": Currently in Beta
+	+Added "Better Villages Mod"
+	+Added "Blood Magic": Currently in Alpha
+	+Added "Bookshelf API"
+	+Added "Custom Music Discs"
+	+Added "Flan's Mod"
+	+Added "Highlands"
+	+Added "Hungry Animals"
+	+Added "Improving Minecraft"
+	+Added "Level Up!"
+	+Added "LLibrary"
+	+Added "Login Shield": Currently in Alpha
+	+Added "Lots of Food"
+	+Added "More Deadly Mobs"
+	+Added "More Furnaces"
+	+Added "MovingWorld"
+	+Added "Multi Page Chest"
+	+Added "NoMoreRecipeConflict"
+	+Added "Wild Caves 3"
+
 (September/15/2015)
 	+Added "AutoSwitch"
 	+Added "CharacterOnGui"

@@ -1,3 +1,25 @@
+(September/16/2015)
+	*Updated "Deep Resonance": now in Beta, requires ElecCore and McJtyLib
+	*Updated "Draconic Evolution": now requires Brandon's Core
+	*Updated "Greg's Prospecting II": now requires ElecCore
+	*Updated "JurassiCraft": link, authors, now requires LLibrary
+	*Updated "Mo' Zombies": Added source
+	*Updated "Prayers" link
+	+Added "Advanced Inventory": Currently in Beta
+	+Added "Bad Mobs"
+	+Added "Brandon's Core"
+	+Added "ElecCore"
+	+Added "Growthcraft Community Edition"
+	+Added "LAN Host Skin Fix"
+	+Added "LLibrary"
+	+Added "Login Shield"
+	+Added "MovingWorld"
+	+Added "Minecraft IO"
+	+Added "SkinPort"
+	+Added "Warp Drive": Currently in Alpha
+	-Removed "Modular Force Field System" (Calclavia): Download no longer available
+	-Removed "Resonant Induction": Download no longer available
+
 (September/15/2015)
 	*Updated "ControlPack": New link
 	+Added "Ding"
