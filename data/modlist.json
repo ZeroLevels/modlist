@@ -12364,7 +12364,7 @@
 
 "name":"LAN Host Skin Fix",
 "link":"http://minecraft.curseforge.com/mc-mods/229933-lan-host-skin-fix",
-"desc":"Fixes the LAN world host's skin not displaying for all connecting players.",
+"desc":"Fixes an issue where the skin of a LAN world host is not displayed for all connecting players.",
 "author":["Parker8283"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -14015,7 +14015,7 @@
 
 "name":"Minecraft IO",
 "link":"http://minecraft.curseforge.com/mc-mods/234958-minecraft-io",
-"desc":"Allows to host LAN servers without port forwarding.",
+"desc":"Allows hosting of LAN servers without port forwarding.",
 "author":["dmf444"],
 "source":"https://github.com/dmf444/MinecraftIO",
 "type":["Universal"],
@@ -15081,7 +15081,7 @@
 
 "name":"More Deadly Mobs",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287599-gotolink-updates-with-custom-dimensions-support#DeadlyMobs",
-"desc":"Aims to aid player's desire for the fray of combat. With an improved pathfinding algorithm, and added behaviour, the seemingly dumb mobs are now much more intelligent.",
+"desc":"Aims to aid players' desires for the fray of combat. With an improved pathfinding algorithm, and added behaviour, the seemingly dumb mobs are now much more intelligent.",
 "author":["GotoLink"],
 "source":"https://github.com/GotoLink/MoreDeadlyMobs",
 "type":["Universal"],
@@ -15092,7 +15092,7 @@
 
 "name":"More Deadly Mobs",
 "link":"https://www.dropbox.com/sh/8gh30gwevjk1cz0/AADqyhp8L8h5gcoc8Ypi2K0ca/1.8?dl=0",
-"desc":"Aims to aid player's desire for the fray of combat. With an improved pathfinding algorithm, and added behaviour, the seemingly dumb mobs are now much more intelligent.",
+"desc":"Aims to aid players' desires for the fray of combat. With an improved pathfinding algorithm, and added behaviour, the seemingly dumb mobs are now much more intelligent.",
 "author":["GotoLink"],
 "source":"https://github.com/GotoLink/MoreDeadlyMobs",
 "type":["Universal"],
@@ -24855,7 +24855,7 @@
 
 "name":"Warp Drive",
 "link":"http://minecraft.curseforge.com/mc-mods/233565-warpdrive",
-"desc":"Brings Warp Drive and similar Science fiction technologies to the game included but not limited to resource collection, transportation and combat.",
+"desc":"Brings Warp Drives and other Sci-Fi technologies to the game, such as resource collection, transportation, and combat.",
 "author":["LemADEC","TheNumenorean","Cr0s","DarkholmeTenk"],
 "source":"https://github.com/LemADEC/WarpDrive",
 "type":["Universal"],
@@ -24867,7 +24867,7 @@
 "name":"Warp Drive",
 "other":"(Alpha)",
 "link":"http://minecraft.curseforge.com/mc-mods/233565-warpdrive",
-"desc":"Brings Warp Drive and similar Science fiction technologies to the game included but not limited to resource collection, transportation and combat.",
+"desc":"Brings Warp Drives and other Sci-Fi technologies to the game, such as resource collection, transportation, and combat.",
 "author":["LemADEC","TheNumenorean"],
 "source":"https://github.com/LemADEC/WarpDrive",
 "type":["Universal"],
