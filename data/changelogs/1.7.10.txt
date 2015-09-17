@@ -1,3 +1,16 @@
+(September/17/2015)
+	+Added "Build Helper"
+	+Added "ForgeAutoShutdown"
+	+Added "Kwasti Advertising"
+	+Added "Mechalution"
+	+Added "Megamod: Miner Network"
+	+Added "Protocol4"
+	+Added "PvPTime"
+	+Added "Summon Sphere"
+	+Added "The Derpy Shiz Mod"
+	+Added "TurkeyUtil"
+	+Added "TwinTails"
+
 (September/16/2015)
 	*Updated "Deep Resonance": now in Beta, requires ElecCore and McJtyLib
 	*Updated "Draconic Evolution": now requires Brandon's Core

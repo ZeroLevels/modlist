@@ -3428,6 +3428,17 @@
 
 },{
 
+"name":"Build Helper",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2297274-build-helper-v1-0-0-wands-that-help-with-building",
+"desc":"Meant for creative mode only. Adds wands to the game that help with building.",
+"author":["Slymask3"],
+"source":"https://github.com/slymask3/BuildHelper",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Building Box Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287029-1-4-6-forge-building-box-mod-v1-0-1",
 "desc":"",
@@ -9041,6 +9052,17 @@
 
 },{
 
+"name":"ForgeAutoShutdown",
+"link":"http://minecraft.curseforge.com/mc-mods/231774-forgeautoshutdown",
+"desc":"Automatic shutdown of server on daily schedule, or if voted by players, or if server is lagging or stalled",
+"author":["polaris_iv"],
+"source":"https://github.com/Gamealition/ForgeAutoShutdown",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Forge Essentials",
 "link":"http://minecraft.curseforge.com/mc-mods/74735-forge-essentials-74735",
 "desc":"Adds Bukkit-like functionality to Forge such as permissions, extra commands and player logging.",
@@ -12332,6 +12354,16 @@
 
 },{
 
+"name":"Kwasti Advertising",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2243824-kwasti-advertising-v1-0-2",
+"desc":"Adds decorative shop signs.",
+"author":["Kwasti"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Kwasti Bust Monsters",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293398-kwasti-bust-monsters-v1-0-9",
 "desc":"Adds enhanced boss versions of vanilla mobs into the game with extra drops and buffs.",
@@ -13608,6 +13640,16 @@
 
 },{
 
+"name":"Mechalution",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2240966-mechalution-version-7-0-released-08-01-2015",
+"desc":"Adds a large variety of highly customizable mechanics, from runes that can accelerate crop growth to abilities that can do almost anything from damage to teleport.",
+"author":["SimonLuigi"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"MedicCraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288865-1-7-2-forge-universal-mediccraft-bandages-and",
 "desc":"Allows players to create bandages for utility use on and off the battlefield. Herbal remedies provide temporary buffs for dire situations.",
@@ -13635,6 +13677,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Megamod: Miner Network",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2175373-wip-megamod-miner-network-megaman-mod",
+"desc":"Based on the Megaman: Battle Network series, adding mobs, armor, weapons and more.",
+"author":["TmmCrafter"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
 
 },{
 
@@ -15776,6 +15828,16 @@
 
 },{
 
+"name":"Multi-Windmills Mod",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2306631-multi-windmills-mod",
+"desc":"Adds windmills to Minecraft, the basic windmill is craftable and allows you to pump water into buckets.",
+"author":["munchicken"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.2"]
+
+},{
+
 "name":"Multiworld",
 "link":"http://minecraft.curseforge.com/mc-mods/multiworld/",
 "desc":"A Forge Dimension Provider. Gives a choice of different world types, and adds a custom one with a choice of any number of biomes. Allows old saves to be imported as a dimension.",
@@ -16856,6 +16918,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"OP Diamond Items",
+"link":"http://minecraft.curseforge.com/mc-mods/235968-op-diamond-items",
+"desc":"Just like the title says, adds several OP Items, such as armor, tools and weapons.",
+"author":["reddekoppethan"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -18277,6 +18349,17 @@
 
 },{
 
+"name":"Protocol4",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2299203-protocol4-1-0-1-allows-1-7-10-clients-to-connect",
+"desc":"Allows 1.7.10 clients to connect to 1.7.2/4/5 servers.",
+"author":["Killjoy1221"],
+"source":"https://github.com/killjoy1221/Protocol4",
+"type":["Client"],
+"dependencies":["Forge Compatible","LiteLoader"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Psychedelicraft",
 "other":"(Adults Only)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276287-ivorius-mods-structures-dungeons-drugs-statues",
@@ -18309,6 +18392,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"PvPTime",
+"link":"http://minecraft.curseforge.com/mc-mods/227151-pvptime",
+"desc":"Lets you choose what in-game hours you want PvP enabled.",
+"author":["Guichaguri"],
+"source":"https://github.com/Guichaguri/PvPTime-Forge",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -18555,6 +18649,17 @@
 
 },{
 
+"name":"Random Peripherals",
+"link":"https://github.com/RSDuck/RandomPeripherals/wiki",
+"desc":"Adds some Peripherals, without any coherence. Like a block that can be used as an Interface to other blocks.",
+"author":["RSDuck"],
+"source":"https://github.com/RSDuck/RandomPeripherals",
+"type":["Universal"],
+"dependencies":["Forge Required","ComputerCraft","CoFHCore"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Random Things",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5",
 "desc":"Consists of random blocks and items which may interact with other mods, including fluid displays, block teleporters and more.",
@@ -18636,6 +18741,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","DragonAPI","RotaryCraft"],
 "versions":["1.7.10","1.6.4","1.5.2"]
+
+},{
+
+"name":"Real Blocks",
+"link":"http://minecraft.curseforge.com/mc-mods/226305-real-blocks",
+"desc":"Currently adds a block with lava cracks to the world, for a small change in scenery when mining diamonds.",
+"author":["anxcon"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -21500,6 +21615,16 @@
 
 },{
 
+"name":"Summon Sphere",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2298716-summon-sphere-mod-mobs-tools-enchantments",
+"desc":"Adds some mobs, companions, enchantments, tools, and more.",
+"author":["deenkayros"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Suntorch",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287552-1-6-2-forge-jannis234s-mods-uncrafter-playertrans",
 "desc":"Adds 3 new torches that all have the ability to light mobs on fire, each tier bringing something extra.",
@@ -22539,6 +22664,18 @@
 "type":["N/A"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7","1.4.5"]
+
+},{
+
+"name":"The Derpy Shiz Mod",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/226123-the-derpy-shiz-mod",
+"desc":"This mod adds 16 new ores, all with items and decorative blocks, 4 complete tool/armor sets and many useful little gimmicks.",
+"author":["Wuerfel_21"],
+"source":"https://github.com/Wuerfel21/The-Derpy-Shiz-Mod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -23932,6 +24069,17 @@
 
 },{
 
+"name":"TurkeyUtil",
+"link":"http://minecraft.curseforge.com/mc-mods/229347-turkeyutil",
+"desc":"Adds a lot of random (and sometimes helpful) things. Some of these items, blocks, entity, armor and such are named and created around some streamers and or stream groups.",
+"author":["Turkey"],
+"source":"https://github.com/Turkey2349/TurkeyUtil",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Turret Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276277-1-5-2-sp-mp-lan-turret-mod-v3-0-1",
 "desc":"Adds turrets to the game which you can set to kill mobs or support you.",
@@ -23991,6 +24139,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"TwinTails",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2276436-twintails-v1-0-3",
+"desc":"A tribute mod for the anime "Ore, Twintails Ni Narimasu". Adds wearable head gear.",
+"author":["Hea3veN"],
+"source":"https://github.com/hea3ven/TwinTails",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -24436,7 +24595,7 @@
 "author":["gruntpie224"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -25796,7 +25955,7 @@
 
 "name":"ZapFill",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2252655-zapfill-minecraft-vanilla-fill-command-overclocker",
-"desc":"Increases the maximum amount of blocks on the vanilla /fill command to 1048576 blocks.",
+"desc":"Increases the maximum amount of blocks on the vanilla /fill command to 1048576 blocks (2147483647 with ZapFill Extreme version).",
 "author":["Zapper49"],
 "type":["SSP"],
 "dependencies":["Not Forge Compatible","Base Edit"],

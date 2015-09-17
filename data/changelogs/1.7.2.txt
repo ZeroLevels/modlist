@@ -1,3 +1,7 @@
+(September/17/2015)
+	+Added "Megamod: Miner Network"
+	+Added "Multi-Windmills Mod"
+
 (July/31/2015)
 	+Added "Assembly Mod"
 	+Added "Bacteria Mod"

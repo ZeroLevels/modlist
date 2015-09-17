@@ -1,3 +1,12 @@
+(September/17/2015)
+	*Updated "ZapFill": Added extreme version in desc
+	+Added "ForgeAutoShutdown"
+	+Added "OP Diamond Items"
+	+Added "PvPTime"
+	+Added "Random Peripherals"
+	+Added "Real Blocks"
+	+Added "VanillaPlus"
+
 (September/16/2015)
 	*Updated "Ender Zoo": no longer in Beta
 	*Updated "NeoTech": now requires Bookshelf API
