@@ -9054,7 +9054,7 @@
 
 "name":"ForgeAutoShutdown",
 "link":"http://minecraft.curseforge.com/mc-mods/231774-forgeautoshutdown",
-"desc":"Automatic shutdown of server on daily schedule, or if voted by players, or if server is lagging or stalled",
+"desc":"Schedules automatic shutdown of server on daily schedule. Supports player-voted shutdowns and automatic shutdown if the server is hanging.",
 "author":["polaris_iv"],
 "source":"https://github.com/Gamealition/ForgeAutoShutdown",
 "type":["Server"],
@@ -13642,7 +13642,7 @@
 
 "name":"Mechalution",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2240966-mechalution-version-7-0-released-08-01-2015",
-"desc":"Adds a large variety of highly customizable mechanics, from runes that can accelerate crop growth to abilities that can do almost anything from damage to teleport.",
+"desc":"Adds a large variety of highly customizable mechanics, from runes that accelerate crop growth to teleportation abilities.",
 "author":["SimonLuigi"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -24144,7 +24144,7 @@
 
 "name":"TwinTails",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2276436-twintails-v1-0-3",
-"desc":"A tribute mod for the anime "Ore, Twintails Ni Narimasu". Adds wearable head gear.",
+"desc":"A tribute mod for the anime \"Ore, Twintails Ni Narimasu\". Adds wearable head gear.",
 "author":["Hea3veN"],
 "source":"https://github.com/hea3ven/TwinTails",
 "type":["Universal"],
