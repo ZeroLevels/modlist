@@ -1,3 +1,12 @@
+(September/20/2015)
+	+Added "CST7 Weapons"
+	+Added "Heart Crystals"
+	+Added "Lucky Block"
+	+Added "Master Chef"
+	+Added "Mo' Pickaxes"
+	+Added "RWBY Craft"
+	+Added "ServerTools"
+
 (September/17/2015)
 	+Added "Megamod: Miner Network"
 	+Added "Multi-Windmills Mod"

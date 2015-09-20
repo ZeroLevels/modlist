@@ -1,3 +1,19 @@
+(September/20/2015)
+	+Added "Better HUD"
+	+Added "FAMM"
+	+Added "Fancy Fish Mod"
+	+Added "FRSM"
+	+Added "FSMM"
+	+Added "JurassiCraft"
+	+Added "Lapis Pack"
+	+Added "Lucky Block"
+	+Added "Master Chef"
+	+Added "Mo' Pickaxes"
+	+Added "Planttech"
+	+Added "Sandstone Pack"
+	+Added "ServerTools"
+	+Added "Survivor's Pack"
+
 (September/17/2015)
 	*Updated "ZapFill": Added extreme version in desc
 	+Added "ForgeAutoShutdown"

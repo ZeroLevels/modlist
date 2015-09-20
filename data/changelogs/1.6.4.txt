@@ -1,3 +1,11 @@
+(September/20/2015)
+	+Added "Heart Crystals"
+	+Added "Lucky Block"
+	+Added "Mo' Pickaxes"
+	+Added "RWBY Craft"
+	+Added "ServerTools"
+	+Added "Survivor's Pack"
+
 (August/18/2015)
 	+Added "Warp Drive"
 	+Added "Warp Drive Core"

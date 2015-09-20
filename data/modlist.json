@@ -245,6 +245,16 @@
 
 },{
 
+"name":"Advanced Lightsabers",
+"link":"http://www.planetminecraft.com/mod/advanced-lightsaber-mod-15-modloader-needed/",
+"desc":"Adds 18 new Lightsabers into your game.",
+"author":["FiskFille"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Advanced Machines",
 "other":"(AtomicStryker)",
 "link":"http://www.atomicstryker.net/advancedmachines.php",
@@ -2330,6 +2340,16 @@
 
 },{
 
+"name":"Better HUD",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2314863-better-hud-1-3-adds-28-new-customisable-elements",
+"desc":"Adds in 28 new elements to the in-game HUD.",
+"author":["NukeDuck"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Better Item Despawning",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288655-1-6-4-forge-better-item-despawning-1-0-5",
 "desc":"Changes the way items despawn, so that instead of removing an item it is going to be placed down as a block.",
@@ -3591,6 +3611,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Carbonization",
+"link":"http://minecraft.curseforge.com/mc-mods/223574-carbonization",
+"desc":"A fuel-centric technology mod that has a focus on larger scale industry. The mod has a more decentralized and open tech tree, favoring machines that are upgraded instead of replaced.",
+"author":["Malorolam"],
+"source":"https://github.com/Malorolam/Carbonization",
+"type":["Universal"],
+"dependencies":["Forge Required","MalCore"],
+"versions":["1.7.10"]
 
 },{
 
@@ -5453,6 +5484,16 @@
 
 },{
 
+"name":"CST7 Weapons",
+"link":"http://cst7.weebly.com/cst7-weapons.html",
+"desc":"Adds over 20 new weapons and strong tools to Minecraft.",
+"author":["CST7"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2"]
+
+},{
+
 "name":"CT Third Person",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286713-1-4-7-works-in-mp-clientside-tweaks-better-third",
 "desc":"Changes third person view while aiming a bow.",
@@ -5998,6 +6039,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1"]
+
+},{
+
+"name":"Decoration Mega Pack",
+"link":"http://10paksmods.net/decorationmegapack.html",
+"desc":"Adds a large variety of interior and exterior decoration blocks.",
+"author":["10paktimbits"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -8399,6 +8450,17 @@
 
 },{
 
+"name":"FAMM",
+"other":"(Fex's Alphabet & More Mod)",
+"link":"http://minecraft.curseforge.com/mc-mods/232910-famm-fexs-alphabet-more-mod",
+"desc":"Adds blocks with letters, commas, colors, exlamation marks, smiles and more.",
+"author":["FEX__96"],
+"type":["Universal"],
+"dependencies":["Forge Required","FRSM"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Famous 2",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288413-1-5-2-famous2-v2-1-5-55-famous-minecrafters-into",
 "desc":"Adds 54 Famous people as well as items, blocks, weapons, tools, food, bosses, dimensions, and more.",
@@ -8438,6 +8500,17 @@
 "type":["Universal"],
 "dependencies":["Forge Compatible"],
 "versions":["1.6.2","1.5.2","1.5.1","1.5"]
+
+},{
+
+"name":"Fancy Fish Mod",
+"other":"(WIP)",
+"link":"http://fancyfishmod.weebly.com/",
+"desc":"Introduces a number of exotic fish mobs and craftable items including fish food, fish bowls, fish tanks and a fishing net to capture and keep them as pets.",
+"author":["Colin Vella"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -9290,6 +9363,39 @@
 
 },{
 
+"name":"FRSM",
+"other":"(Fex's Random Stuff Mod) (Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/233148-frsm-fexs-random-stuff-mod",
+"desc":"Adds some \"random\" stuff to Minecraft. Like decoration blocks, technical modern stuff, toys and more.",
+"author":["FEX__96","Dimitris5050"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
+"name":"FRSM",
+"other":"(Fex's Random Stuff Mod)",
+"link":"http://minecraft.curseforge.com/mc-mods/233148-frsm-fexs-random-stuff-mod",
+"desc":"Adds some \"random\" stuff to Minecraft. Like decoration blocks, technical modern stuff, toys and more.",
+"author":["FEX__96","Dimitris5050"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"FSMM",
+"other":"(Fex's Small Money Mod)",
+"link":"http://minecraft.curseforge.com/mc-mods/232945-fsmm-fexs-small-money-mod",
+"desc":"Adds money items to Minecraft.",
+"author":["FEX__96"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Full Chests",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/229162-full-chests",
@@ -9841,6 +9947,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Gods' Weapons",
+"link":"http://minecraft.curseforge.com/mc-mods/229157-gods-weapons",
+"desc":"Adds extremely powerful weapons and armor. Each one has special abilities and custom enchantments.",
+"author":["NuclearHex","MrIbby"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -10450,6 +10566,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Heart Crystals",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293095-1-7-x-1-6-4-forge-heart-crystals-mod-increase",
+"desc":"Generates heart crystals underground. When you mine one, you can eat it to gain one heart of maximum health.",
+"author":["NukeDuck"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -11669,6 +11795,16 @@
 
 },{
 
+"name":"Irish Luck",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2426749-irish-luck-more-luck-more-fun",
+"desc":"Adds blocks full of luck (or not) adding to the game random drops/spawns/structures when the block is broken.",
+"author":["MrAmericanMike"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"IronChests",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0",
 "desc":"Adds chests made from different types of metal to the game. Each tier of metal chest can contain more items.",
@@ -12067,6 +12203,17 @@
 },{
 
 "name":"JurassiCraft",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2444641-jurassicraft-bringing-dinosaurs-to-life",
+"desc":"Adds prehistoric creatures, fossils, eggs and more.",
+"author":["JurassiCraft Team"],
+"type":["Universal"],
+"dependencies":["Forge Required","LLibrary"],
+"versions":["1.8"]
+
+},{
+
+"name":"JurassiCraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2444641-jurassicraft-bringing-dinosaurs-to-life",
 "desc":"Adds prehistoric creatures, fossils, eggs and more.",
 "author":["JurassiCraft Team"],
@@ -12444,6 +12591,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.4.7"]
+
+},{
+
+"name":"Lapis Pack",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2400260-lapis-pack-adds-new-lapis-lazuli-tools-and-armor",
+"desc":"Adds new lapis lazuli tools and armor.",
+"author":["xXSuperb0wn3dXx"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -13067,6 +13224,16 @@
 
 },{
 
+"name":"Lucky Block",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block-mod-drops-items-spawns-mobs-structures",
+"desc":"Adds just one block, yet over one hundred possibilities. Just mine the Lucky Block, cross your fingers, and hope it will drop the items you need.",
+"author":["PlayerInDistress"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"LumberJack",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290563-1-6-4-lumberjack-cut-down-trees-in-one-swing",
 "desc":"Allows you to cut down trees by breaking only a single block.",
@@ -13335,6 +13502,18 @@
 
 },{
 
+"name":"MalCore",
+"other":"(Dependency)",
+"link":"http://minecraft.curseforge.com/mc-mods/223573-malcore",
+"desc":"Required dependency for Malorolam's mods. The only item added by the mod is the guidebook.",
+"author":["Malorolam"],
+"source":"https://github.com/Malorolam/MalCore",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"MalisisCore",
 "link":"http://minecraft.curseforge.com/mc-mods/223896-malisiscore",
 "desc":"Required dependency for Ordinastie's mods.",
@@ -13473,6 +13652,16 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Required"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Master Chef",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2346438-master-chef-mod-v4-0-5-0-release",
+"desc":"Adds over 100 more kinds of food and blocks into the game. Plus 8 new crops (strawberries, blueberries, tomatoes, bell peppers, onions, asparaguses, salads & corns).",
+"author":["Kander16"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -14953,6 +15142,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.2"]
+
+},{
+
+"name":"Mo' Pickaxes",
+"link":"http://cst7.weebly.com/mo-pickaxes.html",
+"desc":"Adds a ton of new pickaxes to your Minecraft.",
+"author":["CST7"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17631,16 +17830,6 @@
 
 },{
 
-"name":"Decoration Mega Pack",
-"link":"http://10paksmods.net/decorationmegapack.html",
-"desc":"Adds a large variety of interior and exterior decoration blocks.",
-"author":["10paktimbits"],
-"type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.8"]
-
-},{
-
 "name":"Plant Mega Pack",
 "link":"http://10paksmods.net/plantmegapack.html",
 "desc":"Adds over 460 new plants, with a variety of real plants from around the world.",
@@ -17670,6 +17859,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Planttech",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2522408-planttech-1-0-0",
+"desc":"Adds plants, machines, new trees and more.",
+"author":["Kaneka"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -17721,6 +17920,17 @@
 "type":["Server"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Player-Interface Mod",
+"link":"http://minecraft.curseforge.com/mc-mods/232321-player-interface-mod",
+"desc":"Adds a player interface that allows you to interact with the player's inventory.",
+"author":["Dragon9815"],
+"source":"https://github.com/Dragon9815/PlayerInterfaceMod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18094,6 +18304,30 @@
 "type":["SSP","SMP"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.2"]
+
+},{
+
+"name":"PremiumCore",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/235949-premiumcore",
+"desc":"Adds Steel, Copper, Bronze and Lead ingots, ore blocks and metal blocks, and other code for PremiumCraft, PremiumTech, and PremiumMagic.",
+"author":["BudSkywalker"],
+"source":"https://github.com/BudSkywalker/PremiumCore-V--PCore.0.1.A.0.1",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"PremiumCraft",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/235950-premiumcraft",
+"desc":"Adds Steel, Copper, Bronze and Lead tools and armor.",
+"author":["BudSkywalker"],
+"source":"https://github.com/BudSkywalker/PremiumCraft-V--PCraft.0.1.A.0.1",
+"type":["Universal"],
+"dependencies":["Forge Required","PremiumCore"],
+"versions":["1.7.10"]
 
 },{
 
@@ -18786,6 +19020,16 @@
 
 },{
 
+"name":"RealLan",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286552-1-5-2-reallan-better-lan-servers-more-commands",
+"desc":"Adds more to your lan server. It gives you many necessary commands like /ban,/kick,/whitelist,/op, and all other real Minecraft Server commands.",
+"author":["RealLan"],
+"type":["Client"],
+"dependencies":["Not Forge Compatible"],
+"versions":["1.5.1","1.4.7","1.4.5"]
+
+},{
+
 "name":"Realms of Chaos",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2242853-realms-of-chaos-1-1-1",
 "desc":"A huge adventure mod which adds items, blocks, mobs and dimensions. It currently has 8 new material sets to collect, as well as some new items made of vanilla materials.",
@@ -18797,16 +19041,6 @@
 
 },{
 
-"name":"RealLan",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286552-1-5-2-reallan-better-lan-servers-more-commands",
-"desc":"Adds more to your lan server. It gives you many necessary commands like /ban,/kick,/whitelist,/op, and all other real Minecraft Server commands.",
-"author":["RealLan"],
-"type":["Client"],
-"dependencies":["Not Forge Compatible"],
-"versions":["1.5.1","1.4.7","1.4.5"]
-
-},{
-
 "name":"Real Steel Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288843-1-5-1-real-steel",
 "desc":"Tries to give a scientifically accurate way of creating steel and other metals.",
@@ -18814,6 +19048,16 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Real Time",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2287133-server-side-real-time-make-minecraft-time-run-at",
+"desc":"Syncs ingame time with your system clock.",
+"author":["artman116"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -19654,6 +19898,17 @@
 
 },{
 
+"name":"RWBY Craft",
+"other":"(Red,White,Black,Yellow)",
+"link":"http://www.planetminecraft.com/mod/rwby-craft-forge-multiplayer/",
+"desc":"Adds some powerful weapons based on RWBY (pronounced Ruby), an original western anime-style web series.",
+"author":["Kelco_K22"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"SafeChat",
 "link":"http://minecraft.curseforge.com/mc-mods/227785-safechat",
 "desc":"Blocks inappropriate words from the chat and from usernames.",
@@ -19706,6 +19961,16 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Sandstone Pack",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2400067-sandstone-pack-adds-new-sandstone-tools-and-armor",
+"desc":"Adds new sandstone tools and armor.",
+"author":["xXSuperb0wn3dXx"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -19907,6 +20172,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10","1.7.2"]
+
+},{
+
+"name":"ServerTools",
+"link":"http://minecraft.curseforge.com/mc-mods/64744-forgeservertools",
+"desc":"Adds some useful tools for Minecraft server administrators and your single-player worlds.",
+"author":["matthewprenger","Jenkins_Slave"],
+"source":"https://github.com/MCServerTools",
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -21763,6 +22039,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+
+},{
+
+"name":"Survivor's Pack",
+"link":"http://minecraft.curseforge.com/mc-mods/235943-survivors-pack",
+"desc":"It equips Forged MC with new links between basic rocks and complete full chain of transformation from sand to stone and back.",
+"author":["mAAAdMeister"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.6.4"]
 
 },{
 
@@ -23626,6 +23912,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","KingCore"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Tools Done Right",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2284573-tools-done-right-1-1-4-not-like-your-usual-tools",
+"desc":"Adds new types of tools and ores into the game.",
+"author":["NukeDuck"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -25498,6 +25794,17 @@
 "type":["SSP"],
 "dependencies":["Forge Compatible","ModLoader"],
 "versions":["1.5.2","1.5.1"]
+
+},{
+
+"name":"WorldBorder-Forge",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/233231-worldborder-forge",
+"desc":"Enforces flexible round or square per-dimension borders, with wrap-around, world filling and trimming commands.",
+"author":["polaris_iv"],
+"type":["Server"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
