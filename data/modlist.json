@@ -3973,13 +3973,36 @@
 },{
 
 "name":"Chisel 2",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2254671-chisel-2-2-1-3",
-"desc":"Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
-"author":["asie","CptSpaceToaster","Drullkus","pokefenn","TheCricket26","tterrag1098","warlordjones"],
+"link":"http://minecraft.curseforge.com/mc-mods/225236-chisel-2",
+"desc":"Continuation of Chisel mod. Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
+"author":["CptSpaceToaster","Drullkus","TheCricket26","tterrag1098","warlordjones"],
 "source":"https://github.com/TheCricket/Chisel-2",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
+
+},{
+
+"name":"Chisel: A New Hope",
+"link":"http://minecraft.curseforge.com/mc-mods/235279-chisel",
+"desc":"More advanced fork of Chisel 2. Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
+"author":["Drullkus","tterrag1098","minecreatr"],
+"source":"https://github.com/Chisel-Team/Chisel",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Chisel: A New Hope",
+"other":"(Alpha)",
+"link":"http://minecraft.curseforge.com/mc-mods/235279-chisel",
+"desc":"More advanced fork of Chisel 2. Adds a huge variety of decorative blocks to the game. Useful for people who like to build.",
+"author":["Drullkus","tterrag1098","minecreatr"],
+"source":"https://github.com/Chisel-Team/Chisel",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -7274,6 +7297,17 @@
 
 },{
 
+"name":"Ender IO Addons",
+"link":"http://minecraft.curseforge.com/mc-mods/236203-ender-io-addons",
+"desc":"Adds a couple of new useful machines to Ender IO.",
+"author":["Henry_Loenwind"],
+"source":"https://github.com/HenryLoenwind/EnderIOAddons",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Ender Zoo",
 "link":"http://minecraft.curseforge.com/mc-mods/225247-ender-zoo",
 "desc":"New mobs in keep with 'native' minecraft mobs. Companion to Ender IO.",
@@ -9366,7 +9400,7 @@
 "name":"FRSM",
 "other":"(Fex's Random Stuff Mod) (Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/233148-frsm-fexs-random-stuff-mod",
-"desc":"Adds some \"random\" stuff to Minecraft. Like decoration blocks, technical modern stuff, toys and more.",
+"desc":"Adds some miscellaneous items to Minecraft such as decoration blocks, technical modern stuff, and toys.",
 "author":["FEX__96","Dimitris5050"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9377,7 +9411,7 @@
 "name":"FRSM",
 "other":"(Fex's Random Stuff Mod)",
 "link":"http://minecraft.curseforge.com/mc-mods/233148-frsm-fexs-random-stuff-mod",
-"desc":"Adds some \"random\" stuff to Minecraft. Like decoration blocks, technical modern stuff, toys and more.",
+"desc":"Adds some miscellaneous items to Minecraft such as decoration blocks, technical modern stuff, and toys",
 "author":["FEX__96","Dimitris5050"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -9388,7 +9422,7 @@
 "name":"FSMM",
 "other":"(Fex's Small Money Mod)",
 "link":"http://minecraft.curseforge.com/mc-mods/232945-fsmm-fexs-small-money-mod",
-"desc":"Adds money items to Minecraft.",
+"desc":"Adds currency items such as coins and paper bills.",
 "author":["FEX__96"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -10317,6 +10351,17 @@
 
 },{
 
+"name":"Gun Customization",
+"link":"http://minecraft.curseforge.com/mc-mods/236073-gun-customization",
+"desc":"Adds extremely customizable guns, allowing you to add such things as scopes, barrels, attachments, etc. to them. Also gives you the ability to create custom content packs using easy config files.",
+"author":["LemADEC","mouse961"],
+"source":"https://github.com/LemADEC/GunCus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"GwyCraft",
 "link":"http://minecraft.curseforge.com/mc-mods/77037-gwycraft",
 "desc":"Adds colored and glowing versions of blocks such as stone, planks, and bookcases.",
@@ -10410,6 +10455,17 @@
 "type":["Universal"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"HardLib",
+"link":"http://minecraft.curseforge.com/mc-mods/232071-hardlib",
+"desc":"Required library for Draco18s's Reasonable Realism mods.",
+"author":["Draco18s"],
+"source":"https://github.com/Draco18s/HarderStuff",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -13964,6 +14020,17 @@
 
 },{
 
+"name":"Metallurgy Chisel",
+"link":"http://minecraft.curseforge.com/mc-mods/236311-metallurgychisel",
+"desc":"Adds Chisel variants of Metallurgy metals to the game.",
+"author":["JeanGlassmaker"],
+"source":"https://github.com/TeamMetallurgy/MetallurgyChisel",
+"type":["Universal"],
+"dependencies":["Forge Required","Metallurgy 4","Metallurgy Core","Chisel: A New Hope"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Metallurgy Core",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/78640-metallurgy-core",
@@ -16800,8 +16867,9 @@
 },{
 
 "name":"Not Enough IDs",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2467198-notenoughids-maximum-id-range-exceeded-no-more",
-"desc":"Extends 4096 block ID limit to 31999.",
+"other":"(NEID)",
+"link":"http://minecraft.curseforge.com/mc-mods/235107-notenoughids",
+"desc":"Extends 4096 block ID limit to 31999. Compatible with Optifine and Fastcraft.",
 "author":["fewizz"],
 "source":"https://github.com/fewizz/NotEnoughIDs",
 "type":["Universal"],
@@ -16862,6 +16930,17 @@
 "desc":"Adds NEI integration for world resources like ores and mob drops.",
 "author":["Way2muchnoise","hilburn"],
 "source":"https://github.com/hilburn/NotEnoughResources",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Not Enough Wands",
+"link":"http://minecraft.curseforge.com/mc-mods/235595-not-enough-wands",
+"desc":"Adds various utility wands to the game.",
+"author":["romelo333","McJty"],
+"source":"https://github.com/romelo333/notenoughwands",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10"]
@@ -17278,6 +17357,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"Ore Flowers",
+"link":"http://minecraft.curseforge.com/mc-mods/233472-ore-flowers",
+"desc":"Adds growing unique flowers near concentrations of ores, both during worldgen and when using bonemeal.",
+"author":["Draco18s"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -19022,7 +19111,7 @@
 
 "name":"RealLan",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286552-1-5-2-reallan-better-lan-servers-more-commands",
-"desc":"Adds more to your lan server. It gives you many necessary commands like /ban,/kick,/whitelist,/op, and all other real Minecraft Server commands.",
+"desc":"Adds more to your LAN server. It gives access to commands such as /ban, /kick, /whitelist, /op, and all other commands that would be found on a dedicated server.",
 "author":["RealLan"],
 "type":["Client"],
 "dependencies":["Not Forge Compatible"],
@@ -22002,12 +22091,13 @@
 },{
 
 "name":"Super Massive Tech",
+"other":"(Alpha)",
 "link":"http://minecraft.curseforge.com/mc-mods/224363-super-massive-tech",
 "desc":"Adds blocks and items related with stars and black holes, with waypoints, explosions and gravity armor.",
 "author":["tterrag1098"],
 "source":"https://github.com/tterrag1098/SuperMassiveTech",
 "type":["Universal"],
-"dependencies":["Forge Required"],
+"dependencies":["Forge Required","EnderCore"],
 "versions":["1.7.10","1.7.2"]
 
 },{
@@ -22044,7 +22134,7 @@
 
 "name":"Survivor's Pack",
 "link":"http://minecraft.curseforge.com/mc-mods/235943-survivors-pack",
-"desc":"It equips Forged MC with new links between basic rocks and complete full chain of transformation from sand to stone and back.",
+"desc":"Adds new links between basic rocks, and transformation from sand to stone or vice versa.",
 "author":["mAAAdMeister"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -23891,6 +23981,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.2"]
+
+},{
+
+"name":"Tombenpotter's Icarus",
+"link":"http://minecraft.curseforge.com/mc-mods/235702-tombenpotters-icarus",
+"desc":"Brings a new concept of wings to the game.",
+"author":["Tombenpotter"],
+"source":"https://github.com/Tombenpotter/Icarus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 

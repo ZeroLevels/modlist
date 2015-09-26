@@ -1,4 +1,7 @@
-(September/20/2015)
+(September/23/2015)
+	+Added "Chisel: A New Hope": Currently in Alpha
+
+(September/22/2015)
 	+Added "Better HUD"
 	+Added "FAMM"
 	+Added "Fancy Fish Mod"
