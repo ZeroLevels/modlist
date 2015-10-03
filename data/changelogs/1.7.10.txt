@@ -1,3 +1,36 @@
+(October/03/2015)
+	*Updated "LoaderList": Fixed link
+	+Added "Advanced Warfare": Currently WIP
+	+Added "AgameR Paint Mod"
+	+Added "Builder's Dream"
+	+Added "DarkCore"
+	+Added "Dubstep Gun": Currently in Beta
+	+Added "Gems+"
+	+Added "Horror Pacman Mod"
+	+Added "Lyra's Magnificent Trinkets": Currently in Beta
+	+Added "Matt's Mod Tray": Currently in Beta
+	+Added "MCMB Tools"
+	+Added "MoreVillageBiomes+"
+	+Added "Multidimensional Ores": Currently in Beta
+	+Added "NuclearCraft"
+	+Added "Quirks and Perks"
+	+Added "Screenshot Diary"
+	+Added "Similsax Transtructors"
+	+Added "Tardis Mod"
+	+Added "Think's Lab Minions Mod"
+	+Added "ToastMod"
+	+Added "World Explorer": Currently in Beta
+	+Added "Xtracraft"
+
+(September/26/2015)
+	*Updated "Ding": Client-Side mod
+	+Added "Bones And Stones"
+	+Added "Inventory Pets"
+	+Added "InvWorks"
+	+Added "MineTweaker RecipeMaker"
+	+Added "SciAPI"
+	+Added "Torcherino"
+
 (September/23/2015)
 	*Updated "Super Massive Tech": now in Alpha, requires EnderCore
 	+Added "Ender IO Addons"

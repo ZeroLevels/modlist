@@ -1,3 +1,38 @@
+(October/03/2015)
+	*Updated "LoaderList": Fixed link
+	+Added "BioWarfare"
+	+Added "Builder's Dream"
+	+Added "Command Blocks in Creative Tabs"
+	+Added "Cooking Plus"
+	+Added "Dark Gems Reborn 2"
+	+Added "Definitely Not Seeds"
+	+Added "Fusion" by DonkeyTeeth2013: Currently in Beta
+	+Added "Gears N' Clouds": Currently WIP
+	+Added "Gems+"
+	+Added "Jon's Useless Mod": Currently in Beta
+	+Added "Matt's Mod Tray": Currently in Beta
+	+Added "Minetella 2": Currently WIP
+	+Added "MoreVillageBiomes+"
+	+Added "Paxel Mod" by darksaber0
+	+Added "Similsax Transtructors"
+	+Added "Think's Lab Minions Mod"
+	+Added "ToastMod"
+	+Added "WorldMaker"
+
+(September/26/2015)
+	*Updated "Ding": Client-Side mod
+	+Added "Bones And Stones"
+	+Added "Geographicraft"
+	+Added "Inventory Pets"
+	+Added "InvWorks"
+	+Added "Ore Seeds"
+	+Added "Power Wand"
+	+Added "Replay Mod"
+	+Added "Revolution"
+	+Added "SciAPI"
+	+Added "TbscFPS"
+	+Added "ZenoTechnology"
+
 (September/23/2015)
 	+Added "Chisel: A New Hope": Currently in Alpha
 

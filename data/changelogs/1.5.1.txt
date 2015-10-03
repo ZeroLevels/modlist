@@ -1,3 +1,6 @@
+(October/03/2015)
+	*Updated "Paxel Mod" by Xnet: Renamed
+
 (July/31/2015)
 	+Added "Key and Code Lock"
 

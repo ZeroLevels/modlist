@@ -1,3 +1,9 @@
+(October/03/2015)
+	+Added "Dubstep Gun": Currently in Beta
+	+Added "Gems+
+	+Added "MCMB Tools"
+	+Added "Paxel Mod" by Xnet
+
 (September/22/2015)
 	+Added "Heart Crystals"
 	+Added "Lucky Block"

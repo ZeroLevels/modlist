@@ -1,3 +1,7 @@
+(October/03/2015)
+	*Updated "Paxel Mod" by Xnet: Renamed
+	+Added "Paxel Mod" by darksaber0
+
 (August/18/2015)
 	-Removed "Metal Mechanics": Download no longer available
 
