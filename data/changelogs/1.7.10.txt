@@ -1,4 +1,4 @@
-(October/03/2015)
+(October/14/2015)
 	*Updated "LoaderList": Fixed link
 	+Added "Advanced Warfare": Currently WIP
 	+Added "AgameR Paint Mod"
