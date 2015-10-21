@@ -1,3 +1,14 @@
+(October/21/2015)
+	+Added "ANSSRPG": Currently in Beta
+	+Added "Dragon Shouts"
+	+Added "Elemental Cows Reborn"
+	+Added "Multiplayer Profiles"
+	+Added "Ore Dowsing"
+	+Added "Palaria": Currently in Beta
+	+Added "SniperCraft"
+	+Added "The Little Things"
+	+Added "WorldDownloader"
+
 (October/14/2015)
 	*Updated "LoaderList": Fixed link
 	+Added "BioWarfare"

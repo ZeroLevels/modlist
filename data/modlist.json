@@ -43,6 +43,17 @@
 
 },{
 
+"name":"AbyssalCraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287002-1-7-10-1-7-2-forge-ssp-lan-smp-abyssalcraft-v-1-8",
+"desc":"Adds a new dimension called The Darklands: deserted at day, yet infested with undead creatures at night.",
+"author":["Shinoow"],
+"source":"https://github.com/Shinoow/AbyssalCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
 "name":"ACT",
 "other":"(Admin Commands Toolbox)",
 "link":"http://minecraft.curseforge.com/mc-mods/221584-admin-commands-toolbox",
@@ -54,14 +65,14 @@
 
 },{
 
-"name":"AbyssalCraft",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287002-1-7-10-1-7-2-forge-ssp-lan-smp-abyssalcraft-v-1-8",
-"desc":"Adds a new dimension called The Darklands: deserted at day, yet infested with undead creatures at night.",
-"author":["Shinoow"],
-"source":"https://github.com/Shinoow/AbyssalCraft",
+"name":"Actually Additions",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2374910-actually-additions-a-bunch-of-awesome-gadgets",
+"desc":"Adds machines, wireless transport, coffee, chests, hoppers, leaf blowers, plants and more.",
+"author":["Ellpeck"],
+"source":"https://github.com/Ellpeck/ActuallyAdditions",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
+"versions":["1.7.10"]
 
 },{
 
@@ -911,6 +922,18 @@
 
 },{
 
+"name":"ANSSRPG",
+"other":"(Beta)",
+"link":"http://minecraft.curseforge.com/projects/anssrpg",
+"desc":"Provides players, modpackers and server admins the ability to develop their own unique RPG system with player progression without any programming knowledge needed.",
+"author":["Disconsented","TehNut"],
+"source":"https://github.com/disconsented/ANSSRPG",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Antique Atlas",
 "link":"http://minecraft.curseforge.com/mc-mods/227795-antique-atlas",
 "desc":"Adds an Antique Atlas, an antique-looking map which saves all visited locations for easy browsing. Maps are generated around the player, based on chunk-average biome.",
@@ -1602,6 +1625,28 @@
 "type":["Universal"],
 "dependencies":["Forge Required","Thaumcraft 4"],
 "versions":["1.7.10","1.7.2"]
+
+},{
+
+"name":"Auto Ore Dictionary Converter",
+"link":"http://minecraft.curseforge.com/mc-mods/232650-auto-ore-dictionary-converter",
+"desc":"Automatically converts items to their configured ore dictionary counterparts.",
+"author":["MattDahEpic"],
+"source":"https://github.com/MattDahEpic/AutoOreDictConvert1.7",
+"type":["Universal"],
+"dependencies":["Forge Required","MattDahEpic Core"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"Auto Ore Dictionary Converter",
+"link":"http://minecraft.curseforge.com/mc-mods/232650-auto-ore-dictionary-converter",
+"desc":"Automatically converts items to their configured ore dictionary counterparts.",
+"author":["MattDahEpic"],
+"source":"https://github.com/MattDahEpic/AutoOreDictConvert1.8",
+"type":["Universal"],
+"dependencies":["Forge Required","MattDahEpic Core"],
+"versions":["1.8"]
 
 },{
 
@@ -5581,6 +5626,17 @@
 
 },{
 
+"name":"CsokiCraftUtil",
+"other":"(Dependency)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2498913-redstone-influx-v1-0-by-csokicraft",
+"desc":"Required utility for CsokiCraft's mods such as Redstone Influx.",
+"author":["CsokiCraft"],
+"type":["Universal"],
+"dependencies":["Forge Required","CoFH Core"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"CST7 Weapons",
 "link":"http://cst7.weebly.com/cst7-weapons.html",
 "desc":"Adds over 20 new weapons and strong tools to Minecraft.",
@@ -6696,6 +6752,16 @@
 
 },{
 
+"name":"Dragon Shouts",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2544450-dragon-shouts-mod-the-best-skyrim-experience-in",
+"desc":"Adds 5 dragon shouts from the videogame Skyrim that can be used for fighting and more.",
+"author":["Mika","David"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"Dr. Cyano's Base Metals",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2352456-drcyanos-base-metals",
 "desc":"Adds lots of new metals to the game and also adds a new tool (the crack hammer) that allows to pulverize ores into dust.",
@@ -7097,6 +7163,16 @@
 "type":["SSP"],
 "dependencies":["Not Forge Compatible"],
 "versions":["1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7"]
+
+},{
+
+"name":"Elemental Cows Reborn",
+"link":"http://www.rolikdevelopment.com/mforum/viewtopic.php?f=6&t=25&p=527#p527",
+"desc":"Adds 7 cows in total: 5 elemental and 2 \"special event\" cows. All of these  destructive animals will attack anything except their own kind.",
+"author":["Rolik"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -8162,6 +8238,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Explosives++",
+"link":"http://www.planetminecraft.com/mod/explosives-mod-1710/",
+"desc":"Adds a bunch of explosives. Currently has 18 different TNTs, plus 1 item that will only be used in crafting recipies.",
+"author":["minerguy31"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -9896,6 +9982,18 @@
 
 },{
 
+"name":"Gems are Truly Fabulous and Outrageous",
+"other":"(GTFO)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2537383-gtfo-gems-are-truly-fabulous-and-outrageous",
+"desc":"Adds 9 ores for various gem types that can be found in other mods such as Topaz, Malachite, Quartz, Amber, Diamond and more. Plus tools and armor for each gem type, as well as a gem block. This mod can run in conjunction with other mods or by itself.",
+"author":["Reign_Of_Magic"],
+"source":"https://github.com/Reignofmagic/GTFO",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Gendustry",
 "link":"http://minecraft.curseforge.com/mc-mods/70492-gendustry",
 "desc":"Features upgradable powered apiaries, genetic manipulation, and mutation. Allows construction of new organisms from genetic templates.",
@@ -11020,28 +11118,6 @@
 
 },{
 
-"name":"Auto Ore Dictionary Converter",
-"link":"http://minecraft.curseforge.com/mc-mods/232650-auto-ore-dictionary-converter",
-"desc":"Automatically converts items to their configured ore dictionary counterparts.",
-"author":["MattDahEpic"],
-"source":"https://github.com/MattDahEpic/AutoOreDictConvert1.7",
-"type":["Universal"],
-"dependencies":["Forge Required","MattDahEpic Core"],
-"versions":["1.7.10"]
-
-},{
-
-"name":"Auto Ore Dictionary Converter",
-"link":"http://minecraft.curseforge.com/mc-mods/232650-auto-ore-dictionary-converter",
-"desc":"Automatically converts items to their configured ore dictionary counterparts.",
-"author":["MattDahEpic"],
-"source":"https://github.com/MattDahEpic/AutoOreDictConvert1.8",
-"type":["Universal"],
-"dependencies":["Forge Required","MattDahEpic Core"],
-"versions":["1.8"]
-
-},{
-
 "name":"Hotkey Ore Dictionary Converter",
 "link":"http://minecraft.curseforge.com/mc-mods/227563-hotkey-ore-dictionary-converter",
 "desc":"Allows easy conversion between different types of items in the ore dictionary.",
@@ -11060,6 +11136,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2","1.4.7"]
+
+},{
+
+"name":"How To Train Your Minecraft Dragon",
+"other":"(WIP)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1444480-wip-how-to-train-your-minecraft-dragon-v0-1-1-the",
+"desc":"Adds tamable dragons with many distinguished behaviors, and new items associated with the Dreamworks franchise \"How to Train Your Dragon\" including, but not limited to Inferno (flame sword) and Hiccup's Glide suit.",
+"author":["How To Train Your Minecraft Dragon Team"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -13476,6 +13563,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Love Mod",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2456208-love-mod-ingame-marriage",
+"desc":"Adds the possibility to marry other players with wedding rings. Plus you can right click the ring to teleport you to your husband/wife.",
+"author":["Termynator1993"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -16360,12 +16457,12 @@
 },{
 
 "name":"Multiplayer Profiles",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286535-1-7-10-multiplayer-profiles",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286535-1-8-multiplayer-profiles",
 "desc":"Allows lists of servers to be loaded from a remote source. Players can also create their own lists.",
 "author":["Cory_","jrtc27"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7"]
 
 },{
 
@@ -17646,6 +17743,17 @@
 
 },{
 
+"name":"Ore Dowsing",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2425859-ore-dowsing-mod-dowsing-rods-highlight-nearby-ores",
+"desc":"Adds a new item called Dowsing Rod which helps searching ores and other blocks. When you right-click with a Dowsing Rod it highlights ores around you.",
+"author":["Popsnorkle"],
+"source":"https://github.com/rosche/ore-dowsing",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"OreDupeFix",
 "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8846",
 "desc":"Unifies output of crafting recipes, furnace recipes, dungeon loot, and IC2 machine recipes to a configurable preferred ore from each mod.",
@@ -17835,11 +17943,23 @@
 
 "name":"Palaria",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287343-discontinued-until-further-notice-1-5-2-forge-smp",
-"desc":"Adds a lot of new content to the game, such as weapons, tools, and mobs.",
+"desc":"Adds new mobs, tools, materials, weapons, biomes and more.",
 "author":["Coolgatty"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.5.2"]
+
+},{
+
+"name":"Palaria",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287343-wip-in-development-released-palaria-indev-3-0",
+"desc":"Adds new mobs, tools, materials, weapons, biomes and more.",
+"author":["Coolgatty"],
+"source":"https://github.com/Coolgatty/PalariaMod",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -19447,6 +19567,18 @@
 
 },{
 
+"name":"Realistic Terrain Generation",
+"other":"(RTG) (Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2524489-wip-realistic-terrain-generation-0-0-12",
+"desc":"Adds a new world type which generates realistic terrain. It doesn't add new blocks, mobs or biomes. It simply generates more realistic-looking terrain for existing Overworld biomes (including those added by other mods).",
+"author":["WhichOnesPink"],
+"source":"https://github.com/Team-RTG/Realistic-Terrain-Generation",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Realistic World Gen",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-rwg-owg-bwg4",
 "desc":"Adds a realistic world gen type to the game.",
@@ -19704,6 +19836,16 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4"]
+
+},{
+
+"name":"Redstone Influx",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2498913-redstone-influx-v1-0-by-csokicraft",
+"desc":"Adds a Heat Anomaly Dynamo: generates RF by filling hot and cold reservoirs.",
+"author":["CsokiCraft"],
+"type":["Universal"],
+"dependencies":["Forge Required","CsokiCraftUtil","CoFH Core"],
+"versions":["1.7.10"]
 
 },{
 
@@ -21444,6 +21586,16 @@
 
 },{
 
+"name":"SniperCraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2538265-snipercraft-mobs-blocks-weapons-dimensions-and",
+"desc":"Adds mobs, blocks, items, structures, weapons, dimensions, bosses and more.",
+"author":["10Snipershot"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Snow Mod",
 "link":"http://projectzulu.blogspot.ca/p/other-mods.html",
 "desc":"Adds a custom snow block that, when snowing, will grow. On new World/chunk generation it replaces all vanilla snow with the exception of on leaves and wood with the new snow.",
@@ -21461,6 +21613,17 @@
 "type":["N/A"],
 "dependencies":["N/A"],
 "versions":["1.4.7"]
+
+},{
+
+"name":"Sodacan Utilities",
+"link":"http://minecraft.curseforge.com/projects/sodacan-utilities",
+"desc":"Adds a large variety of utility blocks made of different materials such as torches, ladders, fences, lanterns and more.",
+"author":["TheDoctorSoda"],
+"source":"https://github.com/SodacanHub/SodacanUtilities-1.7",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -23679,6 +23842,16 @@
 "type":["SSP","LAN"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"The Little Things",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2540840-the-little-things",
+"desc":"Adds stairs, slabs, walls, chiseled blocks and pillars for all the major building blocks in Minecraft but still maintain the Vanilla feeling.",
+"author":["Chamiel"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -26375,9 +26548,9 @@
 
 },{
 
-"name":"World Downloader",
+"name":"WorldDownloader",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285484-world-downloader-mod",
-"desc":"Saves active chunks in multiplayer servers so they can be played in single player.",
+"desc":"Allows saving of a multiplayer world on a remote server for singleplayer use. It can be used to backup your creations on a server.",
 "author":["cubic72"],
 "source":"https://github.com/dslake/WorldDownloader",
 "type":["Client"],
@@ -26386,14 +26559,14 @@
 
 },{
 
-"name":"World Downloader",
-"link":"https://github.com/dslake/WorldDownloader/releases",
-"desc":"Saves active chunks in multiplayer servers so they can be played in single player.",
-"author":["cubic72"],
-"source":"https://github.com/dslake/WorldDownloader",
+"name":"WorldDownloader",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2520465-worlddownloader-create-backups-of-your-builds-on",
+"desc":"Allows saving of a multiplayer world on a remote server for singleplayer use. It can be used to backup your creations on a server.",
+"author":["Pokechu22","julaily"],
+"source":"https://github.com/Pokechu22/WorldDownloader",
 "type":["Client"],
-"dependencies":["Not Forge Compatible","Base Edit"],
-"versions":["1.7.10"]
+"dependencies":["Forge Compatible","Base Edit"],
+"versions":["1.8","1.7.10"]
 
 },{
 

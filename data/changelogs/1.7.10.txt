@@ -1,3 +1,16 @@
+(October/21/2015)
+	*Updated "WorldDownloader": New link
+	+Added "Actually Additions"
+	+Added "CsokiCraftUtil"
+	+Added "Explosives++"
+	+Added "How To Train Your Minecraft Dragon": Currently WIP
+	+Added "Love Mod"
+	+Added "Ore Dowsing"
+	+Added "Realistic Terrain Generation": Currently in Alpha
+	+Added "Redstone Influx"
+	+Added "SniperCraft"
+	+Added "Sodacan Utilities"
+
 (October/14/2015)
 	*Updated "LoaderList": Fixed link
 	+Added "Advanced Warfare": Currently WIP
