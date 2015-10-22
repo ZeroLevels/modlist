@@ -925,7 +925,7 @@
 "name":"ANSSRPG",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/projects/anssrpg",
-"desc":"Provides players, modpackers and server admins the ability to develop their own unique RPG system with player progression without any programming knowledge needed.",
+"desc":"Provides players, modpack creators and server admins the ability to develop their own unique RPG system with player progression without any programming knowledge needed.",
 "author":["Disconsented","TehNut"],
 "source":"https://github.com/disconsented/ANSSRPG",
 "type":["Universal"],
@@ -7168,7 +7168,7 @@
 
 "name":"Elemental Cows Reborn",
 "link":"http://www.rolikdevelopment.com/mforum/viewtopic.php?f=6&t=25&p=527#p527",
-"desc":"Adds 7 cows in total: 5 elemental and 2 \"special event\" cows. All of these  destructive animals will attack anything except their own kind.",
+"desc":"Adds 7 cows in total: 5 elemental and 2 \"special event\" cows. All of these destructive animals will attack anything except their own kind.",
 "author":["Rolik"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
