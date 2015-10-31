@@ -1,3 +1,25 @@
+(November/01/2015)
+	*Updated "Admin Weapons": Changed desc
+	*Updated "Custom Main Menu": Removed source
+	*Updated "OreSpawn": Changed desc
+	*Updated "Pixelmon": New link and desc
+	+Added "Arkif's Hoverboard Mod"
+	+Added "AutoRun"
+	+Added "Clonecraft": Currently in Beta
+	+Added "Deeper Caves": Currently in Alpha
+	+Added "Desired Blocks"
+	+Added "EndPlus"
+	+Added "Forge Relocation"
+	+Added "Hacked World Mod"
+	+Added "IC2 Wrench Plugin"
+	+Added "MedicineCraft"
+	+Added "Overpowered Inventory"
+	+Added "Perfect Spawn"
+	+Added "SecurityCraft"
+	+Added "The Camping Mod"
+	+Added "TNT-Rainmaker"
+	+Added "TrashSlot"
+
 (October/22/2015)
 	*Updated "WorldDownloader": New link
 	+Added "Actually Additions"

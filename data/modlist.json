@@ -132,7 +132,7 @@
 
 "name":"Admin Weapons",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2232900-admin-weapons-weapons-for-server-operator",
-"desc":"Adds 11 new weapons for those players who have the rank \"Administrator\" on server.",
+"desc":"Adds new weapons for those players who have the rank \"Administrator\" on the server.",
 "author":["elias54"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -1160,6 +1160,16 @@
 
 },{
 
+"name":"Arkif's Hoverboard Mod",
+"link":"http://www.planetminecraft.com/mod/1710-forge-arkifs-hoverboard-mod-v01/",
+"desc":"Adds futuristic styled hoverboards to Minecraft. Plus new items and blocks to help with the crafting recipes.",
+"author":["Arkif100"],
+"type":["Universal"],
+"dependencies":["Forge Required","Render Player API"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Armor Bar Mod",
 "link":"http://projectzulu.blogspot.ca/p/other-mods.html",
 "desc":"Will Display the current equiped armor and durabilty on different sides of the action bar. Should work with any item you can convince minecraft to place in equipment slots.",
@@ -1650,6 +1660,16 @@
 
 },{
 
+"name":"AutoRun",
+"link":"http://minecraft.curseforge.com/projects/autorun",
+"desc":"Adds the possibility to set a hotkey to auto-sprint.",
+"author":["mysticdrew"],
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"Auto Sapling",
 "link":"http://minecraft.curseforge.com/mc-mods/222415-auto-sapling",
 "desc":"Plants sapling items that are not picked up intead of despawning.",
@@ -1795,16 +1815,6 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10"]
-
-},{
-
-"name":"IC2 Backpack HUD",
-"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8495",
-"desc":"Draws an on-screen HUD that enables you to view armor item durability outside of the player inventory screen. The HUD can be positioned next to the hotbar on either side, or in any corner.",
-"author":["Mineshopper"],
-"type":["Client"],
-"dependencies":["Forge Required","IndustrialCraft 2"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
 
 },{
 
@@ -3567,6 +3577,17 @@
 
 },{
 
+"name":"Building Bricks",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2536211-building-bricks-a-mod-about-building-blocks-and",
+"desc":"Adds missing block types of vanilla materials, for instance smooth stone stairs, smooth stone slabs and more. Plus it adds new block types such as vertical slabs, steps, corners and more items that make building easier and less tedious.",
+"author":["Hea3veN"],
+"source":"https://github.com/hea3ven/BuildingBricks",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
 "name":"BuildRegion",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286349-1-4-5-buildregion-prevent-annoying-misclicks",
 "desc":"",
@@ -4440,6 +4461,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2"]
+
+},{
+
+"name":"Clonecraft",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281105-my-people-clonecraft-v2-0",
+"desc":"Allows cloning of any entity by extracting DNA from their blood and injecting it into an egg, and allows mutations of any clones.",
+"author":["Jamezo97"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
 
 },{
 
@@ -5777,7 +5809,6 @@
 "link":"http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu",
 "desc":"Allows players to modify the main menu using a simple json file.",
 "author":["Lumien"],
-"source":"https://github.com/lumien231/Custom-Main-Menu",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10"]
@@ -6258,6 +6289,18 @@
 
 },{
 
+"name":"Deeper Caves",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2350259-deeper-caves-go-beyond-the-void-alpha-4000",
+"desc":"Creates cave levels lower than the default bedrock level. The levels contain ravines more than 100 blocks deep, vast bedrock-floored caverns, dense ores and more.",
+"author":["Valiec2019"],
+"source":"https://github.com/Valiec/DeeperCaves",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Deep Resonance",
 "other":"(Beta)",
 "link":"http://minecraft.curseforge.com/mc-mods/233398-deep-resonance",
@@ -6416,12 +6459,12 @@
 },{
 
 "name":"Desired Blocks",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284472-1-6-2-ssp-smp-desired-blocks-v-5-1-phobophobe-and",
-"desc":"Adds recipes to craft multiple items into blocks.",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284472-desired-blocks-v-5-4-finally-updated",
+"desc":"Adds new blocks and recipes that aim to make the game more convenient and fun, while keeping the vanilla feel of Minecraft.",
 "author":["Phobophobe"],
-"type":["SSP","SMP"],
+"type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.5.2","1.4.7","1.4.5"]
+"versions":["1.7.10","1.6.2","1.5.2","1.4.7","1.4.5"]
 
 },{
 
@@ -6917,6 +6960,17 @@
 "type":["Client"],
 "dependencies":["Forge Compatible"],
 "versions":["1.5.1","1.5","1.4.7","1.4.5","1.4.2"]
+
+},{
+
+"name":"DV Mod",
+"other":"(Crops Patch)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2546892-dv-mod-crops-patch-first-official-release",
+"desc":"Adds new crops, items and decorational blocks.",
+"author":["PasswordFirefly","AuroraChan"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
 
 },{
 
@@ -7657,6 +7711,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"EndPlus",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292827-endplus-1-6-2-nether-and-end-improvements-1500",
+"desc":"Adds ores, tools, weapons, food, mobs and more to the Nether and the End dimensions. It also adds a villager type, a biome, ores and more to the Overworld.",
+"author":["Valiec2019"],
+"source":"https://github.com/Valiec/EndPlus",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -9432,6 +9497,17 @@
 
 },{
 
+"name":"Forge Relocation",
+"link":"http://minecraft.curseforge.com/projects/forge-relocation",
+"desc":"A powerful library that takes care of all the grunt work of implementing frames and motors. Quickly create blocks to move other blocks with ease, no need to get your hands dirty.",
+"author":["Mr_TJP"],
+"source":"https://github.com/MrTJP/ForgeRelocation",
+"type":["Universal"],
+"dependencies":["Forge Required","MrTJPCore"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Forgotten Nature",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286390-forgotten-nature-mc1-6-2-v1-3-0-major-addition-to",
 "desc":"Adds many nature-related objects and decorations to the game, including new biomes, trees (like fruit trees), woods, flowers, marble, and glass.",
@@ -10627,6 +10703,16 @@
 
 },{
 
+"name":"Hacked World Mod",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2535486-hacked-world-mod",
+"desc":"Adds a bunch of \"hacked\" items into your minecraft world.",
+"author":["SuperHoodieGuy"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10"]
+
+},{
+
 "name":"Hamsterrific Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292592-1-7-2-hamsterrific-v0-2-0-pet-hamsters-for-your",
 "desc":"Adds hamsters. In order to tame the hamsters (which are randomly spawned in your minecraft world) you right click them (or feed them) with seeds. You can also put them on your head by right clicking them with paper and take them along with you in your minecraft journeys!",
@@ -11343,6 +11429,16 @@
 
 },{
 
+"name":"IC2 Backpack HUD",
+"link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=8495",
+"desc":"Draws an on-screen HUD that enables you to view armor item durability outside of the player inventory screen. The HUD can be positioned next to the hotbar on either side, or in any corner.",
+"author":["Mineshopper"],
+"type":["Client"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
+"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.4.7"]
+
+},{
+
 "name":"IC2 Classic",
 "link":"http://forum.industrial-craft.net/index.php?page=Thread&threadID=10313",
 "desc":"Port of the original IndustrialCraft 2 from 1.4.7.",
@@ -11359,6 +11455,16 @@
 "author":["F4113nb34st"],
 "type":["Universal"],
 "dependencies":["Forge Required","IndustrialCraft 2","Turbo"],
+"versions":["1.7.10"]
+
+},{
+
+"name":"IC2 Wrench Plugin",
+"link":"http://minecraft.curseforge.com/projects/ic2-wrench-plugin",
+"desc":"Adds a Wrench Simulator which allows you to use wrenches from other mods on IC2 machines.",
+"author":["Speiger"],
+"type":["Universal"],
+"dependencies":["Forge Required","IndustrialCraft 2"],
 "versions":["1.7.10"]
 
 },{
@@ -14243,6 +14349,16 @@
 
 },{
 
+"name":"MedicineCraft",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292273-minecraft-medicinecraft-1-7-10",
+"desc":"Adds medicines, bandages, pills and more.",
+"author":["SwedenGamers"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.7.10","1.6.4"]
+
+},{
+
 "name":"MegaCraft Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287169-1-4-6-megacraft-mod-ssp-smp-color-all-your-tools",
 "desc":"",
@@ -15773,6 +15889,16 @@
 "desc":"Aims to aid players' desires for the fray of combat. With an improved pathfinding algorithm, and added behaviour, the seemingly dumb mobs are now much more intelligent.",
 "author":["GotoLink"],
 "source":"https://github.com/GotoLink/MoreDeadlyMobs",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8"]
+
+},{
+
+"name":"MoreDimensions Mod",
+"link":"http://minecraft.curseforge.com/projects/moredimensions-mod",
+"desc":"Adds new dimensions and biomes named after different blocks such as the Redstone Dimension or the Wood Biome.",
+"author":["sokratis12GR"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8"]
@@ -17828,7 +17954,7 @@
 
 "name":"OreSpawn",
 "link":"http://www.orespawn.com/",
-"desc":"Adds 30 new mobs, 3 new dimensions, new tools, armors and weapons. Also adds Flying dragons and a Kraken.",
+"desc":"Adds new mobs, dimensions, tools, armors, weapons and more.",
 "author":["TheyCallMeDanger"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -17877,6 +18003,17 @@
 "type":["SSP"],
 "dependencies":["Forge Required"],
 "versions":["1.5.1"]
+
+},{
+
+"name":"Overpowered Inventory",
+"link":"http://minecraft.curseforge.com/projects/overpowered-inventory-375-inventory-slots-and-more",
+"desc":"Expands your inventory space to three different larger sizes, the default "normal" is 15 rows by 25 columns = 375 total slots. Also includes a 3x3 crafting grid.",
+"author":["Lothrazar"],
+"source":"https://github.com/",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 
@@ -18119,6 +18256,17 @@
 
 },{
 
+"name":"Perfect Spawn",
+"link":"http://minecraft.curseforge.com/projects/perfect-spawn",
+"desc":"Allows map makers and server owners to set the exact spawn point of a world. You can also specify the start dimension.",
+"author":["Lumien"],
+"source":"https://github.com/lumien231/Perfect-Spawn",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10","1.7.2"]
+
+},{
+
 "name":"Peripherals++",
 "link":"http://minecraft.curseforge.com/mc-mods/226687-peripherals",
 "desc":"Adds ComputerCraft peripherals such as environmental scanners, smart helmets and speakers.",
@@ -18305,8 +18453,8 @@
 },{
 
 "name":"Pixelmon",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1283824-pixelmon-3-3-5-december-1st-2014",
-"desc":"Adds 204 Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.",
+"link":"http://pixelmonmod.com/",
+"desc":"Adds Pokemon to the world of Minecraft, allowing you to catch, battle, and level up.",
 "author":["epicSplashBattle"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
@@ -18684,6 +18832,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4"]
+
+},{
+
+"name":"Power Advantage API",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2428782-power-advantage-power-systems-mod-and-api-for",
+"desc":"Provides a simple API for adding power systems to Minecraft. Adds some handy item conveyor machines that help you sort items and can transfer items upwards and some machines for collecting, storing, and dispensing liquids. Add-on mods (e.g. Steam Advantage) add additional forms of power.",
+"author":["DrCyano"],
+"source":"https://github.com/cyanobacterium/PowerAdvantageAPI",
+"type":["Universal"],
+"dependencies":["Forge Required","Dr. Cyano's Base Metals"],
+"versions":["1.8"]
 
 },{
 
@@ -20782,9 +20941,10 @@
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291001-v1-7-1-forge-v10-12-2-1145-securitycraft-keypads",
 "desc":"Adds keypads, laser tripwires, unbreakable blocks and more.",
 "author":["Geforce132"],
+"source":"https://github.com/Geforce132/SecurityCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2"]
+"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2"]
 
 },{
 
@@ -23576,7 +23736,7 @@
 "source":"https://github.com/Rikmuld/CampingMod-mcmod",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
+"versions":["1.8","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.4.7"]
 
 },{
 
@@ -24582,6 +24742,17 @@
 
 },{
 
+"name":"TNT-Rainmaker",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2535044-tnt-rainmaker-mod-2-2-1-its-raining-tnt",
+"desc":"Adds a \"/tnt\" command to your Minecraft game, with this command you can create huge clouds of ignited TNT blocks in the sky, directly above the heads of all players.",
+"author":["MickKay"],
+"source":"https://github.com/mickkay/TntRainmaker",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
+
+},{
+
 "name":"ToastCraft",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291440-1-6-2-toastcraft-v1-3-add-breakfast-food-and",
 "desc":"ToastCraft adds breakfast items to Minecraft!",
@@ -24921,6 +25092,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.1","1.4.7"]
+
+},{
+
+"name":"TrashSlot",
+"link":"http://minecraft.curseforge.com/projects/trashslot",
+"desc":"Adds a trash slot in the inventory to delete items that are dropped into it. Plus you can use the Delete key to delete items under the mouse cursor.",
+"author":["BlayTheNinth"],
+"source":"https://github.com/blay09/TrashSlot",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8","1.7.10"]
 
 },{
 

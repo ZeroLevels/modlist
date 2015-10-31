@@ -1,3 +1,19 @@
+(November/01/2015)
+	*Updated "Admin Weapons": Changed desc
+	*Updated "Custom Main Menu": Removed source
+	*Updated "Pixelmon": New link and desc
+	+Added "AutoRun"
+	+Added "Building Bricks"
+	+Added "DV Mod" (Crops Patch)
+	+Added "MoreDimensions Mod"
+	+Added "Overpowered Inventory"
+	+Added "Perfect Spawn"
+	+Added "Power Advantage API"
+	+Added "SecurityCraft"
+	+Added "The Camping Mod"
+	+Added "TNT-Rainmaker"
+	+Added "TrashSlot"
+
 (October/22/2015)
 	+Added "ANSSRPG": Currently in Beta
 	+Added "Dragon Shouts"
