@@ -1,4 +1,4 @@
-(November/01/2015)
+(November/04/2015)
 	*Updated "Admin Weapons": Changed desc
 	*Updated "Custom Main Menu": Removed source
 	*Updated "Pixelmon": New link and desc
@@ -10,6 +10,7 @@
 	+Added "Perfect Spawn"
 	+Added "Power Advantage API"
 	+Added "SecurityCraft"
+	+Added "Thaumcraft 5"
 	+Added "The Camping Mod"
 	+Added "TNT-Rainmaker"
 	+Added "TrashSlot"

@@ -1,4 +1,4 @@
-(November/01/2015)
+(November/04/2015)
 	*Updated "Pixelmon": New link and desc
 	+Added "EndPlus"
 	+Added "Perfect Spawn"
