@@ -18010,7 +18010,7 @@
 "link":"http://minecraft.curseforge.com/projects/overpowered-inventory-375-inventory-slots-and-more",
 "desc":"Expands your inventory space to three different larger sizes, the default \"normal\" is 15 rows by 25 columns = 375 total slots. Also includes a 3x3 crafting grid.",
 "author":["Lothrazar"],
-"source":"https://github.com/",
+"source":"https://github.com/PrinceOfAmber/OverpoweredInventory",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10"]
