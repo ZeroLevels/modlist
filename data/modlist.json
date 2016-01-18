@@ -2059,7 +2059,7 @@
 "source":"https://github.com/Azanor/Baubles",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -2863,7 +2863,7 @@
 "source":"https://github.com/BiomesOPlenty/BiomesOPlenty",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10"]
+"versions":["1.8.9","1.8","1.7.10"]
 
 },{
 
@@ -3054,14 +3054,14 @@
 },{
 
 "name":"Blood Magic",
-"other":"(Alpha)",
+"other":"(Beta)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-3-0b-updated-jan-16",
 "desc":"An arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly.",
 "author":["WayofTime"],
 "source":"https://github.com/WayofTime/BloodMagic",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8.9"]
 
 },{
 
@@ -9429,6 +9429,18 @@
 
 },{
 
+"name":"Forge",
+"other":"(API)",
+"link":"http://files.minecraftforge.net/",
+"desc":"Note: No version for 1.8.9 has been \"recommended\" yet. A powerful, open source API used to develop mods as well as maintain compatibility with other mods for Minecraft.",
+"author":["LexManos"],
+"source":"https://github.com/MinecraftForge/MinecraftForge",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8.9"]
+
+},{
+
 "name":"ForgeAutoShutdown",
 "link":"http://minecraft.curseforge.com/mc-mods/231774-forgeautoshutdown",
 "desc":"Schedules automatic shutdown of server on daily schedule. Supports player-voted shutdowns and automatic shutdown if the server is hanging.",
@@ -11885,7 +11897,7 @@
 "source":"https://github.com/Lunatrius/InGame-Info-XML",
 "type":["Client"],
 "dependencies":["Forge Required","LunatriusCore"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -12259,7 +12271,7 @@
 "source":"https://github.com/progwml6/ironchest",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -13059,7 +13071,7 @@
 "source":"https://github.com/Lunatrius/Laser-Level",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8.9","1.8"]
 
 },{
 
@@ -13711,7 +13723,7 @@
 "source":"https://github.com/Lunatrius/LunatriusCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -14621,7 +14633,7 @@
 "source":"https://github.com/dmillerw/MineMenu",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8.9","1.7.10","1.7.2"]
 
 },{
 
@@ -20836,7 +20848,7 @@
 "source":"https://github.com/Lunatrius/Schematica",
 "type":["Client"],
 "dependencies":["Forge Required","LunatriusCore"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -22276,7 +22288,7 @@
 "source":"https://github.com/Lunatrius/Stackie",
 "type":["Client"],
 "dependencies":["Forge Required","LunatriusCore"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -23314,7 +23326,7 @@
 "author":["Azanor"],
 "type":["Universal"],
 "dependencies":["Forge Required","Baubles"],
-"versions":["1.8"]
+"versions":["1.8.9","1.8"]
 
 },{
 
@@ -26087,7 +26099,7 @@
 
 "name":"Waila",
 "other":"(What Am I Looking At)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1",
+"link":"http://minecraft.curseforge.com/projects/waila",
 "desc":"An extension for NEI. Shows what mod an item is from, allowing you to easily group items per mod. Capable of showing the name of blocks and mods in-game on top of your screen, including internal information of specific blocks from BuildCraft and IndustrialCraft 2.",
 "author":["ProfMobius"],
 "source":"https://bitbucket.org/ProfMobius/waila",
@@ -26099,13 +26111,13 @@
 
 "name":"Waila",
 "other":"(What Am I Looking At)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1",
+"link":"http://minecraft.curseforge.com/projects/waila",
 "desc":"Shows what mod an item is from, allowing you to easily group items per mod. Capable of showing the name of blocks and mods in-game on top of your screen, including internal information of specific blocks from BuildCraft and IndustrialCraft 2.",
 "author":["ProfMobius"],
 "source":"https://bitbucket.org/ProfMobius/waila",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10"]
+"versions":["1.8.9","1.8","1.7.10"]
 
 },{
 
@@ -26174,7 +26186,7 @@
 "source":"https://github.com/Darkhax-Minecraft/WAWLA",
 "type":["Client"],
 "dependencies":["Forge Required","Waila"],
-"versions":["1.7.10"]
+"versions":["1.8.9","1.7.10"]
 
 },{
 
@@ -26774,7 +26786,7 @@
 
 "name":"WorldEdit",
 "other":"(Alpha)",
-"link":"http://minecraft.curseforge.com/mc-mods/225608-worldedit",
+"link":"http://minecraft.curseforge.com/projects/worldedit",
 "desc":"An in-game world editor.",
 "author":["sk89q"],
 "source":"https://github.com/sk89q/WorldEdit",
@@ -26785,13 +26797,13 @@
 },{
 
 "name":"WorldEdit",
-"link":"http://minecraft.curseforge.com/mc-mods/225608-worldedit",
+"link":"http://minecraft.curseforge.com/projects/worldedit",
 "desc":"An in-game world editor.",
 "author":["sk89q"],
 "source":"https://github.com/sk89q/WorldEdit",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10"]
+"versions":["1.8.9","1.8","1.7.10"]
 
 },{
 
