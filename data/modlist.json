@@ -54,6 +54,18 @@
 
 },{
 
+"name":"AbyssalCraft",
+"other":"(Alpha)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287002-1-7-10-1-7-2-forge-ssp-lan-smp-abyssalcraft-v-1-8",
+"desc":"Adds a new dimension called The Darklands: deserted at day, yet infested with undead creatures at night.",
+"author":["Shinoow"],
+"source":"https://github.com/Shinoow/AbyssalCraft",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8.9"]
+
+},{
+
 "name":"ACT",
 "other":"(Admin Commands Toolbox)",
 "link":"http://minecraft.curseforge.com/mc-mods/221584-admin-commands-toolbox",
@@ -1922,7 +1934,7 @@
 "source":"https://github.com/lorddusk/Bagginses",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8.9","1.7.10"]
 
 },{
 
@@ -2494,7 +2506,7 @@
 "author":["Wirsbo"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2"]
+"versions":["1.8.9","1.7.10","1.7.2"]
 
 },{
 
@@ -2583,12 +2595,12 @@
 },{
 
 "name":"Better Sprinting",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285563-better-sprinting-570-000-dls-enhanced-sprinting",
+"link":"http://minecraft.curseforge.com/projects/better-sprinting",
 "desc":"Allows you to bind keys to the vanilla movements such as sprinting, as well as keys to toggle sprint/sneak while also adding new functionality.",
 "author":["chylex"],
 "type":["Client"],
 "dependencies":["Forge Required","Player API"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -3066,13 +3078,13 @@
 },{
 
 "name":"Bloodmoon",
-"link":"http://minecraft.curseforge.com/mc-mods/226321-bloodmoon",
+"link":"http://minecraft.curseforge.com/projects/bloodmoon",
 "desc":"Adds a lunar event called a \"Bloodmoon\", during which more hostile mobs will spawn than usual.",
 "author":["Lumien"],
 "source":"https://github.com/lumien231/Bloodmoon",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8.9","1.8"]
 
 },{
 
@@ -4121,7 +4133,7 @@
 "source":"https://github.com/Chisel-Team/Chisel",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8.9","1.8"]
 
 },{
 
@@ -4975,7 +4987,7 @@
 "author":["dan200"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
+"versions":["1.8.9","1.7.10","1.6.4","1.6.2","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.3.2"]
 
 },{
 
@@ -7160,7 +7172,7 @@
 "source":"https://github.com/blay09/EiraIRC",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4","1.5.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -7656,7 +7668,7 @@
 "author":["ShetiPhian"],
 "type":["Universal"],
 "dependencies":["Forge Required","ShetiPhianCore"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.8.9","1.7.2","1.6.4"]
 
 },{
 
@@ -8895,12 +8907,12 @@
 },{
 
 "name":"Fast Leave Decay",
-"link":"http://minecraft.curseforge.com/mc-mods/225839-fast-leave-decay",
+"link":"http://minecraft.curseforge.com/projects/fast-leaf-decay",
 "desc":"Makes leaves decay much faster than usual at a configurable rate.",
 "author":["Lumien"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8.9","1.8"]
 
 },{
 
@@ -12158,6 +12170,18 @@
 
 },{
 
+"name":"Inventory Tweaks",
+"other":"(Beta)",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25",
+"desc":"Allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will save you a massive amount of time!",
+"author":["Kobata"],
+"source":"https://github.com/Kobata/inventory-tweaks",
+"type":["Client"],
+"dependencies":["Forge Required"],
+"versions":["1.8.9"]
+
+},{
+
 "name":"Invincible Hamster",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276287-ivorius-mods-structures-dungeons-drugs-statues",
 "desc":"Lets hamsters spawn in your world. When you tame them with flowers, they become invincible hamsters, with a never ending hate for iron bars.",
@@ -12527,18 +12551,7 @@
 "author":["techbrew"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4"]
-
-},{
-
-"name":"JourneyMap",
-"other":"(Beta)",
-"link":"http://journeymap.techbrew.net/",
-"desc":"A client mod which maps your Minecraft world in real-time as you explore.  You can view the live map in a web browser, on your iPad, or in-game.  You get a daylight map, a moonlight map, cave maps by vertical slice, Nether maps, and End maps.  A live radar shows nearby mobs, animals, and pets.",
-"author":["techbrew"],
-"type":["Client"],
-"dependencies":["Forge Required"],
-"versions":["1.8"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -13092,7 +13105,7 @@
 "source":"https://github.com/TehNut/LaunchGui",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.6.4"]
+"versions":["1.8.9","1.8","1.7.10","1.6.4"]
 
 },{
 
@@ -13623,12 +13636,12 @@
 },{
 
 "name":"Loot++",
-"link":"http://minecraft.curseforge.com/mc-mods/225880-loot",
+"link":"http://minecraft.curseforge.com/projects/loot",
 "desc":"Allows to customize chest loot among other things.",
 "author":["Tmtravlr"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10"]
+"versions":["1.8.9","1.8","1.7.10"]
 
 },{
 
@@ -15114,14 +15127,14 @@
 
 },{
 
-"name":"MineTunes",
-"link":"http://forum.feed-the-beast.com/threads/minetunes-ingame-mp3-music-player.59123/",
+"name":"mineTunes",
+"link":"http://minecraft.curseforge.com/projects/minetunes",
 "desc":"Adds an in-game MP3 music player.",
 "author":["Vazkii"],
 "source":"https://github.com/Vazkii/MineTunes",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.8.9","1.7.10"]
 
 },{
 
@@ -16430,7 +16443,7 @@
 "source":"https://github.com/Quetzi/Morpheus",
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -17769,7 +17782,7 @@
 "source":"https://github.com/MightyPirates/OpenComputers",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -17856,7 +17869,7 @@
 "author":["sp614x"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -18596,7 +18609,7 @@
 "author":["Divisor"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -18679,7 +18692,7 @@
 "source":"https://github.com/MineMaarten/PneumaticCraft",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.8.9","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -19624,13 +19637,13 @@
 },{
 
 "name":"Random Things",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-random-things-3-5",
 "desc":"Consists of random blocks and items which may interact with other mods, including fluid displays, block teleporters and more.",
 "author":["lumien"],
 "source":"https://github.com/lumien231/Random-Things",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -20046,7 +20059,7 @@
 "author":["FyberOptic"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2"]
 
 },{
 
@@ -21031,7 +21044,7 @@
 "author":["ShetiPhian"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.2","1.6.4"]
+"versions":["1.8.9","1.7.2","1.6.4"]
 
 },{
 
