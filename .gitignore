@@ -7,3 +7,4 @@
 .idea/*
 Vagrantfile
 .vagrant
+.DS_Store
