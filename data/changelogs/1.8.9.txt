@@ -1,3 +1,9 @@
+(March/22/2016)
+	+Added "Adequacy"
+	+Added "Multishot"
+	+Added "TwinTails"
+	+Added "Vein Miner"
+
 (January/20/2015)
 	+Added "AbyssalCraft"
 	+Added "Bagginses"

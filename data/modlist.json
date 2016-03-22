@@ -88,6 +88,17 @@
 
 },{
 
+"name":"Adequacy",
+"link":"https://varden.info/product.php?sid=20",
+"desc":"Adequacy checks if the Java version being used can run the game with the installed mods. If not, it warns the user with a dialog message with instructions to update the Java runtime.",
+"author":["bilde2910"],
+"source":"https://github.com/bilde2910/Adequacy",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2"]
+
+},{
+
 "name":"Additional Buildcraft Objects",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277463-1-6-x-bc4-x-1-0-6-additional-buildcraft-objects",
 "desc":"Provides some additional pipes and objects for Buildcraft.",
@@ -2869,13 +2880,13 @@
 
 "name":"Biomes O' Plenty",
 "other":"(Unstable)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-50-new-biomes-with-new-trees",
 "desc":"A mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place.  There are a lot of realistic biomes, as well as some fantasy biomes.",
 "author":["TDWP_FTW","ted80","Amnet","Adubbz"],
 "source":"https://github.com/BiomesOPlenty/BiomesOPlenty",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8.9","1.8","1.7.10"]
+"versions":["1.9","1.8.9","1.8","1.7.10"]
 
 },{
 
@@ -3066,14 +3077,26 @@
 },{
 
 "name":"Blood Magic",
-"other":"(Beta)",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-3-0b-updated-jan-16",
+"other":"(beta)",
+"link":"http://minecraft.curseforge.com/projects/blood-magic",
 "desc":"An arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly.",
 "author":["WayofTime"],
 "source":"https://github.com/WayofTime/BloodMagic",
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8.9"]
+
+},{
+
+"name":"Blood Magic",
+"other":"(alpha)",
+"link":"http://minecraft.curseforge.com/projects/blood-magic",
+"desc":"An arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly.",
+"author":["WayofTime"],
+"source":"https://github.com/WayofTime/BloodMagic",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.9"]
 
 },{
 
@@ -3214,6 +3237,18 @@
 "type":["Universal"],
 "dependencies":["Forge Required"],
 "versions":["1.8","1.7.10"]
+
+},{
+
+"name":"Bookshelf API",
+"other":"(Dependency) (beta)",
+"link":"http://minecraft.curseforge.com/mc-mods/232784-bookshelf-api-library",
+"desc":"Required library for TeamCoS and TeamBR mods.",
+"author":["Dyonovan","pauljoda"],
+"source":"https://github.com/TeamBR-Modding/Bookshelf",
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.9"]
 
 },{
 
@@ -3953,7 +3988,7 @@
 "source":"https://code.varden.info/repo/ChatLog-Forge/",
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4"]
+"versions":["1.9","1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -8074,6 +8109,18 @@
 
 },{
 
+"name":"NeoTech",
+"other":"(beta) (Formerly JATM)",
+"link":"http://minecraft.curseforge.com/mc-mods/228643-neotech",
+"desc":"A RF tech mod adding generators, tanks, cables and more.",
+"author":["Dyonovan","pauljoda"],
+"source":"https://github.com/TeamBR-Modding/NeoTech",
+"type":["Universal"],
+"dependencies":["Forge Required","Bookshelf API"],
+"versions":["1.9"]
+
+},{
+
 "name":"Nevermine 2",
 "other":"(Advent of Ascension)",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286381-advent-of-ascension-16-new-dimensions-250-mobs",
@@ -9437,7 +9484,7 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5","1.4.7","1.4.5","1.4.2","1.3.2"]
 
 },{
 
@@ -9449,7 +9496,7 @@
 "source":"https://github.com/MinecraftForge/MinecraftForge",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8.9"]
+"versions":["1.9"]
 
 },{
 
@@ -12551,7 +12598,7 @@
 "author":["techbrew"],
 "type":["Client"],
 "dependencies":["Forge Required"],
-"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
@@ -14646,7 +14693,7 @@
 "source":"https://github.com/dmillerw/MineMenu",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8.9","1.7.10","1.7.2"]
+"versions":["1.9","1.8.9","1.7.10","1.7.2"]
 
 },{
 
@@ -16443,7 +16490,7 @@
 "source":"https://github.com/Quetzi/Morpheus",
 "type":["Server"],
 "dependencies":["Forge Required"],
-"versions":["1.8.9","1.8","1.7.10","1.7.2"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -16618,13 +16665,13 @@
 },{
 
 "name":"Multishot",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294575-1-7-10-multishot-v3-1-0-a6-automatic-screenshots",
+"link":"http://minecraft.curseforge.com/projects/multishot",
 "desc":"A tool for making timelapses or taking automatic screenshots, with different motion modes and zoom functionality.",
 "author":["masa_fi"],
 "source":"http://github.com/maruohon/multishot",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4","1.5.2"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.5.2"]
 
 },{
 
@@ -19405,6 +19452,17 @@
 
 },{
 
+"name":"Quark",
+"other":"(beta)",
+"link":"http://minecraft.curseforge.com/projects/quark",
+"desc":"A modular mod aimed at improving the gameplay experience, Quark consists of features that Vazkii would add if hired at Mojang. It adds new building blocks, planting seeds with dispensers, obsidian pressure plates which only detect players, and other miscellaneous tweaks that can be enabled and disabled.",
+"author":["Vazkii"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.9"]
+
+},{
+
 "name":"QuarryPlus",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288467-active-1-7-10-ssp-smp-forge-yogpstops-mods",
 "desc":"Implements add-ons and improvements to BuildCraft quarries, such as pumps, enchantments, and increased maximum areas.",
@@ -19637,13 +19695,13 @@
 },{
 
 "name":"Random Things",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-random-things-3-5",
+"link":"http://mods.curse.com/mc-mods/minecraft/random-things",
 "desc":"Consists of random blocks and items which may interact with other mods, including fluid displays, block teleporters and more.",
 "author":["lumien"],
 "source":"https://github.com/lumien231/Random-Things",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -25392,7 +25450,7 @@
 "source":"https://github.com/hea3ven/TwinTails",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.7.10"]
+"versions":["1.9","1.8.9","1.7.10"]
 
 },{
 
@@ -25892,7 +25950,7 @@
 "source":"https://github.com/portablejim/VeinMiner",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.6.4","1.6.2","1.6.1","1.5.2","1.5.1","1.5"]
 
 },{
 
@@ -26931,7 +26989,7 @@
 "author":["Xaero96"],
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8","1.7.10"]
+"versions":["1.9","1.8.9","1.8","1.7.10"]
 
 },{
 

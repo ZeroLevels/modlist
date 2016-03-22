@@ -1,3 +1,6 @@
+(March/22/2016)
+	+Added "Adequacy"
+
 (November/04/2015)
 	*Updated "Pixelmon": New link and desc
 	+Added "EndPlus"
