@@ -230,7 +230,7 @@ $klein->respond('GET', '/version/[*:version]', function ($request, $response, $s
  */
 $klein->respond('GET', '/random', function($request, $response, $service, $app) {
     //TODO: Use configurable json from panel
-    $supported = ['1.8.9','1.8','1.7.10'];
+    $supported = ['1.9','1.8.9','1.8','1.7.10'];
     $random = array();
     $version_redirect = '';
     $modlist = json_decode(file_get_contents('data/modlist.json'), true);
