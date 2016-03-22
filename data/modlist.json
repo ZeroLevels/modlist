@@ -24579,6 +24579,16 @@
 
 },{
 
+"name":"TheXnator's Furniture Mod",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2630317-thexnators-furniture-mod-v1-1",
+"desc":"Adds a lot of furniture items, such as chairs, sofas, coffee tables, desks and shelves.",
+"author":["TheXnator"],
+"type":["Universal"],
+"dependencies":["Forge Required"],
+"versions":["1.8.9"]
+
+},{
+
 "name":"Think's Lab Minions Mod",
 "link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2471179-minions-thinks-lab-thinknoodles-mod-despicable-me",
 "desc":"Adds 4 different Minions from the movie Despicable Me and a Golden Retriever.",

@@ -1,6 +1,7 @@
 (March/22/2016)
 	+Added "Adequacy"
 	+Added "Multishot"
+	+Added "TheXnator's Furniture Mod"
 	+Added "TwinTails"
 	+Added "Vein Miner"
 
