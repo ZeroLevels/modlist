@@ -16527,13 +16527,13 @@
 },{
 
 "name":"Mouse Tweaks",
-"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286379-1-7-10-ssp-smp-mouse-tweaks-2-4-4",
+"link":"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286379-mouse-tweaks-2-6-2",
 "desc":"Implements an improved inventory management system with mouse holding and dragging.",
 "author":["YaLTeR97"],
 "source":"https://bitbucket.org/YaLTeR/mouse-tweaks/overview",
 "type":["Client"],
 "dependencies":["Forge Compatible","LiteLoader"],
-"versions":["1.8","1.7.10","1.7.2","1.6.4"]
+"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4"]
 
 },{
 
