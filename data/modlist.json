@@ -11956,7 +11956,7 @@
 "source":"https://github.com/Lunatrius/InGame-Info-XML",
 "type":["Client"],
 "dependencies":["Forge Required","LunatriusCore"],
-"versions":["1.8.9","1.8","1.7.10","1.7.2"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
