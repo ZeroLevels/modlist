@@ -17916,7 +17916,7 @@
 "author":["sp614x"],
 "type":["Client"],
 "dependencies":["Forge Compatible"],
-"versions":["1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2","1.6.4","1.6.2","1.5.2","1.5","1.4.7","1.4.5","1.4.2"]
 
 },{
 
@@ -26851,7 +26851,7 @@
 "source":"https://github.com/Pokechu22/WorldDownloader",
 "type":["Client"],
 "dependencies":["Forge Compatible","Base Edit"],
-"versions":["1.8","1.7.10"]
+"versions":["1.9","1.8.9","1.8","1.7.10"]
 
 },{
 
