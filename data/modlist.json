@@ -13130,8 +13130,8 @@
 "author":["Lunatrius"],
 "source":"https://github.com/Lunatrius/Laser-Level",
 "type":["Universal"],
-"dependencies":["Forge Required"],
-"versions":["1.8.9","1.8"]
+"dependencies":["Forge Required","LunatriusCore"],
+"versions":["1.9","1.8.9","1.8"]
 
 },{
 
@@ -13783,7 +13783,7 @@
 "source":"https://github.com/Lunatrius/LunatriusCore",
 "type":["Universal"],
 "dependencies":["Forge Required"],
-"versions":["1.8.9","1.8","1.7.10","1.7.2"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -22359,7 +22359,7 @@
 "source":"https://github.com/Lunatrius/Stackie",
 "type":["Client"],
 "dependencies":["Forge Required","LunatriusCore"],
-"versions":["1.8.9","1.8","1.7.10","1.7.2"]
+"versions":["1.9","1.8.9","1.8","1.7.10","1.7.2"]
 
 },{
 
@@ -25082,6 +25082,17 @@
 "type":["Universal"],
 "dependencies":["Forge Required","SpaceCore"],
 "versions":["1.7.2","1.6.4","1.6.2","1.5.2"]
+
+},{
+
+"name":"Tracer",
+"link":"https://mods.io/mods/1168-tracer",
+"desc":"Allows tracking of entity movement (excluding players), useful for debugging various contraptions, such as TNT cannons and falling sand entities.",
+"author":["Lunatrius"],
+"source":"https://github.com/Lunatrius/Tracer",
+"type":["Universal"],
+"dependencies":["Forge Required","LunatriusCore"],
+"versions":["1.9","1.8.9"]
 
 },{
 

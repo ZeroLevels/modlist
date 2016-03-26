@@ -1,5 +1,9 @@
 (March/26/2016)
+	+Added "Laser Level"
+	+Added "LunatriusCore"
 	+Added "Optifine"
+	+Added "Stackie"
+	+Added "Tracer"
 	+Added "WorldDownloader"
 
 (March/22/2016)
